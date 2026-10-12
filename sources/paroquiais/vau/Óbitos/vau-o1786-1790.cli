@@ -1,0 +1,323 @@
+kleio$gacto.str/prefix=vau
+   fonte$obitos1786-1790/localizacao-a.d.l./freguesia de nossa senhora da piedade, vau
+
+      obito$o1786-1/8/2/1786/fl.50/francisco jose rodrigues da costa (padre)
+
+         n$alexandre dos santos/m/id=o1786-1-per1
+            ls$residencia/casal das arroteias
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 2
+
+         oficios$12 missas por suas obrigacoes e 20 ou 30 por sua alma
+
+         mulher$joana maria/id=o1786-1-per2
+            ls$morta/antes
+
+      obito$o1786-2/17/3/1786/fl.50/francisco jose rodrigues da costa (padre)
+
+         n$francisca maria/f/id=o1786-2-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 3
+
+         sacr$sim
+
+         marido$bernardo francisco/id=o1786-2-per2
+            ls$morto/antes
+
+      obito$o1786-3/30/6/1786/fl.50/francisco jose rodrigues da costa (padre)
+
+         n$eugenia maria/f/id=o1786-3-per1
+            ls$residencia/casal da lapinha
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 6
+
+         marido$manuel martins/id=o1786-3-per2
+            ls$residencia/casal da lapinha
+
+      obito$o1786-4/16/8/1786/fl.50v./francisco jose rodrigues da costa (padre)
+
+         n$manuel martins/m/id=o1786-4-per1
+            ls$ec/v
+            ls$residencia/casal da lapinha
+
+         sacr$sim/obs=confissao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 7
+
+         mulher$eugenia maria/id=o1786-4-per2
+            ls$morta/antes
+            ls$residencia/casal da lapinha
+
+      obito$o1786-5/20/8/1786/fl.50v./francisco jose rodrigues da costa (padre)
+
+         n$margarida/f/id=o1786-5-per1
+            ls$residencia/casal da lapinha, freguesia de nossa senhora da piedade do vau
+
+         sacr$sim/obs=confissao, comunhao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 8
+
+         pai$manuel martins/id=o1786-5-per2
+            ls$morto/antes
+            ls$residencia/casal da lapinha
+
+         mae$eugenia maria/id=o1786-5-per3
+            ls$morta/antes
+            ls$residencia/casal da lapinha
+
+      obito$o1786-6/28/8/1786/fl.50v./francisco jose rodrigues da costa (padre)
+
+         n$isabel margarida/f/id=o1786-6-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 9
+
+         marido$antonio pedro/id=o1786-6-per2
+            ls$morto/antes
+
+      obito$o1786-7/3/10/1786/fl.50v./francisco jose rodrigues da costa (padre)
+
+         n$nicolau/m/id=o1786-7-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=inocente, do hospital real
+
+            pai$nome desconhecido/id=o1786-7-n-per1
+
+            mae$nome desconhecido/id=o1786-7-n-per2
+
+            referida$ana joaquina/id=o1786-7-referida
+               rel$sociabilidade/ama/nicolau/o1786-7-n
+
+            referido$antonio henriques/id=o1786-7-n-per3
+               rel$parentesco/marido/ana joaquina/o1786-7-referida
+
+      obito$o1786-8/31/10/1786/fl.50v./francisco jose rodrigues da costa (padre)
+
+         n$tiago/m/id=o1786-8-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=inocente, do hospital real
+
+            pai$nome desconhecido/id=o1786-8-n-per1
+
+            mae$nome desconhecido/id=o1786-8-n-per2
+
+            referida$maria dos santos/id=o1786-8-referida
+               rel$sociabilidade/ama/tiago/o1786-8-n
+
+            referido$jose martins/id=o1786-8-n-per3
+               rel$parentesco/marido/maria dos santos/o1786-8-referida
+
+      obito$o1787-1/24/2/1787/fl.50v./francisco jose rodrigues da costa (padre)
+
+         n$quiteria rosa/f/id=o1787-1-per1
+            ls$naturalidade/vau
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 10
+
+         oficios$21 missas por sua "tenção"
+
+         marido$gregorio soares/id=o1787-1-per2
+
+      obito$o1787-2/16/4/1787/fl.51/francisco jose rodrigues da costa (padre)
+
+         n$pascoal lopes/m/id=o1787-2-per1
+            ls$residencia/casal da ferraria
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 11
+
+         mulher$maria francisca/id=o1787-2-per2
+            ls$residencia/casal da ferraria
+
+      obito$o1787-3/16/5/1787/fl.51/francisco jose rodrigues da costa (padre)
+
+         n$sebastiao/m/id=o1787-3-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim
+
+         locs$dentro da igreja de nossa senhora da piedade, na sepultura 1 dos meninos
+
+         pai$nome desconhecido/id=o1787-3-per1
+
+         mae$nome desconhecido/id=o1787-3-per2
+
+         referida$catarina maria/id=o1787-3-referida
+            rel$sociabilidade/ama/sebastiao/o1787-3-n
+
+         referido$antonio da silva/id=o1787-3-per3
+            rel$parentesco/marido/catarina maria/o1787-3-referida
+
+      obito$o1787-4/21/8/1787/fl.51/francisco jose rodrigues da costa (padre)
+
+         n$maria/f/id=o1787-4-per1
+            ls$idade_aprox/menor/obs=inocente
+
+            pai$jose monteiro/id=o1787-4-per1-per2
+
+            mae$maria da assuncao/id=o1787-4-per1-per3
+
+      obito$o1787-5/22/8/1787/fl.51/francisco jose rodrigues da costa (padre)
+
+         n$maria franca/f/id=o1787-5-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$nao/obs=achou-se morta na cama
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 12
+
+         marido$jose soares/id=o1787-5-per2
+            ls$morto/antes
+
+      obito$o1787-6/13/9/1787/fl.51v./francisco jose rodrigues da costa (padre)
+
+         n$francisco/m/id=o1787-6-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 13
+
+         oficios$sim/obs=deixou tudo o que tinha para missas por sua alma e de seus pais
+
+         pai$manuel jorge/id=o1787-6-per2
+            ls$morto/antes
+
+         mae$maria nunes/id=o1787-6-per3
+            ls$morta/antes
+
+      obito$o1787-7/27/12/1787/fl.51v./francisco jose rodrigues da costa (padre)
+
+         n$mariana rosa/f/id=o1787-7-per1
+            ls$residencia/freguesia de nossa senhora da piedade
+            ls$naturalidade/quinta das figueiras
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 14
+
+         marido$luis antonio periera/id=o1787-7-per2
+
+      obito$o1788-1/20/4/1788/fl.51v./francisco jose rodrigues da costa (padre)
+
+         n$pascoa maria/f/id=o1788-1-per1
+            ls$residencia/freguesia de nossa senhora da piedade
+            ls$loccasamento/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 15
+
+         marido$jose soares/id=o1788-1-per2
+
+      obito$o1788-2/23/5/1788/fl.51v./francisco jose rodrigues da costa (padre)
+
+         n$joaquina maria/f/id=o1788-2-per1
+            ls$naturalidade/peniche
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 16
+
+         locf$casal da cabana, onde tinha ido em romaria a senhora do bom sucesso
+
+         causa$enfermidade repentina que lhe tirou a fala
+
+         marido$alexandre martins/id=o1788-2-per2
+
+      obito$o1788-3/12/12/1788/fl.52/francisco jose rodrigues da costa (padre)
+
+         n$josefa maria/f/id=o1788-3-per1
+            ls$residencia/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao, comunhao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 17
+
+         marido$felix henriques/id=o1788-3-per2
+
+      obito$o1789-1/4/3/1789/fl.52/francisco jose rodrigues da costa (padre)
+
+         n$antonio martins/m/id=o1789-1-per1
+            ls$ec/v
+            ls$profissao/criado
+            ls$naturalidade/freguesia de nossa senhora da piedade
+            rel$profissional/criado/jose gomes/o1789-1-referido
+
+         sacr$sim/obs=extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultado no corredor%cor.dor
+
+         mulher$antonia da conceicao/id=o1789-1-per2
+            ls$morta/antes
+
+         referido$jose gomes%joze g.os/id=o1789-1-referido
+            ls$residencia/quinta da luz
+
+      obito$o1789-2/5/5/1789/fl.52/francisco jose rodrigues da costa (padre)
+
+         n$joana teresa/f/id=o1789-2-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 18
+
+         marido$antonio luis/id=o1789-2-per2
+            ls$morto/antes
+
+      obito$o1789-3/16/6/1789/fl.52/francisco jose rodrigues da costa (padre)
+
+         n$francisco martins/m/id=o1789-3-per1
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 19
+
+         oficios$20 missas por sua alma e de duas mulheres que teve.
+
+         mulher$ana joaquina/obs=primeira mulher de francisco martins/id=o1789-3-per2
+            ls$morta/antes
+
+         mulher$nome desconhecido/obs=segunda mulher de francisco martins/id=o1789-3-per3
+
+      obito$o1789-4/30/12/1789/fl.52v./francisco jose rodrigues da costa (padre)
+
+         n$bento das neves madail/m/id=o1789-4-per1
+            ls$cargo/capitao
+            ls$residencia/casal do ameal/obs=vivia no seu proprio casal
+
+         sacr$sim/obs=recebeu o sacramento da extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 20
+
+         mulher$paula maria/id=o1789-4-per2
+            ls$residencia/casal do ameal
+
+      obito$o1790-1/26/12/1790/fl.52v./francisco jose rodrigues da costa (padre)
+
+         n$maria dos santos/f/id=o1790-1-per1
+            ls$ec/v
+
+         sacr$nao/obs=morreu de repente, sem receber os sacramentos
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 21
+
+         marido$sebastiao luis/id=o1790-1-per2
+            ls$morto/antes

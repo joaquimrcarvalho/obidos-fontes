@@ -1,0 +1,804 @@
+kleio$gacto.str/prefix=stiago
+   fonte$baptismos 1764-1766/localizacao-a.d.l./freguesia de sao tiago de obidos
+
+      bap$b1764-1/5/1/1764/fl.2./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1764-1-per1
+            ls$enjeitada/sim/obs=refere ter sido achada em obidos a porta de maria inacia viuva de joao gomes a quatro de janeiro de 1764
+
+         pn$nome desconhecido/id=b1764-1-per2
+
+         mn$nome desconhecido/id=b1764-1-per3
+
+         pad$alexandre caetano de avelar/id=b1764-1-per4
+
+         referida$maria inacia/id=b1764-1-inacia/obs=achou a criança a sua porta
+            ls$ec/v
+            ls$residencia/obidos
+
+         referido$joao gomes/id=b1764-1-per5
+            ls$morto/antes
+            rel$parentesco/marido/maria inacia/b1764-1-inacia
+
+      bap$b1764-2/9/1/1764/fl.2v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1764-2-per1
+            ls$enjeitado/sim
+
+         pn$nome desconhecido/id=b1764-2-per2
+
+         mn$nome desconhecido/id=b1764-2-per3
+
+         pad$jose leal/id=b1764-2-per4
+            ls$profissao/oficial de ferreiro
+            ls$cargo/procurador do concelho
+
+         mad$maria josefa/id=b1764-2-per5
+            ls$profissao/criada
+            ls$residencia/obidos
+            rel$profissional/criada/isidoro coelho de sampaio/b1764-2-pedro
+
+         referido$isidoro coelho de sampaio/id=b1764-2-pedro
+            ls$titulo/doutor
+            ls$cargo/promotor
+            ls$residencia/obidos
+
+      bap$b1764-3/18/1/1764/fl.2v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1764-3-per1
+            ls$enjeitado/sim
+
+         pn$nome desconhecido/id=b1764-3-per2
+
+         mn$nome desconhecido/id=b1764-3-per3
+
+         pad$jose leal/id=b1764-3-per4
+            ls$profissao/oficial de ferreiro
+            ls$cargo/procurador do concelho
+            ls$residencia/cerca de obidos
+
+      bap$b1764-4/20/1/1764/fl.3./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$sebastiao/m/id=b1764-4-per1
+            ls$enjeitado/sim
+
+         pn$nome desconhecido/id=b1764-4-per2
+
+         mn$nome desconhecido/id=b1764-4-per3
+
+         pad$jose leal/id=b1764-4-per4
+            ls$profissao/oficial de ferreiro
+            ls$cargo/procurador do concelho
+            ls$residencia/cerca de obidos
+
+         mad$maria josefa/id=b1764-4-per5
+            ls$profissao/criada
+            ls$residencia/obidos
+            rel$profissional/criada/isidoro coelho de sampaio/b1764-2-pedro
+
+         referido$isidoro coelho de sampaio/mesmo_que=b1764-2-pedro/id=b1764-4-per6
+            ls$titulo/doutor
+            ls$cargo/promotor
+            ls$residencia/obidos
+
+      bap$b1764-5/12/2/1764/fl.3v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1764-5-per1
+
+         pn$manuel dos santos/id=b1764-5-per2
+            ls$residencia/barroca
+
+         mn$doroteia maria/id=b1764-5-per3
+
+         pad$valeriano leal/id=b1764-5-pad
+            ls$residencia/casais da barougueira
+
+         mad$maria teresa/id=b1764-5-per4
+            ls$residencia/casais da barougueira
+
+         mrmad$valeriano leal/mesmo_que=b1764-5-pad/id=b1764-5-per5
+
+      bap$b1764-6/29/2/1764/fl.3v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$gertrudes/f/id=b1764-6-per1
+
+         pn$tome frasao/id=b1764-6-per2
+            ls$residencia/obidos
+
+         mn$madalena maria/id=b1764-6-per3
+
+         pad$miguel franco barbudo e brito/id=b1764-6-pad
+            ls$residencia/lourinha
+
+         mad$maria justina vieira de almada/id=b1764-6-per4
+            ls$residencia/lourinha
+            rel$parentesco/irma/miguel franco barbudo e brito/b1764-6-pad
+
+         procurador-pad$manuel soares henriques/id=b1764-6-per5
+            ls$residencia/obidos
+
+         procurador-mad$bras antunes correia/obs=duvida na leitura do apelido geira/id=b1764-6-per6
+            ls$profissao/padre
+            ls$cargo/prior da igreja de sao joao de obidos
+
+      bap$b1764-7/4/3/1764/fl.4./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1764-7-per1
+
+         pn$valeriano leal/id=b1764-7-per2
+            ls$residencia/casais da barougueira
+
+         mn$maria teresa/id=b1764-7-per3
+
+         pad$manuel dos santos/id=b1764-7-per4
+            ls$alcunha/o moco
+            ls$residencia/quinta da barroca
+
+         mad$teresa maria/id=b1764-7-per5
+
+         pmad$francisca maria/id=b1764-7-per6
+            ls$residencia/casais da barougueira
+
+      bap$b1764-8/8/4/1764/fl.4v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1764-8-per1
+
+         pn$jose leal/id=b1764-8-per2
+            ls$residencia/tras do outeiro
+
+         mn$ana maria/id=b1764-8-per3
+
+         pad$manuel jorge/id=b1764-8-per4
+            ls$residencia/tras do outeiro
+
+         mad$armandina maria/id=b1764-8-per5
+            ls$residencia/tras do outeiro
+
+      bap$b1764-9/17/4/1764/fl.5./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$francisca/f/id=b1764-9-per1
+
+         pn$francisco de faria/id=b1764-9-per2
+            ls$residencia/casal do outeiro
+
+         mn$catarina teresa/id=b1764-9-per3
+
+         pad$jeronimo joaquim de faria/id=b1764-9-per4
+            ls$residencia/obidos
+
+      bap$b1764-10/6/6/1764/fl.5./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$joaquim/m/id=b1764-10-per1
+
+         pn$antonio henriques/id=b1764-10-per2
+            ls$residencia/casal do negrelho
+
+         mn$maria teodora/id=b1764-10-per3
+
+         pad$laurentino francisco/id=b1764-10-per4
+            ls$residencia/moinho da ribeira das caldas
+
+         mpad$maria gomes/id=b1764-10-mad
+
+         mad$maria gomes/mesmo_que=b1764-10-mad/id=b1764-10-per5
+            ls$residencia/moinho da ribeira das caldas
+
+      bap$b1764-11/19/9/1764/fl.5v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$teodoro/m/id=b1764-11-per1
+
+         pn$francisco viana/id=b1764-11-per2
+            ls$residencia/casais do nadadouro
+
+         mn$mariana teresa/id=b1764-11-per3
+
+         pad$joao henriques de oliveira/id=b1764-11-per4
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1764-12/6/11/1764/fl.6./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria do carmo/f/id=b1764-12-per1
+
+         pn$antonio da silva/id=b1764-12-per2
+            ls$residencia/obidos
+
+         mn$catarina antonia/id=b1764-12-per3
+
+         pad$miguel barbosa neves/id=b1764-12-per4
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      bap$b1764-13/27/12/1764/fl.6v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$francisco/m/id=b1764-13-per1
+
+         pn$manuel dos santos/id=b1764-13-per2
+            ls$residencia/casais do nadadouro
+
+         mn$angelica cordeira/id=b1764-13-per3
+
+         pad$manuel da silva/id=b1764-13-pad
+            ls$residencia/foz
+
+         mad$ana maria/id=b1764-13-per4
+            ls$residencia/foz
+            rel$parentesco/irma/manuel da silva/b1764-13-pad
+
+      bap$b1765-14/13/1/1765/fl.7./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$antonio/m/id=b1765-14-per1
+
+         pn$joaquim francisco/id=b1765-14-per2
+            ls$residencia/tras do outeiro
+
+         mn$maria joaquina/id=b1765-14-per3
+
+         pad$jorge ferreira/id=b1765-14-per4
+
+         ppad$jose ferreira/id=b1765-14-per5
+            ls$residencia/tras do outeiro
+
+         mad$rosa maria/id=b1765-14-per6
+
+         pmad$pedro francisco/id=b1765-14-per7
+            ls$residencia/tras do outeiro
+
+      bap$b1765-15/3/2/1765/fl.7./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$antonio/m/id=b1765-15-per1
+
+         pn$joaquim pereira/id=b1765-15-per2
+            ls$residencia/gaeiras
+
+         mn$maria teresa/id=b1765-15-per3
+
+         pad$antonio da silva rebelo/id=b1765-15-per4
+            ls$residencia/obidos
+
+         mad$maria madalena de santos/id=b1765-15-per5
+
+         pmad$jose henriques/id=b1765-15-per6
+            ls$residencia/casal da bochardia
+
+      bap$b1765-16/10/2/1765/fl.7v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$teresa/f/id=b1765-16-per1
+
+         pn$manuel francisco/id=b1765-16-per2
+            ls$residencia/gaeiras
+
+         mn$ana joaquina/id=b1765-16-per3
+
+         pad$joaquim manuel barradas/id=b1765-16-pad
+            ls$residencia/quinta das flores
+
+         mad$teresa joaquina de sequeira/id=b1765-16-per4
+
+         pmad$joaquim manuel barradas/mesmo_que=b1765-16-pad/id=b1765-16-per5
+
+      bap$b1765-17/10/2/1765/fl.8./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1765-17-per1
+
+         pn$jose rodrigues/id=b1765-17-per2
+            ls$residencia/ribeira das caldas
+
+         mn$inacia maria/id=b1765-17-per3
+
+         pad$antonio jose/id=b1765-17-per4
+            ls$residencia/bairro
+
+         mad$catarina maria/id=b1765-17-per5
+
+         mrmad$antonio pereira/id=b1765-17-per6
+            ls$residencia/caldas
+
+      bap$b1765-18/10/2/1765/fl.8v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$manuel/m/id=b1765-18-per1
+
+         pn$manuel francisco pereira/id=b1765-18-per2
+            ls$residencia/tras do outeiro
+
+         mn$antonia maria/id=b1765-18-per3
+
+         pad$jose goncalves/id=1765-18-pad
+            ls$residencia/arelho
+
+         mad$teresa maria/id=b1765-18-per4
+            ls$residencia/arelho
+
+         mrmad$jose goncalves/mesmo_que=1765-18-pad/id=b1765-18-per5
+
+      bap$b1765-19/17/3/1765/fl.9./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$feliciana/f/id=b1765-19-per1
+
+         pn$jose dos santos/id=b1765-19-per2
+            ls$residencia/casais da barougueira
+
+         mn$maria teresa/id=b1765-19-per3
+
+         pad$manuel dos santos/id=b1765-19-per4
+            ls$residencia/quinta da barroca
+            ls$alcunha/o moco
+
+         mad$maria dos reis/id=b1765-19-per5
+
+         pmad$francisco dos reis/id=b1765-19-per6
+            ls$residencia/carregal
+
+      bap$b1765-20/24/3/1765/fl.9./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1765-20-per1
+
+         pn$filipe pereira/id=b1765-20-per2
+            ls$residencia/tras do outeiro
+
+         mn$josefa pereira/id=b1765-20-per3
+
+         pad$antonio joaquim/id=b1765-20-pad
+
+         ppad$joaquim manuel/id=b1765-20-per4
+            ls$residencia/quinta das flores
+
+         mad$teresa joaquina/id=b1765-20-per5
+
+         pmad$joaquim manuel/id=b1765-20-per6
+            ls$residencia/quinta das flores
+            rel$parentesco/irma/antonio joaquim/b1765-20-pad
+
+      bap$b1765-21/27/3/1765/fl.9v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1765-21-per1
+
+         pn$antonio jose de faria/id=b1765-21-per2
+            ls$residencia/gaeiras de nossa senhora da ajuda
+
+         mn$maria francisca/id=b1765-21-per3
+
+         pad$joao pereira/id=b1765-21-per4
+            ls$residencia/gaeiras de nossa senhora da ajuda
+
+         mad$mauricia maria da conceicao/id=b1765-21-per5
+
+         pmad$jose soares/id=b1765-21-per6
+            ls$profissao/carpinteiro
+            ls$residencia/gaeiras de nossa senhora da ajuda
+
+      bap$b1765-22/18/4/1765/fl.10./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$germano/m/id=b1765-22-per1
+
+         pn$lourenco marques/id=b1765-22-per2
+            ls$residencia/casais do nadadouro
+
+         mn$antonia maria/id=b1765-22-per3
+
+         pad$manuel da costa/id=b1765-22-per4
+            ls$residencia/casais do nadadouro
+
+         mad$maria joaquina/id=b1765-22-per5
+
+         pmad$francisco viana/id=b1765-22-per6
+            ls$residencia/casais do nadadouro
+
+      bap$b1765-23/21/4/1765/fl.10v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$antonio/m/id=b1765-23-per1
+
+         pn$antonio da silva/id=b1765-23-per2
+            ls$residencia/quinta de gabriel da guerra junto a ermida de sao bento
+
+         mn$maria joaquina/id=b1765-23-per3
+
+         pad$jose da costa/id=b1765-23-per4
+            ls$residencia/obidos
+
+         mad$monica micaela antonia/id=b1765-23-per5
+
+         pmad$antonio lourenco/id=b1765-23-per6
+            ls$residencia/obidos
+
+      bap$b1765-24/21/4/1765/fl.11./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$inacio/m/id=b1765-24-per1
+
+         pn$jose joao/id=b1765-24-per2
+            ls$residencia/quinta da galeota
+
+         mn$antonia maria/id=b1765-24-per3
+
+         pad$antonio francisco/id=b1765-24-per4
+            ls$residencia/casais da barougueira
+
+      bap$b1765-25/2/6/1765/fl.11v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$joana/f/id=b1765-25-per1
+
+         pn$antonio francisco/id=b1765-25-per2
+            ls$residencia/casais da barougueira
+
+         mn$luisa inacia/id=b1765-25-per3
+
+         pad$jose joao/id=b1765-25-per4
+            ls$residencia/quinta da galeota
+
+         mad$maria teresa/id=b1765-25-per5
+            ls$residencia/casais da barougueira
+
+         mrmad$jose dos santos/id=b1765-25-per6
+
+      bap$b1765-26/9/6/1765/fl.12./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$rosa/f/id=b1765-26-per1
+
+         pn$jose antonio/id=b1765-26-per2
+            ls$residencia/moinho da ribeira das caldas
+
+         mn$josefa maria/id=b1765-26-per3
+
+         pad$jose joaquim/id=b1765-26-per4
+
+         mad$maria rosa/id=b1765-26-per5
+
+         pmad$jose rodrigues/id=b1765-26-per6
+            ls$residencia/quinta dos pinheiros
+
+         procurador-pad$francisco rodrigues/id=b1765-26-per7
+
+      bap$b1765-27/25/7/1765/fl.12v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1765-27-per1
+
+         pn$domingos francisco/id=b1765-27-per2
+            ls$residencia/casais do nadadouro
+
+         mn$luisa maria/id=b1765-27-per3
+
+         pad$manuel antonio/id=b1765-27-per4
+            ls$residencia/casais do nadadouro
+
+         mad$mariana francisca/id=b1765-27-per5
+            ls$residencia/casais do nadadouro
+
+      bap$b1765-28/28/7/1765/fl.13./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$antonio/m/id=b1765-28-per1
+
+         pn$felix da silva/id=b1765-28-per2
+            ls$residencia/gaeiras
+
+         mn$maria barbosa/id=b1765-28-per3
+
+         pad$antonio ezequiel/id=b1765-28-per4
+            ls$residencia/gaeiras
+
+         mpad$mariana antonia/id=b1765-28-mad
+
+         mad$mariana antonia/mesmo_que=b1765-28-mad/id=b1765-28-per5
+            ls$residencia/gaeiras
+
+      bap$b1765-29/12/8/1765/fl.13v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$rosa/f/id=b1765-29-per1
+
+         pn$antonio de oliveira/id=b1765-29-per2
+            ls$residencia/casais do nadadouro
+
+         mn$teresa maria/id=b1765-29-per3
+
+         pad$manuel alves de almeida/id=b1765-29-per4
+            ls$residencia/obidos
+
+         mad$brigida monteira/id=b1765-29-per5
+
+         pmad$caetano ?/id=b1765-29-per6
+
+      bap$b1765-30/22/9/1765/fl.14./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$francisco/m/id=b1765-30-per1
+
+         pn$francisco gomes/id=b1765-30-per2
+            ls$residencia/quinta da gracieira
+
+         mn$josefa maria/id=b1765-30-per3
+
+         pad$francisco de marcos/id=b1765-30-per4
+            ls$residencia/casal do pinhal
+
+         mad$ana joaquina/id=b1765-30-per5
+
+         pmad$manuel de marcos/id=b1765-30-per6
+            ls$residencia/a dos negros
+
+      bap$b1765-31/30/9/1765/fl.14v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$joaquina/f/id=b1765-31-per1
+
+         pn$joao martins/id=b1765-31-per2
+            ls$residencia/casais do nadadouro
+
+         mn$ana joaquina/id=b1765-31-per3
+
+         pad$manuel antonio/id=b1765-31-per4
+
+         ppad$antonio henriques barradas/id=b1765-31-per5
+            ls$residencia/casal do negrelho
+
+         mad$maria joana/id=b1765-31-per6
+
+         pmad$manuel francisco/id=b1765-31-per7
+            ls$alcunha/alma santa
+            ls$residencia/casais do nadadouro
+
+      bap$b1765-32/25/11/1765/fl.15./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$antonio/m/id=b1765-32-n
+
+         pn$pedro francisco/id=b1765-32-per1
+            ls$residencia/casais do nadadouro
+
+         mn$ines maria/id=b1765-32-per2
+
+         pad$antonio de seia/id=b1765-32-per3
+            rel$parentesco/tio/antonio/b1765-32-n
+
+         mad$faustina da conceicao/id=b1765-32-per4
+            ls$residencia/nadadouro
+
+      bap$b1766-33/13/1/1766/fl.15v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$antonio/m/id=b1766-33-per1
+
+         pn$pedro francisco/id=b1766-33-per2
+            ls$residencia/casais do nadadouro
+
+         mn$maria dos santos/id=b1766-33-per3
+
+         pad$antonio pedro/id=b1766-33-per4
+            ls$residencia/serra do bouro
+
+         mad$felicia maria/id=b1766-33-per5
+
+         mrmad$antonio pedro ferreira/id=b1766-33-per6
+            ls$residencia/obidos
+
+      bap$b1766-34/26/1/1766/fl.16./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1766-34-n
+
+         pn$bernardo pereira/id=b1766-34-per1
+            ls$residencia/tras do outeiro
+
+         mn$cecilia maria do espirito santo/id=b1766-34-per2
+
+         pad$antonio moreira chaves/id=b1766-34-per3
+            ls$profissao/militar
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+         mad$maria dos santos/id=b1766-34-per4
+            ls$residencia/tras do outeiro
+            rel$parentesco/tia/maria/b1766-34-n
+
+      bap$b1766-35/9/2/1766/fl.16v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$apolonia/f/id=b1766-35-per1
+
+         pn$manuel francisco/id=b1766-35-per2
+            ls$residencia/tras do outeiro
+
+         mn$antonia maria/id=b1766-35-per3
+
+         pad$jose de almeida rebelo/id=b1766-35-per4
+            ls$residencia/obidos
+
+         mad$maria da conceicao/id=b1766-35-per5
+
+         pmad$jose ferreira barradas/id=b1766-35-per6
+            ls$residencia/tras do outeiro
+
+         procurador-pad$antonio de macedo neto/id=b1766-35-per7
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1766-36/15/3/1766/fl.17./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$joaquim/m/id=b1766-36-per1
+
+         pn$jose leal ferreira/id=b1766-36-per2
+            ls$residencia/cerca de obidos
+
+         mn$maria rosa/id=b1766-36-per3
+
+         pad$jose de freitas/id=b1766-36-per4
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$profissao/padre
+            ls$cargo/presbitero
+            ls$residencia/obidos
+
+      bap$b1766-37/16/3/1766/fl.17v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$manuel/m/id=b1766-37-per1
+
+         pn$valentino leal/id=b1766-37-per2
+            ls$residencia/casais da barougueira
+
+         mn$maria teresa/id=b1766-37-per3
+
+         pad$manuel carneiro/id=b1766-37-per4
+            ls$residencia/arelho
+
+         mad$teresa maria/id=b1766-37-per5
+
+         mmad$francisca maria/id=b1766-37-per6
+            ls$residencia/casais da barougueira
+
+      bap$b1766-38/7/4/1766/fl.18./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1766-38-per1
+
+         pn$jose caetano/id=b1766-38-per2
+            ls$residencia/casais do nadadouro
+
+         mn$teresa maria/id=b1766-38-per3
+
+         pad$jose francisco/id=b1766-38-per4
+            ls$residencia/casais do touguio
+
+         mad$mariana francisca/id=b1766-38-per5
+            ls$residencia/casais do touguio
+
+      bap$b1766-39/18/5/1766/fl.18v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1766-39-per1
+
+         pn$miguel da silva/id=b1766-39-per2
+            ls$residencia/gaeiras
+
+         mn$paula teresa/id=b1766-39-per3
+
+         pad$valeriano gomes/id=b1766-39-per4
+            ls$profissao/padre
+            ls$cargo/cura da igreja de sao pedro de obidos
+
+         mad$teresa maria/id=b1766-39-per5
+
+         mrmad$tomas do couto/id=b1766-39-per6
+            ls$residencia/gaeiras
+
+      bap$b1766-40/20/5/1766/fl.19./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1766-40-per1
+
+         pn$nome desconhecido/id=b1766-40-per2
+
+         mn$isabel pereira/id=b1766-40-per3
+            ls$condicao/escrava
+            rel$profissional/escrava/jose pereira da serra/b1766-40-padre
+
+         pad$joao caetano da fonseca/id=b1766-40-per4
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao tiago de obidos
+            ls$residencia/obidos
+
+         referido$jose pereira da serra/id=b1766-40-padre
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao pedro de obidos
+            ls$residencia/obidos
+
+      bap$b1766-41/3/7/1766/fl.19v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$ana/f/id=b1766-41-per1
+
+         pn$tome frasao/id=b1766-41-per2
+            ls$residencia/obidos
+
+         mn$madalena maria/id=b1766-41-per3
+
+         pad$manuel da silva de vasconcelos/id=b1766-41-per4
+            ls$profissao/padre
+            ls$residencia/lisboa
+
+         mad$ana tomasia da silveria/id=b1766-41-per5
+            ls$titulo/dona
+            ls$residencia/lisboa
+
+         procurador-pad$bras antunes correia/id=b1766-41-per6
+            ls$cargo/beneficiado da igreja de sao joao de mocharro
+
+         procurador-mad$miguel barbosa neves/id=b1766-41-per7
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      bap$b1766-43/27/7/1766/fl.20./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$antonia/f/id=b1766-43-per1
+
+         pn$franscisco de faria/id=b1766-43-per2
+            ls$residencia/casal do paio
+
+         mn$catarina teresa/id=b1766-43-per3
+
+         pad$joao pereira/obs=duvida na leitura do apelido/id=b1766-43-per4
+            ls$profissao/lavrador
+
+         procurador-pad$francisco de matos/id=b1766-43-per5
+            ls$profissao/padre
+            ls$cargo/cura da igreja de sao tiago
+
+      bap$b1766-44/21/9/1766/fl.20v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$ana/f/id=b1766-44-per1
+
+         pn$joao ferreira/id=b1766-44-per2
+            ls$residencia/tras do outeiro
+
+         mn$maria micaela/id=b1766-44-per3
+
+         pad$manuel goncalves/id=b1766-44-per4
+            ls$residencia/tras do outeiro
+
+         mad$rosa maria/id=b1766-44-per5
+
+         pmad$pedro francisco/id=b1766-44-per6
+            ls$residencia/tras do outeiro
+
+      bap$b1766-45/22/9/1766/fl.21./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$jose/m/id=b1766-45-per1
+
+         pn$manuel dos santos/id=b1766-45-per2
+            ls$residencia/quinta da barroca
+
+         mn$maria/obs=nao refere o apelido/id=b1766-45-per3
+
+         pad$francisco martins/id=b1766-45-per4
+            ls$residencia/casais da barougueira
+
+      bap$b1766-46/5/10/1766/fl.21./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1766-46-per1
+
+         pn$antonio jose de faria/id=b1766-46-per2
+            ls$residencia/gaeiras
+
+         mn$maria francisca/id=b1766-46-per3
+
+         pad$joaquim pereira/id=b1766-46-per4
+            ls$residencia/gaeiras
+
+         mad$josefa maria/id=b1766-46-per5
+
+         pmad$manuel correia/id=b1766-46-per6
+            ls$residencia/quinta da boa vista
+
+      bap$b1766-47/12/10/1766/fl.21v./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$maria/f/id=b1766-47-per1
+
+         pn$jose rodrigues/id=b1766-47-per2
+            ls$residencia/ribeira das caldas
+
+         mn$inacia maria/id=b1766-47-per3
+
+         pad$jose vicente/id=b1766-47-per4
+            ls$residencia/gaeiras
+
+         mad$eugenia maria/id=b1766-47-per5
+            ls$residencia/bairro
+
+      bap$b1766-48/21/12/1766/fl.22./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+         n$joaquim/m/id=b1766-48-per1
+
+         pn$joao da ilva brito/id=b1766-48-per2
+            ls$residencia/gaeiras
+
+         mn$antonia de jesus/id=b1766-48-per3
+
+         pad$francisco xavier de sequeira/id=b1766-48-per4
+            ls$residencia/obidos

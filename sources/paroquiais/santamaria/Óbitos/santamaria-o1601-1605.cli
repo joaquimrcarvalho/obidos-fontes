@@ -1,0 +1,460 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1601-1605/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1601-1/9/1/1601/fl.146v./francisco alves
+
+         n$barbara fernandes/f/id=o1601-1-per1
+            ls$residencia/a da gorda
+
+         oficios$3
+
+         marido$amador martins/id=o1601-1-per2
+            ls$residencia/a da gorda
+
+      obito$o1601-2/8/4/1601/fl.146v./francisco alves
+
+         n$rodrigo de sequeira%rº de sequeira/m/id=o1601-2-per1
+
+         locs$a porta principal da igreja de santa maria da banda de dentro
+
+         oficios$3 oficios de 9 licoes
+
+      obito$o1601-3/14/4/1601/fl.146v./francisco alves
+
+         n$pero vaz leitao%p.o vaz leitao/m/id=o1601-3-n
+
+         testamento$sim
+
+         locs$dentro da igreja de santa maria, ao pe dos degraus do altar mor
+
+         oficios$2 oficios, 1 deles de 9 licoes
+
+         referido$manuel leitao/id=o1601-3-per1
+            rel$parentesco/filho/pero vaz leitao/o1601-3-n
+            rel$sociabilidade/testamenteiro/pero vaz leitao/o1601-3-n
+
+      obito$o1601-4/18/4/1601/fl.147/francisco alves
+
+         n$joana lopes/f/id=o1601-4-per1
+
+         testamento$nao
+
+         locs$na igreja de santa maria/obs= "a porta travaça do sol"
+
+         oficios$sim
+
+         marido$diogo martins%dº miz/id=o1601-4-per2
+
+      obito$o1601-5/18/4/1601/fl.147/francisco alves
+
+         n$maria lopes/f/id=o1601-5-per1
+            ls$ec/v
+
+         testamento$nao
+
+         locs$na igreja de santa maria
+
+      obito$o1601-6/18/5/1601/fl.147/francisco alves
+
+         n$cecilia mendes/f/id=o1601-6-per1
+
+         locs$dentro da igreja de santa maria
+
+         marido$pero fernandes torralva%pº frz torralva/id=o1601-6-per2
+
+      obito$o1601-7/18/5/1601/fl.147/francisco alves
+
+         n$belchior dias/m/id=o1601-7-per1
+            ls$profissao/barbeiro
+
+         testamento$nao
+
+         locs$dentro da igreja de santa maria
+
+         oficios$3
+
+      obito$o1601-8/18/5/1601/fl.147/francisco alves
+
+         n$maria/f/id=o1601-8-per1
+            ls$profissao/criada
+            rel$profissional/criada/francisco correia manuel/o1601-8-referido
+
+         locs$dentro da igreja
+
+         referido$francisco correia manuel/id=o1601-8-referido
+
+      obito$o1601-9/28/5/1601/fl.147/francisco alves
+
+         n$cristovao luis/m/id=o1601-9-per1
+            ls$profissao/padre
+
+         testamento$nao
+
+         locs$dentro da igreja
+
+      obito$o1601-10/27/5/1601/fl.147/francisco alves
+
+         n$inocencia/f/id=o1601-10-per1
+
+         locs$dentro da igreja
+
+         pai$afonso de lemos%aº de lemos/id=o1601-10-per2
+
+      obito$o1601-11/2/6/1601/fl.147/francisco alves
+
+         n$domingos/m/id=o1601-11-per1
+            ls$condicao/escravo
+            rel$profissional/escravo/francisco correia manuel/o1601-11-referido
+
+         locs$adro da igreja
+
+         referido$francisco correia manuel/id=o1601-11-referido
+
+      obito$o1601-12/12/6/1601/fl.147/francisco alves
+
+         n$clara de vila lobos/f/id=o1601-12-per1
+            ls$ec/v
+
+         locs$em sao pedro
+
+      obito$o1601-13/15/6/1601/fl.147/francisco alves
+
+         n$joao gomes%jº gomes/m/id=o1601-13-per1
+            ls$profissao/padre
+            ls$cargo/beneficiado da igreja de santa maria
+
+         locs$na igreja de santa maria
+
+      obito$o1601-14/11/7/1601/fl.147/francisco alves
+
+         n$maria/f/id=o1601-14-per1
+            ls$ec/s
+            ls$residencia/a da gorda
+
+         locs$igreja de santa maria
+
+         pai$joao antunes%jº antunes/id=o1601-14-per2
+            ls$residencia/a da gorda
+
+      obito$o1602-1/5/2/1602/fl.147v./salvador alves
+
+         n$maria lopes/f/id=o1602-1-per1
+            ls$residencia/gaeiras
+
+      obito$o1602-2/15/2/1602/fl.147v./salvador alves
+
+         n$domingos/m/id=o1602-2-per1
+
+            pai$andre luis/id=o1602-2-per1-per2
+
+            mae$marta fernandes/id=o1602-2-per1-per3
+
+      obito$o1602-3/15/12/1602/fl.147v./salvador alves
+
+         n$nome desconhecido/?/id=o1602-3-per1
+            ls$idade_aprox/6 ou 7 anos
+
+            pai$gaspar de faria/id=o1602-3-pai
+
+      obito$o1602-4/15/12/1602/fl.147v./salvador alves
+
+         n$nome desconhecido/?/id=o1602-4-per1
+            ls$idade_aprox/6 ou 7 anos
+
+            pai$gaspar de faria/mesmo_que=o1602-3-pai/id=o1602-4-per1-per2
+
+      obito$o1602-5/0/0/1602/fl.147v./salvador alves
+
+         n$nome desconhecido/m/id=o1602-5-n/obs=negro
+            ls$condicao/escravo
+            rel$profissional/escravo/gaspar de faria/o1602-5-n-per1
+
+            referido$gaspar de faria/id=o1602-5-n-per1
+
+      obito$o1602-6/15/3/1602/fl.147v./salvador alves
+
+         n$antonia fernandes/f/id=o1602-6-per1
+            ls$residencia/a da gorda
+
+         testamento$nao
+
+      obito$o1602-7/18/3/1602/fl.148/salvador alves
+
+         n$andre/m/id=o1602-7-per1
+            ls$idade_aprox/12 ou 13 anos/obs="nao se lhe tem feito nada pollas almas"
+
+            pai$afonso de lemos%aº de lemos/id=o1602-7-per1-per2
+
+            mae$nome desconhecido/id=o1602-7-per1-per3
+
+      obito$o1602-8/15/4/1602/fl.148/salvador alves
+
+         n$isabel/f/id=o1602-8-per1
+            ls$residencia/a da gorda
+
+            mae$catarina ferreira%c.na fereira/id=o1602-8-per1-per2
+               ls$residencia/a da gorda
+
+         oficios$nao/obs="ja era de sacramento". "nao se lhe tem feito nada pollas almas
+
+      obito$o1602-9/15/6/1602/fl.148/salvador alves
+
+         n$diogo luis/m/id=o1602-9-per1
+            ls$residencia/a da gorda
+
+         oficios$nao/obs="nao se lhe tem feito nada pollas almas"
+
+      obito$o1603-1/15/3/1603/fl.148/salvador alves
+
+         n$domingas fernandes/f/id=o1603-1-per1
+            ls$residencia/arrabalde
+
+         oficios$nao/obs="nao se lhe tem feito nada pollas almas"
+
+      obito$o1603-2/6/8/1603/fl.148v./manuel aires
+
+         n$antonio alvares/m/id=o1603-2-per1
+            ls$residencia/gaeiras
+
+         locs$adro da igreja de santa maria
+
+         testamento$nao
+
+         oficios$nao/obs="nem se lhe fez bem pella alma"
+
+      obito$o1603-3/1/10/1603/fl.148v./manuel aires
+
+         n$ambrosio/m/obs="era filho de familias"/id=o1603-3-per1
+            ls$residencia/freguesia de santa maria
+
+         locs$na igreja de santa maria
+
+         sacr$sim
+
+         oficios$1 oficio de 3 licoes
+
+         pai$joao fernandes/id=o1603-3-per2
+
+         mae$joana luis/id=o1603-3-per3
+
+      obito$o1603-4/25/12/1603/fl.148v./manuel aires
+
+         n$maria martins/f/id=o1603-4-per1
+
+         locs$igreja de santa maria
+
+         oficios$nao/obs="nao se lhe tem feito nada por sua alma sem embargo de ter sua legitima"
+
+         pai$joao martins/id=o1603-4-per2
+
+      obito$o1604-1/7/5/1604/fl.148v./manuel aires
+
+         n$joao martins/m/id=o1604-1-per1
+            ls$freguesia/sao pedro
+
+         locs$igreja de santa maria
+
+         sacr$sim
+
+         oficios$3 oficios de 9 licoes
+
+      obito$o1604-2/31/5/1604/fl.148v./manuel aires
+
+         n$cosme/m/id=o1604-2-per1
+            ls$idade/menor
+            ls$condicao/escravo
+            rel$profissional/escravo/francisco correia manuel/o1604-2-referido
+
+         locs$adro da igreja de santa maria
+
+         sacr$sim/obs=confissao, uncao
+
+         referido$francisco correia manuel/id=o1604-2-referido
+
+      obito$o1604-3/3/7/1604/fl.148v.
+
+         n$graca de figueiredo%gracia de figeiredo/f/id=o1604-3-n
+            ls$ec/v
+            ls$residencia/arrabalde
+
+         locs$igreja de santa maria
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$3 oficios de 9 licoes
+
+         referido$nome desconhecido/id=o1604-3-per1
+            ls$cargo/ermitao de santo antao
+            rel$sociabilidade/testamenteiro/graca de figueiredo/o1604-3-n
+
+         referido$nome desconhecido/id=o1604-3-per2
+            ls$cargo/ermitao de sao miguel
+            rel$sociabilidade/testamenteiro/graca de figueiredo/o1604-3-n
+
+      obito$o1604-4/14/11/1604/fl.149
+
+         n$maria fernandes/f/id=o1604-4-per1
+            ls$residencia/a da gorda
+
+         locs$adro da igreja de santa maria
+
+         sacr$sim/obs=excepto a uncao "porque nao chamarao"
+
+         oficios$nao/obs="nao lhe fizerao ainda bem por sua alma"
+
+      obito$o1604-5/26/11/1604/fl.149
+
+         n$beatriz/f/obs="era filha familias posto que era ja molher"/id=o1604-5-per1
+
+         locs$adro da igreja de santa maria
+
+         sacr$sim
+
+         oficios$nao/obs="nao lhe fizerao bem pella alma"
+
+         pai$antonio fernandes/id=o1604-5-per2
+
+      obito$o1605-1/25/1/1605/fl.149/manuel aires
+
+         n$antonia dias/f/id=o1605-1-per1
+            ls$pobre/sim/obs=trazia consigo uma carta de casamento
+
+         locs$adro da igreja de santa maria
+
+         locf$hospital de obidos
+
+         sacr$sim
+
+         marido$francisco de oliveira/id=o1605-1-per2
+
+      obito$o1605-2/17/2/1605/fl.149
+
+         n$afonso de lemos/m/id=o1605-2-per1
+            ls$pobre/sim
+            ls$profissao/serieiro
+
+         locs$igreja de santa maria
+
+         sacr$sim
+
+         testamento$nao/obs="nem tinha de que"
+
+      obito$o1605-3/13/4/1605/fl.149v.
+
+         n$jorge fernandes/m/id=o1605-3-per1
+            ls$profissao/alfaiate
+
+         locs$adro da igreja de santa maria
+
+         sacr$sim
+
+         testamento$nao
+
+      obito$o1605-4/2/5/1605/fl.149v.
+
+         n$filipa/f/id=o1605-4-per1
+            ls$profissao/criada
+            rel$profissional/criada/manuel leitao/o1605-4-referido
+
+         locs$adro da igreja de santa maria
+
+         sacr$nao/obs="nao teve tempo"
+
+         testamento$nao
+
+         referido$manuel leitao/id=o1605-4-referido
+
+      obito$o1605-5/4/5/1605/fl.149v.
+
+         n$nome desconhecido/m/id=o1605-5-per1
+            ls$idade_aprox/menor/obs="moço menor"
+            ls$residencia/gaeiras
+
+         locs$adro da igreja de santa maria
+
+         sacr$nao/obs="nao chamarao para os sacramentos"
+
+      obito$o1605-6/15/5/1605/fl.149v.
+
+         n$maria pires/m/id=o1605-6-per1
+            ls$profissao/parteira
+
+         locs$igreja de santa maria
+
+         sacr$sim
+
+         testamento$sim
+
+      obito$o1605-7/23/5/1605/fl.149v.
+
+         n$margarida pires/f/id=o1605-7-per1
+
+         locs$adro da igreja de santa maria
+
+         sacr$sim/obs=confissao, uncao. "nao recebeo o sanctissimo sacramento por nao poder"
+
+         testamento$nao
+
+         oficios$1 oficio de 3 licoes
+
+      obito$o1605-8/17/6/1605/fl.149v./manuel aires
+
+         n$joao francisco/m/id=o1605-8-per1
+            ls$residencia/gaeiras
+
+         locs$adro da igreja de santa maria
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$3 oficios de 3 licoes
+
+      obito$o1605-9/23/6/1605/fl.150
+
+         n$rodrigo/m/id=o1605-9-per1
+
+         locs$igreja de santa maria
+
+         mae$maria flores/obs=duvida na leitura do apelido: alves ou flores/id=o1605-9-per2
+            ls$ec/v
+
+      obito$o1605-10/26/6/1605/fl.150
+
+         n$rodrigo sanches%rº sanchez/m/id=o1605-10-n
+            ls$cargo/escrivao da camara da mesa do paco
+            ls$titulo/cavaleiro da ordem de cristo/obs=freire professo da ordem de cristo
+            ls$cargo/comendador
+
+         locs$na igreja de santa maria/obs="junto da sepultura de seu tio rodrigo sanchez prior que foy em esta igreja, a sepultura esta entre a parede e a de seu tio"
+
+         testamento$sim/obs="dizem que tinha feyto testamento em lisboa, nao veo ainda levarao des alqueires de trigo e dous odres de vinho"
+
+         referido$rodrigo sanches%rº sanchez/id=o1605-10-per1
+            rel$parentesco/tio/rodrigo sanches/o1605-10-n
+            ls$cargo/prior da igreja de santa maria
+            ls$morto/antes
+
+      obito$o1605-11/11/8/1605/fl.150
+
+         n$antonia de miranda/f/id=o1605-11-per1
+            ls$residencia/gaeiras
+
+         locs$igreja de santa maria
+
+         oficios$1 oficio de 9 licoes/obs="offertado com quatro alqueires de trigo e dous almudes de vinho"
+
+      obito$o1605-12/14/10/1605/fl.150
+
+         n$beatriz antunes/f/id=o1605-12-per1
+            ls$profissao/criada
+            rel$profissional/criada/rui figueira/o1605-12-referido
+
+         locs$igreja de santa maria
+
+         oficios$1 oficio de 9 licoes
+
+         referido$rui figueira/id=o1605-12-referido
+            ls$residencia/gaeiras

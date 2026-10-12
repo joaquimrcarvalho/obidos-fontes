@@ -1,0 +1,522 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1800/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1800-1/8/1/1800/fl.21/jose joaquim xavier tavares (prior)
+
+         n$ana joaquina rebelo/f/id=o1800-1-per1
+            ls$residencia/obidos
+            ls$ec/s
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 34 da parte do altar de sao bras/obs=faleceu no dia antecedente. foi amortalhada a santa teresa
+
+      obito$o1800-2/11/1/1800/fl.21/jose joaquim xavier tavares (prior)
+
+         n$timoteo jorge de castro/m/id=o1800-2-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 35, da parte do altar de sao bras/obs=faleceu no dia antecedente. foi amortalhado no habito de sao francisco
+
+         testamento$sim
+
+         mulher$maria rosa/id=o1800-2-per2
+            ls$morta/antes
+
+      obito$o1800-3/27/1/1800/fl.21/jose joaquim xavier tavares (prior)
+
+         n$catarina rita/f/id=o1800-3-per1
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim/obs=uncao/obs=so recebeu o sacramento da uncao por ser apopletica a sua morte
+
+         causa$apoplexia
+
+         locs$dentro da igreja de santa maria, na cova numero 26, da parte do altar de sao bras/obs=faleceu no dia antecedente. foi amortalhada no habito de sao francisco
+
+         marido$bernardo jose da silva/id=o1800-3-per2
+            ls$morto/antes
+
+      obito$o1800-4/25/2/1800/fl.21v./jose joaquim xavier tavares (prior)
+
+         n$catarina de freitas/f/id=o1800-4-per1
+            ls$titulo/dona
+            ls$ec/s
+            ls$residencia/obidos
+
+         sacr$nao/obs=nao recebeu os sacramentos por ter morte repentina
+
+         locs$dentro da igreja de santa maria, na cova numero 37, da parte do altar de sao bras/obs=foi amortalhada no habito de sao francisco
+
+      obito$o1800-5/5/3/1800/fl.21v./jose joaquim xavier tavares (prior)
+
+         n$joaquim/m/id=o1800-5-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim
+
+            referida$genoveva maria/id=o1800-5-referida
+               ls$residencia/obidos
+               rel$sociabilidade/ama/joaquim/o1800-5-n
+
+            referido$manuel luis/id=o1800-5-n-per1
+               ls$residencia/obidos
+               rel$parentesco/marido/genoveva maria/o1800-5-referida
+
+      obito$o1800-6/31/3/1800/fl.21v./jose joaquim xavier tavares (prior)
+
+         n$maria rosa/f/id=o1800-6-per1
+            ls$ec/s
+            ls$residencia/gaeiras
+
+         sacr$nao/obs=nao recebeu os sacramentos por ter falecido de morte repentina
+
+         locs$dentro da igreja de santa maria, na cova numero 38, da parte do altar de sao bras
+
+         testamento$sim
+
+         pai$manuel henriques/id=o1800-6-per2
+            ls$residencia/gaeiras
+
+         mae$maria rosa/id=o1800-6-per3
+            ls$residencia/gaeiras
+
+      obito$o1800-7/12/4/1800/fl.21v.-22/jose joaquim xavier tavares (prior)
+
+         n$jose da silva do nascimento/m/id=o1800-7-per1
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$cargo/promotor
+            ls$residencia/obidos
+
+         locf$no lugar da foz, freguesia de nossa senhora dos martires da serra do boiro
+
+         sacr$sim/obs= penitencia
+
+         locs$dentro da igreja de santa maria, na cova numero 3, da parte de santa catarina/obs=foi amortalhado em habitos, as vestes sacerdotais
+
+         testamento$sim
+
+      obito$o1800-8/14/4/1800/fl.22/jose joaquim xavier tavares (prior)
+
+         n$jose martins/m/id=o1800-8-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria/obs=foi amortalhado em serapilheira
+
+         mulher$luisa maria/id=o1800-8-per2
+
+      obito$o1800-9/26/4/1800/fl.22/jose joaquim xavier tavares (prior)
+
+         n$maria de jesus/f/id=o1800-9-per1
+            ls$ec/s
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 39, na parte do altar de sao bras/obs=foi amortalhado em serapilheira
+
+      obito$o1800-10/29/4/1800/fl.22-22v./jose joaquim xavier tavares (prior)
+
+         n$antonio/m/id=o1800-10-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova junto ao pedestral do arco do coro da parte direita
+
+         pai$jose leal/id=o1800-10-per2
+
+         mae$maria da assuncao/id=o1800-10-per3
+            ls$residencia/obidos
+
+      obito$o1800-11/9/5/1800/fl.22v./jose joaquim xavier tavares (prior)
+
+         n$antonio jose madeira/m/id=o1800-11-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$nao/obs=nao recebeuo sacramento da extrema uncao por impossibilidade da molestia
+
+         causa$molestia
+
+         locs$dentro da igreja de santa maria, na cova numero 4, da parte do altar de sao bras/obs=foi amortalhado no habito de sao francisco
+
+         mulher$josefa umbelina/id=o1800-11-per2
+
+      obito$o1800-12/2/7/1800/fl.22v./jose joaquim xavier tavares (prior)
+
+         n$paulo/m/id=o1800-12-per1
+            ls$ec/s
+            ls$residencia/obidos
+
+         sacr$nao/obs=nao recebeu os sacramentos por nao terem chamado quem lhos administrasse
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de santa maria, na cova numero 41, da parte do altar de sao bras/obs=foi amortalhado no habito de sao francisco
+
+      obito$o1800-13/3/8/1800/fl.22v.-23/jose joaquim xavier tavares (prior)
+
+         n$maria/f/id=o1800-13-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, na cova junto aos bancos na nave do meio da parte de santa catarina
+
+         pai$manuel gomes/id=o1800-13-per2
+            ls$residencia/gaeiras
+
+         mae$maria joaquina/id=o1800-13-per3
+            ls$residencia/gaeiras
+
+      obito$o1800-14/7/8/1800/fl.23/jose joaquim xavier tavares (prior)
+
+         n$antonio/m/id=o1800-14-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim
+            ls$residencia/gaeiras
+
+         locs$adro da igreja de santa maria
+
+         referida$luzia inacia/id=o1800-14-referida
+            ls$residencia/gaeiras
+            rel$sociabilidade/ama/antonio/o1800-14-n
+
+         referido$cipriano luis/id=o1800-14-per1
+            ls$residencia/gaeiras
+            rel$parentesco/marido/luzia inacia/o1800-14-referida
+
+      obito$o1800-15/7/8/1800/fl.23/jose joaquim xavier tavares (prior)
+
+         n$catarina/f/id=o1800-15-per1
+            ls$ec/s
+            ls$profissao/criada
+            rel$profissional/criada/filix jose sobral/o1800-15-referido
+            ls$residencia/sitio do senhor jesus da pedro
+
+         sacr$sim/obs=penitencia, uncao. so recebeu os sacramentos da penitencia e da uncao por impossibilidade da molestia
+
+         causa$molestia
+
+         locs$dentro da igreja de santa maria, na cova numero 42/obs=faleceu no dia antecedente
+
+         referido$felix jose sobral/id=o1800-15-referido
+
+      obito$o1800-16/10/8/1800/fl.23/jose joaquim xavier tavares (prior)
+
+         n$antonio jose/m/id=o1800-16-per1
+            ls$ec/s
+            ls$naturalidade/freixial, bispado de leiria
+            ls$residencia/caldas
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria
+
+      obito$o1800-17/11/8/1800/fl.23v./jose joaquim xavier tavares (prior)
+
+         n$ana/f/id=o1800-17-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, na cova junto as escadas da capela mor
+
+         pai$manuel antonio/id=o1800-17-per2
+            ls$residencia/gaeiras
+
+         mae$rosa maria/id=o1800-17-per3
+            ls$residencia/gaeiras
+
+      obito$o1800-18/7/8/1800/fl.23v./jose joaquim xavier tavares (prior)
+
+         n$jose de coimbra/m/obs=moco. devido a uma perturbacao na cabeca nao disse mais que o nome. foi amortalhado em serapilheira. foi sepultado pela enfermaria da santa casa da misericordia/id=o1800-18-per1
+
+         locf$enfermaria da santa casa da misericordia
+
+         causa$perturbacao na cabeca
+
+         sacr$sim/obs=uncao
+
+         locs$adro da igreja de santa maria
+
+      obito$o1800-19/19/8/1800/fl.23v./jose joaquim xavier tavares (prior)
+
+         n$joana clara/f/id=o1800-19-per1
+            ls$ec/c
+
+         sacr$sim
+
+         locf$enfermaria de obidos
+
+         locs$dentro da igreja de santa maria, na cova numero 4, da parte do altar de santa catarina/obs=foi amortalhada em serapilheira do costume
+
+      obito$o1800-20/23/8/1800/fl.23v.-24/jose joaquim xavier tavares (prior)
+
+         n$inacio de oliveira/m/id=o1800-20-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 5, da parte do altar de santa catarina/obs=foi amortalhado no habito de sao francisco
+
+         mulher$ana joaquina/id=o1800-20-per2
+
+      obito$o1800-21/24/8/1800/fl.24/jose joaquim xavier tavares (prior)
+
+         n$joaquim/m/id=o1800-21-per1
+            ls$residencia/moinho do lagar
+
+         sacr$sim/obs=so recbeu os sacramentos da penitencia e da uncao por impossibilidade da molestia
+
+         causa$molestia
+
+         locs$dentro da igreja de santa maria, na cova numero 6, da parte do altar de santa catarina
+
+         pai$jose da silva duque/id=o1800-21-per2
+            ls$residencia/moinho do lagar
+
+         mae$ana joaquina/id=o1800-21-per3
+            ls$residencia/moinho do lagar
+
+      obito$o1800-22/27/8/1800/fl.24/jose joaquim xavier tavares (prior)
+
+         n$antonio/m/id=o1800-22-n
+            ls$enjeitado/sim
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, junto a capela de sao lourenco
+
+         referida$luisa antonia/id=o1800-22-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/o1800-22-n
+
+         referido$diogo inacio/id=o1800-22-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/luisa antonia/o1800-22-referida
+
+      obito$o1800-23/6/9/1800/fl.24/jose joaquim xavier tavares (prior)
+
+         n$antonio/m/id=o1800-23-n
+            ls$enjeitado/sim
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova junto ao pulpito da parte de cima
+
+         referida$feliciana maria/id=o1800-23-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/o1800-23-n
+
+         referido$jose antonio/id=o1800-23-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/feliciana maria/o1800-23-referida
+
+      obito$o1800-24/16/9/1800/fl.24v./jose joaquim xavier tavares (prior)
+
+         n$manuel da silva/m/id=o1800-24-per1
+            ls$ec/s
+            ls$residencia/caldas
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria/obs=foi amortalhado na serapilheira do costume
+
+      obito$o1800-25/16/10/1800/fl.24v./jose joaquim xavier tavares (prior)
+
+         n$jose antonio/m/id=o1800-25-per1
+            ls$pobre/sim
+            ls$mendigo/sim
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim/obs=recebeu todos os sacramentos excepto a santa uncao, por nao chamarem a tempo
+
+         locs$adro da igreja de santa maria/obs=pobre, mendigo. foi amortalhado em serapilheira
+
+      obito$o1800-26/1/11/1800/fl.24v./jose joaquim xavier tavares (prior)
+
+         n$jose luis fialho de mendonca/m/id=o1800-26-per1
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 8, da parte do altar de santa catarina/obs=foi sepultado e falecido no mesmo dia. foi amortalhado nas vestes sacerdotais
+
+         testamento$sim
+
+      obito$o1800-27/1/11/1800/fl.24v.-25/jose joaquim xavier tavares (prior)
+
+         n$francisco/m/id=o1800-27-per1
+            ls$ec/s
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova numero 11, da parte de santa catarina/obs=foi amortalhado num lencol
+
+         pai$antonio ribeiro coimbra/id=o1800-27-per2
+            ls$morto/antes
+
+         mae$maria rosa/id=o1800-27-per3
+            ls$ec/v
+            ls$residencia/a da gorda
+
+      obito$o1800-28/3/11/1800/fl.25/jose joaquim xavier tavares (prior)
+
+         n$jose/m/id=o1800-28-per1
+            ls$idade_aprox/menor
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova junto as escadas da capela mor da parte de santa catarina
+
+         pai$isidoro monteiro/id=o1800-28-per2
+            ls$residencia/a da gorda
+
+         mae$mariana genoveva/id=o1800-28-per3
+            ls$residencia/a da gorda
+
+      obito$o1800-29/6/11/1800/fl.25/jose joaquim xavier tavares (prior)
+
+         n$delfina/f/id=o1800-29-per1
+            ls$residencia/casais de fraldeu
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de santa maria, na cova numero 1, da parte do altar de santa catarina/obs=faleceu no mesmo dia
+
+         pai$manuel gomes/id=o1800-29-per2
+            ls$morto/antes
+
+         mae$luisa maria/id=o1800-29-per3
+            ls$ec/v
+            ls$residencia/casais de fraldeu
+
+      obito$o1800-30/14/11/1800/fl.25-25v./jose joaquim xavier tavares (prior)
+
+         n$ana maria/f/id=o1800-30-per1
+            ls$residencia/fraldeu
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 12, da parte de santa catarina/obs=faleceu no dia antecedente. foi amortalhado num lencol
+
+         pai$jose da costa/id=o1800-30-per2
+            ls$residencia/casais de fraldeu
+
+         mae$gertrudes maria/id=o1800-30-per3
+            ls$residencia/casais de fraldeu
+
+      obito$o1800-31/16/11/1800/fl.25v./jose joaquim xavier tavares (prior)
+
+         n$jose antonio/m/id=o1800-31-per1
+            ls$pobre/sim
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria/obs=foi amortalhado em serapilheira
+
+      obito$o1800-32/21/11/1800/fl.25v./jose joaquim xavier tavares (prior)
+
+         n$domingos antonio/m/id=o1800-32-per1
+            ls$residencia/columbeira%corumbeira
+
+         sacr$sim
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de santa maria
+
+      obito$o1800-33/21/11/1800/fl.25v./jose joaquim xavier tavares (prior)
+
+         n$jose de coimbra/m/id=o1800-33-per1
+            ls$pobre/sim/obs="hum pobre...cujo nome se lhe percebeu, posto que muito mal, pello seo impedimento deve ser jose de coimbra
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim/obs=pelo impedimento que tinha so recebeu a santa uncao
+
+         locs$adro da igreja de santa maria
+
+      obito$o1800-34/3/12/1800/fl.25v./jose joaquim xavier tavares (prior)
+
+         n$antonio monteiro/m/id=o1800-34-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs=uncao. so recebeu o sacramento da uncao por falta de juizo na sua molestia
+
+         causa$molestia
+
+      obito$o1800-35/3/12/1800/fl.25v.-26/jose joaquim xavier tavares (prior)
+
+         n$antonio da silva lobo/m/id=o1800-35-per1
+            ls$ec/v
+            ls$residencia/obidos
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria
+
+         mulher$eugenia maria/id=o1800-35-per2
+            ls$morta/antes
+
+      obito$o1800-36/10/12/1800/fl.26/jose joaquim xavier tavares (prior)
+
+         n$jose gomes/m/id=o1800-36-per1
+            ls$residencia/fraldeu
+
+         sacr$sim/obs=recebeu os sacramentos excepto o sagrado viatico, "por se lhe nao poder levar este a resam do rigor do tempo"
+
+         locs$dentro da igreja de santa maria, na cova numero 14, da parte de santa catarina
+
+         mulher$joana maria/id=o1800-36-per2
+
+      obito$o1800-37/18/12/1800/fl.26/jose joaquim xavier tavares (prior)
+
+         n$pedro rodrigues/m/id=o1800-37-per1
+            ls$residencia/sitio do senhor jesus da pedra
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 15, da parte de santa catarina
+
+         mulher$hermenegilda%ermenegilda/id=o1800-37-per2
+
+      obito$o1800-38/20/12/1800/fl.26/jose joaquim xavier tavares (prior)
+
+         n$jose da costa/m/id=o1800-38-per1
+            ls$residencia/fraldeu
+
+         sacr$sim/obs=recebeu os sacramentos excepto o sagrado viatico "pello rigor da estacam e lamaz o caminho impedir o puder-se-lhe levar"
+
+         locs$dentro da igreja de santa maria, na cova numero 16, da parte de santa catarina
+
+         mulher$gertrudes maria/id=o1800-38-per2
+            ls$residencia/fraldeu
+
+      obito$o1800-39/31/12/1800/fl.26v./jose joaquim xavier tavares (prior)
+
+         n$maria baptista/f/id=o1800-39-per1
+            ls$residencia/obidos
+            ls$condicao/escrava
+            rel$profissional/escrava/antonio maria/o1800-39-referido
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 17, da parte de santa catarina/obs=foi amortalhada no habito de sao francisco
+
+         referido$antonio maria/id=o1800-39-referido
+            ls$titulo/ilustrissimo
+            ls$residencia/obidos

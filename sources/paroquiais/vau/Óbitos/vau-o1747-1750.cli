@@ -1,0 +1,331 @@
+kleio$gacto.str/prefix=vau
+   fonte$obitos1747-1750/localizacao-a.d.l./freguesia de nossa senhora da piedade, vau
+
+      obito$o1747-1/28/7/1747/fl.2/jose alves (padre, cura)
+
+         n$margarida/f/id=o1747-1-per1
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$francisco henriques/id=o1747-1-per2
+
+         mae$rosa maria/id=o1747-1-per3
+
+      obito$o1747-2/7/8/1747/fl.2/jose alves (padre, cura)
+
+         n$margarida/f/id=o1747-2-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$ilegitima/sim
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose henriques/id=o1747-2-per2
+
+         mae$margarida/id=o1747-2-per3
+            ls$ec/s/obs=moca solteira
+
+      obito$o1747-3/9/9/1747/fl.2/jose alves (padre, cura)
+
+         n$jose/m/id=o1747-3-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$paulo monteiro/id=o1747-3-per2
+
+         mae$rosa teresa/id=o1747-3-per3
+
+      obito$o1747-4/20/9/1747/fl.2/jose alves (padre, cura)
+
+         n$jose/m/id=o1747-4-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$joao pereira/id=o1747-4-per2
+
+         mae$maria caetana/id=o1747-4-per3
+
+      obito$o1747-5/26/9/1747/fl.2/jose alves (padre, cura)
+
+         n$inacio/m/id=o1747-5-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose luis/id=o1747-5-per2
+
+         mae$joana maria/id=o1747-5-per3
+
+      obito$o1747-6/6/10/1747/fl.2/jose alves (padre, cura)
+
+         n$eugenia/f/id=o1747-6-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         mae$teresa%theza/id=o1747-6-per2
+            ls$condicao/escrava
+            rel$profissional/escrava/verissimo martins/o1747-6-referido
+
+         referido$verissimo martins/id=o1747-6-referido
+            ls$cargo/capitao
+            ls$residencia/vau, nossa senhora da piedade
+
+      obito$o1747-7/23/10/1747/fl.2v./jose alves (padre, cura)
+
+         n$maria lopes/f/id=o1747-7-per1
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         testamento$nao
+
+         marido$laurentino luis/id=o1747-7-per2
+            ls$residencia/vau
+
+         oficios$1 oficio
+
+      obito$o1747-8/10/12/1747/fl.2v./jose alves (padre, cura)
+
+         n$antonio/m/obs=orfao/id=o1747-8-per1
+            ls$idade_aprox/menor
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose soares/id=o1747-8-per2
+            ls$residencia/vau
+            ls$morto/antes
+
+      obito$o1748-1/17/1/1748/fl.2v./jose alves (padre, cura)
+
+         n$isabel francisca/f/id=o1748-1-n
+            ls$naturalidade/aveiro
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         oficios$1 oficio, 10 missas
+
+         testamento$sim/obs="fez terça com dez missas ditas por huma so vez a seu filho sebastiao lopes"
+
+         marido$miguel lopes/id=o1748-1-per1
+            ls$naturalidade/moinho da ferraria, freguesia de nossa senhora da piedade
+
+         referido$sebastiao lopes/id=o1748-1-per2
+            rel$parentesco/filho/isabel francisca/o1748-1-n
+
+      obito$o1748-2/26/3/1748/fl.2v./jose alves (padre, cura)
+
+         n$damiana/f/id=o1748-2-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose henriques/id=o1748-2-per2
+            ls$profissao/sapateiro
+
+         mae$maria teresa/id=o1748-2-per3
+
+      obito$o1748-3/9/4/1748/fl.2v./jose alves (padre, cura)
+
+         n$pantaliao ribeiro/m/id=o1748-3-per1
+            ls$ec/v
+            ls$residencia/vau
+
+         sacr$nao/obs=nao recebeu nenhum sacramento por ter sido morte repentina
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         mulher$maria gomes/id=o1748-3-per2
+            ls$morta/antes
+
+      obito$o1748-4/9/8/1748/fl.3/jose alves (padre, cura)
+
+         n$jose/m/id=o1748-4-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/vau
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose henriques/id=o1748-4-per2
+            ls$profissao/sapateiro
+            ls$residencia/vau
+
+         mae$maria teresa/id=o1748-4-per3
+            ls$residencia/vau
+
+      obito$o1748-5/9/8/1748/fl.3/jose alves (padre, cura)
+
+         n$jose/m/id=o1748-5-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/vau
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$francisco henriques/id=o1748-5-per2
+            ls$residencia/vau
+
+         mae$rosa maria/id=o1748-5-per3
+            ls$residencia/vau
+
+      obito$o1748-6/25/8/1748/fl.3/jose alves (padre, cura)
+
+         n$barbara/f/id=o1748-6-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose soares/id=o1748-6-per2
+            ls$residencia/vau
+
+         mae$rosa maria/id=o1748-6-per3
+            ls$residencia/vau
+
+      obito$o1748-7/22/9/1748/fl.3/jose alves (padre, cura)
+
+         n$nicolau/m/id=o1748-7-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/vau
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$domingos martins/id=o1748-7-per2
+            ls$residencia/vau
+
+         mae$vicencia maria/id=o1748-7-per3
+            ls$residencia/vau
+
+      obito$o1748-8/8/11/1748/fl.3v./jose alves (padre, cura)/obs=este registo e assinado pelo paroco jose alves, por manuel dias henriques, joao pereira e antonio luis.
+
+         n$sebastiana maria/f/id=o1748-8-per1
+            ls$ec/v
+
+         sacr$sim
+
+         testamento$sim/obs="nomeou terça para sua alma"
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         locf$quinta da luz, freguesia de nossa senhora da piedade
+
+         marido$domingos goncalves/id=o1748-8-per2
+            ls$residencia/peniche
+            ls$morto/antes
+
+      obito$o1748-9/14/11/1748/fl.3v./jose alves (padre, cura)/obs=a margem e dito que "antonio pinheiro satisfez tudo", isto relativamente aos oficios.
+
+         n$antonio pinheiro/m/id=o1748-9-per1
+            ls$ec/v
+            ls$residencia/vau
+
+            mulher$maria luis/id=o1748-9-per1-per2
+               ls$morta/antes
+               ls$residencia/vau
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         oficios$1 oficio de corpo presente e mais 2 oficios
+
+         testamento$nao
+
+      obito$o1749-1/4/4/1749/fl.3v./jose alves (padre, cura)
+
+         n$antonio rodrigues/id=o1749-1-n
+            ls$ec/v
+            ls$residencia/casal das arroteias, freguesia de nossa senhora da piedade do vau
+
+            mulher$maria delgada/id=o1749-1-n-per1
+               ls$morta/antes
+               ls$residencia/casal das arroteias
+               ls$freguesia/nossa senhora da piedade
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         testamento$sim/obs=fez terca a sua filha joana, com obrigacao de 30 missas por uma so vez
+
+         referida$joana/id=o1749-1-per2
+            rel$parentesco/filha/antonio rodrigues/o1749-1-n
+            rel$sociabilidade/herdeira/antonio rodrigues/o1749-1-n
+
+      obito$o1749-2/14/6/1749/fl.4/jose alves (padre, cura)
+
+         n$felicia delgada/f/id=o1749-2-per1
+            ls$ec/v
+            ls$residencia/vau
+
+            marido$manuel marques/id=o1749-2-per1-per2
+               ls$morto/antes
+
+         sacr$sim/obs=confissao, sagrado viatico, uncao, absolvicao papal
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         oficios$1 oficio de corpo presente, mais 2 oficios, 200 missas/obs="fez doaçam a joam bras do mesmo lugar com pençam de lhe fazerem pella sua alma os seus oficios e duzentas missas"
+
+         referido$joao bras/obs=ficou encarregue de zelar pela concretizacao dos desejos da defunta felicia delgada, mandando fazer os seus oficios e missas/id=o1749-2-per3
+            ls$residencia/vau
+
+      obito$o1749-3/24/10/1749/fl.4/jose alves (padre, cura)
+
+         n$joana/f/id=o1749-3-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/casal da coelheira, freguesia de nossa senhora da piedade do vau
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$francisco henriques/id=o1749-3-per2
+            ls$residencia/casal da coelheira, freguesia de nossa senhora da piedade do vau
+
+         mae$maria jorge/id=o1749-3-per3
+            ls$residencia/casal da coelheira, freguesia de nossa senhora da piedade
+
+      obito$o1749-4/6/12/1749/fl.4/jose alves (padre, cura)
+
+         n$francisca/f/id=o1749-4-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$sebastiao luis/id=o1749-4-per2
+
+         mae$maria dos santos/id=o1749-4-per3
+
+      obito$o1750-1/3/6/1750/fl.4v./jose alves (padre, cura)
+
+         n$maria alves/f/id=o1750-1-per1
+            ls$ec/v
+            ls$residencia/vau
+
+            marido$antonio luis/id=o1750-1-per1-per2
+               ls$morto/antes
+               ls$residencia/vau
+
+         sacr$sim/obs="confiçam e sacro viatico e unçam e todas as mais rolaçons com prodigio e feleçidade"
+
+         locs$dentro da igreja de nossa senhora da piedade, ao pe de uma campa que esta no meio junto ao arco da capela mor no mesmo meio e direito da mesma capela mor
+
+         oficios$3 oficios
+
+      obito$o1750-2/21/7/1750/fl.4v./jose alves (padre, cura)
+
+         n$rodrigo alves/m/id=o1750-2-n
+            ls$ec/v
+            ls$residencia/vau
+
+            mulher$maria luis/id=o1750-2-n-per1
+               ls$morta/antes
+               ls$residencia/vau
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         oficios$3 oficios e 17000 reis para missas
+
+         referido$manuel alves/obs=rodrigo alves deixou a terça de seus bens com obrigação de dezasete mil reis para missas por uma vez a seu filho manuel alves/id=o1750-2-per2
+            rel$parentesco/filho/rodrigo alves/o1750-2-n

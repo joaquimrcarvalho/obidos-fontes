@@ -1,0 +1,898 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$casamentos1541-1635/localizacao-a.d.l./freguesia de sao joao de obidos
+
+      cas$c1541-1/14/8/1541/fl.17./igreja de sao joao/braz fernandes(cura)/obs=assina braz fernandes
+
+         noivo$manuel fernandes/id=c1541-1-per1
+            ls$residencia/arelho
+
+         noiva$isabel goncalves/id=c1541-1-per2
+            ls$residencia/arelho
+
+      cas$c1541-2/5/11/1542/fl.17v./igreja de sao joao/braz fernandes(cura)/obs=assina braz fernandes
+
+         noivo$pedro pires/id=c1541-2-per1
+            ls$residencia/arelho
+
+         pnoivo$pedro anes/id=c1541-2-per2
+
+         mnoivo$maria goncalves/id=c1541-2-per3
+
+         noiva$isabel fonseca/id=c1541-2-per4
+            ls$residencia/arelho
+
+         pnoiva$luis franco/id=c1541-2-per5
+
+         mnoiva$maria fernandes/id=c1541-2-per6
+
+      cas$c1541-3/15/10/1543/fl.17v./igreja de sao joao/braz fernandes(cura)/obs=assina braz fernandes
+
+         noivo$pedro fernandes/id=c1541-3-per1
+            ls$residencia/obidos
+
+         pnoivo$fernando jose/id=c1541-3-per2
+
+         mnoivo$maria pires/id=c1541-3-per3
+
+         noiva$maria lopes/id=c1541-3-per4
+
+         pnoiva$cristovao lopes/id=c1541-3-per5
+
+      cas$c1541-4/30/10/1543/fl.17v./igreja de sao joao/braz fernandes(cura)/obs=assina braz fernandes
+
+         noivo$jeronimo ferreira/id=c1541-4-per1
+
+         pnoivo$gil ferreira/id=c1541-4-per2
+
+         mnoivo$catarina martins/id=c1541-4-per3
+
+         noiva$joana fernandes/id=c1541-4-per4
+
+         pnoiva$duarte fernandes/id=c1541-4-per5
+
+         mnoiva$maria pires/id=c1541-4-per6
+
+      cas$c1600-5/14/5/1600/fl.85./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$antonio lopes/id=c1600-5-per1
+            ls$residencia/a dos negros
+
+         noiva$maria luis/id=c1600-5-per2
+            ls$residencia/sobral
+
+         test$pedro dias/id=c1600-5-per3
+
+         test$silvestre leonardo leitao/id=c1600-5-per4
+
+      cas$c1600-6/6/8/1600/fl.85./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$joao martins/id=c1600-6-per1
+            ls$residencia/casal da figueira
+
+         noiva$natalia francisca/id=c1600-6-per2
+            ls$residencia/freguesia de santa maria madalena/obs= sem mais informacao
+
+         test$estevao martins/id=c1600-6-per3
+
+         test$fernando esteves/obs=duvida na leitura do apelido/id=c1600-6-per4
+
+      cas$c1600-7/17/8/1600/fl.85./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$gaspar fialho/obs=duvida na leitura do apelido/id=c1600-7-per1
+            ls$residencia/arelho
+
+         noiva$domingas jorge/id=c1600-7-per2
+            ls$residencia/arelho
+
+         test$joao jorge/id=c1600-7-per3
+
+         test$pedro manuel/id=c1600-7-per4
+
+         test$antonio dias/id=c1600-7-per5
+
+      cas$c1600-8/1/10/1600/fl.85./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$francisco jorge/id=c1600-8-per1
+            ls$residencia/arelho
+
+         noiva$catarina leitoa/id=c1600-8-per2
+            ls$residencia/sobral
+
+         test$antonio dias/id=c1600-8-per3
+            ls$profissao/pedreiro
+
+      cas$c1601-9/2/2/1601/fl.85v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$francisco de sousa/id=c1601-9-per1
+            ls$residencia/ribeira das caldas
+
+         pnoivo$joao de sousa/id=c1601-9-per2
+            ls$residencia/ribeira das caldas
+
+         noiva$maria fernandes/id=c1601-9-per3
+            ls$residencia/carregal
+
+         pnoiva$pedro rodrigues/id=c1601-9-per4
+            ls$residencia/carregal
+
+         test$estevao dias o velho/id=c1601-9-per5
+            ls$residencia/carregal
+
+         test$estevao dias o moco/id=c1601-9-per6
+            ls$residencia/carregal
+
+         test$diogo pires/id=c1601-9-per7
+            ls$residencia/carregal
+
+      cas$c1601-10/13/2/1601/fl.85v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$miguel fernandes/id=c1601-10-per1
+            ls$ec/viuvo
+            ls$residencia/a dos negros
+
+         noiva$maria do couto/id=c1601-10-per2
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         test$francisco fernandes/id=c1601-10-per3
+
+         test$joao francisco/id=c1601-10-per4
+
+         test$braz dias/id=c1601-10-per5
+
+      cas$c1601-11/14/2/1601/fl.85v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$francisco fernandes/id=c1601-11-noivo
+            rel$parentesco/consanguinidade de quarto grau/maria francisca/c1601-11-noiva
+            ls$residencia/sobral
+
+         noiva$maria francisca/id=c1601-11-noiva
+            ls$residencia/sobral
+
+         test$goncalo da fonseca/id=c1601-11-per1
+
+         test$antonio lopes/id=c1601-11-per2
+
+         test$pedro rodrigues/id=c1601-11-per3
+
+      cas$c1601-12/2/6/1601/fl.86./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$domingos leitao/id=c1601-12-per1
+            ls$residencia/sobral
+
+         noiva$isabel antunes/id=c1601-12-per2
+            ls$residencia/sobral
+
+         test$braz fernandes/id=c1601-12-per3
+            ls$residencia/sobral
+
+         test$domingos fernandes/id=c1601-12-per4
+            ls$residencia/sobral
+
+         test$antonio lopes/id=c1601-12-per5
+            ls$residencia/sobral
+
+      cas$c1601-13/22/7/1601/fl.86./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$estevao dias/id=c1601-13-per1
+            ls$residencia/carregal
+
+         pnoivo$estevao dias/id=c1601-13-per2
+            ls$residencia/carregal
+
+         noiva$beatriz henriques/id=c1601-13-per3
+            ls$residencia/arelho
+
+         test$francisco fernandes/id=c1601-13-per4
+            ls$residencia/carregal
+
+         test$manuel dias/id=c1601-13-per5
+            ls$residencia/carregal
+
+      cas$c1601-14/25/7/1601/fl.86./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$joao francisco/id=c1601-14-per1
+            ls$ec/viuvo
+            ls$residencia/arelho
+
+         noiva$margarida goncalves/id=c1601-14-per2
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         test$gregorio manuel/id=c1601-14-per3
+            ls$residencia/obidos
+
+         test$manuel luis/id=c1601-14-per4
+            ls$residencia/obidos
+
+      cas$c1601-15/1/9/1601/fl.86./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$antonio vicente/id=c1601-15-per1
+            ls$ec/viuvo
+            ls$residencia/sobral
+
+         noiva$maria genoveva/obs=duvida na leitura do apelido/id=c1601-15-per2
+            ls$ec/solteira
+            ls$residencia/sobral
+
+         test$leonardo ?/id=c1601-15-per3
+
+         test$afonso delgado/id=c1601-15-per4
+
+      cas$c1602-16/13/1/1602/fl.86v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$gaspar francisco/id=c1602-16-per1
+            ls$ec/viuvo
+            ls$residencia/arelho
+
+         noiva$joana goncalves/id=c1602-16-per2
+            ls$ec/solteira
+            ls$residencia/arelho
+
+         test$joao francisco/id=c1602-16-per3
+
+         test$antonio tavares/id=c1602-16-per4
+
+         test$francisco jorge/id=c1602-16-per5
+
+      cas$c1602-17/27/1/1602/fl.86v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$pedro fernandes/id=c1602-17-per1
+            ls$ec/viuvo
+            ls$residencia/sobral
+
+         noiva$maria rodrigues/id=c1602-17-per2
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         test$manuel cabral/id=c1602-17-per3
+
+         test$silvestre braz/id=c1602-17-per4
+
+         test$baptista afonso/obs=sic/id=c1602-17-per5
+
+      cas$c1602-18/21/4/1602/fl.86v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$pedro botelho/id=c1602-18-per1
+            ls$residencia/freguesia de sao joao de obidos
+
+         noiva$margarida duarte/id=c1602-18-per2
+            ls$residencia/freguesia de sao joao de obidos
+
+         test$valerio tavares de sousa/id=c1602-18-per3
+            ls$cargo/juiz dos orfaos
+
+         test$braz fernandes/id=c1602-18-per4
+            ls$residencia/sobral
+
+         test$antonio luis/id=c1602-18-per5
+
+      cas$c1602-19/28/4/1602/fl.86v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$henrique fernandes/id=c1602-19-per1
+            ls$residencia/arelho
+
+         noiva$isabel fernandes/id=c1602-19-per2
+            ls$residencia/arelho
+
+         test$diogo fernandes/id=c1602-19-per3
+            ls$residencia/arelho
+
+         test$joao francisco/id=c1602-19-per4
+            ls$residencia/arelho
+
+         test$leonardo braz/id=c1602-19-per5
+            ls$residencia/arelho
+
+      cas$c1602-20/20/5/1602/fl.86v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$jeronimo gomes/id=c1602-20-per1
+            ls$ec/viuvo
+            ls$residencia/arelho
+
+         noiva$isabel henriques/id=c1602-20-per2
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         test$domingos fernandes/id=c1602-20-per3
+            ls$residencia/obidos
+
+         test$domingos antunes/id=c1602-20-per4
+            ls$residencia/arelho
+
+         test$antonio tristao/id=c1602-20-per5
+            ls$profissao/padre
+
+      cas$c1602-21/25/8/1602/fl.87./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$francisco fernandes/id=c1602-21-per1
+            ls$residencia/sobral
+
+         noiva$gregoria luisa/id=c1602-21-per2
+            ls$residencia/sobral
+
+         test$gregorio de freitas/id=c1602-21-per3
+            ls$residencia/obidos
+
+         test$francisco de freitas/id=c1602-21-per4
+            ls$residencia/obidos
+
+         test$antonio luis/id=c1602-21-per5
+            ls$residencia/sobral
+
+      cas$c1602-22/2/9/1602/fl.87./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$domingos fernandes/id=c1602-22-per1
+            ls$ec/viuvo
+            ls$residencia/sobral
+
+         noiva$antonia dias/id=c1602-22-per2
+            ls$ec/solteira
+            ls$residencia/obidos
+
+         test$alvaro barreto/id=c1602-22-per3
+            ls$residencia/obidos
+
+         test$antonio nunes/id=c1602-22-per4
+            ls$residencia/obidos
+
+         test$joao tomas de sousa/id=c1602-22-per5
+            ls$profissao/padre
+            ls$cargo/padre economo
+
+      cas$c1603-23/14/4/1603/fl.87./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$pedro rodrigues fogacho/obs=duvida na leitura do apelido/id=c1603-23-per1
+            ls$ec/viuvo
+
+         noiva$leonor rodrigues/id=c1603-23-per2
+            ls$ec/viuva
+
+         test$sebastiao francisco/id=c1603-23-per3
+
+         test$antonio francisco/id=c1603-23-per4
+
+      cas$c1603-24/11/5/1603/fl.87./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$leonardo vicente/id=c1603-24-per1
+            ls$ec/viuvo
+            ls$residencia/arelho
+
+         noiva$antonia henriques/id=c1603-24-per2
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         test$joao francisco/id=c1603-24-per3
+            ls$residencia/arelho
+
+         test$joao dias/id=c1603-24-per4
+            ls$residencia/arelho
+
+         test$adao dias/id=c1603-24-per5
+            ls$residencia/arelho
+
+      cas$c1603-25/11/5/1603/fl.87./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$luis fernandes/id=c1603-25-per1
+            ls$ec/solteiro
+            ls$residencia/arelho
+
+         noiva$joana rodrigues/id=c1603-25-per2
+            ls$ec/solteira
+            ls$residencia/arelho
+
+         test$gregorio de freitas/id=c1603-25-per3
+            ls$residencia/obidos
+
+         test$leonardo rodrigues/id=c1603-25-per4
+            ls$residencia/arelho
+
+         test$gaspar francisco/id=c1603-25-per5
+            ls$residencia/arelho
+
+      cas$c1603-26/3/8/1603/fl.87v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$mateus rodrigues/id=c1603-26-per1
+            ls$residencia/bairro
+
+         noiva$francisca fernandes/id=c1603-26-per2
+            ls$residencia/arelho
+
+         test$manuel de lemos/id=c1603-26-per3
+            ls$residencia/obidos
+
+         test$gaspar dias/id=c1603-26-per4
+            ls$residencia/tras do outeiro
+
+         test$joao delgado/id=c1603-26-per5
+            ls$residencia/sobral
+
+      cas$c1603-27/11/10/1603/fl.87v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$francisco dias/id=c1603-27-per1
+            ls$residencia/sancheira
+
+         noiva$helena vieira/id=c1603-27-per2
+            ls$residencia/sobral
+
+         test$antonio leitao/id=c1603-27-per3
+            ls$residencia/sobral
+
+         test$henrique leitao/id=c1603-27-per4
+            ls$residencia/sobral
+
+         test$antonio pires/id=c1603-27-per5
+            ls$residencia/sobral
+
+      cas$c1604-28/29/8/1604/fl.87v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$estevao correia/id=c1604-28-per1
+            ls$residencia/bairro
+
+         noiva$joana dias/id=c1604-28-per2
+            ls$residencia/bairro
+
+         pnoiva$joao alvares/id=c1604-28-per3
+            ls$residencia/bairro
+
+         mnoiva$maria dias/obs=marta? dias/id=c1604-28-per4
+
+         test$gaspar de freitas/id=c1604-28-per5
+            ls$residencia/obidos
+
+      cas$c1604-29/21/9/1604/fl.88./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$estevao tavares/id=c1604-29-per1
+            ls$residencia/caldas
+
+         noiva$maria luis/id=c1604-29-per2
+            ls$residencia/sobral
+
+         pnoiva$domingos luis/id=c1604-29-per3
+            ls$residencia/sobral
+
+         mnoiva$margarida fernandes/id=c1604-29-per4
+
+         test$dionisio fortes/id=c1604-29-per5
+            ls$residencia/obidos
+
+         test$francisco correia/id=c1604-29-per6
+            ls$residencia/obidos
+
+      cas$c1604-30/3/10/1604/fl.88./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$andre dias/id=c1604-30-per1
+            ls$residencia/obidos
+
+         noiva$gracia delgada/obs= sic/id=c1604-30-per2
+            ls$residencia/carregal
+
+         test$lopo de sequeira/id=c1604-30-per3
+            ls$residencia/obidos
+
+         test$francisco luis/id=c1604-30-per4
+            ls$residencia/obidos
+
+      cas$c1604-31/5/10/1604/fl.88./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$diogo pires/id=c1604-31-per1
+            ls$ec/viuvo
+            ls$residencia/carregal
+
+         noiva$maria dias/id=c1604-31-per2
+            ls$ec/solteira
+            ls$residencia/casal da fronda, termo de alvorinha/obs=duvida na leitura do toponimo
+
+         test$lourenco dias/id=c1604-31-per3
+
+         test$estevao dias/id=c1604-31-per4
+            ls$alcunha/o moco
+
+      cas$c1604-32/21/11/1604/fl.88./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$adao dias o moco/id=c1604-32-per1
+            ls$residencia/arelho
+
+         noiva$maria francisca/id=c1604-32-per2
+            ls$residencia/arelho
+
+         test$joao francisco/id=c1604-32-per3
+
+         test$leonor braz/id=c1604-32-per4
+
+         test$manuel rodrigues/id=c1604-32-per5
+
+      cas$c1605-33/20/1/1605/fl.88v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$goncalo francisco/id=c1605-33-per1
+            ls$residencia/amoreira
+
+         noiva$filipa francisca/id=c1605-33-per2
+            ls$residencia/sobral
+
+         test$braz fernandes/id=c1605-33-per3
+            ls$alcunha/o velho
+
+         test$antonio martins/id=c1605-33-per4
+            ls$residencia/amoreira
+
+      cas$c1605-34/23/1/1605/fl.88v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$pedro leitao/id=c1605-34-per1
+            ls$ec/viuvo
+            ls$residencia/sobral
+
+         noiva$domingas dias/id=c1605-34-per2
+
+         test$braz fernandes/id=c1605-34-per3
+
+         test$domingos fernandes/id=c1605-34-per4
+
+         test$jorge leitao/id=c1605-34-per5
+
+      cas$c1605-35/30/1/1605/fl.88v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$joao antunes/id=c1605-35-per1
+            ls$residencia/sobral
+
+         noiva$barbara luis/id=c1605-35-per2
+            ls$residencia/atouguia
+
+         test$gaspar fernandes batel/id=c1605-35-per3
+
+         test$joao leitao/id=c1605-35-per4
+
+         test$braz fernandes/id=c1605-35-per5
+
+      cas$c1605-36/6/2/1605/fl.88v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$zuzarte afonso/obs= sic zuzarte/id=c1605-36-per1
+            ls$residencia/salir do mato
+
+         noiva$marta dias/id=c1605-36-per2
+            ls$residencia/bairro
+
+         test$joao alvares/id=c1605-36-per3
+
+         test$simao luis/id=c1605-36-per4
+
+         test$diogo afonso/id=c1605-36-per5
+
+      cas$c1605-37/13/4/1605/fl.88v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$diogo fernandes lavrador/id=c1605-37-per1
+            ls$residencia/arelho
+
+         noiva$maria francisca/id=c1605-37-per2
+            ls$residencia/carvalhal
+
+         test$joao luis/id=c1605-37-per3
+            ls$residencia/arelho
+
+         test$andre dias/id=c1605-37-per4
+            ls$residencia/arelho
+
+      cas$c1605-38/24/7/1605/fl.89./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$domingos dias/id=c1605-38-per1
+            ls$ec/viuvo
+            ls$residencia/arelho
+
+         noiva$maria rodrigues/id=c1605-38-per2
+            ls$ec/solteira
+            ls$residencia/arelho
+
+         test$afonso alvares/id=c1605-38-per3
+
+         test$diogo pires/id=c1605-38-per4
+
+         test$gaspar fernandes/id=c1605-38-per5
+
+      cas$c1606-39/6/5/1606/fl.89./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$antonio francisco/id=c1606-39-per1
+            ls$residencia/gaeiras
+
+         noiva$antonia dias/id=c1606-39-per2
+            ls$residencia/bairro
+
+         test$antonio barreto/id=c1606-39-per3
+            ls$residencia/obidos
+
+         test$joao francisco/id=c1606-39-per4
+
+         test$andre dias/id=c1606-39-per5
+            ls$residencia/arelho
+
+      cas$c1606-40/3/9/1606/fl.89./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$belchior dias/id=c1606-40-per1
+            ls$residencia/da gorda
+
+         noiva$domingas fernandes/id=c1606-40-per2
+            ls$residencia/arelho
+
+         test$joao franco/id=c1606-40-per3
+            ls$residencia/arelho
+
+         test$antonio vicente/id=c1606-40-per4
+            ls$residencia/arelho
+
+         test$manuel dias/id=c1606-40-per5
+            ls$residencia/carregal
+
+      cas$c1606-41/22/10/1606/fl.89./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$antonio francisco/id=c1606-41-per1
+            ls$ec/solteiro
+            ls$residencia/sobral
+
+         noiva$maria franca/id=c1606-41-per2
+            ls$ec/solteira
+            ls$residencia/arelho
+
+         test$lopo de sequeira/id=c1606-41-per3
+
+         test$joao francisco/id=c1606-41-per4
+
+         test$pedro manuel/id=c1606-41-per5
+
+      cas$c1606-42/26/8/1606/fl.89v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$antonio fernandes/id=c1606-42-per1
+            ls$residencia/casal do paio
+
+         noiva$jeronima fernandes/obs=duvida na leitura do nome/id=c1606-42-per2
+            ls$residencia/arelho
+
+         test$joao francisco/id=c1606-42-per3
+
+         test$diogo fernandes/id=c1606-42-per4
+
+         test$manuel dias/id=c1606-42-per5
+            ls$residencia/carregal
+
+      cas$c1606-43/14/10/1606/fl.89v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$pedro goncalves/id=c1606-43-per1
+            ls$residencia/a dos negros
+
+         noiva$andreia francisca/id=c1606-43-per2
+            ls$residencia/sobral
+
+         test$antonio tavares/id=c1606-43-per3
+            ls$residencia/obidos
+
+         test$manuel leitao/id=c1606-43-per4
+            ls$residencia/obidos
+
+      cas$c1606-44/4/11/1606/fl.89v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$domingos duarte/id=c1606-44-per1
+            ls$residencia/reguengo
+
+         noiva$maria gaspar/id=c1606-44-per2
+            ls$residencia/carregal
+
+         test$francisco fernandes/id=c1606-44-per3
+
+         test$diogo goncalves/id=c1606-44-per4
+
+         test$joao franco/id=c1606-44-per5
+
+      cas$c1608-45/22/1/1608/fl.89v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$antonio francisco/id=c1608-45-per1
+            ls$residencia/arelho
+
+         noiva$francisca pires/id=c1608-45-per2
+            ls$residencia/carvalhal
+
+         test$francisco de freitas/id=c1608-45-per3
+            ls$residencia/obidos
+
+         test$joao franco/id=c1608-45-per4
+            ls$residencia/arelho
+
+      cas$c1608-46/15/2/1608/fl.90./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$domingos francisco/id=c1608-46-per1
+            ls$residencia/arelho
+
+         noiva$antonia simoa/id=c1608-46-per2
+            ls$residencia/arelho
+
+         test$leonardo braz/id=c1608-46-per3
+            ls$residencia/arelho
+
+         test$luis fernandes/id=c1608-46-per4
+            ls$residencia/arelho
+
+         test$joao franco/id=c1608-46-per5
+            ls$residencia/arelho
+
+      cas$c1609-47/26/11/1609/fl.90./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$jorge fernandes/id=c1609-47-per1
+            ls$residencia/arelho
+
+         noiva$francisca leitoa/id=c1609-47-per2
+            ls$residencia/arelho
+
+         test$francisco jorge/id=c1609-47-per3
+            ls$residencia/arelho
+
+         test$pedro manuel/id=c1609-47-per4
+            ls$residencia/arelho
+
+         test$diogo fernandes/id=c1609-47-per5
+            ls$residencia/arelho
+
+      cas$c1610-48/10/1/1610/fl.90./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$joao francisco/id=c1610-48-per1
+            ls$residencia/arelho
+
+         noiva$marta vicente/id=c1610-48-per2
+            ls$residencia/bairro
+
+         test$francisco de freitas/id=c1610-48-per3
+
+         test$gaspar franco/id=c1610-48-per4
+
+         test$simao luis/id=c1610-48-per5
+
+      cas$c1610-49/1/8/1610/fl.90./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$luis fernandes/id=c1610-49-per1
+            ls$residencia/sobral
+
+         noiva$maria fernandes/id=c1610-49-per2
+            ls$residencia/sobral
+
+         test$goncalo fernandes/id=c1610-49-per3
+            ls$residencia/sobral
+
+         test$gaspar fernandes/id=c1610-49-per4
+            ls$residencia/sobral
+
+         test$maria dias/id=c1610-49-per5
+            ls$residencia/sobral
+
+      cas$c1610-50/5/11/1610/fl.90v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$joao luis/id=c1610-50-per1
+            ls$residencia/sobral
+
+         noiva$guiomar fernandes/id=c1610-50-per2
+            ls$residencia/sobral
+
+         test$vasco freitas/id=c1610-50-per3
+
+         test$joao delgado/id=c1610-50-per4
+
+         test$joao luis/id=c1610-50-per5
+
+      cas$c1611-51/19/1/1611/fl.90v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$antonio de ?/id=c1611-51-per1
+            ls$profissao/trabalhador
+            ls$residencia/sobral
+
+         noiva$margarida francisca/id=c1611-51-per2
+            ls$residencia/sobral
+
+         test$miguel leitao/id=c1611-51-per3
+
+         test$francisco fernandes/id=c1611-51-per4
+
+         test$domingos de sousa/id=c1611-51-per5
+
+      cas$c1611-52/6/2/1611/fl.90v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$francisco vicente/id=c1611-52-per1
+            ls$residencia/obidos
+
+         noiva$isabel dias/id=c1611-52-per2
+
+         test$braz fernandes/id=c1611-52-per3
+
+         test$zuzarte afonso/id=c1611-52-per4
+
+      cas$c1611-53/15/5/1611/fl.90v./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$francisco de faria/id=c1611-53-per1
+            ls$residencia/obidos
+
+         noiva$antonia ?/obs=o registo fica interrompido na passagem do fl. 90v para a o fl 91/id=c1611-53-per2
+
+      cas$c1611-54/6/10/1611/fl.71./igreja de sao joao/joao delgado(cura)/obs=assina joao delgado
+
+         noivo$jeronimo ferreira/id=c1611-54-per1
+            ls$residencia/sobral
+
+         noiva$catarina antunes/id=c1611-54-per2
+            ls$residencia/sobral
+
+         test$gregorio jorge/id=c1611-54-per3
+
+         test$francisco de faria/id=c1611-54-per4
+
+         test$joao dias/id=c1611-54-per5
+
+      cas$c1611-55/6/11/1611/fl.71./igreja de sao joao/joao delgado(cura)/obs=assina joao delgado
+
+         noivo$pedro fernandes/id=c1611-55-per1
+            ls$residencia/arelho
+
+         noiva$brites dias/id=c1611-55-per2
+            ls$residencia/arelho
+
+         test$simao dias/id=c1611-55-per3
+            ls$profissao/tanoeiro
+
+      cas$c1612-56/2/9/1612/fl.71v./igreja de sao joao/joao delgado(cura)/obs=assina joao delgado
+
+         noivo$mateus antunes/id=c1612-56-per1
+            ls$residencia/arelho
+
+         noiva$francisca fernandes/id=c1612-56-per2
+            ls$residencia/arelho
+
+         test$domingos de sousa/id=c1612-56-per3
+
+         test$gaspar dias/id=c1612-56-per4
+
+         test$henrique fernandes/id=c1612-56-per5
+
+      cas$c1612-57/4/11/1612/fl.71v./igreja de sao joao/joao delgado(cura)/obs=assina joao delgado
+
+         noivo$domingos simao/id=c1612-57-per1
+            ls$ec/viuvo
+            ls$residencia/amoreira
+
+         noiva$domingas da horta/id=c1612-57-per2
+            ls$residencia/sobral
+
+         pnoiva$antonio luis/id=c1612-57-per3
+            ls$residencia/sobral
+
+         test$antonio tavares/id=c1612-57-per4
+            ls$residencia/obidos
+
+         test$gregorio de freitas/id=c1612-57-per5
+            ls$residencia/obidos
+
+      cas$c1635-58/8/7/1635/fl.91./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$diogo rosa/obs=duvida na leitura do nome/id=c1635-58-per1
+            ls$ec/viuvo
+            ls$residencia/obidos
+
+         noiva$maria leitoa/id=c1635-58-per2
+            ls$residencia/sobral
+
+         pnoiva$francisco gomes/id=c1635-58-per3
+            ls$residencia/sobral
+
+         mnoiva$gregoria leitoa/id=c1635-58-per4
+
+      cas$c1635-59/2/9/1635/fl.91./igreja de sao joao/joao delgados(cura)/obs=assina joao delgado
+
+         noivo$pedor francisco/id=c1635-59-per1
+            ls$residencia/obidos
+
+         pnoivo$domingos da silva/id=c1635-59-per2
+            ls$residencia/obidos
+
+         mnoivo$domingas francisca/id=c1635-59-per3
+
+         noiva$catarina jorge/id=c1635-59-per4
+            ls$residencia/arelho
+
+         pnoiva$francisco jorge/id=c1635-59-per5
+            ls$morto/antes
+            ls$residencia/arelho
+
+         mnoiva$francisca leitoa/obs=duvida na leitura do nome/id=c1635-59-per6
+            ls$morta/antes

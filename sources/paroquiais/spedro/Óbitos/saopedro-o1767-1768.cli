@@ -1,0 +1,669 @@
+kleio$gacto.str/prefix=spedro
+   fonte$obitos1767-1768/localizacao-a.d.l./freguesia de sao pedro
+
+      obito$o1767-1/2/1/1767/fl.7v./valeriano gomes henriques (cura)
+
+         n$pedro/m/id=o1767-1-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$igreja de sao pedro
+
+         pai$felix correia/id=o1767-1-per2
+            ls$residencia/obidos
+
+         mae$josefa maria/id=o1767-1-per3
+            ls$residencia/obidos
+
+      obito$o1767-2/12/1/1767/fl.7v./valeriano gomes henriques (cura)
+
+         n$joaquim/m/id=o1767-2-per1
+            ls$idade_aprox/menor
+
+         locs$freguesia de sao pedro
+
+         pai$manuel martins/id=o1767-2-per2
+            ls$alcunha/o moco%o mosso
+            ls$residencia/obidos
+
+         mae$maria antonia/id=o1767-2-per3
+            ls$residencia/obidos
+
+      obito$o1767-3/15/2/1767/fl.8/valeriano gomes henriques (cura)
+
+         n$timoteo/m/id=o1767-3-per1
+            ls$profissao/criado
+            ls$pobre/sim
+            ls$alcunha/o mouro
+            ls$residencia/obidos
+            rel$profissional/criado/maximo joaquim/o1767-3-referido/obs=foi amortalhado no habito de sao francisco
+
+         sacr$sim
+
+         locs$freguesia de sao pedro
+
+         referido$maximo joaquim/id=o1767-3-referido
+            ls$profissao/padre
+
+      obito$o1767-4/20/2/1767/fl.8/valeriano gomes henriques (cura)
+
+         n$maria do nascimento/f/id=o1767-4-per1
+            ls$ec/v
+            ls$residencia/usseira
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhada no habito de sao francisco
+
+         testamento$sim
+
+         oficios$3 oficios de 9 licoes
+
+      obito$o1767-5/11/3/1767/fl.8/valeriano gomes henriques (cura)
+
+         n$gertrudes/f/id=o1767-5-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$freguesia de sao pedro
+
+         pai$jose gomes/id=o1767-5-per2
+            ls$residencia/obidos
+
+         mae$catarina de sena/id=o1767-5-per3
+            ls$residencia/obidos
+
+      obito$o1767-6/15/3/1767/fl.8v./valeriano gomes henriques (cura)
+
+         n$isabel da costa/f/id=o1767-6-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhada no habito de sao francisco
+
+         testamento$nao
+
+         oficios$3 oficios de 9 licoes
+
+         marido$martinho soares/id=o1767-6-per2
+
+      obito$o1767-7/1/5/1767/fl.8v./valeriano gomes henriques (cura)
+
+         n$manuel de seixas vasconcelos/m/id=o1767-7-per1
+            ls$pobre/sim
+            ls$naturalidade/obidos
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         testamento$nao
+
+      obito$o1767-8/11/5/1767/fl.8v./valeriano gomes henriques (cura)
+
+         n$joao manuel/m/id=o1767-8-per1
+            ls$residencia/usseira
+            ls$pobre/sim
+
+         sacr$sim
+
+         locs$freguesia de sao pedro/obs=foi amortalhado numa mortalha que a santa casa lhe deu por ser muito pobre
+
+         locf$enfermaria da santa casa da misericordia
+
+      obito$o1767-9/19/5/1767/fl.9/valeriano gomes henriques (cura)
+
+         n$gregorio/m/id=o1767-9-per1
+            ls$pobre/sim
+            ls$residencia/casal do catelao%cazal do cathellam
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         mae$micaela maria/id=o1767-9-per2
+            ls$residencia/casal do catelao%cazal do cathellam
+
+      obito$o1767-10/30/5/1767/fl.9/valeriano gomes henriques (cura)
+
+         n$jose gomes da silveira/m/id=o1767-10-per1
+            ls$ec/v
+            ls$naturalidade/obidos
+
+         sacr$sim/obs=confissao, santa uncao
+
+         locs$freguesia de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         testamento$nao
+
+         oficios$3 oficios de 9 licoes
+
+      obito$o1767-11/9/6/1767/fl.9/valeriano gomes henriques (cura)
+
+         n$jose joaquim henriques/m/id=o1767-11-per1
+            ls$titulo/doutor
+            ls$pobre/sim
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         testamento$nao
+
+      obito$o1767-12/24/6/1767/fl.9v./valeriano gomes henriques (cura)
+
+         n$eusebia/f/id=o1767-12-n
+            ls$enjeitada/sim/obs=enjeitada do concelho de obidos
+
+         locs$adro da igreja de sao pedro
+
+         referida$ana maria/id=o1767-12-referida
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/eusebia/o1767-12-n
+
+         referido$jose da costa/id=o1767-12-per1
+            ls$residencia/pinhal
+            rel$parentesco/marido/ana maria/o1767-12-referida
+
+      obito$o1767-13/24/7/1767/fl.9v./valeriano gomes henriques (cura)
+
+         n$maria/f/id=o1767-13-n
+            ls$enjeitada/sim/obs=enjeitada do hospital de lisboa
+
+         locs$adro da igreja de sao pedro
+
+         referida$inacia maria/id=o1767-13-referida
+            ls$residencia/usseira
+            rel$sociabilidade/ama/maria/o1767-13-n
+
+         referido$manuel gomes/id=o1767-13-per1
+            ls$residencia/usseira
+            rel$parentesco/marido/inacia maria/o1767-13-referida
+
+      obito$o1767-14/2/9/1767/fl.9v./valeriano gomes henriques (cura)
+
+         n$jose miguel de oliveira/m/id=o1767-14-per1
+
+         sacr$sim
+
+         locs$igreja de sao pedro
+
+         pai$miguel ribeiro da cruz/id=o1767-14-per2
+            ls$cargo/desembargador
+
+      obito$o1767-15/27/9/1767/fl.9v.-10/valeriano gomes henriques (cura)
+
+         n$antonio correia/m/obs=homem pardo/id=o1767-15-per1
+            ls$residencia/em casa do padre valeriano gomes henriques
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco.
+
+         referido$valeriano gomes henriques/obs=paroco que faz este assento/id=o1767-15-per2
+            ls$cargo/cura da igreja de sao pedro
+
+      obito$o1765-1a/8/5/1765/fl.10/valeriano gomes henriques (cura)/obs=no registo o paroco declara que este assento nao foi feito no sitio certo por falta de clareza.
+
+         n$josefa joaquina/f/id=o1765-1a-per1
+            ls$ec/v
+            ls$pobre/sim
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         testamento$nao
+
+         marido$sebastiao vieira delgado/id=o1765-1a-per2
+            ls$morto/antes
+
+      obito$o1767-16/8/10/1767/fl.10/valeriano gomes henriques (cura)
+
+         n$diogo/m/id=o1767-16-n
+            ls$enjeitado/sim/obs=menino, enjeitado do hospital de lisboa
+
+         locs$adro da igreja de sao pedro
+
+         referida$ana da silva/id=o1767-16-referida
+            ls$residencia/usseira
+            rel$sociabilidade/ama/diogo/o1767-16-n
+
+         referido$jose francisco/id=o1767-16-per1
+            ls$residencia/usseira
+            rel$parentesco/marido/ana da silva/o1767-16-referida
+
+      obito$o1767-17/17/11/1767/fl.10v./valeriano gomes henriques (cura)
+
+         n$antonio/m/id=o1767-17-n
+            ls$enjeitado/sim/obs=enjeitado do hospital de lisboa
+
+         locs$igreja de sao pedro
+
+         referida$maria inacia/id=o1767-17-referida
+            ls$residencia/usseira
+            rel$sociabilidade/ama/antonio/o1767-17-n
+
+         referido$manuel das neves/id=o1767-17-per1
+            ls$residencia/usseira
+            rel$parentesco/marido/maria inacia/o1767-17-referida
+
+      obito$o1767-18/17/11/1767/fl.10v./valeriano gomes henriques (cura)
+
+         n$manuel/m/id=o1767-18-per1
+            ls$idade_aprox/menor
+            ls$residencia/colchoes%colchoens
+
+         locs$igreja de sao pedro
+
+         pai$jose inacio/id=o1767-18-per2
+            ls$residencia/colchoes%colchoens
+
+         mae$josefa maria/id=o1767-18-per3
+            ls$residencia/colchoes%colchoens
+
+      obito$o1767-19/17/11/1767/fl.10v./valeriano gomes henriques (cura)
+
+         n$joaquim/m/id=o1767-19-n
+            ls$idade_aprox/menor/obs=menino, baptizado em casa
+
+         locs$igreja de sao pedro
+
+         referido$joao henriques/id=o1767-19-per1
+            ls$profissao/padre
+            rel$sociabilidade/baptizou em necessidade/joaquim/o1767-19-n
+
+         pai$agostinho gomes da silveira/id=o1767-19-per2
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mae$maria da conceicao/id=o1767-19-per3
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      obito$o1767-20/22/12/1767/fl.11/valeriano gomes henriques (cura)
+
+         n$joao ferreira/m/id=o1767-20-per1
+            ls$residencia/usseira
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         testamento$nao
+
+         mulher$mariana gomes/id=o1767-20-per2
+
+      obito$o1767-21/23/12/1767/fl.11/valeriano gomes henriques (cura)
+
+         n$antonio gomes/m/id=o1767-21-per1
+            ls$pobre/sim
+            ls$profissao/canastreiro
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         testamento$nao
+
+         mulher$ines maria/id=o1767-21-per2
+            ls$residencia/obidos
+
+      obito$o1768-1/5/1/1768/fl.11-11v./valeriano gomes henriques (cura)
+
+         n$jose franco de arruda/m/id=o1768-1-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado no habito de sao francisco
+
+         testamento$nao
+
+      obito$o1768-2/7/1/1768/fl.11v./valeriano gomes henriques (cura)
+
+         n$joao francisco/m/id=o1768-2-per1
+            ls$pobre/sim
+            ls$ec/v
+            ls$residencia/quinta nova
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhado num lencol
+
+         mulher$isabel da conceicao/id=o1768-2-per2
+            ls$morta/antes
+
+      obito$o1768-3/13/1/1768/fl.11v./valeriano gomes henriques (cura)
+
+         n$gregorio de andrade/m/id=o1768-3-per1
+            ls$pobre/sim
+            ls$residencia/casal junto a serra de el rei
+
+         sacr$sim/obs=so recebeu o sacramento da uncao "por nao falar, nem dar outros alguns signais"
+
+         locs$igreja de sao pedro
+
+         locf$enfermaria da santa casa da misericordia
+
+      obito$o1768-4/13/1/1768/fl.12/valeriano gomes henriques (cura)
+
+         n$francisco/m/id=o1768-4-n
+            ls$enjeitado/sim/obs=enjeitado do concelho de obidos
+
+         locs$adro da igreja de sao pedro
+
+         referida$clara maria/id=o1768-4-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/francisco/o1768-4-n
+
+         referido$joao marques/id=o1768-4-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/clara maria/o1768-4-referida
+
+      obito$o1768-5/17/1/1768/fl.12/valeriano gomes henriques (cura)
+
+         n$mariana teresa/f/id=o1768-5-per1
+            ls$pobre/sim
+            ls$ec/s
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$freguesia de sao pedro/obs=foi amortalhada no habito de sao francisco
+
+         testamento$nao
+
+      obito$o1768-6/6/2/1768/fl.12/valeriano gomes henriques (cura)
+
+         n$tomasia/f/id=o1768-6-per1
+            ls$pobre/sim
+            ls$naturalidade/vau
+            ls$residencia/obidos, em casa de antonia maria
+
+         sacr$sim
+
+         locs$igreja de sao pedro
+
+         pai$jose caetano/id=o1768-6-per2
+            ls$residencia/vau
+
+         mae$jeronima rosa/id=o1768-6-per3
+            ls$residencia/vau
+
+         referida$antonia maria/id=o1768-6-per4
+            ls$profissao/enfermeira%infr.a desta vila
+            ls$residencia/obidos
+
+      obito$o1768-7/9/4/1768/fl.12v./valeriano gomes henriques (cura)
+
+         n$joao gomes sol posto/m/id=o1768-7-per1
+            ls$residencia/obidos
+            ls$pobre/sim/obs=foi amortalhado no habito de sao francisco
+
+         sacr$sim
+
+         locs$igreja de sao pedro
+
+         testamento$nao
+
+      obito$o1768-8/13/5/1768/fl.12v./valeriano gomes henriques (cura)
+
+         n$ana barbosa da silva/f/id=o1768-8-per1
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         sacr$sim/obs="so com o sacramento da santa uncao por estar em o botargo? sem advertencia alguma"
+
+         locs$igreja de sao pedro
+
+         mae$doroteia vitoria da silva/id=o1768-8-per2
+            ls$titulo/dona
+
+      obito$o1768-9/15/6/1768/fl.12v.-13/valeriano gomes henriques (cura)
+
+         n$luisa/f/id=o1768-9-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi amortalhada no habito de sao francisco
+
+         pai$francisco rodrigues da silva/id=o1768-9-per2
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+      obito$o1768-10/15/6/1768/fl.13/valeriano gomes henriques (cura)
+
+         n$maria/f/id=o1768-10-n
+            ls$enjeitada/sim/obs=menina, enjeitada do concelho de obidos
+            ls$residencia/obidos
+
+         locs$adro da igreja de sao pedro
+
+         referida$maria do espirito santo/id=o1768-10-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria/o1768-10-n
+
+         referido$joao francisco/id=o1768-10-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/maria do espirito santo/o1768-10-referida
+
+      obito$o1768-11/21/7/1768/fl.13/carlos jose da serra (cura)
+
+         n$mariana gomes/f/id=o1768-11-per1
+            ls$ec/v
+            ls$residencia/usseira
+
+         sacr$nao/obs=nao recebeu os sacramentos por ter falecido de morte apressada
+
+         locs$dentro da igreja de sao pedro/obs=foi amortalhada no habito de sao francisco
+
+         testamento$nao
+
+         oficios$3 oficios
+
+         marido$joao ferreira/id=o1768-11-per2
+            ls$morto/antes
+
+      obito$o1768-12/29/7/1768/fl.13/carlos jose da serra (cura)
+
+         n$leonor/f/id=o1768-12-per1
+            ls$idade_aprox/menor
+            ls$residencia/pinhal
+
+         locs$dentro da igreja de sao pedro
+
+         pai$luis pedro/id=o1768-12-per2
+            ls$residencia/pinhal
+
+         mae$antonia maria/id=o1768-12-per3
+            ls$residencia/pinhal
+
+      obito$o1768-13/29/7/1768/fl.13v./carlos jose da serra (cura)
+
+         n$caetano/m/id=o1768-13-n
+            ls$enjeitado/sim
+
+         locs$adro da igreja de sao pedro
+
+         referida$antonia teresa/id=o1768-13-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/caetano/o1768-13-n
+
+         referido$leonardo da cunha/id=o1768-13-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/antonia teresa/o1768-13-referida
+
+      obito$o1768-14/8/8/1768/fl.13v./carlos jose da serra (cura)
+
+         n$ana/f/id=o1768-14-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro
+
+         pai$joao agostinho/id=o1768-14-per2
+            ls$residencia/obidos
+
+         mae$mariana joaquina/id=o1768-14-per3
+            ls$residencia/obidos
+
+      obito$o1768-15/13/8/1768/fl.13v./carlos jose da serra (cura)
+
+         n$alexandre caetano de avelar/m/id=o1768-15-per1
+            ls$cargo/beneficiado
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         oficios$3 oficios. teve oficio de sepultura
+
+      obito$o1768-16/18/8/1768/fl.13v./carlos jose da serra (cura)
+
+         n$ana/f/id=o1768-16-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro
+
+         pai$joao felix da costa/id=o1768-16-per2
+            ls$residencia/obidos
+
+         mae$inacia laureana/id=o1768-16-per3
+            ls$residencia/obidos
+
+      obito$o1768-17/20/8/1768/fl.13v./carlos jose da serra (cura)
+
+         n$guilherme/m/id=o1768-17-per1
+            ls$idade_aprox/menor
+            ls$residencia/usseira
+
+         locs$dentro da igreja de sao pedro
+
+         pai$tome gomes/id=o1768-17-per2
+            ls$residencia/usseira
+
+         mae$helena maria/id=o1768-17-per3
+            ls$residencia/usseira
+
+      obito$o1768-18/1/9/1768/fl.14/carlos jose da serra (cura)
+
+         n$ana/f/id=o1768-18-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=exposta. filha do hospital e camara de obidos
+
+         locs$adro da igreja de sao pedro
+
+         referida$josefa maria/id=o1768-18-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/ana/o1768-18-n
+
+         referido$jose moreira/id=o1768-18-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/josefa maria/o1768-18-referida
+
+      obito$o1768-19/2/10/1768/fl.14/carlos jose da serra (cura)
+
+         n$ana maria/f/id=o1768-19-per1
+            ls$residencia/casais do pinhal
+
+         locs$dentro da igreja de sao pedro
+
+         marido$manuel francisco/id=o1768-19-per2
+
+      obito$o1768-20/27/10/1768/fl.14/carlos jose da serra (cura)
+
+         n$antonio colaco/m/id=o1768-20-per1
+            ls$ec/s/obs=moco solteiro, mendicante
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+      obito$o1768-21/17/11/1768/fl.14/carlos jose da serra (cura)
+
+         n$manuel gomes/m/id=o1768-21-per1
+            ls$alcunha/o gadelha
+            ls$ec/v
+            ls$residencia/usseira
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         mulher$joana maria/id=o1768-21-per2
+
+      obito$o1768-22/25/11/1768/fl.14/carlos jose da serra (cura)
+
+         n$manuel/m/id=o1768-22-per1
+            ls$idade_aprox/menor
+            ls$residencia/pinhal
+
+         locs$dentro da igreja de sao pedro
+
+         pai$joaquim gomes/id=o1768-22-per2
+            ls$residencia/pinhal
+
+         mae$quiteria maria/id=o1768-22-per3
+            ls$residencia/pinhal
+
+      obito$o1768-23/1/12/1768/fl.14v./carlos jose da serra (cura)
+
+         n$joao de santa ines/m/id=o1768-23-per1
+            ls$profissao/padre
+            ls$titulo/frei
+            ls$titulo/religioso/obs=conventual em sao bernardino
+
+         sacr$sim
+
+         locs$igreja de sao pedro
+
+      obito$o1768-24/12/12/1768/fl.14v./carlos jose da serra (cura)
+
+         n$manuel henriques/m/id=o1768-24-per1
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         oficios$40 missas/obs="deixou quarenta missas por huma so vez pela sua alma"
+
+         mulher$teresa de jesus/id=o1768-24-per2
+            ls$morta/antes
+
+      obito$o1768-25/25/12/1768/fl.14v./carlos jose da serra (cura)
+
+         n$antonia maria/f/id=o1768-25-per1
+            ls$ec/c
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         marido$manuel henriques/id=o1768-25-per2
+            ls$alcunha/o valente
+
+      obito$o1768-26/26/12/1768/fl.14v./carlos jose da serra (cura)
+
+         n$maria/f/id=o1768-26-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=filha da camara de obidos
+
+         locs$adro da igreja de sao pedro
+
+         referida$ana maria/id=o1768-26-referida
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/maria/o1768-26-n
+
+         referido$jose da costa/id=o1768-26-per1
+            ls$residencia/pinhal
+            rel$parentesco/marido/ana maria/o1768-26-referida

@@ -1,0 +1,138 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$obitos1584-1585/localizacao-a.d.l./freguesia de sao joao
+
+      obito$o1582-100/18/10/1582/fl.95/nome desconhecido
+
+         n$? ?/?/id=o1582-100-per1
+
+            referido$simao luis/id=o1582-100-per1-per2
+
+      obito$o1582-101/21/10/1582/fl.95/nome desconhecido
+
+         n$? rodrigues/?/id=o1582-101-n
+            ls$residencia/bairro
+
+         testamento$sim
+
+         referido$diogo alves/id=o1582-101-per1
+            rel$sociabilidade/testamenteiro/? rodrigues/o1582-101-n
+
+      obito$o1584-5/2/2/1584/fl.95/nome desconhecido
+
+         n$diogo ?/m/id=o1584-5-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+      obito$o1584-6/3/2/1584/fl.95/nome desconhecido
+
+         n$farncisca luis/f/id=o1584-6-per1
+
+         locs$adro da igreja de sao joao
+
+         marido$joao goncalves/id=o1584-6-per2
+
+      obito$o1584-7/20/3/1584/fl.95/nome desconhecido
+
+         n$mecia pires/f/id=o1584-7-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1584-8/30/8/1584/fl.95/nome desconhecido
+
+         n$joana dias/f/id=o1584-8-per1
+            ls$ec/viuva
+            ls$residencia/sobral
+
+         testamento$nao
+
+         locs$adro da igreja de sao joao
+
+      obito$o1584-9/3/9/1584/fl.95/nome desconhecido
+
+         n$isabel franca/f/id=o1584-9-per1
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1584-10/3/9/1584/fl.95/nome desconhecido
+
+         n$maria pires/f/id=o1584-10-per1
+
+      obito$o1584-1/0/0/1584/fl.95v./nome desconhecido
+
+         n$? ?/?/id=o1584-1-n
+
+         testamento$sim
+
+         referido$antonio antunes/id=o1584-1-per1
+            ls$profissao/sapateiro
+            ls$residencia/sobral da lagoa
+            rel$sociabilidade/testamenteiro/? ?/o1584-1-n
+
+      obito$o1584-2/5/12/1584/fl.95v./nome desconhecido
+
+         n$gaspar ?/m/id=o1584-2-n
+            ls$residencia/arelho
+
+         testamento$nao
+
+         locs$adro da igreja de sao joao
+
+      obito$o1584-3/23/12/1584/fl.95v./nome desconhecido
+
+         n$beatriz rodrigues/f/id=o1584-3-per1
+
+         locs$adro da igreja de sao joao
+
+         marido$gaspar ?/mesmo_que=o1584-2-n/id=o1584-3-per2
+
+      obito$o1584-4/23/12/1584/fl.95v./nome desconhecido
+
+         n$pedro goncalves/m/id=o1584-4-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+      obito$o1585-1/8/1/1585/fl.95v./nome desconhecido
+
+         n$beatriz rodrigues/f/id=o1585-1-per1
+
+         locs$adro da igreja de sao joao
+
+      obito$o1585-2/9/2/1585/fl.95v./nome desconhecido
+
+         n$bras vicente/m/id=o1585-2-n
+            ls$residencia/carregal
+
+         testamento$sim
+
+         locs$adro da igreja de sao joao
+
+         mulher$isabel dias/id=o1585-2-per1
+            rel$sociabilidade/testamenteira/bras vicente/o1585-2-n
+
+      obito$o1585-3/5/2/1585/fl.95v./nome desconhecido
+
+         n$catarina fernandes/f/id=o1585-3-per1
+            ls$residencia/carregal
+
+         locs$adro da igreja de sao joao
+
+         marido$pedro alvares/id=o1585-3-per2
+            ls$residencia/carregal
+
+      obito$o1585-4/20/11/1585/fl.95v./nome desconhecido
+
+         n$maria fernandes/f/id=o1585-4-per1
+
+         locs$adro da igreja de sao joao
+
+         mulher$antonio fernandes/id=o1585-4-per2
+            ls$alcunha/o moco

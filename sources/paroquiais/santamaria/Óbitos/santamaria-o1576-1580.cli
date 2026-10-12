@@ -1,0 +1,793 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1576-1580/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1576-1/21/1/1576/fl.82
+
+         n$fernao de afonso/m/id=o1576-1-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$sim
+
+      obito$o1576-2/28/3/1576/fl.82
+
+         n$isabel de lemos/f/id=o1576-2-n
+            ls$residencia/caldas
+
+            marido$andre alves/id=o1576-2-n-per1
+               ls$residencia/caldas
+
+         sacr$sim
+
+         testamento$sim
+
+         referido$vicente de lemos/id=o1576-2-per2
+            rel$parentesco/irmao/isabel de lemos/o1576-2-n
+            rel$sociabilidade/testamenteiro/isabel de lemos/o1576-2-n
+
+         oficios$sim
+
+      obito$o1576-3/0/0/1576/fl.82
+
+         n$nome desconhecido/m/id=o1576-3-per1
+            ls$pobre/sim
+            ls$nacionalidade/castela
+
+         locf$hospital
+
+      obito$o1575-100/23/11/1576/fl.82
+
+         n$antonio fernandes/m/id=o1575-100-n
+            ls$cargo/beneficiado da igreja de santa maria
+            ls$freguesia/sao tiago
+            ls$residencia/freguesia de sao tiago
+
+         locs$igreja de santa maria
+
+         referido$afonso goncalves%aº glz/id=o1575-100-per1
+            ls$cargo/beneficiado da igreja de sao tiago
+
+         referido$gaspar dias/id=o1575-100-per2
+            ls$cargo/capelao das caldas
+
+         referida$nome desconhecido/id=o1575-100-per3
+            rel$parentesco/sobrinha/antonio fernandes/o1575-100-n
+            rel$sociabilidade/herdeira/antonio fernandes/o1575-100-n
+
+         referido$aleixo contreiro/id=o1575-100-per4
+
+         sacr$sim/obs=recebeu os sacramentos na igreja de sao tiago
+
+         testamento$sim
+
+         oficios$sim/obs=de acordo com o testamento
+
+         referido$afonso goncalves/id=o1575-100-per5
+            rel$sociabilidade/testamenteiro/antonio fernandes/o1575-100-n
+
+      obito$o1576-4/16/8/1576/fl.82
+
+         n$beatriz aires/f/id=o1576-4-n
+            ls$residencia/a da gorda
+
+            marido$fernao de afonso/id=o1576-4-n-per1
+               ls$residencia/a da gorda
+               ls$morta/antes
+
+         sacr$sim
+
+         referido$bras martins/id=o1576-4-per2
+            rel$parentesco/genro/beatriz aires/o1576-4-n
+            rel$sociabilidade/herdeiro/beatriz aires/o1576-4-n
+
+         testamento$sim/obs=fez testamento com o marido
+
+         oficios$sim
+
+      obito$o1576-5/21/8/1576/fl.82v.
+
+         n$lucrecia rodrigues/f/id=o1576-5-n
+
+            marido$roque lopes/obs=duvida na leitura do apelido/id=o1576-5-n-per1
+               ls$morto/antes
+
+         sacr$sim/obs=uncao, confissao, comunhao. "soposto que avya muytos poucos dias que se confesara e comungara pello jubeleo que veo de roma que trouxe quinze dias"
+
+         testamento$sim/obs="o qual tem seu gemro valentim fernandes"
+
+         referido$valentim fernandes/id=o1576-5-per2
+            rel$parentesco/genro/lucrecia rodrigues/o1576-5-n
+            rel$sociabilidade/testamenteiro/lucrecia rodrigues/o1576-5-n
+
+      obito$o1576-6/24/10/1576/fl.82v.
+
+         n$maria fernandes/f/id=o1576-6-n
+            ls$ec/s/obs=nunca casou
+
+         locf$casa de leonardo rodrigues, a da gorda
+
+         sacr$sim, todos
+
+         testamento$sim
+
+         referido$joao fernandes%j.o frz/id=o1576-6-per1
+            ls$residencia/a da gorda
+            rel$sociabilidade/testamenteiro/maria fernandes/o1576-6-n
+
+         oficios$sim
+
+      obito$o1577-1/6/1/1577/fl.82v.
+
+         n$maria fernandes/f/id=o1577-1-per1
+
+            marido$luis vicente/id=o1577-1-per1-per2
+               ls$morto/antes
+
+         testamento$nao
+
+         oficios$2
+
+      obito$o1577-2/3/2/1577/fl.82v.
+
+         n$sebastiao%bastiao/id=o1577-2-per1
+
+            mae$maria luis/id=o1577-2-per1-per2
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$nao/obs="nem sua mai lhe fez ninhuma cousa pella alma"
+
+      obito$o1577-3/5/2/1577/fl.82v.
+
+         n$nome desconhecido/f/id=o1577-3-per1
+            ls$residencia/casa de joao dias, moinho da ribeira/obs="se recolheo ahi"
+            ls$naturalidade/painho
+            ls$pobre/sim
+            ls$idade_aprox/velha
+
+         sacr$sim
+
+         testamento$nao
+
+         referido$joao dias/id=o1577-3-per2
+            ls$residencia/moinho da ribeira
+
+      obito$o1577-4/18/3/1577/fl.83
+
+         n$marta fernandes/f/id=o1577-4-per1
+
+         testamento$nao/obs="a qual avia muytos anos que estava entrevada nem falava nem tinha juizo nao fez testamento"
+
+         marido$bras fernandes albardim/id=o1577-4-per2
+
+      obito$o1577-5/6/4/1577/fl.83
+
+         n$simao antunes/m/id=o1577-5-per1
+
+         sacr$sim
+
+         testamento$
+
+      obito$o1577-6/9/5/1577/fl.83
+
+         n$nome desconhecido/m/id=o1577-6-per1
+            ls$condicao/escravo
+            rel$profissional/escravo/antonio vaz castelo/o1577-6-referido
+
+         locf$hospital/obs="faleceo no hospital hum escravo que disserao que viera das caldas doente e quando veio pella manha acharao-no sem fala, e me chamarao que lhe dei nao falava ja nem temdo juizo mas antes dahi a duas oras"
+
+         sacr$sim/obs=santa uncao
+
+         referido$antonio vaz castelo/id=o1577-6-referido
+            ls$titulo/doutor
+
+      obito$o1577-7/13/7/1577/fl.83
+
+         n$rodrigo machado/m/id=o1577-7-per1
+            ls$residencia/freguesia de santa maria
+
+         sacr$sim
+
+         testamento$nao
+
+      obito$o1577-8/19/10/1577/fl.83v.
+
+         n$leonardo rodrigues/f/id=o1577-8-n
+            ls$profissao/lavrador
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         referido$joao fernandes/id=o1577-8-per1
+            rel$parentesco/genro/leonardo rodrigues/o1577-8-n
+            rel$sociabilidade/testamenteiro/leonardo rodrigues/o1577-8-n
+
+         oficios$3/obs="e hum trintairo aberto"
+
+      obito$o1577-9/20/10/1577/fl.83v.
+
+         n$beatriz martins/f/id=o1577-9-n
+            ls$ec/v
+            ls$idade_aprox/120 anos/obs="diziao seria de ydade de cento e vinte annos"
+            ls$residencia/a da gorda
+            ls$residencia/casa de martins fernandes
+
+            referido$martim fernandes/id=o1577-9-n-per1
+               rel$sociabilidade/testamenteiro/beatriz martins/o1577-9-n
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$3
+
+      obito$o1577-10/3/11/1577/fl.83v.
+
+         n$lourenco/m/id=o1577-10-per1
+
+            pai$bras dias/id=o1577-10-per1-per2
+               ls$pobre/sim/obs=muito pobre. "nao lhe fez nada pella alma"
+
+            mae$maria fernandes/id=o1577-10-per1-per3
+
+         sacr$sim
+
+         testamento$nao
+
+      obito$o1577-11/1/12/1577/fl.83v.
+
+         n$paulo ribeiro/m/id=o1577-11-per1
+
+         sacr$sim
+
+      obito$o1577-12/8/12/1577/fl.83v.
+
+         n$isabel gomes/f/id=o1577-12-n
+            ls$residencia/a da gorda
+
+         causa$morte subita/obs="a qual faleceo de morte supinatania porque se alevantou pella manha a fazer o lume e ahy lhe deu o mal que nunqua mais falou e nao recebeo mais que o sacramento da sancta uncam que nao ouve tempo para mais"
+
+         oficios$sim
+
+         sacr$sim/obs=uncao
+
+         testamento$sim
+
+         marido$leonardo rodrigues/id=o1577-12-per1
+            ls$residencia/a da gorda
+
+         referido$joao fernandes%j.o frz/id=o1577-12-per2
+            rel$sociabilidade/testamenteiro/isabel gomes/o1577-12-n
+
+      obito$o1577-13/30/12/1577/fl.84
+
+         n$graca antunes%gracia antunes/f/id=o1577-13-per1
+
+            marido$joao andre/id=o1577-13-per1-per2
+               ls$profissao/trabalhador
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$2
+
+      obito$o1578-1/5/1/1578/fl.84
+
+         n$isabel pires/f/id=o1578-1-per1
+            ls$residencia/arrabalde
+
+            marido$francisco fernandes/id=o1578-1-per1-per2
+               ls$residencia/arrabalde
+
+         sacr$sim
+
+         testamento$nao
+
+      obito$o1578-2/19/1/1578/fl.84
+
+         n$luisa lopes/f/id=o1578-2-n
+            ls$ec/v
+
+         sacr$sim
+
+         testamento$sim
+
+         referido$gaspar pires/id=o1578-2-per1
+            rel$parentesco/genro/luisa lopes/o1578-2-n
+            rel$sociabilidade/testamenteiro/luisa lopes/o1578-2-n
+
+         oficios$sim
+
+      obito$o1578-3/14/3/1578/fl.84
+
+         n$antonio pires/m/id=o1578-3-n
+            ls$residencia/gaeiras
+
+            mulher$nome desconhecido/id=o1578-3-n-per1
+               rel$sociabilidade/testamenteira/antonio pires/o1578-3-n
+
+         sacr$sim
+
+         testamento$nao/obs=fez cedula
+
+         oficios$sim
+
+      obito$o1578-4/27/4/1578/fl.84
+
+         n$andre luis/m/id=o1578-4-per1
+            ls$profissao/sapateiro
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$2
+
+      obito$o1578-5/6/5/1578/fl.84
+
+         n$branca faria/f/obs=duvida na leitura do apelido/id=o1578-5-per1
+
+            marido$paulo ribeiro/id=o1578-5-per1-per2
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$1
+
+      obito$o1578-6/22/5/1578/fl.84
+
+         n$martim goncalves/m/id=o1578-6-per1
+            ls$profissao/serralheiro%caralheiro
+            ls$residencia/arrabalde
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$3
+
+      obito$o1578-7/0/0/1578/fl.84
+
+         n$francisca de lemos/f/id=o1578-7-per1
+            ls$freguesia/sao pedro
+
+            marido$andre figueira/id=o1578-7-per1-per2
+               ls$cargo/dizimeiro da igreja de santa maria
+
+         oficios$3
+
+      obito$o1578-8/0/0/1578/fl.84v.
+
+         n$catarina dinis/f/id=o1578-8-per1
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$sim
+
+         marido$belchior de lemos/id=o1578-8-per2
+            ls$residencia/casal proprio
+
+      obito$o1578-9/10/8/1578/fl.84v.
+
+         n$afonso coutinho%aº coutinho/m/id=o1578-9-per1
+            ls$profissao/padre
+            ls$naturalidade/alvorninha
+            ls$residencia/azambuja
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$nao
+
+      obito$o1578-10/26/9/1578/fl.84v.
+
+         n$beatriz de lemos/f/id=o1578-10-n
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$1
+
+         marido$afonso vicente%aº v.te/id=o1578-10-per1
+            ls$residencia/casal proprio
+
+         referido$vicente de lemos/id=o1578-10-per2
+            rel$parentesco/filho/beatriz de lemos/o1578-10-n
+            rel$sociabilidade/testamenteiro/beatriz de lemos/o1578-10-n
+
+      obito$o1578-11/9/9/1578/fl.84v.
+
+         n$mor vaz/f/id=o1578-11-per1
+            rel$parentesco/cunhada/adao dias/o1578-11-referido
+            ls$residencia/lisboa/obs=veio de lisboa
+
+         sacr$sim
+
+         oficios$nao
+
+         referido$adao dias/id=o1578-11-referido
+
+      obito$o1578-12/13/10/1578/fl.84v.
+
+         n$francisco rodrigues/m/id=o1578-12-per1
+            ls$cargo/diacono
+
+         oficios$3
+
+      obito$o1578-13/30/10/1578/fl.84v.
+
+         n$violante de freitas/f/id=o1578-13-per1
+
+         sacr$sim
+
+         oficios$2
+
+         marido$nicolau de avelar/id=o1578-13-per2
+
+      obito$o1578-14/15/11/1578/fl.85
+
+         n$catarina/f/obs=nao tinha nem pai nem mae/id=o1578-14-per1
+
+            pai$nome desconhecido/id=o1578-14-per1-per2
+
+            mae$nome desconhecido/id=o1578-14-per1-per3
+               ls$profissao/criada
+               ls$naturalidade/arelho
+               rel$profissional/criada/antonio pires/o1578-14-referido
+
+         sacr$sim/obs=todos os sacramentos excepto a uncao, "porque estava comendo e acabou e se virou pera outra parte sem saberem que moria"
+
+         causa$morte subita
+
+         referido$antonio pires/id=o1578-14-referido
+            ls$profissao/oleiro
+
+      obito$o1578-15/21/11/1578/fl.85
+
+         n$joao dias/m/id=o1578-15-per1
+            ls$ec/v
+            ls$pobre/sim/obs=mendigo, "homem que parecia baço dise que era viuvo e que nao tinha filhos ninhuns nem fazenda ninhuma andava pedindo"
+            ls$naturalidade/penela
+            ls$idade/35 anos
+
+         sacr$sim/obs=todos, excepto o sacramento do altar "porque arebecava tudo quanto lhe davao por ysso lho nao derao"
+
+         locf$hospital
+
+      obito$o1578-16/25/11/1578/fl.85
+
+         n$maria dias do avelar/f/id=o1578-16-per1
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$3
+
+         marido$jacome de freitas/id=o1578-16-per2
+
+      obito$o1578-17/2/12/1578/fl.85
+
+         n$ana dias/f/id=o1578-17-per1
+
+         sacr$sim
+
+         oficios$3
+
+         marido$antonio fernandes/id=o1578-17-per2
+            ls$residencia/casal da granja
+
+      obito$o1579-1/20/1/1579/fl.85
+
+         n$beatriz henriques/f/id=o1579-1-n
+            ls$alcunha/a colaca%a colaça
+            ls$cargo/merceeira da rainha
+
+         testamento$sim
+
+         oficios$3
+
+         referido$henrique godinho%anri g.do/id=o1579-1-per1
+            ls$residencia/quinta de vale de frades%quinta de vale de frandes
+            rel$sociabilidade/testamenteiro/beatriz henriques/o1579-1-n
+            rel$sociabilidade/herdeiro/beatriz henriques/o1579-1-n
+
+      obito$o1579-2/9/5/1579/fl.85v.
+
+         n$baltazar fernandes/m/id=o1579-2-per1
+            ls$residencia/moinhos de matatripas
+
+         sacr$sim/obs=confissao, "o qual acabando de o confessar deu a alma a deos e aquelle dia se alevantou ainda e jazya sobre a cama vestido"
+
+         testamento$nao
+
+         oficios$nao
+
+      obito$o1579-3/12/5/1579/fl.85v.
+
+         n$jacome de freitas/m/id=o1579-3-n
+            ls$residencia/obidos
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$3
+
+         referido$diogo de freitas/id=o1579-3-per1
+            rel$parentesco/sobrinho/jacome de freitas/o1579-3-n
+            rel$sociabilidade/testamenteiro/jacome de freitas/o1579-3-n
+
+      obito$o1579-4/13/5/1579/fl.85v.
+
+         n$luisa antunes/f/id=o1579-4-n
+            ls$residencia/freguesia de santa maria
+
+         sacr$sim
+
+         testamento$sim
+
+         locs$sao ped
+
+         marido$diogo goncalves/id=o1579-4-per1
+            ls$residencia/freguesia de santa maria
+            rel$sociabilidade/testamenteiro/luisa antunes/o1579-4-n
+
+      obito$o1579-5/8/11/1579/fl.85v.
+
+         n$nicolau de avelar/m/id=o1579-5-per1
+
+         sacr$sim
+
+         oficios$1/obs=oficio do enterramento
+
+      obito$o1579-6/10/11/1579/fl.85v.
+
+         n$vicente pires/m/id=o1579-6-n
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$1/obs=oficio do enterramento
+
+         referido$diogo vaz/id=o1579-6-per1
+            ls$residencia/a da gorda
+            rel$sociabilidade/testamenteiro/vicente pires/o1579-6-n
+
+      obito$o1579-7/10/11/1579/fl.85v.
+
+         n$maria fernandes/f/id=o1579-7-n/obs="a qual acharao pella manha morta
+            ls$ec/v
+            ls$residencia/arrabalde
+
+         oficios$sim
+
+         marido$ambrosio fernandes/id=o1579-7-per1
+            ls$morto/antes
+            ls$residencia/arrabalde
+
+         referido$estevao fernandes/id=o1579-7-per2
+            rel$parentesco/filho/maria fernandes/o1579-7-n
+
+      obito$o1579-8/25/12/1579/fl.86
+
+         n$camila correia/f/id=o1579-8-n
+            ls$ec/v
+            ls$naturalidade/lisboa/obs="veyo de lisboa pera esta ter
+            ls$residencia/obidos
+            rel$parentesco/tia/manuel correia botelho/o1579-8-referido
+
+         sacr$sim
+
+         oficios$nao
+
+         referido$manuel correia botelho/id=o1579-8-referido
+            rel$sociabilidade/testamenteiro/camila correia/o1579-8-n
+
+      obito$o1580-1/29/1/1580/fl.86
+
+         n$bras fernandes/m/id=o1580-1-per1
+            ls$profissao/albardeiro/obs="alebardeiro do arrabalde..."
+            ls$pobre/sim
+            ls$residencia/arrabalde
+
+         sacr$sim/obs="...que lhe tolheo a fala pello que nao se lhe deu mais que a sancta uncao mas estava confessado e comungado de pouco"
+
+         testamento$nao
+
+      obito$o1580-2/2/2/1580/fl.86
+
+         n$domingas fernandes/f/id=o1580-2-per1
+
+         sacr$sim
+
+         oficios$2 oficios de 9 licoes
+
+         marido$gregorio manuel/id=o1580-2-per2
+
+      obito$o1580-3/18/2/1580/fl.86
+
+         n$nome desconhecido/m/obs="dai a quinze dias faleceo elle deste mal de que noso senhor nos livre e dous filhos seus e tambem a molher dizem que diso moreo elle fora da villa com os filhos dia de sam matias o confesey e sacramentei na ygreja e aquelle dia a noite o poderao fora com os filhos e la moreo"/id=o1580-3-per1
+
+         sacr$sim/obs=confissao, comunhao
+
+         testamento$nao
+
+         causa$peste?
+
+         marido$diogo dias/id=o1580-3-per2
+            ls$alcunha/o goncheiro
+
+      obito$o1580-4/26/2/1580/fl.86
+
+         n$francisco lopes/m/id=o1580-4-per1
+
+         sacr$sim/obs=confissao
+
+         causa$peste?/obs="adoeceo do mal, foi confessado, que nao ouve tempo para mais, porque o poderao logo fora e logo dai a dous dias moreo"
+
+      obito$o1580-5/7 ou 8/3/1580/fl.86
+
+         n$leonor neto/f/id=o1580-5-n
+
+         sacr$sim
+
+         causa$peste?/obs="com hum seu neto tambem adoecerao do mal e a hum sabado 5 de marco os poserao fora e durao dous ou tres dias
+
+      obito$o1580-6/7 ou 8/3/1580/fl.86
+
+         n$nome desconhecido/m/id=o1580-6-per1
+            rel$parentesco/neto/leonor neto/o1580-5-n
+
+            referida$leonor neto/mesmo_que=o1580-5-n/id=o1580-6-per1-per2
+
+         causa$peste?/obs="com hum seu neto tambem adoecerao do mal e a hum sabado 5 de marco os poserao fora e durao dous ou tres dias
+
+      obito$o1580-7/0/3/1580/fl.86
+
+         n$pero de cavarga/m/id=o1580-7-n/obs="faleceo em marco estamdo fora da vila em huns moynhos que chamao da cochada, e la lhe deu o outra vez que ja lhe tinha dado e moreo de supite"
+
+         causa$morte subita
+
+         sacr$sim/obs=confissao, comunhao
+
+         testamento$sim
+
+         locf$moinhos da cochada
+
+         referido$marcos luis/id=o1580-7-per1
+            rel$parentesco/filho/pero de cavarga/o1580-7-n
+            rel$sociabilidade/testamenteiro/pero de cavarga/o1580-7-n
+
+      obito$o1580-8/0/0/1580/fl.86v.
+
+         n$catarina/f/id=o1580-8-per1
+
+         testamento$sim
+
+         marido$simao antunes/id=o1580-8-per2
+
+         referido$nome desconhecido/id=o1580-8-per3
+            ls$residencia/bairro
+            rel$parentesco/sobrinho/catarina dias/o1580-8-n
+            rel$sociabilidade/testamenteiro/catarina dias/o1580-8-n
+
+         oficios$3
+
+      obito$o1580-9/8/10/1580/fl.86v.
+
+         n$maria machado/f/id=o1580-9-n
+            ls$ec/s/obs="molher que nunqua casou
+
+         sacr$sim/obs=todos os sacramentos "somente ho do altar que lhe nao dei per causa que teve"
+
+         testamento$sim
+
+         oficios$3
+
+         pai$joao farto/id=o1580-9-per1
+
+         referida$jeronima travassos/id=o1580-9-per2
+            rel$sociabilidade/testamenteira/maria machado/o1580-9-n
+
+      obito$o1580-10/8/10/1580/fl.86v.
+
+         n$nome desconhecido/m/id=o1580-10-per1
+            ls$cargo/ermitao de santo antao
+            ls$pobre/sim
+
+         sacr$sim
+
+         oficios$1 missa cantada
+
+         referida$nome desconhecido/obs=a mulher mandou dizer 1 missa cantada/id=o1580-10-per2
+
+      obito$o1580-11/9/10/1580/fl.86v.
+
+         n$luis fernandes/m/id=o1580-11-n
+            ls$profissao/hospitaleiro%espritaleiro
+
+         sacr$sim/obs=todos excepto o "sacramento do altar que por ser asmatico e ter grande toçe se lhe nao deu"
+
+         testamento$sim
+
+         oficios$3
+
+         mulher$nome desconhecido/id=o1580-11-per1
+            rel$sociabilidade/testamenteira/luis fernandes/o1580-11-n
+
+      obito$o1580-12/9/10/1580/fl.86v.
+
+         n$joao/m/obs=preto/id=o1580-12-per1
+            ls$condicao/escravo
+            ls$residencia/a da gorda
+            rel$profissional/escravo/pero tristao/o1580-12-referido
+
+            referido$pero tristao%pº tristao/id=o1580-12-referido
+               ls$residencia/a da gorda
+
+      obito$o1580-13/10/10/1580/fl.86v.
+
+         n$maria fernandes/f/id=o1580-13-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         marido$leonardo fernandes/id=o1580-13-per2
+            ls$residencia/a da gorda
+
+      obito$o1580-14/21/10/1580/fl.86v.
+
+         n$manuel correia aboim%manoel correa boim/f/id=o1580-14-n
+
+         sacr$sim, todos
+
+         testamento$sim/obs="tambem fez hum invretairo"
+
+         oficios$3
+
+         mulher$nome desconhecido/id=o1580-14-per1
+            rel$sociabilidade/testamenteira/manuel correia aboim/o1580-14-n
+
+      obito$o1580-15/15/12/1580/fl.86v.
+
+         n$genebra fernandes/f/id=o1580-15-per1
+
+            marido$vicente martins/id=o1580-15-per1-per2
+
+      obito$o1580-16/15/12/1580/fl.86v.
+
+         n$beatriz fernandes/f/id=o1580-16-per1
+            ls$residencia/a da gorda
+
+         oficios$nao
+
+         marido$jordao fernandes/id=o1580-16-per2
+            ls$residencia/a da gorda
+
+      obito$o1580-17/14/11/1580/fl.87
+
+         n$baltazar dias/m/id=o1580-17-per1
+            ls$residencia/a da gorda
+
+         causa$nao/obs="deste mal que deus nos livre"
+
+         locs$no seu casal/obs="omde o poserao"
+
+         sacr$sim/obs=comunhao, confissao
+
+         oficios$3

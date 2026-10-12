@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# Legacy version control metadata (pre-git SVN working copies)
+.svn/
+
 # Jupyter
 .ipynb_checkpoints/
 

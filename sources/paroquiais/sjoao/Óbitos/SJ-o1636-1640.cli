@@ -1,0 +1,259 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$obitos1636-1640/localizacao-a.d.l./freguesia de sao joao
+
+      obito$o1636-1/0/1/1636/fl.105/pero leitao
+
+         n$maria fernandes/f/id=o1636-1-per1
+            ls$residencia/sobral da lagoa
+            ls$pobre/sim
+            ls$ec/solteira/obs=mulher que nunca casou
+
+         locs$adro da igreja de sao joao
+
+         sacr$sim/obs=penitencia e extrema uncao
+
+      obito$o1636-2/7/2/1636/fl.105/pero leitao
+
+         n$duarte fernandes/m/id=o1636-2-per1
+            ls$residencia/arelho
+
+         sacr$sim/obs=confissao e comunhao
+
+         locs$junto a porta da igreja da banda de fora
+
+      obito$o1636-3/23/3/1636/fl.105v./pero leitao
+
+         n$paulina silvestre/f/id=o1636-3-n
+            ls$residencia/sobral
+
+         oficios$sim/obs=foram feitos por ordem do seu filho francisco pires
+
+         locs$adro da igreja de sao joao
+
+         referido$francisco pires/id=o1636-3-per1
+            rel$parentesco/filho/paulina silvestre/1636-3-n
+
+      obito$o1636-4/22/6/1636/fl.105v./pero leitao
+
+         n$catarina antunes/f/id=o1636-4-n
+            ls$residencia/sobral
+
+         sacr$sim/obs=extrema uncao
+
+         testamento$nao/obs=deixa a sua terca a sua filha catarina ?
+
+         oficios$sim/obs=uma missa de ano
+
+         locs$adro da igreja de sao joao, junto a sacristia
+
+         marido$jeronimo francisco/id=o1636-4-per1
+            ls$residencia/sobral
+
+         referida$catarina ?/id=o1636-4-per2
+            rel$parentesco/filha/catarina antunes/o1636-4-n
+
+      obito$o1636-5/28/6/1636/fl.105v./pero leitao
+
+         n$diogo lopes/m/id=o1636-5-per1
+            ls$residencia/sobral
+
+         sacr$sim/obs=so a penitencia e a extrema uncao. nao recebeu a sagrada eucaristia por vomitar
+
+         locs$dentro da igreja de sao joao
+
+      obito$o1636-6/11/10/1636/fl.105v./lucas costa de figueiredo (vigario)
+
+         n$francisca de brito/f/id=o1636-6-per1
+            ls$residencia/bairro
+
+         sacr$sim
+
+         locs$dentro da igreja de sao tiago
+
+         marido$joao da pena/id=o1636-6-per2
+            ls$residencia/bairro
+
+      obito$o1636-7/24/11/1636/fl.106/lucas costa de figueiredo (vigario)
+
+         n$damiao varela/m/id=o1636-7-per1
+            ls$residencia/bairro
+
+         locs$igreja de sao tiago
+
+         pai$joao da pena/id=o1636-7-per2
+            ls$residencia/bairro
+
+      obito$o1636-8/25/11/1636/fl.106/lucas costa de figueiredo (vigario)
+
+         n$joao alvares/m/id=o1636-8-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao, a porta principal
+
+      obito$o1636-9/30/12/1636/fl.106/lucas costa de figueiredo (vigario)
+
+         n$francisco antunes/m/id=o1636-9-per1
+            ls$residencia/bairro
+
+         locs$dentro da igreja de sao joao, junto ao confessionario
+
+      obito$o1637-1/1/2/1637/fl.106/lucas costa de figueiredo (vigario)
+
+         n$bernarda leitoa/f/id=o1637-1-per1
+            ls$residencia/arelho
+
+         locs$igreja de sao joao, da parte de fora
+
+      obito$o1637-2/13/2/1637/fl.106/lucas costa de figueiredo (vigario)
+
+         n$alvaro goncalves/m/id=o1637-2-per1
+            ls$residencia/carregal
+
+         locs$igreja de sao joao, junto a caixa de ?
+
+      obito$o1637-3/12/3/1637/fl.106/lucas costa de figueiredo (vigario)
+
+         n$isabel luis/f/id=o1637-3-per1
+            ls$residencia/bairro
+
+         locs$igreja de sao joao, a porta da igreja
+
+         marido$pedro bras/id=o1637-3-per2
+            ls$residencia/bairro
+
+      obito$o1637-4/10/4/1637/fl.106v./lucas costa de figueiredo (vigario)
+
+         n$isabel martins/f/id=o1637-4-per1
+            ls$residencia/casal do mocho
+            ls$ec/solteira
+
+         locs$igreja de sao joao
+
+         pai$domingos martins/id=o1637-4-per2
+
+         mae$beatriz dias/id=o1637-4-per3
+            ls$residencia/casal do mocho
+
+      obito$o1637-5/21/5/1637/fl.106v./lucas costa de figueiredo (vigario)
+
+         n$breatriz dias/f/id=o1637-5-per1
+            ls$residencia/casal do mocho
+
+         locs$dentro da igreja de sao joao, junto a mesa de nossa senhora
+
+         marido$domingos martins/id=o1637-5-per2
+            ls$residencia/casal do mocho
+
+      obito$o1637-6/24/6/1637/fl.106v./lucas costa de figueiredo (vigario)
+
+         n$antonio dias/m/id=o1637-6-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+      obito$o1637-7/23/10/1637/fl.106v./jeronimo ferreira (coadjutor)
+
+         n$maria manuel/m/id=o1637-7-per1
+            ls$residencia/arelho
+
+         sacr$sim/obs=todos
+
+         locs$alpendre da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1637-8/2/12/1637/fl.106v./jeronimo ferreira (padre, coadjutor)
+
+         n$maria/f/id=o1637-8-per1
+
+         locs$alpendre da igreja de sao joao
+
+         pai$adao dias/id=o1637-8-per2
+
+         mae$maria lopes/id=o1637-8-per3
+
+      obito$o1637-9/28/12/1637/fl.106v./jeronimo ferreira (padre, coadjutor)
+
+         n$estevao dias/m/id=o1637-9-per1
+            ls$residencia/carregal
+
+         sacr$sim/obs=todos excepto a eucaristia por nao estar em estado para isso
+
+         oficios$sim
+
+         locs$alpendre da igreja de sao joao
+
+      obito$o1637-10/29/12/1637/fl.106v./jeronimo ferreira (padre, coadjutor)
+
+         n$ana fernandes/f/id=o1637-10-per1
+            ls$ec/viuva
+
+         sacr$sim/obs=todos excepto o da eucaristia por nao estar para isso
+
+         locs$alpendre da igreja de sao joao
+
+      obito$o1637-11/0/0/1637/fl.107/jeronimo ferreira (padre, coadjutor)
+
+         n$antonia simoa/f/id=o1637-11-n
+            ls$residencia/arelho
+            ls$residencia/igreja
+
+         locs$igreja de sao joao, a porta da igreja da banda de fora que chamam no alpendre
+
+         sacr$sim/obs=todo
+
+         referido$nome desconhecido/id=o1637-11-per1
+            rel$parentesco/genro/antonia simoa/o1637-11-n/obs=disse ao seu genro que lhe fizesse por sua alma dez e lhe deixava um ralho de vinha para isso
+
+      obito$o1640-1/17/1/1640/fl.107/jeronimo ferreira (padre, coadjutor)
+
+         n$maria alves/f/id=o1640-1-per1
+            ls$residencia/bairro
+
+         locs$dentro da igreja de sao joao
+
+         sacr$sim/obs=todos
+
+      obito$o1640-2/15/4/1640/fl.107/jeronimo ferreira (padre, coadjutor)
+
+         n$margarida lopes/f/id=o1640-2-per1
+            ls$residencia/sobral
+
+         sacr$sim/obs=todos excepto o da extrema uncao
+
+         locs$dentro da igreja de sao joao
+
+         testamento$nao refere. disseram ao padre que tinha feito uma cedula
+
+      obito$o1640-3/20/3/1640/fl.107/jeronimo ferreira (padre, coadjutor)/obs=aos vinte e tais de março de 1640
+
+         n$francisco velho/m/id=o1640-3-per1
+
+         sacr$sim/obs=todos
+
+         locs$adro da igreja de sao joao
+
+      obito$o1640-4/28/8/1640/fl.107v./jeronimo de matos (coadjutor)
+
+         n$adao dias/m/id=o1640-4-per1
+            ls$residencia/arelho
+            ls$idade_aprox/mais de 100 anos
+
+         sacr$sim/obs=todos
+
+         oficios$sim/obs=3 oficios
+
+         locs$adro da igreja de sao joao do mocharro da porta da vila. esta enterrado no adro diante do campanario para a capela mor. foi o primeiro defunto a ser enterrado no adro da nova igreja
+
+      obito$o1640-5/2/11/1640/fl.107v./jeronimo de matos (coadjutor)
+
+         n$jeronimo fernandes/m/id=o1640-5-per1
+            ls$residencia/arelho
+            ls$pobre/sim
+
+         locs$adro da igreja do campanario para a capela mor diante daquela onde jaz adao dias
+
+         oficios$sim/obs=1 oficio por ser pobre
+
+         referido$adao dias/id=o1640-5-per2
+            ls$morto/antes

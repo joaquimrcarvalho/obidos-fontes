@@ -1,0 +1,612 @@
+kleio$gacto.str/prefix=spedro
+   fonte$obitos1775-1776/localizacao-a.d.l./freguesia de sao pedro
+
+      obito$o1775-1/15/1/1775/fl.34v./carlos jose da serra (cura)
+
+         n$vicencia/f/id=o1775-1-per1
+            ls$residencia/usseira
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de sao pedro
+
+         pai$manuel das neves/id=o1775-1-per2
+            ls$residencia/usseira
+
+         mae$maria inacia/id=o1775-1-per3
+            ls$residencia/usseira
+
+      obito$o1775-2/10/2/1775/fl.34v./carlos jose da serra (cura)
+
+         n$maria/f/id=o1775-2-per1
+            ls$idade_aprox/menor
+            ls$residencia/casais dos avarelas%cazais dos avarellas
+
+         locs$dentro da igreja de sao pedro
+
+         pai$sebastiao goncalves/id=o1775-2-per2
+            ls$residencia/casais dos avarelas%cazais dos avarellas
+
+         mae$quiteria maria/id=o1775-2-per3
+            ls$residencia/casais dos avarelas%cazais dos avarellas
+
+      obito$o1775-3/15/2/1775/fl.34v./carlos jose da serra (cura)
+
+         n$guilherme/m/id=o1775-3-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro
+
+         pai$manuel pereira/id=o1775-3-per2
+            ls$residencia/obidos
+
+         mae$catarina rosa/id=o1775-3-per3
+            ls$residencia/obidos
+
+      obito$o1775-4/25/2/1775/fl.34v./carlos jose da serra (cura)
+
+         n$inacio/m/id=o1775-4-n
+            ls$enjeitado/sim/obs=exposto do real hospital de todos os santos da cidade de lisboa
+
+            pai$nome desconhecido/id=o1775-4-n-per1
+
+            mae$nome desconhecido/id=o1775-4-n-per2
+
+            referida$maria francisca/id=o1775-4-referida
+               ls$residencia/obidos
+               rel$sociabilidade/ama/inacio/o1775-4-n
+
+            referido$manuel francisco/id=o1775-4-n-per3
+               ls$residencia/obidos
+               rel$parentesco/marido/maria francisca/o1775-4-referida
+
+      obito$o1775-5/12/5/1775/fl.34v./carlos jose da serra (cura)
+
+         n$francisco duarte/m/id=o1775-5-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         mulher$maria monteiro/id=o1775-5-per2
+            ls$residencia/obidos
+
+      obito$o1775-6/13/5/1775/fl.35/carlos jose da serra (cura)
+
+         n$jose pacheco cabral curutelo/m/id=o1775-6-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim/obs=recebeu todos os sacramentos excepto o da uncao porque morreu de uma "suffocaçam"
+
+         causa$sufoco%huma suffocaçam"
+
+         locs$dentro da igreja de sao pedro
+
+         oficios$oficio de corpo presente
+
+         mulher$catarina de sisneiros/id=o1775-6-per2
+            ls$titulo/dona
+            ls$morta/antes
+
+      obito$o1775-7/14/6/1775/fl.35/carlos jose da serra (cura)
+
+         n$gertrudes/f/id=o1775-7-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=exposta da camara de obidos
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1775-7-per1
+
+         mae$nome desconhecido/id=o1775-7-per2
+
+         referida$angela marcelina/id=o1775-7-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama de leite/gertrudes/o1775-7-n
+
+         referido$jose pereira/id=o1775-7-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/angela marcelina/o1775-7-referida
+
+      obito$o1775-8/23/6/1775/fl.35/carlos jose da serra (cura)
+
+         n$rosa/f/id=o1775-8-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=filha do hospital real de todos os santos da cidade de lisboa
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1775-8-per1
+
+         mae$nome desconhecido/id=o1775-8-per2
+
+         referida$maria do nascimento/id=o1775-8-referida
+            ls$residencia/avarelas%avarellas
+            rel$sociabilidade/ama/rosa/o1775-8-n
+
+         referido$jose da silva/id=o1775-8-per3
+            ls$residencia/avarelas%avarellas
+            rel$parentesco/marido/maria do nascimento/o1775-8-referida
+
+      obito$o1775-9/12/3/1775/fl.35/carlos jose da serra (cura)/obs=o paroco alerta para o facto do registo estar fora do sitio
+
+         n$joaquim da silva/m/id=o1775-9-per1
+            ls$residencia/usseira
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         mulher$antonia maria/id=o1775-9-per2
+            ls$residencia/usseira
+
+      obito$o1775-10/30/3/1775/fl.35/carlos jose da serra (cura)/obs=o paroco alerta para o facto do registo estar fora do sitio
+
+         n$mariana da encarnacao/f/id=o1775-10-per1
+            ls$ec/v
+            ls$residencia/casal da torre
+
+         sacr$sim/obs=recebeu todos os sacramentos excepto o da uncao porque nao deu lugar
+
+         locs$dentro da igreja de sao pedro
+
+         marido$nicolau goncalves/id=o1775-10-per2
+            ls$morto/antes
+
+      obito$o1775-11/31/3/1775/fl.35v./carlos jose da serra (cura)/obs=o paroco alerta para o facto do registo estar fora do sitio
+
+         n$maria madalena de azevedo/f/id=o1775-11-per1
+            ls$titulo/dona
+            ls$ec/v
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro
+
+         marido$manuel alves de almeida/id=o1775-11-per2
+            ls$residencia/obidos
+            ls$morto/antes
+
+      obito$o1775-12/3/4/1775/fl.35v./carlos jose da serra (cura)/obs=o paroco alerta para o facto do registo estar fora do sitio
+
+         n$engracia maria/f/id=o1775-12-per1
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         marido$joao henriques de oliveira/id=o1775-12-per2
+            ls$morto/antes
+
+      obito$o1775-13/19/4/1775/fl.35v./carlos jose da serra (cura)/obs=o paroco alerta para o facto do registo estar fora do sitio
+
+         n$manuel antonio/m/obs=que se dizia ser tagarro/id=o1775-13-per1
+            ls$ec/s
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         locf$enfermaria da santa casa da misericordia
+
+      obito$o1775-14/21/4/1775/fl.35v./carlos jose da serra (cura)/obs=o paroco alerta para o facto do registo estar fora do sitio
+
+         n$pascoa maria/f/id=o1775-14-per1
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         marido$luis carreira/id=o1775-14-per2
+            ls$residencia/obidos
+            ls$morto/antes
+
+      obito$o1775-15/22/4/1775/fl.35v./carlos jose da serra (cura)/obs=o paroco alerta para o facto do registo estar fora do sitio
+
+         n$constancia/f/id=o1775-15-per1
+            ls$residencia/obidos
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de sao pedro
+
+         pai$antonio da silva/id=o1775-15-per2
+            ls$residencia/obidos
+
+         mae$monica do espirito santo/id=o1775-15-per3
+            ls$residencia/obidos
+
+      obito$o1775-16/7/7/1775/fl.36/carlos jose da serra (cura)
+
+         n$cecilia/f/id=o1775-16-per1
+            ls$residencia/usseira
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de sao pedro
+
+         pai$manuel ferreira/id=o1775-16-per2
+            ls$residencia/usseira
+
+         mae$quiteria da silva/id=o1775-16-per3
+            ls$residencia/usseira
+
+      obito$o1775-17/11/7/1775/fl.36/carlos jose da serra (cura)
+
+         n$maria/f/id=o1775-17-per1
+            ls$idade_aprox/menor
+            ls$residencia/usseira
+            ls$datamorte/17750711/obs=faleceu aos 11 de julho de 1775.
+
+         locs$dentro da igreja de sao pedro
+
+         pai$manuel ferreira/id=o1775-17-per2
+            ls$residencia/usseira
+
+         mae$joaquina maria/id=o1775-17-per3
+            ls$residencia/usseira
+
+      obito$o1775-18/17/7/1775/fl.36/carlos jose da serra (cura)
+
+         n$joaquim/m/id=o1775-18-per1
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de sao pedro
+
+         pai$luis gomes/id=o1775-18-per2
+            ls$residencia/pinhal
+
+         mae$joana teresa/id=o1775-18-per3
+            ls$residencia/pinhal
+
+      obito$o1775-19/8/8/1775/fl.36/carlos jose da serra (cura)
+
+         n$ursula/f/id=o1775-19-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=filha do hospital real de todos os santos da cidade de lisboa
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1775-19-per1
+
+         mae$nome desconhecido/id=o1775-19-per2
+
+         referida$rosa maria/id=o1775-19-referida
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/ursula/o1775-19-n
+
+         referido$sebastiao jose/id=o1775-19-per3
+            ls$residencia/pinhal
+            rel$parentesco/marido/rosa maria/o1775-19-referida
+
+      obito$o1775-20/14/9/1775/fl.36/carlos jose da serra (cura)
+
+         n$joao francisco/m/id=o1775-20-per1
+            ls$profissao/criado
+            ls$residencia/tras do outeiro
+            rel$profissional/criado/antonio de faria/o1775-20-referido
+
+         sacr$sim
+
+         locf$enfermaria da santa casa da misericordia
+
+         referido$antonio de faria/id=o1775-20-referido
+
+         mulher$antonia dos santos/id=o1775-20-per2
+
+      obito$o1775-21/18/10/1775/fl.36v./carlos jose da serra (cura)
+
+         n$bernardo gomes henriques/m/id=o1775-21-per1
+            ls$residencia/obidos, freguesia de sao pedro
+
+         causa$sufoco%sofocaçam
+
+         sacr$nao
+
+         locs$dentro da igreja de sao pedro
+
+         mulher$teresa de jesus/id=o1775-21-per2
+
+      obito$o1775-22/18/10/1775/fl.36v./carlos jose da serra (cura)
+
+         n$pascoa/f/id=o1775-22-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=filha da camara de obidos
+
+         locs$dentro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1775-22-per1
+
+         mae$nome desconhecido/id=o1775-22-per2
+
+         referida$ana joaquina/id=o1775-22-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/pascoa/o1775-22-n
+
+         referido$manuel correia/id=o1775-22-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/ana joaquina/o1775-22-referida
+
+      obito$o1775-23/2/11/1775/fl.36v./carlos jose da serra (cura)
+
+         n$jose da costa/m/id=o1775-23-per1
+            ls$residencia/obidos
+            ls$profissao/serralheiro
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         mulher$teresa de jesus/id=o1775-23-per2
+            ls$morta/antes
+
+      obito$o1775-24/9/11/1775/fl.36v./carlos jose da serra (cura)
+
+         n$manuel ribeiro/m/id=o1775-24-per1
+            ls$ec/s
+            ls$naturalidade/marinha
+
+         sacr$sim
+
+         locf$enfermaria da santa casa da misericordia
+
+         pai$antonio ribeiro/id=o1775-24-per2
+
+         mae$luisa francisca/id=o1775-24-per3
+
+      obito$o1775-25/14/11/1775/fl.36v./carlos jose da serra (cura)
+
+         n$antonio bras/m/id=o1775-25-per1
+            ls$ec/v
+            ls$naturalidade/cravide
+            ls$bispado/leiria
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         locf$enfermaria da santa casa da misericordia
+
+         mulher$esperanca maria/id=o1775-25-per2
+            ls$morta/antes
+
+      obito$o1775-26/14/11/1775/fl.37/carlos jose da serra (cura)
+
+         n$raimunda/f/id=o1775-26-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=filha do hospital real de todos os santos da cidade de lisboa
+
+            pai$nome desconhecido/id=o1775-26-n-per1
+
+            mae$nome desconhecido/id=o1775-26-n-per2
+
+            referida$joaquina teresa/id=o1775-26-referida
+               ls$residencia/obidos
+               rel$sociabilidade/ama seca/raimunda/o1775-26-n
+
+            referido$jose da silva/id=o1775-26-n-per3
+               ls$residencia/obidos
+               rel$parentesco/marido/joaquina teresa/o1775-26-referida
+
+      obito$o1776-1/10/2/1776/fl.37/carlos jose da serra (cura)
+
+         n$manuel pereira da silva/m/id=o1776-1-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         testamento$nao
+
+         mulher$anastacia da silva/id=o1776-1-per2
+            ls$morta/antes
+
+      obito$o1776-2/3/3/1776/fl.37/carlos jose da serra (cura)
+
+         n$joana antonia/f/id=o1776-2-per1
+            ls$residencia/obidos, freguesia de sao pedro
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         marido$francisco rodrigues/id=o1776-2-per2
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+      obito$o1776-3/22/3/1776/fl.37/carlos jose da serra (cura)
+
+         n$joao/m/id=o1776-3-per1
+            ls$ec/s/obs="mosso solteiro, jurado". nao se sabe de onde era.
+
+         sacr$sim
+
+         locs$adro da igreja de sao pedro
+
+         locf$enfermaria da santa casa da misericordia
+
+      obito$o1776-4/23/3/1776/fl.37/carlos jose da serra (cura)
+
+         n$jose feliciano henriques/m/id=o1776-4-per1
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         testamento$nao
+
+         mulher$antonia inacia de azevedo/id=o1776-4-per2
+
+      obito$o1776-5/29/4/1776/fl.37v./antonio daniel da costa e azevedo (prior)
+
+         n$joao felix pereira/m/id=o1776-5-per1
+            ls$titulo/reverendo
+            ls$cargo/tesoureiro mor da catedral de lamego%thezr.o mor da cathedral de lam.o
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi sepultado em caixao na igreja de sao pedro
+
+         testamento$nao
+
+         oficios$oficio de honras e de sepultura pela irmandade dos clerigos pobres de obidos e assistencia de todos os padres das colegiadas da mesma vila
+
+         pai$manuel soares henriques/id=o1776-5-per2
+
+         mae$sebastiana maria/id=o1776-5-per3
+            ls$titulo/dona
+
+      obito$o1776-6/3/5/1776/fl.37v./carlos jose da serra (cura)
+
+         n$maria da cruz/f/id=o1776-6-n
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de sao pedro
+
+         pai$antonio dias montes/id=o1776-6-per1
+
+         mae$maria joaquina/id=o1776-6-per2
+
+         referido$jose luis de miranda/id=o1776-6-per3
+            ls$titulo/doutor
+            ls$profissao/medico
+            rel$sociabilidade/baptizou em necessidade/maria da cruz/o1776-6-n
+
+      obito$o1776-7/6/5/1776/fl.37v./carlos jose da serra (cura)
+
+         n$teresa maria/f/id=o1776-7-per1
+            ls$residencia/usseira
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         oficios$oficio de corpo presente, foi acompanhada de todos os padres desta matriz/obs=deixou duas moedas de quatro mil e oitocentos para missas pela sua alma e de seu marido, que seriam ditas pelos padres da mesma igreja. foi passada certidao deste assento aos 28 de agosto de 1782
+
+         marido$caetano gomes/id=o1776-7-per2
+            ls$morto/antes
+
+      obito$o1776-8/10/5/1776/fl.38/carlos jose da serra (cura)
+
+         n$raimunda/f/id=o1776-8-n
+            ls$enjeitada/sim/obs=exposta, filha do hospital real de todos os santos
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1776-8-per1
+
+         mae$nome desconhecido/id=o1776-8-per2
+
+         referida$maria francisca/id=o1776-8-referida/obs=ama de leite
+            ls$residencia/obidos
+            rel$sociabilidade/ama/raimunda/o1776-8-n
+
+         referido$manuel francisco/id=o1776-8-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/maria francisca/o1776-8-referida
+
+      obito$o1776-9/12/5/1776/fl.38/carlos jose da serra (cura)
+
+         n$manuel henriques/m/id=o1776-9-per1
+            ls$ec/s
+
+         sacr$sim
+
+         locs$adro da igreja de sao pedro
+
+         pai$dionisio franco/id=o1776-9-per2
+            ls$residencia/olho marinho%olho marido
+
+         mae$brisida maria/id=o1776-9-per3
+            ls$naturalidade/olho marinho%olho marido
+
+      obito$o1776-10/16/5/1776/fl.38/carlos jose da serra (cura)
+
+         n$brisida teresa/f/id=o1776-10-per1
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro
+
+         marido$antonio henriques/id=o1776-10-per2
+            ls$morto/antes
+
+      obito$o1776-11/17/5/1776/fl.38/carlos jose da serra (cura)
+
+         n$joao henriques de oliveira/m/id=o1776-11-per1
+            ls$profissao/padre
+            ls$residencia/obidos, freguesia de sao pedro
+            ls$cargo/economo da igreja de sao pedro
+
+         sacr$sim
+
+         locs$igreja de sao pedro
+
+         oficios$oficio de sepultura da irmandade dos clerigos
+
+      obito$o1776-12/6/6/1776/fl.38v./carlos jose da serra (cura)
+
+         n$sebastiao mendes paimoga/m/id=o1776-12-per1
+            ls$ec/s
+
+         sacr$sim
+
+         locs$adro da igreja de sao pedro
+
+      obito$o1776-13/29/6/1776/fl.38v./carlos jose da serra (cura)
+
+         n$maria da conceicao/f/id=o1776-13-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=exposta, filha da camara de obidos
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1776-13-per1
+
+         mae$nome desconhecido/id=o1776-13-per2
+
+         referida$joana maria/id=o1776-13-referida
+            ls$residencia/obidos, freguesia de sao pedro
+            rel$sociabilidade/ama/maria da conceicao/o1776-13-n
+
+         referido$gabriel francisco/id=o1776-13-per3
+            ls$residencia/obidos, freguesia de sao pedro
+            rel$parentesco/marido/joana maria/o1776-13-referida
+
+      obito$o1776-14/10/10/1776/fl.38v./carlos jose da serra (cura)
+
+         n$germana/f/id=o1776-14-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro
+
+         pai$manuel pereira/id=o1776-14-per2
+            ls$residencia/obidos
+
+         mae$catarina maria/id=o1776-14-per3
+            ls$residencia/obidos
+
+      obito$o1776-15/23/10/1776/fl.38v./carlos jose da serra (cura)
+
+         n$joao da costa freire/m/id=o1776-15-per1
+            ls$titulo/cavaleiro da ordem de cristo
+            ls$naturalidade/lisboa, freguesia de pena
+
+         sacr$sim
+
+         locs$igreja de sao pedro/obs=foi sepultado em caixao dentro da igreja de sao pedro
+
+         oficios$oficio de corpo presente
+
+         mulher$ana joaquina rosa/id=o1776-15-per2
+            ls$titulo/dona

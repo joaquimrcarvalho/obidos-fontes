@@ -1,0 +1,428 @@
+kleio$gacto.str/prefix=vau
+   fonte$obitos1766-1770/localizacao-a.d.l./freguesia de nossa senhora da piedade, vau
+
+      obito$o1766-1/1/2/1766/fl.22v./joao de torres pereira ribeira (padre)
+
+         n$lourenco gomes/m/id=o1766-1-per1
+            ls$pobre/sim
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 17/obs=foi sepultado a 2 de fevereiro depois do meio dia
+
+         oficios$oficio de corpo presente
+
+         testamento$nao/obs=nao fez testamento nem "codecilo"
+
+         mulher$caetana maria/id=o1766-1-per2
+
+      obito$o1766-2/6/3/1766/fl.22v./joao de torres pereira ribeira (padre)
+
+         n$bernardo/m/id=o1766-2-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=inocente do hospital real de todos os santos
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$nome desconhecido/id=o1766-2-per1
+
+         mae$nome desconhecido/id=o1766-2-per2
+
+         referida$ana joaquina/id=o1766-2-referida
+            rel$sociabilidade/ama/bernardo/o1766-2-n
+
+         referido$francisco martins/id=o1766-2-per3
+            rel$parentesco/marido/ana joaquina/o1766-2-referida
+
+      obito$o1766-3/16/3/1766/fl.22v./joao de torres pereira ribeira (padre)
+
+         n$sebastiana/f/id=o1766-3-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/nossa senhora da piedade
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$antonio monteiro/id=o1766-3-per2
+
+         mae$rosa maria/id=o1766-3-per3
+
+      obito$o1766-4/25/3/1766/fl.23/joao de torres pereira ribeira (padre)
+
+         n$maria/f/id=o1766-4-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose soares/id=o1766-4-per2
+
+         mae$pascoa maria/id=o1766-4-per3
+
+      obito$o1766-5/26/3/1766/fl.23/joao de torres pereira ribeira (padre)
+
+         n$maria/f/id=o1766-5-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose francisco louro/id=o1766-5-per2
+
+         mae$rosa maria/id=o1766-5-per3
+
+      obito$o1766-6/21/6/1766/fl.23/joao de torres pereira ribeira (padre)
+
+         n$manuel martins/m/id=o1766-6-per1
+            ls$ec/s
+
+         sacr$sim/obs=o paroco administrou-lhe sacramento da confissao por sinais que e o da confissao e da absolvicao papal
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 18
+
+         causa$acidente
+
+         oficios$oficio de sepultura, 1 oficio com missa cantada/obs=foi enterrado depois da missa conventual no dia 22
+
+         testamento$nao refere/obs=o padre diz que por ter ficado sem sentidos nao dispos cousa alguma
+
+      obito$o1766-7/31/8/1766/fl.23v./joao de torres pereira ribeira (padre)
+
+         n$barbara/f/id=o1766-7-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=inocente do hospital real de todos os santos. lisboa
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         causa$umas pintas e diarreia
+
+         pai$nome desconhecido/id=o1766-7-per1
+
+         mae$nome desconhecido/id=o1766-7-per2
+
+         referida$antonia maria/id=o1766-7-referida
+            ls$residencia/casal da lapinha
+            rel$sociabilidade/ama/barbara/o1766-7-n
+
+         referido$sebastiao lopes/id=o1766-7-per3
+            ls$residencia/casal da lapinha
+            rel$parentesco/marido/antonia maria/o1766-7-referida
+
+      obito$o1766-8/2/10/1766/fl.23v./joao de torres pereira ribeira (padre)
+
+         n$jose francisco penicheiro/m/id=o1766-8-n
+            ls$naturalidade/arelho
+            ls$ec/v
+            ls$residencia/freguesia de sao joao de mocharro/obs=e por devocao que sempre teve com a virgem nossa senhora da piedade desta paroquial igreja do vau, elegeu sepultura dentro da mesma igreja na presenca do paroco e da sua filha isabel iria e de seu filho jose e de engracia maria viuva do lugar do vau e outras muitas pessoas que estavam presentes. "e depois de receber da sua freguesia de sao joao do mocharro pelo seu parrocho o sacro viatico, veyo dahi a oito dias assistir nesta freguesia sempre doentinho com angustias e afflicois de edropesia que padecia que nunca se levantou da cama e na dita doenca lhe administrey o sacramento da conficao e uncao e bencao digo e absolvicao da ora da morte e officio dagonia"
+
+         locf$freguesia de nossa senhora da piedade do vau
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 19
+
+         causa$edropesia
+
+         mulher$iria dos santos/id=o1766-8-per1
+            ls$morta/antes
+
+         referida$isabel iria/id=o1766-8-per2
+            rel$parentesco/filha/jose francisco penicheiro/o1766-8-n
+
+         referido$jose/id=o1766-8-per3
+            rel$parentesco/filho/jose francisco penicheiro/o1766-8-n
+
+         referida$engracia maria/id=o1766-8-per4
+            ls$ec/v
+            ls$residencia/vau
+
+      obito$o1766-9/7/10/1766/fl.24/joao de torres pereira ribeira (padre)
+
+         n$manuel/m/id=o1766-9-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=inocente, enjeitado do hospital real de todos os santos, lisboa
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$nome desconhecido/id=o1766-9-per1
+
+         mae$nome desconhecido/id=o1766-9-per2
+
+         referida$catarina maria/id=o1766-9-referida
+            rel$sociabilidade/ama/manuel/o1766-9-n
+
+         referido$antonio da silva/id=o1766-9-per3
+            rel$parentesco/marido/catarina maria/o1766-9-referida
+
+      obito$o1766-10/26/10/1766/fl.24/joao de torres pereira ribeira (padre)
+
+         n$teresa maria/f/id=o1766-10-per1
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         oficios$oficio de corpo presente
+
+         testamento$nao refere/obs=nomeou a sua terca a seu marido com obrigacao de lhe mandar dizer pela sua alma das missas de "esmola comua"
+
+         marido$pedro ferreira/id=o1766-10-per2
+
+      obito$o1767-1/15/3/1767/fl.24v./joao de torres pereira ribeira (padre)
+
+         n$joana maria pinheiro/f/id=o1767-1-n
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 21
+
+         oficios$oficio de sepultura
+
+         testamento$nao refere/obs=dispos de sua terca e a nomeou a seu filho jose de horta com obrigacao se lhe mandar dizer pela sua alma dez missas por uma vez somente
+
+         referido$jose de horta/id=o1767-1-per1
+            rel$parentesco/filho/joana maria pinheiro/o1767-1-n
+
+      obito$o1767-2/18/3/1767/fl.24v./joao de torres pereira ribeira (padre)
+
+         n$francisco rodrigues/m/id=o1767-2-n
+            ls$naturalidade/venda de agua, termo da vila de atouguia da baleia/obs="e vindo a implorar a saude a virgem nossa senhora da piedade deste logar do vau termo e arcediagado de obidosinfermou mais gravemente e ellegeo sepultura nesta minha igreja na presença de mim parocho e de joao pereyra offecial de sapateyro veuvo, e de seus filhos joze e antonio e determinou que sua molher lhe mandaria dizer pela sua alma quarenta missas e duas pela alma de seu pay, e outras duas pela alma de sua may, que sao quarenta e quatro ditas por huma ves somente de esmola commua"
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 22
+
+         oficios$sim/obs=44 missas
+
+         mulher$maria teresa/id=o1767-2-per1
+
+         referido$joao pereira/id=o1767-2-per2
+            ls$profissao/oficial de sapateiro
+            ls$ec/v
+
+         referido$jose/id=o1767-2-per3
+            rel$parentesco/filho/francisco rodrigues/o1767-2-n
+
+         referido$antonio/id=o1767-2-per4
+            rel$parentesco/filho/francisco rodrigues/o1767-2-n
+
+      obito$o1767-3/18/5/1767/fl.25/joao de torres pereira ribeira (padre)
+
+         n$lourenco madeira/m/id=o1767-3-per1
+            ls$ec/s
+            ls$pobre/sim
+            rel$parentesco/cunhado/maria clara/o1767-3-referida
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 24
+
+         testamento$nao/obs=nao fez testamento nem disposicao alguma por ser pobre.
+
+         referida$maria clara/id=o1767-3-referida
+            ls$ec/v
+
+         referido$antonio madeira/id=o1767-3-per2
+            ls$morto/antes
+            rel$parentesco/marido/maria clara/o1767-3-referida
+
+      obito$o1767-4/9/8/1767/fl.25/joao de torres pereira ribeira (padre)
+
+         n$maria soares/f/id=o1767-4-per1
+            ls$pobre/sim
+
+         sacr$sim/obs=confissao, sagrado viatico. nao recebeu o sacramento da uncao por falecer "com acellaracao"
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 25
+
+         testamento$nao/obs="nao fez testamento nem codecilo por ser pobre"
+
+         marido$domingos luis/id=o1767-4-per2
+
+      obito$o1767-5/9/12/1767/fl.25v./joao de torres pereira ribeira (padre)
+
+         n$ambrosio martins/m/id=o1767-5-n
+            ls$cargo/cabo do forte de nossa senhora da consolacao
+            ls$naturalidade/peniche
+
+         locf$freguesia de nossa senhora da piedade do vau/obs=faleceu pelas 12 horas da noite. "e por vir nesta minha freguezia munto doente a implorar a saude a virgem nossa senhora da piedade e por a infermidade hir em aumento se nao pode retirar para a sua freguezia e ellegeo sepultura nesta minha freguezia na presença de mim parrocho e de toda a irmandade do santissimo sacramento"
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 3
+
+         causa$enfermidade
+
+         oficios$oficio de corpo presente
+
+         testamento$nao refere/obs=dispos dos seus bens com saude e deixou todos os seus bens a sua mulher dona teresa de jesus
+
+         mulher$teresa de jesus/id=o1767-5-per1
+            ls$titulo/dona
+            rel$sociabilidade/herdeira/ambrosio martins/o1767-5-n
+
+      obito$o1767-6/28/12/1767/fl.25v./joao de torres pereira ribeira (padre)
+
+         n$maria do o/f/id=o1767-6-per1
+            ls$ec/s
+            ls$residencia/vau
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 26
+
+         oficios$oficio de sepultura
+
+         pai$jose luis pinheiro/id=o1767-6-per2
+
+         mae$joana maria/id=o1767-6-per3
+
+      obito$o1768-1/19/3/1768/fl.26/joao de torres pereira ribeira (padre)
+
+         n$jose/m/id=o1768-1-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$manuel cardoso/id=o1768-1-per2
+
+         mae$inacia maria/id=o1768-1-per3
+
+      obito$o1768-2/24/5/1768/fl.26/joao de torres pereira ribeira (padre)
+
+         n$joao luis/m/id=o1768-2-per1
+
+         sacr$sim
+
+         locs$dentro da igreja dse nossa senhora da piedade, sepultura 27
+
+         oficios$oficio de corpo presente
+
+         testamento$nao/obs=nao fez testamento nem "codecilo"
+
+         mulher$rosa maria/id=o1768-2-per2
+
+      obito$o1768-3/4/8/1768/fl.26/joao de torres pereira ribeira (padre)
+
+         n$joaquina/f/id=o1768-3-per1
+            ls$idade_aprox/menor
+            ls$locnascimento/casal da lapinha/obs=inocente. nasceu no casal da lapinha da freguesia de nossa senhora da piedade e a sua mae "depois que viuvou se acha no mesmo cazal moradora"
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$joaquim da fonseca/id=o1768-3-per2
+            ls$morto/antes
+
+         mae$antonia teresa/id=o1768-3-per3
+            ls$residencia/casal da lapinha
+
+      obito$o1769-1/26/3/1769/fl.26v./joao de torres pereira ribeira (padre)
+
+         n$francisco/m/id=o1769-1-n
+            ls$idade_aprox/menor/obs=inocente
+            ls$ilegitimo/sim
+            ls$naturalidade/lisboa
+
+            pai$nome desconhecido/id=o1769-1-n-per1
+
+            mae$josefa/id=o1769-1-n-per2
+               ls$condicao/escrava
+               rel$profissional/escrava/antonio jose catelao/o1769-1-referido
+
+            referido$antonio jose catelao/id=o1769-1-referido
+               ls$profissao/homem de negocio
+
+            referida$inacia maria/id=o1769-1-referida
+               rel$sociabilidade/ama/francisco/o1769-1-n
+
+            referido$manuel cardoso/id=o1769-1-n-per3
+               rel$parentesco/marido/inacia maria/o1769-1-referida
+
+      obito$o1769-2/2/4/1769/fl.26v./joao de torres pereira ribeira (padre)
+
+         n$matilde/f/id=o1769-2-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=enjeitada, inocente do hospital real de todos os santos, lisboa
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$nome desconhecido/id=o1769-2-per1
+
+         mae$nome desconhecido/id=o1769-2-per2
+
+         referida$maria francisca/id=o1769-2-referida
+            rel$sociabilidade/ama/matilde/o1769-2-n
+
+         referido$pascoal lopes/id=o1769-2-per3
+            rel$parentesco/marido/maria francisca/o1769-2-referida
+
+      obito$o1769-3/27/7/1769/fl.27/joao de torres pereira ribeira (padre)
+
+         n$bernarda teresa/f/id=o1769-3-per1
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 28
+
+         oficios$oficio de corpo presente
+
+         testamento$nao/obs=nao fez testamento nem "codecilo por nao ter de que e nao ser herdada"
+
+         pai$jose caetano/id=o1769-3-per2
+
+         mae$jeronima maria/id=o1769-3-per3
+
+         marido$jose felix/id=o1769-3-per4
+
+      obito$o1769-4/26/10/1769/fl.27/joao de torres pereira ribeira (padre)
+
+         n$maria/f/id=o1769-4-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=inocente do hospital real de todos os santos, lisboa
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$nome desconhecido/id=o1769-4-per1
+
+         mae$nome desconhecido/id=o1769-4-per2
+
+         referida$ana joaquina/id=o1769-4-referida
+            rel$sociabilidade/ama/maria/o1769-4-n
+
+         referido$francisco martins/id=o1769-4-per3
+            rel$parentesco/marido/ana joaquina/o1769-4-referida
+
+      obito$o1770-1/12/2/1770/fl.27v./joao de torres pereira ribeira (padre)
+
+         n$inacio henriques/m/id=o1770-1-per1
+            ls$ec/s
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade/obs=foi sepultado no dia 13
+
+         oficios$oficio de sepultura
+
+         pai$francisco henriques/id=o1770-1-per2
+
+         mae$maria da assuncao/id=o1770-1-per3
+
+      obito$o1770-2/2/6/1770/fl.27v./joao de torres pereira ribeira (padre)
+
+         n$bernardina/f/id=o1770-2-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jose alves/id=o1770-2-per2
+
+         mae$maria rosa/id=o1770-2-per3
+
+      obito$o1770-3/10/10/1770/fl.28/joao de torres pereira ribeira (padre)
+
+         n$luis/m/id=o1770-3-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de nossa senhora da piedade
+
+         pai$jacinto luis/id=o1770-3-per2
+
+         mae$maria/id=o1770-3-per3

@@ -1,0 +1,766 @@
+kleio$gacto2.str/prefix=stmaria
+   fonte$bap1782/1782/baptismos/obs=a partir de imagens digitalizadas
+
+      bap$b1782-1/3/1/1782/fl.259v/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-1-per1
+            ls$datanasc/17811219
+
+         pn$caetano henriques/id=b1782-1-per2
+            ls$locbaptismo/santa maria
+            ls$residencia/a da gorda
+
+         mn$quiteria do desterro/id=b1782-1-per3
+            ls$naturalidade/a da gorda
+
+         pad$manuel da silva/id=b1782-1-per4
+            ls$residencia/usseira
+
+      bap$b1782-2/27/1/1782/fl.259v/igreja de santa maria/joao carlos da silva
+
+         n$ana/f/id=b1782-2-per1
+            ls$datanasc/17820115
+
+         pn$domingos antunes/id=b1782-2-per2
+            ls$naturalidade/carvalhal
+            ls$locbaptismo/nossa senhora da ascencao/obs=bispado de viseu
+            ls$residencia/fraldeu
+
+         mn$maria gomes/id=b1782-2-per3
+            ls$naturalidade/fraldeu
+
+         pad$antonio gomes/id=b1782-2-per4
+            ls$residencia/vieira
+
+         mad$ana maria gomes/id=b1782-2-per5
+
+      bap$b1782-3/3/2/1782/fl.259v/igreja de santa maria/joao carlos da silva
+
+         n$joaquina/f/id=b1782-3-per1
+
+         pn$estevao da costa/id=b1782-3-per2
+            ls$naturalidade/serra do bouro, freguesia de nossa senhora dos martires
+            ls$residencia/obidos
+
+         mn$ana joaquina/id=b1782-3-per3
+            ls$naturalidade/casal do pinheiro, freguesia de sao pedro
+            ls$locbaptismo/sao pedro de obidos
+            ls$loccasamento/sao pedro de obidos
+
+         pad$manuel pinto/id=b1782-3-per4
+            ls$residencia/obidos
+
+         mad$maria joaquina/id=b1782-3-per5
+            ls$residencia/obidos
+
+      bap$b1782-4/10/2/1782/fl.259v/igreja de santa maria/joao carlos da silva
+
+         n$joao/m/id=b1782-4-per1
+            ls$datanasc/17820126
+
+         pn$manuel francisco/id=b1782-4-per2
+            ls$naturalidade/coimbrao, freguesia de s. miguel/obs=bispado de leiria
+            ls$residencia/obidos
+
+         mn$josefa maria/id=b1782-4-per3
+            ls$naturalidade/lourical/obs=bispado de coimbra
+            ls$locbaptismo/lourical
+            ls$loccasamento/sao tiago/obs=desta vila
+
+         pad$francisco mario/id=b1782-4-f
+
+         mad$maria ana francisca antonia pacheco de almeida/id=b1782-4-per4
+            rel$parentesco/irma/francisco mario/b1782-4-f
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         referido$jose da costa peixoto/id=b1782-4-per5
+            ls$profissao/padre
+            ls$titulo/reverendo
+
+      bap$b1782-5/11/2/1782/fl.260/igreja de santa maria/joao carlos da silva
+
+         n$joaquina/f/id=b1782-5-per1
+            ls$datanasc/17820203
+
+         pn$antonio jose da silva/id=b1782-5-per2
+            ls$naturalidade/a dos negros, freguesia de santa maria madalena
+            ls$residencia/obidos
+
+         mn$joaquina maria/id=b1782-5-per3
+            ls$naturalidade/fraldeu, freguesia de santa maria
+            ls$locbaptismo/sao tiago de obidos
+            ls$loccasamento/sao tiago de obidos
+
+         pad$jose ubaldo de leao/id=b1782-5-jose
+            ls$residencia/obidos
+
+         mad$joaquina barbosa perpetua de avelar pacheco/id=b1782-5-joaquina
+            rel$parentesco/mulher/jose ubaldo de leao/b1782-5-jose
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      bap$b1782-6/11/2/1782/fl.260/igreja de santa maria/joao carlos da silva
+
+         n$jose/m/id=b1782-6-per1
+            ls$datanasc/17820201
+
+         pn$jose da costa/id=b1782-6-per2
+            ls$naturalidade/salgueiro, freguesia de bom jesus de sao pedro
+            ls$residencia/quinta do fraldeu
+
+         mn$gertrudes maria/id=b1782-6-per3
+            ls$naturalidade/quinta do fraldeu
+            ls$locbaptismo/santa maria de obidos
+            ls$loccasamento/santa maria de obidos
+
+         pad$antonio gomes/id=b1782-6-per4
+            ls$residencia/casal do cigano
+
+         mad$luisa maria/id=b1782-6-per5
+            ls$residencia/casal da tourinha
+
+      bap$b1782-7/25/3/1782/fl.260/igreja de santa maria/joao carlos da silva
+
+         n$joao/m/id=b1782-7-n
+            ls$datanasc/17820228
+
+         pn$joaquim luis/id=b1782-7-j
+            ls$naturalidade/a da gorda
+            ls$freguesia/santa maria de obidos
+            ls$residencia/a da gorda
+
+         mn$teodora maria/id=b1782-7-t
+            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+            ls$locbaptismo/nossa senhora da purificacao
+            ls$loccasamento/santa maria de obidos
+
+         pad$joao da silva lisardo/id=b1782-7-per1
+            ls$residencia/lisboa
+
+         procurador-pad$caetano henriques/id=b1782-7-per2
+
+         mad$getrudes joaquina/id=b1782-7-per3
+            ls$residencia/lisboa
+
+         procurador-mad$jose paulo/id=b1782-7-per4
+
+      bap$b1782-8/25/3/1782/fl.260/igreja de santa maria/joao carlos da silva
+
+         n$anbtonio/m/id=b1782-8-per1
+            rel$parentesco/irmao gemeo/joao/b1782-7-n
+            ls$datanasc/17820228
+
+         pn$joaquim luis/mesmo_que=b1782-7-j/id=b1782-8-per2
+            ls$naturalidade/a da gorda
+            ls$freguesia/santa maria
+            ls$residencia/a da gorda
+
+         mn$teodora maria/mesmo_que=b1782-7-t/id=b1782-8-per3
+            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+            ls$locbaptismo/rolica, freguesia de nossa senhora da purificacao
+            ls$loccasamento/santa maria de obidos
+
+         pad$antonio jose de seixas/id=b1782-8-per4
+            ls$residencia/obidos
+
+         mad$joana maria/id=b1782-8-per5
+            ls$residencia/a da gorda
+
+      bap$b1782-9/14/4/1782/fl.260v/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-9-per1
+            ls$datanasc/17820323
+
+         pn$manuel da silva/id=b1782-9-per2
+            ls$naturalidade/sobreira
+            ls$freguesia/sao tiago de sandim/obs=bispado de braga
+            ls$residencia/obidos
+
+         mn$rosa maria/id=b1782-9-per3
+            ls$naturalidade/val, freguesia de nossa senhora dos anjos
+            ls$locbaptismo/nossa senhora dos anjos
+            ls$loccasamento/santa maria freguesia de obidos
+
+         pad$antonio moreira de gois/id=b1782-9-per4
+            ls$residencia/obidos
+
+      bap$b1782-10/14/4/1782/fl.260v/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-10-per1
+            ls$datanasc/17820313
+
+         pn$francisco gomes/id=b1782-10-per2
+            ls$naturalidade/casal do codorno, freguesia de sao pedro de obidos
+            ls$residencia/quinta da charneca
+
+         mn$genoveva maria/id=b1782-10-per3
+            ls$naturalidade/casal do convento, freguesia de sao pedro de obidos
+            ls$locbaptismo/sao pedro de obidos
+            ls$loccasamento/sao pedro de obidos
+
+         pad$francisco maria antonio pacheco/id=b1782-10-f
+            ls$residencia/obidos
+
+         mad$maria ana francisca antonia pacheco/id=b1782-10-per4
+            rel$parentesco/irma/francisco maria antonio pacheco/b1782-10-f
+            ls$titulo/dona
+
+      bap$b1782-11/12/5/1782/fl.261/igreja de santa maria/joao carlos da silva
+
+         n$antonio/m/id=b1782-11-n
+            ls$enjeitado/sim/obs=exposto no arrabalde, a porta de estevao da costa no mesmo dia
+
+         pn$desconhecido/id=b1782-11-per1
+
+         mn$desconhecido/id=b1782-11-per2
+
+         referida$josefa teresa/id=b1782-11-josefa/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/antonio/b1782-11-n
+
+         referido$silvestre gonçalves/id=b1782-11-per3
+            rel$parentesco/marido/josefa teresa/b1782-11-josefa
+
+         pad$luis diogo da silveira/id=b1782-11-silveira
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$estevao da costa/id=b1782-11-costa
+            ls$residencia/arrabalde
+            rel$sociabilidade/achou a crianca/antonio/b1782-11-n
+
+      bap$b1782-12/12/5/1782/fl.260v/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-12-per1
+            ls$datanasc/17820502
+
+         pn$sebastiao mendes/id=b1782-12-per2
+            ls$naturalidade/casal do convento, freguesia de sao pedro de obidos
+            ls$residencia/gaeiras de santa maria
+
+         mn$antonia joaquina/id=b1782-12-per3
+            ls$naturalidade/casal da venda
+            ls$locbaptismo/alfeizeirao
+            ls$loccasamento/sao pedro de obidos
+
+         pad$teotonio mendes/id=b1782-12-per4
+            ls$residencia/quinta do bernardo freire
+
+         mad$maria de jesus/id=b1782-12-per5
+            ls$residencia/obidos
+
+      bap$b1782-13/28/5/1782/fl.261/igreja de santa maria/joao carlos da silva
+
+         n$antonio/m/id=b1782-13-n
+            ls$enjeitado/sim/obs=na serra de el rei, a porta do moinho de antonio pereira
+
+         pn$desconhecido/id=b1782-13-per1
+
+         mn$desconhecido/id=b1782-13-per2
+
+         referida$damiana rosa/id=b1782-13-rosa/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/antonio/b1782-13-n
+
+         referido$joao francisco/id=b1782-13-per3
+            rel$parentesco/marido/damiana rosa/b1782-13-rosa
+            ls$profissao/almocreve
+            ls$residencia/olho marinho
+
+         referido$antonio pereira/id=b1782-13-per4
+            rel$sociabilidade/achou a crianca/antonio/b1782-13-n
+
+         pad$luis diogo da silveira/id=b1782-13-luis
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+      bap$b1782-14/9/5/1782/fl.261v/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-14-n
+            ls$datanasc/17820329
+
+         pn$jose rodrigues/id=b1782-14-per1
+            ls$naturalidade/a da gorda
+            ls$residencia/a da gorda
+
+         mn$josefa rosa do desterro/id=b1782-14-per2
+            ls$naturalidade/quinta da granja
+            ls$locbaptismo/santa maria
+
+         pad$jeronimo rodrigues/id=b1782-14-per3
+            rel$parentesco/tio/maria/b1782-14-n
+
+         mad$maria quiteria/id=b1782-14-per4
+            rel$parentesco/tia/maria/b1782-14-n
+
+      bap$b1782-15/10/6/1782/fl.261v/igreja de santa maria/joao carlos da silva
+
+         n$antonia/f/id=b1782-15-n
+            ls$enjeitada/sim/obs= no pinhal a porta de simao pinto,trabalhador
+
+         pn$desconhecido/id=b1782-15-per1
+
+         mn$desconhecido/id=b1782-15-per2
+
+         referida$ana maria/id=b1782-15-ana/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/antonia/b1782-15-n
+
+         referido$jose mestre/id=b1782-15-per3
+            rel$parentesco/marido/ana maria/b1782-15-ana
+            ls$profissao/trabalhador
+            ls$residencia/usseira
+
+         referido$simao pinto/id=b1782-15-per4
+            ls$profissao/trabalhador
+            ls$residencia/pinhal
+            rel$sociabilidade/achou a crianca/antonia/b1782-15-n
+
+         pad$luis diogo da silveira/id=b1782-15-silve
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+      bap$b1782-16/10/6/1782/fl.261v/igreja de santa maria/joao carlos da silva
+
+         n$angelica/f/id=b1782-16-per1
+            ls$datanasc/17820516
+
+         pn$joao rodrigues pais/id=b1782-16-per2
+            ls$naturalidade/evora, freguesia da nossa senhora da se
+            ls$locbaptismo/nossa senhora da se
+            ls$residencia/obidos
+
+         mn$maria madalena de jesus/id=b1782-16-per3
+            ls$naturalidade/senhor jesus da pedra
+            ls$locbaptismo/sao pedro de obidos
+            ls$loccasamento/sao tiago de obidos
+
+         pad$joao gomes figueira/id=b1782-16-per4
+            ls$titulo/doutor
+
+         procurador-pad$jeronimo jose soares/id=b1782-16-per5
+            ls$profissao/padre
+
+         mad$ana clara da fonseca/id=b1782-16-per6
+            ls$residencia/obidos
+
+      bap$b1782-17/11/6/1782/fl.262/igreja de santa maria/joao carlos da silva
+
+         n$antonio/m/id=b1782-17-per1
+            ls$enjeitado/sim/obs=nas gaeiras, a porta de joaquim pereira,oficial de carpinteiro
+
+         pn$desconhecido/id=b1782-17-per2
+
+         mn$desconhecido/id=b1782-17-per3
+
+         referida$antonia teresa/id=b1782-17-teresa/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/antonio/b1782-17-n
+
+         referido$francisco aliantara/id=b1782-17-per4
+            rel$parentesco/marido/antonia teresa/b1782-17-teresa
+            ls$residencia/gaeiras
+
+         referido$joaquim pereira/id=b1782-17-per5
+            ls$residencia/gaeiras
+            ls$profissao/oficial de carpinteiro
+            rel$sociabilidade/achou a crianca/antonio/b1782-17-n
+
+         pad$luis diogo da silveira/id=b1782-17-luisdi
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+      bap$b1782-18/12/6/1782/fl.262/igreja de santa maria/joao carlos da silva
+
+         n$antonia/f/id=b1782-18-per1
+            ls$datanasc/17820506
+
+         pn$joao antonio tonsen/id=b1782-18-per2
+            ls$naturalidade/s. sebastiao da pedreira
+            ls$locbaptismo/s. sebastiao da pedreira
+            ls$residencia/gaeiras de s. marcos
+
+         mn$filipa constancia leonor/obs=mudou de nome no santo sacramento do crisma de filipa para constancia/id=b1782-18-per3
+            ls$naturalidade/lisboa, freguesia de s. vicente de fora
+            ls$locbaptismo/lisboa , freguesia de s. vicente de fora
+            ls$loccasamento/santa maria de obidos
+
+         pad$feliciano jorge da silva/id=b1782-18-per4
+            ls$residencia/lisboa
+
+         procurador-pad$francisco henriques torsen/id=b1782-18-per5
+
+      bap$b1782-19/4/7/1782/fl.262V/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-19-n
+            ls$enjeitada/sim/obs=na a da gorda, a porta de antonio pereira, o lavrador
+
+         pn$desconhecido/id=b1782-19-per1
+
+         mn$desconhecido/id=b1782-19-per2
+
+         referida$maria madalena/id=b1782-19-mada/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/maria/b1782-19-n
+
+         referido$joao rodrigues/id=b1782-19-per3
+            rel$parentesco/marido/maria madalena/b1782-19-mada
+            ls$profissao/marceneiro
+            ls$residencia/obidos
+
+         referido$antonio pereira/id=b1782-19-per4
+            rel$sociabilidade/achou a crianca/maria/b1782-19-n
+            ls$residencia/a da gorda
+            ls$profissao/lavrador
+
+         pad$luis diogo da silveira/id=b1782-19-sil
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+      bap$b1782-20/29/7/1782/fl.262v/igreja de santa maria/joao carlos da silva
+
+         n$maria joaquina/f/id=b1782-20-n/obs=trazia uma cedula que dizia ser baptizada
+            ls$enjeitada/sim/obs=no avenal, a porta de francisco luis no dia vinte e oito
+
+         pn$desconhecido/id=b1782-20-per1
+
+         mn$desconhecido/id=b1782-20-per2
+
+         referida$bernardina maria/id=b1782-20-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/maria joaquina/b1782-20-n
+
+         referido$manuel francisco natario/id=b1782-20-per3
+            rel$parentesco/marido/bernardina maria/b1782-17-j
+            ls$residencia/tras do outeiro
+
+         pad$luis dioga da silveira/id=b1782-20-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$jose luis fialho de mendonca/id=b1782-20-per5
+            ls$profissao/padre
+            ls$cargo/beneficiado
+
+         referido$francisco luis/id=b1782-20-per6
+            rel$sociabilidade/achou a crianca/maria joaquina/b1782-20-n
+            ls$residencia/avenal
+
+      bap$b1782-21/26/8/1782/fl.262v/igreja de santa maria/joao carlos da silva
+
+         n$margarida/f/id=b1782-21-n/obs=trazia uma cedula que dizia chamar se chamr margarida
+            ls$enjeitada/sim/obs= no avenal a porta de francisco luis no dia vinte e cinco, trabalhador
+
+         pn$desconhecido/id=b1782-21-per1
+
+         mn$desconhecido/id=b1782-21-per2
+
+         referida$maria josefa viana/id=b1782-21-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/margarida/b1782-21-n
+
+         referido$jose moreira/id=b1782-21-per3
+            rel$parentesco/marido/maria josefa viana/b1782-21-j
+            ls$profissao/trabalhador
+            ls$residencia/gaeiras
+
+         pad$luis dioga da silveira/id=b1782-21-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$francisco luis/id=b1782-21-per5
+            ls$residencia/avenal
+            ls$profissao/trabalhador
+            rel$sociabilidade/achou a crianca/margarida/b1782-21-n
+
+      bap$b1782-22/3/9/1782/fl.263/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-22-n
+            ls$enjeitada/sim/obs= no casal de s.antonio, a porta de joaquim dos santos no dia trinta e um de agosto
+
+         pn$desconhecido/id=b1782-22-per1
+
+         mn$desconhecido/id=b1782-22-per2
+
+         referida$rosa maria/id=b1782-22-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/maria/b1782-22-n
+
+         referido$manuel da silva/id=b1782-22-per3
+            rel$parentesco/marido/rosa maria/b1782-21-j
+            ls$profissao/trabalhador
+            ls$residencia/obidos
+
+         pad$luis diogo da silveira/id=b1782-22-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$joaquim dos santos/id=b1782-22-per5
+            ls$residencia/casal de santo antonio
+            rel$sociabilidade/achou a crianca/maria/b1782-22-n
+
+      bap$b1782-23/18/9/1782/fl.263/igreja de santa maria/joao carlos da silva
+
+         n$joao/m/id=b1782-23-per1
+            ls$datanasc/17820825
+
+         pn$joaquim caetano/id=b1782-23-per2
+            ls$naturalidade/vieira
+
+         mn$maria nazare/id=b1782-23-per3
+            ls$naturalidade/vieira, freguesia de sao pedro
+            ls$residencia/a da gorda
+
+         pad$joao gomes/id=b1782-23-j
+
+         mad$genoveva maria do rosario/id=b1782-23-per4
+            rel$parentesco/filha/joao gomes/b1782-23-j
+            ls$residencia/vieira
+
+      bap$b1782-24/22/9/1782/fl.263/igreja de santa maria/joao carlos da silva
+
+         n$antonio/m/id=b1782-24-n
+            ls$enjeitado/sim/obs=casal novo das avarelas, a porta de jose da silva no mesmo dia
+
+         pn$desconhecido/id=b1782-24-per1
+
+         mn$desconhecido/id=b1782-24-per2
+
+         referida$ana joaquina/id=b1782-24-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/antonio/b1782-24-n
+
+         referido$estevao da costa/id=b1782-24-per3
+            rel$parentesco/marido/ana joaquina/b1782-24-j
+            ls$residencia/arrabalde
+
+         pad$luis diogo da silveira/id=b1782-24-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$jose da silva/id=b1782-24-per5
+            rel$sociabilidade/achou a crianca/antonio/b1782-24-n
+            ls$residencia/casal novo das avarelas
+
+      bap$b1782-25/25/9/1782/fl.263v/igreja de santa maria/joao carlos da silva
+
+         n$miguel/m/id=b1782-25-n
+            ls$enjeitado/sim/obs=mocharro, no campo a borda da estrada junto a uma casa
+
+         pn$desconhecido/id=b1782-25-per1
+
+         mn$desconhecido/id=b1782-25-per2
+
+         referida$joana maria/id=b1782-25-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/miguel/b1782-25-n
+
+         referido$jose gomes/id=b1782-25-per3
+            rel$parentesco/marido/joana maria/b1782-25-j
+            ls$residencia/moinho de matatripas
+
+         pad$luis dioga da silveira/id=b1782-25-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$paulo de sequeira henriques/obs=dono da casa onde foi encontrado o menino/id=b1782-25-per5
+            ls$titulo/reverendo
+
+         referido$francisco guedelha/obs=que achou o menino e o levou a baptizar/id=b1782-25-per6
+            rel$sociabilidade/achou a crianca/miguel/b1782-25-n
+
+         referido$jose luis fialho de mendonca/id=b1782-25-per7
+            ls$profissao/padre
+            ls$cargo/beneficiado
+
+      bap$b1782-26/6/10/1782/fl.263v/igreja de santa maria/joao carlos da silva
+
+         n$leandro/m/id=b1782-26-per1
+            ls$datanasc/17820924
+
+         pn$estanislau tavares/id=b1782-26-per2
+            ls$naturalidade/freguesia de nossa senhora da visitacao
+            ls$locbaptismo/alvorninha, freguesia de nossa senhora da visitacao
+            ls$residencia/gaeiras
+
+         mn$antonia luisa/id=b1782-26-per3
+            ls$naturalidade/gaeiras
+            ls$residencia/gaeiras
+
+         pad$jose francisco/id=b1782-26-per4
+            ls$residencia/gaeiras
+
+         mad$mariana joaquina/id=b1782-26-per5
+            ls$residencia/gaeiras
+
+      bap$b1782-27/16/10/1782/fl.264/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-27-n
+            ls$enjeitada/sim/obs=exposto no carvalhal, no mesmo dia a porta de francisco pereira, trabalhador
+
+         pn$desconhecido/id=b1782-27-per1
+
+         mn$desconhecido/id=b1782-27-per2
+
+         referida$ana joaquina/id=b1782-27-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/maria/b1782-27-n
+
+         referido$domingos ferreira/id=b1782-27-per3
+            rel$parentesco/marido/ana joaquina/b1782-27-j
+            ls$residencia/casal da calcada
+
+         pad$luis dioga da silveira/id=b1782-27-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$francisco pereira/id=b1782-27-per5
+            rel$sociabilidade/achou a crianca/maria/b1782-27-n
+            ls$residencia/carvalhal
+            ls$profissao/trabalhador
+
+      bap$b1782-28/4/11/1782/fl.264/igreja de santa maria/joao carlos da silva
+
+         n$antonio/m/id=b1782-28-per1
+            ls$datanasc/17821127
+
+         pn$francisco antonio/id=b1782-28-per2
+            ls$naturalidade/lisboa, freguesia de santa justa
+            ls$locbaptismo/lisboa, freguesia de santa justa
+            ls$residencia/obidos
+
+         mn$maria do carmo/id=b1782-28-per3
+            ls$naturalidade/val
+            ls$freguesia/coto
+            ls$residencia/obidos
+
+         pad$antonio pacheco cabral girao de sisneiros/id=b1782-28-per4
+            ls$titulo/dom
+            ls$residencia/obidos
+
+         procurador-pad$joaquim francisco da costa gaio/id=b1782-28-per5
+            ls$cargo/beneficiado
+
+      bap$b1782-29/17/11/1782/fl.264/igreja de santa maria/joao carlos da silva
+
+         n$joana/f/id=b1782-29-per1
+            ls$datanasc/17821103
+
+         pn$jorge ferreira/id=b1782-29-per2
+            ls$naturalidade/tras do outeiro
+            ls$locbaptismo/sao tiago de obidos
+            ls$freguesia/sao tiago de obidos
+            ls$residencia/casal da serra
+
+         mn$luisa maria/id=b1782-29-per3
+            ls$naturalidade/casal das caxinas
+            ls$freguesia/sao pedro de obidos
+            ls$loccasamento/sao tiago de obidos
+
+         pad$diogo jose/id=b1782-29-per4
+            ls$residencia/obidos
+
+         mad$maria josefa/id=b1782-29-per5
+            ls$residencia/tras do outeiro
+
+      bap$b1782-30/17/11/1782/fl.264v/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-30-n
+            ls$enjeitada/sim/obs=exposto no arrabalde no mesmo dia numa loja
+
+         pn$desconhecido/id=b1782-30-per1
+
+         mn$desconhecido/id=b1782-30-per2
+
+         referida$josefa maria/id=b1782-30-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/maria/b1782-30-n
+
+         referido$jose francisco/id=b1782-30-per3
+            rel$parentesco/marido/josefa maria/b1782-30-j
+            ls$residencia/cerca de obidos
+
+         pad$luis dioga da silveira/id=b1782-30-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$joao monteiro malhao/obs=proprietario da loja de vinhos onde a crianca foi encontrada/id=b1782-30-per5
+            ls$titulo/doutor
+            ls$residencia/arrabalde
+
+         referida$joana maria/id=b1782-30-per6
+            ls$ec/v
+            ls$profissao/vendedora/obs=de vinho na loja
+            ls$residencia/arrabalde
+
+      bap$b1782-31/26/11/1782/fl.264v/igreja de santa maria/joao carlos da silva
+
+         n$ana/f/id=b1782-31-n
+            ls$datanasc/17821119
+
+         pn$antonio ribeiro coimbra/id=b1782-31-per1
+            ls$naturalidade/a da gorda
+            ls$locbaptismo/santa maria
+            ls$residencia/a da gorda
+
+         mn$maria rosa monteiro/id=b1782-31-per2
+            ls$naturalidade/a da gorda
+
+         pad$antonio jose de arruda/id=b1782-31-per3
+            ls$cargo/capitao
+            ls$residencia/a da gorda
+
+         mad$doroteia inacia coimbra/id=b1782-31-per4
+            rel$parentesco/tia/ana/b1782-31-n
+
+      bap$b1782-32/7/12/1782/fl.264v/igreja de santa maria/joao carlos da silva
+
+         n$antonio/m/id=b1782-32-per1
+            ls$datanasc/17821112
+
+         pn$joao monteiro/id=b1782-32-per2
+            ls$naturalidade/obidos, freguesia de obidos
+            ls$residencia/arrabalde
+
+         mn$ana joaquina/id=b1782-32-per3
+            ls$naturalidade/obidos
+
+         pad$antonio jose carreira/id=b1782-32-per4
+            ls$residencia/obidos
+
+         mad$joana maria rosa/id=b1782-32-per5
+            ls$residencia/lisboa
+
+      bap$b1782-33/16/12/1782/fl.265/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=b1782-33-n
+            ls$enjeitada/sim/obs=exposto no dia antecedente a porta de jose ferreira,lavrador de tras do outeiro
+
+         pn$desconhecido/id=b1782-33-per1
+
+         mn$desconhecido/id=b1782-33-per2
+
+         referida$francisca das chagas/id=b1782-33-j/obs=levou para santa casa do hospital de lisboa
+            rel$sociabilidade/ama/maria/b1782-33-n
+
+         referido$antonio francisco/id=b1782-33-per3
+            rel$parentesco/marido/francisca das chagas/b1782-33-j
+            ls$residencia/pinhal
+
+         pad$luis dioga da silveira/id=b1782-33-per4
+            ls$cargo/procurador do concelho
+            ls$titulo/doutor
+
+         referido$jose ferreira/id=b1782-33-per5
+            ls$profissao/lavrador
+            ls$residencia/tras do outeiro
+            rel$sociabilidade/achou a crianca/maria/b1782-33-n
+
+      bap$b1782-34/29/12/1782/fl.265/igreja de santa maria/joao carlos da silva
+
+         n$joaquim/m/id=b1782-34-per1
+            ls$datanasc/17821213
+
+         pn$antonio da silva/id=b1782-34-per2
+            ls$naturalidade/casais do alentejo
+            ls$freguesia/santa maria de obidos
+            ls$residencia/casais do alentejo
+
+         mn$joaquina rosa/id=b1782-34-per3
+            ls$naturalidade/amoreira
+            ls$freguesia/nossa senhora da aboboriz
+
+         pad$manuel antonio da costa/id=b1782-34-per4
+            ls$residencia/obidos
+
+         mad$maria rosa/id=b1782-34-per5
+            ls$residencia/obidos

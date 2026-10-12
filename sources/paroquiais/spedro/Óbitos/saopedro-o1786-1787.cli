@@ -1,0 +1,996 @@
+kleio$gacto.str/prefix=spedro
+   fonte$obitos1786-1787/localizacao-a.d.l./freguesia de sao pedro
+
+      obito$o1786-1/5/1/1786/fl.6v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$antonio/m/id=o1786-1-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=menino, enjeitado de lisboa, filho do hospital real da cidade de lisboa
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1786-1-per1
+
+         mae$nome desconhecido/id=o1786-1-per2
+
+         referida$ana joaquina/id=o1786-1-referida/obs=ama de leite
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/o1786-1-n
+
+         referido$francisco antonio/id=o1786-1-per3
+            ls$profissao/sapateiro
+            ls$residencia/obidos
+            rel$parentesco/marido/ana joaquina/o1786-1-referida
+
+      obito$o1786-2/16/1/1786/fl.6v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$francisco antonio de sequeira/m/id=o1786-2-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 86/obs=foi sepultado num caixao, no mesmo dia e amortalhado no habito de sao francisco
+
+         oficios$oficio de corpo presente, 3 oficios de 9 licoes
+
+         testamento$sim
+
+         mulher$ana maria/id=o1786-2-per2
+            ls$morta/antes
+
+      obito$o1786-3/21/1/1786/fl.6v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$antonio francisco/m/id=o1786-3-per1
+            ls$alcunha/o xelim/obs=duvida na leitura da alcunha
+            ls$pobre/sim
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de sao pedro/obs=foi sepultado no mesmo dia e amortalhado num lencol
+
+         mulher$pascoa maria/id=o1786-3-per2
+            ls$morta/antes
+            ls$residencia/obidos
+
+      obito$o1786-4/22/2/1786/fl.7/jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$josefa/f/id=o1786-4-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=inocente, filha do hospital real de lisboa, menina
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1786-4-per1
+
+         mae$nome desconhecido/id=o1786-4-per2
+
+         referida$rosa caetana/id=o1786-4-referida/obs=ama de leite
+            rel$sociabilidade/ama/josefa/o1786-4-n
+            ls$residencia/obidos
+
+         referido$joaquim gomes/id=o1786-4-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/rosa caetana/o1786-4-referida
+
+      obito$o1786-5/4/3/1786/fl.7/jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$francisco fialho de mendonca/m/id=o1786-5-per1
+            ls$titulo/doutor
+            ls$cargo/prior da igreja de sao pedro
+            ls$titulo/reverendo
+            ls$cargo/capelao
+            ls$titulo/fidalgo da casa real
+            ls$cargo/pronotario apostolico de sua santidade
+            ls$cargo/comissario do santo oficio
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 8/obs=foi sepultado no dia seguinte e amortalhado nas vestes sacerdotais. foi a cova em caixao
+
+         oficios$oficio de corpo presente, 3 oficios de 9 licoes
+
+      obito$o1786-6/7/3/1786/fl.7/jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$manuel da silva/m/id=o1786-6-per1
+            ls$ec/v
+            ls$pobre/sim
+            ls$naturalidade/matoeira, freguesia de nossa senhora da piedade, vidais
+
+         sacr$sim/obs=extrema uncao
+
+         locf$enfermaria da santa casa da misericordia/obs=este pobre recolheu-se na enfermaria da santa casa da misericordia no mesmo dia em que faleceu. nao estava no seu juizo perfeito
+
+         locs$adro da igreja de sao pedro/obs=faleceu no dia antecedente.
+
+         mulher$catarina josefa/id=o1786-6-per2
+            ls$morta/antes
+
+      obito$o1786-7/18/3/1786/fl.7v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$mariana/f/id=o1786-7-per1
+            ls$residencia/faxo de obidos
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de sao pedro
+
+         pai$jose moreira/id=o1786-7-per2
+            ls$residencia/faxo de obidos
+
+         mae$maria viana/id=o1786-7-per3
+            ls$residencia/faxo de obidos
+
+      obito$o1786-8/26/4/1786/fl.7v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$bernardina/f/id=o1786-8-per1
+            ls$residencia/arrabalde
+            ls$ec/s
+
+         sacr$nao/obs=morreu de repente
+
+         locs$dentro da igreja de sao pedro, na cova numero 87. foi amortalhado no habito de sao bernardo
+
+         pai$jose de oliveira/id=o1786-8-per2
+            ls$residencia/arrabalde
+
+         mae$rosa maria/id=o1786-8-per3
+            ls$residencia/arrabalde
+
+      obito$o1786-9/30/4/1786/fl.7v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$antonio/m/id=o1786-9-per1
+            ls$idade_aprox/menor/obs=inocente, menino
+            ls$residencia/rua direita
+
+         locs$dentro da igreja de sao pedro
+
+         pai$francisco dos santos/id=o1786-9-per2
+            ls$residencia/rua direita
+
+         mae$maria dos santos/id=o1786-9-per3
+            ls$residencia/rua direita
+
+      obito$o1786-10/8/5/1786/fl.7v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$jose maria/m/id=o1786-10-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=inocente, enjeitado de obidos
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1786-10-per1
+
+         mae$nome desconhecido/id=o1786-10-per2
+
+         referida$maria antonia/id=o1786-10-referida/obs=ama de leite
+            ls$residencia/obidos
+            rel$sociabilidade/ama/jose maria/o1786-10-n
+
+         referido$vicente ferreira/id=o1786-10-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/maria antonia/o1786-10-referida
+
+      obito$o1786-11/10/5/1786/fl.7v.-8/jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$maria do carmo/f/id=o1786-11-per1
+            ls$titulo/dona
+            ls$ec/v
+
+         sacr$sim/obs=extrema uncao
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de sao pedro, na cova numero 88/obs=foi sepultada no dia seguinte e amortalhada no habito de sao francisco
+
+         marido$jose joaquim henriques/id=o1786-11-per2
+            ls$titulo/doutor
+            ls$morto/antes
+            ls$cargo/juiz dos orfaos de obidos
+
+      obito$o1786-12/27/5/1786/fl.8/jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$francisco marques/m/id=o1786-12-per1
+            ls$pobre/sim
+            ls$ec/s
+            ls$residencia/caldas
+            ls$naturalidade/rabaceira
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia/obs=veio das caldas para a enfermaria da santa casa da misericordia de obidos
+
+         locs$adro da igreja de sao pedro no mesmo dia
+
+      obito$o1786-13/5/6/1786/fl.8/jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$josefa maria de matos/f/id=o1786-13-n
+            ls$residencia/a dos negros
+            ls$residencia/obidos, casa do padre jose de matos
+            ls$ec/s
+
+         sacr$sim/obs=extrema uncao
+
+         causa$apoplexia
+
+         locs$dentro da igreja de sao pedro, na cova numero 89. foi sepultado no mesmo dia e amortalhado no habito de sao francisco.
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$sim
+
+         pai$damiao dos reis/id=o1786-13-per1
+            ls$residencia/a dos negros
+
+         mae$maria bento/id=o1786-13-per2
+            ls$residencia/a dos negros
+
+         referido$jose de matos/id=o1786-13-per3
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+            rel$parentesco/sobrinho/josefa maria de matos/o1786-13-n
+
+      obito$o1786-14/10/6/1786/fl.8-8v./jose luis fialho de mendonca (cura, coadjutor, beneficiado)
+
+         n$maria jose/f/id=o1786-14-n
+            ls$enjeitada/sim/obs=enjeitada da vila de obidos, menina
+            ls$residencia/obidos
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1786-14-per1
+
+         mae$nome desconhecido/id=o1786-14-per2
+
+         referida$maria antonia/id=o1786-14-referida/obs=ama de leite
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria jose/o1786-14-n
+
+         referido$vicente ferreira/id=o1786-14-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/maria antonia/o1786-14-referida
+
+      obito$o1786-15/5/8/1786/fl.8v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$tomas/m/id=o1786-15-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=enjeitado, menino, filho do hospital real de todos os santos da cidade de lisboa
+
+         locs$adro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1786-15-per1
+
+         mae$nome desconhecido/id=o1786-15-per2
+
+         referida$ana joaquina/id=o1786-15-referida/obs=ama de leite
+            ls$residencia/obidos
+            rel$sociabilidade/ama/tomas/o1786-15-n
+
+         referido$antonio francisco/id=o1786-15-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/ana joaquina/o1786-15-referida
+
+      obito$o1786-16/5/8/1786/fl.8v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$jose de lafeta aranha/m/obs=foi entregue o seu corpo pelo paroco de santa maria de obidos a esta igreja paroquial de sao pedro por ter falecido no mesmo dia no lugar das gaeiras da sua freguesia e por ser a dita ermida de sao martinho da sua casa./id=o1786-16-per1
+            ls$ec/s
+            ls$naturalidade/bombarral
+
+         locf$gaeiras
+
+         locs$no plano da ermida de sao martinho, junto ao altar de sao martinho/obs=foi amortalhado no habito de sao francisco
+
+         pai$agostinho de lafeta aranha/id=o1786-16-per2
+            ls$naturalidade/bombarral
+
+         mae$maria cardoso/id=o1786-16-per3
+            ls$titulo/dona
+            ls$naturalidade/bombarral
+
+      obito$o1786-17/9/8/1786/fl.8v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$joao/m/id=o1786-17-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro/obs=faleceu no dia antecedente
+
+         pai$vicente ferreira/id=o1786-17-per2
+            ls$residencia/obidos
+
+         mae$catarina rosa de jesus/id=o1786-17-per3
+            ls$residencia/obidos
+
+      obito$o1786-18/3/9/1786/fl.8v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$josefa micaela/f/id=o1786-18-per1
+            ls$ec/v
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$residencia/sancheira
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de sao pedro, na cova numero 90/obs=foi sepultada no mesmo dia
+
+         marido$joaquim da costa/id=o1786-18-per2
+            ls$morto/antes
+            ls$residencia/sancheira
+
+      obito$o1786-19/9/9/1786/fl.9/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$francisco/m/id=o1786-19-per1
+            ls$idade_aprox/menor/obs=inocente, menino
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro/obs=faleceu na noite antecedente
+
+         pai$francisco de sousa/id=o1786-19-per2
+            ls$residencia/obidos
+
+         mae$margarida rosa/id=o1786-19-per3
+            ls$residencia/obidos
+
+      obito$o1786-20/18/9/1786/fl.9/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$joao/m/id=o1786-20-n
+            ls$idade_aprox/menor/obs=inocente, menino
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro/obs=faleceu na noite antecedente
+
+         referido$jose luis fialho de mendonca/id=o1786-20-per1
+            ls$cargo/cura
+            ls$cargo/coadjutor
+            ls$cargo/beneficiado
+            rel$sociabilidade/baptizou em necessidade/joao/o1786-20-n
+
+         pai$antonio jose de seixas/id=o1786-20-per2
+            ls$residencia/obidos
+
+         mae$francisca falaxa/id=o1786-20-per3
+            ls$residencia/obidos
+
+      obito$o1786-21/20/9/1786/fl.9/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$ana/f/id=o1786-21-per1
+            ls$idade_aprox/menor/obs=inocente, menina
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro. faleceu no mesmo dia
+
+         pai$manuel pedro/id=o1786-21-per2
+            ls$residencia/obidos
+
+         mae$micaela teresa/id=o1786-21-per3
+            ls$residencia/obidos
+
+      obito$o1786-22/26/9/1786/fl.9/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$estanislau/m/id=o1786-22-n
+            ls$enjeitado/sim/obs=menino. enjeitado da vila de obidos
+            ls$residencia/obidos
+            ls$idade_aprox/menor
+
+         locs$adro da igreja de sao pedro
+
+         referida$margarida rosa/id=o1786-22-referida/obs=ama de leite
+            ls$residencia/obidos
+            rel$sociabilidade/ama/estanislau/o1786-22-n
+
+         referido$francisco de sousa/id=o1786-22-per1
+            ls$profissao/trabalhador
+            ls$residencia/obidos
+            rel$parentesco/marido/margarida rosa/o1786-22-referida
+
+      obito$o1786-23/29/9/1786/fl.9/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$ines maria/f/id=o1786-23-per1
+            ls$ec/v
+            ls$residencia/casal do pinheiro
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 91/obs=foi sepultada no dia seguinte e amortalhada no habito de sao francisco.
+
+         marido$joaquim manuel/id=o1786-23-per2
+            ls$morto/antes
+
+      obito$o1786-24/5/10/1786/fl.9v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$frutuoso pita soares/m/id=o1786-24-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs=todos
+
+         locf$
+
+         locs$dentro da igreja de sao pedro, na cova numero 92/obs=foi sepultado no mesmo dia e amortalhado no habito de sao francisco.
+
+         mulher$ana maria/id=o1786-24-per2
+            ls$residencia/obidos
+
+      obito$o1786-25/16/10/1786/fl.9v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$maria ferreira/f/id=o1786-25-per1
+            ls$residencia/casal dos capuchos
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 94/obs=foi sepultada no dia seguinte e amortalhada no habito de sao francisco.
+
+         marido$sebastiao mendes/id=o1786-25-per2
+            ls$residencia/casal dos capuchos
+
+      obito$o1786-26/3/11/1786/fl.9v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$jose teixeira/m/id=o1786-26-per1
+            ls$residencia/obidos
+            ls$profissao/carpinteiro
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 95/obs=foi sepultado no mesmo dia e amortalhado no habito de sao francisco
+
+         mulher$ana joaquina/obs=segunda mulher de jose teixeira/id=o1786-26-per2
+            ls$naturalidade/salir do porto
+            ls$residencia/obidos
+
+      obito$o1786-27/7/11/1786/fl.9v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$lopo vieira/m/id=o1786-27-n
+            ls$residencia/columbeira
+            ls$residencia/obidos, na casa do beneficiado joao do mato
+            ls$ec/v
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 96/obs=foi sepultado no mesmo dia e amortalhado no habito de sao francisco
+
+         testamento$sim/obs=fez doacao de sua terca a suas filhas luisa rosa e joana leonor
+
+         mulher$maria teresa/id=o1786-27-per1
+            ls$residencia/columbeira
+            ls$morta/antes
+
+         referido$joao do mato/id=o1786-27-per2
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+         referida$luisa rosa/id=o1786-27-per3
+            rel$parentesco/filha/lopo vieira/o1786-27-n
+
+         referida$joana leonor/id=o1786-27-per4
+            rel$parentesco/filha/lopo vieira/o1786-27-n
+
+      obito$o1786-28/14/11/1786/fl.9v.-10/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$joana baptista/f/id=o1786-28-per1
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 67/obs=foi sepultada no mesmo dia e amortalhada no habito de sao francisco.
+
+         marido$manuel pereira da costa/id=o1786-28-per2
+            ls$morto/antes
+            ls$residencia/obidos
+
+      obito$o1786-29/16/11/1786/fl.10/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$joaquim/m/id=o1786-29-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/usseira
+
+         locs$dentro da igreja de sao pedro/obs=faleceu o mesmo dia
+
+         pai$jose henriques/id=o1786-29-per2
+
+         mae$ana maria/id=o1786-29-per3
+
+      obito$o1786-30/27/11/1786/fl.10/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$rosa joaquina/f/id=o1786-30-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 68/obs=foi sepultada no mesmo dia e amortalhada no habito de sao francisco.
+
+         marido$joao goncalves/id=o1786-30-per2
+            ls$residencia/obidos
+
+      obito$o1786-31/9/12/1786/fl.10/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$maria do nascimento/f/id=o1786-31-per1
+            ls$ec/s
+            ls$residencia/casal dos avarelos
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 69/obs=foi sepultada no dia seguinte a amortalhada no habito de sao francisco.
+
+         pai$jose da silva/id=o1786-31-per2
+            ls$residencia/casal de avarelos
+
+         mae$maria do nascimento/id=o1786-31-per3
+            ls$residencia/casal de avarelos
+
+      obito$o1786-32/16/12/1786/fl.10-10v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$filipe/m/id=o1786-32-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte
+
+         pai$custodio do carmo/id=o1786-32-per2
+            ls$residencia/obidos
+
+         mae$luisa maria/id=o1786-32-per3
+            ls$residencia/obidos
+
+      obito$o1786-33/21/12/1786/fl.10v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$luisa/f/id=o1786-33-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=menina, filha do real hospital de lisboa
+
+         locs$adro da igreja de sao pedro. faleceu no mesmo dia
+
+         pai$nome desconhecido/id=o1786-33-per1
+
+         mae$nome desconhecido/id=o1786-33-per2
+
+         referida$maria inacia/id=o1786-33-referida/obs=ama de leite
+            ls$residencia/casal de alvito
+            rel$sociabilidade/ama/luisa/o1786-33-n
+
+         referido$manuel justino/id=o1786-33-per3
+            ls$residencia/casal de alvito
+            rel$parentesco/marido/maria inacia/o1786-33-referida
+
+      obito$o1786-34/28/12/1786/fl.10v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$teotonio gomes/m/id=o1786-34-per1
+            ls$residencia/usseira
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 71/obs=foi sepultado no dia seguinte e amortalhado no habito de sao francisco.
+
+         mulher$maria ines/id=o1786-34-per2
+            ls$residencia/usseira
+
+      obito$o1787-1/22/1/1787/fl.10v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$antonio fernandes/m/id=o1787-1-per1
+            ls$residencia/a da gorda
+            ls$ec/s
+            ls$residencia/casal da eira
+            ls$pobre/sim
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado num lencol
+
+         pai$manuel fernandes/id=o1787-1-per2
+            ls$residencia/a da gorda
+
+         mae$maria francisca/id=o1787-1-per3
+            ls$residencia/a da gorda
+
+      obito$o1787-2/26/1/1787/fl.10v.-11/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$manuel da silva/m/id=o1787-2-per1
+            ls$ec/s
+            ls$naturalidade/peso, freguesia de santa catarina dos coutos de alcobaca
+            ls$residencia/quinta do vale das flores
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado num lencol
+
+         pai$antonio da silva/id=o1787-2-per2
+            ls$residencia/peso, freguesia de santa catarina dos coutos de alcobaca
+
+         mae$maria do couto/id=o1787-2-per3
+            ls$residencia/peso, freguesia de santa catarina dos coutos de alcobaca
+
+      obito$o1787-3/26/3/1787/fl.11/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$maria rosa/f/id=o1787-3-per1
+            ls$residencia/pinhal
+
+         sacr$nao
+
+         causa$molestia repentina
+
+         locs$dentro da igreja de sao pedro, na cova numero 72/obs=foi sepultada no dia seguinte
+
+         marido$antonio lourenco/id=o1787-3-per2
+            ls$residencia/pinhal
+
+      obito$o1787-4/1/4/1787/fl.11/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$antonio jose de arruda/m/id=o1787-4-n
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 14, junto ao altar de nossa senhora do rosario/obs=foi sepultado no dia seguinte e amortalhado no habito de sao francisco.
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$sim/obs=fez testamento de mao comum com a sua mulher que o paroco abriu e passou certidao
+
+         mulher$maria rosa teresa da encarnacao/id=o1787-4-mulher
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      obito$o1787-5/5/4/1787/fl.11/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$maria rosa teresa da encarnacao/f/mesmo_que=o1787-4-mulher/id=o1787-5-per1
+            ls$titulo/dona
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim/obs=todos
+
+         locf$
+
+         locs$dentro da igreja de sao pedro, na cova numero 80, na carreira direita ao altar de nossa senhora do rosario/obs=foi sepultada no mesmo dia e amortalhada no habito de sao francisco.
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$sim
+
+         marido$antonio jose de arruda/mesmo_que=o1787-4-n/id=o1787-5-per2
+            ls$residencia/obidos
+            ls$cargo/capitao
+
+      obito$o1787-6/26/4/1787/fl.11v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$antonio pacheco cabral de sisneiros/m/id=o1787-6-per1
+            ls$ec/s
+            ls$titulo/dom
+            ls$residencia/obidos
+
+         sacr$sim/obs=/obs=recebeu a uncao e nao se lhe administraram os restantes sacramentos pelos continuos acidentes que teve, contudo deu sinais de bom catolico
+
+         locs$dentro da igreja de sao pedro, na cova numero 11/obs=foi sepultado no mesmo dia e amortalhado no habito de sao francisco.
+
+         pai$jose pacheco cabral/id=o1787-6-per2
+
+      obito$o1787-7/13/5/1787/fl.11v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$ana joaquina/f/id=o1787-7-per1
+            ls$residencia/pinhal
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 73/obs=foi sepultado no mesmo dia e amortalhada no habito de sao francisco
+
+         oficios$3 oficios de 9 licoes
+
+         marido$francisco de matos/id=o1787-7-per2
+            ls$residencia/pinhal
+
+      obito$o1787-8/28/6/1787/fl.11v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$manuel dos reis/m/id=o1787-8-per1
+            ls$ec/s
+            ls$profissao/trabalhador/obs=trabalhador que andava nas calcadas de sua majestade na vila das caldas
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado num lencol
+
+         pai$manuel dos reis/id=o1787-8-per2
+            ls$residencia/coimbra, freguesia de santa cruz
+
+         mae$maria dos santos/id=o1787-8-per3
+            ls$residencia/coimbra, freguesia de santa cruz
+
+      obito$o1787-9/5/7/1787/fl.11v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$maria/f/id=o1787-9-per1
+            ls$idade_aprox/menor/obs=inocente, menina
+            ls$residencia/pinhal
+
+         locs$dentro da igreja de sao pedro
+
+         pai$antonio lourenco/id=o1787-9-per2
+            ls$residencia/pinhal
+
+         mae$maria rosa/id=o1787-9-per3
+            ls$morta/antes
+
+      obito$o1787-10/5/8/1787/fl.12/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$anastacio/m/obs=inocente, menino/id=o1787-10-per1
+            ls$residencia/pinhal
+
+         locs$dentro da igreja de sao pedro. faleceu no dia antecedente
+
+         pai$manuel da silva/id=o1787-10-per2
+            ls$residencia/pinhal
+
+         mae$antonia maria/id=o1787-10-per3
+            ls$residencia/pinhal
+
+      obito$o1787-11/5/8/1787/fl.12/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$margarida/f/id=o1787-11-per1
+            ls$idade_aprox/menor/obs=inocente, menina
+            ls$residencia/pinhal
+
+         locs$dentro da igreja de sao pedro
+
+         pai$luis pedro/id=o1787-11-per2
+            ls$residencia/pinhal
+
+         mae$antonia maria/id=o1787-11-per3
+            ls$residencia/pinhal
+
+      obito$o1787-12/8/8/1787/fl.12/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$teresa/f/id=o1787-12-per1
+            ls$ec/s
+            ls$residencia/faxo de obidos
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro na cova numero 74/obs=foi sepultada no dia seguinte e amortalhada no habito da conceicao
+
+         pai$teodoro correia/id=o1787-12-per2
+            ls$residencia/faxo de obidos
+
+         mae$maria rosa/id=o1787-12-per3
+            ls$residencia/faxo de obidos
+
+      obito$o1787-13/18/8/1787/fl.12/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$manuel gomes/m/id=o1787-13-per1
+            ls$ec/v
+            ls$residencia/faxo de obidos
+
+         sacr$sim/obs=confissao, extrema uncao. ao recebeu o sacrago viatico por nao ter aquela discricao necessaria "em razao de seos annos"
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de sao pedro, na cova numero 75/obs=foi amortalhado num lencol
+
+         mulher$isabel maria/id=o1787-13-per2
+            ls$morta/antes
+
+      obito$o1787-14/21/8/1787/fl.12-12v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$mariana/f/id=o1787-14-per1
+            ls$idade_aprox/menor/obs=inocente, menina
+            ls$residencia/pinhal
+
+         locs$dentro da igreja de sao pedro
+
+         pai$jose pereira/id=o1787-14-per2
+            ls$residencia/pinhal
+
+         mae$josefa maria/id=o1787-14-per3
+            ls$residencia/pinhal
+
+      obito$o1787-15/23/8/1787/fl.12v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$miguel/f/id=o1787-15-per1
+            ls$idade_aprox/menor/obs=inocente, menino
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no mesmo dia.
+
+         pai$manuel jose martins chaves/obs=duvida na leitura do primeiro apelido/id=o1787-15-per2
+            ls$residencia/obidos
+
+         mae$ana joaquina da luz/id=o1787-15-per3
+            ls$residencia/obidos
+
+      obito$o1787-16/31/8/1787/fl.12v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$ludovina teresa/f/id=o1787-16-per1
+            ls$residencia/obidos
+            ls$ec/s
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 76/obs=foi sepultada no mesmo dia, amortalhada num lencol
+
+         pai$isidoro da silva/id=o1787-16-per2
+            ls$residencia/amoreira
+
+         mae$teresa joaquina/id=o1787-16-per3
+            ls$residencia/amoreira
+
+      obito$o1787-17/3/9/1787/fl.12v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$antonia do carmo/f/id=o1787-17-per1
+            ls$residencia/obidos
+            ls$ec/s
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de sao pedro, na cova numero 77/obs=foi sepultada no dia seguinte e amortalhada no habito de nossa senhora do carmo
+
+         pai$caetano pedro/id=o1787-17-per2
+            ls$residencia/obidos
+
+         mae$felicia maria/id=o1787-17-per3
+            ls$residencia/obidos
+
+      obito$o1787-18/6/9/1787/fl.12v.-13/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$jose maria da conceicao/m/obs=preto, "hum pretinho por nome joze maria da conceicao"/id=o1787-18-per1
+            ls$profissao/criado
+            rel$profissional/criado/francisco de sales/o1787-18-referido
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de sao pedro. foi sepultado no mesmo dia e amortalhado num lencol
+
+         referido$francisco de sales/id=o1787-18-referido
+            ls$cargo/feitor da quinta do marques de lavradio, junto a sao pedro de dois portos
+
+         referido$nome desconhecido/id=o1787-18-per2
+            ls$titulo/marques de lavradio
+            ls$titulo/excelentissimo
+
+      obito$o1787-19/8/9/1787/fl.13/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$rodrigo henriques/m/id=o1787-19-per1
+            ls$residencia/obidos
+            ls$enjeitado/sim
+            ls$ec/s
+            ls$profissao/trabalhador/obs=na vila de obidos
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de sao pedro, na cova numero 79/obs=foi sepultado no mesmo dia e amortalhado num lencol
+
+      obito$o1787-20/23/10/1787/fl.13/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$joaquim manuel freire/m/id=o1787-20-per1
+            ls$ec/v
+            ls$residencia/obidos
+            ls$titulo/cavaleiro da ordem de cristo
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 19/obs=Foi sepultado no mesmo dia num caixao e amortalhado no habito de cavaleiro
+
+         testamento$sim
+
+         mulher$isidora margarida de almeida/id=o1787-20-per2
+            ls$titulo/dona
+
+      obito$o1787-21/11/11/1787/fl.13/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$jose/m/id=o1787-21-per1
+            ls$idade_aprox/menor/obs=inocente, menino
+            ls$residencia/cateloes%cateloens
+
+         locs$dentro da igreja de sao pedro/obs=faleceu no dia antecedente
+
+         pai$teotonio da cunha/id=o1787-21-per2
+            ls$residencia/cateloes%cateloens
+
+         mae$francisca maria/id=o1787-21-per3
+            ls$residencia/cateloes%cateloens
+
+      obito$o1787-22/21/11/1787/fl.13-13v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$maria andreza/f/obs=a margem aparece mariana andreza/id=o1787-22-per1
+            ls$ec/s/obs="mosa donzela"
+            ls$residencia/abilheira, termo da lourinha
+
+         sacr$sim
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de sao pedro, na cova numero 81/obs=foi sepultada no dia seguinte e amortalhada no habito de sao francisco
+
+         pai$francisco leitao/id=o1787-22-per2
+
+         mae$andreza maria/id=o1787-22-per3
+
+      obito$o1787-23/28/11/1787/fl.13v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$manuel rodrigues/m/id=o1787-23-n
+            ls$ec/s
+            ls$residencia/quinta das flores, em casa de antonio rodrigues
+            ls$naturalidade/valado, freguesia de salir de matos
+
+         sacr$sim/obs=so recebeu o sacramento da uncao por nao estar de perfeito juizo
+
+         locs$dentro da igreja de sao pedro, na cova numero 55/obs=foi sepultado no dia seguinte e amortalhado no habito de sao francisco.
+
+         pai$manuel rodrigues/id=o1787-23-per1
+
+         referido$antonio rodrigues/obs=manuel rodrigues vivia em sua casa/id=o1787-23-per2
+            ls$residencia/quinta das flores
+            rel$parentesco/irmao/manuel rodrigues/o1787-23-n
+
+      obito$o1787-24/30/11/1787/fl.13v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$maria teresa/f/id=o1787-24-per1
+            ls$ec/v
+            ls$residencia/usseira
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro, na cova numero 56/obs=foi sepultada no dia seguinte e amortalhada no seu manto
+
+         marido$manuel francisco/id=o1787-24-per2
+            ls$residencia/usseira
+
+      obito$o1787-25/7/12/1787/fl.13v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$ana/f/id=o1787-25-per1
+            ls$idade_aprox/menor/obs=inocente, menina
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro/obs=faleceu no dia antecedente
+
+         pai$francisco martins/id=o1787-25-per2
+            ls$residencia/quinta da moderna
+
+         mae$francisca joaquina/id=o1787-25-per3
+            ls$residencia/obidos
+
+      obito$o1787-26/20/12/1787/fl.13v./jose luis fialho de mendonca (cura, beneficiado)
+
+         n$jose/m/id=o1787-26-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de sao pedro/obs=faleceu no dia antecedente
+
+         pai$joao duarte/id=o1787-26-per2
+            ls$residencia/obidos
+
+         mae$maria benedita/id=o1787-26-per3
+            ls$residencia/obidos
+
+      obito$o1787-27/24/12/1787/fl.14/jose luis fialho de mendonca (cura, beneficiado)
+
+         n$manuel dos santos/m/id=o1787-27-per1
+            ls$ec/s
+            ls$naturalidade/vila de rebordainhos/obs=bispado de miranda do douro
+            ls$profissao/hortelao/obs=no convento de sao miguel das gaeiras
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$dentro da igreja de sao pedro, na cova numero 59/obs=foi sepultado no mesmo dia e amortalhado no habito de sao francisco
+
+         pai$tome afonso/id=o1787-27-per2
+            ls$morto/antes
+            ls$residencia/vila de rebordainhos/obs=bispado de miranda do douro

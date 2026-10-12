@@ -1,0 +1,336 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1701-1703/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1701-1/15/1/1701/fl.187/manuel cacela (padre, licenciado)
+
+         n$manuel/m/id=o1701-1-n
+            ls$enjeitado/sim
+
+            referida$catarina goncalves%cnª glz/id=o1701-1-n-per1
+               ls$alcunha/a sombreireira
+               ls$residencia/obidos
+               ls$freguesia/santa maria
+               rel$sociabilidade/ama/manuel/o1701-1-n
+
+      obito$o1701-2/15/1/1701/fl.187/manuel cacela (padre, licenciado)
+
+         n$manuel/m/id=o1701-2-n
+            ls$enjeitado/sim
+
+            referida$maria martins/id=o1701-2-referida
+               ls$residencia/arrabalde, na estalagem da ponte
+               rel$sociabilidade/ama/manuel/o1701-2-n
+
+            referida$manuel jorge/id=o1701-2-n-per1
+               ls$residencia/arrabalde, na estalagem da ponte
+               rel$parentesco/marido/maria martins/o1701-2-referida
+
+      obito$o1701-3/23/1/1701/fl.187/manuel cacela (padre, licenciado)
+
+         n$gregorio da silva/m/id=o1701-3-per1
+            ls$ec/s
+            ls$residencia/arrabalde
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria/obs=foi amortalhado no habito de sao francisco
+
+         testamento$sim/obs=fez testamento nuncupativo
+
+         oficios$3 oficios de 9 licoes
+
+      obito$o1701-4/5/2/1701/fl.187v./manuel cacela (padre, licenciado)
+
+         n$martinho da silva/m/id=o1701-4-per1
+            ls$pobre/sim
+            ls$residencia/fraldeu
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria/obs=foi amortalhado no habito de sao francisco
+
+         mulher$jeronima gomes/id=o1701-4-per2
+
+      obito$o1701-5/25/3/1701/fl.187v./manuel cacela (padre, licenciado)
+
+         n$pascoa da silva/f/id=o1701-5-per1
+            ls$ec/v
+            ls$residencia/rua da misericordia
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$nao
+
+      obito$o1701-6/3/5/1701/fl.187v./antonio de mendonca (cura, beneficiado)
+
+         n$manuel castelo/m/id=o1701-6-per1
+            ls$titulo/licenciado
+            ls$cargo/cura da igreja de santa maria
+
+         sacr$sim
+
+         locs$igreja de santa maria
+
+         testamento$sim
+
+         oficios$sim
+
+      obito$o1701-7/2/6/1701/fl.188/antonio de mendonca (cura, beneficiado)
+
+         n$martinho/m/id=o1701-7-per1
+            ls$pobre/sim
+            ls$cargo/ermitao da igreja de nossa senhora do carmo de obidos
+
+         sacr$sim/obs=recebeu os sacramentos excepto o da comunhao
+
+         locf$hospital da misericordia
+
+         locs$adro da igreja de santa maria
+
+         testamento$nao
+
+      obito$o1701-8/12/6/1701/fl.188/antonio de mendonca (cura, beneficiado)
+
+         n$clemente da cruz/m/id=o1701-8-per1
+            ls$pobre/sim
+            ls$naturalidade/elvas
+
+         locf$hospital
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$nao
+
+      obito$o1701-9/15/6/1701/fl.188/antonio de mendonca (cura, beneficiado)
+
+         n$maria antonia/f/id=o1701-9-per1
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na sua capela de sao lourenco
+
+         testamento$nao
+
+         oficios$sim
+
+         marido$joao correia manuel/id=o1701-9-per2
+            ls$residencia/obidos
+
+      obito$o1701-10/19/6/1701/fl.188/antonio de mendonca (cura, beneficiado)
+
+         n$luisa/f/id=o1701-10-per1
+            ls$titulo/dona
+            ls$idade_aprox/menor de idade
+
+         locs$dentro da igreja de santa maria
+
+         pai$manuel gomes de palma/id=o1701-10-per2
+            ls$titulo/doutor
+
+      obito$o1701-11/28/6/1701/fl.188v./antonio de mendonca (cura, beneficiado)
+
+         n$antonia/f/id=o1701-11-per1
+            ls$ec/s/obs=moca solteira.
+
+         causa$acidente
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria
+
+         pai$manuel luis/id=o1701-11-per2
+            ls$residencia/casais de alentejo
+
+         mae$maria pedrosa/id=o1701-11-per3
+            ls$residencia/casais de alentejo
+
+      obito$o1701-12/9/7/1701/fl.188v./antonio de mendonca (cura, beneficiado)
+
+         n$antonio de oliveira/m/id=o1701-12-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$nao
+
+         oficios$oficios de 9 licoes
+
+      obito$o1701-13/2/7/1701/fl.188v./antonio de mendonca (cura, beneficiado)
+
+         n$manuel/m/id=o1701-13-per1
+            ls$residencia/gaeiras
+
+         sacr$sim/obs=recebeu todos os sacramentos excepto o da comunhao por ter vomitos
+
+         locs$dentro da igreja de santa maria
+
+         pai$jeronimo de oliveira/id=o1701-13-per2
+            ls$residencia/gaeiras
+
+         mae$maria ribeiro/id=o1701-13-per3
+            ls$residencia/gaeiras
+
+      obito$o1701-14/3/8/1701/fl.189/antonio de mendonca (cura, beneficiado)
+
+         n$jose/m/id=o1701-14-per1
+            ls$enjeitado/sim
+
+      obito$o1702-1/20/1/1702/fl.189/antonio de mendonca (cura, beneficiado)
+
+         n$jose/m/id=o1702-1-per1
+            ls$residencia/gaeiras
+
+         sacr$sim/obs=nao recebeu o sacramento da comunhao por nao estar capaz
+
+         locs$dentro da igreja de santa maria
+
+         pai$luis nogueira/id=o1702-1-per2
+            ls$residencia/gaeiras
+
+         mae$cipriana ferreira/id=o1702-1-per3
+            ls$residencia/gaeiras
+
+      obito$o1702-2/2/7/1702/fl.189/antonio de mendonca (cura, beneficiado)
+
+         n$vicente dias/m/id=o1702-2-per1
+            ls$residencia/casal de matatripas
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$nao
+
+         oficios$oficios de 3 licoes
+
+      obito$o1702-3/11/7/1702/fl.189v./antonio de mendonca (cura, beneficiado)
+
+         n$maria correia/f/id=o1702-3-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$nao
+
+         marido$bartolomeu simoes/id=o1702-3-per2
+            ls$residencia/obidos
+
+      obito$o1702-4/23/7/1702/fl.189v./antonio de mendonca (cura, beneficiado)
+
+         n$antonio pereira/m/obs=o paroco nao sabe ao certo qual o nome do falecido, pode ser vicente pereira/id=o1702-4-per1
+            ls$pobre/sim
+            ls$naturalidade/montemor
+
+         locf$hospital da misericordia
+
+         sacr$sim/obs=uncao
+
+         locs$adro da igreja de santa maria
+
+         testamento$nao
+
+      obito$o1702-5/3/8/1702/fl.189v./antonio de mendonca (cura, beneficiado)
+
+         n$jose/m/id=o1702-5-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         pai$manuel de oliveira farto/id=o1702-5-per2
+            ls$morto/antes
+            ls$residencia/obidos
+
+      obito$o1702-6/4/8/1702/fl.190/antonio de mendonca (cura, beneficiado)/obs=o livro foi visto em visitacao de 8 de setembro de 1702.
+
+         n$antonio francisco/m/id=o1702-6-per1
+            ls$pobre/sim
+            ls$ec/c
+            ls$naturalidade/monsaraz
+
+         locf$hospital da misericordia
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria
+
+         testamento$nao
+
+      obito$o1702-7/16/11/1702/fl.190/antonio de mendonca (cura, beneficiado)
+
+         n$maria do nascimento/f/id=o1702-7-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$sim
+
+         oficios$oficios de 9 licoes
+
+         pai$pascoal henriques/id=o1702-7-per2
+            ls$residencia/obidos
+
+      obito$o1703-1/8/1/1703/fl.190v./antonio de mendonca (cura, beneficiado)
+
+         n$maria leal/f/id=o1703-1-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$nao
+
+         oficios$oficios de 9 licoes
+
+         marido$diogo da silva/id=o1703-1-per2
+            ls$residencia/a da gorda
+
+      obito$o1703-2/16/1/1703/fl.190v./antonio de mendonca (cura, beneficiado)
+
+         n$francisco antonio/m/id=o1703-2-per1
+            ls$pobre/sim
+            ls$residencia/arrabalde, na estalegem da ponte
+
+         sacr$nao
+
+         causa$acidente
+
+         locs$adro da igreja de santa maria
+
+      obito$o1703-3/26/1/1703/fl.190v./antonio de mendonca (cura, beneficiado)
+
+         n$maria pedrosa/f/id=o1703-3-per1
+            ls$residencia/casais de fraldeu
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria
+
+         testamento$nao
+
+         marido$manuel luis/id=o1703-3-per2
+            ls$residencia/casais de fraldeu
+
+      obito$o1703-4/19/2/1703/fl.191/antonio de mendonca (cura, beneficiado)
+
+         n$violante maria/f/id=o1703-4-per1
+
+         locs$dentro da igreja de santa maria, em sepultura propria/obs=foi amortalhada no habito de sao francisco
+
+         pai$joao de abreu fortes/id=o1703-4-per2

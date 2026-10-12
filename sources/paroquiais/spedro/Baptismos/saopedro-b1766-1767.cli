@@ -1,0 +1,1238 @@
+kleio$gacto.str/prefix=spedro
+   fonte$baptismos1766-1767/localizacao-a.d.l./freguesia de sao pedro
+
+      bap$b1766-1/12/1/1766/fl.112v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$francisco/m/id=b1766-1-per1
+            ls$datanasc/17660103
+
+         pn$joaquim francisco/id=b1766-1-per2
+            ls$residencia/casais do pinhal
+
+         mn$teodora teresa/id=b1766-1-per3
+            ls$residencia/casais do pinhal
+
+         pad1$jose moreira chaves/id=b1766-1-per4
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+
+         mad1$teresa joaquina/id=b1766-1-per5
+            ls$residencia/quinta das flores
+
+      bap$b1766-2/15/1/1766/fl.112v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1766-2-n
+            ls$enjeitado/sim/obs="engeitado do concelho desta vila o qual foi achado, a treza do dito mes a porta de francisco gomes do valle do cotto com hum escripto, que dezia (este menino vay baptizado, e se chama joaquim), e o cria maria izidora mulher de joze bernardes oficial de ferrador desta vila"
+
+         pn$nome desconhecido/id=b1766-2-per1
+
+         mn$nome desconhecido/id=b1766-2-per2
+
+         pad1$antonio nunes/id=b1766-2-per3
+            ls$cargo/procurador do concelho
+
+         referido$francisco gomes/id=b1766-2-per4
+            ls$residencia/vale do coto
+            rel$sociabilidade/achou a crianca/joaquim/b1766-2-n
+
+         referido$valeriano gomes henriques/id=b1766-2-per5
+            ls$profissao/padre
+            ls$cargo/cura da igreja de sao pedro
+            rel$sociabilidade/baptizou sub conditione/joaquim/b1766-2-n
+
+         referida$maria isidora/id=b1766-2-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/joaquim/b1766-2-n
+
+         referido$jose bernardes/id=b1766-2-per6
+            ls$residencia/obidos
+            ls$profissao/oficial de ferreiro
+            rel$parentesco/marido/maria isidora/b1766-2-referida
+
+      bap$b1766-3/22/1/1766/fl.113/igreja de sao pedro/joao henriques (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim jose/m/id=b1766-3-per1
+            ls$datanasc/17660111
+
+         pn$manuel martins/id=b1766-3-per2
+            ls$residencia/obidos
+
+         mn$maria antonia/id=b1766-3-per3
+            ls$residencia/obidos
+
+         pad1$joaquim jose fialho/id=b1766-3-per4
+            ls$residencia/lisboa
+
+         procurador-pad1$narciso jose/id=b1766-3-per5
+            ls$residencia/obidos
+
+      bap$b1766-4/27/1/1766/fl.113/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$antonia/f/id=b1766-4-n
+            ls$enjeitada/sim/obs="ingeitada do concelho desta vila a qual foi achada no dito dia a porta de vicente henriques dos cazais de cotto, e a cria gabriella thareza molher de joaquim ramos do lugar do carvalhal"
+
+         pn$nome desconhecido/id=b1766-4-per1
+
+         mn$nome desconhecido/id=b1766-4-per2
+
+         pad1$antonio nunes/id=b1766-4-per3
+            ls$cargo/procurador do concelho
+
+         referido$vicente henriques/id=b1766-4-per4
+            ls$residencia/casais do coto
+            rel$sociabilidade/achou a crianca/antonia/b1766-4-n
+
+         referida$gabriela teresa/id=b1766-4-referida
+            ls$residencia/carvalhal
+            rel$sociabilidade/ama/antonia/b1766-4-n
+
+         referido$joaquim ramos/id=b1766-4-per5
+            ls$residencia/carvalhal
+            rel$parentesco/marido/gabriela teresa/b1766-4-referida
+
+      bap$b1766-5/5/2/1766/fl.113v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1766-5-n
+            ls$datanasc/17651231
+
+         pn$manuel gomes/id=b1766-5-per1
+            ls$residencia/usseira
+
+         mn$inacia marua/id=b1766-5-per2
+            ls$residencia/usseira
+
+         pad1$vicente das neves/obs=foi padrinho do catecismo/id=b1766-5-per3
+            ls$residencia/usseira
+
+         mad1$inacia maria/id=b1766-5-per4
+            ls$residencia/usseira/obs=foi madrinha do catecismo
+
+         referido$valeriano gomes henriques/id=b1766-5-per5
+            ls$profissao/padre
+            ls$cargo/cura da igreja de sao pedro
+            rel$sociabilidade/baptizou em necessidade/jose/b1766-5-n
+
+      bap$b1766-6/20/2/1766/fl.113v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$antonio/m/id=b1766-6-n
+            ls$enjeitado/sim/obs="ingeitado do concelho desta vila o qual foi achado aos dezasette do ditto mes no lugar da amoreira a porta de manuel pereira o santto, e o cria maria vianna molher de joze moreira desta vila"
+
+         pn$nome desconhecido/id=b1766-6-per1
+
+         mn$nome desconhecido/id=b1766-6-per2
+
+         pad1$antonio nunes/id=b1766-6-per3
+            ls$cargo/procurador do concelho
+
+         referido$manuel pereira/id=b1766-6-per4
+            ls$alcunha/o santo
+            ls$residencia/amoreira
+            rel$sociabilidade/achou a crianca/antonio/b1766-6-n
+
+         referida$maria viana/id=b1766-6-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/b1766-6-n
+
+         referido$jose moreira/id=b1766-6-per5
+            ls$residencia/obidos
+            rel$parentesco/marido/maria viana/b1766-6-referida
+
+      bap$b1766-7/4/3/1766/fl.114/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$margarida/f/id=b1766-7-per1
+            ls$datanasc/17660222
+
+         pn$henrique jose/id=b1766-7-per2
+            ls$residencia/obidos
+            ls$naturalidade/setubal
+
+         ppn$joao lourenco/id=b1766-7-per3
+            ls$naturalidade/freguesia de sao tome/obs=arcebispado de braga
+            ls$locbaptismo/freguesia de sao tome
+            ls$loccasamento/freguesia de sao pedro velho, vila real
+
+         mpn$catarina rosa/id=b1766-7-per4
+            ls$naturalidade/frutanho, freguesia de sao tome/obs=arcebispado de braga
+            ls$locbaptismo/freguesia de sao tome
+            ls$loccasamento/freguesia de sao pedro velho, vila real
+
+         mn$maria inacia/id=b1766-7-per5
+            ls$enjeitada/sim/obs=filha de pais incognitos
+
+         pmn$nome desconhecido/id=b1766-7-per6
+
+         mmn$nome desconhecido/id=b1766-7-per7
+
+         pad1$joaquim manuel freire/id=b1766-7-per8
+
+         mad1$isidora margarida de almeida/id=b1766-7-per9
+            ls$residencia/obidos
+
+      bap$b1766-8/18/3/1766/fl.114/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1766-8-per1
+            ls$datanasc/17660228
+
+         pn$manuel nunes dos reis/id=b1766-8-per2
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mn$teodora joaquina perpetua da piedade/id=b1766-8-per3
+            ls$residencia/obidos
+            ls$titulo/dona
+
+         pad1$manuel madeira camelo de andrade/id=b1766-8-per4
+
+         mad1$margarida rosa quiteria manzone/id=b1766-8-per5
+            ls$residencia/obidos
+
+      bap$b1766-9/4/4/1766/fl.114v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1766-9-n
+            ls$enjeitada/sim/obs="a qual foi achada a tres do dito mes a porta de goncallo joze do lugar de sao bartholameu e o cria anna joaquina molher de joze roz togeiro do lugar do pinhal"
+
+         pn$nome desconhecido/id=b1766-9-per1
+
+         mn$nome desconhecido/id=b1766-9-per2
+
+         pad1$antonio nunes/id=b1766-9-per3
+            ls$cargo/procurador do concelho
+
+         referido$goncalo jose/id=b1766-9-per4
+            ls$residencia/sao bartolomeu
+            rel$sociabilidade/achou a crianca/maria/b1766-9-n
+
+         referida$ana joaquina/id=b1766-9-referida
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/maria/b1766-9-n
+
+         referido$jose rodrigues togeiro/id=b1766-9-per5
+            ls$residencia/pinhal
+            rel$parentesco/marido/ana joaquina/b1766-9-referida
+
+      bap$b1766-10/4/4/1766/fl.114v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$josefa/f/id=b1766-10-n
+            ls$enjeitada/sim/obs="jozefa ingeitada do concelho desta vila a qual foi achada no dito dia a porta de manoel gomez do cazal da silveira lemite do bombarral e a cria escolastica maria molher de manuel gomes do salgueiro"
+
+         pn$nome desconhecido/id=b1766-10-per1
+
+         mn$nome desconhecido/id=b1766-10-per2
+
+         pad1$antonio nunes/id=b1766-10-per3
+            ls$cargo/procurador do concelho
+
+         referido$manuel gomes/id=b1766-10-per4
+            ls$residencia/casal da silveira, limite do bombarral
+
+         referida$escolastica maria/id=b1766-10-referida
+            ls$residencia/salgueiro
+            rel$sociabilidade/ama/josefa/b1766-10-n
+
+         referido$manuel gomes/id=b1766-10-per5
+            ls$residencia/salgueiro
+            rel$parentesco/marido/escolastica maria/b1766-10-referida
+
+      bap$b1766-11/15/4/1766/fl.114v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1766-11-n
+            ls$enjeitada/sim/obs="ingeitada a qual foi achada a doze do ditto mes a porta de antonio da costa do lugar de sao bartholomeu e a cria maria duarte molher de joze henriques do lugar de sao gregorio"
+
+         pn$nome desconhecido/id=b1766-11-per1
+
+         mn$nome desconhecido/id=b1766-11-per2
+
+         pad1$antonio nunes/id=b1766-11-per3
+            ls$cargo/procurador do concelho
+
+         referido$antonio da costa/id=b1766-11-per4
+            ls$residencia/sao bartolomeu
+            rel$sociabilidade/achou a crianca/maria/b1766-11-n
+
+         referida$maria duarte/id=b1766-11-referida
+            ls$residencia/sao gregorio
+            rel$sociabilidade/ama/maria/b1766-11-n
+
+         referido$jose henriques/id=b1766-11-per5
+            ls$residencia/sao gregorio
+            rel$parentesco/marido/maria duarte/b1766-11-referida
+
+      bap$b1766-12/22/4/1766/fl.115/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1766-12-n
+            ls$enjeitada/sim/obs="ingeitada do concelho desta vila a qual foi achada a porta de francisco luis da cerca aos vinte e hum do dito mes, e a cria maria jozefa molher de manuel de almeida desta mesma vila"
+
+         pn$nome desconhecido/id=b1766-12-per1
+
+         mn$nome desconhecido/id=b1766-12-per2
+
+         pad1$antonio nunes/id=b1766-12-per3
+            ls$cargo/procurador do concelho
+
+         referido$francisco luis/id=b1766-12-per4
+            ls$residencia/cerca
+            rel$sociabilidade/achou a crianca/maria/b1766-12-n
+
+         referida$maria josefa/id=b1766-12-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria/b1766-12-n
+
+         referido$manuel de almeida/id=b1766-12-per5
+            ls$residencia/obidos
+            rel$parentesco/marido/maria josefa/b1766-12-referido
+
+      bap$b1766-13/24/4/1766/fl.115/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1766-13-n
+            ls$enjeitada/sim/obs="maria ingeitada do concelho desta vila a qual foi achada a porta de joze francisco do lugar de sao bartholomeu a vinte e dous do ditto mes e a cria maria ignacia mulher de henrique joze da silva desta mesma vila"
+
+         pn$nome desconhecido/id=b1766-13-per1
+
+         mn$nome desconhecido/id=b1766-13-per2
+
+         pad1$antonio nunes/id=b1766-13-per3
+            ls$cargo/procurador do concelho
+
+         referido$jose francisco/id=b1766-13-per4
+            ls$residencia/sao bartolomeu
+            rel$sociabilidade/achou a crianca/maria/b1766-13-n
+
+         referida$maria inacia/id=b1766-13-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria/b1766-13-n
+
+         referido$henrique jose da silva/id=b1766-13-per5
+            ls$residencia/obidos
+            rel$parentesco/marido/maria inacia/b1766-13-referida
+
+      bap$b1766-14/4/5/1766/fl.115/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$antonio/m/id=b1766-14-per1
+            ls$datanasc/17660413
+
+         pn$manuel das neves/id=b1766-14-per2
+            ls$residencia/usseira
+
+         mn$maria inacia/id=b1766-14-per3
+            ls$residencia/usseira
+
+         pad1$antonio da silva rebelo/id=b1766-14-per4
+            ls$residencia/obidos
+
+         mad1$maria de sao jose/id=b1766-14-per5
+            ls$residencia/usseira
+
+      bap$b1766-15/11/5/1766/fl.115v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$gregorio antonio da ascensao/m/id=b1766-15-n
+            ls$enjeitado/sim/obs="gregorio ingeitado do concelho desta vila o qual foi achado a nove do dito mes a porta de thome frazao desta vila com hum escriptinho que dezia era vontade de seos pais que se chamace gregorio antonio da ascencao"
+
+         pn$nome desconhecido/id=b1766-15-per1
+
+         mn$nome desconhecido/id=b1766-15-per2
+
+         pad1$antonio nunes/id=b1766-15-per3
+            ls$cargo/procurador do concelho
+
+         referido$tome frazao/id=b1766-15-per4
+            ls$residencia/obidos
+            rel$sociabilidade/achou a crianca/gregorio antonio da ascensao/b1766-15-n
+
+      bap$b1766-16/16/5/1766/fl.115v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$antonio/m/id=b1766-16-n
+            ls$enjeitado/sim/obs="antonio ingeitado do concelho o qual foi achado a quinze do ditto mes na calssada de santa eyria junto a estrada que vay para a useira, e o cria anna joaquina mulher de manoel correa desta vila"
+
+         pn$nome desconhecido/id=b1766-16-per1
+
+         mn$nome desconhecido/id=b1766-16-per2
+
+         pad1$antonio nunes/id=b1766-16-per3
+            ls$cargo/procurador do concelho
+
+         referida$ana joaquina/id=b1766-16-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/b1766-16-n
+
+         referido$manuel correia/id=b1766-16-per4
+            ls$residencia/obidos
+            rel$parentesco/marido/ana joaquina/b1766-16-referida
+
+      bap$b1766-17/8/6/1766/fl.115v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$manuel/m/id=b1766-17-per1
+            ls$datanasc/17660529
+
+         pn$jose correia/id=b1766-17-per2
+            ls$residencia/usseira
+
+         mn$ines maria/id=b1766-17-per3
+            ls$residencia/usseira
+
+         pad1$jose de santa ana paulista/obs=foi padrinho com licensa do seu prelado/id=b1766-17-per4
+            ls$titulo/frei
+
+         mad1$micaela arcangela/id=b1766-17-per5
+            ls$titulo/dona
+            ls$residencia/lisboa
+
+      bap$b1766-18/13/6/1766/fl.116/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$ana/f/id=b1766-18-per1
+            ls$datanasc/17660604
+
+         pn$manuel gomes/id=b1766-18-per2
+            ls$residencia/casal da memoria
+
+         mn$antonia joaquina/id=b1766-18-per3
+            ls$residencia/casal da memoria
+
+         pad1$jose pereira da serra/id=b1766-18-per4
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad1$gertrudes joaquina/id=b1766-18-per5
+            rel$parentesco/filha/joao da silva/b1766-18-referido
+
+         referido$joao da silva/id=b1766-18-referido
+            ls$residencia/casal das canastras
+
+      bap$b1766-19/30/6/1766/fl.116/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1766-19-per1
+            ls$datanasc/17660615
+
+         pn$caetana henriques/id=b1766-19-per2
+            ls$residencia/obidos
+
+         mn$ines maria de santa ana/id=b1766-19-per3
+            ls$residencia/obidos
+
+         pad1$joaquim jose furtado/id=b1766-19-per4
+
+         mad1$maria rita/id=b1766-19-per5
+            rel$parentesco/filha/antonio moreira/b1766-19-referido
+
+         referido$antonio moreira/id=b1766-19-referido
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+      bap$b1766-20/1/7/1766/fl.116-116v./igreja de sao pedro/joao henriques (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$ana/f/id=b1766-20-per1
+            ls$datanasc/17660720
+
+         pn$antonio jose ferreira/id=b1766-20-per2
+            ls$naturalidade/obidos
+            ls$residencia/obidos, freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de nossa senhora da conceicao, peniche
+
+         mn$quiteria maria de jesus/id=b1766-20-per3
+            ls$residencia/obidos
+            ls$naturalidade/peniche, freguesia de sao pedro
+            ls$locbaptismo/freguesia de nossa senhora da conceicao, peniche
+            ls$loccasamento/freguesia de nossa senhora da conceicao, peniche
+
+         pad1$manuel caetano freire/id=b1766-20-per4
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mad1$ana catarina barbara da silva/id=b1766-20-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      bap$b1766-21/15/7/1766/fl.116v./igreja de sao pedro/francisco de matos (reverendo, padre, cura na igreja de sao tiago)/obs=assina o cura valeriano gomes henriques
+
+         n$pedro/m/id=b1766-21-per1
+            ls$datanasc/17660629
+
+         pn$joao francisco/id=b1766-21-per2
+            ls$residencia/obidos
+
+         mn$josefa maria/id=b1766-21-per3
+            ls$residencia/obidos
+
+         pad1$jose de oliveira cabral/id=b1766-21-per4
+            ls$cargo/quartenario/obs=quartenario e um beneficiado que recebia a quarta parte da congrua de um conego
+
+         procurador-pad1$jose francisco/id=b1766-21-per5
+            ls$residencia/obidos
+
+         mad1$maria da conceicao/id=b1766-21-per6
+            ls$residencia/obidos
+
+      bap$b1766-22/10/6/1766/fl.116v.-117/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1766-22-n
+            ls$enjeitado/sim/obs="joze ingeitado o qual foi achado no lugar do carvalhal a nove do dito mes a porta de manoel dos santos moleiro com hum escripto que dezia se chamava joze e o cria anna joaquina mulher de antonio ferreira do dito lugar do carvalhal"
+
+         pn$nome desconhecido/id=b1766-22-per1
+
+         mn$nome desconhecido/id=b1766-22-per2
+
+         pad1$antonio nunes/id=b1766-22-per3
+            ls$cargo/procurador do concelho
+
+         referido$manuel dos santos/id=b1766-22-per4
+            ls$profissao/moleiro
+            ls$residencia/carvalhal
+            rel$sociabilidade/achou a crianca/jose/b1766-22-n
+
+         referida$ana joaquina/id=b1766-22-referida
+            ls$residencia/carvalhal
+            rel$sociabilidade/ama/jose/b1766-22-n
+
+         referido$antonio ferreira/id=b1766-22-per5
+            ls$residencia/carvalhal
+            rel$parentesco/marido/ana joaquina/b1766-22-referida
+
+      bap$b1766-23/31/7/1766/fl.117/igreja de sao pedro/joao henriques de oliveira (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$gertrudes/m/id=b1766-23-per1
+            ls$datanasc/17660715
+
+         pn$jose da costa/id=b1766-23-per2
+            ls$naturalidade/pinhal
+            ls$residencia/pinhal
+
+         mn$ana maria/id=b1766-23-per3
+            ls$naturalidade/pinhal
+            ls$residencia/pinhal
+
+         pad1$francisco xavier de matos/id=b1766-23-per4
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad1$joana casimira/id=b1766-23-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      bap$b1766-24/11/8/1766/fl.117/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$casimira/f/id=b1766-24-per1
+            ls$datanasc/17660716
+
+         pn$luis pedro/id=b1766-24-per2
+            ls$residencia/obidos
+
+         mn$ana joaquina/id=b1766-24-per3
+            ls$residencia/obidos
+
+         pad1$joaquim alberto da veiga/id=b1766-24-per4
+            ls$residencia/obidos
+
+      bap$b1766-25/24/8/1766/fl.117v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1766-25-per1
+            ls$datanasc/17660815
+
+         pn$jose gomes/id=b1766-25-per2
+            ls$naturalidade/ponte do rol
+            ls$locbaptismo/freguesia de ponte do rol
+            ls$loccasamento/freguesia de sao tiago
+
+         ppn$joao gomes/id=b1766-25-per3
+            ls$residencia/pinhal
+
+         mpn$catarina maria/id=b1766-25-per4
+            ls$residencia/pinhal
+
+         mn$ana de jesus/id=b1766-25-per5
+            ls$naturalidade/tras do outeiro, freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago
+
+         pmn$manuel marques/id=b1766-25-per6
+
+         mmn$helena maria/id=b1766-25-per7
+
+         pad1$antonio jose madeira/id=b1766-25-per8
+            ls$cargo/capitao
+
+         mad1$ana da silveira/id=b1766-25-per9
+            ls$titulo/dona
+            ls$residencia/obidos
+            rel$parentesco/filha/agostinho gomes/b1766-25-referido
+
+         referido$agostinho gomes/id=b1766-25-referido
+            ls$residencia/obidos
+            ls$titulo/doutor
+
+      bap$b1766-26/14/9/1766/fl.117v./igreja de sao pedro/joao henriques (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$valeriano/m/id=b1766-26-per1
+            ls$datanasc/17660905
+
+         pn$jose pereira/id=b1766-26-per2
+            ls$residencia/pinhal
+            ls$loccasamento/freguesia de sao joao
+
+         mn$josefa maria/id=b1766-26-per3
+            ls$residencia/pinhal
+            ls$loccasamento/freguesia de sao joao
+
+         pad1$valeriano gomes henriques/id=b1766-26-per4
+            ls$profissao/padre
+            ls$cargo/cura na igreja de sao pedro
+
+      bap$b1766-27/27/9/1766/fl.118/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$teodora/f/id=b1766-27-per1
+            ls$datanasc/17660911
+
+         pn$jose pereira/id=b1766-27-per2
+            ls$residencia/obidos
+
+         mn$ana joaquina/id=b1766-27-per3
+            ls$residencia/obidos
+
+         pad1$rodrigo antonio de noronha vasconcelos/id=b1766-27-per4
+            ls$titulo/excelentissimo
+            ls$titulo/senhor
+            ls$titulo/dom
+
+         procurador-pad1$jose barreto leitao/id=b1766-27-per5
+
+      bap$b1766-28/5/10/1766/fl.118/igreja de sao pedro/joao henriques de oliveira (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$mauricio/m/id=b1766-28-per1
+            ls$datanasc/17660922
+
+         pn$jose pereira/id=b1766-28-per2
+            ls$alcunha/o corte
+            ls$residencia/usseira
+
+         mn$inacia maria/id=b1766-28-per3
+            ls$residencia/usseira
+
+         pad1$jose henriques/id=b1766-28-per4
+            ls$residencia/usseira
+
+         mad1$teresa maria/id=b1766-28-per5
+            ls$residencia/usseira
+
+      bap$b1766-29/16/11/1766/fl.118-118v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1766-29-per1
+            ls$datanasc/17661101
+
+         pn$francisco antonio das neves/id=b1766-29-per2
+            ls$residencia/usseira
+
+         mn$josefa maria/id=b1766-29-per3
+            ls$residencia/usseira
+
+         pad1$manuel baptista/id=b1766-29-per4
+            ls$residencia/usseira
+
+      bap$b1766-30/17/11/1766/fl.118v./igreja de sao pedro/francisco xavier de matos (padre, economo da igreja de sao joao)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1766-30-per1
+            ls$datanasc/17661030
+
+         pn$joao da silva/id=b1766-30-per2
+            ls$residencia/casal do alvito
+            ls$loccasamento/freguesia de nossa senhora da esperanca, marinha grande
+            ls$bispado/leiria
+
+         mn$josefa cardoso/id=b1766-30-per3
+            ls$residencia/casal do alvito
+            ls$loccasamento/freguesia de nossa senhora da esperanca, marinha grande
+            ls$bispado/leiria
+
+         pad1$antonio joaquim cordeiro/id=b1766-30-per4
+            ls$residencia/vale, a dos negros
+
+      bap$b1766-31/24/11/1766/fl.118v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1766-31-per1
+            ls$datanasc/17661108
+
+         pn$jose de almeida rebelo/id=b1766-31-per2
+            ls$residencia/obidos
+
+         mn$catarina antonia/id=b1766-31-per3
+            ls$residencia/obidos
+
+         pad1$teodoro jose travassos/id=b1766-31-per4
+            ls$profissao/padre
+
+         mad1$ana barbara sottomaior/id=b1766-31-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      bap$b1766-32/21/12/1766/fl.119/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$antonio/m/id=b1766-32-per1
+            ls$datanasc/17661212
+
+         pn$jose bernardes/id=b1766-32-per2
+            ls$residencia/obidos
+            ls$naturalidade/arneiro, freguesia de nossa senhora da apresentacao
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria isidora/id=b1766-32-per3
+            ls$naturalidade/obidos
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de santa maria
+
+         pad1$antonio maria bernardo pacheco de brito pegado/id=b1766-32-per4
+            ls$residencia/obidos
+
+         procurador-pad1$joao caetano/id=b1766-32-per5
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1766-33/26/12/1766/fl.119/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1766-33-per1
+            ls$datanasc/17661129
+
+         pn$agostinho gomes da silveira/id=b1766-33-per2
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mn$maria da conceicao/id=b1766-33-per3
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         pad1$antonio jose madeira/id=b1766-33-per4
+            ls$residencia/quinta de vale de flores
+
+      bap$b1766-34/26/12/1766/fl.119-119v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$antonio/m/id=b1766-34-n
+
+         pn$jose da horta/id=b1766-34-per1
+            ls$naturalidade/obidos
+            ls$loccasamento/freguesia de nossa senhora da conceicao, peniche
+
+         mn$maria rosa/id=b1766-34-per2
+            ls$naturalidade/peniche, freguesia de nossa senhora da conceicao
+            ls$locbaptismo/freguesia de nossa senhora da conceicao, peniche
+            ls$loccasamento/freguesia de nossa senhora da conceicao, peniche
+
+         pad1$manuel caetano freire/obs=foi padrinho do catecismo/id=b1766-34-per3
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         referido$francisco gomes figueira/id=b1766-34-per4
+            ls$profissao/padre
+            ls$residencia/obidos
+            rel$sociabilidade/baptizou em necessidade/antonio/b1766-34-n
+
+      bap$b1767-1/5/1/1767/fl.119v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$miguel/m/id=b1767-1-per1
+            ls$datanasc/17661222
+
+         pn$jeronimo henriques/id=b1767-1-per2
+            ls$residencia/casais do pinhal
+
+         mn$pascoa maria/id=b1767-1-per3
+            ls$residencia/casais do pinhal
+
+         pad1$joaquim francisco da costa/id=b1767-1-per4
+            ls$cargo/beneficiado
+
+         mad1$maria/id=b1767-1-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+            rel$parentesco/filha/joao monteiro malhao/b1767-1-referido
+
+         referido$joao monteiro malhao/id=b1767-1-referido
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+         procurador-mad1$jose moreira chaves/id=b1767-1-per6
+            ls$residencia/obidos
+            ls$cargo/beneficiado
+
+      bap$b1767-2/9/3/1767/fl.119v.-120/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1767-2-per1
+            ls$datanasc/17670224
+
+         pn$jose da costa/id=b1767-2-per2
+            ls$residencia/obidos
+            ls$naturalidade/santa maria da fragosa, termo de barcelos
+            ls$arcebispado/braga
+
+         ppn$joao da costa/id=b1767-2-per3
+
+         mpn$luisa maria/id=b1767-2-per4
+
+         mn$maria de sao tiago/id=b1767-2-per5
+            ls$naturalidade/amoreira, freguesia de nossa senhora de aboboriz
+
+         pmn$manuel goncalves/id=b1767-2-per6
+
+         mmn$josefa maria/id=b1767-2-per7
+
+         pad1$joaquim ribeiro da gama/id=b1767-2-per8
+            ls$residencia/obidos
+
+         procurador-mad1$joao pinto de miranda/obs=tocou com a coroa de nossa senhora da piedade/id=b1767-2-per9
+            ls$cargo/beneficiado
+
+         mad1$nossa senhora da piedade/id=b1767-2-per10
+
+      bap$b1767-3/4/4/1767/fl.120/igreja de sao pedro/joao henriques de oliveira (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1767-3-per1
+            ls$datanasc/17670313
+
+         pn$matias henriques/id=b1767-3-per2
+            ls$naturalidade/usseira
+
+         mn$josefa maria/id=b1767-3-per3
+            ls$naturalidade/usseira
+
+         pad1$joaquim cardoso/id=b1767-3-per4
+            ls$residencia/sobral do perilhao
+
+         mad1$maria ferreira/id=b1767-3-per5
+            ls$residencia/usseira
+
+      bap$b1767-4/10/4/1767/fl.120/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1767-4-per1
+            ls$datanasc/17670401
+
+         pn$joao marques/id=b1767-4-per2
+            ls$enjeitada/sim
+            ls$residencia/obidos, freguesia de sao pedro
+
+         ppn$nome desconhecido/id=b1767-4-per3
+
+         mpn$nome desconhecido/id=b1767-4-per4
+
+         mn$clara maria/id=b1767-4-per5
+            ls$residencia/obidos, freguesia de sao pedro
+
+         pad1$joao henriques/id=b1767-4-per6
+            ls$residencia/obidos
+
+      bap$b1767-5/12/4/1767/fl.120v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jeronimo/m/id=b1767-5-per1
+            ls$datanasc/17670303
+
+         pn$diogo vieira/id=b1767-5-per2
+            ls$naturalidade/usseira
+            ls$residencia/usseira
+
+         mn$maria helena/id=b1767-5-per3
+            ls$naturalidade/usseira
+            ls$residencia/usseira
+
+         pad1$jose francisco/id=b1767-5-per4
+            ls$residencia/quinta nova
+
+         mad1$eugenia maria/id=b1767-5-per5
+            ls$residencia/usseira
+
+      bap$b1767-6/13/4/1767/fl.120v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1767-6-per1
+            ls$datanasc/17670403
+
+         pn$manuel pereira/id=b1767-6-per2
+            ls$residencia/casal do catelao
+            ls$naturalidade/alcanede, freguesia de nossa senhora da conceicao
+
+         ppn$joao goncalves/id=b1767-6-per3
+
+         mpn$ana maria/id=b1767-6-per4
+
+         mn$catarina rosa/id=b1767-6-per5
+            ls$naturalidade/ponte do rol
+            ls$residencia/casal do catelao
+
+         pmn$joao pereira/id=b1767-6-per6
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$venancia maria/id=b1767-6-per7
+            ls$loccasamento/igreja de sao pedro
+
+         pad1$manuel de freitas/id=b1767-6-per8
+            ls$residencia/obidos
+
+         mad1$maria inacia/id=b1767-6-per9
+            ls$residencia/catelao
+
+      bap$b1767-7/26/4/1767/fl.120v.-121/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquina/f/id=b1767-7-per1
+            ls$datanasc/17670408
+
+         pn$sebastiao jose/id=b1767-7-per2
+            ls$residencia/casal dos capuchos
+
+         mn$maria ferreira/id=b1767-7-per3
+            ls$residencia/casal dos capuchos
+
+         pad1$antonio de oliveira/id=b1767-7-per4
+            ls$residencia/moinho do lagar
+
+         mad1$silvestra joaquina/id=b1767-7-per5
+            ls$residencia/casal dos capuchos
+
+      bap$b1767-8/1/5/1767/fl.121/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$laurentino/m/id=b1767-8-per1
+            ls$datanasc/17670408
+
+         pn$jose da costa/id=b1767-8-per2
+            ls$naturalidade/usseira
+
+         mn$mariana teresa/id=b1767-8-per3
+            ls$naturalidade/usseira
+
+         pad1$francisco xavier de sequeira/id=b1767-8-per4
+            ls$residencia/obidos
+
+         mad1$apolinaria maria/id=b1767-8-per5
+            ls$residencia/usseira
+
+      bap$b1767-9/9/5/1767/fl.121/igreja de sao pedro/joao henriques de oliveira (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$antonio/m/id=b1767-9-per1
+            ls$datanasc/17670422
+
+         pn$joao baptista/id=b1767-9-per2
+            ls$residencia/obidos
+
+         mn$emerenciana teresa/id=b1767-9-per3
+            ls$residencia/obidos
+
+         pad1$manuel caetano freire/id=b1767-9-per4
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+      bap$b1767-10/16/5/1767/fl.121-121v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1767-10-per1
+            ls$datanasc/17670509
+
+         pn$joaquim gomes/id=b1767-10-per2
+            ls$residencia/pinhal
+            ls$naturalidade/delgada, freguesia da rolica
+            ls$loccasamento/freguesia do bom jesus do carvalhal
+
+         mn$quiteria maria/id=b1767-10-per3
+            ls$naturalidade/salgueiro, freguesia do bom jesus do carvalhal
+            ls$loccasamento/freguesia do bom jesus do carvalhal
+            ls$residencia/pinhal
+
+         pad1$jose gomes da silveira/id=b1767-10-per4
+            rel$parentesco/filho/agostinho gomes da silveira/b1767-10-referido
+
+         mad1$ana claudia da silveira/id=b1767-10-per5
+            ls$titulo/dona
+            rel$parentesco/filha/agostinho gomes da silveira/b1767-10-referido
+
+         referido$agostinho gomes da silveira/id=b1767-10-referido
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+      bap$b1767-11/27/5/1767/fl.121v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1767-11-per1
+            ls$datanasc/17670509
+
+         pn$isidoro correia/id=b1767-11-per2
+            ls$naturalidade/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$jeronimo correia/id=b1767-11-per3
+
+         mpn$maria teresa/id=b1767-11-per4
+
+         mn$catarina rita/id=b1767-11-per5
+            ls$naturalidade/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$caetano da silva/id=b1767-11-per6
+
+         mmn$felicia maria/id=b1767-11-per7
+
+         pad1$manuel caetano freire/id=b1767-11-per8
+            ls$titulo/doutor
+
+         mad1$maria da conceicao dinis/id=b1767-11-per9
+            ls$residencia/obidos
+            ls$titulo/dona
+
+      bap$b1767-12/7/6/1767/fl.121v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joao/m/id=b1767-12-per1
+            ls$datanasc/17670517
+
+         pn$jose/id=b1767-12-per2
+            ls$residencia/obidos
+
+         mn$maria viana/id=b1767-12-per3
+            ls$residencia/obidos
+
+         pad1$joao henriques de oliveira/id=b1767-12-per4
+            ls$profissao/padre
+
+         mad1$nossa senhora da piedade/id=b1767-12-per5
+
+         procurador-mad1$severino gomes da costa/obs="tocou com a coroa de nossa senhora da piedade"/id=b1767-12-per6
+            ls$residencia/obidos
+
+      bap$b1767-13/13/6/1767/fl.122/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$isidoro/m/id=b1767-13-per1
+            ls$datanasc/17670527
+
+         pn$manuel freire/id=b1767-13-per2
+            ls$residencia/usseira
+
+         mn$maria antonia/id=b1767-13-per3
+            ls$residencia/usseira
+
+         pad1$sebastiao jose do pinhal/id=b1767-13-per4
+
+         mad1$joaquina maria/id=b1767-13-per5
+            ls$residencia/usseira
+
+      bap$b1767-14/14/6/1767/fl.122/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$manuel/m/id=b1767-14-per1
+            ls$datanasc/1767
+
+         pn$manuel jose/id=b1767-14-per2
+            ls$residencia/obidos
+            ls$naturalidade/sorieira, termo de ourem
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$manuel lopes/id=b1767-14-per3
+
+         mpn$iria de faria/id=b1767-14-per4
+
+         mn$gertrudes angelica da conceicao/id=b1767-14-per5
+            ls$naturalidade/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$antonio martins/id=b1767-14-per6
+
+         mmn$maria da conceicao/id=b1767-14-per7
+
+         pad1$jose de lacerda aranha/id=b1767-14-per8
+            ls$residencia/bombarral
+
+         procurador-pad1$manuel pedro/id=b1767-14-per9
+            ls$residencia/bombarral
+
+         mad1$nossa senhora da conceicao/id=b1767-14-per10
+
+         procurador-mad1$joaquim da costa prata/obs="e joaquim da costa prata com a coroa de nossa senhora da conceicao"/id=b1767-14-per11
+
+      bap$b1767-15/22/6/1767/fl.122-122v./igreja de sao pedro/joao henriques (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1767-15-per1
+            ls$datanasc/17670608
+
+         pn$jose antonio/id=b1767-15-per2
+            ls$residencia/obidos
+
+         mn$maria do carmo/id=b1767-15-per3
+            ls$residencia/obidos
+
+         pad1$jose moreira chaves/id=b1767-15-per4
+            ls$cargo/beneficiado
+
+         mad1$ana maria de sao joao/id=b1767-15-per5
+
+         procurador-mad1$francisco antonio de sequeira/id=b1767-15-per6
+            ls$residencia/obidos
+
+      bap$b1767-16/22/6/1767/fl.122v./igreja de sao pedro/jose moreira (padre, beneficiado da  igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
+
+         n$joaquim/m/id=b1767-16-per1
+            ls$datanasc/17670518
+
+         pn$antonio jose madeira/id=b1767-16-per2
+            ls$residencia/obidos
+
+         mn$josefa umbelina de sao bernardo/id=b1767-16-per3
+            ls$residencia/obidos
+
+         pad1$antonio da costa franco/id=b1767-16-per4
+            ls$cargo/capitao
+            ls$residencia/peniche
+
+         mad1$josefa maria de matos/id=b1767-16-per5
+            ls$residencia/obidos
+
+      bap$b1767-17/5/7/1767/fl.122v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$antonio/m/id=b1767-17-per1
+            ls$datanasc/17670606
+
+         pn$teodoro jose/id=b1767-17-per2
+            ls$residencia/obidos
+
+         mn$maria rosa/id=b1767-17-per3
+            ls$residencia/obidos
+
+         pad1$joaquim manuel freire/id=b1767-17-per4
+            ls$residencia/obidos
+
+         mad1$margarida rosa craveira baptista/id=b1767-17-per5
+            ls$residencia/obidos
+
+      bap$b1767-18/18/7/1767/fl.122v.-123/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$rita/f/id=b1767-18-per1
+            ls$datanasc/17670629
+
+         pn$joao pedro de andrade/id=b1767-18-per2
+            ls$residencia/obidos
+
+         mn$maria joaquinada silveira/id=b1767-18-per3
+            ls$residencia/obidos
+            ls$titulo/dona
+
+         pad1$manuel madeira camelo/id=b1767-18-per4
+            ls$residencia/obidos
+            ls$titulo/doutor
+
+         mad1$nossa senhora da misericordia/id=b1767-18-per5
+
+         procurador-mad1$luis diogo da silveira/obs="com a reliquia de nossa senhora da mizericordia da mouta"/id=b1767-18-per6
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+      bap$b1767-19/2/8/1767/fl.123/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$rita/f/id=b1767-19-per1
+            ls$datanasc/17670721
+
+         pn$jose da silva/id=b1767-19-per2
+            ls$residencia/casal das avarelas
+
+         mn$maria do nascimento/id=b1767-19-per3
+            ls$residencia/casal das avarelas
+
+         pad1$agostinho goncalves/id=b1767-19-per4
+            ls$residencia/casal do azambujeiro
+
+         mad1$mariana joaquina/id=b1767-19-per5
+            ls$residencia/gaeiras
+
+      bap$b1767-20/24/8/1767/fl.123/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$leonor catarina/f/id=b1767-20-per1
+            ls$datanasc/17670819
+
+         pn$luis pedro/id=b1767-20-per2
+            ls$residencia/pinhal
+
+         mn$antonia maria/id=b1767-20-per3
+            ls$residencia/pinhal
+
+         pad1$jose da costa peixoto/id=b1767-20-per4
+            ls$profissao/padre
+
+         mad1$leonor catarina de castro girao de sisneiros/id=b1767-20-per5
+            ls$residencia/obidos
+            ls$titulo/dona
+
+      bap$b1767-21/13/9/1767/fl.123v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$mrria/f/id=b1767-21-per1
+            ls$datanasc/17670829
+
+         pn$antonio nunes/id=b1767-21-per2
+            ls$residencia/obidos
+
+         mn$maria josefa/id=b1767-21-per3
+            ls$residencia/obidos
+
+         pad1$antonio jose madeira/id=b1767-21-per4
+            ls$cargo/capitao
+
+         mad1$nossa senhora do rosario/id=b1767-21-per5
+
+         procurador-mad1$filipe gomes leal/obs="com a coroa de nossa senhora do rosario"/id=b1767-21-per6
+            ls$profissao/padre
+
+      bap$b1767-22/11/10/1767/fl.123v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1767-22-per1
+            ls$datanasc/17670914
+
+         pn$jose soares/id=b1767-22-per2
+            ls$residencia/obidos
+
+         mn$maria do desterro/id=b1767-22-per3
+            ls$residencia/obidos
+
+         pad1$antonio da silva de faria e rebelo/id=b1767-22-pad
+
+         mad1$antonia casimira/id=b1767-22-per4
+            rel$parentesco/irma/antonio da silva de faria e rebelo/b1767-22-pad
+            ls$titulo/dona
+
+         procurador-mad1$antonio de sales/id=b1767-22-per5
+
+      bap$b1767-23/7/11/1767/fl.123v.-124/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jeronimo/m/id=b1767-23-per1
+            ls$datanasc/17671025
+
+         pn$manuel nunes dos reis/id=b1767-23-per2
+            ls$titulo/doutor
+
+         mn$teodora joaquina perpetua da piedade/id=b1767-23-per3
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         pad1$jeronimo jose xavier de castilho/id=b1767-23-per4
+
+         mad1$ana jose maria xavier de castilho/id=b1767-23-per5
+            ls$titulo/dona
+            ls$residencia/lisboa
+
+         procurador-mad1$antonio daniel da costa e azevedo/id=b1767-23-per6
+            ls$titulo/reverendo
+            ls$cargo/prior
+
+      bap$b1767-24/7/11/1767/fl.124/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$catarina/f/id=b1767-24-per1
+            ls$datanasc/17671101
+
+         pn$manuel francisco/id=b1767-24-per2
+            ls$naturalidade/marinha grande, freguesia de nossa senhora do rosario
+            ls$locbaptismo/freguesia de nossa senhora do rosario, marinha grande
+            ls$loccasamento/freguesia de nossa senhora do rosario, marinha grande
+            ls$residencia/obidos
+
+         ppn$domingos francisco/id=b1767-24-per3
+
+         mpn$maria josefa/id=b1767-24-per4
+
+         mn$maria francisca/id=b1767-24-per5
+            ls$naturalidade/marinha grande, freguesia de nossa senhora do rosario
+            ls$locbaptismo/freguesia de nossa senhora do rosario, marinha grande
+            ls$loccasamento/freguesia de nossa senhora do rosario, marinha grande
+            ls$residencia/obidos
+
+         pmn$manuel dinis/id=b1767-24-per6
+            ls$residencia/obidos
+
+         mmn$maria francisca/id=b1767-24-per7
+            ls$residencia/obidos
+
+         pad1$antonio pacheco de sisneiros/id=b1767-24-per8
+            ls$titulo/dom
+            ls$residencia/obidos
+
+         mad1$maria madalena de sisneiros e castro/id=b1767-24-per9
+            ls$titulo/dona
+            ls$residencia/obidos

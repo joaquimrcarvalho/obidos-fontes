@@ -1,0 +1,286 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1571-1572/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1571-1/17/2/1571/fl.79
+
+         n$francisco/m/id=o1571-1-per1
+            ls$condicao/escravo
+            ls$mentecapto/sim/obs=era tolo
+            rel$profissional/escravo/francisco fortes/o1571-1-referido
+
+            referido$francisco fortes/id=o1571-1-referido
+
+         sacr$nao/obs="nam recebeo nhum sacramento por nam ser chamado, por ser tolo"
+
+      obito$o1571-2/17/10/1571/fl.79
+
+         n$antonio godinho/m/id=o1571-2-per1
+            ls$cargo/beneficiado da igreja de santa maria
+
+         locs$meio da igreja
+
+         testamento$sim/obs=ficou seu testamenteiro joao cosme
+
+         oficios$3
+
+         referido$joao cosme/id=o1571-2-per2
+            ls$profissao/padre
+
+      obito$o1571-3/24/3/1571/fl.79
+
+         n$maria alvares%maria alvrz/f/id=o1571-3-per1
+
+            marido$jorge fernandes/id=o1571-3-per1-per2
+               ls$profissao/alfaiate
+
+         causa$morte subita%morte supitanea
+
+         sacr$nao
+
+         testamento$nao/obs="nam fez manda nem tinha de que nem tem missa"
+
+      obito$o1571-4/29/3/1571/fl.79v.
+
+         n$catarina fernandes%c.a frz/f/id=o1571-4-per1
+
+            marido$duarte fernandes/id=o1571-4-per1-per2
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$sim
+
+      obito$o1571-5/29/3/1571/fl.79v.
+
+         n$francisco dias/m/id=o1571-5-per1
+
+         sacr$sim/obs= todos
+
+         testamento$nao
+
+         oficios$1
+
+      obito$o1571-6/17/4/1571/fl.79v.
+
+         n$vicente afonso%vicente a.o/m/id=o1571-6-per1
+            ls$residencia/a da gorda
+
+         sacr$sim/obs= os 3 sacramentos; recebeu a uncao "junto da mea noite"
+
+         testamento$nao
+
+         oficios$3
+
+      obito$o1571-7/27/4/1571/fl.79v.
+
+         n$ambrosio fernandes/m/id=o1571-7-per1
+
+         causa$morte arrebatada/obs=morreu a meia noite
+
+         sacr$sim/obs=confissao, comunhao, nao recebeu a uncao
+
+         oficios$sim
+
+      obito$o1571-8/6/5/1571/fl.79v.
+
+         n$ana lopes/f/id=o1571-8-per1
+
+            pai$diogo/id=o1571-8-per1-per2
+               ls$cargo/mestre
+
+         sacr$sim
+
+         oficios$1
+
+      obito$o1571-9/7/5/1571/fl.79v.
+
+         n$antonia/f/id=o1571-9-per1
+            ls$condicao/escrava/obs=nova, negra
+            rel$profissional/escrava/antonio dias/o1571-9-referido
+
+            referido$antonio dias/id=o1571-9-referido
+
+      obito$o1571-10/9/5/1571/fl.79v.
+
+         n$paulo coelho/m/id=o1571-10-per1
+            ls$residencia/coruche
+
+            mae$nome desconhecido/id=o1571-10-per1-per2
+
+         locf$sao pedro
+
+         locs$casa do espirito santo
+
+         testamento$nao/obs=fica testamenteira a sua mae "tera dous annos de espaco, pera comprir o testamento"
+
+         oficios$3/obs=o segundo oficio e para ser feito em coruche
+
+      obito$o1571-11/17/8/1571/fl.79v.
+
+         n$martim afonso%martim a.o/m/id=o1571-11-per1
+            ls$condicao/escravo
+
+            referida$maria alvares%m.a alvrz/id=o1571-11-per1-per2
+
+         sacr$sim
+
+         oficios$2
+
+      obito$o1571-12/5/9/1571/fl.79v.
+
+         n$fernao dias/m/obs=duvida na leitura do nome/id=o1571-12-per1
+            ls$residencia/amoreira
+            ls$locbaptismo/igreja de santa maria/obs=antes de falecer pediu para que fosse enterrado na igreja de santa maria
+
+         causa$morte subita%morte supitanca
+
+         locs$junto da pia de agua benta
+
+         oficios$3
+
+      obito$o1571-13/11/10/1571/fl.79v.
+
+         n$diogo/m/id=o1571-13-per1
+            ls$condicao/escravo
+            rel$profissional/escravo/jeronimo leitao/o1571-13-referido
+
+            referido$jeronimo leitao/id=o1571-13-referido
+
+         sacr$nao
+
+      obito$o1571-14/13/11/1571/fl.79v.
+
+         n$jorge rodrigues/m/id=o1571-14-per1
+            ls$residencia/gaeiras
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$1
+
+      obito$o1572-1/12/1/1572/fl.79v.
+
+         n$beatriz rodrigues/f/id=o1572-1-per1
+            ls$residencia/serra
+
+         sacr$sim
+
+         testamento$sim/obs=ficou seu testamenteiro joao fernandes
+
+         referido$joao fernandes/id=o1572-1-referido
+            rel$parentesco/filho/joao fernandes/o1572-1-referido
+
+         oficios$3
+
+      obito$o1572-2/27/2/1572/fl.80
+
+         n$estevao vicente/m/id=o1572-2-per1
+            ls$profissao/ferreiro
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$3
+
+      obito$o1572-3/25/2/1572/fl.80
+
+         n$isabel penalva/f/id=o1572-3-per1
+            ls$ec/v
+
+         sacr$sim
+
+         oficios$3
+
+      obito$o1572-4/26/2/1572/fl.80
+
+         n$leonor do basto/f/id=o1572-4-per1
+
+            marido$diogo franco/id=o1572-4-per1-per2
+
+         sacr$sim
+
+         causa$morte arrebatada, esteve muitos anos entrevada
+
+         testamento$nao
+
+         oficios$1
+
+      obito$o1572-5/27/3/1572/fl.80
+
+         n$gaspar vicente/m/id=o1572-5-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$3
+
+      obito$o1572-6/25/5/1572/fl.80
+
+         n$pero francisco da serra/m/id=o1572-6-per1
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$sim
+
+      obito$o1572-7/7/7/1572/fl.80
+
+         n$diogo frois/m/id=o1572-7-per1
+
+         sacr$sim
+
+         oficios$1
+
+      obito$o1572-8/13/7/1572/fl.80
+
+         n$diogo alvares/m/id=o1572-8-per1
+            ls$pobre/sim
+
+         sacr$uncao
+
+      obito$o1572-9/31/7/1572/fl.80
+
+         n$vicente/m/id=o1572-9-n
+
+         sacr$sim
+
+         testamento$sim/obs="ficou encomendado e comprimento da sua alma a seu filho vicente de lemos"
+
+         oficios$3 de 9 licoes
+
+         referido$vicente de lemos/obs=ficou encarrgue de cumprir as ultimas vontades da mae/id=o1572-9-per1
+            rel$parentesco/filho/vicente/o1572-9-n
+
+      obito$o1572-10/14/8/1572/fl.80
+
+         n$margarida nunes/f/id=o1572-10-per1
+
+            marido$tome henriques/id=o1572-10-per1-per2
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$3
+
+      obito$o1572-11/29/8/1572/fl.80
+
+         n$violante ribeiro/f/id=o1572-11-n
+
+         sacr$sim/obs=uncao
+
+         causa$mal de ar/obs="por lhe dar o mal de ar supramente que logo lhe tolheo a fala"
+
+         testamento$sim/obs=ficou seu testamenteiro seu filho paulo ribeiro
+
+         oficios$1
+
+         referido$paulo ribeiro/id=o1572-11-per1
+            rel$parentesco/filho/violante ribeiro/o1572-11-n

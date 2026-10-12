@@ -1,0 +1,467 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$obitos1651-1655/localizacao-a.d.l./freguesia de sao joao
+
+      obito$o1651-1/19/1/1651/fl.113v./francisco de sousa (vigario de sao joao)
+
+         n$antonio rodrigues/m/id=o1651-1-per1
+            ls$residencia/sobral
+
+         testamento$nao
+
+         mulher$leonarda jorge/id=o1651-1-per2
+            ls$residencia/sobral
+
+      obito$o1651-2/31/1/1651/fl.113v./francisco de sousa (vigario de sao joao)
+
+         n$domingos ferreira/m/id=o1651-2-per1
+            ls$residencia/arelho
+
+         causa$afogamento/obs=morreu afogado na lagoa junto com antonio fernandes e matias vicente e custodio pires
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+         pai$miguel ferreira/id=o1651-2-per2
+
+         referido$antonio fernandes/mesmo_que=o1651-3-n/id=o1651-2-per3
+            ls$residencia/arelho
+
+         referido$matias vicente/mesmo_que=o1651-4-n/id=o1651-2-per4
+            ls$residencia/arelho
+
+         referido$custodio pires/mesmo_que=o1651-5-n/id=o1651-2-per5
+
+      obito$o1651-3/31/1/1651/fl.113v./francisco de sousa (vigario de sao joao)
+
+         n$antonio fernandes/m/id=o1651-3-n
+            ls$residencia/arelho
+
+         causa$afogamento/obs=morreu afogado na lagoa junto com domingos fernandes e matias vicente e custodio pires
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+         mulher$lourenca francisca/id=o1651-3-per1
+
+      obito$o1651-4/31/1/1651/fl.113v./francisco de sousa (vigario de sao joao)
+
+         n$matias vicente/m/id=o1651-4-n
+            ls$residencia/arelho
+
+         causa$afogamento/obs=morreu afogado na lagoa junto com domingos ferreira, antonio fernandes e custodio pires
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$isabel fernandes/id=o1651-4-per1
+
+      obito$o1651-5/31/1/1651/fl.113v./francisco de sousa (vigario de sao joao)
+
+         n$custodio pires/m/id=o1651-5-n
+            ls$residencia/coutos
+            ls$freguesia/carvalhal benfeito
+
+         causa$afogamento/obs=morreu afogado na lagoajunto com domingos ferreira, matias vicente e antonio fernandes
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+         mulher$catarina delgada/id=o1651-5-per1
+
+      obito$o1651-6/14/4/1651/fl.114/francisco de sousa (vigario de sao joao)
+
+         n$diogo dias/m/id=o1651-6-n
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         testamento$sim/obs=sua mulher e a testamenteira
+
+         oficios$sim/obs=3 oficios
+
+         mulher$domingas antunes/id=o1651-6-per1
+            ls$residencia/sobral
+            rel$sociabilidade/testamenteira/diogo dias/o1751-6-n
+
+      obito$o1651-7/29/4/1651/fl.114/francisco de sousa (vigario de sao joao)
+
+         n$antonio fernandes/m/id=o1651-7-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         pai$francisco pires/id=o1651-7-per2
+            ls$residencia/sobral
+
+         mae$maria dias/id=o1651-7-per3
+            ls$residencia/sobral
+
+      obito$o1651-8/6/5/1651/fl.114/francisco de sousa (vigario de sao joao)/obs=o livro foi visto em 23 de maio de 1651
+
+         n$diogo dias/m/id=o1651-8-per1
+
+         locf$carregal
+
+         testamento$nao
+
+         locs$adro da igreja de sao joao
+
+         mulher$domingas antunes/id=o1651-8-per2
+
+      obito$o1651-9/11/9/1651/fl.114v./francisco de sousa (vigario de sao joao)
+
+         n$pedro leitao/m/id=o1651-9-per1
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$domingas bras/id=o1651-9-per2
+            ls$residencia/sobral
+
+      obito$o1651-10/5/11/1651/fl.114v./francisco de sousa (vigario de sao joao)
+
+         n$maria ferreira/f/id=o1651-10-per1
+            ls$ec/viuva
+
+         locf$arelho
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+         marido$ambrosio luis/id=o1651-10-per2
+            ls$morto/antes
+
+      obito$o1652-1/10/2/1652/fl.114v./francisco de sousa (vigario de sao joao)
+
+         n$mateus antunes/m/id=o1652-1-per1
+
+         locf$arelho
+
+         locs$igreja de sao tiago, "por asim o dispor"
+
+         testamento$nao
+
+         oficios$sim/obs=3 oficios
+
+         mulher$francisca fernandes/id=o1652-1-per2
+
+      obito$o1652-2/22/2/1652/fl.115/francisco de sousa (vigario de sao joao)
+
+         n$maria coutinha/f/id=o1652-2-per1
+            ls$residencia/casal da cumeira
+
+         locf$freguesia de sao joao
+
+         testamento$nao
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+      obito$o1652-3/24/10/1652/fl.115/francisco de sousa (vigario de sao joao)
+
+         n$domingas bras/f/id=o1652-3-n
+
+         locf$sobral
+
+         locs$dentro da igreja de sao joao
+
+         testamento$sim/obs=jorge leitao do sobral e seu testamenteiro
+
+         oficios$sim/obs=3 oficios
+
+         marido$pedro leitao/id=o1652-3-per1
+
+         referido$jorge leitao/id=o1652-3-per2
+            ls$residencia/sobral
+            rel$sociabilidade/testamenteiro/domingas bras/o1652-3-n
+
+      obito$o1652-4/25/10/1652/fl.115/francisco de sousa (vigario de sao joao)
+
+         n$pedro/m/id=o1652-4-per1
+
+         locf$sobral
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+         pai$jorge leitao/id=o1652-4-per2
+
+      obito$o1652-5/26/10/1652/fl.115v./francisco de sousa (vigario de sao joao)
+
+         n$jorge/m/id=o1652-5-per1
+
+         locf$sobral
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+         pai$jorge leitao/id=o1652-5-per2
+
+      obito$o1652-6/22/11/1652/fl.115v./francisco de sousa (vigario de sao joao)
+
+         n$luis dias/m/id=o1652-6-per1
+            ls$residencia/sobral
+
+         locf$freguesia de sao joao
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$maria luis/id=o1652-6-per2
+            ls$residencia/sobral
+
+      obito$o1653-1/1/1/1653/fl.116/francisco de sousa (vigario de sao joao)
+
+         n$jorge fernandes/m/id=o1653-1-per1
+
+         locf$arelho
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$francisca leitoa/id=o1653-1-per2
+
+      obito$o1653-2/2/1/1653/fl.116/francisco de sousa (vigario de sao joao)/obs=o livro foi visto em visitação.
+
+         n$antonio silvestre/m/id=o1653-2-per1
+
+         locf$sobral
+
+         locs$adro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$maria dias/id=o1653-2-per2
+
+      obito$o1653-3/14/5/1653/fl.116/francisco de sousa (vigario de sao joao)
+
+         n$luis fernandes/m/id=o1653-3-per1
+            ls$residencia/arelho
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$joana rodrigues/id=o1653-3-per2
+            ls$residencia/arelho
+
+      obito$o1653-4/27/5/1653/fl.116v./francisco de sousa (vigario de sao joao)
+
+         n$iria luis/f/id=o1653-4-per1
+
+         locs$dentro da igreja de sao joao
+
+         locf$sobral
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         marido$alvaro dias/id=o1653-4-per2
+
+      obito$o1653-5/17/6/1653/fl.116v./francisco de sousa (vigario de sao joao)
+
+         n$margarida luis/f/id=o1653-5-per1
+            ls$ec/viuva
+
+         locf$sobral
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+      obito$o1653-6/14/7/1653/fl.116v./francisco de sousa (vigario de sao joao)
+
+         n$catarina luis/f/id=o1653-6-per1
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         marido$pedro manuel/id=o1653-6-per2
+
+      obito$o1653-7/6/8/1653/fl.117/francisco de sousa (vigario de sao joao)
+
+         n$francisco goncalves/m/id=o1653-7-per1
+            ls$residencia/arelho
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$maria francisca/id=o1653-7-per2
+
+      obito$o1653-8/7/8/1653/fl.117/francisco de sousa (vigario de sao joao)
+
+         n$maria lopes/f/id=o1653-8-per1
+
+         locs$dentro da igreja de sao joao
+
+         locf$arelho
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         marido$adao dias/id=o1653-8-per2
+
+      obito$o1653-9/15/11/1653/fl.117/francisco de sousa (vigario de sao joao)
+
+         n$maria/f/id=o1653-9-per1
+            ls$ec/solteira
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         pai$domingos fernandes/id=o1653-9-per2
+            ls$residencia/sobral
+
+      obito$o1653-10/17/11/1653/fl.117v./francisco de sousa (vigario de sao joao)
+
+         n$andresa ferreira/f/id=o1653-10-per1
+            ls$ec/viuva
+            ls$residencia/sobral
+
+         locs$dentro da igreja de sao joao
+
+         testamento$nao
+
+         marido$pedro goncalves/id=o1653-10-per2
+            ls$morto/antes
+
+      obito$o1653-11/17/12/1653/fl.117v./francisco de sousa (vigario de sao joao)
+
+         n$diogo dias/m/id=o1653-11-per1
+            ls$pobre/sim
+            ls$ec/viuvo
+            ls$residencia/carregal
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1654-1/10/5/1654/fl.117v./francisco de sousa (vigario de sao joao)
+
+         n$farncisca pires/f/id=o1654-1-per1
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         oficios$sim/obs=1 oficio
+
+         testamento$nao
+
+      obito$o1654-2/14/11/1654/fl.118/francisco de sousa (vigario de sao joao)
+
+         n$isabel martins/f/id=o1654-2-per1
+            ls$ec/viuva
+            ls$residencia/casal da figueira
+            ls$pobre/sim
+
+         locs$adro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         marido$mateus fernandes/id=o1654-2-per2
+            ls$residencia/casal da figueira
+            ls$morta/antes
+
+      obito$o1655-1/19/3/1655/fl.118/francisco de sousa (vigario de sao joao)
+
+         n$gaspar franco/m/id=o1655-1-per1
+
+         locf$arelho
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$maria fernandes/id=o1655-1-per2
+
+      obito$o1655-2/3/6/1655/fl.118/francisco de sousa (vigario de sao joao)
+
+         n$filipa dias/f/id=o1655-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$baltazar dias/id=o1655-2-per2
+            ls$residencia/arelho
+
+      obito$o1655-3/25/8/1655/fl.118v./francisco de sousa (vigario de sao joao)
+
+         n$isabel/f/id=o1655-3-per1
+            ls$ec/solteira
+            ls$pobre/sim
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         pai$manuel vicente/id=o1655-3-per2
+
+         mae$catarina martins/id=o1655-3-per3
+
+      obito$o1655-4/16/10/1655/fl.118v./francisco de sousa (vigario de sao joao)
+
+         n$jeronimo ferreira/m/id=o1655-4-per1
+            ls$residencia/sobral
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         mulher$maria goncalves/id=o1655-4-per2
+            ls$residencia/sobral
+
+      obito$o1655-5/1/12/1655/fl.118v./francisco de sousa (vigario de sao joao)
+
+         n$antonio da cruz/m/obs="faleceo o irmam antonio da crus ermitam de nossa senhora do carmo"/id=o1655-5-per1
+            ls$cargo/ermitao de nossa senhora do carmo
+
+         locs$igreja de nossa senhora do carmo
+
+         testamento$nao

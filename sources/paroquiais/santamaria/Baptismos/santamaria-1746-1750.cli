@@ -1,0 +1,3138 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$baptismos1746-1750/localizacao-a.d.l./freguesia de santa maria de obidos
+
+      bap$b1746-1/16/1/1746/fl.79-79v./igreja de santa maria/sebastiao ferreira (reverendo, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$francisco/m/id=b1746-1-per1
+            ls$datanasc/17460106
+
+         pn$joao lopes/id=b1746-1-per2
+            ls$residencia/obidos
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$teresa maria/id=b1746-1-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$joao monteiro malhao/id=b1746-1-pad
+
+         ppad$estevao correia malhao/id=b1746-1-ppad
+
+         mad$francisca antonia de sao joao/id=b1746-1-per4
+
+         pmad$estevao correia malhao/mesmo_que=b1746-1-ppad/id=b1746-1-per5
+            rel$parentesco/irmao/joao monteiro malhao/b1746-1-pad
+
+         procurador-mad$joao monteiro malhao/mesmo_que=b1746-1-pad/id=b1746-1-per6
+
+      bap$b1746-2/18/1/1746/fl.79v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1746-2-n
+            ls$enjeitada/sim/obs="exposta aos doze do dito mes no cazal da boa vista a porta de manoel ferreira carvoeiro foi emtregue pera a criar a mariana da comceycao mulher de antonio ferreira desta villa"
+
+         pn$nome desconhecido/id=b1746-2-per1
+
+         mn$nome desconhecido/id=b1746-2-per2
+
+         pad$caetano da cruz/id=b1746-2-per3
+            ls$cargo/procurador do concelho
+
+         referida$mariana da conceicao/id=b1746-2-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria/b1746-2-n
+
+         referido$antonio ferreira/id=b1746-2-per4
+            ls$residencia/obidos
+            rel$parentesco/marido/mariana da conceicao/b1746-2-referida
+
+         referido$manuel ferreira/id=b1746-2-per5
+            ls$profissao/carvoeiro
+            ls$residencia/casal da boa vista
+            rel$sociabilidade/achou a crianca/maria/b1746-2-n
+
+      bap$b1746-3/22/1/1746/fl.79v.-80/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$joaquim/m/id=b1746-3-n
+            ls$datanasc/17451230/obs=foi baptizado em casa
+
+         pn$isidoro franco/id=b1746-3-per1
+            ls$locbaptismo/freguesia de santo estevao de alfama
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$joana margariga/id=b1746-3-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$marcelino luis/id=b1746-3-per3
+            ls$residencia/a da gorda
+
+         mad$maria soares/id=b1746-3-per4
+            ls$residencia/a da gorda
+
+         referido$nome desconhecido/id=b1746-3-per5
+            rel$sociabilidade/baptizou em necessidade/joaquim/b1746-3-n
+
+      bap$b1746-4/30/1/1746/fl.80/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1746-4-per1
+            ls$datanasc/170129
+
+         pn$joao baptista/id=b1746-4-per2
+            ls$naturalidade/freguesia de sao simao, vermelha
+            ls$loccasamento/freguesia de sao pedro
+            ls$residencia/obidos
+
+         mn$esmeresiana teresa/id=b1746-4-per3
+            ls$naturalidade/obidos
+            ls$freguesia/sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$jose joaquim pacheco/id=b1746-4-per4
+            ls$residencia/baracais
+
+         mad$joana maria/id=b1746-4-per5
+
+         mrmad$mateus jose/id=b1746-4-mrmad
+
+         procurador-mad$mateus jose/mesmo_que=b1746-4-mrmad/id=b1746-4-per6
+
+      bap$b1746-5/3/2/1746/fl.80v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$diogo/m/id=b1746-5-per1
+            ls$datanasc/17460116
+
+         pn$manuel antonio/id=b1746-5-per2
+            ls$naturalidade/freguesia de sao joao, porto de mos, bispado de leiria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$teresa de jesus/id=b1746-5-per3
+            ls$naturalidade/a da gorda
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$diogo jose de melo/id=b1746-5-pad
+            ls$residencia/lisboa
+
+         procurador-pad$fernando antonio/id=b1746-5-per4
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad$feliciana maria teresa/id=b1746-5-per5
+            ls$titulo/dona
+
+         mrmad$diogo jose de melo/mesmo_que=bb1746-5-pad/id=b1746-5-per6
+
+         procurador-mad$antonio de macedo/id=b1746-5-per7
+            ls$residencia/obidos
+            ls$titulo/reverendo
+            ls$profissao/padre
+
+      bap$b1746-6/6/2/1746/fl.80v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$joao/m/id=b1746-6-per1
+            ls$datanasc/17460127
+
+         pn$silverio da silva/id=b1746-6-per2
+            ls$residencia/freguesia de nossa senhora do populo, caldas
+            ls$loccasamento/freguesia de sao sebastiao, vimeiro
+            ls$residencia/gaeiras de sao marcos
+
+         mn$francisca maria/id=b1746-6-per3
+            ls$locbaptismo/freguesia de sao sebastiao, vimeiro
+            ls$loccasamento/freguesia de sao sebastiao, vimeiro
+
+         pad$domingos delgado/id=b1746-6-per4
+
+         mad$josefa maria/id=b1746-6-per5
+
+      bap$b1746-7/13/2/1746/fl.81/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$ana/f/id=b1746-7-per1
+            ls$datanasc/17460101
+
+         pn$manuel francisco/id=b1746-7-per2
+            ls$locbaptismo/freguesia dos vidais
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$felicia maria/id=b1746-7-per3
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$mateus jose/id=b1746-7-per4
+
+         mad$luisa teresa/id=b1746-7-per5
+
+      bap$b1746-8/21/2/1746/fl.81/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$luisa/f/id=b1746-8-per1
+            ls$datanasc/17460213
+
+         pn$manuel marques/id=b1746-8-per2
+            ls$residencia/gaeiras de sao marcos
+            ls$naturalidade/freguesia de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$paula maria/id=b1746-8-per3
+            ls$naturalidade/freguesia do vimeiro
+            ls$loccasamento/igreja de santa maria
+
+         pad$manuel freire/id=b1746-8-pad
+
+         mad$luisa maria da conceicao/id=b1746-8-per4
+
+         mrmad$manuel freire/mesmo_que=b1746-8-pad/id=b1746-8-per5
+
+      bap$b1746-9/20/4/1746/fl.81v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$bernardo/m/id=b1746-9-per1
+            ls$datanasc/17460407
+
+         pn$antonio da silva neves/id=b1746-9-per2
+            ls$naturalidade/a da gorda
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$antonia maria/id=b1746-9-per3
+            ls$naturalidade/quinta do jardim, freguesia de sao tiago
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$bernardo luis/id=b1746-9-per4
+            ls$residencia/columbeira
+
+      bap$b1746-10/24/4/1746/fl.81v./igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$pedro/m/id=b1746-10-n
+            ls$datanasc/17460410
+
+         pn$antonio pereira/id=b1746-10-pn
+            ls$residencia/a da gorda
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/igreja de santa maria
+
+         mn$antonia da encarnacao/id=b1746-10-mn
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$teodosio de abreu e silva/id=b1746-10-per1
+            ls$cargo/beneficiado
+            ls$cargo/paroco na igreja de santa maria/obs=paroco que faz o registo
+
+      bap$b1746-11/24/4/1746/fl.82/igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1746-11-n
+            rel$parentesco/irmao gemeo/pedro/b1746-10-n
+            ls$datanasc/17460410
+
+         pn$antonio pereira/mesmo_que=b1746-10-pn/id=b1746-11-per1
+            ls$residencia/a da gorda
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/igreja de santa maria
+
+         mn$antonia da encarnacao/mesmo_que=b1746-10-mn/id=b1746-11-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$joao pinto de miranda/id=b1746-11-per3
+            ls$cargo/beneficiado
+
+      bap$b1746-12/24/4/1746/fl.82/igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$antonio bernardo/m/id=b1746-12-per1
+            rel$parentesco/irmao gemeo/pedro/b1746-10-n
+            rel$parentesco/irmao gemeo/jose/b1746-11-n
+            ls$datanasc/17460410
+
+         pn$antonio pereira/mesmo_que=b1746-10-pn/id=b1746-12-per2
+            ls$residencia/a da gorda
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/igreja de santa maria
+
+         mn$antonia da encarnacao/mesmo_que=b1746-10-mn/id=b1746-12-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio correia manuel de aboim/id=b1746-12-per4
+
+      bap$b1746-13/3/5/1746/fl.82v./igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$francisco/m/id=b1746-13-per1
+            ls$datanasc/17460420
+
+         pn$nicolau goncalves/id=b1746-13-per2
+            ls$residencia/casal do azambujeiro
+
+         ppn$francisco goncalves/id=b1746-13-per3
+            ls$residencia/bairro
+            ls$morto/antes
+
+         mpn$paula de basto/id=b1746-13-per4
+            ls$residencia/bairro
+            ls$morto/antes
+
+         mn$mariana teresa/id=b1746-13-per5
+
+         pmn$antonio joao/id=b1746-13-per6
+            ls$residencia/casal das caxinas
+            ls$morto/antes
+
+         mmn$francisca de oliveira/id=b1746-13-per7
+            ls$residencia/casal das caxinas
+            ls$morto/antes
+
+         pad$silvestre francisco/id=b1746-13-per8
+            ls$profissao/oficial de canteiro
+
+         mad$ines maria/id=b1746-13-per9
+
+         mrmad$joaquim manuel/id=b1746-13-per10
+
+      bap$b1746-14/9/6/1746/fl.82v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$francisco felix/m/id=b1746-14-per1
+            ls$datanasc/17460518
+
+         pn$bernardo pedro/id=b1746-14-per2
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+            ls$residencia/arrabalde
+
+         mn$luisa angela de almeida/id=b1746-14-per3
+            ls$titulo/dona
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad$jose soares de almeida/id=b1746-14-per4
+            ls$cargo/beneficiado
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao pedro
+            ls$residencia/obidos
+
+         mad$antonia teodora de almeida/id=b1746-14-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      bap$b1746-15/26/6/1746/fl.83/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$feliciana/f/id=b1746-15-per1
+            ls$datanasc/17460612
+
+         pn$manuel freire de andrade/obs=filho de pais incognitos/id=b1746-15-per2
+
+         ppn$nome desconhecido/id=b1746-15-per3
+
+         mpn$nome desconhecido/id=b1746-15-per4
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/senhora da pedra
+
+         mn$luisa maria/id=b1746-15-per5
+            ls$locbaptismo/freguesia de sao pedro da capanhosa?
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio jose de abreu e oliveira/id=b1746-15-per6
+            ls$titulo/doutor
+
+         mad$feliciana doroteia de seixas e abreu/id=b1746-15-mad
+            ls$titulo/dona
+            ls$residencia/landal
+
+         procurador-mad$bernardo ferreira de abreu e oliveira/id=b1746-15-per7
+            ls$titulo/doutor
+            rel$parentesco/tio/feliciana doroteia de seixas e abreu/b1746-15-mad
+            ls$residencia/landal
+
+      bap$b1746-16/3/7/1746/fl.83/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1746-16-per1
+            ls$datanasc/17460619
+
+         pn$manuel da silva/id=b1746-16-per2
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/casais de alentejo
+
+         mn$bernarda ferreira/id=b1746-16-per3
+            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio da silva rego/id=b1746-16-per4
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$cargo/cura da igreja da mouta%mouta
+
+         mad$joana maria/id=b1746-16-per5
+
+         pmad$domingos ferreira/id=b1746-16-per6
+            ls$residencia/barrocalvo
+
+      bap$b1746-17/6/7/1746/fl.83v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$luisa/f/id=b1746-17-per1
+            ls$datanasc/17460615
+
+         pn$joao de abreu e silva/id=b1746-17-per2
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro, carvalhal/obs=nasceu em a dos ruivos
+            ls$loccasamento/freguesia de sao jorge, lisboa
+
+         mn$francisca durao de sa/id=b1746-17-per3
+            ls$naturalidade/minas? do rio
+            ls$locbaptismo/ribeirao do carmo
+            ls$loccasamento/freguesia de sao jorge, lisboa
+
+         pad$joao felix de brito pegado/id=b1746-17-per4
+            ls$cargo/capitao mor
+            ls$residencia/obidos
+
+         mad$nome desconhecido/id=b1746-17-per5
+            ls$titulo/condessa da guerra
+            ls$cargo/camareira da rainha%camarista da rainha nossa senhora ?
+
+         mrmad$gregorio ferreira de sa/id=b1746-17-per6
+            ls$residencia/quinta do foradouro%quinta do foradoiro
+
+         procurador-mad$antonio correia manuel de aboim/id=b1746-17-per7
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+
+      bap$b1746-18/12/7/1746/fl.84/igreja de santa maria/sebastiao ferreira e silva (doutor, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$joao/m/id=b1746-18-per1
+            ls$datanasc/17460706
+
+         pn$francisco de sousa/id=b1746-18-per2
+            ls$locbaptismo/freguesia de sao joao de mocharro
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria de freitas/id=b1746-18-per3
+            ls$locbaptismo/freguesia de nossa senhora da piedade, vidais
+            ls$loccasamento/freguesia de santa maria
+
+         pad$jose de freitas e paiva/id=b1746-18-per4
+
+         mad$feliciana maria de gois/id=b1746-18-per5
+            rel$parentesco/sobrinha/manuel gomes de gois/b1746-18-referido
+
+         referido$manuel gomes de gois/id=b1746-18-referido
+
+      bap$b1746-19/26/7/1746/fl.84/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$maximo joaquim/m/id=b1746-19-per1
+            ls$datanasc/17460717
+
+         pn$manuel correia rufino/id=b1746-19-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/caldas
+            ls$residencia/obidos
+
+         mn$joana maria/id=b1746-19-per3
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/caldas
+
+         pad$maximo joaquim de almeida/id=b1746-19-per4
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad$teresa caetana/id=b1746-19-per5
+            ls$residencia/obidos
+
+      bap$b1746-20/7/8/1746/fl.84v./igreja de santa maria/lourenco pereira (beneficiado, padre, cura da igreja da rolica)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$caetana/f/id=b1746-20-per1
+            ls$datanasc/17460725
+
+         pn$manuel pereira/id=b1746-20-per2
+            ls$residencia/a da gorda
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/ermida de santo antonio, a da gorda, anexa da igreja matriz de santa maria
+
+         mn$josefa teresa/id=b1746-20-per3
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/ermida de santo antonio, a da gorda, anexa da igreja matriz de santa maria
+
+         pad$paulo de sesimbra%paullo de sezimbra/id=b1746-20-per4
+
+      bap$b1746-21/28/8/1746/fl.84v.-85/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$manuel/m/id=b1746-21-per1
+            ls$datanasc/17460815
+
+         pn$manuel francisco/id=b1746-21-per2
+            ls$residencia/gaeiras de sao marcos
+            ls$locbaptismo/freguesia de antanhol, bispado de coimbra
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$catarina pereira/id=b1746-21-per3
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$domingos/id=b1746-21-per4
+
+         ppad$manuel ferreira/id=b1746-21-per5
+            ls$residencia/casais
+
+         mpad$maria henriques/id=b1746-21-mpad
+
+         mad$maria henriques/mesmo_que=b1746-21-mpad/id=b1746-21-per6
+
+      bap$b1746-22/4/9/1746/fl.85/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$joaquim/m/id=b1746-22-per1
+            ls$datanasc/17460821
+
+         pn$antonio soares/id=b1746-22-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$residencia/santa maria
+            ls$loccasamento/ermida de santo antonio, a da gorda
+
+         mn$joana gerarda nogueira/id=b1746-22-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/ermida de santo antonio, a da gorda
+
+         pad$gregorio ferreira de eca/id=b1746-22-pad
+
+         mad$luisa guerra/id=b1746-22-per4
+            ls$titulo/dona
+            ls$titulo/excelentissima
+            ls$titulo/condessa da guerra
+            ls$cargo/dama da rainha
+
+         mrmad$gregorio ferreira de eca/mesmo_que=b1746-22-pad/id=b1746-22-per5
+
+      bap$b1746-23/12/9/1746/fl.85v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$januario/m/id=b1746-23-per1
+            ls$datanasc/17460904
+
+         pn$antonio do ?/id=b1746-23-per2
+            ls$locbaptismo/freguesia de sao tiago, braga
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/obidos
+
+         mn$antonia joaquina/id=b1746-23-per3
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$manuel gomes/id=b1746-23-per4
+            ls$residencia/quinta de alentejo
+
+         mad$isabel maria/id=b1746-23-per5
+            ls$ec/v
+            ls$residencia/obidos
+
+      bap$b1746-24/18/9/1746/fl.85v.-86/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$pedro/m/id=b1746-24-per1
+            ls$datanasc/1746
+
+         pn$amaro francisco/id=b1746-24-per2
+            ls$locbaptismo/freguesia de sao joao de mocharro
+            ls$residencia/gaeiras de sao marcos
+
+         mn$josefa maria/id=b1746-24-per3
+            ls$locbaptismo/freguesia de sao pedro
+
+         pad$pedro antunes/id=b1746-24-per4
+            ls$cargo/beneficiado
+
+         mad$sebastiana maria/id=b1746-24-per5
+
+      bap$b1746-25/27/9/1746/fl.86/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1746-25-per1
+            ls$datanasc/17460920/obs="o qual esta no hospital desta villa de obidos com seus pais que tinhão vindo do sitio de nazaret donde tinha nascido"
+
+         pn$estevao jose/id=b1746-25-per2
+            ls$nacionalidade/espanha
+            ls$locbaptismo/freguesia de sao bartolomeu, vila del campilho
+            ls$loccasamento/freguesia de sao miguel de alfama, lisboa
+
+         mn$maria jacinta salgado/id=b1746-25-per3
+            ls$nacionalidade/espanha
+            ls$locbaptismo/freguesia de sao salvador, cidade de uoido/obs=duvida na leitura do toponimo
+            ls$loccasamento/freguesia de sao miguel de alfama, lisboa
+
+         pad$jose rodrigues/id=b1746-25-per4
+            ls$nacionalidade/espanha
+            ls$residencia/obidos
+
+      bap$b1746-26/28/9/1746/fl.86v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$joana/f/id=b1746-26-per1
+            ls$datanasc/17460915
+
+         pn$jeronimo martins e castro/id=b1746-26-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$maria josefa leal/id=b1746-26-per3
+            ls$locbaptismo/freguesia de santa maria madalena, a dos negros
+            ls$loccasamento/igreja de santa maria
+
+         pad$joao da cruz pinheiro/id=b1746-26-per4
+            ls$residencia/lisboa
+
+         procurador-pad$jose leonardo/id=b1746-26-per5
+            ls$residencia/obidos
+
+         mad$anastacia maria de jesus/id=b1746-26-per6
+
+         pmad$manuel antunes correia/id=b1746-26-per7
+
+         procurador-mad$gregorio antunes/id=b1746-26-per8
+
+      bap$b1746-27/0/5/1746/fl.86v.-87/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o paroco joao carlos da silva. "joao carlos da silva, paroco em a igreja matris colegiada de santa maria da vila de obidos, por huma sentenca de justificacao que se proferiu no juizo ecleziastico pelo reverendo doutor vigario geral deste arcediagado, joze de barros de almeida e pera seu despacho me foi ordenado abrise a asento do justificante aos doze dias do mes de fevereiro de mil setecentos e oitenta e nove, o qual he na formalidade seguinte:..."
+
+         n$jose/m/id=b1746-27-per1
+
+         pn$jose gomes/id=b1746-27-per2
+            ls$residencia/casais de alentejo
+
+         mn$josefa maria/id=b1746-27-per3
+
+         pad$jose monteiro/id=b1746-27-per4
+            ls$titulo/doutor
+            ls$residencia/lisboa
+
+         mad$antonia maria/id=b1746-27-per5
+            ls$residencia/casal do frade
+
+      bap$b1746-28/27/9/1746/fl.87/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$ana/f/id=b1746-28-n
+            ls$datanasc/17460907/obs=baptizada em casa por necessidade
+
+         pn$joao da silva/id=b1746-28-per1
+            ls$locbaptismo/nossa senhora de aboboriz, amoreira
+            ls$loccasamento/nossa senhora da conceicao, salir do porto
+            ls$residencia/gaeiras
+
+         mn$francisca maria/id=b1746-28-per2
+            ls$locbaptismo/nossa senhora da conceicao, salir do porto
+            ls$loccasamento/nossa senhora da conceicao, salir do porto
+
+         pad$antonio luis de oliveira/id=b1746-28-per3
+
+         procurador-pad$frutuoso inacio/id=b1746-28-per4
+
+         mad$ana lopes/id=b1746-28-per5
+
+         procurador-mad$joao branco/id=b1746-28-per6
+
+            referido$nome desconhecido/id=b1746-28-per6-per7
+               ls$cargo/presbitero
+               rel$sociabilidade/baptizou em necessidade/ana/b1746-28-n
+
+      bap$b1746-29/13/11/1746/fl.87v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$cristina/f/id=b1746-29-per1
+            ls$datanasc/17460930
+
+         pn$inacio da silva/id=b1746-29-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia de sao nicolau, lisboa
+            ls$residencia/a da gorda
+
+         mn$teresa maria/id=b1746-29-per3
+            ls$locbaptismo/freguesia de nossa senhora da encarnacao, lisboa
+            ls$loccasamento/freguesia de sao nicolau, lisboa
+
+         pad$manuel pereira/id=b1746-29-pad
+            ls$residencia/quinta da granja
+
+         mad$josefa/id=b1746-29-per4
+            ls$residencia/quinta da granja
+
+         pmad$manuel pereira/mesmo_que=b1746-29-pad/id=b1746-29-per5
+            ls$residencia/quinta da granja
+
+      bap$b1747-1/29/1/1747/fl.87v.-88/igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1747-1-per1
+            ls$datanasc/17470123
+
+         pn$caetano da silva/id=b1747-1-per2
+            ls$residencia/obidos
+            ls$naturalidade/arelho
+            ls$freguesia/sao joao
+
+         mn$maria micaela/id=b1747-1-per3
+            ls$naturalidade/a da gorda
+
+         pad$bernardino da fonseca/id=b1747-1-per4
+            ls$cargo/sargento mor
+            ls$residencia/peniche
+
+         procurador-pad$jose farto/id=b1747-1-per5
+
+         mad$damiana placida/id=b1747-1-mad
+
+         pmad$manuel antunes/id=b1747-1-per6
+            ls$residencia/obidos
+
+         procurador-mad$pedro antunes/id=b1747-1-per7
+            ls$cargo/beneficiado
+            rel$parentesco/irmao/damiana placida/b1747-1-mad
+
+      bap$b1747-2/1/2/1747/fl.88/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$paulo/m/id=b1747-2-per1
+            ls$datanasc/17470125
+
+         pn$jose henriques/id=b1747-2-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de sao joao
+            ls$residencia/sao joao
+
+         mn$luisa maria/id=b1747-2-per3
+            ls$locbaptismo/igreja de sao tiago
+            ls$loccasamento/igreja de sao joao
+
+         pad$maximo joaquim de almeida/id=b1747-2-per4
+            ls$profissao/padre
+
+         mad$francisca/id=b1747-2-per5
+            ls$residencia/arrabalde
+
+         pmad$francisco da silva/id=b1747-2-per6
+            ls$residencia/arrabalde
+
+      bap$b1747-3/12/2/1747/fl.88v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1747-3-per1
+            ls$datanasc/17470205
+
+         pn$inacio da silva/id=b1747-3-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/casal de antonio gomes
+            ls$residencia/casais de alentejo
+
+         mn$teresa maria/id=b1747-3-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$domingos ferreira/id=b1747-3-per4
+
+         ppad$manuel ferreira/id=b1747-3-per5
+            ls$residencia/casais de alentejo
+
+      bap$b1747-4/25/1/1747/fl.89/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$catarina/f/id=b1747-4-per1
+            ls$datanasc/17470106
+
+         pn$sebastiao da costa/id=b1747-4-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         ppn$nome desconhecido/id=b1747-4-per3
+
+         mpn$nome desconhecido/obs=filho de pais incognitos/id=b1747-4-per4
+            ls$residencia/obidos
+
+         mn$maria rosa/id=b1747-4-per5
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pmn$jose lopes/id=b1747-4-per6
+
+         mmn$teresa de sao jose/id=b1747-4-per7
+
+         pad$gregorio ferreira de sa/id=b1747-4-per8
+            ls$residencia/obidos
+
+      bap$b1747-5/27/2/1747/fl.89/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$quiteria/f/id=b1747-5-per1
+            ls$datanasc/17470217
+
+         pn$jose gomes/id=b1747-5-per2
+            ls$residencia/casal do moinho
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+
+         mn$maria gomes/id=b1747-5-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$joaquim gomes/id=b1747-5-per4
+            ls$residencia/fraldeu
+
+         mad$quiteria maria/id=b1747-5-per5
+            ls$residencia/fraldeu
+
+      bap$b1747-6/4/3/1747/fl.89v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1747-6-per1
+            ls$datanasc/17470221
+
+         pn$joao nunes da mata/id=b1747-6-per2
+            ls$residencia/arrabalde
+            ls$naturalidade/freguesia de sao lucas, freiria
+            ls$loccasamento/igreja de santa maria
+
+         mn$josefa da conceicao/id=b1747-6-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$joao felix de brito pegado/id=b1747-6-per4
+            ls$cargo/capitao mor
+
+         mad$rosa joaquina/id=b1747-6-per5
+
+         pmad$manuel baptista/id=b1747-6-pmad
+
+         procurador-mad$manuel baptista/mesmo_que=b1747-6-pmad/id=b1747-6-per6
+
+      bap$b1747-7/25/3/1747/fl.89v.-90/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1747-7-per1
+            ls$datanasc/17470317
+
+         pn$jose gomes caria/id=b1747-7-per2
+            ls$residencia/a da gorda
+            ls$naturalidade/famalicao
+            ls$locbaptismo/freguesia de famalicao
+            ls$loccasamento/freguesia de santa maria
+
+         mn$engracia maria/id=b1747-7-per3
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$jose henriques/id=b1747-7-per4
+            ls$residencia/a da gorda
+
+         mad$teresa maria/id=b1747-7-per5
+            ls$residencia/a da gorda
+
+      bap$b1747-8/8/4/1747/fl.90/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+         n$ana/f/id=b1747-8-per1
+            ls$datanasc/17470327
+
+         pn$manuel de faria/id=b1747-8-per2
+            ls$residencia/obidos, porta do vale
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$rosa francisca/id=b1747-8-per3
+            ls$locbaptismo/freguesia de sao pedro, carvalhal
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$manuel borges machado/id=b1747-8-per4
+            ls$residencia/lisboa
+
+         mad$luisa guerra/id=b1747-8-per5
+            ls$titulo/excelentissima
+            ls$titulo/condessa da guerra
+            ls$titulo/dona
+            ls$cargo/dama
+            ls$cargo/camareira da rainha
+
+      bap$b1747-9/15/4/1747/fl.90/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$ursula/f/id=b1747-9-per1
+            ls$datanasc/17470406
+
+         pn$joao correia/id=b1747-9-per2
+            ls$naturalidade/del luy?
+            ls$locbaptismo/se%séé
+            ls$loccasamento/freguesia de sao miguel dos agros, compostela
+            ls$residencia/senhor da pedra
+
+         mn$maria lhanes freire?/id=b1747-9-per3
+            ls$locbaptismo/freguesia de sao marcos, lugo, galiza
+            ls$loccasamento/freguesia de sao miguel dos agros, compostela
+
+         pad$domingos goncalves/id=b1747-9-per4
+            ls$residencia/senhor da pedra
+
+      bap$b1747-10/3/5/1747/fl.90v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$miguel/m/id=b1747-10-per1
+            ls$datanasc/17470423
+
+         pn$manuel pereira/id=b1747-10-per2
+            ls$residencia/quinta da navalha
+            ls$locbaptismo/freguesia de sao lourenco, maiorga
+            ls$loccasamento/freguesia de sao lourenco, maiorga
+
+         mn$angela da silva/id=b1747-10-per3
+            ls$locbaptismo/freguesia de sao lourenco, maiorga
+            ls$cargo/freguesia de sao lourenco, maiorga
+
+         pad$joao da costa freire/id=b1747-10-per4
+            ls$residencia/lisboa
+
+         procurador-pad$jose leonardo/id=b1747-10-per5
+
+         mad$vitoria inacia da rosa/id=b1747-10-per6
+            ls$titulo/dona
+            ls$residencia/lisboa
+
+      bap$b1747-11/5/5/1747/fl.90v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva"aos sinco dias do mes de maio de ximo joaquim de almeida de que fis este acento por ordem do mesmo senhor ao que acento do baptismo fica a folhas 29 era ut supra"
+
+         n$francisco/m/obs=nome inicial deo gracias/id=b1747-11-per1
+
+         pn$francisco de sousa/id=b1747-11-per2
+
+         mn$maria de freitas/id=b1747-11-per3
+
+         pad$maximo joaquim de almeida/id=b1747-11-per4
+
+      bap$b1747-12/10/5/1747/fl.91/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1747-12-per1
+            ls$datanasc/17470427
+
+         pn$antonio mendes/id=b1747-12-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/obidos
+
+         mn$maria teresa dos anjos/id=b1747-12-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio moreira chaves/id=b1747-12-per4
+
+         ppad$antonio moreira/id=b1747-12-per5
+            ls$residencia/obidos
+
+      bap$b1747-13/23/5/1747/fl.91/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$manuel/m/id=b1747-13-per1
+            ls$datanasc/17470515
+
+         pn$francisco da silva/id=b1747-13-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia de nossa senhora dos anjos, coto
+            ls$residencia/obidos
+
+         mn$maria craveira/id=b1747-13-per3
+            ls$locbaptismo/freguesia de nossa senhora do populo, caldas
+            ls$loccasamento/freguesia de nossa senhora dos anjos, coto
+
+         pad$manuel pinheiro coimbrao%manoel pinheiro coimbram/id=b1747-13-per4
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$cargo/vigario geral
+            ls$residencia/obidos
+
+         mad$leonor inacia de azevedo/id=b1747-13-mad/obs=duvida na leitura do apelido
+            ls$titulo/dona
+
+         procurador-mad$bernardo antonio/id=b1747-13-per5
+            ls$titulo/doutor
+            rel$parentesco/irmao/leonor inacia de azevedo/b1747-13-mad
+
+      bap$b1747-14/1/6/1747/fl.91v./igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1747-14-n
+            ls$datanasc/17470522/obs=baptizada em casa "por vir fraca"
+
+         pn$manuel fernandes/id=b1747-14-per1
+            ls$naturalidade/freguesia de santo andre, esgueira, bispado de coimbra
+            ls$locbaptismo/freguesia de santo andre, esgueira, bispado de coimbra
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/santa maria
+
+         mn$maria nobre/id=b1747-14-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de santa maria
+
+         pad$leonardo jose de arruda/id=b1747-14-per3
+            ls$residencia/obidos
+
+         mad$joana baptista/id=b1747-14-per4
+            ls$residencia/obidos
+
+         mrmad$manuel da mota/id=b1747-14-per5
+            ls$residencia/obidos
+
+         referido$pedro antunes/id=b1747-14-per6
+            ls$cargo/beneficiado
+            rel$sociabilidade/baptizou em necessidade/maria/b1747-14-n
+
+         referido$sebastiao ferreira/id=b1747-14-per7
+            ls$titulo/doutor
+            ls$cargo/economo da igreja de santa maria
+            rel$sociabilidade/baptizou sub conditione/maria/b1747-14-n/obs=foi baptizada sub conditione "por declarasam que fez o dito beneficiado o que a tinha em caza baptizado"
+
+      bap$b1747-15/14/6/1747/fl.92/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$manuel/m/id=b1747-15-per1
+            ls$datanasc/17470528
+
+         pn$antonio jose madeira/id=b1747-15-per2
+            ls$cargo/capitao
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao salvador, bombarral
+
+         mn$maria teodora/id=b1747-15-per3
+            ls$titulo/dona
+            ls$locbaptismo/freguesia de santa maria do castelo, torres vedras
+            ls$loccasamento/freguesia de sao salvador, bombarral
+
+         pad$manuel luis pereira/id=b1747-15-per4
+            ls$residencia/lisboa
+
+         procurador-pad$manuel de faria/id=b1747-15-per5
+            ls$residencia/obidos
+
+      bap$b1747-16/10/7/1747/fl.92/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1747-16-per1
+            ls$datanasc/17470628
+
+         pn$jose de matos/id=b1747-16-per2
+            ls$residencia/a da gorda
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$ana maria/id=b1747-16-per3
+            ls$locbaptismo/freguesia de santa maria madalena, a dos negros
+            ls$loccasamento/freguesia de santa maria
+
+         pad1$lourenco pereira/id=b1747-16-per4
+            ls$profissao/padre
+            ls$cargo/cura da igreja da rolica
+
+         pad2$valeriano gomes henriques/id=b1747-16-per5
+            ls$profissao/padre
+
+      bap$b1747-17/30/7/1747/fl.92v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$inacio/m/id=b1747-17-per1
+            ls$datanasc/17470717
+
+         pn$jose francisco/id=b1747-17-per2
+            ls$residencia/a da gorda
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$teresa dos prazeres/id=b1747-17-per3
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$francisco de matos/id=b1747-17-per4
+            ls$cargo/cura da igreja de sao tiago
+
+         mad$doroteia inacia do desterro/id=b1747-17-per5
+
+         pmad$andre ribeiro/id=b1747-17-per6
+            ls$residencia/a da gorda
+
+      bap$b1747-18/10/9/1747/fl.92v./igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$ana/f/id=b1747-18-per1
+            ls$datanasc/17470828
+
+         pn$jose luis/id=b1747-18-per2
+            ls$residencia/gaeiras de sao marcos
+            ls$locbaptismo/igreja de santa maria
+
+         mn$felicia maria/id=b1747-18-per3
+            ls$locbaptismo/freguesia do vimeiro, termo de torres vedras
+
+         pad$manuel francisco/id=b1747-18-per4
+            ls$ec/s
+
+         ppad$antonio francisco/id=b1747-18-per5
+            ls$residencia/a dos negros
+
+         mad$ana da silva/id=b1747-18-per6
+            ls$residencia/gaeiras
+
+      bap$b1747-19/24/9/1747/fl.93/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1747-19-per1
+            ls$datanasc/17470914
+
+         pn$manuel goncalves/id=b1747-19-per2
+            ls$residencia/senhor da pedra
+            ls$naturalidade/freguesia de nossa senhora da natividade, vila cova, arcebispado de coimbra
+            ls$loccasamento/freguesia de nossa senhora da encarnacao, lisboa
+
+         mn$vitoria luisa/id=b1747-19-per3
+            ls$naturalidade/freguesia de refugio do lima, arcebispado de braga
+            ls$loccasamento/freguesia de nossa senhora da encarnacao, lisboa
+
+         pad$antonio jose de arruda/id=b1747-19-per4
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+      bap$b1747-20/16/10/1747/fl.93/igreja de santa maria/jose de matos (padre, cura da igreja de sao tiago)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$manuel/m/id=b1747-20-per1
+            ls$datanasc/17471006
+            ls$ilegitimo/sim
+
+         pn$jose dos reis/id=b1747-20-per2
+            ls$naturalidade/bispado do porto/obs="que estando ajustado para cazar e de portas adentro se auzentou dizendo hia buscar os pregois e nam pareceo mais athe o prezente"
+
+         mn$clemencia maria/id=b1747-20-per3
+            ls$naturalidade/moinhos de matatripas
+            ls$locbaptismo/freguesia de santa maria
+
+         pad$sebastiao fernandes da costa/id=b1747-20-per4
+            ls$residencia/obidos
+
+         mad$maria nobre/id=b1747-20-per5
+
+      bap$b1747-21/29/10/1747/fl.93v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1747-21-per1
+            ls$datanasc/17471020
+
+         pn$antonio gomes/id=b1747-21-per2
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$residencia/moinhos de fraldeu
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria da nazare/id=b1747-21-per3
+            ls$locbaptismo/freguesia de sao pedro, carvalhal
+            ls$loccasamento/freguesia de santa maria
+
+         pad$manuel de sequeira/id=b1747-21-per4
+            ls$residencia/moinhos de fraldeu
+
+         mad$antonia maria/id=b1747-21-per5
+
+      bap$b1747-22/5/11/1747/fl.93v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1747-22-per1
+            ls$datanasc/17471024
+
+         pn$estevao correia/id=b1747-22-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$hilaria maria/id=b1747-22-per3
+            ls$locbaptismo/freguesia de santa maria madalena, a dos negros
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$pedro antunes correia/id=b1747-22-per4
+            ls$residencia/obidos
+            ls$cargo/beneficiado
+
+         mad$ana maria de matos/id=b1747-22-per5
+            ls$residencia/obidos
+
+      bap$b1747-23/10/12/1747/fl.94/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joaquim/m/id=b1747-23-per1
+            ls$datanasc/17471201
+
+         pn$antonio pedro/id=b1747-23-per2
+            ls$locbaptismo/freguesia de santa maria
+            ls$residencia/a da gorda
+
+         mn$catarina maria/id=b1747-23-per3
+            ls$locbaptismo/freguesia de sao joao
+
+         pad$jose monteiro/id=b1747-23-per4
+            ls$residencia/a da gorda
+
+         mad$josefa umbelina/id=b1747-23-per5
+            ls$residencia/obidos
+
+         pmad$manuel pereira/id=b1747-23-per6
+
+      bap$b1747-24/17/12/1747/fl.94/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1747-24-per1
+            ls$datanasc/17471209
+
+         pn$manuel soares/id=b1747-24-per2
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/gaeiras de sao marcos
+
+         mn$luisa maria/id=b1747-24-per3
+            ls$locbaptismo/igreja de santa maria
+
+         pad$joao henriques/id=b1747-24-per4
+            ls$residencia/caldas
+
+      bap$b1747-25/26/12/1747/fl.94v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joaquim/m/id=b1747-25-per1
+            ls$datanasc/17471212
+
+         pn$domingos saraiva/id=b1747-25-per2
+            ls$locbaptismo/freguesia de fonte arcada, bispado de lamego
+            ls$residencia/senhor da pedra
+
+         mn$teresa maria/id=b1747-25-per3
+            ls$locbaptismo/freguesia de sao simao, vermelha, termo do cadaval
+
+         pad$antonio teixeira/id=b1747-25-per4
+            ls$residencia/senhor da pedra
+
+         mad$maria de belem/id=b1747-25-per5
+            ls$residencia/obidos
+
+      bap$b1748-1/11/2/1748/fl.94v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$bernarda/f/id=b1748-1-per1
+            ls$datanasc/17470127
+
+         pn$manuel antonio/id=b1748-1-per2
+            ls$residencia/a da gorda
+            ls$locbaptismo/freguesia de sao joao, porto de mos
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$teresa de jesus/id=b1748-1-per3
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$paulo ferreira/id=b1748-1-per4
+            ls$residencia/lisboa
+
+         procurador-pad$antonio de macedo/id=b1748-1-per5
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad$bernarda caetana de andrade/id=b1748-1-per6
+
+         pmad$manuel antunes/id=b1748-1-per7
+
+      bap$b1748-2/25/2/1748/fl.95/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$catarina/f/id=b1748-2-per1
+            ls$datanasc/17470219
+
+         pn$leonardo da cunha/id=b1748-2-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/obidos
+
+         mn$antonia teresa/id=b1748-2-per3
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio nunes de gouveia/id=b1748-2-per4
+            ls$residencia/obidos
+
+         mad$catarina pereira/id=b1748-2-per5
+            ls$residencia/obidos
+
+         mrmad$jose do rego/id=b1748-2-per6
+            ls$residencia/obidos
+
+      bap$b1748-3/11/3/1748/fl.95/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$manuel/m/id=b1748-3-per1
+            ls$datanasc/17470224
+
+         pn$antonio soares/id=b1748-3-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$joana joaquina gerarda/id=b1748-3-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$teotonio da cunha malhao/id=b1748-3-per4
+            ls$profissao/padre
+
+         procurador-pad$joao de abreu e silva/id=b1748-3-per5
+            ls$residencia/obidos
+
+         mad$francisca antonia/obs=francisca antonia e cunhada ou do padre teotonio da cunha malhao ou de joao de abreu e silva/id=b1748-3-per6
+
+         procurador-mad$antonio soares/id=b1748-3-per7
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1748-4/14/3/1748/fl.95v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$mariana/f/id=b1748-4-per1
+            ls$datanasc/17470308
+
+         pn$luis fernandes/id=b1748-4-per2
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/gaeiras de sao marcos
+
+         mn$josefa maria/id=b1748-4-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$manuel henriques/id=b1748-4-per4
+
+         mad$mariana do espirito santo/id=b1748-4-per5
+            ls$residencia/gaeiras de sao marcos
+
+      bap$b1748-5/25/3/1748/fl.95v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$rosa/f/id=b1748-5-per1
+            ls$datanasc/17470305
+
+         pn$antonio jose/id=b1748-5-per2
+            ls$locbaptismo/alcanhoes, termo de santarem
+            ls$loccasamento/se de lisboa, tambem chamada de santa maria maior
+            ls$residencia/obidos, postigo
+
+         mn$maria teresa/id=b1748-5-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/se de lisboa, tambem chamada de santa maria maior
+
+         pad$joao gomes/id=b1748-5-pad
+            ls$residencia/rossa monda, distrito de obidos
+
+         mad$catarina maria/id=b1748-5-per4
+            ls$residencia/rossa monda, distrito de obidos
+
+         mrmad$joao gomes/mesmo_que=b1748-5-pad/id=b1748-5-per5
+            ls$residencia/rossa monda, distrito de obidos
+
+      bap$b1748-6/7/4/1748/fl.96/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$ana/f/id=b1748-6-per1
+            ls$datanasc/17470320
+
+         pn$leandro pereira/id=b1748-6-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$maria martins/id=b1748-6-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$valeriano henriques/id=b1748-6-per4
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao pedro
+
+         mad$ana maria/id=b1748-6-per5
+            ls$residencia/a da gorda
+
+         mrmad$jose de matos/id=b1748-6-per6
+            ls$residencia/a da gorda
+
+      bap$b1748-7/18/4/1748/fl.96/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$feliciana/f/id=b1748-7-per1
+            ls$datanasc/17470408
+
+         pn$jose da costa camaleao/id=b1748-7-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia de sao tiago
+            ls$residencia/gaeiras de sao marcos
+
+         mn$antonia maria/id=b1748-7-per3
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$jose duarte barriga/id=b1748-7-per4
+
+         mad$catarina maria/id=b1748-7-per5
+            ls$residencia/caldas
+
+      bap$b1748-8/21/4/1748/fl.96v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joaquim/m/id=b1748-8-per1
+            ls$datanasc/17470413
+
+         pn$manuel da mota/id=b1748-8-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$joana baptista/id=b1748-8-per3
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$joaquim bernardo pegado/id=b1748-8-per4
+
+      bap$b1748-9/1/5/1748/fl.96v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$pedro joaquim/m/id=b1748-9-per1
+            ls$datanasc/1747
+
+         pn$hilario ferreira/id=b1748-9-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$joana josefa/id=b1748-9-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$pedro ferreira lobo/id=b1748-9-per4
+            ls$residencia/lisboa
+
+         procurador-pad$jose rodrigues/id=b1748-9-per5
+            ls$residencia/a da gorda
+
+         mad$ana luisa teodora/id=b1748-9-per6
+
+         procuradora-mad$micaela rosa/id=b1748-9-per7
+
+      bap$b1748-10/9/5/1748/fl.97/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$leucadia/f/id=b1748-10-per1
+            ls$datanasc/17470424
+
+         pn$jeronimo martins/id=b1748-10-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/obidos
+
+         mn$maria leal/id=b1748-10-per3
+            ls$locbaptismo/freguesia de santa maria madalena
+            ls$loccasamento/igreja de santa maria
+
+         pad$filipe gomes/id=b1748-10-per4
+            ls$profissao/padre
+
+         mad$josefa maria/id=b1748-10-per5
+
+      bap$b1748-11/18/5/1748/fl.97/igreja de santa maria/sebastiao ferreira (doutor, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$francisco/m/id=b1748-11-per1
+            ls$datanasc/17470504
+
+         pn$jose joaquim/id=b1748-11-per2
+            ls$residencia/obidos
+            ls$naturalidade/cos
+
+         mn$rosa maria/id=b1748-11-per3
+            ls$naturalidade/bairro
+            ls$freguesia/sao joao
+
+         pad$matias jose da silva/id=b1748-11-per4
+
+         mad$ana joaquina rua/id=b1748-11-per5
+
+         mmad$ines teresa/id=b1748-11-per6
+
+      bap$b1748-12/15/6/1748/fl.97v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$francisco/m/id=b1748-12-per1
+            ls$datanasc/17470520
+
+         pn$jose de sousa e castro/id=b1748-12-per2
+            ls$locbaptismo/freguesia de sao vicente de alcabideche, termo de sintra
+            ls$residencia/obidos
+
+         mn$mariana jacinta xavier de almeida/id=b1748-12-per3
+            ls$locbaptismo/igreja de santa maria
+
+         pad$goncalo botelho e costa/id=b1748-12-per4
+
+         procurador-pad$teodoro jose sottomaior/id=b1748-12-per5
+            ls$profissao/padre
+
+         mad$joana luisa de castro castelo branco/id=b1748-12-per6
+            ls$titulo/dona
+
+         procurador-mad$manuel soares de andrade/id=b1748-12-per7
+            ls$cargo/beneficiado
+
+      bap$b1748-13/17/6/1748/fl.97v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria catarina/f/id=b1748-13-per1
+            ls$datanasc/17470609
+
+         pn$jose nogueira/id=b1748-13-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$maria teresa/id=b1748-13-per3
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$gregorio ferreira de eca/id=b1748-13-pad
+
+         mad$catarina bernarda de eca/id=b1748-13-per4
+            ls$titulo/dona
+
+         pmad$gregorio ferreira de eca/mesmo_que=b1748-13-pad/id=b1748-13-per5
+
+      bap$b1748-14/21/6/1748/fl.98/igreja de santa maria/sebastiao ferreira da silva (doutor, economo da igreja de santa maria)/obs=assina francisco matos
+
+         n$jacinto/m/id=b1748-14-n
+            ls$enjeitado/sim/obs=" o qual menino em o sobredito dia foi entregue debaxo de segredo natural a thereza maria molher de joze lopes o papagayo para haver de o fazer baptizour pello que se mostra ser filho de pays incognitos e nao se poder saber o dia em que nasceo"
+
+         pn$nome desconhecido/id=b1748-14-per1
+
+         mn$nome desconhecido/id=b1748-14-per2
+
+         pad$sebastiao da costa peixoto/id=b1748-14-per3
+            ls$cargo/tesoureiro daigreja de santa maria
+
+         referida$teresa maria/id=b1748-14-referida
+            rel$sociabilidade/ama/jacinto/b1748-14-n
+
+         referido$jose lopes/id=b1748-14-per4
+            ls$alcunha/o papagaio
+            rel$parentesco/marido/teresa maria/b1748-14-referida
+
+      bap$b1748-15/31/7/1748/fl.98-98v./igreja de santa maria/francisco de matos (padre, cura nna igreja de sao tiago)/obs=assina francisco de matos
+
+         n$maria/f/id=b1748-15-per1
+            ls$datanasc/17470721
+
+         pn$antonio teixeira/id=b1748-15-per2
+            ls$residencia/senhor da pedra
+            ls$naturalidade/requeixo, freguesia de sao martinho de vale de bouro, arcebispado de braga
+            ls$locbaptismo/requeixo, freguesia de sao martinho de vale de bouro, arcebispado de braga
+            ls$loccasamento/columbeira, freguesia de nossa senhora da purificacao, rolica
+
+         mn$maria teresa/id=b1748-15-per3
+            ls$naturalidade/columbeira, freguesia de nossa senhora da purificacao, rolica
+            ls$locbaptismo/columbeira, freguesia de nossa senhora da purificacao, rolica
+            ls$loccasamento/columbeira, freguesia de nossa senhora da purificacao, rolica
+
+         pad$jose antonio carreira/id=b1748-15-per4
+            ls$cargo/tesoureiro da igreja do senhor da pedra
+
+         mad$rosa caetana/id=b1748-15-per5
+            ls$residencia/columbeira, termo de obidos
+
+      bap$b1748-16/18/8/1748/fl.98v.-99/igreja de santa maria/francisco de matos (padre, cura nna igreja de sao tiago)/obs=assina francisco de matos
+
+         n$antonio/m/id=b1748-16-per1
+            ls$datanasc/17480815
+
+         pn$antonio dos reis/id=b1748-16-per2
+            ls$naturalidade/freguesia de sao tiago, braga
+            ls$locbaptismo/freguesia de sao tiago, braga
+            ls$loccasamento/freguesia de santa maria
+
+         mn$antonia joaquina/id=b1748-16-per3
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$caetano da cunha e cruz/id=b1748-16-per4
+            ls$residencia/santa maria
+
+      bap$b1748-17/10/10/1748/fl.99/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1748-17-per1
+            ls$datanasc/17480910
+
+         pn$manuel freire/id=b1748-17-per2
+            ls$residencia/senhor da pedra
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$luisa maria da conceicao/id=b1748-17-per3
+            ls$locbaptismo/freguesia de aljubarrota
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio manuel de seixas/id=b1748-17-per4
+
+         mad$feliciana doroteia de seixas e abreu/id=b1748-17-per5
+            ls$titulo/dona
+
+      bap$b1748-18/27/10/1748/fl.99v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1748-18-per1
+            ls$datanasc/17481019
+
+         pn$francisco da silva henriques/id=b1748-18-per2
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$eusebia da silva/id=b1748-18-per3
+            ls$locbaptismo/freguesia de sao tiago, evora de alcobaca
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$gregorio ferreira de eca/id=b1748-18-per4
+            ls$residencia/quinta do furadouro%quinta do foradoiro
+            ls$residencia/quinta propria
+
+      bap$b1748-19/31/10/1748/fl.99v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$anastasia/f/id=b1748-19-per1
+            ls$datanasc/17481020
+
+         pn$jose rodrigues de lima/id=b1748-19-per2
+            ls$locbaptismo/espicandeira, termo de alenquer
+            ls$loccasamento/nossa senhora da concepcao dos figueiros, termo do cadaval
+            ls$residencia/senhor da pedra
+
+         mn$antonia joaquina de sao paio/id=b1748-19-per3
+            ls$locbaptismo/nossa senhora da concepcao dos figueiros, termo do cadaval
+            ls$loccasamento/nossa senhora da concepcao dos figueiros, termo do cadaval
+
+         pad$mateus jose/id=b1748-19-per4
+            ls$residencia/obidos
+
+         mad$anastasia margarida de andrade/id=b1748-19-per5
+
+      bap$b1748-20/3/11/1748/fl.100/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$umbelina/f/id=b1748-20-per1
+            ls$datanasc/17481127
+
+         pn$jose da costa/id=b1748-20-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia de sao pedro
+            ls$residencia/gaeiras
+
+         mn$maria teresa/id=b1748-20-per3
+            ls$locbaptismo/freguesia de sao simao, vermelha
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$joao baptista/id=b1748-20-per4
+            ls$residencia/obidos
+
+         mad$josefa umbelina/id=b1748-20-per5
+            ls$residencia/obidos
+
+      bap$b1748-21/21/11/1748/fl.100/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joaquim/m/id=b1748-21-per1
+            ls$datanasc/17481107
+
+         pn$cristovao jose da serra/id=b1748-21-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/arrabalde, a bica
+
+         mn$maria vitoria de almeida/id=b1748-21-per3
+            ls$titulo/dona
+            ls$locbaptismo/igreja de sao tiago
+            ls$loccasamento/igreja de santa maria
+
+         pad$jose da silva freire/id=b1748-21-pad
+            ls$residencia/santarem
+
+         procurador-pad$teodoro jose travacos sottomaior/id=b1748-21-procurador-pad
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+            ls$cargo/economo da igreja de sao tiago
+
+         mad$violante ana jose fa correia melo/id=b1748-21-mad
+            ls$titulo/dona
+            ls$residencia/santarem
+
+         mrmad$jose da silva freire/mesmo_que=b1748-21-pad/id=b1748-21-per4
+
+         procurador-mad$teodoro jose travacos sottomaior/mesmo_que=b1748-21-procurador-pad/id=b1748-21-per5
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+            rel$parentesco/tio/violante ana jose fa correia melo/b18748-21-mad
+
+      bap$b1748-22/11/12/1748/fl.100v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1748-22-per1
+            ls$datanasc/17481124
+
+         pn$jose rodrigues/id=b1748-22-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$quiteria maria/id=b1748-22-per3
+            ls$locbaptismo/igreja de sao joao
+
+         pad$sebastiao lobo/id=b1748-22-per4
+            ls$profissao/padre
+            ls$cargo/cura da igreja da vermelha, termo do cadaval
+
+      bap$b1748-23/15/12/1748/fl.100v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$gregorio/m/id=b1748-23-per1
+            ls$datanasc/17481204
+
+         pn$sebastiao da costa/id=b1748-23-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$maria rosa/id=b1748-23-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$gregorio ferreira de eca/id=b1748-23-per4
+            ls$residencia/quinta propria
+            ls$residencia/junto a amoreira
+
+      bap$b1749-1/12/1/1749/fl.101/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1749-1-per1
+            ls$datanasc/17490102
+
+         pn$antonio jose/id=b1749-1-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/moinho do redondo
+
+         mn$maria madalena/id=b1749-1-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$valentim queiros/id=b1749-1-per4
+            ls$titulo/doutor
+
+         mad$maria de santo antonio/id=b1749-1-per5
+
+         pmad$manuel de lemos/id=b1749-1-per6
+
+      bap$b1749-2/13/1/1749/fl.101/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-2-per1
+            ls$datanasc/17490105
+
+         pn$antonio gomes/id=b1749-2-per2
+            ls$residencia/casal branco
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$josefa maria/id=b1749-2-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$manuel da fonseca/id=b1749-2-pad
+            ls$residencia/arrabalde
+
+         mad$maria josefa/id=b1749-2-per4
+            ls$residencia/a da gorda
+            rel$parentesco/tia/manuel da fonseca/b1749-2-pad
+
+      bap$b1749-3/11/2/1749/fl.101v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-3-n
+            ls$enjeitada/sim/obs="exposta no cazal dos cachinos não trazia nenhuma sedula vinha emburilado em huns trapos foi emtregue pera a criar a joanna baptista mulher de manoel da motta moradores nesta villa na rua das velhas"
+
+         pn$nome desconhecido/id=b1749-3-per1
+
+         mn$nome desconhecido/id=b1749-3-per2
+
+         pad$caetano da cunha e cruz/id=b1749-3-per3
+            ls$cargo/procurador do concelho
+
+         referida$joana baptista/id=b1749-3-referida
+            ls$residencia/rua das velhas
+            rel$sociabilidade/ama/maria/b1749-3-n
+
+         referido$manuel da mota/id=b1749-3-per4
+            ls$residencia/rua da velha
+            rel$parentesco/marido/joana baptista/b1749-3-n
+
+      bap$b1749-4/11/2/1749/fl.101v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-4-n
+            ls$enjeitada/sim/obs="exposta no lugar da fanadia a qual não trazia sedula nem signal nenhum tambem em huns trapos, e foi emtregue para criar a maria thereza mulher de antonio mendes morador na rua nova desta villa"
+
+         pn$nome desconhecido/id=b1749-4-per1
+
+         mn$nome desconhecido/id=b1749-4-per2
+
+         pad$caetano da cunha e cruz/id=b1749-4-per3
+            ls$cargo/procurador do concelho
+
+         referida$maria teresa/id=b1749-4-referida
+            ls$residencia/rua nova
+            rel$sociabilidade/ama/maria teresa/b1749-4-referida
+
+         referido$antonio mendes/id=b1749-4-per4
+            ls$residencia/rua nova
+            rel$parentesco/marido/maria/b1749-4-n
+
+      bap$b1749-5/16/2/1749/fl.102/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1749-5-per1
+            ls$datanasc/17490204
+
+         pn$manuel de almeida/id=b1749-5-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/freguesia da fanadia
+            ls$residencia/arrabalde
+
+         mn$maria josefa/id=b1749-5-per3
+            ls$locbaptismo/freguesia da fanadia
+            ls$loccasamento/freguesia da fanadia
+
+         pad$joao felix de brito pegado/id=b1749-5-per4
+            ls$cargo/capitao mor
+
+         mad$isabel joaquina caetano/id=b1749-5-per5
+
+         pmad$francisco rodrigues/id=b1749-5-per6
+            ls$cargo/capitao
+
+      bap$b1749-6/27/2/1749/fl.102/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$teotonio/m/id=b1749-6-per1
+            ls$datanasc/17490218
+
+         pn$bernardo pedro de almeida/id=b1749-6-per2
+            ls$residencia/arrabalde
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$luisa angela de almeida/id=b1749-6-per3
+            ls$titulo/dona
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$joao felix de brito pegado/id=b1749-6-per4
+            ls$cargo/capitao mor
+
+         mad$maria madalena de almeida e azevedo/id=b1749-6-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      bap$b1749-7/2/3/1749/fl.102v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1749-7-n
+            ls$enjeitado/sim/obs="exposto a porta de manoel da fonceca do arebalde em a noite de vinte e quatro de fevereiro sem nenhu signal nem sedulla e se emtregou para criar a maria do spirito sancto filho de manoel silvestre do lugar dos mosteiros"
+
+         pn$nome desconhecido/id=b1749-7-per1
+
+         mn$nome desconhecido/id=b1749-7-per2
+
+         pad$caetano da cruz/id=b1749-7-per3
+            ls$cargo/procurador do concelho
+
+         referido$manuel da fonseca/id=b1749-7-per4
+            ls$residencia/arrabalde
+            rel$sociabilidade/achou a crianca/caetano/b1749-7-n
+
+         referida$maria do espirito santo/id=b1749-7-referida
+            ls$residencia/mosteiros
+            rel$sociabilidade/ama/caetano/b1749-7-n
+
+         referido$manuel silvestre/id=b1749-7-per5
+            ls$residencia/mosteiro
+            rel$parentesco/marido/maria do espirito santo/b1749-7-referida
+
+      bap$b1749-8/10/3/1749/fl.102v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-8-n
+            ls$enjeitada/sim/obs="exposta em o lugar da dos ruivos a porta de euzebio martins em huma seirinha a qual foi emtregue para a criar a maria thereza mulher de antonio mendes moradores nesta villa"
+
+         pn$nome desconhecido/id=b1749-8-per1
+
+         mn$nome desconhecido/id=b1749-8-per2
+
+         pad$miguel barbosa/id=b1749-8-per3
+            ls$profissao/padre
+
+         referido$caetano da cruz/id=b1749-8-per4
+            ls$cargo/procurador do concelho
+
+         referido$eusebio martins/id=b1749-8-per5
+            ls$residencia/a dos ruivos
+            rel$sociabilidade/achou a crianca/maria/b1749-8-n
+
+         referida$maria teresa/id=b1749-8-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria/b1749-8-n
+
+         referido$antonio mendes/id=b1749-8-per6
+            ls$residencia/obidos
+            rel$parentesco/marido/maria teresa/b1749-8-n
+
+      bap$b1749-9/10/3/1749/fl.103/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-9-n
+            ls$enjeitada/sim/obs="exposta no cazal das cruzes, a qual vinha emburilhada em huns cueiros de baeta depois de estar nesta villa se deitou huma carta na caza onde estava dizendo se lhe chamace maria foi emtregue pera a criar a joana maria mulher de manoel da motta moradores na rua das velhas nesta villa"
+
+         pn$nome desconhecido/id=b1749-9-per1
+
+         mn$nome desconhecido/id=b1749-9-per2
+
+         pad$caetano da cruz/id=b1749-9-per3
+            ls$cargo/procurador do concelho
+
+         referida$joana maria/id=b1749-9-referida
+            ls$residencia/rua das velhas
+            rel$sociabilidade/ama/maria/b1749-9-n
+
+         referido$manuel da mota/id=b1749-9-per4
+            ls$residencia/rua das velhas
+            rel$parentesco/marido/joana maria/b1749-9-referida
+
+      bap$b1749-10/29/3/1749/fl.103/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1749-10-per1
+            ls$datanasc/17490320
+
+         pn$manuel leal/id=b1749-10-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/obidos, junto a ermida dos terceiros
+
+         mn$ana joaquina/id=b1749-10-per3
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+
+         pad$joao felix de brito pegado/id=b1749-10-per4
+            ls$cargo/capitao mor
+
+         mad$joana antonia rosa/id=b1749-10-per5
+
+         mrmad$francisco rodrigues/id=b1749-10-per6
+            ls$cargo/escrivao da camara
+            ls$cargo/capitao/obs=de ordenancas
+
+      bap$b1749-11/30/3/1749/fl.103v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$ana/f/id=b1749-11-per1
+            ls$datanasc/17490322
+
+         pn$caetano da silva/id=b1749-11-per2
+            ls$locbaptismo/igreja de sao joao
+            ls$loccasamento/igreja de santa maria
+
+         mn$maria micaela/id=b1749-11-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$francisco de matos/id=b1749-11-pad
+            ls$residencia/pinhal
+
+         mad$maria antonia/id=b1749-11-per4
+            rel$parentesco/tia/francisco de matos/b1749-11-pad
+
+      bap$b1749-12b/12/4/1749/fl.103v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$tomas/m/id=b1749-1b2-n
+            ls$datanasc/17490307/obs=foi baptizado em casa "por vir muito fraco"
+
+         pn$francisco henriques/id=b1749-12b-per1
+            ls$residencia/arrabalde, no acude
+            ls$loccasamento/igreja de sao pedro
+
+         mn$apolonia teresa/id=b1749-12b-per2
+            ls$loccasamento/igreja de sao pedro
+
+         pad$leandro de santa rita/id=b1749-12b-per3
+            ls$profissao/padre
+            ls$titulo/frei
+            ls$residencia/convento do mato
+
+         mad$maria leal/id=b1749-12b-per4
+
+         mrmad$jeronimo martins/id=b1749-12b-per5
+
+         referido$nome desconhecido/id=b1749-12b-per6
+            rel$sociabilidade/baptizou em necessidade/tomas/b1749-12b-n
+
+      bap$b1749-12/14/4/1749/fl.104/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1749-12-n
+            ls$enjeitado/sim/obs="exposto em sette do ditto mes em o lugar das gaeiras dalem a porta de pedro da sylva foi emtregue a maria antonia mulher de joze francisco do mesmo lugar para o criar"
+
+         pn$nome desconhecido/id=b1749-12-per1
+
+         mn$nome desconhecido/id=b1749-12-per2
+
+         pad$caetano da cruz/id=b1749-12-per3
+            ls$cargo/procurador do concelho
+
+         referido$pedro da silva/id=b1749-12-per4
+            ls$residencia/gaeiras de alem
+            rel$sociabilidade/achou a crianca/caetano/b1749-12-n
+
+         referida$maria antonia/id=b1749-12-referida
+            ls$residencia/gaeiras de alem
+            rel$sociabilidade/ama/caetano/b1749-12-n
+
+         referido$jose francisco/id=b1749-12-per5
+            ls$residencia/gaeiras de alem
+            rel$parentesco/marido/maria antonia/b1749-12-referida
+
+      bap$b1749-13/20/4/1749/fl.104/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$feliciana/f/id=b1749-13-per1
+            ls$datanasc/17490407
+
+         pn$antonio luis/id=b1749-13-per2
+            ls$locbaptismo/santa vitoria, famalicao
+            ls$freguesia/famalicao
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/a da gorda
+
+         mn$maria joaquina/id=b1749-13-per3
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$diogo jose de melo/id=b1749-13-pad
+
+         procurador-pad$antonio de macedo/id=b1749-13-per4
+            ls$profissao/padre
+            ls$titulo/reverendo
+            ls$residencia/obidos
+
+         mad$feliciana maria teresa/id=b1749-13-per5
+            ls$titulo/dona
+
+         mrmad$diogo jose de melo/mesmo_que=b1749-13-pad/id=b1749-13-per6
+
+         procurador-mad$fernando antonio/id=b1749-13-per7
+            ls$titulo/reverendo
+            ls$residencia/obidos
+
+      bap$b1749-14/27/4/1749/fl.104v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-14-per1
+            ls$datanasc/17490421
+
+         pn$manuel domingues de oliveira/id=b1749-14-per2
+            ls$locbaptismo/freguesia de sao joao, coimbas?, termo da covilha
+            ls$bispado/guarda
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/a da gorda
+
+         mn$luisa rita/id=b1749-14-per3
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$manuel de oliveira farto/id=b1749-14-per4
+
+         mad$maria inacia/id=b1749-14-per5
+
+      bap$b1749-15/27/4/1749/fl.104v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1749-15-per1
+            ls$datanasc/17490415
+
+         pn$manuel marques/id=b1749-15-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/gaeiras de sao marcos
+
+         mn$paula maria/id=b1749-15-per3
+            ls$locbaptismo/freguesia do vimeiro
+            ls$loccasamento/igreja de santa maria
+
+         pad$caetano silvestre/id=b1749-15-pad
+
+         mad$luciana rosa joaquina/id=b1749-15-per4
+            ls$residencia/caldas
+
+         pmad$caetano silvestre/mesmo_que=b1749-15-pad/id=b1749-15-per5
+
+      bap$b1749-16/28/4/1749/fl.105/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1749-16-per1
+            ls$datanasc/17490323
+
+         pn$francisco da silva matoso/id=b1749-16-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/nossa senhora dos anjos, coto
+            ls$residencia/obidos
+
+         mn$maria craveira/id=b1749-16-per3
+            ls$locbaptismo/freguesia de nossa senhora do populo
+            ls$loccasamento/nossa senhora dos anjos, coto
+
+         pad$antonio correia manuel/id=b1749-16-per4
+            ls$cargo/beneficiado
+
+         mad$leonor inacia de azevedo/id=b1749-16-per5
+            ls$titulo/dona
+
+         procurador-mad$francisco de matos/id=b1749-16-per6
+            ls$titulo/reverendo
+            ls$cargo/cura da igreja de sao tiago
+
+      bap$b1749-17/1/5/1749/fl.105/igreja de santa maria/sebastiao ferreira (reverendo, doutor, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$ana dos prazeres/f/id=b1749-17-per1
+            ls$datanasc/17490414
+
+         pn$joao baptista/id=b1749-17-per2
+            ls$locbaptismo/sao simao, vermelha
+            ls$loccasamento/igreja de sao pedro
+
+         mn$esmereciana teresa de jesus/id=b1749-17-per3
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad$francisco de reis vieira/id=b1749-17-per4
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+         procurador-pad$miguel barbosa/id=b1749-17-per5
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mad$teresa maria inacia/id=b1749-17-per6
+            ls$residencia/obidos
+            rel$parentesco/irma/antonio barbosa/b1749-17-proc
+
+         pmad$manuel barbosa/id=b1749-17-per7
+            ls$residencia/obidos
+
+         procurador-mad$antonio barbosa/id=b1749-17-proc
+            ls$residencia/obidos
+
+      bap$b1749-18/4/5/1749/fl.105v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1749-18-per1
+            ls$datanasc/17490426
+
+         pn$nicolau goncalves/id=b1749-18-per2
+            ls$locbaptismo/caldas
+            ls$loccasamento/casal do azambujeiro
+
+         mn$mariana teresa/id=b1749-18-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/casal do azambujeiro
+
+         pad$luis pedro/id=b1749-18-per4
+
+         mad$paula teresa/id=b1749-18-per5
+            rel$parentesco/afilhada/graces/b1749-18-referido
+
+         referido$graces/id=b1749-18-referido
+            ls$residencia/formigal
+            ls$residencia/gaeiras de sao marcos
+
+      bap$b1749-19/25/5/1749/fl.105v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1749-19-n
+            ls$enjeitado/sim/obs="emgeitado exposto em dezoito do ditto mes a porta de thereza de jesus digo de sam joze mulher de joze lopes moradora nesta villa a qual crianca nao trazia nenhuma declaracao e foi emtregue pera ser criada a thereza de jezus mulher solteira moradora nesta villa na rua direita"
+
+         pn$nome desconhecido/id=b1749-19-per1
+
+         mn$nome desconhecido/id=b1749-19-per2
+
+         pad$caetano da cruz/id=b1749-19-per3
+            ls$cargo/procurador do concelho
+
+         referida$teresa de sao jose/id=b1749-19-referida
+            ls$residencia/obidos
+            rel$sociabilidade/achou a crianca/caetano/b1749-19-n
+
+         referido$jose lopes/id=b1749-19-per4
+            rel$parentesco/marido/teresa de sao jose/b1749-19-referida
+            ls$residencia/obidos
+
+         referida$teresa de jesus/id=b1749-19-per5
+            ls$ec/s
+            ls$residencia/rua direita
+            rel$sociabilidade/ama/caetano/b1749-19-n
+
+      bap$b1749-20/11/6/1749/fl.106/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1749-20-per1
+            ls$datanasc/17490517
+
+         pn$jeronimo martins/id=b1749-20-per2
+            ls$alcunha/o castro
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$maria josefa leal/id=b1749-20-per3
+            ls$residencia/arrabalde
+            ls$locbaptismo/igreja de santa maria madalena, a dos negros
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio jose madeira/id=b1749-20-per4
+            ls$cargo/capitao
+
+         mad$joana maria/id=b1749-20-per5
+
+         mrmad$mateus jose/id=b1749-20-mrmad
+
+         procurador-mad$mateus jose/mesmo_que=b1749-20-mrmad/id=b1749-20-per6
+
+      bap$b1749-21/22/6/1749/fl.106/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1749-21-per1
+            ls$datanasc/17490617
+
+         pn$manuel goncalves/id=b1749-21-per2
+            ls$locbaptismo/sao pedro
+            ls$residencia/gaeiras de sao marcos
+
+         mn$ines maria/id=b1749-21-per3
+            ls$locbaptismo/igreja de santa maria
+
+         pad$manuel francisco/id=b1749-21-per4
+            ls$residencia/gaeiras de sao marcos
+
+         mad$francisca antonia/id=b1749-21-per5
+            rel$parentesco/irma/francisco/b1749-21-proc
+
+         pmad$estevao correia/id=b1749-21-per6
+
+         procurador-mad$francisco/id=b1749-21-proc
+
+      bap$b1749-22/22/6/1749/fl.106v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$teresa/f/id=b1749-22-n
+            ls$enjeitada/sim/obs="exposta em dezasette do dito mes a porta do ermitao de sam pedro do lugar do carvalhal...foi emtregue pera a criar a thereza maria mulher de antonio dias do lugar do sobral do perilha"
+
+         pn$nome desconhecido/id=b1749-22-per1
+
+         mn$nome desconhecido/id=b1749-22-per2
+
+         referido$nome desconhecido/id=b1749-22-per3
+            ls$cargo/ermitao de sao pedro
+            ls$residencia/carvalhal
+            rel$sociabilidade/achou a crianca/teresa/b1749-22-n
+
+         referido$caetano da cruz/id=b1749-22-per4
+            ls$cargo/procurador do concelho
+
+         referido$teresa maria/id=b1749-22-referido
+            ls$residencia/sobral do perilha/obs=duvida na leitura do toponimo
+            rel$sociabilidade/ama/teresa/b1749-22-n
+
+         referido$antonio dias/id=b1749-22-per5
+            ls$residencia/sobral do perilha
+            rel$parentesco/marido/teresa maria/b1749-22-referido
+
+      bap$b1749-23/26/6/1749/fl.106v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-23-per1
+            ls$datanasc/17490521
+
+         pn$antonio soares/id=b1749-23-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/a da gorda
+
+         mn$joana gerarda micaela/id=b1749-23-per3
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad$teotonio da cunha malhao/id=b1749-23-per4
+            ls$titulo/reverendo
+            ls$profissao/padre
+
+         procurador-pad$valentim mauricio de queiros/id=b1749-23-per5
+            ls$titulo/doutor
+
+         mad$maria da conceicao dinis/id=b1749-23-per6
+
+         procurador-mad$antonio soares/id=b1749-23-per7
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$cargo/economo da igreja de santa maria
+
+      bap$b1749-24/3/7/1749/fl.107/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$agostinho/m/id=b1749-24-n
+            ls$enjeitado/sim/obs="exposto em vinte e oitto de junho a porta de jose gomes sarralheiro desta villa, o qual foi baptizado em casa do dito jose gomes por estar em perigo de vida pello reverendo padre cura de sam pedro desta villa foi emtregue pera o criar a mulher de joao ferreira o cabeleira morador nesta vila"
+
+         pn$nome desconhecido/id=b1749-24-per1
+
+         mn$nome desconhecido/id=b1749-24-per2
+
+         pad$caetano da cruz/id=b1749-24-per3
+            ls$cargo/procurador do concelho
+
+         referido$jose gomes/id=b1749-24-per4
+            ls$profissao/serralheiro
+            ls$residencia/obidos
+            rel$sociabilidade/achou a crianca/agostinho/b1749-24-n
+
+         referido$nome desconhecido/id=b1749-24-per5
+            ls$profissao/padre
+            ls$titulo/reverendo
+            ls$cargo/cura da igreja de sao pedro
+            ls$residencia/obidos
+
+         referida$nome desconhecido/id=b1749-24-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/agostinho/b1749-24-n
+
+         referido$joao ferreira/id=b1749-24-per6
+            ls$alcunha/o cabeleiro
+            ls$residencia/obidos
+            rel$parentesco/marido/nome desconhecido/b1749-24-referida
+
+      bap$b1749-25/9/7/1749/fl.107/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1749-25-n
+            ls$enjeitado/sim/obs="exposto em sette do ditto mes a porta de gregorio da sylva da cazal novo do catellam termo desta villa e foi emtregue pera o criar anna thereza mulher do ditto gregorio da sylva do ditto cazal novo do catellam"
+
+         pn$nome desconhecido/id=b1749-25-per1
+
+         mn$nome desconhecido/id=b1749-25-per2
+
+         pad$jose da costa/id=b1749-25-per3
+            ls$cargo/tesoureiro da igreja de santa maria
+
+         referido$caetano da cruz/id=b1749-25-per4
+            ls$cargo/procurador do concelho
+
+         referido$gregorio da silva/id=b1749-25-per5
+            ls$residencia/casal novo do catelam, termo de obidos
+            rel$sociabilidade/achou a crianca/jose/b1749-25-n
+
+         referida$ana teresa/id=b1749-25-referida
+            ls$residencia/casal novo o catelam, termo de obidos
+            rel$sociabilidade/ama/jose/b1749-25-n
+
+         referido$gregorio da silva/id=b1749-25-per6
+            ls$residencia/casal novo o catelam, termo de obidos
+            rel$parentesco/marido/ana teresa/b1749-25-referida
+
+      bap$b1749-26/20/7/1749/fl.107v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$angela/f/id=b1749-26-per1
+            ls$datanasc/17490630
+
+         pn$andre viana/id=b1749-26-per2
+            ls$locbaptismo/freguesia de sao pedro, faro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/obidos
+
+         mn$josefa maria/id=b1749-26-per3
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de santa maria
+
+         pad$joao pinto de miranda/id=b1749-26-per4
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      bap$b1749-27/29/7/1749/fl.107v./igreja de santa maria/antonio soares (padre, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$pedro/m/id=b1749-27-n
+            ls$datanasc/17490712
+
+         pn$antonio pereira/id=b1749-27-pn
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$maria da encarnacao/id=b1749-27-mn
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$joao felix de brito pegado/id=b1749-27-per1
+            ls$cargo/capitao mor
+
+         procurador-pad$teodosio de abreu e silva/id=b1749-27-per2
+            ls$cargo/beneficiado da igreja de santa maria/obs=paroco que faz o registo
+
+         mad$josefa maria do sacramento/id=b1749-27-mad
+
+         pmad$joao henriques/id=b1749-27-per3
+
+         procurador-mad$joao henriques/id=b1749-27-per4
+            ls$profissao/padre
+            rel$parentesco/irmao/josefa maria do sacramento/b1749-27-mad
+
+      bap$b1749-28/29/7/1749/fl.108/igreja de santa maria/antonio soares (padre)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$paulo/m/id=b1749-28-per1
+            rel$parentesco/irmao gemeo/pedro/b1749-27-n
+            ls$datanasc/17490712
+
+         pn$antonio pereira/mesmo_que=b1749-27-pn/id=b1749-28-per2
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$maria da encarnacao/mesmo_que=b1749-27-mn/id=b1749-28-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$joaquim bernardo de brito pegado/id=b1749-28-per4
+
+         procurador-pad$antonio correia manuel de aboim/id=b1749-28-per5
+            ls$cargo/beneficiado
+
+         mad$maria catarina/id=b1749-28-per6
+            ls$titulo/dona
+
+      bap$b1749-29/8/8/1749/fl.108/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-29-per1
+            ls$datanasc/17490616
+
+         pn$antonio jose madeira/id=b1749-29-per2
+            ls$cargo/capitao
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/igreja do salvador, bombarral
+            ls$residencia/obidos
+
+         mn$maria teodora da encarnacao/id=b1749-29-per3
+            ls$titulo/dona
+            ls$locbaptismo/freguesia de santa maria do castelo, torres vedras
+            ls$loccasamento/igreja do salvador, bombarral
+
+         pad$joaquim pereira de mendonca/id=b1749-29-per4
+            ls$titulo/doutor
+            ls$cargo/ouvidor de alenquer
+
+         mad$/id=b1749-29-per5
+
+      bap$b1749-30/24/8/1749/fl.108v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-30-n
+            ls$datanasc/17490814
+
+         pn$estevao correia/id=b1749-30-per1
+            ls$locbaptismo/igreja de santa maria
+            ls$residencia/obidos
+
+         mn$hilaria maria/id=b1749-30-per2
+            ls$locbaptismo/freguesia de santa maria madalena, a dos negros
+            ls$loccasamento/igreja de sao tiago
+
+         pad$jose francisco/id=b1749-30-per3
+            rel$parentesco/tio/maria/b1749-30-n
+
+         mad$caetana maria/id=b1749-30-per4
+
+      bap$b1749-31/26/8/1749/fl.108v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$francisco/m/id=b1749-31-per1
+            ls$datanasc/17490806
+
+         pn$manuel pereira/id=b1749-31-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$josefa teresa/id=b1749-31-per3
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de santa maria
+
+         pad$jeronimo henriques/id=b1749-31-per4
+            ls$residencia/quinta do jardim
+
+         mad$rita soares/id=b1749-31-per5
+
+      bap$b1749-32/31/8/1749/fl.109/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-32-n
+            ls$datanasc/17490815
+
+         pn$antonio marques/id=b1749-32-per1
+            ls$alcunha/o moco
+            ls$residencia/gaeiras de sao marcos
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$luisa maria/id=b1749-32-per2
+            ls$locbaptismo/freguesia do vimeiro, couto de alcobaca
+            ls$loccasamento/igreja de santa maria
+
+         pad$manuel ribeiro/id=b1749-32-per3
+            ls$residencia/gaeiras de sao marcos
+
+         mad$maria rodrigues/id=b1749-32-per4
+            ls$residencia/gaeiras de sao marcos
+            rel$parentesco/avo/maria/b1749-32-n
+
+      bap$b1749-33/1/9/1749/fl.109/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$valeriano/m/id=b1749-33-per1
+            ls$datanasc/17490822
+
+         pn$jose de matos/id=b1749-33-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/a da gorda
+
+         mn$ana maria/id=b1749-33-per3
+            ls$locbaptismo/santa maria madalena, a dos negros
+            ls$loccasamento/igreja de santa maria
+
+         pad$valeriano henriques/id=b1749-33-per4
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao pedro
+            ls$residencia/obidos
+
+         mad$mariana teresa/id=b1749-33-per5
+
+      bap$b1749-34/21/9/1749/fl.109v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$mariana/f/id=b1749-34-n
+            ls$enjeitada/sim/obs="exposta em quinze do ditto mes na lamaroza a porta de hum homem que me dicerao se chamava fulano do vale e sua mulher ignacia e a levou pera criar maria gomes mulher de manoel ferreira do lugar da delgada"
+
+         pn$nome desconhecido/id=b1749-34-per1
+
+         mn$nome desconhecido/id=b1749-34-per2
+
+         pad$caetano da cruz/id=b1749-34-per3
+            ls$cargo/procurador do concelho
+
+         referido$fulano do vale/id=b1749-34-per4
+            rel$parentesco/marido/inacia/b1749-34-inacia
+            rel$sociabilidade/achou a crianca/mariana/b1749-34-n
+
+         referida$inacia/id=b1749-34-inacia
+
+         referida$maria gomes/id=b1749-34-referida
+            ls$residencia/delgada
+            rel$sociabilidade/ama/mariana/b1749-34-n
+
+         referido$manuel ferreira/id=b1749-34-per5
+            ls$residencia/delgada
+            rel$parentesco/marido/maria gomes/b1749-34-referida
+
+      bap$b1749-35/27/9/1749/fl.109v./igreja de santa maria/francisco de matos (padre, cura de sao pedro)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1749-35-n
+            ls$enjeitada/sim/obs="o qual foi exposto em vinte do ditto mes a porta de joze rodrigues do lugar da dagorda foi emtregue pera o criar a maria jozefa mulher de joze luis do lugar do po"
+
+         pn$nome desconhecido/id=b1749-35-per1
+
+         mn$nome desconhecido/id=b1749-35-per2
+
+         pad$caetano da cruz/id=b1749-35-per3
+            ls$cargo/procurador do concelho
+
+         referido$jose rodrigues/id=b1749-35-per4
+            ls$residencia/a da gorda
+            rel$sociabilidade/achou a crianca/caetano/b1749-35-n
+
+         referida$maria josefa/id=b1749-35-referida
+            ls$residencia/po
+            rel$sociabilidade/ama/caetano/b1749-35-n
+
+         referido$jose luis/id=b1749-35-per5
+            ls$residencia/po
+            rel$parentesco/marido/maria josefa/b1749-35-n
+
+      bap$b1749-36/27/9/1749/fl.110/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$henrique/m/id=b1749-36-per1
+            ls$datanasc/17490715
+
+         pn$jose de sousa e castro/id=b1749-36-per2
+            ls$locbaptismo/sao vicente, alcabideche, termo de sintra
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/obidos
+
+         mn$mariana jacinta xavier de almeida/id=b1749-36-per3
+            ls$loccasamento/freguesia de santa maria
+
+         pad$antonio de almeida/id=b1749-36-per4
+            ls$titulo/dom
+            ls$cargo/prelado da se patriarcal de lisboa
+            ls$residencia/lisboa
+
+         procurador-pad$teotonio jose travassos/id=b1749-36-per5
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao tiago
+
+      bap$b1749-37/15/10/1749/fl.110/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$manuel/m/id=b1749-37-per1
+            ls$datanasc/17490927
+
+         pn$jose da silva/id=b1749-37-per2
+            ls$locbaptismo/igreja de santa maria, tondela
+            ls$bispado/viseu
+            ls$loccasamento/atouguia
+
+         mn$maria teresa/id=b1749-37-per3
+            ls$locbaptismo/atouguia
+            ls$loccasamento/atouguia
+
+         pad$manuel da silva/id=b1749-37-pad
+            ls$residencia/a da gorda
+
+         mad$catarina de jesus/id=b1749-37-per4
+            rel$parentesco/irma/manuel da silva/b1749-37-pad
+            ls$residencia/a da gorda
+
+      bap$b1749-38/24/11/1749/fl.110v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$clemente/m/id=b1749-38-n
+            ls$enjeitado/sim/obs="exposto em o lugar do olho marinho...e o levou para criar jozefa maria mulher de antonio nao me souberao diser o sobrenome do lugar do salgueiro termo desta villa"
+
+         pn$nome desconhecido/id=b1749-38-per1
+
+         mn$nome desconhecido/id=b1749-38-per2
+
+         pad$caetano da cruz/id=b1749-38-per3
+            ls$cargo/procurador do concelho
+
+         referida$josefa maria/id=b1749-38-referida
+            ls$residencia/salgueiro, termo de obidos
+            rel$sociabilidade/ama/clemente/b1749-38-n
+
+         referido$antonio/id=b1749-38-per4
+            ls$residencia/salgueiro, termo de obidos
+            rel$parentesco/marido/josefa maria/b1749-38-referida
+
+      bap$b1749-39/17/12/1749/fl.110v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1749-39-n
+            ls$enjeitada/sim/obs="exposta a porta de joze do reis desta villa em nove do ditto trazia huma sedulla que dezia vinha baptizada mas sempre a baptizei sub conditione levava pera criar jozefa maria mulher de andre viana desta villa"
+
+         pn$nome desconhecido/id=b1749-39-per1
+
+         mn$nome desconhecido/id=b1749-39-per2
+
+         pad$caetano da cruz/id=b1749-39-per3
+            ls$cargo/procurador do concelho
+
+         referido$jose dos reis/id=b1749-39-per4
+            ls$residencia/obidos
+            rel$sociabilidade/achou a crianca/maria/b1749-39-n
+
+         referido$teodosio de abreu e silva/id=b1749-39-per5
+            ls$cargo/beneficiado
+            rel$sociabilidade/baptizou sub conditione/maria/b1749-39-n
+
+         referida$josefa maria/id=b1749-39-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria/b1749-39-n
+
+         referido$andre viana/id=b1749-39-per6
+            ls$residencia/obidos
+            rel$parentesco/marido/josefa maria/b1749-39-referida
+
+      bap$b1749-40/21/12/1749/fl.111/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1749-40-n
+            ls$enjeitado/sim/obs="exposto em dezasette do dito mes em o moinho de nossa senhora do emparo o qual levou pera criar elena maria mulher de antonio joam do carregal"
+
+         pn$nome desconhecido/id=b1749-40-per1
+
+         mn$nome desconhecido/id=b1749-40-per2
+
+         pad$jose dos reis/id=b1749-40-per3
+            ls$cargo/sacristao da igreja de santa maria
+
+         referida$helena maria/id=b1749-40-referida
+            ls$residencia/carregal
+            rel$sociabilidade/ama/caetano/b1749-40-n
+
+         referido$antonio joao/id=b1749-40-per4
+            ls$residencia/carregal
+            rel$parentesco/marido/helena maria/b1749-40-referida
+
+      bap$b1749-41/23/12/1749/fl.111/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1749-41-n
+            ls$enjeitado/sim/obs="exposto em dezasette do ditto mes no cazal da boxardia a porta de marcelino da costa, foi emtregue pera o criar a maria ferreira mulher de carlos de oliveira moradores no avenal termo da villa das caldas"
+
+         pn$nome desconhecido/id=b1749-41-per1
+
+         mn$nome desconhecido/id=b1749-41-per2
+
+         referido$caetano da cruz/id=b1749-41-per3
+            ls$cargo/procurador do concelho
+
+         pad$sebastiao da costa/id=b1749-41-per4
+            ls$residencia/obidos
+            ls$alcunha/o peixoto
+
+         referido$marcelino da costa/id=b1749-41-per5
+            ls$residencia/casal da bochardia
+            rel$sociabilidade/achou a crianca/jose/b1749-41-n
+
+         referida$maria ferreira/id=b1749-41-referida
+            ls$residencia/avenal, termo das caldas
+            rel$sociabilidade/ama/jose/b1749-41-n
+
+         referido$carlos de oliveira/id=b1749-41-per6
+            ls$residencia/avenal, termo das caldas
+            rel$parentesco/marido/maria ferreira/b1749-41-referida
+
+      bap$b1749-42/21/12/1749/fl.111v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1749-42-caetano
+            ls$enjeitado/sim/obs="exposto em vinte do ditto mes em nossa senhora do emparo levou pera criar a molher de joze pereira do lugar de samde e de sendo procurador do conselho caetano da crux que foi seu padrinho e o teve em caza da parteira desta villa e o emtregou em o mes de fevereiro a dita mulher de joze pereira"
+
+         pn$nome desconhecido/id=b1749-42-per1
+
+         mn$nome desconhecido/id=b1749-42-per2
+
+         pad$caetano da cruz/id=b1749-42-per3
+            ls$cargo/procurador do concelho
+
+         referida$nome desconhecido/id=b1749-42-referida
+            ls$residencia/sande
+            rel$sociabilidade/ama/caetano/b1749-42-caetano
+
+         referido$jose pereira/id=b1749-42-per4
+            ls$residencia/sande
+            rel$parentesco/marido/nome desconhecido/b1749-42-referida
+
+         referida$nome desconhecido/id=b1749-42-per5
+            ls$profissao/parteira
+            ls$residencia/obidos
+
+      bap$b1750-1/11/1/1750/fl.111v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joana/f/id=b1750-1-per1
+            ls$datanasc/17491221
+
+         pn$jose gomes/id=b1750-1-per2
+            ls$naturalidade/famalicao
+            ls$locbaptismo/famalicao
+            ls$loccasamento/santa casa da misericordia de obidos
+            ls$residencia/a da gorda
+
+         mn$eugenia maria/id=b1750-1-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/santa casa da misericordia de obidos/obs=casou na santa casa da misericordia de obidos por ter sido dotada
+            ls$residencia/a da gorda
+
+         pad$antonio pereira/id=b1750-1-per4
+            ls$naturalidade/lisboa
+
+         mad$joana teresa/id=b1750-1-per5
+            ls$residencia/caldas
+
+         pmad$joao lopes/id=b1750-1-per6
+            ls$residencia/caldas
+
+      bap$b1750-2/19/2/1750/fl.112/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1750-2-per1
+            ls$datanasc/17500210
+
+         pn$tomas pereira/id=b1750-2-per2
+            ls$residencia/quinta da granja
+            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+            ls$loccasamento/rolica
+
+         mn$josefa maria/id=b1750-2-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/rolica
+
+         pad$matias rodrigues/id=b1750-2-per4
+
+         mad$maria monteiro/id=b1750-2-per5
+
+      bap$b1750-3/22/2/1750/fl.112/igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1750-3-per1
+            ls$datanasc/17500211
+
+         pn$inacio da silva/id=b1750-3-per2
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/casais de alentejo
+
+         mn$teresa maria/id=b1750-3-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio da silva/id=b1750-3-pad
+            ls$ec/s
+            ls$residencia/casais de alentejo
+
+         mad$maria henriques/id=b1750-3-per4
+            ls$residencia/casais de alentejo
+            rel$parentesco/irma/antonio da silva/b1750-3-pad
+
+         pmad$manuel ferreira/id=b1750-3-per5
+            ls$residencia/casais de alentejo
+
+      bap$b1750-4/23/2/1750/fl.112v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$caetano/m/id=b1750-4-per1
+            ls$datanasc/17500214
+
+         pn$luis barreto/id=b1750-4-per2
+            ls$locbaptismo/freguesia de sao tiago, alcacer do sal
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/senhor da pedra
+
+         mn$joana da mata/id=b1750-4-per3
+            ls$locbaptismo/freguesia de freiria, termo de torres vedras
+            ls$loccasamento/igreja de santa maria
+
+         pad$felix de brito pegado/id=b1750-4-per4
+            ls$cargo/capitao mor
+
+         mad$maria catarina/id=b1750-4-per5
+            ls$titulo/dona
+
+         pmad$jose correia manuel/id=b1750-4-per6
+
+      bap$b1750-5/5/3/1750/fl.112v./igreja de santa maria/antonio soares (reverendo, padre, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$mariana/f/id=b1750-5-per1
+            ls$datanasc/17500223
+
+         pn$jose ferreira/id=b1750-5-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/gaeiras de sao marcos
+
+         mn$feleciana maria/id=b1750-5-per3
+            ls$locbaptismo/freguesia do vimeiro
+            ls$loccasamento/igreja de santa maria
+
+         pad$bernardo da silva/id=b1750-5-per4
+            ls$residencia/gaeiras de sao marcos
+
+         mad$mariana dos prazeres/id=b1750-5-per5
+            ls$residencia/gaeiras de sao marcos
+
+      bap$b1750-6/16/3/1750/fl.113/igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joaquim/m/id=b1750-6-per1
+            ls$datanasc/17500225
+
+         pn$caetano da cunha e cruz/id=b1750-6-per2
+            ls$locbaptismo/freguesia de sao tiago
+            ls$naturalidade/gaeiras de alem
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$maria inacia/id=b1750-6-per3
+            ls$locbaptismo/freguesia de sao joao
+            ls$naturalidade/bairro
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$miguel barbosa neves/id=b1750-6-pad
+            ls$profissao/padre
+
+         mad$teresa maria inacio/id=b1750-6-per4
+            rel$parentesco/irma/miguel barbosa neves/b1750-6-pad
+
+      bap$b1750-7/23/3/1750/fl.113/igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1750-7-per1
+            ls$datanasc/17500310
+
+         pn$francisco de faria/id=b1750-7-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$residencia/obidos
+
+         mn$catarina teresa/id=b1750-7-per3
+            ls$locbaptismo/freguesia de sao pedro
+
+         pad$joao felix de brito pegado/id=b1750-7-per4
+            ls$cargo/capitao mor
+
+         mad$maria madalena de almeida/id=b1750-7-per5
+            ls$titulo/dona
+
+      bap$b1750-8/12/4/1750/fl.113v./igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$domingos/m/id=b1750-8-per1
+            ls$datanasc/17500330
+
+         pn$domingos ferreira/id=b1750-8-per2
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$maria gomes/id=b1750-8-per3
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$jose franco de arruda/id=b1750-8-per4
+
+         mad$teresa caetano/id=b1750-8-per5
+            ls$residencia/obidos
+
+      bap$b1750-9/12/4/1750/fl.113v./igreja de santa maria/antonio soares (reverendo, padre, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1750-9-per1
+            ls$datanasc/17500401
+
+         pn$francisco luis/id=b1750-9-per2
+            ls$locbaptismo/sao pedro
+            ls$loccasamento/sao tiago
+            ls$residencia/obidos
+
+         mn$maria antonia/id=b1750-9-per3
+            ls$locbaptismo/sao tiago
+            ls$loccasamento/sao tiago
+
+         pad$manuel da fonseca/id=b1750-9-per4
+
+         mad$ana clara/id=b1750-9-per5
+            ls$residencia/obidos
+
+      bap$b1750-10/13/4/1750/fl.114/igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joana/f/id=b1750-10-per1
+            ls$datanasc/17500403
+
+         pn$antonio teixeira/id=b1750-10-per2
+            ls$locbaptismo/freguesia de vale de bouro
+            ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
+            ls$residencia/senhor da pedra
+
+         mn$maria teresa/id=b1750-10-per3
+            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+            ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
+
+         pad$antonio nere/id=b1750-10-per4
+            ls$residencia/caldas
+
+         mad$maria antonia do espirito santo/id=b1750-10-per5
+            ls$titulo/dona
+            ls$residencia/caldas
+
+      bap$b1750-11/19/4/1750/fl.114/igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1750-11-per1
+            ls$datanasc/17500409
+
+         pn$jose gomes/id=b1750-11-per2
+            ls$locbaptismo/sao
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/moinhos de fraldeu
+
+         mn$maria gomes/id=b1750-11-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$joaquim gomes/id=b1750-11-per4
+
+         ppad$joao gomes/id=b1750-11-per5
+            ls$residencia/gracieira
+
+         mad$quiteria maria/id=b1750-11-per6
+
+         pmad$miguel da silva/id=b1750-11-per7
+
+      bap$b1750-12/10/5/1750/fl.114v./igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$jose/m/id=b1750-12-per1
+            ls$datanasc/17500429
+
+         pn$jose monteiro/id=b1750-12-per2
+            ls$locbaptismo/sao tiago
+            ls$loccasamento/freguesia do carvalhal
+            ls$residencia/casais de alentejo
+
+         mn$francisca da encarnacao/id=b1750-12-per3
+            ls$locbaptismo/sao pedro, carvalhal
+            ls$loccasamento/freguesia do carvalhal
+
+         pad$jose monteiro/id=b1750-12-per4
+            ls$residencia/a da gorda
+
+         mad$jacinta maria/id=b1750-12-per5
+
+      bap$b1750-13/11/5/1750/fl.114v./igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$joao/m/id=b1750-13-per1
+            ls$datanasc/17500502
+
+         pn$domingos saraiva/id=b1750-13-per2
+            ls$locbaptismo/fonte arcada
+            ls$bispado/lamego
+            ls$loccasamento/freguesia de sao simao, vermelha
+            ls$residencia/senhor da pedra
+
+         mn$teresa maria/id=b1750-13-per3
+            ls$locbaptismo/sao simao, vermelha, cadaval
+            ls$loccasamento/freguesia de sao simao, vermelha
+
+         pad$joao baptista/id=b1750-13-per4
+
+         mad$maria jacinta da cruz/id=b1750-13-per5
+
+      bap$b1750-14/27/5/1750/fl.115/igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/m/id=b1750-14-per1
+            ls$datanasc/17500509
+
+         pn$manuel de matos/id=b1750-14-per2
+            ls$locbaptismo/mafra
+            ls$loccasamento/freguesia de santa maria
+
+         mn$luzia joaquina/id=b1750-14-per3
+            ls$locbaptismo/alcacer do sal
+            ls$loccasamento/freguesia de santa maria
+
+         pad$antonio correia manuel de aboim/id=b1750-14-pad
+            ls$titulo/reverendo
+
+         mad$maria catarina/id=b1750-14-per4
+            rel$parentesco/irma/antonio correia manuel de aboim/b1750-14-pad
+
+      bap$b1750-15/8/7/1750/fl.115/igreja de santa maria/antonio soares (padre, economo da igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$manuel/m/id=b1750-15-per1
+            ls$datanasc/17500701
+
+         pn$domingos pereira/id=b1750-15-per2
+            ls$residencia/obidos
+            ls$loccasamento/igreja de santa maria
+
+         mn$rosa maria/id=b1750-15-per3
+            ls$loccasamento/igreja de santa maria
+
+         pad$antonio jose madeira/id=b1750-15-per4
+            ls$cargo/capitao
+
+         mad$maria tomasia da purificacao/id=b1750-15-per5
+
+      bap$b1750-16/11/6/1750/fl.115v./igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1750-16-per1
+            ls$datanasc/17500603
+
+         pn$manuel fernandes/id=b1750-16-per2
+            ls$locbaptismo/santo antonio, esgueira
+            ls$bispado/coimbra
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/obidos
+
+         mn$maria nobre/id=b1750-16-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad1$joaquim maximo/id=b1750-16-per4
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         pad2$joaquim de almeida/id=b1750-16-per5
+            ls$residencia/obidos
+
+         mad$josefa maria/id=b1750-16-per6
+            ls$residencia/obidos
+
+      bap$b1750-17/21/6/1750/fl.115v./igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$antonio/m/id=b1750-17-per1
+            ls$datanasc/17500602
+
+         pn$antonio pedro/id=b1750-17-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/a da gorda
+            ls$residencia/a da gorda
+
+         mn$catarina maria/id=b1750-17-per3
+            ls$locbaptismo/igreja de sao joao
+            ls$loccasamento/a da gorda
+
+         pad$jose henriques/id=b1750-17-per4
+            ls$residencia/a da gorda
+
+         mad$josefa maria/id=b1750-17-per5
+            ls$residencia/a da gorda
+
+         mrmad$jose monteiro/id=b1750-17-per6
+            ls$residencia/a da gorda
+
+      bap$b1750-18/5/7/1750/fl.116/igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$domingos/m/obs="o qual tinha baptizado em caza por estar moribundo"/id=b1750-18-per1
+            ls$datanasc/17500604
+
+         pn$antonio da silva/id=b1750-18-per2
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         mn$catarina antonia/id=b1750-18-per3
+            ls$locbaptismo/freguesia de sao lourencó, azeitao
+            ls$loccasamento/igreja de sao pedro
+
+         pad$domingos martins/id=b1750-18-per4
+
+      bap$b1750-19/16/8/1750/fl.116/igreja de santa maria/teodosio de abreu e silva (padre, beneficiado a igreja de santa maria)/obs=assina paroco o beneficiado teodosio de abreu e silva
+
+         n$maria/f/id=b1750-19-per1
+            ls$datanasc/17500805
+
+         pn$antonio gomes/id=b1750-19-per2
+            ls$locbaptismo/sao pedro
+            ls$loccasamento/igreja de santa maria
+            ls$residencia/casais de alentejo
+
+         mn$luisa da nazare/id=b1750-19-per3
+            ls$locbaptismo/sao pedro, carvalhal
+            ls$loccasamento/igreja de santa maria
+
+         pad$manuel de sequeira/id=b1750-19-per4
+
+         mad$micaela maria de jesus/id=b1750-19-per5
+            ls$residencia/sancheira
+
+      bap$b1750-20/1/11/1750/fl.116v./igreja de santa maria/francisco de matos (padre da freguesia de sao tiago)/obs=assina francisco de matos
+
+         n$maria/f/id=b1750-20-per1
+            ls$datanasc/17501023
+
+         pn$antonio jose/id=b1750-20-per2
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$residencia/moinho do redondo
+
+         mn$maria madalena/id=b1750-20-per3
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+
+         pad$joao francisco/id=b1750-20-per4
+            ls$residencia/arrabalde
+
+      bap$b1750-21/2/11/1750/fl.117/igreja de santa maria/francisco de matos (padre, cura da freguesia de sao tiago)/obs=assina francisco de matos
+
+         n$joao/m/id=b1750-21-per1
+            ls$datanasc/17501019
+
+         pn$manuel leal/id=b1750-21-per2
+            ls$locbaptismo/freguesia de santa maria
+            ls$naturalidade/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/arrabalde
+
+         mn$ana maria joaquina/id=b1750-21-per3
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de santa maria
+
+         pad$joao felix de brito pegado/id=b1750-21-per4
+            ls$cargo/capitao mor
+
+         mad$ana maria joaquina/id=b1750-21-per5
+
+         mrmad$bernardo antonio de azevedo/id=b1750-21-per6
+            ls$titulo/doutor
+
+         procurador-mad$nome desconhecido/id=b1750-21-per7
+
+      bap$b1750-22/4/11/1750/fl.117v./igreja de santa maria/francisco de matos (padre, cura da freguesia de sao tiago)/obs=assina francisco de matos
+
+         n$antonio/m/id=b1750-22-per1
+            ls$datanasc/17501027
+
+         pn$manuel goncalves/id=b1750-22-per2
+            ls$residencia/senhor jesus da pedra
+            ls$naturalidade/freguesia de nossa senhora da cova
+            ls$bispado/coimbra
+
+         mn$vitoria luisa/id=b1750-22-per3
+            ls$naturalidade/freguesia de rifogios de lima
+            ls$arcebispado/braga
+            ls$loccasamento/freguesia de nossa senhora da encarnacao, lisboa
+
+         pad$manuel da mota/id=b1750-22-per4
+            ls$residencia/senhor jesus da pedra
+
+      bap$b1750-23/15/11/1750/fl.119/igreja de santa maria/francisco de matos (padre, cura da freguesia de sao tiago)/obs=assina francisco de matos
+
+         n$vitorino/m/id=b1750-23-per1
+            ls$datanasc/17501102
+
+         pn$valeriano da costa/id=b1750-23-per2
+            ls$residencia/gaeiras
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/ermida de sao marcos, gaeiras
+
+         mn$sebastiana maria/id=b1750-23-per3
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/ermida de sao marcos, gaeiras
+
+         pad$jose jeronimo/id=b1750-23-per4
+
+         ppad$frutuoso inacio furtado/id=b1750-23-per5
+
+         mad$faustina cardoso de andrade/id=b1750-23-per6
+            ls$residencia/lisboa
+
+         procurador-mad$gregorio antunes correia/id=b1750-23-per7
+            ls$residencia/obidos

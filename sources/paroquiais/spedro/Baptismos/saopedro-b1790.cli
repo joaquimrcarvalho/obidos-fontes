@@ -1,0 +1,1094 @@
+kleio$gacto.str/prefix=spedro
+   fonte$baptismos1790/localizacao-a.d.l./freguesia de sao pedro
+
+      bap$b1790-4/13/1/1790/fl.36v.-37/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joaquim/m/id=b1790-4-per1
+            ls$datanasc/17891219
+
+         pn$jose antonio pereira da costa/id=b1790-4-per2
+            ls$residencia/obidos
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$gertrudes rosa da conceicao furtado/id=b1790-4-per3
+            ls$residencia/obidos
+            ls$naturalidade/, freguesia de nossa senhora da purificacao
+            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            ls$loccasamento/freguesia de sao tiago
+
+         pad1$jose joaquim da mota pinheiro/id=b1790-4-per4
+            ls$residencia/santarem
+
+         mad1$clara maria de oliveira/id=b1790-4-per5
+            ls$residencia/obidos
+
+         mrmad1$joao crisostomo/id=b1790-4-per6
+
+         procurador-pad1$francisco manuel furtado/id=b1790-4-per7
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         procurador-mad1$francisco felix amado/obs=duvida na leitura do ultimo nome/id=b1790-4-per8
+            ls$residencia/obidos
+
+      bap$b1790-5a/28/1/1790/fl.37/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jeronimo/m/id=b1790-5a-per1
+            ls$datanasc/17890109
+
+         pn$joaquim antonio/id=b1790-5a-per2
+            ls$residencia/obidos
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro do bom jesus do carvalhal
+
+         mn$antonia margarida/id=b1790-5a-per3
+            ls$residencia/obidos
+            ls$naturalidade/salgueiro, freguesia de sao pedro do bom jesus do carvalhal
+            ls$locbaptismo/freguesia de sao pedro do bom jesus do carvalhal
+            ls$loccasamento/freguesia de sao pedro do bom jesus do carvalhal
+
+         pad1$jeronimo pedro fialho de mendonca/id=b1790-5a-pad
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+         ppad1$pedro jose luis fialho de mendonca/id=b1790-5a-ppad
+            ls$cargo/monteiro mor de obidos
+            ls$residencia/obidos
+
+         mad1$maria benedita fialho de mendonca/id=b1790-5a-mad
+            ls$titulo/dona
+            ls$residencia/obidos
+            rel$parentesco/irma/jeronimo pedro fialho de mendonca/b1790-5a-pad
+
+         pmad1$pedro jose luis fialho de mendonca/mesmo_que=b1790-5a-ppad/id=b1790-5a-per4
+            ls$cargo/monteiro mor de obidos
+            ls$residencia/obidos
+
+         procurador-mad1$luis manuel fialho de mendonca/id=b1790-5a-procu
+            ls$residencia/obidos
+            rel$parentesco/irmao/maria benedita fialho de mendonca/b1790-5a-mad
+
+            referido$pedro jose luis fialho de mendonca/mesmo_que=b1790-5a-ppad/id=b1790-5a-procu-per5
+               ls$cargo/monteiro mor de obidos
+               ls$residencia/obidos
+               rel$parentesco/pai/luis manuel fialho de mendonca/b1790-5a-procu
+
+      bap$b1790-6/4/2/1790/fl.37-37v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$maria/f/id=b1790-6-n
+            ls$locnascimento/obidos
+            ls$datanasc/17900121
+
+            referido$joao carlos da silva/id=b1790-6-n-per1
+               ls$cargo/padre da igreja de santa maria
+               ls$titulo/reverendo
+               rel$sociabilidade/baptizou em necessidade/maria/b1790-6-n
+
+         pn$jose da silva/id=b1790-6-per2
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de santa maria
+
+         mn$luciana maria da nazare/id=b1790-6-per3
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de santa maria
+
+         pad1$jose osvaldo de leao%joze usbaldo de leao/id=b1790-6-per4
+
+         mad1$ana jose maria pacheco de leao/id=b1790-6-per5
+            ls$titulo/dona
+
+         procurador-mad1$rodrigo teixeira de sampaio/id=b1790-6-per6
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+
+      bap$b1790-7/9/2/1790/fl.37v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joao/m/id=b1790-7-per1
+            ls$datanasc/17900126
+            ls$residencia/obidos
+
+         pn$joaquim gomes/id=b1790-7-per2
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$rosa caetana/id=b1790-7-per3
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$jose de lima e noronha/id=b1790-7-per4
+            ls$residencia/quinta da granja
+
+         procurador-pad1$marcelino pereira da silva/id=b1790-7-per5
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad1$teresa joaquina teixeira brandao e andrade/id=b1790-7-per6
+            ls$titulo/dona
+            ls$residencia/quinta da granja
+
+         procurador-mad1$joaquim francisco da costa gaio/id=b1790-7-per7
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      bap$b1790-8/28/2/1790/fl.37v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$paula/f/id=b1790-8-per1
+            ls$residencia/obidos
+            ls$datanasc/17900218
+
+         pn$manuel da silva/id=b1790-8-per2
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de santa maria
+
+         mn$rosa maria/id=b1790-8-per3
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de santa maria
+
+         pad1$paulo rodrigues da silva/id=b1790-8-per4
+            ls$residencia/obidos
+
+      bap$b1790-9/20/3/1790/fl.37v.-38/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$ana/f/id=b1790-9-n
+            ls$datanasc/17900312
+            ls$residencia/obidos
+
+         pn$jose bernardo amorim/obs=duvida na leitura do ultimo apelido/id=b1790-9-per1
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$maria do nascimento/id=b1790-9-per2
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$tome vieira/id=b1790-9-per3
+            rel$parentesco/avo/ana/b1790-9-n
+            ls$residencia/usseira
+
+         mad1$nossa senhora da piedade/id=b1790-9-per4
+
+         procurador-mad1$jose vieira/obs=tocou com a coroa de nossa senhora da piedade/id=b1790-9-per5
+            ls$residencia/usseira
+
+      bap$b1790-10/20/4/1790/fl.38/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$ana/f/id=b1790-10-n
+            ls$datanasc/17900319
+
+         pn$antonio gomes/id=b1790-10-per1
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$gertrudes maria/id=b1790-10-per2
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$manuel gomes/id=b1790-10-per3
+            rel$parentesco/tio/ana/b1790-10-n
+            ls$residencia/casais de alentejo
+
+         mad1$ana joaquina/id=b1790-10-per4
+
+         pmad1$joaquim ferreira/id=b1790-10-per5
+            ls$residencia/casal branco
+
+      bap$b1790-11/22/4/1790/fl.38/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joaquim/m/id=b1790-11-per1
+            ls$datanasc/17900331
+            ls$residencia/casais das cachinas
+
+         pn$joaquim manuel/id=b1790-11-per2
+            ls$residencia/casal das cachinas
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$maria do nascimento/id=b1790-11-per3
+            ls$residencia/casal das cachinas
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$joaquim antonio de sequeira/id=b1790-11-per4
+            ls$cargo/tesoureiro da igreja de santa maria de obidos
+
+      bap$b1790-12/25/4/1790/fl.38-38v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$antonio/m/id=b1790-12-per1
+            ls$residencia/usseira
+            ls$datanasc/17900411
+
+         pn$joao dos reis/obs=duvida na leitura do nome/id=b1790-12-per2
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$maria joaquina/id=b1790-12-per3
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$antonio das neves/id=b1790-12-per4
+            ls$residencia/usseira
+
+         ppad1$manuel das neves/id=b1790-12-per5
+            ls$residencia/usseira
+
+         mad1$maria teodora da silva/id=b1790-12-per6
+            ls$residencia/usseira
+
+         pmad1$manuel da silva/id=b1790-12-per7
+            ls$residencia/usseira
+
+      bap$b1790-13/26/4/1790/fl.38v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jose/m/id=b1790-13-per1
+            ls$residencia/obidos
+            ls$datanasc/17900431
+
+         pn$vicente ferreira/id=b1790-13-per2
+            ls$residencia/obidos
+            ls$naturalidade/alcobertas, freguesia de santa maria madalena/obs=termo de alcanede
+            ls$locbaptismo/freguesia de santa maria madalena, termo de alcanede
+            ls$loccasamento/freguesia de santa maria
+
+         mn$catarina rosa de jesus/id=b1790-13-per3
+            ls$residencia/obidos
+            ls$naturalidade/alvorninha, freguesia de nossa senhora da visitacao
+            ls$locbaptismo/freguesia de nossa senhora da visitacao
+            ls$loccasamento/freguesia de santa maria
+
+         pad1$jose bernardo de amorim/id=b1790-13-per4
+            ls$residencia/obidos
+
+      bap$b1790-14/28/4/1790/fl.38v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jose/m/id=b1790-14-n
+            ls$residencia/obidos
+            ls$datanasc/17900404
+
+            referido$jose luis fialho de mendonca/id=b1790-14-n-per1
+               ls$cargo/cura
+               ls$cargo/beneficiado da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/jose/b1790-14-n
+
+         pn$francisco dos santos/id=b1790-14-per2
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$rosa maria/id=b1790-14-per3
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$antonio pedro/id=b1790-14-per4
+            ls$titulo/reverendo
+            ls$cargo/economo da igreja de santa maria de obidos
+
+      bap$b1790-15/2/5/1790/fl.38v.-39/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jose/m/id=b1790-15-per1
+            ls$residencia/usseira
+            ls$datanasc/17900423
+
+         pn$placido das neves/id=b1790-15-per2
+            ls$residencia/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$bernardina maria/id=b1790-15-per3
+            ls$residencia/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$jose manuel de amorim/id=b1790-15-pad
+            ls$residencia/obidos
+
+         ppad1$jose bernardo de amorim/id=b1790-15-ppad
+
+         mad1$mariada piedade/id=b1790-15-per4
+            rel$parentesco/irma/jose manuel de amorim/b1790-15-pad
+            ls$residencia/obidos
+
+         pmad1$jose bernardo de amorim/mesmo_que=b1790-15-ppad/id=b1790-15-per5
+
+         procurador-mad1$jose bernardo de amorim/mesmo_que=b1790-15-ppad/id=b1790-15-per6
+
+      bap$b1790-16/6/5/1790/fl.39/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$maria/f/id=b1790-16-per1
+            ls$residencia/obidos
+            ls$datanasc/17900403
+
+         pn$estanislau da silva leitao/id=b1790-16-per2
+            ls$titulo/doutor
+            ls$residencia/obidos
+            ls$naturalidade/lourinha, freguesia de nossa senhora da anunciacao
+            ls$locbaptismo/lourinha, freguesia de nossa senhora da anunciacao
+            ls$loccasamento/lourinha, freguesia de nossa senhora da anunciacao
+
+         mn$marcelina rosa e gouveia/id=b1790-16-per3
+            ls$titulo/dona
+            ls$residencia/obidos
+            ls$naturalidade/alenquer, freguesia de santa maria da varzea
+            ls$locbaptismo/alenquer, freguesia de santa maria da varzea
+            ls$loccasamento/lourinha, freguesia de nossa senhora da anunciacao
+
+         pad1$joaquim gomes/id=b1790-16-per4
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/usseira
+
+         mad1$nossa senhora da piedade/id=b1790-16-per5
+
+         procurador-mad1$jose antonio de azevedo/obs=tocou com a coroa de nossa senhora da piedade/id=b1790-16-per6
+            ls$residencia/obidos
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+
+      bap$b1790-17/27/5/1790/fl.39-39v./igreja de sao pedro/joaquim jose de matos (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joaquim/m/id=b1790-17-n
+            ls$datanasc/17900515
+            ls$residencia/obidos
+
+         pn$gregorio jose de faria/id=b1790-17-per1
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$luisa craveiro de miranda e silva/id=b1790-17-per2
+            ls$titulo/dona
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$francisco bernardo leal/id=b1790-17-per3
+            ls$residencia/santarem
+
+         procurador-pad1$francisco craveiro/id=b1790-17-per4
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+            rel$parentesco/tio/joaquim/b1790-17-n
+            ls$residencia/obidos
+
+         mad1$delfina rosa da conceicao/id=b1790-17-per5
+            ls$residencia/santarem
+
+         procurador-mad1$antonio jose de faria/id=b1790-17-per6
+            ls$residencia/obidos
+            rel$parentesco/tio/joaquim/b1790-17-n
+
+      bap$b1790-18/9/6/1790/fl.39v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joao/m/id=b1790-18-per1
+            ls$datanasc/17900522
+
+         pn$pedro antonio/id=b1790-18-per2
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao joao baptista, alfeizerao/obs=coutos de alcobaca
+            ls$loccasamento/freguesia de sao joao baptista do mocharro
+            ls$enjeitado/sim/obs=filho de pais incognitos
+
+         ppn$nome desconhecido/id=b1790-18-per3
+
+         mpn$nome desconhecido/id=b1790-18-per4
+
+         mn$ana rosa/id=b1790-18-per5
+            ls$residencia/obidos
+            ls$naturalidade/sobral da lagoa, freguesia de sao joao baptista do mocharro
+            ls$locbaptismo/freguesia de sao joao baptista do mocharro
+            ls$loccasamento/freguesia de sao joao baptista do mocharro
+
+         pad1$joao leal ferreira/id=b1790-18-per6
+            ls$residencia/obidos
+
+         mad1$caetana dos santos/id=b1790-18-per7
+            ls$residencia/obidos
+
+         procurador-mad1$roberto caetano/id=b1790-18-per8
+            ls$residencia/obidos
+
+      bap$b1790-19/6/5/1790/fl.39v.-40/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jose/m/id=b1790-19-per1
+            ls$residencia/camarnais
+            ls$datanasc/17900506
+
+         pn$antonio jose ribeiro/id=b1790-19-per2
+            ls$residencia/camarnais
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$claudia maria dos reis/id=b1790-19-per3
+            ls$residencia/camarnais
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$jose maria de sousa/id=b1790-19-per4
+            ls$residencia/avenal
+
+         mad1$genoveva dos santos/id=b1790-19-per5
+            ls$residencia/camarnais
+
+         mrmad1$jose joao/id=b1790-19-per6
+            ls$residencia/camarnais
+
+      bap$b1790-20/20/6/1790/fl.40/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jose/m/id=b1790-20-per1
+            ls$residencia/usseira
+            ls$datanasc/17900524
+
+         pn$manuel ferreira zambujano/id=b1790-20-per2
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$joaquina maria marques/id=b1790-20-per3
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$antonio das neves/id=b1790-20-per4
+            ls$residencia/usseira
+
+         mad1$bebiana da nazare/id=b1790-20-per5
+            ls$residencia/usseira
+
+      bap$b1790-21/28/6/1790/fl.40/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$antonio/m/id=b1790-21-per1
+            ls$residencia/obidos
+            ls$datanasc/17900613
+
+         pn$francisco januario da silva/id=b1790-21-per2
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$teotonio francisco/obs=duvida na leitura do nome, ou é antonio ou teotonio/id=b1790-21-per3
+            ls$loccasamento/freguesia de sao pedro
+            ls$locbaptismo/torres vedras, freguesia de sao pedro
+
+         mpn$antonia maria/id=b1790-21-per4
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$maria da piedade/id=b1790-21-per5
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$teodoro francisco correia/id=b1790-21-per6
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         mmn$maria rosa/id=b1790-21-per7
+            ls$locbaptismo/freguesia de sao tiago
+
+         pad1$joaquim jose soares/id=b1790-21-per8
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad1$rosa joaquina de santo aniceto/id=b1790-21-per9
+            ls$residencia/obidos
+
+         procurador-mad1$miguel barbosa/id=b1790-21-per10
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      bap$b1790-22/6/7/1790/fl.40v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$barbara/f/id=b1790-22-n
+            ls$datanasc/17900629
+            ls$residencia/obidos
+
+            referido$carlos jose de carvalho/id=b1790-22-n-per1
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
+               rel$sociabilidade/baptizou em necessidade/barbara/b1790-22-n
+
+         pn$jose ferreira/id=b1790-22-per2
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         ppn$antonio jose ferreira/id=b1790-22-per3
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/peniche
+
+         mpn$quiteria maria/id=b1790-22-per4
+            ls$naturalidade/peniche
+            ls$locbaptismo/peniche
+            ls$loccasamento/peniche
+
+         mn$margarida rosa/id=b1790-22-per5
+            ls$residencia/obidos
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/freguesia de santa maria
+
+         pmn$henrique jose da silva/id=b1790-22-per6
+            ls$locbaptismo/setubal
+
+         mmn$maria inacia/id=b1790-22-per7
+            ls$locbaptismo/freguesia de santa maria
+
+         pad1$manuel francisco/id=b1790-22-per8
+            ls$profissao/carpinteiro
+            ls$residencia/obidos
+
+         mad1$maria isabel/id=b1790-22-per9
+            rel$parentesco/tia/barbara/b1790-22-n
+            ls$residencia/obidos
+
+      bap$b1790-23/7/7/1790/fl.40v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joaquim/m/id=b1790-23-per1
+            ls$datanasc/17900617
+            ls$residencia/obidos
+
+         pn$joao duarte/id=b1790-23-per2
+            ls$residencia/obidos
+            ls$naturalidade/bombarral, freguesia de sao salvador
+            ls$locbaptismo/freguesia de sao salvador
+            ls$loccasamento/freguesia de santa maria
+
+         ppn$manuel gomes/id=b1790-23-per3
+            ls$residencia/bombarral
+
+         mpn$rosa maria/id=b1790-23-per4
+            ls$residencia/bombarral
+
+         mn$maria benedita/id=b1790-23-per5
+            ls$residencia/obidos
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pmn$antonio jose/id=b1790-23-per6
+            ls$residencia/obidos
+
+         mpn$joana maria/id=b1790-23-per7
+            ls$residencia/obidos
+
+         pad1$joao crisostomo de sousa/id=b1790-23-per8
+            ls$residencia/obidos
+
+         mad1$nossa senhora da piedade/id=b1790-23-per9
+
+         procurador-mad1$valentim jose/id=b1790-23-per10
+            ls$residencia/obidos
+
+      bap$b1790-24/18/7/1790/fl.41/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joaquina/f/id=b1790-24-per1
+            ls$datanasc/17900620
+
+         pn$manuel justino/id=b1790-24-per2
+            ls$residencia/vale de alvito, limite da freguesia de sao pedro
+            ls$naturalidade/vidais, freguesia de nossa senhora dos prazeres
+            ls$locbaptismo/freguesia de nossa senhora dos prazeres
+            ls$loccasamento/freguesia de santa maria madalena, a dos negros
+
+         ppn$antonio luis/id=b1790-24-per3
+            ls$naturalidade/vidais
+            ls$loccasamento/alvorninha
+
+         mpn$quiteria maria/id=b1790-24-per4
+            ls$naturalidade/alvorninha
+            ls$locbaptismo/alvorninha
+            ls$loccasamento/alvorninha
+
+         mn$josefa maria/id=b1790-24-per5
+            ls$residencia/vale de alvito, limite da freguesia de sao pedro
+            ls$naturalidade/bispado de leiria
+            ls$locbaptismo/freguesia de sao tiago do arrabalde da ponte
+            ls$loccasamento/a dos negros, freguesia de santa maria madalena
+
+         pmn$manuel dos reis/id=b1790-24-per6
+            ls$naturalidade/bispado de coimbra
+            ls$loccasamento/freguesia de amor
+            ls$bispado/leiria
+
+         mmn$maria josefa/id=b1790-24-per7
+            ls$naturalidade/bispado de coimbra
+            ls$loccasamento/freguesia de amor
+            ls$bispado/leiria
+
+         pad1$isidoro monteiro/id=b1790-24-per8
+            ls$residencia/gaeiras
+
+         mad1$joaquina maria/id=b1790-24-per9
+            ls$residencia/quinta da charneca
+
+      bap$b1790-25/29/7/1790/fl.41-41v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$luis/m/id=b1790-25-per1
+            ls$datanasc/17900708
+            ls$residencia/obidos
+
+         pn$filipe de freitas e paiva/id=b1790-25-per2
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de santa maria
+
+         ppn$francisco de sousa/id=b1790-25-per3
+
+         mpn$maria de freitas/id=b1790-25-per4
+
+         mn$maria margarida justiniana da serra/id=b1790-25-per5
+            ls$residencia/obidos
+            ls$titulo/dona
+            ls$locbaptismo/freguesia de sao tiago
+
+         pmn$jose joaquim henriques/id=b1790-25-per6
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mmn$maria do carmo/id=b1790-25-per7
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         pad1$luis de melo da silva e sa/id=b1790-25-pad
+            ls$residencia/amoreira
+
+         procurador-pad1$luis antonio de andrade/id=b1790-25-per8
+            ls$cargo/quartel mestre da amoreira
+
+         mad1$teresa barbara de melo/id=b1790-25-per9
+            ls$titulo/dona
+            ls$residencia/amoreira
+            rel$parentesco/irma/luis de melo da silva e sa/b1790-25-pad
+
+         procurador-mad1$luis jose pereira freire de andrade/id=b1790-25-per10
+            ls$titulo/doutor
+            ls$cargo/juiz de fora de obidos
+
+      bap$b1790-26/31/7/1790/fl.41v./igreja de sao pedro/jose pereira da serra (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jose/m/id=b1790-26-per1
+            ls$datanasc/17900708
+            ls$residencia/obidos
+
+         pn$manuel jose martins chaves/id=b1790-26-per2
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de santa maria madalena, vila da torre/obs=coutos de ervededo
+            ls$arcebispado/braga
+
+         ppn$nome desconhecido/obs=nao indica o nome/id=b1790-26-per3
+            ls$naturalidade/carcoa
+            ls$nacionalidade/galiza
+            ls$bispado/ourense
+            ls$locbaptismo/freguesia santa balha
+
+         mpn$nome desconhecido/obs=nao indica o nome/id=b1790-26-per4
+            ls$locbaptismo/freguesia de santa maria madalena, vila da torre/obs= coutos de ervededo
+            ls$arcebispado/braga
+
+         mn$ana joaquina da luz/id=b1790-26-per5
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$manuel da luz/id=b1790-26-per6
+            ls$locbaptismo/lisboa, freguesia de santa catarina do monte sinai
+            ls$loccasamento/freguesia de santa maria
+
+         mmn$maria antonia/id=b1790-26-per7
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pad1$joao caetano da fonseca/id=b1790-26-per8
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+         mad1$bernardina francisca de paula/id=b1790-26-per9
+            ls$residencia/lisboa
+
+         referido$feliciano gomes da silveira/id=b1790-26-per10
+            ls$residencia/obidos
+
+      bap$b1790-27/14/9/1790/fl.42/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joaquim/m/id=b1790-27-per1
+            ls$residencia/obidos
+            ls$datanasc/17900821
+
+         pn$jose de castro matutino/id=b1790-27-per2
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+            ls$naturalidade/lisboa
+            ls$locbaptismo/freguesia de santa isabel
+
+         ppn$manuel antonio matutino/id=b1790-27-per3
+            ls$residencia/lisboa, freguesia de santa isabel
+
+         mpn$ana joaquina de sao miguel/id=b1790-27-per4
+            ls$residencia/lisboa, freguesia de santa isabel
+
+         mn$gertrudes angelica do espirito santo/id=b1790-27-per5
+            ls$residencia/obidos
+            ls$loccasamento/freguesia de sao pedro
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pmn$frutuoso pita soares/id=b1790-27-per6
+            ls$naturalidade/viana de caminha
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$ana maria/id=b1790-27-per7
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$joaquim da costa contreiras/id=b1790-27-per8
+            ls$residencia/fanadia
+            ls$profissao/padre
+
+         mad1$senhora da piedade/id=b1790-27-per9
+
+         procurador-mad1$francisco maria de castro/obs=tocou com a coroa da senhora da piedade/id=b1790-27-per10
+            ls$residencia/obidos
+
+      bap$b1790-28/18/9/1790/fl.42/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$francisco/m/id=b1790-28-per1
+            ls$residencia/pinhal
+            ls$datanasc/17900828
+
+         pn$jose pereira/id=b1790-28-per2
+            ls$residencia/pinhal
+            ls$locbaptismo/freguesia de sao joao
+            ls$loccasamento/freguesia de sao joao
+
+         ppn$jose pereira/id=b1790-28-per3
+            ls$residencia/casal da calcada
+            ls$freguesia/sao joao
+
+         mpn$maria das neves/id=b1790-28-per4
+            ls$residencia/casal da calcada
+            ls$freguesia/sao joao
+
+         mn$josefa maria/id=b1790-28-per5
+            ls$residencia/pinhal
+            ls$locbaptismo/freguesia de sao joao
+            ls$loccasamento/freguesia de sao joao
+
+         pmn$jose henriques/id=b1790-28-per6
+            ls$residencia/casal da calcada, freguesia de sao joao
+
+         mmn$antonia maria/id=b1790-28-per7
+            ls$residencia/casal da calcada, freguesia de sao joao
+
+         pad1$tome vieira/id=b1790-28-per8
+            ls$residencia/usseira
+
+         mad1$mariana gertrudes/id=b1790-28-per9
+            ls$residencia/a da gorda
+
+      bap$b1790-29/3/10/1790/fl.42-42v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$antonio/m/id=b1790-29-per1
+            ls$datanasc/17900915
+            ls$residencia/obidos
+
+         pn$severino gomes/id=b1790-29-per2
+            ls$enjeitado/sim/obs=filho de pais incognitos
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$nome desconhecido/id=b1790-29-per3
+
+         mpn$nome desconhecido/id=b1790-29-per4
+
+         mn$maria da piedade/id=b1790-29-per5
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$jose pereira/id=b1790-29-per6
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$catarina maria/id=b1790-29-per7
+            ls$loccasamento/igreja de sao pedro
+
+         pad1$jose soares monteiro/id=b1790-29-per8
+            ls$naturalidade/obidos
+            ls$residencia/lisboa
+
+         procurador-pad1$jose bernardo de amorim/id=b1790-29-per9
+
+         mad1$senhora da piedade/id=b1790-29-per10
+
+         procurador-mad1$jose maria/obs=duvida na leitura do nome/id=b1790-29-per11
+            rel$parentesco/sobrinho/nome desconhecido/b1790-29-referido
+
+            referido$nome desconhecido/id=b1790-29-referido
+               ls$titulo/reverendo
+               ls$cargo/prior da igreja de sao pedro
+
+      bap$b1790-30/3/10/1790/fl.42v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$antonio/m/id=b1790-30-per1
+            ls$residencia/pinhal
+            ls$datanasc/17900928
+
+         pn$antonio francisco/id=b1790-30-per2
+            ls$residencia/pinhal
+            ls$loccasamento/igreja de sao pedro
+            ls$locbaptismo/freguesia de nossa senhora da anunciacao, tornada
+
+         ppn$francisco gomes/id=b1790-30-per3
+
+         mpn$maria pereira/id=b1790-30-per4
+
+         mn$maria inacia/id=b1790-30-per5
+            ls$residencia/pinhal
+            ls$loccasamento/igreja de sao pedro
+            ls$locbaptismo/freguesia de nossa senhora da piedade, vidais
+
+         pmn$jose de oliveira/id=b1790-30-per6
+            ls$loccasamento/freguesia de vidais
+
+         mmn$luisa maria/id=b1790-30-per7
+            ls$loccasamento/freguesia de vidais
+
+         pad1$jose henriques santo/id=b1790-30-per8
+            ls$residencia/chao da parada
+
+         mad1$antonia maria/id=b1790-30-per9
+            ls$residencia/ribeira dos vidais
+
+      bap$b1790-31/24/11/1790/fl.42v.-43/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joao/m/id=b1790-31-per1
+            ls$datanasc/17901110
+            ls$residencia/camarnais
+
+         pn$francisco rodrigues/id=b1790-31-per2
+            ls$residencia/camarnais
+            ls$locbaptismo/freguesia de sao joao
+            ls$loccasamento/a dos negros, freguesia de santa maria madalena
+
+         ppn$sebastiao rodrigues/id=b1790-31-per3
+            ls$residencia/casal de santa maria madalena
+
+         mpn$brisida maria/id=b1790-31-per4
+            ls$residencia/casal de santa maria madalena
+
+         mn$brisida maria de oliveira/id=b1790-31-per5
+            ls$residencia/camarnais
+            ls$locbaptismo/freguesia de santa maria madalena, a dos negros
+            ls$loccasamento/freguesia de santa maria madalena, a dos negros
+
+         pmn$manuel pereira/id=b1790-31-per6
+            ls$residencia/camarnais
+
+         mmn$maria de oliveira/id=b1790-31-per7
+            ls$residencia/camarnais
+
+         pad1$joao ferreira quintinha/id=b1790-31-per8
+            ls$residencia/caldas
+
+         mad1$josefa maria/id=b1790-31-per9
+
+         mrmad1$jose inacio/id=b1790-31-per10
+            ls$residencia/cateloes
+
+      bap$b1790-32/2/12/1790/fl.43/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$gertrudes/f/id=b1790-32-n
+            ls$datanasc/17901108
+            ls$residencia/obidos
+
+            referido$bernardo felix henriques/id=b1790-32-n-per1
+               ls$titulo/reverendo
+               ls$profissao/padre
+               rel$sociabilidade/baptizou em necessidade/gertrudes/b1790-32-n
+               ls$loccasamento/freguesia de santa maria
+
+         pn$joaquim antonio de carvalho e campos/id=b1790-32-per2
+            ls$locbaptismo/igreja de sao tiago
+
+         ppn$jose soares campos/id=b1790-32-per3
+            ls$residencia/gaeiras
+
+         mpn$teresa maria de jesus/id=b1790-32-per4
+            ls$residencia/gaeiras
+
+         mn$casimira antonia de seixas furtado/id=b1790-32-per5
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de nossa senhora da purificacao, alcanede
+            ls$loccasamento/freguesia de santa maria
+
+         pmn$antonio carvalho da costa/id=b1790-32-per6
+            ls$residencia/alcanede
+
+         mmn$maria teresa de seixas furtado/id=b1790-32-per7
+            ls$residencia/alcanede
+
+         pad1$luis de melo da silva e sa/id=b1790-32-per8
+
+         procurador-pad1$antonio moreira/id=b1790-32-per9
+            ls$residencia/amoreira
+
+         mad1$teresa barbara de melo/id=b1790-32-per10
+            ls$residencia/amoreira
+
+         procurador-mad1$miguel barbosa neves/id=b1790-32-per11
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      bap$b1790-33/3/12/1790/fl.43v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$joaquim/m/id=b1790-33-per1
+            ls$datanasc/17901119
+
+         pn$francisco antonio/id=b1790-33-per2
+            ls$profissao/sapateiro
+            ls$residencia/obidos
+            ls$locbaptismo/bombarral, freguesia de sao salvador
+            ls$loccasamento/freguesia de santa maria
+
+         ppn$cornelio francisco/id=b1790-33-per3
+            ls$enjeitado/sim/obs=filho do real hospital de lisboa
+            ls$loccasamento/freguesia do bombarral
+
+         mpn$gracia henriques/id=b1790-33-per4
+            ls$locbaptismo/freguesia de sao tome de lamas
+            ls$loccasamento/freguesia do bombarral
+
+         mn$ana joaquina/id=b1790-33-per5
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         pmn$jose da silva lavareda/id=b1790-33-per6
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/salir do porto, freguesia de nossa senhora da conceicao
+
+         mmn$francisca maria/id=b1790-33-per7
+            ls$locbaptismo/salir do porto, freguesia de nossa senhora da conceicao
+            ls$loccasamento/salir do porto, freguesia de nossa senhora da conceicao
+
+         pad1$joaquim da costa/id=b1790-33-per8
+
+         ppad1$jose da costa/id=b1790-33-per9
+            ls$residencia/obidos
+
+      bap$b1790-34/5/12/1790/fl.43v.-44/igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$jose/m/id=b1790-34-per1
+            ls$residencia/usseira
+            ls$datanasc/17901125
+
+         pn$jose pereiro/id=b1790-34-per2
+            ls$residencia/usseira
+            ls$naturalidade/rolica
+            ls$locbaptismo/rolica, freguesia de nossa senhora da purificacao
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$rafael da fonseca/id=b1790-34-per3
+            ls$locbaptismo/freguesia de santo antonio da bento
+            ls$bispado/porto
+
+         mpn$joana teresa/id=b1790-34-per4
+            ls$locbaptismo/freguesia da rolica
+            ls$loccasamento/freguesia da rolica
+
+         mn$maria inacia/id=b1790-34-per5
+            ls$residencia/usseira
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$manuel das neves/id=b1790-34-per6
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria inacia/id=b1790-34-per7
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$jose gomes/id=b1790-34-per8
+            ls$alcunha/o cego
+            ls$residencia/usseira
+
+         mad1$maria do carmo/id=b1790-34-per9
+            ls$residencia/usseira
+
+         pmad1$teotonio gomes/id=b1790-34-per10
+            ls$residencia/usseira
+            ls$morto/antes
+
+      bap$b1790-35/13/12/1790/fl.44/igreja de sao pedro/jose pereira da serra (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$francisco/m/id=b1790-35-per1
+            ls$datanasc/17901122
+            ls$residencia/obidos
+
+         pn$vicente ferreira/id=b1790-35-per2
+            ls$residencia/obidos
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$joao ferreira/id=b1790-35-per3
+            ls$locbaptismo/lisboa
+            ls$loccasamento/igreja de santa maria
+
+         mpn$maria josefa/id=b1790-35-per4
+            ls$locbaptismo/freguesia de nossa senhora do martires, serra do bouro
+            ls$loccasamento/igreja de santa maria
+
+         mn$maria antonia/id=b1790-35-per5
+            ls$residencia/obidos
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$jacinto da silva/id=b1790-35-per6
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria antonia/id=b1790-35-per7
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pad1$francisco dinis monteiro malhao/id=b1790-35-per8
+            ls$residencia/obidos
+
+         mad1$angelica joaquina/id=b1790-35-per9
+            ls$residencia/obidos
+
+         pmad1$manuel antonio da costa/id=b1790-35-per10
+            ls$residencia/obidos
+
+      bap$b1790-36/26/12/1790/fl.44-44v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+         n$maria/f/id=b1790-36-n
+            ls$datanasc/17901213
+            ls$residencia/usseira
+
+            referido$jose luis fialho de mendonca/id=b1790-36-n-per1
+               ls$cargo/cura
+               ls$cargo/beneficiado da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/maria/b1790-36-n
+
+         pn$luis pereira/id=b1790-36-per2
+            ls$naturalidade/landal, freguesia do espirito santo
+            ls$residencia/usseira
+            ls$loccasamento/igreja de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+
+         ppn$feliciano pereira/id=b1790-36-per3
+            ls$locbaptismo/igreja de sao tiago
+            ls$loccasamento/landal, igreja do espirito santo
+
+         mpn$josefa maria/id=b1790-36-per4
+            ls$locbaptismo/landal, igreja do espirito santo
+            ls$loccasamento/landal, igreja do espirito santo
+
+         mn$maria antonia da silva/id=b1790-36-per5
+            ls$residencia/usseira
+            ls$naturalidade/usseira
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad1$vicente pereira/id=b1790-36-per6
+            ls$residencia/obidos
+            rel$parentesco/tio/maria/b1790-36-n
+
+         mad1$dionisia januaria gomes/id=b1790-36-per7
+            ls$ec/s
+            ls$residencia/usseira

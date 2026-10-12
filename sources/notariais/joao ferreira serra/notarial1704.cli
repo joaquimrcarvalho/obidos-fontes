@@ -1,0 +1,807 @@
+kleio$gacto.str
+   fonte$not1704/1704/notariais/data=1704/loc=ahl/obs=tabeliao: joao ferreira da serra
+
+      escritura$not1704-e1/14/10/1704/dinheiro a juro/fol=1-2v/loc=obidos, no escritorio do tabeliao/sumario=escritura de 12000 a razao de juro que deu antonio luis a antonio antunes e sua mulher isabel rodrigues todos da amoreira, outorgada a 25 de outubro de 1704
+
+         credor$antonio luis/id=not1704-e1-per1
+            ls$residencia/amoreira
+            ls$assina/sim
+
+         devedor$antonio antunes/id=not1704-e1-per2
+            ls$residencia/amoreira
+            ls$assina/sim
+
+            mulher$isabel rodrigues/id=not1704-e1-per2-per3
+               ls$residencia/amoreira
+
+         divida$12000 reis/a razao de juro de lei/id=not1704-e1-obj1
+
+         garantia$umas casas terreas e uma com sobrado
+            atr$localizacao/amoreira
+            atr$confrontacoes/parte do norte com joao monteiro; a sul com casas de antonio gomes; do poente com a rua
+
+         garantia$uns currais com uma loja, onde chamam os currais, do lugar da amoreira
+            atr$confrontacoes/parte do norte com a rua, do sul com casas de miguel da cunha
+
+         test$diogo de arruda avelar/id=not1704-e1-per4
+            ls$assina/sim/obs=assinou a rogo da outorgante isabel rodrigues e como testemunha
+
+         test$luis pinto/m/id=not1704-e1-per5
+            ls$assina/sim
+
+         test$antonio lopes ferreira/m/id=not1704-e1-per6
+            ls$assina/sim
+
+      escritura$not1704-e2/16/10/1704/compra/fol=2v.-4/loc=obidos, em casa de dom diogo sottomaior/sumario=escritura de compra que fez manuel da horta da foz a dom diogo sottomaior e a sua mulher moradores em obidos
+
+         comprador$manuel da horta/id=not1704-e2-per1
+            ls$residencia/foz
+            ls$assina/cruz
+
+         vendedor$diogo sottomaior/id=not1704-e2-per2
+            ls$residencia/obidos
+            ls$titulo/dom
+            ls$assina/sim
+            ls$assina/bem
+
+            mulher$maria boca negra de alarcao mascarenhas%d. ma.bocanegra de alarcao masca/obs=duvida na leitura do ultimo apelido/id=not1704-e2-per2-per3
+               ls$titulo/dona
+               ls$residencia/obidos
+
+         bem$uma terra
+            atr$localizacao/no limite do lugar da foz
+            atr$confrontacoes/parte do norte com outeiro da costa; do sul com a lagoa; do nascente com maria martins
+            atr$valor/13000 reis
+
+         garantia$uma terra
+            atr$localizacao/no limite do lugar da foz
+            atr$confrontacoes/parte do norte com a fazenda do moinho; do sul com a levada; do nascente com herdeiros de domingos fernandes e de poente com a mesma vala
+
+         test$manuel baptista da cruz/m/id=not1704-e2-per4
+            ls$assina/sim
+            ls$assina/bem
+
+         test$domingos jorge/m/id=not1704-e2-per5
+            ls$residencia/foz
+            ls$assina/cruz
+
+      escritura$not1704-e3/22/10/1704/compra/fol=4-6/loc=obidos, em casas de morada do tabeliao/sumario=escritura de compra que fez o padre domingos jorge a joao rodrigues travessa e sua mulher todos moradores no lugar da mouta/obs=esta escritura ja tinha sido escrita pelo doutor pedro macedo neto nas casas de morada do comprador
+
+         vendedor$joao rodrigues travessa/m/id=not1704-e3-per1
+            ls$residencia/mouta
+            ls$assina/cruz
+
+            mulher$maria filipa/id=not1704-e3-per1-per2
+               ls$residencia/mouta
+
+         comprador$domingos jorge/id=not1704-e3-per3
+            ls$residencia/mouta
+            ls$profissao/padre/obs=comprou uma terra na mouta "para sua comgrua"
+            ls$assina/sim
+
+         bem$uma terra com uma barraquinha
+            atr$localizacao/limite do lugar da mouta, no local a que chamamos burinheiros
+            atr$confrontacoes/parte do norte com o caminho do comprador; do sul com o rio; de nascente e poente com o dito comprador
+            atr$valor/45000 reis pagos logo em moeda corrente de prata e ouro
+
+         test$antonio de campos rego/id=not1704-e3-per4
+            ls$assina/sim
+            ls$titulo/doutor
+            ls$residencia/mouta/obs=assinou como testemunha e a rogo da vendedora maria filipa
+
+         test$antonio pereira cosme/id=not1704-e3-per5
+            ls$profissao/padre
+            ls$residencia/mouta
+
+         test$joao da serra/id=not1704-e3-per6
+            ls$profissao/barbeiro
+            ls$residencia/mouta
+            ls$assina/sim
+
+         referido$pedro macedo neto/id=not1704-e3-per7
+            ls$titulo/doutor/obs=redigiu a escritura de cmpra na casa de domingos jorge
+
+      escritura$not1704-e4/22/10/1704/dinheiro a juro/fol=6-7v./loc=no lugar da mouta/sumario=escritura de 50000 a razao de juro que o doutor antonio de campos rego fez a amador fernandes e sua mulher catarina jorge todos do lugar da mouta
+
+         credor$antonio de campos rego/id=1704-ant
+            ls$titulo/doutor
+            ls$residencia/mouta
+            ls$assina/sim
+            ls$titulo/licenciado
+
+         devedor$amador fernandes/id=not1704-e4-per1
+            ls$residencia/mouta
+            ls$assina/cruz
+            rel$profissional/foreiro/antonio de campos rego/1704-ant
+
+            mulher$catarina jorge/id=not1704-e4-per1-per2
+               ls$residencia/mouta
+
+         divida$50000 reis/a razao de juro "a seis e quarto per sento"/id=not1704-e4-obj1
+
+         garantia$uma terra
+            atr$localizacao/onde chamam o vale, limite do lugar da mouta
+            atr$confrontacoes/parte a norte com estevao de andrade e a sul com manuel gomes, trabalhador do lugar da mouta
+
+         garantia$uma vinha
+            atr$localizacao/onde chamam os burinheiros
+            atr$confrontacoes/parte do norte com joao quaresma; do poente e do sul com joana gomes do lugar da mouta, de alcunha, a formiga
+
+         garantia$uma loja terrea nova que serve de tenda de ferreiro com todos os apetrechos a ela necessarios com seu chao, a roda ermitico
+            atr$localizacao/mouta
+            atr$confrontacoes/parte do norte, sul, nascente e poente com a rua
+
+         test$domingos jorge/m/id=not1704-e4-per3
+            ls$profissao/padre
+            ls$assina/sim
+            ls$residencia/mouta/obs=assinou com testemunha e a rogo da outorgante
+
+         test$manuel do rego/m/id=not1704-e4-per4
+            ls$profissao/sapateiro
+            ls$residencia/mouta
+            ls$assina/sim
+
+         test$manuel do rego/m/id=not1704-e4-per5
+            ls$profissao/carpinteiro
+            ls$residencia/mouta
+            ls$assina/sim
+
+      escritura$not1704-e5/23/10/1704/procuracao/fol=7v.-8/loc=mouta, nas casas de morada do doutor antonio de campos rego/sumario=procuracao que faz maria jorge, a machada, do lugar da mouta ao seu genro manuel do rego do dito lugar
+
+         constituintef$maria jorge/id=not1704-e5-per1
+            ls$alcunha/a machada
+            ls$residencia/mouta
+            ls$ec/viuva
+            ls$assina/nao/obs=como nao sabia escrever, assinou a seu rogo o doutor antonio de campos rego que tambem foi testemunha
+
+            referido$manuel do rego/id=not1704-e5-per1-per2
+               ls$profissao/oficial de sapateiro
+               ls$residencia/mouta
+               rel$parentesco/genro/maria jorge/not1704-e5-per1
+               rel$sociabilidade/procurador/maria jorge/not1704-e5-per1
+
+         test$antonio de campos do rego/id=not1704-e5-per3
+            ls$titulo/doutor
+            ls$residencia/mouta
+            ls$assina/sim/obs=assinou como testemunha e a rogo da outorgante maria jorge
+
+         test$jose antunes/m/id=not1704-e5-per4
+            ls$residencia/mouta
+            ls$assina/sim
+
+         test$amador fernandes/m/id=not1704-e5-per5
+            ls$residencia/mouta
+            ls$assina/cruz
+
+      escritura$not1704-e6/27/10/1704/procuracao/fol=8v.-9/loc=obidos, no escritorio do tabeliao/sumario=procuracao que fazem jose pereira e sua mulher do lugar do ? ao doutor jose gomes de avelar da cidade de lisboa
+
+         constituinte$jose pereira/id=not1704-e6-per1
+            ls$residencia/barrio, termo de obidos
+            ls$assina/cruz
+
+            mulher$maria de almeida/id=not1704-e6-per1-per2
+               ls$residencia/barrio, termo de obidos
+
+            referido$jose gomes de avelar/id=not1704-e6-per1-per3
+               ls$residencia/lisboa
+               ls$titulo/doutor
+               rel$sociabilidade/procurador/jose pereira/not1704-e6-per1
+
+         test$antonio lopes ferreira/id=not1704-e6-per4
+            ls$assina/sim
+            ls$residencia/obidos/obs=assina como testemunha e a rogo da outorgante
+
+         test$matias francisco/m/id=not1704-e6-per5
+            ls$residencia/casal da figueira
+            ls$assina/cruz
+
+         test$manuel da horta/m/id=not1704-e6-per6
+            ls$residencia/foz
+            ls$assina/cruz
+
+      escritura$not1704-e7/30/10/1704/compra/fol=9v.-11/loc=mouta, nas casas de morada de antonio pinto/sumario=escritura de compra que fez francisco viana, morador em lisboa a antonio pinto da rocha e sua mulher de torres vedras
+
+         vendedor$antonio pinto da rocha/id=not1704-e7-per1
+            ls$residencia/torres vedras
+            ls$assina/sim
+            ls$assina/bem
+
+            mulher$mariana gomes da conceicao/id=not1704-e7-per1-per2
+               ls$residencia/torres vedras
+               ls$assina/sim
+
+         comprador$francisco viana/id=not1704-e7-per3
+            ls$residencia/lisboa
+            ls$assina/sim
+
+         bem$uma terra
+            atr$localizacao/no lugar da mouta, onde chamam a eira
+            atr$confrontacoes/parte do norte com joao ramos e com a estrada; a sul com o mesmo joao ramos
+            atr$valor/18500 reis/obs=pagou 1850 reis de sisa
+
+         test$jose antunes/m/id=not1704-e7-per4
+            ls$profissao/marceneiro
+            ls$residencia/mouta
+            ls$assina/sim
+
+         test$joao da serra/m/id=not1704-e7-per5
+            ls$profissao/barbeiro
+            ls$residencia/mouta
+
+      escritura$not1704-e8/5/11/1704/aforamento em 3 vidas/fol=11-12v./loc=obidos, nas casas de morada de cipriano soares monteiro/sumario=escritura de aforamento em vidas que faz cipriano soares monteiro de obidos a antonia maria do casal do avenal limite de a dos negros
+
+         senhorio$cipriano soares monteiro/id=not1704-e8-per1
+            ls$assina/sim
+            ls$residencia/obidos
+
+         foreira$antonia maria/id=not1704-e8-per2
+            ls$residencia/casal do avenal, limite do lugar de a dos negros
+            ls$ec/solteira/obs="como foreira antonia maria mossa solteira com mansepia da filha de pellonia de lemos viuva de manuel antunes"
+
+            referida$nome desconhecido/id=not1704-e8-per2-per3
+               rel$parentesco/filha/apolonia de lemos/not1704-e8-per2-per4
+               ls$residencia/casal do avenal, limite de a dos negros
+
+            referida$apolonia de lemos/obs=desistente/id=not1704-e8-per2-per4
+               ls$ec/viuva
+               ls$residencia/casal do avenal, limite de a dos negros
+
+            referido$manuel antunes/id=not1704-e8-per2-per5
+               ls$morto/antes
+               rel$parentesco/marido/apolonia de lemos/not1704-e8-referida
+
+         aforamento$um casal chamado avenal aonde morava a dita antonia maria e a sua mae
+            atr$localizacao/limite do lugar de a dos negros
+            atr$foro/3 alqueires e meio de trigo/obs=dia de nossa senhora de agosto
+
+         test$mateus de leao/m/id=not1704-e8-per6
+            ls$cargo/tesoureiro da igreja de sao tiago
+            ls$residencia/obidos
+            ls$assina/sim/obs=assinou como testemunha e a rogo da foreira antonia e da desistente apolonia de lemos
+
+         test$antonio simoes/m/id=not1704-e8-per7
+            ls$profissao/marchante
+            ls$residencia/obidos
+            ls$assina/cruz
+
+         test$manuel gomes monteiro/m/id=not1704-e8-per8
+            ls$residencia/obidos
+            ls$assina/sim
+
+      escritura$not1704-e9/9/11/1704/compra/fol=12v.-14/loc=obidos, no escritorio do tabeliao/sumario=escritura de compra que fez domingos francisco do moinho da relva a antonio silvestre e a sua mulher do olho marinho
+
+         vendedor$antonio silvestre/id=not1704-e9-per1
+            ls$residencia/olho marinho
+            ls$assina/cruz
+
+            mulher$catarina gomes alves/id=not1704-e9-per1-per2
+               ls$residencia/olho marinho
+
+         comprador$domingos francisco/id=not1704-e9-per3
+            ls$residencia/moinho da relva, limite do lugar de olho marinho
+            ls$assina/cruz
+
+         bem$um pomar
+            atr$localizacao/onde chamam a boca do vale, limite do lugar do olho marinho
+            atr$confrontacoes/que parte da banda do norte com leao luis; a sul com jose francisco; de poente com manuel serrao de oliveira e a nascente com antonio da silva
+            atr$valor/13000 reis/obs=1300 reis de sisa
+
+         test$diogo de arruda do avelar/id=not1704-e9-per4
+            ls$residencia/obidos
+            ls$assina/sim/obs=assina a rogo da vendedora catarina gomes alves e como testemunha
+
+         test$jose francisco/m/id=not1704-e9-per5
+            ls$profissao/lavrador
+            ls$residencia/casal da bochardia
+            ls$assina/cruz
+
+         test$joao francisco/m/id=not1704-e9-per6
+            ls$profissao/lavrador
+            ls$residencia/gaeiras de alem
+            ls$assina/cruz
+
+      escritura$not1704-e10/10/11/1704/procuracao/fol=14-15/loc=obidos, no escritorio de francisco soares/sumario=procuracao que fez antonio luis e sua mulher maria monteiro do reguengo grande a joao henriques morador na cidade de lisboa
+
+         constituinte$antonio luis/id=1704-luis
+            ls$residencia/reguengo grande
+            ls$assina/cruz
+
+            mulher$maria monteiro/id=1704-luis-per1
+               ls$residencia/reguengo grande
+
+            referido$joao henriques/id=1704-luis-per2
+               ls$residencia/lisboa
+               rel$sociabilidade/procurador/antonio luis/1704-luis
+
+         test$manuel alves delgado/m/id=not1704-e10-per3
+            ls$residencia/obidos
+            ls$assina/sim/obs=assinou a rogo da outorgante maria monteiro por ela lhe rogar e nao saber escrever e como testemunha
+
+         test$francisco soares de almeida/m/id=not1704-e10-per4
+            ls$assina/sim
+            ls$assina/bem
+
+      escritura$not1704-e11/13/11/1704/dinheiro a juro/fol=15-17/loc=cotem/sumario=escritura de 41000 que deve a razao de juro que deu o reverendo beneficiado sebastiao inacio figueira desta vila a domingos ribeiro e a sua mulher de cotem
+
+         credor$sebastiao inacio figueira/id=1704-fig
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+            ls$cargo/reverendo
+
+            referido$diogo de arruda do avelar/id=1704-fig-per1
+               ls$assina/sim
+               ls$assina/bem
+               rel$sociabilidade/procurador/sebastiao inacio figueira/1704-fig
+
+         devedor$domingos ribeiro/id=not1704-e11-per2
+            ls$residencia/cotem
+            ls$assina/sim
+
+            mulher$maria marques/id=not1704-e11-per2-per3
+               ls$residencia/cotem
+
+         divida$41000 reis/a razao de juro/obs=comprometem-se a pagar anualmente 2050 reis/id=not1704-e11-obj1
+
+         garantia$casa de azinhaga morada de casas terreas que sao sinco com o dito lugar
+            atr$localizacao/cotem
+            atr$confrontacoes/parte do norte com herdeiros de damaso luis e com gabriel marques; do sul com fazenda de francisco luis
+
+         garantia$uma terra e mato com oliveiras e fatualhos
+            atr$confrontacoes/da parte do norte com a fazenda de manuel luis; do sul com a fazenda de antonio fernandes do dito lugar
+            atr$localizacao/limite do lugar de cotem
+
+         garantia$uma horta com arvores de fruto e sem fruto
+            atr$localizacao/limite do lugar de cotem, onde chamam a consela
+            atr$confrontacoes/parte do norte com o dito domingos ribeiro; do sul com domingos marques do dito lugar
+
+         test$luis pinto pimentel/m/id=not1704-e11-per4
+            ls$residencia/obidos
+            ls$assina/sim/obs=assinou a rogo da devedora maria marques e como testemunha
+
+         test$pedro fernandes/m/id=not1704-e11-per5
+            ls$assina/cruz
+            ls$residencia/cotem
+
+         test$manuel francisco/m/id=not1704-e11-per6
+            ls$assina/cruz
+            ls$residencia/cotem
+
+      escritura$not1704-e12a/16/11/1704/dinheiro a juro/fol=17-18v./loc=obidos, no escritorio do tabeliao/sumario=escritura de 30000 a razao de juro que deve manuel da cunha do lugar da amoreira a matias monteiro e a sua mulher do dito lugar
+
+         credor$manuel da cunha/id=not1704-e12a-per1
+            ls$residencia/amoreira
+            ls$assina/sim
+
+         devedor$matias monteiro/id=not1704-e12a-per2
+            ls$residencia/amoreira
+            ls$assina/sim
+
+            mulher$isabel monteiro/id=not1704-e12a-per2-per3
+               ls$residencia/amoreira
+
+         divida$30000 reis/a razao de juro/obs=estavam comprometidos a pagar anualmente 1865 reis/id=not1704-e12a-obj1
+
+         garantia$uma serra com suas oliveiras e pereira
+            atr$localizacao/limite da granja
+            atr$confrontacoes/da banda do norte parte com fazenda de malta; de nascente com a fazenda da quinta da granja de jose pacheco; do poente com vinha de jose ferreira? e do sul com fazenda de francisco gorjao henriques
+
+         test$diogo de arruda do avelar/id=not1704-e12a-per4
+            ls$assina/sim
+            ls$assina/bem/obs=assina como testemunha e a rogo da devedora isabel monteiro
+
+         test$manuel dos santos monteiro/m/id=not1704-e12a-per5
+            ls$assina/sim
+
+         test$antonio francisco/m/id=not1704-e12a-per6
+            ls$assina/cruz
+
+      escritura$not1704-e13/16/11/1704/compra/fol=18v.-20/loc=obidos, nas casas de morada do tabeliao/sumario=escritura de compra que fez manuel monteiro da amoreira a luis da cunha e sua mulher do dito lugar
+
+         vendedor$luis da cunha/id=not1704-e13-per1
+            ls$residencia/amoreira
+            ls$assina/sim
+
+            mulher$joana da costa/id=not1704-e13-per1-per2
+               ls$residencia/amoreira
+
+         comprador$manuel monteiro/id=not1704-e13-per3
+            ls$residencia/amoreira
+            ls$assina/sim
+
+         bem$uma morada de 4 casas terreas
+            atr$localizacao/no lugar da amoreira onde chamam o canto
+            atr$confrontacoes/partem do norte com o canto da rua; do sul com manuel gomes; do nascente com a rua; do poente com casas de manuel delgado
+            atr$valor/23000 reis/obs=sisa 2300 reis
+
+         test$henrique monteiro/m/id=not1704-e13-per4
+            ls$profissao/oficial de alfaiate
+            ls$residencia/arrabalde, obidos
+            ls$assina/sim/obs=assina como testemunha e a rogo da vendedora joana da costa
+
+         test$antonio pinheiro/m/id=not1704-e13-per5
+            ls$profissao/alfaiate
+            ls$residencia/vau
+            ls$assina/sim
+
+         referido$antonio lopes ferreira/id=not1704-e13-per6
+            ls$assina/sim/obs=este individuo so aparece a assinar
+
+      escritura$not1704-e13a/19/11/1704/compra/fol=20-21v./loc=moinho da ferraria/sumario=escritura de compra que fez manuel luis da ferraria a maria das neves viuva do lugar do vau do termo de obidos
+
+         vendedora$maria das neves/id=not1704-e13a-per1
+            ls$ec/viuva
+            ls$residencia/vau
+
+            marido$joao de faria/id=not1704-e13a-per1-per2
+               ls$morto/antes
+
+         comprador$manuel luis/id=not1704-e13a-per3
+            ls$residencia/moinho ferraria
+            ls$profissao/moleiro
+            ls$assina/cruz
+
+         bem$umas terras
+            atr$localizacao/limite do lugar do vau, onde chamam as aguas santas
+            atr$confrontacoes/partem do norte com antonio luis; do sul com antonio monteiro dos moinhos; do nascente com joao dias; de poente com a "rigueira"/obs=mais a frente, o tabeliao volta a enumarar as confrontacoes do bem e a proposito da banda do nascente afirma que confronta com joao lopes
+            atr$valor/16000 reis/obs=sisa 1600 reis
+
+         test$diogo de arruda do avelar/m/id=not1704-e13a-per4
+            ls$assina/sim/obs=assina como testemunha e a rogo da vendedora maria das neves
+
+         test$domingos da costa da fonseca/m/id=not1704-e13a-per5
+            ls$assina/sim
+            ls$residencia/obidos
+
+         test$francisco soares monteiro/m/id=not1704-e13a-per6
+            ls$assina/sim
+            ls$residencia/obidos
+
+      escritura$not1704-e14/29/11/1704/compra/fol=22-23/loc=obidos, nas casa de jose farto franco/sumario=escritura de compra que fez jose farto franco de obidos a domingos gomes e sua mulher maria ferreira do reguengo grande
+
+         vendedor$domingos gomes/id=not1704-e14-vendedor
+            ls$residencia/reguengo grande
+            ls$assina/cruz
+
+            mulher$maria ferreira/id=not1704-e14-mulher
+               ls$residencia/reguengo grande
+
+         comprador$jose farto franco/id=not1704-e14-comprador
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+         bem$um pomarinho
+            atr$localizacao/limite do reguengo grande
+            atr$confrontacoes/parte do norte com joao sebastiao; do sul com herdeiros de domingos teixeira
+
+         bem$uma terra varzea
+            atr$localizacao/no limite do reguengo grande "a val da emgia"
+            atr$localizacao/parte do norte com o caminho que vai para a mouta; do sul parte com o caminho que vai para nossa senhora da misericordia
+            atr$valor/64500 reis/obs=sisa 6450 reis
+            atr$foro/pagam de foro 11 alqueires de trigo a retro aberto; a saber: 5 alqueires ao general francisco freire de andrade e sousa e 6 alqueires a manuel ferreira caipirra da vila de peniche
+
+         referido$francisco freire de andrade e sousa/id=not1704-e14-per1
+            ls$cargo/general
+
+         referido$manuel ferreira caipirra/id=not1704-e14-per2
+            ls$residencia/peniche
+
+         test$diogo de arruda do avelar/m/id=not1704-e14-per3
+            ls$assina/sim
+            ls$residencia/obidos/obs=assina como testemunha e a rogo da vendedora maria ferreira
+
+         test$manuel pestana travassos/m/id=not1704-e14-per4
+            ls$residencia/obidos
+            ls$cargo/capitao
+            ls$assina/sim
+
+         test$anastacio de freitas/m/id=not1704-e14-per5
+            ls$assina/sim
+            ls$residencia/obidos, em casa do capitao manuel pestana travassos
+
+      escritura$not1704-e15/29/11/1704/aforamento/fol=23-25/loc=obidos, nas casas de morada de jose farto franco/sumario=escritura de aforamento que fez jose farto franco de obidos e sua mulher a domingos gomes e sua mulher do reguengo grande de bens que comprou aos mesmos individuos através da escritura anterior
+
+         foreiro$domingos gomes/mesmo_que=not1704-e14-vendedor/id=not1704-e15-per1
+            ls$residencia/reguengo grande
+            ls$assina/cruz
+
+            mulher$maria ferreira/mesmo_que=not1704-e14-mulher/id=not1704-e15-per1-per2
+               ls$residencia/reguengo grande
+
+         senhorio$jose farto franco/mesmo_que=not1704-e14-comprador/id=not1704-e15-per3
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+            mulher$maria rosa travassos/id=not1704-e15-per3-per4
+               ls$residencia/obidos
+               ls$titulo/dona
+               ls$assina/sim
+
+         aforamento$um pomarinho
+            atr$localizacao/limite do reguengo grande, onde chamam o barrio
+            atr$confrontacoes/parte do norte com a fazenda de joao sebastiao; do sul com herdeiros de domingos teixeira
+
+         aforamento$uma terra varzea
+            atr$localizacao/no limite do reguengo grande "a val da emgia"
+            atr$localizacao/parte do norte com o caminho que vai para a mouta; do sul parte com o caminho que vai para nossa senhora da misericordia
+            atr$renda/22 alqueires e meio de trigo/obs=a pagar no dia de nossa senhora de agosto cada ano
+
+         test$manuel pestana travassos/m/id=not1704-e15-per5
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+         test$anastacio de freitas/m/id=not1704-e15-per6
+            ls$residencia/obidos, em casa do capitao manuel pestana travassos
+
+         test$diogo de arruda do avelar/m/id=not1704-e15-per7
+            ls$assina/sim/obs=assina como testemunha e a rogo da foreira maria ferreira
+
+      escritura$not1704-e15a/30/11/1704/procuracao/fol=25-25v./loc=obidos, no escritorio do tabeliao/sumario=procuracao que fez baltazar fernandes dos casais do pinhal ao licenciado jose henriques de carvalho morador na vila de obidos
+
+         constituinte$baltazar fernandes/id=1704-balt
+            ls$residencia/casais do pinhal
+            ls$assina/sim
+
+            referido$jose henriques de carvalho/id=1704-balt-per1
+               ls$titulo/licenciado
+               ls$profissao/advogado/obs=nos auditorios da vila de obidos
+               ls$residencia/obidos
+               rel$sociabilidade/procurador/baltazar fernandes/1704-balt
+
+         test$jose correia da serra/m/id=not1704-e15a-per2
+            ls$assina/sim
+
+         test$diogo de arruda do avelar/m/id=not1704-e15a-per3
+            ls$assina/sim
+
+      escritura$not1704-e16/3/12/1704/aforamento/fol=25v.-27/loc=quinta das lagrimas, termo de obidos, nas casas de morada de dionisio de seixas/sumario=escritura de arrendamento que fizeram ana de seixas e luisa de seixas da quinta das lagrimas a bartolomeu dias do pinhal
+
+         senhoria$ana de seixas/id=not1704-e16-senhoria
+            ls$residencia/quinta das lagrimas
+
+         senhoria$luisa de seixas/id=not1704-e16-per1
+            ls$residencia/quinta das lagrimas
+            rel$parentesco/irma/ana de seixas/not1704-e16-senhoria
+
+         foreiro$bartolomeu dias/id=not1704-e16-per2
+            ls$profissao/lavrador
+            ls$residencia/casais do pinhal
+            ls$assina/sim
+
+         aforamento$umas varzeas
+            atr$localizacao/no limite da vila de obidos, onde chamam a regaça
+            atr$confrontacoes/parte do norte com o caminho do concelho; do sul com o p.te de francisco fernandes; do poente com o rio
+            atr$renda/39 alqueires de milho e 6 alqueires de trigo/obs=a pagar anualmente no dia de nossa senhora de agosto
+
+         test$diogo de arruda do avelar/m/id=not1704-e16-per3
+            ls$residencia/obidos
+            ls$assina/sim/obs=assinou como testemunha e a rogo das outorgantes ana e luisa de seixas
+
+         test$joao correia/m/id=not1704-e16-per4
+            ls$residencia/gaeiras
+            ls$profissao/carpinteiro/obs=de carros
+            ls$assina/cruz
+
+         test$dionisio de seixas pessoa/m/obs=duvida na leitura do ultimo apelido/id=not1704-e16-per5
+
+      escritura$not1704-e17/4/12/1704/procuracao/fol=27-27v./loc=obidos, na cadeia da vila/sumario=procuracao que fez antonio henriques de a dos ruivos a pedro francisco de carvalho morador na cidade de lisboa
+
+         constituinte$antonio henriques/id=1704-henr
+            ls$residencia/a dos ruivos/obs=estava preso na cadeia da vila de obidos
+            ls$assina/cruz
+
+            referido$pedro francisco de carvalho/id=1704-henr-per1
+               ls$residencia/lisboa
+               rel$sociabilidade/procurador/antonio henriques/1704-henr
+
+         test$diogo de arruda de avelar/m/id=not1704-e17-per2
+            ls$assina/sim
+
+         test$jose pereira/m/obs=tambem estava preso na cadeia da vila de obidos/id=not1704-e17-per3
+            ls$assina/cruz
+
+      escritura$not1704-e18/5/12/1704/compra/fol=27v.-29v./loc=obidos, no escritorio do tabeliao/sumario=escritura de compra que fez pedro francisco da ribeira das caldas a manuel colaco e a sua mulher maria ferreira da vila de obidos
+
+         vendedor$manuel colaco/id=not1704-e18-per1
+            ls$residencia/obidos
+            ls$profissao/ferrador
+            ls$assina/sim
+
+            mulher$maria ferreira/id=not1704-e18-per1-per2
+               ls$residencia/obidos
+
+         comprador$pedro francisco/id=not1704-e18-per3
+            ls$residencia/ribeira das caldas, num moinho
+            ls$profissao/moleiro/obs=num dos moinhos da ribeira das caldas
+            ls$assina/cruz
+
+         bem$uma terra com seu arneiro
+            atr$localizacao/no limite do lugar de tras do outeiro, limite da vila de obidos
+            atr$confrontacoes/parte do norte com francisco soares de almeida, da vila de obidos e com o dito comprador; do sul com manuel leal e domingos vicente, ambos moradores em tras do outeiro
+            atr$valor/15000 reis/obs=sisa 1500 reis
+
+         test$diogo de arruda do avelar/id=not1704-e18-per4
+            ls$residencia/obidos
+            ls$assina/sim/obs=assinou como testemunha e a rogo do compradora maria ferreira
+
+         test$manuel luis/m/id=not1704-e18-per5
+            ls$assina/cruz
+
+         test$francisco fernandes/m/id=not1704-e18-per6
+            ls$assina/sim
+
+      escritura$not1704-e19/6/12/1704/arrendamento/fol=29v.-30v./loc=obidos, nas casas de morada de manuel farto franco/sumario=escritura de arrendamento que fez manuel farto franco de obidos a nicolau da costa e sua mulher da quinta da paimoga por tempo de 6 anos com as 6 novidades
+
+         senhorio$manuel farto franco/id=not1704-e19-per1
+            ls$residencia/obidos
+            ls$assina/sim
+
+         foreiro$nicolau da costa/obs=mudar para arrendatario/id=not1704-e19-per2
+            ls$residencia/quinta da paimoga
+            ls$assina/sim
+
+            mulher$maria da costa/id=not1704-e19-per2-per3
+               ls$residencia/quinta da paimoga
+
+         aforamento$uma serrada de pomar, vinha e horta
+            atr$localizacao/junto ao lugar de a dos negros, termo de obidos
+
+         aforamento$um talho de vinha com suas arvores
+            atr$localizacao/em frente da cancela da dita serrada
+            atr$renda/20000 reis em cada ano/paga anualmente no dia de natal
+
+         test$diogo de arruda do avelar/m/id=not1704-e19-per4
+            ls$assina/sim/obs=assinou como testemunha e a rogo da foreira maria da costa
+            ls$residencia/obidos
+
+         test$goncalo pinto/m/id=not1704-e19-per5
+            ls$residencia/obidos
+            ls$assina/cruz
+
+         test$domingos francisco/m/id=not1704-e19-per6
+            ls$residencia/reguengo grande
+            ls$assina/sim
+
+      escritura$not1704-e20/19/12/1704/dinheiro a juro/fol=30v.-32/loc=obidos, no escritorio do tabeliao/sumario=escritura de 20000 a razao de juro que deu manuel machado a francisco dias todos do lugar do landal, termo de obidos
+
+         credor$manuel machado/id=not1704-e20-per1
+            ls$residencia/landal
+            ls$assina/cruz
+
+         devedor$francisco dias/id=not1704-e20-per2
+            ls$residencia/landa
+            ls$ec/viuvo
+            ls$assina/cruz
+
+         divida$20000 reis/a razao de juro/obs=a pagar 1245 reis cada ano/id=not1704-e20-obj1
+
+         garantia$um assentamento de casas com seu forno e serrado mistico tudo com as ditas casas
+            atr$localizacao/no lugar do landal
+            atr$confrontacoes/partem da banda do norte com francisco de andrade; do sul com o dito francisco de andrade; do poente com o dito manuel machado
+
+         test$diogo de arruda do avelar/m/id=not1704-e20-per3
+            ls$assina/sim
+
+         test$pedro domingues/m/id=not1704-e20-per4
+            ls$assina/sim
+            ls$residencia/lipao da serra de celas?, termo de atouguia da baleia
+
+         test$joao francisco/m/id=not1704-e20-per5
+            ls$profissao/lavrador
+            ls$residencia/gaeiras
+
+      escritura$not1704-e21/26/12/1704/compra/fol=32-33v./loc=a dos negros, nas casas de morada do reverendo padre francisco de matos/sumario=escritura de compra que fez o reverendo padre cura francisco de matos do lugar de a dos negros a isabel francisca do dito lugar
+
+         comprador$francisco de matos/id=not1704-e21-per1
+            ls$cargo/reverendo
+            ls$profissao/padre
+            ls$residencia/a dos negros
+            ls$cargo/cura na igreja de santa maria madalena de a dos negros
+            ls$assina/sim
+
+         compradora$isabel francisca/id=not1704-e21-per2
+            ls$residencia/a dos negro
+
+         bem$uma terra
+            atr$localizacao/eiras
+            atr$confrontacoes/da parte da banda do norte e do sul com o dito comprador e de nascente e poente com o caminho do concelho
+            atr$valor/8000 reis/obs=sisa de 400 reis
+
+         test$diogo de arruda do avelar/m/id=not1704-e21-per3
+            ls$assina/sim/obs=assina a rogo da compradora isabel francisca
+            ls$residencia/obidos
+
+         test$antonio leitao sanhudo/m/id=not1704-e21-per4
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$francisco gomes/m/id=not1704-e21-per5
+            ls$residencia/a dos negros
+            ls$assina/sim
+
+      escritura$not1704-e22/30/12/1704/doacao/fol=33v.-34/loc=bombarral, nas casas de morada de leonor antunes/sumario=escritura de doacao que fez leonor antunes, viuva de manuel correia a seu filho pedro correia morador na a da gorda de umas casas e dividas activas como dote de casamento/obs=o registo nao teve efeito
+
+         doadora$leonor antunes/id=1704-leo
+            ls$residencia/bombarral
+            ls$ec/viuva
+
+            marido$manuel correia/id=1704-leo-per1
+               ls$morto/antes
+
+         donatario$pedro correia/id=not1704-e22-per2
+            ls$residencia/a da gorda
+
+         bem$uma escritura de 60000 reis dados a razao de juro que lhe pagava antonio de sousa e sua mulher antonia da silva, moradores no lugar dos barassais
+
+         bem$umas casas
+            atr$localizacao/bombarral, na rua direita
+            atr$confrontacoes/partem do norte com manuel antunes; do sul com ana bota
+            atr$valor/20000 reis
+
+         bem$uma cama de roupa com 10000 reis
+
+         bem$uma metade de ? bois com 12000 reis: uma metade na mao de vicente jorge do casal do estorninho com 6000 reis e a outra metade na mao de francisco faria da delgada
+
+         bem$2000 reis que se achavam num quarto de boi que lhe devia o mesmo vicente jorge do casal do estorninho
+
+         bem$3000 reis que lhe deve de reditos dos ditos 60000 reis antonio de sousa dos barassais
+
+         bem$2000 reis que lhe deve de emprestimo manuel antunes sapateiro do bombarral
+
+         bem$2250 reis que lhe deve um moleiro de alcunha o reixequita procedidas de uma espingarda que lhe vendera
+
+         bem$750 reis que lhe deve de emprestimo manuel antunes do bombarral
+
+         bem$3000 reis que lhe deve antonio gomes morador no casal da verdegilhade uma jumenta que lhe vendera
+
+         bem$uma tenda de espingardeiro que consta de todas as ferramentas necessarias a dita tenda e ferro que nela se achar que constara de dez a quinze pouco mais ou menos tudo avaliado em 63500 reis
+
+         bem$18750 reis em azeite
+
+         bem$5000 reis que lhe deve manuel colaco moleiro do moinho de vento procedidos de ferros que lhe vendeu fiado
+
+         bem$5000 reis que lhe deve manuel de sousa dos barassais
+
+         referido$antonio de sousa/id=1704-sousa
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referida$antonia da silva/id=not1704-e22-per3
+            rel$parentesco/mulher/antonio de sousa/1704-sousa
+
+         referido$vicente jorge/id=not1704-e22-per4
+            ls$residencia/casal do estorninho
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$francisco faria/id=not1704-e22-per5
+            ls$residencia/delgada
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$manuel antunes/id=not1704-e22-per6
+            ls$profissao/sapateiro
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$antonio de sousa/id=not1704-e22-per7
+            ls$residencia/barassais
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$nome desconhecido/id=not1704-e22-per8
+            ls$alcunha/o reixequita
+            ls$profissao/moleiro
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$manuel antunes/id=not1704-e22-per9
+            ls$residencia/bombarral
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$antonio gomes/id=not1704-e22-per10
+            ls$residencia/casal da verdegilhade
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$manuel colaco/id=not1704-e22-per11
+            ls$profissao/moleiro
+            rel$economica/devedor/leonor antunes/1704-leo
+
+         referido$manuel de sousa/id=not1704-e22-per12
+            ls$residencia/barassais
+            rel$economica/devedor/leonor antunes/1704-leo

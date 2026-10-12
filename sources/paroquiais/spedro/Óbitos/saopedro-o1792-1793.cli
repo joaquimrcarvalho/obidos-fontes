@@ -1,0 +1,502 @@
+kleio$gacto.str/prefix=spedro
+   fonte$obitos1792-1793/localizacao-a.d.l./freguesia de sao pedro
+
+      obito$o1792-1/6/2/1792/fl.27v./joaquim jose de matos (cura)
+
+         n$mateus/m/id=o1792-1-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=inocente, menino, filho do real hospital de todos os santos da cidade de lisboa
+            ls$residencia/camarnais
+
+         locs$cemiterio da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1792-1-per1
+
+         mae$nome desconhecido/id=o1792-1-per2
+
+         referido$claudia maria/obs=ama de leite/id=o1792-1-per3
+            ls$ec/v
+            rel$sociabilidade/ama/mateus/o1792-1-n
+            ls$residencia/camarnais, freguesia de sao pedro
+
+      obito$o1792-2/12/2/1792/fl.27v./joaquim jose de matos (cura)
+
+         n$maria josefa/f/id=o1792-2-per1
+            ls$residencia/usseira
+
+         sacr$sim/obs=todos
+
+         locs$cemiterio da igreja de sao pedro
+
+         marido$antonio ramos/id=o1792-2-per2
+            ls$residencia/usseira
+
+      obito$o1792-3/20/2/1792/fl.27v./joaquim jose de matos (cura)
+
+         n$joao/m/id=o1792-3-n
+            ls$idade_aprox/menor
+            ls$naturalidade/lisboa
+            ls$residencia/camarnais
+            ls$enjeitado/sim/obs=inocente, filho da cidade de lisboa
+
+         locs$cemiterio da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1792-3-per1
+
+         mae$nome desconhecido/id=o1792-3-per2
+
+         referida$maria teresa/id=o1792-3-referida/obs=ama de leite
+            ls$residencia/camarnais, freguesia de sao pedro
+            rel$sociabilidade/ama/joao/o1792-3-n
+
+         referido$joaquim baia/id=o1792-3-per3
+            ls$residencia/camarnais, freguesia de sao pedro
+            rel$parentesco/marido/maria teresa/o1792-3-referida
+
+      obito$o1792-4/26/2/1792/fl.28/joaquim jose de matos (cura)
+
+         n$maria madalena/f/id=o1792-4-per1
+            ls$residencia/obidos, freguesia de sao pedro
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no dia seguinte e amortalhada no habito de sao francisco
+
+         marido$francisco lopes de faria/id=o1792-4-per2
+            ls$residencia/obidos
+
+      obito$o1792-5/25/4/1792/fl.28/joaquim jose de matos (cura)
+
+         n$joaquim/m/id=o1792-5-per1
+            ls$mentecapto/sim/obs=inocente, "o qual sendo mayor de vinte annos nunca teve uzo de razão"
+            ls$idade_aprox/maior de 20 anos
+            ls$residencia/usseira
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte.
+
+         pai$teotonio gomes/id=o1792-5-per2
+            ls$morto/antes
+
+         mae$maria ines/id=o1792-5-per3
+            ls$residencia/usseira
+            ls$ec/v
+
+      obito$o1792-6/7/4/1792/fl.28/joaquim jose de matos (cura)
+
+         n$maria/f/id=o1792-6-per1
+            ls$residencia/obidos
+            ls$idade_aprox/menor
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no dia seguinte
+
+         pai$francisco da silva/id=o1792-6-per2
+            ls$residencia/obidos
+
+         mae$maria teresa/id=o1792-6-per3
+            ls$residencia/obidos
+
+      obito$o1792-7/12/5/1792/fl.28/joaquim jose de matos (cura)
+
+         n$jose francisco/m/id=o1792-7-per1
+            ls$ec/v
+            ls$residencia/casal da torre, freguesia de sao pedro
+
+         sacr$sim/obs=santa uncao. o qual por lhe dar uma apoplexia foi absolvido sub conditione
+
+         locf$enfermaria da santa casa da misericordia
+
+         causa$apoplexia
+
+         locs$cemiterio da igreja de sao pedro/obs=foi sepultado no dia seguinte
+
+      obito$o1792-8/11/5/1792/fl.28/joaquim jose de matos (cura)
+
+         n$jose das neves/m/id=o1792-8-per1
+            ls$ec/v
+            ls$residencia/usseira
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no mesmo dia e amortalhado no habito de sao francisco
+
+         testamento$sim
+
+         mulher$ana da silva/id=o1792-8-per2
+            ls$residencia/usseira
+            ls$morta/antes
+
+      obito$o1792-9/7/7/1792/fl.28v./joaquim jose de matos (cura)
+
+         n$manuel gomes ferreira/m/id=o1792-9-per1
+            ls$ec/v
+            ls$residencia/usseira
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado no habito de sao francisco.
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$nao
+
+         mulher$maria baptista/id=o1792-9-per2
+            ls$morta/antes
+
+      obito$o1792-10/17/8/1792/fl.28v./joaquim jose de matos (cura)
+
+         n$raimundo/m/id=o1792-10-per1
+            ls$condicao/escravo
+            rel$profissional/escravo/manuel da silva/o1792-10-referido
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado num lencol
+
+         referido$manuel da silva/id=o1792-10-referido
+            ls$residencia/usseira
+
+      obito$o1792-11/28/9/1792/fl.28v./joaquim jose de matos (cura)
+
+         n$paulo de sequeira henriques/m/id=o1792-11-per1
+            ls$cargo/beneficiado
+            ls$cargo/presidente na igreja de sao pedro
+            ls$profissao/padre
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado com o habito de sao francisco por baixo das vestes sacerdotais
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$sim
+
+      obito$o1792-12/2/10/1792/fl.28v.-29/joaquim jose de matos (cura)
+
+         n$ana maria nunes/f/id=o1792-12-per1
+            ls$ec/v
+            ls$residencia/obidos, freguesia de sao pedro
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no mesmo dia e amortalhada no habito de sao francisco.
+
+         marido$frutuoso pita soares/id=o1792-12-per2
+            ls$morto/antes
+
+      obito$o1792-13/3/10/1792/fl.29/joaquim jose de matos (cura, beneficiado)
+
+         n$manuel/m/id=o1792-13-n
+            ls$idade_aprox/menor/obs=exposto, menino
+            ls$enjeitado/sim
+
+         locs$cemiterio da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1792-13-per1
+
+         mae$nome desconhecido/id=o1792-13-per2
+
+         referida$joaquina maria/id=o1792-13-referida/obs=ama de leite. joaquina maria criava o enjeitado "por ordem do concelho desta villa"
+            rel$sociabilidade/ama/manuel/o1792-13-n
+
+         referido$manuel ferreira/id=o1792-13-per3
+            ls$residencia/usseira
+            rel$parentesco/marido/joaquina maria/o1792-12-referida
+
+      obito$o1792-14/15/10/1792/fl.29/joaquim jose de matos (cura, beneficiado)
+
+         n$agostinho/m/id=o1792-14-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=exposto, menino, inocente, filho do real hospital de todos os santos da cidade de lisboa.
+
+         locs$cemiterio da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1792-14-per1
+
+         mae$nome desconhecido/id=o1792-14-per2
+
+         referida$maria josefa/id=o1792-14-referida/obs=ama de leite
+            rel$sociabilidade/ama/agostinho/o1792-14-n
+            ls$residencia/cateloes%cateloens
+
+         referido$manuel justino/id=o1792-14-per3
+            ls$residencia/cateloes%cateloens
+            rel$parentesco/marido/maria josefa/o1792-14-referida
+
+      obito$o1792-15/16/10/1792/fl.29/joaquim jose de matos (cura, beneficiado)
+
+         n$anselmo/m/id=o1792-15-n
+            ls$idade_aprox/menor/obs=exposto, menino, inocente
+            ls$enjeitado/sim
+
+         locs$dentro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1792-15-per1
+
+         mae$nome desconhecido/id=o1792-15-per2
+
+         referida$antonia maria/id=o1792-15-referida/obs=ama de leite.antonia maria criava o enjeitado "por ordem do concelho desta villa"
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/anselmo/o1792-15-n
+
+         referido$manuel da silva/id=o1792-15-per3
+            ls$residencia/pinhal
+            rel$parentesco/marido/antonia maria/o1792-15-referida
+
+      obito$o1792-16/17/10/1792/fl.29v./joaquim jose de matos (cura, beneficiado)
+
+         n$joana/f/id=o1792-16-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=exposta, menina, inocente
+
+         locs$dentro da igreja de sao pedro
+
+         referida$maria luzia/id=o1792-16-referida/obs=ama de leite. maria luzia criava a enjeitada "por ordem do concelho desta villa"
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/joana/o1792-16-n
+
+         referido$joaquim da silva/id=o1792-16-per1
+            ls$residencia/obidos, freguesia de sao pedro
+            rel$parentesco/marido/maria luzia/o1792-16-referida
+
+      obito$o1792-17/22/10/1792/fl.29v./joaquim jose de matos (cura, beneficiado)
+
+         n$antonio da costa/m/id=o1792-17-n
+            ls$residencia/pinhal
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado no habito de sao francisco.
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$nao/obs=nao fez testamento mas ja tinha nomeado a sua terca a sua filha josefa joaquina
+
+         mulher$maria teresa/id=o1792-17-per1
+            ls$residencia/pinhal
+
+         referida$josefa joaquina/id=o1792-17-per2
+            rel$parentesco/filha/antonio da costa/o1792-17-n
+
+      obito$o1792-18/26/10/1792/fl.29v./joaquim jose de matos (cura, beneficiado)
+
+         n$manuel gomes/m/id=o1792-18-per1
+            ls$residencia/usseira
+            ls$ec/v
+
+         sacr$sim/obs=confissao, comunhao. nao recebeu a uncao por nao terem chamado o padre a tempo
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte vestido no habito de sao francisco.
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$nao
+
+         mulher$inacia maria/id=o1792-18-per2
+            ls$morta/antes
+
+      obito$o1792-19/4/11/1792/fl.30/joaquim jose de matos (cura, beneficiado)
+
+         n$manuel jose martins chaves/m/id=o1792-19-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs= confissao, uncao
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no mesmo dia, vestido no habito de sao francisco
+
+         testamento$nao
+
+         mulher$ana joaquina/id=o1792-19-per2
+            ls$residencia/obidos
+
+      obito$o1792-20/17/11/1792/fl.30/joaquim jose de matos (cura, beneficiado)
+
+         n$manuel correia/m/id=o1792-20-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim/obs=todos
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$cemiterio da igreja de sao pedro/obs=foi sepultado no dia seguinte e amortalhado num lencol
+
+         mulher$ana joaquina/id=o1792-20-per2
+            ls$morta/antes
+
+      obito$o1793-1/15/1/1793/fl.30/joaquim jose de matos (cura, beneficiado)
+
+         n$luisa clara/f/id=o1793-1-n
+            ls$ec/v
+            ls$residencia/obidos, em casa do seu genro o doutor estanislau da silva
+
+         sacr$sim/obs=confissao, comunhao. nao recebeu a uncao "por ser acometida da morte insperadamente"
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no dia seguinte com o habito de sao francisco
+
+         testamento$nao
+
+         referido$estanislau da silva/id=o1793-1-per1
+            ls$titulo/doutor
+            ls$residencia/obidos, freguesia de sao pedro
+            rel$parentesco/genro/luisa clara/o1793-1-n
+
+      obito$o1793-2/27/1/1793/fl.30v./joaquim jose de matos (cura, beneficiado)
+
+         n$mateus jose/m/id=o1793-2-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$nao
+
+         causa$acidente
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no dia seguinte.
+
+      obito$o1793-3/30/3/1793/fl.30v./joaquim jose de matos (cura, beneficiado)
+
+         n$inacio henriques de matos/m/id=o1793-3-per1
+            ls$residencia/pinhal
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no mesmo dia com o habito de sao francisco
+
+         testamento$nao
+
+         mulher$josefa jacinta rosa/id=o1793-3-per2
+            ls$residencia/pinhal
+
+      obito$o1793-4/12/7/1793/fl.30v./joaquim jose de matos (cura, beneficiado)
+
+         n$josefa maria/f/id=o1793-4-per1
+            ls$residencia/camarnais, freguesia de sao pedro
+
+         sacr$sim/obs=todos
+
+         locs$cemiterio da igreja de sao pedro/obs=foi amortalhada num lencol
+
+         marido$manuel justino/id=o1793-4-per2
+            ls$residencia/camarnais
+
+      obito$o1793-5/15/7/1793/fl.30v.-31/joaquim jose de matos (cura, beneficiado)
+
+         n$maria micaela da assuncao/f/id=o1793-5-per1
+            ls$ec/s
+            ls$residencia/obidos
+
+         sacr$sim/obs=confissao, uncao
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no mesmo dia com o habito da conceicao
+
+         testamento$sim/obs=dispos em testamento que queria ser enterrada com o habito de nossa senhora da conceicao
+
+      obito$o1793-6/15/7/1793/fl.31/joaquim jose de matos (cura, beneficiado)
+
+         n$vicente/m/id=o1793-6-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/obidos
+
+         locs$dentro da igreja de sao pedro
+
+         pai$joao agostinho/id=o1793-6-per2
+            ls$residencia/obidos
+
+      obito$o1793-7/17/8/1793/fl.31/joaquim jose de matos (cura, beneficiado)
+
+         n$maria antonia/f/id=o1793-7-per1
+            ls$residencia/obidos
+            ls$ec/s
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no mesmo dia com o habito de sao francisco
+
+      obito$o1793-8/7/11/1793/fl.31-31v./joaquim jose de matos (cura, beneficiado)
+
+         n$maria/f/id=o1793-8-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/usseira
+
+         locs$dentro da igreja de sao pedro
+
+         pai$jose gomes/id=o1793-8-per2
+            ls$residencia/usseira
+
+      obito$o1793-9/8/11/1793/fl.31v./joaquim jose de matos (cura, beneficiado)
+
+         n$jose francisco/m/id=o1793-9-per1
+            ls$mendigo/sim/obs=mendicante
+            ls$pobre/sim
+
+         sacr$sim/obs=todos
+
+         locf$hospital de obidos/obs=a margem diz: enfermaria
+
+         locs$cemiterio da igreja de sao pedro/obs=foi sepultado no dia seguinte
+
+      obito$o1793-10/12/11/1793/fl.31v./joaquim jose de matos (cura, beneficiado)
+
+         n$jose/m/id=o1793-10-n
+            ls$idade_aprox/menor/obs=exposto, inocente
+            ls$residencia/pinhal
+            ls$enjeitado/sim
+
+         locs$dentro da igreja de sao pedro
+
+         pai$nome desconhecido/id=o1793-10-per1
+
+         mae$nome desconhecido/id=o1793-10-per2
+
+         referida$antonia maria/id=o1793-10-referida/obs=antonia maria criava o exposto por ordem do concelho de obidos.
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/jose/o1793-10-n
+
+         referido$manuel da silva/id=o1793-10-per3
+            ls$residencia/pinhal
+            rel$parentesco/marido/antonia maria/o1793-10-referida
+
+      obito$o1793-11/12/11/1793/fl.31v./joaquim jose de matos (cura, beneficiado)
+
+         n$maria/f/id=o1793-11-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/usseira
+
+         locs$dentro da igreja de sao pedro
+
+         pai$lourenco gomes/id=o1793-11-per2
+            ls$residencia/usseira
+
+      obito$o1793-12/13/11/1793/fl.31v.-32/joaquim jose de matos (cura, beneficiado)
+
+         n$gertrudes angelica do espirito santo/f/id=o1793-12-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no mesmo dia com o habito de sao francisco
+
+         marido$jose de castro/id=o1793-12-per2
+            ls$residencia/obidos
+
+      obito$o1793-13/2/12/1793/fl.32/joaquim jose de matos (cura, beneficiado)
+
+         n$jose/m/id=o1793-13-per1
+
+         sacr$sim
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultado no mesmo dia.
+
+         pai$francisco leal de lemos/id=o1793-13-per2
+            ls$residencia/obidos
+
+      obito$o1793-14/28/12/1793/fl.32/joaquim jose de matos (cura, beneficiado)
+
+         n$maria do nascimento/f/id=o1793-14-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs=todos
+
+         locs$dentro da igreja de sao pedro/obs=foi sepultada no habito de sao francisco
+
+         marido$joao da silva/id=o1793-14-per2
+            ls$residencia/obidos

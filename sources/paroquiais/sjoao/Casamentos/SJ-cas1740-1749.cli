@@ -1,0 +1,2325 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$casamentos1740-1749/localizacao-a.d.l./freguesia de sao joao
+
+      cas$c1740-1/28/5/1740/fl.4/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio viana/id=c1740-1-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$joao viana/id=c1740-1-per2
+            ls$morto/antes
+
+         mnoivo$josefa maria/id=c1740-1-per3
+            ls$residencia/arelho
+
+         noiva$josefa maria/id=c1740-1-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$domingos da silva/id=c1740-1-per5
+            ls$residencia/arelho
+
+         mnoiva$francisca goncalves/id=c1740-1-per6
+            ls$residencia/arelho
+
+         test$antonio soares/id=c1740-1-test
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1740-1-per7
+            rel$parentesco/sobrinho/antonio soares/c1740-1-test
+            ls$assina/sim
+
+      cas$c1740-2/5/6/1740/fl.4v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$bras fernandes/id=c1740-2-per1
+
+         pnoivo$antonio fernando/id=c1740-2-per2
+            ls$morto/antes
+
+         mnoivo$antonia luis/id=c1740-2-per3
+            ls$morta/antes
+
+         noiva$joana maria/id=c1740-2-per4
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+
+         pnoiva$joao francisco/id=c1740-2-per5
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+
+         mnoiva$luisa francisca/id=c1740-2-per6
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1740-2-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao pedro
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1740-2-per8
+            rel$parentesco/sobrinho/antonio soares/c1740-2-test
+            ls$assina/sim
+
+      cas$c1740-3/26/6/1740/fl.5/ermida de sao sebastiao, no sobral/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio gomes/id=c1740-3-per1
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$antonio gomes/id=c1740-3-per2
+            ls$morto/antes
+
+         mnoivo$antonia leitoa/id=c1740-3-per3
+            ls$morta/antes
+
+         noiva$maria teresa/id=c1740-3-per4
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$joao luis/id=c1740-3-per5
+            ls$alcunha/o duque
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+
+         mnoiva$teresa marques/id=c1740-3-per6
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1740-3-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$francisco rodrigues/id=c1740-3-per8
+            ls$cargo/escrivao da camara
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+         referido$carlos jose de melo pinto da silva/id=c1740-3-per9
+            ls$cargo/vigario geral
+
+      cas$c1740-4/3/7/1740/fl.5v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose marques/id=c1740-4-per1
+            ls$naturalidade/freguesia de nossa senhora da ajuda, peniche
+            ls$locbaptismo/freguesia de nossa senhora da ajuda, peniche/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da ajuda, peniche
+
+         pnoivo$joao marques/id=c1740-4-per2
+            ls$residencia/sobral
+
+         mnoivo$josefa franco/id=c1740-4-per3
+            ls$residencia/sobral
+
+         noiva$eufemia maria/id=c1740-4-per4
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$domingos lopes/id=c1740-4-per5
+            ls$morto/antes
+
+         mnoiva$domingas marques/id=c1740-4-per6
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1740-4-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1740-4-per8
+            rel$parentesco/sobrinho/antonio soares/c1740-2-test
+            ls$assina/sim
+
+      cas$c1740-5/6/11/1740/fl.6/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio da silva/id=c1740-5-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$jose da silva/id=c1740-5-per2
+            ls$morto/antes
+
+         mnoivo$rosa maria/id=c1740-5-per3
+            ls$morta/antes
+
+         noiva$josefa leal/id=c1740-5-per4
+            ls$residencia/arelho
+            ls$ec/viuva/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         marido1$antonio antunes/id=c1740-5-per5
+            ls$morto/antes
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1740-5-per6
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1740-5-per7
+            rel$parentesco/sobrinho/antonio soares/c1740-2-test
+            ls$assina/sim
+
+      cas$c1740-6/20/11/1740/fl.6v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose goncalves/id=c1740-6-per1
+            ls$naturalidade/tras do outeiro
+            ls$residencia/tras do outeiro
+            ls$freguesia/sao tiago
+            ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
+
+         pnoivo$estevao goncalves/id=c1740-6-per2
+
+         mnoivo$catarina maria/id=c1740-6-per3
+
+         noiva$teresa maria isidora/id=c1740-6-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$jose luis/id=c1740-6-per5
+            ls$morto/antes
+
+         mnoiva$maria branca/id=c1740-6-per6
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1740-6-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1740-6-per8
+            rel$parentesco/sobrinho/antonio soares/c1740-2-test
+            ls$assina/sim
+
+      cas$c1740-7/20/11/1740/fl.7/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$sebastiao viana/id=c1740-7-per1
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao pedro, peniche
+
+         pnoivo$antonio viana/id=c1740-7-per2
+            ls$morto/antes
+
+         mnoivo$felicia franco%felecia franca/id=c1740-7-per3
+
+         noiva$maria josefa/id=c1740-7-per4
+            ls$residencia/arelho
+            ls$naturalidade/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao pedro
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$manuel henriques/id=c1740-7-per5
+            ls$morto/antes
+
+         mnoiva$maria luis/id=c1740-7-per6
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1740-7-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1740-7-per8
+            rel$parentesco/sobrinho/antonio soares/c1740-2-test
+            ls$assina/sim
+
+      cas$c1741-1/25/1/1741/fl.7v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$francisco martins/id=c1741-1-per1
+            ls$residencia/casais da figueira
+            ls$locbaptismo/freguesia de sao pedro/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
+
+         pnoivo$francisco martins/id=c1741-1-per2
+            ls$residencia/casais da figueira
+
+         mnoivo$antonia das neves/id=c1741-1-per3
+            ls$residencia/casais da figueira
+
+         noiva$francisca teresa/id=c1741-1-per4
+            ls$naturalidade/casais do pinhal
+            ls$residencia/casais do pinhal
+            ls$locbaptismo/freguesia de sao pedro/obs=desobrigou-se a quaresma passada na freguesia de sao pedro
+
+         pnoiva$andre da costa/id=c1741-1-per5
+
+         mnoiva$maria henriques/id=c1741-1-per6
+            ls$morta/antes
+
+         test$jose luis pereira/id=c1741-1-per7
+            ls$profissao/padre
+            ls$residencia/sobral
+            ls$assina/sim
+            ls$assina/bem
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1741-1-per8
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1741-2/21/8/1741/fl.8/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose da maia/id=c1741-2-per1
+            ls$naturalidade/freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$diogo da maia/id=c1741-2-per2
+
+         mnoivo$antonia francisca/id=c1741-2-per3
+            ls$morta/antes
+
+         noiva$sebastiana maria/id=c1741-2-per4
+            ls$naturalidade/bairro
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$domingos marques/id=c1741-2-per5
+
+         mnoiva$domingas simoes/id=c1741-2-per6
+
+         test$joao antonio/id=c1741-2-per7
+            ls$cargo/moco da sacristia da igreja de sao joao
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1741-2-per8
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1741-3/30/9/1741/fl.8v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$francisco luis/id=c1741-3-per1
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$jose luis/id=c1741-3-per2
+
+         mnoivo$julia pereira/id=c1741-3-per3
+
+         noiva$engracia maria/id=c1741-3-per4
+            ls$naturalidade/sobral
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$pascoal henriques/id=c1741-3-per5
+
+         mnoiva$antonia francisca/id=c1741-3-per6
+
+         test$antonio soares/id=c1741-3-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$francisco rodrigues da silva/id=c1741-3-per8
+            ls$cargo/capitao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1741-4/2/10/1741/fl.9/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel pereira/id=c1741-4-per1
+            ls$ec/viuvo
+            ls$naturalidade/sobral
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+            mulher1$maria josefa/id=c1741-4-per1-per2
+               ls$morta/antes
+
+         noiva$teresa joaquina/id=c1741-4-per3
+            ls$naturalidade/caldas
+            ls$residencia/caldas
+            ls$freguesia/nossa senhora do populo
+            ls$locbaptismo/freguesia de nossa senhora do populo/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora do populo
+
+         pnoiva$miguel pereira/id=c1741-4-per4
+            ls$morto/antes
+
+         mnoiva$catarina do couto/id=c1741-4-per5
+
+         test$jose luis pereira/id=c1741-4-per6
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$jose marques/id=c1741-4-per7
+            ls$profissao/alfaiate
+            ls$assina/sim
+
+      cas$c1741-5/17/12/1741/fl.9v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel antonio/id=c1741-5-per1
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$manuel rodrigues/id=c1741-5-per2
+
+         mnoivo$catarina leitoa/id=c1741-5-per3
+
+         noiva$dionisia maria/id=c1741-5-per4
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao
+            ls$naturalidade/sobral
+
+         pnoiva$manuel francisco/id=c1741-5-per5
+
+         mnoiva$vitoria de jesus/id=c1741-5-per6
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1741-5-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1741-5-per8
+            rel$parentesco/sobrinho/antonio soares/c1740-2-test
+            ls$assina/sim
+
+      cas$c1742-1/23/4/1742/fl.10/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel goncalves/id=c1742-1-per1
+            ls$naturalidade/freguesia de nossa senhora da misericordia, belas
+            ls$locbaptismo/freguesia de nossa senhora da misericordia, belas
+            ls$residencia/sobral da lagoa
+            ls$freguesia/nossa senhora da misericordia, belas
+
+         pnoivo$antonio goncalves/id=c1742-1-per2
+            ls$residencia/pomar da chave
+            ls$freguesia/nossa senhora da misericordia, belas
+
+         mnoivo$catarina vicente/id=c1742-1-per3
+            ls$morta/antes
+            ls$residencia/pomar da chave
+            ls$freguesia/nossa senhora da misericordia, belas
+
+         noiva$maria madalena/id=c1742-1-per4
+            ls$ec/viuva
+            ls$residencia/sobral da lagoa/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         marido1$antonio luis pereira/id=c1742-1-per5
+            ls$morto/antes
+
+         test$antonio soares/mesmo_que=c1740-2-test/id=c1742-1-per6
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$jose marques/id=c1742-1-per7
+            ls$profissao/alfaiate
+            ls$residencia/sobral
+            ls$assina/sim
+
+      cas$c1742-2/9/6/1742/fl.10v./igreja de sao joao baptista do mocharro/antonio soares (padre, tesoureiro da igreja de sao joao)/obs=assina o prior bras antunes correia e o padre antonio soares. o casamento realiza-se de manha.
+
+         noivo$francisco dos reis/id=c1742-2-per1
+            ls$residencia/arelho
+            ls$naturalidade/penha firme
+            ls$locbaptismo/freguesia de nossa senhora da virtude, ventosa, termo de aldeia galega da merceana
+            ls$comarca/alenquer/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel carvalho/id=c1742-2-per2
+            ls$morto/antes
+
+         mnoivo$feliciana dos reis/id=c1742-2-per3
+
+         noiva$maria micaela da assuncao/id=c1742-2-per4
+            ls$naturalidade/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$dionisio goncalves/id=c1742-2-per5
+
+         mnoiva$josefa rodrigues/id=c1742-2-per6
+            ls$morta/antes
+
+         test$antonio de macedo neto/id=c1742-2-per7
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1742-2-per8
+            ls$profissao/estudante
+            ls$residencia/obidos
+            ls$assina/sim
+
+      cas$c1742-3/24/6/1742/fl.11/igreja de sao joao baptista do mocharro/antonio soares (padre, tesoureiro da igreja de sao joao)/obs=assina o prior bras antunes correia e o padre antonio soares. o casamento realiza-se de manha.
+
+         noivo$antonio de barros%antonio de bairros/id=c1742-3-per1
+            ls$residencia/gaeiras
+            ls$freguesia/santa maria
+            ls$naturalidade/freguesia de sao clemente
+            ls$locbaptismo/freguesia de sao martinho
+            ls$arcebispado/sao tiago da galiza
+            ls$nacionalidade/galiza/obs=desobrigou-se a quaresma passada na freguesia de santa maria
+
+         pnoivo$bento de barros%bento de bairros/id=c1742-3-per2
+
+         mnoivo$benta alvares/id=c1742-3-per3
+            ls$morta/antes
+
+         noiva$teodora josefa/id=c1742-3-per4
+            ls$naturalidade/arelho
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$joao viana/id=c1742-3-per5
+            ls$morto/antes
+
+         mnoiva$josefa maria/id=c1742-3-per6
+
+         test$lourenco correia da costa/id=c1742-3-per7
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$antonio da fonseca/id=c1742-3-per8
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1742-4/28/10/1742/fl.11v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose francisco/id=c1742-4-per1
+            ls$naturalidade/carregal
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/caldas
+            ls$freguesia/nossa senhora do populo, caldas/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora do populo, caldas
+
+         pnoivo$jose francisco/id=c1742-4-per2
+            ls$morto/antes
+
+         mnoivo$maria teresa/id=c1742-4-per3
+
+         noiva$rosa maria/id=c1742-4-per4
+            ls$naturalidade/arelho
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$valentim joao/id=c1742-4-per5
+            ls$morto/antes
+
+         mnoiva$catarina franco/id=c1742-4-per6
+
+         test$bernardo antonio/id=c1742-4-per7
+            ls$assina/sim
+
+         test$antonio da costa/id=c1742-4-per8
+            ls$assina/sim
+
+      cas$c1742-5/19/11/1742/fl.12/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$pascoal luis loureiro/id=c1742-5-per1
+            ls$naturalidade/sobral da lagoa
+            ls$residencia/sobral da lagoa
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$antonio manuel/id=c1742-5-per2
+            ls$morto/antes
+
+         mnoivo$maria luis antunes/obs=no registo diz:"maria luis antunes ou dos anjos"/id=c1742-5-per3
+
+         noiva$maria de jesus/id=c1742-5-per4
+            ls$naturalidade/sobral da lagoa
+            ls$residencia/sobral da lagoa
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$jose monteiro/id=c1742-5-per5
+            ls$morto/antes
+
+         mnoiva$maria francisca/id=c1742-5-per6
+            ls$alcunha/a vinte e uma
+
+         test$leandro gomes henriques/id=c1742-5-per7
+            ls$titulo/doutor
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+         test$manuel jorge/id=c1742-5-per8
+            ls$residencia/sobral
+            ls$assina/sim
+
+      cas$c1742-6/24/12/1742/fl.12v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o livro foi visto em visitacao de 28 de novembro de 1742. o casamento realiza-se de manha.
+
+         noivo$inocencio soares/id=c1742-6-per1
+            ls$residencia/vau
+            ls$freguesia/nossa senhora de aboboriz, amoreira
+            ls$ec/viuvo
+
+            mulher1$sebastiana soares/id=c1742-6-per1-per2
+               ls$morta/antes
+
+         noiva$isabel teresa/id=c1742-6-per3
+            ls$ec/viuva
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         marido1$bento da silva/id=c1742-6-per4
+            ls$morto/antes
+
+         test$antonio da fonseca/id=c1742-6-per5
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$lourenco correia da costa/id=c1742-6-per6
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1743-1/7/1/1743/fl.13/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$joao antonio/id=c1743-1-per1
+            ls$freguesia/sao pedro, vilar do paraiso
+            ls$comarca/leira
+            ls$bispado/porto
+            ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel antonio/id=c1743-1-per2
+
+         mnoivo$maria gomes/id=c1743-1-per3
+
+         noiva$clara maria/id=c1743-1-per4
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel antunes/id=c1743-1-per5
+
+         mnoiva$maria henriques/id=c1743-1-per6
+
+         test$jose joaquim/id=c1743-1-per7
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/mal
+
+         test$antonio jose henriques/id=c1743-1-per8
+            ls$residencia/bairro
+            ls$assina/sim
+
+      cas$c1743-2/7/1/1743/fl.13v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose joao/id=c1743-2-per1
+            ls$naturalidade/arelho
+            ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$valentim joao/id=c1743-2-per2
+
+         mnoivo$catarina franco/id=c1743-2-per3
+
+         noiva$ana maria/id=c1743-2-per4
+            ls$naturalidade/carregal
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$antonio joao/id=c1743-2-per5
+            ls$morto/antes
+
+         mnoiva$maria rodrigues/id=c1743-2-per6
+
+         test$antonio soares/id=c1743-2-test
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1743-2-per7
+            rel$parentesco/sobrinho/antonio soares/c1743-2-test
+            ls$assina/sim
+
+      cas$c1743-3/28/1/1743/fl.14/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. os folios 14v. e 15 estao em branco. o casamento realiza-se de manha.
+
+         noivo$antonio da silva/id=c1743-3-per1
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$domingos da silva/id=c1743-3-per2
+            ls$morto/antes
+
+         mnoivo$clara maria/id=c1743-3-per3
+
+         noiva$maria madalena/id=c1743-3-per4
+            ls$ec/viuva
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         marido1$joao marques leal/id=c1743-3-per5
+            ls$morto/antes
+
+         test$antonio henriques/id=c1743-3-test
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$jose pedro/id=c1743-3-per6
+            ls$residencia/obidos
+            rel$parentesco/filho/antonio henriques/c1743-3-test
+            ls$assina/sim
+
+      cas$c1743-4/18/2/1743/fl.15v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$francisco luis/id=c1743-4-per1
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao pedro, peniche
+            rel$parentesco/consanguinidade de quarto grau/ana maria/c1743-4-nova/obs=os noivos foram dispensados do consanguinidade de quarto grau.
+
+         pnoivo$domingos luis/id=c1743-4-per2
+
+         mnoivo$isabel francisca/id=c1743-4-per3
+            ls$morta/antes
+
+         noiva$ana maria/id=c1743-4-noiva
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            rel$parentesco/consanguinidade de quarto grau/ana maria/c1743-4-noiva/obs=os noivos foram dispensados do consanguinidade de quarto grau.
+
+         pnoiva$manuel jorge/id=c1743-4-per4
+            ls$morto/antes
+
+         mnoiva$maria francisca/id=c1743-4-per5
+
+         test$lourenco correia da costa/id=c1743-4-per6
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$inocencio soares/id=c1743-4-per7
+            ls$residencia/sobral
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1743-5/20/2/1743/fl.16/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio jose henriques/id=c1743-5-per1
+            ls$naturalidade/bairro
+            ls$residencia/bairro
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            rel$parentesco/consanguinidade de quarto grau/antonia maria/c1743-5-noiva/obs=os noivos foram dispensados do consanguinidade de quarto grau.
+
+         pnoivo$manuel henriques/id=c1743-5-per2
+
+         mnoivo$madalena rodrigues/id=c1743-5-per3
+            ls$morta/antes
+
+         noiva$antonia maria/id=c1743-5-noiva
+            ls$naturalidade/bairro
+            ls$residencia/bairro
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel luis/id=c1743-5-per4
+
+         mnoiva$brisida maria/id=c1743-5-per5
+
+         test$caetano pedro do avelar/id=c1743-5-per6
+            ls$cargo/beneficiado
+            ls$assina/sim
+            ls$assina/bem
+
+         test$antonio soares/id=c1743-5-test
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1743-6/24/2/1743/fl.16v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$miguel francisco/id=c1743-6-per1
+            ls$naturalidade/freguesia de sao pedro, barcana
+            ls$freguesia/sao pedro, barcana
+            ls$residencia/queluz/obs=desobrigou-se a quaresma passada na freguesia de santa isabel, rato, lisboa
+
+         pnoivo$antonio francisco/id=c1743-6-per2
+
+         mnoivo$eugenia maria/id=c1743-6-per3
+
+         noiva$ana maria/id=c1743-6-per4
+            ls$naturalidade/pinhal
+            ls$freguesia/sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$domingos dos reis/id=c1743-6-per5
+
+         mnoiva$isabel maria/id=c1743-6-per6
+
+         test$jose henrique/id=c1743-6-per7
+            ls$residencia/a da gorda
+            ls$assina/sim
+
+         test$miguel da silva/id=c1743-6-per8
+            ls$residencia/sobral
+            ls$assina/cruz
+
+      cas$c1743-7/22/4/1743/fl.17/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$joao monteiro/id=c1743-7-per1
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel monteiro/id=c1743-7-per2
+            ls$morto/antes
+
+         mnoivo$isabel luis/id=c1743-7-per3
+
+         noiva$maria de sao jose/id=c1743-7-per4
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$domingos luis/id=c1743-7-per5
+
+         mnoiva$isabel francisca/id=c1743-7-per6
+            ls$morta/antes
+
+         test$antonio soares/mesmo_que=c1743-5-test/id=c1743-7-per7
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$lourenco correia da costa/id=c1743-7-per8
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1743-8/15/5/1743/fl.17v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel marques/id=c1743-8-per1
+            ls$naturalidade/freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel marques/id=c1743-8-per2
+
+         mnoivo$maria francisca/id=c1743-8-per3
+
+         noiva$sebastiana maria/id=c1743-8-per4
+            ls$naturalidade/freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel henriques/id=c1743-8-per5
+            ls$morto/antes
+
+         mnoiva$maria henriques/id=c1743-8-per6
+            ls$morta/antes
+
+         test$antonio soares/mesmo_que=c1743-5-test/id=c1743-8-per7
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1743-8-per8
+            rel$parentesco/sobrinho/antonio soares/c1743-5-test
+            ls$assina/sim
+
+      cas$c1743-9/17/6/1743/fl.18/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose dos santos/id=c1743-9-per1
+            ls$naturalidade/caldas
+            ls$locbaptismo/freguesia de nossa senhora do populo, caldas
+            ls$freguesia/nossa senhora do populo, caldas
+            ls$residencia/caldas/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora do populo, caldas
+
+         pnoivo$miguel pereira/id=c1743-9-per2
+            ls$morto/antes
+
+         mnoivo$catarina do couto/id=c1743-9-per3
+
+         noiva$caetana maria/id=c1743-9-per4
+            ls$naturalidade/sobral
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/sobral
+
+         pnoiva$manuel simoes/id=c1743-9-per5
+            ls$morto/antes
+
+         mnoiva$maria francisca/id=c1743-9-per6
+
+         test$manuel soares crespo/id=c1743-9-per7
+            ls$residencia/caldas
+            ls$assina/cruz
+
+         test$manuel pereira/id=c1743-9-per8
+            ls$residencia/sobral
+            ls$assina/cruz
+
+      cas$c1743-10/29/9/1743/fl.18v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel viana/id=c1743-10-per1
+            ls$naturalidade/arelho
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$joao viana/id=c1743-10-per2
+
+         mnoivo$dionisia maria/id=c1743-10-per3
+            ls$morta/antes
+
+         noiva$mariana teresa da assuncao/id=c1743-10-per4
+            ls$naturalidade/arelho
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$jeronimo ferreira/id=c1743-10-per5
+            ls$morto/antes
+
+         mnoiva$maria do rosario/id=c1743-10-per6
+
+         test$antonio soares/mesmo_que=c1743-5-test/id=c1743-10-per7
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1743-10-per8
+            rel$parentesco/sobrinho/antonio soares/c1743-5-test
+            ls$assina/sim
+
+      cas$c1743-11/14/10/1743/fl.19/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha. a margem diz que a 13 de setembro de 1790 o paroco monteiro passou certidao deste assento por despacho do doutor vigario geral.
+
+         noivo$manuel ferraz/id=c1743-11-per1
+            ls$residencia/ramalheira
+            ls$freguesia/nossa senhora da purificacao, ?
+            ls$bispado/leiria
+            ls$locbaptismo/freguesia de nossa senhora da purificacao, ?
+            ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$pedro ferraz/id=c1743-11-per2
+
+         mnoivo$monica alvares/id=c1743-11-per3
+
+         noiva$catarina maria/id=c1743-11-per4
+            ls$naturalidade/arelho
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$pascoal de ?/id=c1743-11-per5
+
+         mnoiva$josefa henriques/id=c1743-11-per6
+
+         test$atanasio rodrigues/id=c1743-11-per7
+            ls$assina/cruz
+
+         test$francisco jorge/id=c1743-11-per8
+            ls$residencia/arelho
+            ls$assina/cruz
+
+      cas$c1743-12/28/10/1743/fl.19v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel joao/id=c1743-12-per1
+            ls$naturalidade/carregal
+            ls$residencia/carregal
+
+         pnoivo$antonio joao/id=c1743-12-per2
+            ls$morto/antes
+
+         mnoivo$maria rodrigues/id=c1743-12-per3
+            ls$residencia/carregal
+
+         noiva$catarina maria/id=c1743-12-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$manuel henriques/id=c1743-12-per5
+
+         mnoiva$maria lopes/id=c1743-12-per6
+
+         test$antonio soares/mesmo_que=c1743-5-test/id=c1743-12-per7
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1743-12-per8
+            rel$parentesco/sobrinho/antonio soares/c1743-5-test
+            ls$assina/sim
+
+      cas$c1743-13/10/11/1743/fl.20/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose lopes/id=c1743-13-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel lopes/id=c1743-13-per2
+            ls$residencia/arelho
+
+         mnoivo$maria joao/id=c1743-13-per3
+            ls$residencia/arelho
+
+         noiva$maria inacia/id=c1743-13-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$inacio rodrigues/id=c1743-13-per5
+            ls$residencia/arelho
+
+         mnoiva$josefa maria/id=c1743-13-per6
+            ls$residencia/arelho
+
+         test$manuel gomes/id=c1743-13-per7
+            ls$residencia/?
+            ls$freguesia/sao tiago
+            ls$assina/cruz
+
+         test$francisco jorge/id=c1743-13-per8
+            ls$residencia/arelho
+            ls$assina/cruz
+
+      cas$c1743-14/17/11/1743/fl.20v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose francisco/id=c1743-14-per1
+            ls$naturalidade/moinho da torre
+            ls$freguesia/sao pedro
+            ls$residencia/moinho da torre
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoivo$manuel do couto/id=c1743-14-per2
+
+         mnoivo$maria francisca/id=c1743-14-per3
+
+         noiva$luisa maria/id=c1743-14-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$alexandre da silva/id=c1743-14-per5
+            ls$morto/antes
+
+         mnoiva$angela maria/id=c1743-14-per6
+
+         test$manuel de oliveira farto/id=c1743-14-per7
+            ls$assina/sim
+            ls$assina/bem
+
+         test$severino gomes da costa/id=c1743-14-per8
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1743-15/24/11/1743/fl.21/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha. a margem diz que a 14 de julho de 1802 o paroco fez certidao deste assento por despacho do doutor vigario geral.
+
+         noivo$manuel do rego/id=c1743-15-per1
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            rel$parentesco/consanguinidade de quarto grau/luisa maria/c1743-15-noiva/obs=os noivos foram desobrigados do quarto grau de consaguinidade
+
+         pnoivo$silvestre do rego/id=c1743-15-per2
+            ls$morto/antes
+
+         mnoivo$teresa das virtudes/id=c1743-15-per3
+
+         noiva$luisa maria/id=c1743-15-noiva
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel rodrigues/id=c1743-15-per4
+            ls$morto/antes
+
+         mnoiva$catarina leitoa/id=c1743-15-per5
+
+         test$manuel luis/id=c1743-15-per6
+            ls$alcunha/o moco
+            ls$assina/cruz
+
+         test$domingos gomes do rego/id=c1743-15-per7
+            ls$residencia/sobral
+            ls$assina/cruz
+
+      cas$c1744-1/8/1/1744/fl.21v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio lopes/id=c1744-1-per1
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/carregal/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$domingos lopes/id=c1744-1-per2
+            ls$morto/antes
+            ls$residencia/carregal
+
+         mnoivo$mariana francisca/id=c1744-1-per3
+            ls$morta/antes
+            ls$residencia/carregal
+
+         noiva$pascoa maria/id=c1744-1-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$joao manuel/id=c1744-1-per5
+            ls$morto/antes
+            ls$residencia/arelho
+
+         mnoiva$maria luisa/id=c1744-1-per6
+            ls$morta/antes
+            ls$residencia/arelho
+
+         test$jose francisco lopes/id=c1744-1-per7
+            ls$residencia/arelho
+            ls$assina/cruz
+
+         test$jorge leal/id=c1744-1-per8
+            ls$residencia/brogueira
+            ls$freguesia/sao tiago
+            ls$assina/cruz
+
+      cas$c1744-2/19/1/1744/fl.23/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$joaquim rodrigues/id=c1744-2-per1
+            ls$naturalidade/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$jose rodrigues/id=c1744-2-per2
+            ls$residencia/quinta da galeota
+            ls$freguesia/sao tiago
+
+         mnoivo$josefa leal/id=c1744-2-per3
+            ls$residencia/quinta da galeota
+            ls$freguesia/sao tiago
+
+         noiva$antonia maria/id=c1744-2-per4
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$francisco goncalves/id=c1744-2-per5
+            ls$residencia/carregal
+
+         mnoiva$maria henriques/id=c1744-2-per6
+            ls$residencia/carregal
+
+         test$carlos sousa e silva/id=c1744-2-per7
+            ls$profissao/estudante
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$jose monteiro/id=c1744-2-per8
+            ls$residencia/carregal
+            ls$assina/mal
+
+      cas$c1744-3/10/2/1744/fl.23v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio joao/id=c1744-3-per1
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$joao simoes/id=c1744-3-per2
+
+         mnoivo$maria francisca/id=c1744-3-per3
+
+         noiva$helena maria/id=c1744-3-per4
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$joao francisco/id=c1744-3-per5
+
+         mnoiva$domingas lopes/id=c1744-3-per6
+
+         test$antonio de macedo neto/id=c1744-3-per7
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$jose monteiro/id=c1744-3-per8
+            ls$residencia/carregal
+            ls$assina/mal
+
+      cas$c1744-4/12/2/1744/fl.24/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio ribeiro/id=c1744-4-per1
+            ls$naturalidade/lourentim
+            ls$freguesia/sao miguel de lobrigos
+            ls$bispado/porto
+            ls$locbaptismo/freguesia de sao miguel de lobrigos
+            ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$jose dias/id=c1744-4-per2
+            ls$morto/antes
+
+         mnoivo$maria ribeiro/id=c1744-4-per3
+
+         noiva$joana maria/id=c1744-4-per4
+            ls$naturalidade/bairro
+            ls$residencia/bairro
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$manuel antunes/id=c1744-4-per5
+
+         mnoiva$maria henriques/id=c1744-4-per6
+
+         test$jose joaquim/id=c1744-4-per7
+            ls$residencia/obidos
+            ls$assina/mal
+
+         test$bernardo antonio/id=c1744-4-per8
+            ls$residencia/tras do outeiro
+            ls$assina/sim
+
+      cas$c1744-5/17/2/1744/fl.24v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha. a margem diz que aos 13 de setembro de 1790 o paroco passou certidao deste assento por despacho do doutor vigario geral.
+
+         noivo$joao ferreira cardoso/id=c1744-5-per1
+            ls$locbaptismo/freguesia de sao cristovao, rio tinto
+            ls$bispado/porto
+            ls$residencia/arelho
+
+         pnoivo$domingos cardoso/id=c1744-5-per2
+            ls$morto/antes
+
+         mnoivo$maria cardoso/id=c1744-5-per3
+            ls$morta/antes
+
+         noiva$josefa maria henriques/id=c1744-5-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$pascoal da silva/id=c1744-5-per5
+
+         mnoiva$josefa henriques/id=c1744-5-per6
+
+         test$antonio da silva/id=c1744-5-per7
+            ls$residencia/obidos, em casa do juiz de fora joao da cruz dinis ?
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1744-5-per8
+            ls$profissao/estudante
+            ls$residencia/obidos
+            ls$assina/sim
+
+         referido$jose da cruz dinis ?/id=c1744-5-per9
+            ls$titulo/doutor
+            ls$cargo/juiz de fora
+            ls$residencia/obidos
+
+      cas$c1744-6/13/4/1744/fl.25/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel rodrigues/id=c1744-6-per1
+            ls$residencia/casal do raposo, termo da vila de montemor-o-velho
+            ls$bispado/coimbra
+            ls$freguesia/sao miguel
+            ls$locbaptismo/freguesia de sao miguel
+            ls$residencia/carregal/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$agostinho rodrigues/id=c1744-6-per2
+            ls$morto/antes
+            ls$residencia/casal do raposo
+
+         mnoivo$antonia gomes/id=c1744-6-per3
+            ls$morta/antes
+            ls$residencia/casal do raposo
+
+         noiva$brites maria/id=c1744-6-per4
+            ls$naturalidade/carregal
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$tomas luis/id=c1744-6-per5
+            ls$morto/antes
+            ls$residencia/carregal
+
+         mnoiva$maria lopes/id=c1744-6-per6
+            ls$morta/antes
+            ls$residencia/carregal
+
+         test$antonio soares/mesmo_que=c1743-5-test/id=c1744-6-per7
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1744-6-per8
+            rel$parentesco/sobrinho/antonio soares/c1743-5-test
+            ls$assina/sim
+
+      cas$c1745-1/31/1/1745/fl.25v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$pascoal francisco/id=c1745-1-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$manuel francisco/id=c1745-1-per2
+
+         mnoivo$teresa marques/id=c1745-1-per3
+
+         noiva$damiana maria/id=c1745-1-per4
+            ls$residencia/sobral
+            ls$naturalidade/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel monteiro/obs=duvida na leitura do nome e apelido/id=c1745-1-per5
+
+         mnoiva$maria marques/id=c1745-1-per6
+
+         test$antonio soares/mesmo_que=c1743-5-test/id=c1745-1-per7
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$carlos soares e silva/id=c1745-1-per8
+            rel$parentesco/sobrinho/antonio soares/c1743-5-test
+            ls$assina/sim
+
+      cas$c1745-2/17/2/1745/fl.26/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio gomes/id=c1745-2-per1
+            ls$naturalidade/salir do porto
+            ls$locbaptismo/freguesia de nossa senhora da conceicao, salir do porto
+            ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel da trindade/id=c1745-2-per2
+
+         mnoivo$margarida da nazare/id=c1745-2-per3
+
+         noiva$maria da conceicao/id=c1745-2-per4
+            ls$naturalidade/bairro
+            ls$residencia/bairro
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$manuel luis/id=c1745-2-per5
+
+         mnoiva$brisida maria/id=c1745-2-per6
+
+         test$francisco rodrigues da silva/id=c1745-2-per7
+            ls$cargo/capitao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$antonio jose henriques/id=c1745-2-per8
+            ls$residencia/bairro
+            ls$assina/sim
+
+      cas$c1745-3/15/3/1745/fl.26v./igreja de sao joao baptista do mocharro/antonio de macedo neto (padre)/obs=assina o prior bras antunes correia e o padre antonio de macedo neto. o casamento realiza-se de manha.
+
+         noivo$antonio ribeiro/id=c1745-3-per1
+            ls$residencia/amoreira
+            ls$freguesia/nossa senhora de aboboriz
+            ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
+
+         pnoivo$joaquim ribeiro/id=c1745-3-per2
+
+         mnoivo$madalena maria/id=c1745-3-per3
+
+         noiva$ana maria/id=c1745-3-per4
+            ls$residencia/sobral
+            ls$naturalidade/freguesia de nossa senhora da ajuda, peniche
+            ls$locbaptismo/freguesia de nossa senhora da ajuda, peniche/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$joao marques/id=c1745-3-per5
+
+         mnoiva$josefa franco/id=c1745-3-per6
+
+         test$lourenco correia da costa/id=c1745-3-per7
+            ls$profissao/padre
+            ls$assina/sim
+            ls$assina/bem
+
+         test$antonio soares/id=c1745-3-per8
+            ls$cargo/padre na igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1745-4/26/4/1745/fl.27/igreja de sao joao baptista do mocharro/lourenco correia da costa (padre)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose francisco/id=c1745-4-per1
+            ls$residencia/casal da brogueira
+            ls$freguesia/sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+
+         pnoivo$joao francisco/id=c1745-4-per2
+
+         noiva$eugenia maria/id=c1745-4-per3
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$inacio rodrigues/id=c1745-4-per4
+
+         mnoiva$josefa maria/id=c1745-4-per5
+
+         test$antonio francisco/id=c1745-4-per6
+            ls$residencia/arelho
+            ls$assina/sim
+
+         test$francisco jorge/id=c1745-4-per7
+            ls$residencia/arelho
+            ls$assina/cruz
+
+      cas$c1745-5/17/5/1745/fl.27v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$leandro gomes/id=c1745-5-per1
+            ls$naturalidade/ribeira das caldas
+            ls$residencia/ribeira das caldas
+            ls$freguesia/nossa senhora do populo
+            ls$locbaptismo/freguesia de nossa senhora do populo
+
+         pnoivo$francisco antunes/id=c1745-5-per2
+            ls$morto/antes
+
+         mnoivo$maria gomes/id=c1745-5-per3
+
+         noiva$rosa maria/id=c1745-5-per4
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel henriques/id=c1745-5-per5
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+
+         mnoiva$maria lopes/id=c1745-5-per6
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+
+         test$jose francisco lopes/id=c1745-5-per7
+            ls$residencia/arelho
+            ls$assina/cruz
+
+         test$joao pereira/id=c1745-5-per8
+            ls$residencia/tras do outeiro
+            ls$assina/cruz
+
+      cas$c1745-6/19/6/1745/fl.28/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$alberto francisco/id=c1745-6-per1
+            ls$naturalidade/bairro
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/casal da figueira/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$jose francisco/id=c1745-6-per2
+
+         mnoivo$joana maria/id=c1745-6-per3
+
+         noiva$caetana maria/id=c1745-6-per4
+            ls$residencia/casal da figueira
+            ls$naturalidade/casal da figueira
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$francisco dias/id=c1745-6-per5
+            ls$residencia/casal da figueira
+
+         mnoiva$maria francisca/id=c1745-6-per6
+            ls$residencia/casal da figueira
+
+         test$manuel gomes/id=c1745-6-per7
+            ls$assina/sim
+            ls$assina/bem
+
+         test$antonio soares/id=c1745-6-per8
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1745-7/25/7/1745/fl.28v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$vicente francisco monteiro/id=c1745-7-per1
+            ls$residencia/casal do negrelho
+            ls$freguesia/sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+            ls$residencia/sobral da lagoa/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$jose monteiro/id=c1745-7-per2
+            ls$morto/antes
+
+         mnoivo$domingas da horta/id=c1745-7-per3
+            ls$residencia/casal do negrelho
+            ls$freguesia/sao tiago
+
+         noiva$pascoa maria/id=c1745-7-per4
+            ls$naturalidade/sobral da lagoa
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/sobral da lagoa/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel francisco/id=c1745-7-per5
+
+         mnoiva$vitoria maria/id=c1745-7-per6
+
+         test$jose de arede/id=c1745-7-per7
+            ls$residencia/em casa do doutor juiz de fora
+
+         referido$nome desconhecido/id=c1745-7-per8
+            ls$cargo/juiz de fora
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$carlos soares e silva/id=c1745-7-per9
+            ls$profissao/estudante
+            ls$assina/sim
+
+      cas$c1745-8/13/10/1745/fl.29/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de tarde.
+
+         noivo$jose luis/id=c1745-8-per1
+            ls$ec/viuvo
+            ls$naturalidade/amoreira
+            ls$residencia/amoreira
+            ls$freguesia/nossa senhora de aboboriz
+
+            mulher1$maria monteiro/id=c1745-8-per1-per2
+               ls$morta/antes
+
+         noiva$vitoria maria/id=c1745-8-per3
+            ls$naturalidade/freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$leonardo luis/id=c1745-8-per4
+
+         mnoiva$maria francisca/id=c1745-8-per5
+
+         test$francisco de sequeira ferrao/id=c1745-8-per6
+            ls$assina/sim
+            ls$assina/bem
+
+         test$manuel francisco/id=c1745-8-per7
+            ls$residencia/sobral
+            ls$assina/cruz
+
+      cas$c1745-9/9/11/1745/fl.29v./igreja de sao joao baptista do mocharro/antonio de macedo neto (padre)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$nicolau rodrigues/id=c1745-9-per1
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$domingos rodrigues/id=c1745-9-per2
+            ls$morto/antes
+
+         mnoivo$maria de andrade/id=c1745-9-per3
+
+         noiva$guiomar maria/id=c1745-9-per4
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$jose monteiro/id=c1745-9-per5
+            ls$morto/antes
+
+         mnoiva$maria francisca/id=c1745-9-per6
+
+         test$antonio soares/id=c1745-9-test
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$joaquim ferreira/id=c1745-9-per7
+            rel$parentesco/sobrinho/antonio soares/c1745-9-test
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1745-10/15/11/1745/fl.30/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$sebastiao da silva/id=c1745-10-per1
+            ls$naturalidade/freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$antonio da silva/id=c1745-10-per2
+            ls$morto/antes
+
+         mnoivo$maria joao/id=c1745-10-per3
+            ls$morta/antes
+
+         noiva$maria dos santos/id=c1745-10-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel dos santos/id=c1745-10-per5
+
+         mnoiva$micaela dos santos/id=c1745-10-per6
+
+         test$manuel teixeira/id=c1745-10-per7
+            ls$residencia/amoreira
+            ls$assina/sim
+            ls$assina/bem
+
+         test$pedro henriques/id=c1745-10-per8
+            ls$residencia/arelho
+            ls$assina/cruz
+
+      cas$c1746-1/10/2/1746/fl.30v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$pantaleao francisco/id=c1746-1-per1
+            ls$ec/viuvo
+            ls$residencia/sobral
+
+            mulher1$catarina rodrigues/id=c1746-1-per1-per2
+               ls$morta/antes
+
+         noiva$maria josefa/id=c1746-1-per3
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao juliao, lisboa
+
+         pnoiva$manuel francisco/id=c1746-1-per4
+            ls$alcunha/o loiro
+
+         mnoiva$josefa maria/id=c1746-1-per5
+
+         test$antonio soares/id=c1746-1-per6
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$manuel francisco/id=c1746-1-per7
+            ls$alcunha/o velho
+            ls$residencia/sobral
+            ls$assina/cruz
+
+      cas$c1747-1/18/1/1747/fl.31/ermida de sao sebastiao, sobral/sebastiao lobo de andrade (padre, cura na igreja de sao pedro)/obs=assina o prior bras antunes correia e o padre sebastiao lobo de andrade.
+
+         noivo$jose rodrigues/id=c1747-1-per1
+            ls$residencia/a da gorda
+            ls$locbaptismo/freguesia de santa maria/obs=desobrigou-se a quaresma passada na freguesia de santa maria
+            ls$freguesia/santa maria
+
+         pnoivo$joao rodrigues/id=c1747-1-per2
+            ls$morto/antes
+            ls$residencia/a da gorda
+            ls$freguesia/santa maria
+
+         mnoivo$antonia maria/id=c1747-1-per3
+            ls$morta/antes
+            ls$residencia/a da gorda
+            ls$freguesia/santa maria
+
+         noiva$quiteria maria de sao jose/id=c1747-1-per4
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$antonio marques leitao/id=c1747-1-per5
+            ls$cargo/alferes
+            ls$morto/antes
+
+         mnoiva$maria do rego moreira/id=c1747-1-per6
+
+         test$joao rodrigues bojo/id=c1747-1-per7
+            ls$assina/mal
+
+         test$inocencio soares/id=c1747-1-per8
+            ls$residencia/sobral
+            ls$assina/mal
+
+      cas$c1747-2/3/7/1747/fl.31v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio marques/id=c1747-2-per1
+            ls$naturalidade/sobral da lagoa
+            ls$residencia/sobral da lagoa
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel marques/id=c1747-2-per2
+
+         mnoivo$maria francisca/id=c1747-2-per3
+
+         noiva$maria marques/id=c1747-2-per4
+            ls$naturalidade/sobral da lagoa
+            ls$residencia/sobral da lagoa
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$sebastiao marques/id=c1747-2-per5
+            ls$morto/antes
+
+         mnoiva$isabel teresa/id=c1747-2-per6
+
+         test$antonio soares/id=c1747-2-per7
+            ls$profissao/padre
+            ls$cargo/tesoureira da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$jose correia manuel de aboim/id=c1747-2-per8
+            ls$assina/sim
+
+      cas$c1747-3/11/10/1747/fl.32/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$miguel joao/id=c1747-3-per1
+            ls$naturalidade/arelho
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$jose joao/id=c1747-3-per2
+            ls$alcunha/o biscainho
+
+         mnoivo$domingas goncalves/id=c1747-3-per3
+            ls$morta/antes
+
+         noiva$luisa francisca/id=c1747-3-per4
+            ls$naturalidade/casal da charneca
+            ls$locbaptismo/freguesia de sao joao
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$domingos francisco/id=c1747-3-per5
+
+         mnoiva$antonia francisca/id=c1747-3-per6
+            ls$residencia/casal da charneca
+            ls$morta/antes
+
+         test$antonio soares/id=c1747-3-per7
+            ls$profissao/padre
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$antonio dias/id=c1747-3-per8
+            ls$residencia/sobral
+            ls$assina/cruz
+
+      cas$c1747-4/16/10/1747/fl.32v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel rodrigues/id=c1747-4-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$alvaro rodrigues/id=c1747-4-per2
+
+         mnoivo$inacia maria/id=c1747-4-per3
+
+         noiva$rosa maria/id=c1747-4-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$jose henriques/id=c1747-4-per5
+            ls$morto/antes
+
+         mnoiva$clara maria/id=c1747-4-per6
+
+         test$manuel gomes de gois/id=c1747-4-per7
+            ls$assina/sim
+            ls$assina/bem
+
+         test$felix da silva/id=c1747-4-per8
+            ls$residencia/obidos
+            ls$assina/sim
+
+      cas$c1747-5/6/11/1747/fl.33/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha. o livro foi visto em visitacao de 16 de novembro de 1747.
+
+         noivo$manuel henriques/id=c1747-5-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$bernardo henriques/id=c1747-5-per2
+            ls$morto/antes
+
+         mnoivo$rosa maria/id=c1747-5-per3
+
+         noiva$maria da ascensao/id=c1747-5-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$domingos da silva/id=c1747-5-per5
+            ls$morto/antes
+
+         mnoiva$clara maria/id=c1747-5-per6
+            ls$residencia/arelho
+
+         test$leandro gomes/id=c1747-5-per7
+            ls$residencia/arelho
+            ls$assina/cruz
+
+         test$jose francisco lopes/id=c1747-5-per8
+            ls$residencia/arelho
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1748-1/5/2/1748/fl.33v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$joaquim joao/id=c1748-1-per1
+            ls$residencia/arelho
+            ls$naturalidade/freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
+
+         pnoivo$valentim joao/id=c1748-1-per2
+            ls$morto/antes
+
+         mnoivo$catarina franco/id=c1748-1-per3
+
+         noiva$josefa maria/id=c1748-1-per4
+            ls$residencia/carregal
+            ls$naturalidade/freguesia de sao joao
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$antonio joao/id=c1748-1-per5
+            ls$morto/antes
+
+         mnoiva$maria rodrigues/id=c1748-1-per6
+
+         test$jose joao/id=c1748-1-per7
+            ls$residencia/ribeira das caldas
+            ls$freguesia/sao tiago
+            ls$assina/cruz
+
+         test$jose francisco/id=c1748-1-per8
+            ls$residencia/arelho
+            ls$assina/cruz
+
+      cas$c1748-2/11/2/1748/fl.34/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$sebastiao francisco/id=c1748-2-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoivo$francisco jorge/id=c1748-2-per2
+
+         mnoivo$catarina franco/id=c1748-2-per3
+
+         noiva$josefa maria/id=c1748-2-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$manuel franco/id=c1748-2-per5
+            ls$profissao/lavrador
+
+         mnoiva$josefa maria/id=c1748-2-per6
+            ls$morta/antes
+
+         test$antonio monteiro/id=c1748-2-per7
+            ls$assina/sim
+
+         test$domingos francisco/id=c1748-2-per8
+            ls$residencia/arelho
+            ls$assina/cruz
+
+      cas$c1748-3/12/2/1748/fl.34v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel rodrigues/id=c1748-3-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$inacio rodrigues/id=c1748-3-per2
+
+         mnoivo$josefa maria/id=c1748-3-per3
+
+         noiva$maria josefa/id=c1748-3-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel luis/id=c1748-3-per5
+            ls$residencia/arelho
+            ls$morto/antes
+
+         mnoiva$josefa gomes/id=c1748-3-per6
+            ls$residencia/arelho
+
+         test$joao rodrigues/id=c1748-3-per7
+            ls$assina/cruz
+
+         test$jose goncalves/id=c1748-3-per8
+            ls$assina/cruz
+
+      cas$c1748-4/18/2/1748/fl.35/igreja de sao joao baptista do mocharro/antonio soares (padre, tesoureiro da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$caetano pedro/id=c1748-4-per1
+            ls$residencia/pinhal
+            ls$freguesia/sao pedro
+            ls$locbaptismo/freguesia de sao pedro/obs=desobrigou-se a quaresma passada na freguesia de sao pedro
+
+         pnoivo$henrique monteiro/id=c1748-4-per2
+            ls$morto/antes
+
+         mnoivo$maria madalena/id=c1748-4-per3
+
+         noiva$domingas maria de jesus/id=c1748-4-per4
+            ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            ls$locbaptismo/freguesia de sao tiago
+
+         pnoiva$francisco joao/id=c1748-4-per5
+
+         mnoiva$maria ferreira/id=c1748-4-per6
+
+         test$jacinto pereira da costa/id=c1748-4-per7
+            ls$cargo/padre da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$manuel soares ferreira/id=c1748-4-per8
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1748-5/30/9/1748/fl.35v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio gomes/id=c1748-5-per1
+            ls$ec/viuvo
+            ls$residencia/bairro
+            ls$naturalidade/vila de salir do porto
+            ls$freguesia/nossa senhora da conceicao, salir do porto
+            ls$locbaptismo/freguesia de nossa senhora da conceicao, salir do porto/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+            mulher1$maria da conceicao/id=c1748-5-per1-per2
+               ls$morta/antes
+
+         pnoivo$manuel da trindade/id=c1748-5-per3
+
+         mnoivo$margarida da nazare/id=c1748-5-per4
+
+         noiva$josefa maria/id=c1748-5-per5
+            ls$naturalidade/bairro
+            ls$residencia/bairro
+            ls$locbaptismo/freguesia de sao joao
+
+         pnoiva$diogo da maia/id=c1748-5-per6
+            ls$morto/antes
+
+         mnoiva$antonia francisca/id=c1748-5-per7
+            ls$morta/antes
+
+         test$antonio laurentino de seixas/id=c1748-5-per8
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$manuel franco/id=c1748-5-per9
+            ls$residencia/bairro
+            ls$assina/cruz
+
+      cas$c1749-1/13/1/1749/fl.36/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$estevao goncalves/id=c1749-1-per1
+            ls$naturalidade/quinta da galeota
+            ls$freguesia/sao tiago
+            ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel goncalve/id=c1749-1-per2
+            ls$residencia/arelho
+
+         mnoivo$maria ferreira/id=c1749-1-per3
+            ls$residencia/arelho
+
+         noiva$josefa maria/id=c1749-1-per4
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$jose franco/id=c1749-1-per5
+
+         mnoiva$maria antunes/id=c1749-1-per6
+            ls$morta/antes
+
+         test$antonio laurentino de seixas/obs=o paroco escreve antonio antonio eleuterio de seixas, mas a testemunha assina antonio laurentino de seixas/id=c1749-1-per7
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+
+         test$narciso jose/id=c1749-1-per8
+            ls$profissao/estudante
+            ls$residencia/obidos
+            ls$assina/sim
+
+      cas$c1749-2/26/1/1749/fl.36v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$joao goncalves/id=c1749-2-per1
+            ls$naturalidade/freguesia de sao pedro, peniche
+            ls$locbaptismo/freguesia de sao pedro, peniche
+            ls$residencia/freguesia de santa engracia, lisboa/obs=desobrigou-se a quaresma passada na freguesia de santa engracia, lisboa
+            rel$parentesco/consanguinidade de quarto grau/catarina maria/c1749-2-noiva/obs=foram despensados do consanguinidade de quarto grau
+
+         pnoivo$domingos goncalves/id=c1749-2-per2
+            ls$morto/antes
+
+         mnoivo$sebastiana maria/id=c1749-2-per3
+            ls$morta/antes
+
+         noiva$catarina maria/id=c1749-2-noiva
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            ls$residencia/sobral da lagoa
+
+         pnoiva$manuel lopes/id=c1749-2-per4
+            ls$residencia/sobral da lagoa
+
+         mnoiva$maria margarida/id=c1749-2-per5
+            ls$residencia/sobral da lagoa
+
+         test$francisco da silva/id=c1749-2-per6
+            ls$profissao/barbeiro
+            ls$residencia/arelho
+            ls$assina/sim
+
+         test$manuel de seixas vasconcelos/id=c1749-2-per7
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1749-3/26/1/1749/fl.37/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$francisco antonio/id=c1749-3-per1
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$antonio francisco/id=c1749-3-per2
+
+         mnoivo$monica maria/id=c1749-3-per3
+
+         noiva$micaela maria/id=c1749-3-per4
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$jacinto rodrigues/id=c1749-3-per5
+
+         mnoiva$maria ferreira/id=c1749-3-per6
+
+         test$francisco da silva/id=c1749-3-per7
+            ls$profissao/barbeiro
+            ls$residencia/arelho
+            ls$assina/sim
+
+         test$manuel antonio de seixas/id=c1749-3-per8
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1749-4/27/1/1749/fl.37v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$bernardo franco/id=c1749-4-per1
+            ls$residencia/casal da chopa, limite do arelho
+            ls$naturalidade/casal da chopa, limite do arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel franco/id=c1749-4-per2
+            ls$residencia/casal da chopa, limite do arelho
+
+         mnoivo$antonia ferreira/id=c1749-4-per3
+            ls$residencia/casal da chopa, limite do arelho
+
+         noiva$maria micaela/id=c1749-4-per4
+            ls$residencia/carregal
+            ls$naturalidade/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$jose monteiro/id=c1749-4-per5
+            ls$residencia/carregal
+
+         mnoiva$maria rodrigues/id=c1749-4-per6
+            ls$residencia/carregal
+
+         test$antonio moreira chaves/id=c1749-4-test
+            ls$ec/solteiro
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$antonio moreira chaves/id=c1749-4-per7
+            ls$residencia/obidos
+            rel$parentesco/pai/antonio moreira chaves/c1749-4-test
+            ls$assina/sim
+
+      cas$c1749-5/17/2/1749/fl.38/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$porfirio da fonseca/id=c1749-5-per1
+            ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
+            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da purificacao, rolica
+
+         pnoivo$joao da fonseca/id=c1749-5-per2
+            ls$morto/antes
+
+         mnoivo$leonor luis/id=c1749-5-per3
+            ls$morta/antes
+
+         noiva$maria josefa/id=c1749-5-per4
+            ls$naturalidade/sobral da lagoa
+            ls$residencia/sobral da lagoa
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$jose marques/id=c1749-5-per5
+
+         mnoiva$maria josefa/id=c1749-5-per6
+
+         test$manuel pereira/id=c1749-5-per7
+            ls$residencia/sobral
+            ls$assina/cruz
+
+         test$francisco pereira/id=c1749-5-per8
+            ls$residencia/sobral
+            ls$assina/mal
+            ls$assina/sim
+
+      cas$c1749-6/17/2/1749/fl.38v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose monteiro/id=c1749-6-per1
+            ls$naturalidade/sobral da lagoa
+            ls$residencia/sobral da lagoa/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            rel$parentesco/consanguinidade de quarto grau/maria rosa/c1749-6-noiva
+
+         pnoivo$manuel monteiro/id=c1749-6-per2
+            ls$morto/antes
+
+         mnoivo$isabel luis/id=c1749-6-per3
+
+         noiva$maria rosa/id=c1749-6-noiva
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel de oliveira/id=c1749-6-per4
+            ls$morto/antes
+
+         mnoiva$brasia gomes/id=c1749-6-per5
+            ls$morta/antes
+
+         test$tomas luis/id=c1749-6-per6
+            ls$residencia/sobral
+            ls$assina/sim
+
+         test$joao monteiro/id=c1749-6-per7
+            ls$residencia/sobral
+            ls$assina/sim
+
+      cas$c1749-7/9/3/1749/fl.39/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$manuel dias henriques/id=c1749-7-per1
+            ls$naturalidade/freguesia de nossa senhora da conceicao, salir do porto
+            ls$locbaptismo/freguesia de nossa senhora da conceicao, salir do porto
+            ls$residencia/na quinta do almoxarife verissimo martins bahia, limite da freguesia de nossa senhora da piedade/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da piedade
+
+         pnoivo$manuel dias henriques/id=c1749-7-per2
+            ls$cargo/capitao
+            ls$residencia/salir do porto
+
+         mnoivo$catarina maria/id=c1749-7-per3
+            ls$morta/antes
+
+         noiva$joaquina maria da nazare/id=c1749-7-per4
+            ls$naturalidade/carregal
+            ls$residencia/carregal
+            ls$naturalidade/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$manuel joao/id=c1749-7-per5
+
+         mnoiva$brites maria da nazare/id=c1749-7-per6
+            ls$morta/antes
+
+         test$antonio eleuterio de seixas/id=c1749-7-test/obs=o paroco escreve antonio antonio eleuterio de seixas, mas a testemunha assina antonio laurentino de seixas
+            ls$cargo/tesoureiro da igreja de sao joao
+            ls$assina/sim
+            ls$assina/bem
+
+         test$jose joaquim de seixas/id=c1749-7-per7
+            rel$parentesco/irmao/antonio eleuterio de seixas/c1749-7-test
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1749-8/12/3/1749/fl.39v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$bartolomeu pereira/id=c1749-8-per1
+            ls$naturalidade/casais do pinhal
+            ls$residencia/casais do pinhal
+            ls$freguesia/sao pedro
+            ls$locbaptismo/freguesia de sao pedro/obs=desobrigou-se a quaresma passada na freguesia de sao pedro
+            rel$parentesco/consanguinidade de terceiro e quarto graus/josefa teresa/c1749-8-noiva/obs=os noivos foram despensados dos consanguinidade de terceiro e quarto graus
+
+         pnoivo$luis pereira/id=c1749-8-per2
+            ls$morto/antes
+
+         mnoivo$isabel teresa/id=c1749-8-per3
+            ls$morta/antes
+
+         noiva$josefa teresa/id=c1749-8-noiva
+            ls$residencia/casal da calcada/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            ls$locbaptismo/freguesia de santa maria
+            ls$naturalidade/freguesia de santa maria
+
+         pnoiva$jose pereira/id=c1749-8-per4
+
+         mnoiva$maria das neves/id=c1749-8-per5
+
+         test$inacio henriques/id=c1749-8-per6
+            ls$residencia/casais do pinhal
+            ls$assina/bem
+            ls$assina/sim
+
+         test$joao pedro/id=c1749-8-per7
+            ls$residencia/casais do pinhal
+            ls$assina/sim
+
+      cas$c1749-9/5/5/1749/fl.40/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose antonio/id=c1749-9-per1
+            ls$naturalidade/freguesia de santa eufemia, cos
+            ls$locbaptismo/freguesia de santa eufemia, cos
+            ls$residencia/freguesia do santissimo sacramento, alcobaca
+
+         pnoivo$joao goncalves/id=c1749-9-per2
+
+         mnoivo$joana de sousa/id=c1749-9-per3
+
+         noiva$josefa teresa/id=c1749-9-per4
+            ls$naturalidade/freguesia de sao mateus, botao
+            ls$bispado/coimbra
+            ls$residencia/alcobaca
+
+         pnoiva$jose de agante/id=c1749-9-per5
+            ls$morto/antes
+            ls$loccasamento/freguesia do botao
+
+         mnoiva$luisa da fonseca/id=c1749-9-per6
+            ls$loccasamento/freguesia do botao
+
+         referido$manuel pinheiro coimbrao/id=c1749-9-per7
+            ls$titulo/muito reverendo
+            ls$titulo/senhor
+            ls$titulo/doutor
+            ls$cargo/vigario geral
+            ls$cargo/juiz dos casamentos de obidos e do seu arcediagado
+
+         test$antonio de sousa/id=c1749-9-per8
+            ls$residencia/caldas
+            ls$assina/cruz
+
+         test$luis de agante/id=c1749-9-per9
+            ls$profissao/criado/obs=do mosteiro de santa maria de alcobaca
+            ls$assina/sim
+
+      cas$c1749-10/14/9/1749/fl.40v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose joao/id=c1749-10-per1
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            rel$parentesco/consanguinidade de quarto grau/quiteria maria/c1749-10-noiva/obs=os noivos foram despensados do consanguinidade de quarto grau
+
+         pnoivo$jose joao/id=c1749-10-per2
+
+         mnoivo$maria henriques/id=c1749-10-per3
+
+         noiva$quiteria maria/id=c1749-10-noiva
+            ls$residencia/arelho
+            ls$naturalidade/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$alexandre da silva/id=c1749-10-per4
+            ls$morto/antes
+
+         mnoiva$angela maria/id=c1749-10-per5
+
+         test$pedro henriques/id=c1749-10-per6
+            ls$residencia/arelho
+            ls$assina/cruz
+
+         test$pedro henriques/id=c1749-10-per7
+            ls$residencia/bairro
+            ls$assina/cruz
+
+      cas$c1749-11/14/9/1749/fl.41/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$antonio francisco/id=c1749-11-per1
+            ls$residencia/bairro
+            ls$naturalidade/bairro
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel francisco/id=c1749-11-per2
+            ls$alcunha/o boavista
+            ls$naturalidade/bairro
+
+         mnoivo$maria soares/id=c1749-11-per3
+            ls$morta/antes
+            ls$naturalidade/bairro
+
+         noiva$maria rosa/id=c1749-11-per4
+            ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao pedro da cadeira, torres vedras
+
+         pnoiva$pedro henriques/id=c1749-11-per5
+            ls$residencia/bairro
+
+         mnoiva$maria luisa/id=c1749-11-per6
+            ls$residencia/bairro
+
+         test$pedro henriques/id=c1749-11-per7
+            ls$residencia/arelho
+            ls$assina/cruz
+
+         test$manuel henriques/id=c1749-11-per8
+            ls$residencia/bairro
+            ls$assina/cruz
+
+      cas$c1749-12/11/11/1749/fl.41v./igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$jose da silva fialho/id=c1749-12-per1
+            ls$cargo/cabo da esquadra do regimento da praca de peniche
+            ls$ec/viuvo
+            ls$residencia/freguesia de sao pedro/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da ajuda, peniche
+
+            mulher1$jeronima maria figueira/id=c1749-12-per1-per2
+               ls$morta/antes
+
+         noiva$pascoa maria/id=c1749-12-per3
+            ls$residencia/arelho
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de santa maria
+
+         pnoiva$jose gomes/id=c1749-12-per4
+
+         mnoiva$maria franco/id=c1749-12-per5
+
+         test$francisco gomes figueira/id=c1749-12-per6
+            ls$profissao/padre
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+         test$sebastiao vieira delgado/id=c1749-12-per7
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1749-13/13/11/1749/fl.42/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$agostinho pereira/id=c1749-13-per1
+            ls$naturalidade/sobral
+            ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+            rel$parentesco/terceiro e quarto graus/faustina maria/c1749-13-noiva
+
+         pnoivo$jose luis/id=c1749-13-per2
+
+         mnoivo$julio pereira/id=c1749-13-per3
+
+         noiva$faustina maria/id=c1749-13-noiva
+            ls$naturalidade/sobral
+            ls$residencia/sobral
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da encarnacao do alecrim, lisboa
+
+         pnoiva$manuel lopes/id=c1749-13-per4
+
+         mnoiva$maria margarida/id=c1749-13-per5
+
+         test$jose marques/id=c1749-13-per6
+            ls$profissao/alfaiate
+            ls$residencia/sobral
+            ls$assina/sim
+
+         test$jose marques/id=c1749-13-per7
+            ls$profissao/carpinteiro
+            ls$residencia/sobral
+            ls$assina/cruz
+
+      cas$c1749-14/1/12/1749/fl.42v./igreja de sao joao baptista do mocharro/lourenco correia da costa (padre)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+         noivo$pedro luis/id=c1749-14-per1
+            ls$naturalidade/carregal
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoivo$manuel luis/id=c1749-14-per2
+
+         mnoivo$antonia francisca/id=c1749-14-per3
+
+         noiva$maria da conceicao/id=c1749-14-per4
+            ls$naturalidade/carregal
+            ls$residencia/carregal
+            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
+
+         pnoiva$joao simoes/id=c1749-14-per5
+
+         mnoiva$maria francisca/id=c1749-14-per6
+
+         test$jose joaquim de seixas/id=c1749-14-per7
+            ls$assina/sim
+            ls$assina/bem
+
+         referido$antonio laurentino de seixas/id=c1749-14-referido
+
+         test$pedro antunes correia/id=c1749-14-per8
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem

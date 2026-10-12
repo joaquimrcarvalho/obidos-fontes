@@ -1,0 +1,131 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1566-1567/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1566-1/18/4/1566/fl.75v./goncalo fernandes
+
+         n$pero de badilho/m/id=o1566-1-per1
+            ls$pobre/sim
+
+            mulher$beatriz rodrigues/id=o1566-1-per1-per2
+
+         sacr$sim/obs=confissao, comunhao, confissao
+
+         testamento$nao/obs="nam fez manda"
+
+         oficios$1 oficios
+
+      obito$o1566-2/18/5/1566/fl.76/goncalo fernandes
+
+         n$nicolau goncalves/m/id=o1566-2-n
+            ls$freguesia/sao pedro
+
+         locs$adro de santa maria
+
+         testamento$nao/obs=ficou seu testamenteiro joao rodrigues
+
+         referido$joao rodrigues/id=o1566-2-per1
+            rel$parentesco/genro/micolau goncalves/o1566-2-n
+
+         oficios$3 oficios
+
+      obito$o1566-3/24/5/1566/fl.76/goncalo fernandes
+
+         n$joao garrido/m/id=o1566-3-per1
+            ls$condicao/escravo
+            rel$profissional/escravo/luis preto/o1566-3-referido
+
+            referido$luis preto/id=o1566-3-referido
+               ls$titulo/licenciado
+
+         sacr$nao
+
+         causa$doenca subita
+
+      obito$o1566-4/7/8/1566/fl.76/baltazar dias
+
+         n$ambrosio pires/m/id=o1566-4-per1
+            ls$titulo/clerigo de missa/obs=na freguesia de santa maria
+
+         sacr$sim
+
+         testamento$sim/obs=ficou seu testamenteiro ? franco e jeronima mendes
+
+         referido$? franco/id=o1566-4-referido
+            ls$residencia/ribeira de peniche
+
+         referida$jeronima mendes/id=o1566-4-per2
+            rel$parentesco/mulher/? franco/o1566-4-referido
+            ls$residencia/ribeira de peniche
+
+      obito$o1566-5/14/8/1566/fl.76/baltazar dias
+
+         n$gracia de lemos/f/id=o1566-5-per1
+            ls$residencia/casal de alentejo
+
+         locs$adro da igreja de santa maria
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$3 oficios
+
+      obito$o1567-1/3/0/1567/fl.76/baltazar dias
+
+         n$iria/f/obs=mocinha/id=o1567-1-per1
+
+            pai$custodio fernandes/id=o1567-1-per1-per2
+
+         sacr$sim/obs=confissao
+
+      obito$o1567-2/5/0/1567/fl.76/baltazar dias
+
+         n$afonso lopes%a.o lopez/m/id=o1567-2-per1
+            ls$pobre/sim
+
+         sacr$sim/obs=confissao, santa uncao, nao recebeu a eucaristia
+
+         testamento$nao
+
+         oficios$3
+
+         mulher$nome desconhecido/id=o1567-2-per2
+
+      obito$o1567-3/11/5/1567/fl.76/baltazar dias
+
+         n$fernao alves/m/id=o1567-3-per1
+            ls$pobre/sim/obs=muito pobre
+
+         sacr$sim/obs=nao recebeu a eucaristia, confissao, santa uncao
+
+         testamento$nao
+
+      obito$o1567-4/8/7/1567/fl.76v./goncalo fernandes
+
+         n$isabel dias/f/id=o1567-4-n
+
+            marido$jorge vaz/id=o1567-4-n-per1
+               ls$morto/antes
+
+         sacr$sim/obs=uncao
+
+         testamento$nao/obs=ficou seu testamenteiro joao fernandes. "ao mais nam estava para iso por nam falar"
+
+         referido$joao fernandes/id=o1567-4-per2
+            rel$parentesco/cunhado/isabel dias/o1567-4-n
+            ls$cargo/dizimeiro da igreja de sao joao
+
+         oficios$3
+
+      obito$o1567-5/17/11/1567/fl.76v./goncalo fernandes
+
+         n$beatriz dias/f/id=o1567-5-per1
+            ls$residencia/a da gorda
+
+            marido$francisco martins/id=o1567-5-per1-per2
+
+         sacr$sim
+
+         testamento$nao/obs=ficou seu testamenteiro seu marido
+
+         oficios$3

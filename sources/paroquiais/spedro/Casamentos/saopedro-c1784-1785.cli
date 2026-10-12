@@ -1,0 +1,343 @@
+kleio$gacto.str/prefix=spedro
+   fonte$casamentos1784-1785/localizacao-a.d.l./freguesia de sao pedro
+
+      cas$c1784-1/30/6/1784/fl.1/igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$manuel francisco/id=c1784-1-per1
+            ls$locbaptismo/nossa senhora da piedade, do lugar de vidais, termo da vila de alvorninha
+            ls$residencia/obidos
+
+         pnoivo$manuel francisco/id=c1784-1-per2
+            ls$morto/antes
+            ls$residencia/crastos, freguesia de nossa senhora da piedade de vidais/obs=termo da vila de alvorninha
+
+         mnoivo$maria de oliveira/id=c1784-1-per3
+            ls$morta/antes
+            ls$residencia/crastos, freguesia de nossa senhora da piedade de vidais/obs=termo da vila de alvorninha
+
+         noiva$dionisia antonia joaquina/id=c1784-1-per4
+            ls$locbaptismo/freguesia de nossa senhora da conceicao
+            ls$naturalidade/rio maior, freguesia de nossa senhora da conceicao/obs=arcediagado de santarem
+            ls$residencia/obidos
+
+         pnoiva$joao francisco/id=c1784-1-per5
+            ls$morto/antes
+            ls$residencia/rio maior, freguesia de nossa senhora da conceicao
+
+         mnoiva$maria da ascensao/id=c1784-1-per6
+            ls$morta/antes
+            ls$residencia/rio maior, freguesia de nossa senhora da conceicao
+
+         test$jose garcia/id=c1784-1-per7
+            ls$profissao/tabeliao/obs=em obidos
+            ls$assina/sim
+
+         test$feliciano gomes da silveira/id=c1784-1-per8
+            ls$cargo/tesoureiro da igreja de sao pedro
+            ls$assina/sim
+
+      cas$c1784-2/11/10/1784/fl.1v./igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$manuel correia/id=c1784-2-per1
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoivo$felix correia/id=c1784-2-per2
+            ls$residencia/obidos
+            ls$morto/antes
+
+         mnoivo$maria josefa/id=c1784-2-per3
+            ls$residencia/obidos
+
+         noiva$joana joaquina/id=c1784-2-per4
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoiva$antonio da silva/id=c1784-2-per5
+            ls$residencia/obidos
+
+         mnoiva$monica do espirito santo/id=c1784-2-per6
+            ls$residencia/obidos
+
+         test$antonio jose de seixas/id=c1784-2-per7
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$filipe henriques de sequeira/id=c1784-2-per8
+            ls$residencia/obidos
+            ls$assina/sim
+
+      cas$c1784-3/28/10/1784/fl.1v.-2/igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$joaquim gomes/id=c1784-3-noivo
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoivo$jose gomes/id=c1784-3-per1
+            ls$morto/antes
+            ls$residencia/obidos
+
+         mnoivo$catarina de sena/id=c1784-3-per2
+            ls$residencia/obidos
+
+         noiva$rosa caetana/id=c1784-3-noiva
+            ls$locbaptismo/freguesia de sao salvador
+
+         pnoiva$manuel gomes/id=c1784-3-per3
+            ls$morto/antes
+            ls$residencia/bombarral, freguesia de sao salvador
+
+         mnoiva$rosa maria/id=c1784-3-per4
+            ls$morta/antes
+            ls$residencia/bombarral, freguesia de sao salvador
+
+         test$manuel nunes dos reis/id=c1784-3-per5
+            ls$titulo/doutor
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$joao crisostomo de sousa/id=c1784-3-per6
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$manuel/obs=crianca nascida antes do casamento dos pais/id=c1784-3-per7
+            rel$parentesco/filho/rosa caetana/c1784-3-noiva
+            rel$parentesco/filho/joaquim gomes/c1784-3-noivo
+
+      cas$c1785-1/17/1/1785/fl.2-2v./ermida de santa ana do lugar do pinhal, anexa desta freguesia de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca. esta cerimonia teve autorizacao do vigario geral para se realizar na ermida de santa ana do lugar do pinhal.
+
+         noivo$joaquim ferreira/id=c1785-1-per1
+            ls$locbaptismo/freguesia de sao silvestre de a dos francos
+
+         pnoivo$antonio ferreira/id=c1785-1-per2
+            ls$morto/antes
+            ls$residencia/vila verde do mato, freguesia de sao silvestre de a dos francos
+
+         mnoivo$rosa maria/id=c1785-1-per3
+            ls$residencia/vila verde do mato, freguesia de sao silvestre de a dos francos
+
+         noiva$josefa clara/id=c1785-1-per4
+            ls$locbaptismo/freguesia de sao joao baptista
+
+         pnoiva$manuel pereira de morais/id=c1785-1-per5
+            ls$residencia/alfeizerao, freguesia de sao joao baptista
+            ls$residencia/quinta da pegada
+
+         mnoiva$clara maria/id=c1785-1-per6
+            ls$residencia/alfeizerao, freguesia de sao joao baptista
+            ls$residencia/quinta da pegada
+
+         test$agostinho gomes da silveira/id=c1785-1-per7
+            ls$titulo/doutor
+            ls$assina/sim
+            ls$residencia/obidos
+
+         test$jose gomes botelho/id=c1785-1-per8
+            ls$residencia/obidos
+            ls$assina/sim
+
+         referido$nome desconhecido/id=c1785-1-per9
+            ls$titulo/reverendo
+            ls$cargo/vigario geral do arcediagado
+
+      cas$c1785-2/24/1/1785/fl.2v./igreja de sao pedro/francisco felix de mendonca fialho (conego)/obs=assina o conego francisco felix de mendonca fialho
+
+         noivo$caetano da cruz/id=c1785-2-per1
+            ls$enjeitado/sim/obs=filho de pais incognitos
+            ls$profissao/lavrador
+            ls$residencia/obidos
+            ls$freguesia/santa maria
+            ls$locbaptismo/freguesia de santa maria
+
+         pnoivo$nome desconhecido/id=c1785-2-per2
+
+         mnoivo$nome desconhecido/id=c1785-2-per3
+
+         noiva$maria rosa/id=c1785-2-per4
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoiva$joao de deus/id=c1785-2-per5
+            ls$morto/antes
+            ls$residencia/obidos
+
+         mnoiva$marcelina antonia/id=c1785-2-per6
+            ls$residencia/obidos
+
+         test$antonio jose de arruda/id=c1785-2-per7
+            ls$cargo/capitao
+            ls$assina/sim
+
+         test$feliciano gomes da silveira/id=c1785-2-per8
+            ls$cargo/tesoureiro da igreja de sao pedro
+            ls$assina/sim
+
+         referido$francisco felix de mendonca fialho/id=c1785-2-referido/obs=teve comissao in scriptis de seu tio francisco fialho de mendonca
+            ls$cargo/conego da real igreja e colegiada de nossa senhora de alcacova da vila de santarem
+
+         referido$francisco fialho de mendonca/id=c1785-2-per9
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$cargo/prior da igreja de sao pedro
+            rel$parentesco/tio/francisco felix de mendonca fialho/c1785-2-referido
+
+      cas$c1785-3/6/5/1785/fl.3/igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$felix jose/id=c1785-3-per1
+            ls$naturalidade/freguesia de sao romao de carnaxide
+            ls$locbaptismo/freguesia de sao romao de carnaxide
+            ls$residencia/usseira
+
+         pnoivo$domingos jose/id=c1785-3-per2
+            ls$morto/antes
+
+         mnoivo$ana joaquina/id=c1785-3-per3
+            ls$morta/antes
+
+         noiva$maria inacia/id=c1785-3-per4
+            ls$residencia/usseira
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoiva$manuel gomes/id=c1785-3-per5
+            ls$residencia/usseira
+
+         mnoiva$inacia maria/id=c1785-3-per6
+            ls$residencia/usseira
+
+         test$manuel da silva/id=c1785-3-per7
+            ls$assina/sim
+            ls$residencia/usseira
+
+         test$feliciano gomes da silveira/id=c1785-3-per8
+            ls$cargo/tesoureiro da igreja de sao pedro
+            ls$assina/sim
+
+      cas$c1785-4/7/5/1785/fl.3-3v./igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$francisco lourenco pereira/id=c1785-4-per1
+            ls$naturalidade/a da gorda
+            ls$freguesia/santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$residencia/obidos
+            rel$parentesco/consanguinidade de terceiro grau/joaquina da piedade/c1785-4-noiva
+
+         pnoivo$manuel pereira/id=c1785-4-per2
+            ls$morto/antes
+
+         mnoivo$josefa teresa/id=c1785-4-per3
+            ls$morta/antes
+
+         noiva$joaquina da piedade/id=c1785-4-noiva
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoiva$jose teixeira/id=c1785-4-per4
+
+         mnoiva$ana joaquina/id=c1785-4-per5
+            ls$morta/antes
+
+         test$joaquim antonio de sequeira/id=c1785-4-per6
+            ls$assina/sim
+            ls$residencia/obidos
+
+         test$filipe henriques de sequeira/id=c1785-4-per7
+            ls$assina/sim
+            ls$residencia/obidos
+
+      cas$c1785-5/16/5/1785/fl.3v./igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$valeriano ferreira/id=c1785-5-per1
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pnoivo$manuel ferreira/id=c1785-5-per2
+            ls$residencia/obidos
+
+         mnoivo$maria ferreira/id=c1785-5-per3
+            ls$residencia/obidos
+
+         noiva$francisca maria/id=c1785-5-per4
+            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+
+         pnoiva$jose cosme/id=c1785-5-per5
+            ls$residencia/delgada, freguesia de nossa senhora da purificacao da rolica
+
+         mnoiva$maria gomes/id=c1785-5-per6
+            ls$morta/antes
+            ls$residencia/delgada, freguesia de nossa senhora da purificacao da rolica
+
+         test$antonio jose de arruda/id=c1785-5-per7
+            ls$cargo/capitao
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$joao pereira da costa/id=c1785-5-per8
+            ls$residencia/obidos
+            ls$assina/sim
+
+      cas$c1785-6/13/10/1785/fl.3v.-4/igreja da santa casa da misericordia, anexa da colegiada de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$jose ferreira/id=c1785-6-per1
+            ls$naturalidade/carvalhal, freguesia do bom jesus de sao pedro
+            ls$locbaptismo/freguesia do bom jesus de sao pedro
+            ls$residencia/bombarral
+
+         pnoivo$antonio ferreira/id=c1785-6-per2
+
+         mnoivo$ana joaquina/id=c1785-6-per3
+
+         noiva$ludovina rosa/id=c1785-6-per4
+            ls$enjeitada/sim/obs=filha do hospital real da cidade de lisboa. dotada da santa casa da misericordia de lisboa
+
+         pnoiva$nome desconhecido/id=c1785-6-per5
+
+         mnoiva$nome desconhecido/id=c1785-6-per6
+
+         test$antonio jose de arruda/id=c1785-6-per7
+            ls$cargo/escrivao da mesa da santa casa da misericordia de obidos
+            ls$assina/sim
+
+         test$manuel antonio da costa/id=c1785-6-per8
+            ls$cargo/tesoureiro da bolsa da mesa da santa casa da misericordia de obidos
+            ls$assina/sim
+
+         referido$antonio rodrigues da fonseca/id=c1785-6-per9
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$cargo/desembargador
+            ls$cargo/juiz dos casamentos no patriarcado
+
+      cas$c1785-7/7/5/1785/fl.4-4v./igreja da santa casa da misericordia de obidos, anexa a colegiada de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+         noivo$antonio duarte/id=c1785-7-per1
+            ls$naturalidade/casais de vale covo, freguesia de sao salvador do bombarral
+            ls$locbaptismo/freguesia de sao salvador do bombarral
+
+         pnoivo$manuel duarte/id=c1785-7-per2
+            ls$morto/antes
+
+         mnoivo$ana maria/id=c1785-7-per3
+            ls$morta/antes
+
+         noiva$feliciana maria/obs=foi dotada pela santa casa da misericordia da cidade de lisboa/id=c1785-7-per4
+            ls$naturalidade/barrocalvo, freguesia do bom jesus de sao pedro do carvalhal
+            ls$locbaptismo/freguesia do bom jesus de sao pedro do carvalhal
+
+         pnoiva$teodosio da costa/id=c1785-7-per5
+
+         mnoiva$susana maria/id=c1785-7-per6
+            ls$morta/antes
+
+         test$antonio jose de arruda/id=c1785-7-per7
+            ls$cargo/capitao
+            ls$cargo/irmao da santa casa da misericordia de obidos
+            ls$assina/sim
+
+         test$jose de matos/id=c1785-7-per8
+            ls$titulo/reverendo
+            ls$cargo/irmao da santa casa da misericordia de obidos
+            ls$assina/sim
+
+         referido$jose garcia ferreira/obs=paroco da contraente. deu licenca "in scrpitis"/id=c1785-7-per9
+            ls$profissao/padre
+            ls$titulo/reverendo
+            ls$cargo/reitor do carvalhal

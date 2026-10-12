@@ -1,0 +1,184 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$obitos1586-1590/localizacao-a.d.l./freguesia de sao joao
+
+      obito$o1586-1/8/7/1586/fl.61/nome desconhecido
+
+         n$filipa fernandes/f/id=o1586-1-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         marido$bras dias/id=o1586-1-per2
+            ls$residencia/arelho
+
+      obito$o1586-2/24/7/1586/fl.61/nome desconhecido
+
+         n$isabel gomes/f/id=o1586-2-n
+
+         locs$adro da igreja de sao joao
+
+         testamento$sim/obs=ficou testamenteiro o seu marido
+
+         marido$joao ?/id=o1586-2-per1
+            rel$sociabilidade/testamenteiro/isabel gomes/o1586-2-n
+
+      obito$o1586-3/23/8/1586/fl.61/nome desconhecido
+
+         n$belchior fernandes/m/id=o1586-3-per1
+            ls$residencia/carregal
+
+         locs$ao pe do altar de nossa senhora numa sepultura que diz ser sua
+
+      obito$o1587-1/28/1/1587/fl.61/nome desconhecido
+
+         n$leonor ?/f/id=o1587-1-per1
+
+         locs$adro da igreja de sao joao
+
+         marido$tome fernandes/id=o1587-1-per2
+
+      obito$o1587-2/6/5/1587/fl.61/nome desconhecido
+
+         n$maria fernandes/f/id=o1587-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         marido$joao dias/id=o1587-2-per2
+            ls$residencia/arelho
+
+      obito$o1587-3/7/11/1587/fl.61/nome desconhecido
+
+         n$luis fernandes/m/id=o1587-3-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         marido$cosme fernandes/id=o1587-3-per2
+            ls$residencia/arelho
+
+      obito$o1587-4/5/12/1587/fl.61/nome desconhecido
+
+         n$maria lopes/f/id=o1587-4-per1
+            ls$residencia/bairro
+
+         locs$dentro da igreja de sao joao
+
+         marido$fernao luis/id=o1587-4-per2
+            ls$residencia/bairro
+
+      obito$o1588-1/11/5/1588/fl.61v./nome desconhecido
+
+         n$antonio pires/m/id=o1588-1-n
+            ls$profissao/pescador
+            ls$residencia/arelho
+
+         locs$a porta principal da igreja
+
+         testamento$sim/obs=deixou por sua testamenteira ines fialho sua mulher
+
+         mulher$ines fialho/id=o1588-1-per1
+            rel$sociabilidade/testamenteira/antonio pires/o1588-1-n
+
+      obito$o1588-2/1/6/1588/fl.61v./nome desconhecido
+
+         n$antonio fernandes/m/id=o1588-2-per1
+            ls$profissao/pescador
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1588-3/8/10/1588/fl.61v./nome desconhecido
+
+         n$antonio anes/m/id=o1588-3-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1588-4/20/10/1588/fl.61v./nome desconhecido
+
+         n$luzia fernandes/f/id=o1588-4-per1
+            ls$residencia/carregal
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$diogo pires/id=o1588-4-per2
+            ls$residencia/carregal
+
+      obito$o1589-1/4/1/1589/fl.61v./nome desconhecido
+
+         n$simao pires/m/id=o1589-1-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1589-2/13/1/1589/fl.61v./nome desconhecido
+
+         n$jeronima bras/f/id=o1589-2-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$sim/obs=ficou seu testamenteiro antonio bras seu sobrinho
+
+         referido$antonio bras/id=o1589-2-per1
+            rel$parentesco/sobrinho/jeronima bras/o1589-2-n
+            rel$sociabilidade/testamenteiro/jeronima bras/o1589-2-n
+
+      obito$o1589-3/18/1/1589/fl.61v./nome desconhecido
+
+         n$isabel fernandes/f/id=o1589-3-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$simao pires/id=o1589-3-per2
+            ls$residencia/arelho
+
+      obito$o1589-4/18/11/1589/fl.61v./nome desconhecido
+
+         n$? fernandes/f/id=o1589-4-per1
+
+         locs$igreja de sao joao
+
+         testamento$sim
+
+         referido$nome desconhecido/id=o1589-4-per2
+            ls$profissao/padre/obs=padre que faz o registo
+
+      obito$o1589-5/20/4/1589/fl.62/nome desconhecido
+
+         n$maria madeira/f/id=o1589-5-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+      obito$o1589-6/21/5/1589/fl.62/nome desconhecido
+
+         n$simao dias/m/id=o1589-6-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$sim/obs=sua mulher e a testamenteira
+
+         mulher$nome desconhecido/id=o1589-6-per1
+            rel$sociabilidade/testamenteira/simao dias/o1589-6-n
+
+      obito$o1590-1/14/1/1590/fl.62/nome desconhecido
+
+         n$baltazar fernandes/m/id=o1590-1-per1
+            ls$profissao/lavrador
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao

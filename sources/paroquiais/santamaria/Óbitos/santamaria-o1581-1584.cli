@@ -1,0 +1,284 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1581-1584/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1581-1/20/1/1581/fl.87
+
+         n$luzia rodrigues/f/id=o1581-1-per1
+            ls$residencia/a da gorda
+
+         sacr$sim/obs="somente os da uncam porque presumia ser ja de pestes"
+
+         causa$peste?
+
+         oficios$3
+
+         marido$domingos dias/id=o1581-1-per2
+            ls$profissao/alfaiate
+            ls$residencia/a da gorda
+
+      obito$o1581-2/3/1/1581/fl.87
+
+         n$isabel goncalves/f/id=o1581-2-per1
+
+         sacr$sim
+
+         oficios$3
+
+      obito$o1581-3/27/1/1581/fl.87
+
+         n$diogo afonso/m/id=o1581-3-n
+
+         causa$peste?/obs="do mal que deus nos livre"
+
+         oficios$sim
+
+      obito$o1581-4/27/1/1581/fl.87
+
+         n$nome desconhecido/?/id=o1581-4-per1
+
+         causa$peste?/obs="do mal que deus nos livre"
+
+         oficios$sim
+
+         marido$diogo afonso/mesmo_que=o1581-3-n/id=o1581-4-per2
+
+      obito$o1581-5/1/2/1581/fl.87
+
+         n$antonio/m/id=o1581-5-per1
+            ls$idade/22 anos
+
+         causa$peste?/obs="do mal que deus nos livre"
+
+         pai$diogo afonso/mesmo_que=o1581-3-n/id=o1581-5-per2
+
+      obito$o1581-6/1/2/1581/fl.87
+
+         n$nome desconhecido/?/id=o1581-6-per1
+
+         causa$"do mal que deus nos livre"
+
+         pai$diogo afonso/mesmo_que=o1581-3-n/id=o1581-6-per2
+
+      obito$o1581-7/1/2/1581/fl.87
+
+         n$nome desconhecido/?/id=o1581-7-per1
+
+         causa$peste?/obs="do mal que deus nos livre"
+
+         pai$diogo afonso/mesmo_que=o1581-3-n/id=o1581-7-per2
+
+      obito$o1581-8/20/1/1581/fl.87
+
+         n$marta gomes/f/id=o1581-8-per1
+
+         causa$peste?/obs="tambem do mal"
+
+         marido$sebastiao fernandes%bastiam frz/id=o1581-8-per2
+            ls$profissao/ferreiro/obs=duvida na leitura
+
+         oficios$3
+
+      obito$o1581-9/0/0/1581/fl.87
+
+         n$diogo fernandes monteiro%di.o frz montrº/m/id=o1581-9-n
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$sim
+
+         oficios$3/obs=no final do registo aparece a seguinte informacao: "manuel vas das gaeiras deu doze vintens da confraria do nosso de deos"
+
+         referido$lourenco rodrigues/id=o1581-9-per1
+            rel$parentesco/genro/diogo fernandes monteiro/o1581-9-n
+            rel$sociabilidade/testamenteiro/diogo fernandes monteiro/o1581-9-n
+
+      obito$o1582-1/2/1/1582/fl.87v.
+
+         n$maria baiao%maria baioa/f/id=o1582-1-n
+
+         oficios$3
+
+         referido$pero baiao%pº baiao/id=o1582-1-per1
+            rel$parentesco/filho/maria baiao/o1582-1-n
+            ls$cargo/beneficiado da igreja de santa maria
+
+      obito$o1582-2/6/1/1582/fl.87v.
+
+         n$catarina fernandes/f/id=o1582-2-per1
+
+         locs$igreja de santa maria
+
+         oficios$nao
+
+         marido$pero fernandes%pº fernandez/id=o1582-2-per2
+            ls$residencia/soveral
+
+      obito$o1582-3/28/2/1582/fl.87v.
+
+         n$afonso fernandes/m/id=o1582-3-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$nao
+
+      obito$o1582-4/5/3/1582/fl.87v.
+
+         n$manuel fernandes/m/id=o1582-4-per1
+            ls$profissao/mercador
+            ls$residencia/obidos
+            ls$residencia/freguesia de santa maria
+
+         testamento$nao/obs="diserao que tinha feito testamento mas depois perguntei por elle tornaram-me a dizer que o derogaram"
+
+         oficios$1
+
+      obito$o1582-5/28/3/1582/fl.87v.
+
+         n$maria da maia/m/id=o1582-5-per1
+            rel$parentesco/sobrinha/antonio da maia/o1582-5-referido
+
+         sacr$sim
+
+         testamento$nao
+
+         referido$antonio da maia/id=o1582-5-referido
+            ls$cargo/beneficiado da igreja de santa maria
+
+      obito$o1582-6/14/4/1582/fl.87v.
+
+         n$maria figueira/f/id=o1582-6-per1
+
+         sacr$sim
+
+         oficios$3
+
+         marido$gaspar pires/id=o1582-6-per2
+            ls$profissao/serralheiro%caralheiro
+
+      obito$o1582-7/3/8/1582/fl.87v.
+
+         n$henrique ?%anrique g.do/m/id=o1582-7-per1
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$3
+
+      obito$o1582-8/15/12/1582/fl.87v.
+
+         n$jorge fernandes/m/id=o1582-8-per1
+            ls$cargo/mestre de canto
+
+         sacr$sim
+
+         testamento$nao
+
+         oficios$sim/obs=os oficios e obrigacoes
+
+         mulher$nome desconhecido/obs=mandou fazer todos os oficios e obrigacoes/id=o1582-8-per2
+
+      obito$o1583-1/24/4/1583/fl.88/gaspar vicente
+
+         n$rodrigo sanches/m/id=o1583-1-n
+            ls$cargo/prior da igreja de santa maria
+
+         testamento$sim
+
+         oficios$sim/obs=os oficios "trintairo e as mais missas que elle mandou dizer"
+
+         referido$joao peres%jº perez/id=o1583-1-per1
+            ls$profissao/padre
+            ls$cargo/prior de sao pedro
+            rel$sociabilidade/testamenteiro/rodrigo sanches/o1583-1-n
+
+         referido$salvador dias/id=o1583-1-per2
+            ls$cargo/prior de sao tiago
+            rel$parentesco/sobrinho/rodrigo sanches/o1583-1-n
+            rel$sociabilidade/testamenteiro/rodrigo sanches/o1583-1-n
+
+         referido$gaspar vicente/obs=padre que faz o registo/id=o1583-1-per3
+            rel$sociabilidade/testamenteiro/rodrigo sanches/o1583-1-n
+
+      obito$o1583-2/28/4/1583/fl.88
+
+         n$duarte fernandes/m/id=o1583-2-n
+            ls$profissao/sapateiro
+
+         sacr$sim/obs="nao houve mais tempo que para se confesar porque quando lhe levei o sancto sacramento ja era falecido"
+
+         testamento$nao
+
+         oficios$2
+
+         referido$simeao/id=o1583-2-per1
+            ls$titulo/frei
+            rel$parentesco/sobrinho/duarte fernandes/o1583-2-n
+
+      obito$o1583-3/0/0/1583/fl.88
+
+         n$joana dias/f/id=o1583-3-per1
+            ls$residencia/a da gorda
+            rel$parentesco/irmao/estevao dias/o1583-3-referido
+
+            referido$estevao dias/id=o1583-3-referido
+
+      obito$o1583-4/0/0/1583/fl.88
+
+         n$alvaro vicente/m/id=o1583-4-per1
+            ls$residencia/casal da comenda
+
+      obito$o1583-5/2/8/1583/fl.88
+
+         n$filipa fernandes/f/id=o1583-5-per1
+
+         testamento$nao
+
+         sacr$sim/obs=sacramentos excepto "o do altar por a rebeçar"
+
+         oficios$3 oficios de 9 licoes
+
+         marido$ascenso fernandes/id=o1583-5-per2
+
+      obito$o1583-6/6/8/1583/fl.88
+
+         n$maria gaspar/f/id=o1583-6-per1
+            ls$ec/v
+
+         sacr$sim
+
+         oficios$3
+
+         testamento$nao
+
+      obito$o1583-7/11/8/1583/fl.88
+
+         n$leonor francisca/f/id=o1583-7-per1
+
+            marido$joao tavares/id=o1583-7-per1-per2
+
+      obito$o1583-8/28/2/1583/fl.88
+
+         n$isabel dias/f/id=o1583-8-per1
+            ls$residencia/a da gorda
+
+         oficios$sim
+
+         testamento$nao
+
+      obito$o1584-1/19/2/1584/fl.88
+
+         n$fernao de alvares/m/id=o1584-1-n
+            ls$residencia/casal proprio
+            ls$residencia/casal de alentejo
+
+         testamento$sim
+
+         sacr$sim/obs=excepto a eucaristia "por ser defeso dizerem missa em caza"
+
+         oficios$sim
+
+         referida$nome desconhecido/id=o1584-1-per1
+            rel$sociabilidade/testamenteira/fernao de alvares/o1584-1-n

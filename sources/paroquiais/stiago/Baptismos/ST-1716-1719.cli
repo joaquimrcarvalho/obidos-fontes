@@ -1,0 +1,820 @@
+kleio$gacto.str/prefix=stiago
+   fonte$baptismos 1716-1719/1716-1719/localizacao-a.d.l./freguesia de sao tiago de obidos
+
+      bap$b1716-1/27/4/1716/fl.69./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$luis/m/id=b1716-1-n
+
+         pn$jose botado/id=b1716-1-pn
+            ls$residencia/tras de outeiro
+
+         mn$luisa da silva/id=b1716-1-mn
+
+         pad$luis francisco/id=b1716-1-pad
+            ls$residencia/casal de sao tiago
+
+         ppad$pedro francisco/id=b1716-1-per1
+
+         mad$antonia/id=b1716-1-per2
+            rel$parentesco/irma/luis francisco/b1716-1-pad
+            ls$residencia/casal de sao tiago
+
+         pmad$pedro francisco/id=b1716-1-per3
+
+      bap$b1716-2/27/4/1716/fl.69./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$jacinto/m/id=b1716-2-per1
+            rel$parentesco/irmao/luis/b1716-1-n
+
+         pn$jose botado/mesmo_que=b1716-1-pn/id=b1716-2-per2
+            ls$residencia/tras de outeiro
+
+         mn$luisa da silva/mesmo_que=b1716-1-mn/id=b1716-2-per3
+
+         pad$paulo/id=b1716-2-pad
+            ls$residencia/tras de outeiro
+
+         ppad$francisco gomes/id=b1716-2-per4
+
+         mad$brites/id=b1716-2-per5
+            rel$parentesco/irma/paulo/b1716-2-pad
+            ls$residencia/tras do outeiro
+
+         pmad$francisco gomes/id=b1716-2-per6
+
+      bap$b1716-3/26/8/1716/fl.69./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$antonio/m/id=b1716-3-per1
+
+         pn$antonio luis/id=b1716-3-per2
+            ls$residencia/casal proprio por baixo da brougueira
+
+         mn$teresa marques/id=b1716-3-per3
+
+         pad$manuel de andrade/id=b1716-3-per4
+            ls$cargo/alcaide/obs=de obidos
+
+         mad$maria teresa/id=b1716-3-per5
+
+         pmad$amaro francisco/id=b1716-3-per6
+            ls$residencia/brougueira
+
+      bap$b1716-4/11/9/1716/fl.69./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$joao/m/id=b1716-4-per1
+
+         pn$manuel ferreira/id=b1716-4-per2
+            ls$residencia/gaeiras
+
+         mn$josefa da silva/id=b1716-4-per3
+
+         pad$jose gomes/id=b1716-4-per4
+            ls$residencia/gaeiras
+
+         mad$maria luisa da silva/id=b1716-4-per5
+            ls$residencia/gaeiras
+
+      bap$b1716-5/15/9/1716/fl.69v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$antonia/f/id=b1716-5-per1
+
+         pn$valentim henriques/id=b1716-5-per2
+            ls$ec/s
+            ls$residencia/gaeiras
+
+         mn$maria teresa/id=b1716-5-per3
+            ls$ec/s
+            ls$residencia/gaeiras
+
+         pad$joao baptista/id=b1716-5-per4
+            ls$cargo/tesoureiro da igreja de sao tiago
+
+         mad$teresa maria/id=b1716-5-per5
+            ls$residencia/casal das cruzes
+
+      bap$b1716-6/29/9/1716/fl.69v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/id=b1716-6-per1
+
+         pn$antonio vicente/id=b1716-6-per2
+
+         mn$bernarda maria/id=b1716-6-per3
+
+         pad$jose de matos/id=b1716-6-per4
+
+         mad$mariana do carmo/id=b1716-6-per5
+
+         pmad$martinho da silva/id=b1716-6-per6
+            ls$profissao/militar
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+      bap$b1716-7/14/10/1716/fl.69v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$jose/m/id=b1716-7-per1
+
+         pn$joao gomes/id=b1716-7-per2
+            ls$residencia/gaeiras
+
+         mn$maria madalena/id=b1716-7-per3
+
+         pad$jose pinto/id=b1716-7-pinto
+            ls$titulo/doutor
+            ls$residencia/lisboa
+
+         mad$brites franca/id=b1716-7-per5
+            ls$residencia/peniche
+
+      bap$b1716-8/25/10/1716/fl.70./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$teresa/f/obs=refere ter sido baptizada com oito dias de idade/id=b1716-8-per1
+
+         pn$antonio martins/id=b1716-8-per2
+            ls$residencia/quinta da barroca
+
+         mn$engracia maria/id=b1716-8-per3
+
+         pad$manuel barbosa neves/id=b1716-8-pad
+            ls$residencia/obidos
+
+         mad$teresa maria/id=b1716-8-per4
+            rel$parentesco/cunhada/manuel barbosa neves/b1716-8-pad
+            ls$residencia/obidos
+
+      bap$b1716-9/8/11/1716/fl.70./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$sebastiao/m/obs=refere ter sido baptizado com nove dias de idade/id=b1716-9-per1
+
+         pn$estevao goncalves/id=b1716-9-per2
+            ls$residencia/tras de outeiro
+
+         mn$catarina maria/id=b1716-9-per3
+
+         pad$miguel antunes/id=b1716-9-pad
+            ls$residencia/casal do outeiro
+
+         mad$josefa maria/id=b1716-9-per4
+
+         mrmad$miguel antunes/mesmo_que=b1716-9-pad/id=b1716-9-per5
+            ls$residencia/casal do outeiro
+
+      bap$b1716-10/28/12/1716/fl.70./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$antonio/m/obs=refere ter sido baptizado com nove dias de idade/id=b1716-10-per1
+
+         pn$antonio dias/id=b1716-10-per2
+            ls$residencia/casais do nadadouro
+
+         mn$maria do rosario/id=b1716-10-per3
+
+         pad$antonio/id=b1716-10-per4
+            ls$titulo/dom
+            ls$residencia/castelo de obidos
+
+         mad$maria francisca/id=b1716-10-per5
+            ls$residencia/casais do nadadouro
+
+      bap$b1716-11/28/12/1716/fl.70./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$valerio/m/obs=refere ter sido baptizado com oito dias de idade/id=b1716-11-per1
+
+         pn$antonio dos santos/id=b1716-11-per2
+            ls$residencia/casais do nadadouro
+
+         mn$maria francisca/id=b1716-11-per3
+
+         pad$valerio ferreira/id=b1716-11-pad
+            ls$residencia/caldas
+
+         mad$catarina maria/id=b1716-11-per4
+
+         mrmad$valerio ferreira/mesmo_que=b1716-11-pad/id=b1716-11-per5
+            ls$residencia/caldas
+
+      bap$b1717-12/6/1/1717/fl.70v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$luisa/f/obs=refere ter sido baptizada com dez dias de idade/id=b1717-12-per1
+
+         pn$manuel antunes/id=b1717-12-per2
+            ls$residencia/ribeira das caldas
+
+         mn$maria lopes/id=b1717-12-per3
+
+         pad$manuel francisco/id=b1717-12-pad
+            ls$residencia/ribeira das caldas
+
+         mad$antonia francisca/id=b1717-12-per4
+
+         mrmad$manuel francisco/mesmo_que=b1717-12-pad/id=b1717-12-per5
+            ls$residencia/ribeira das caldas
+
+      bap$b1717-13/10/1/1717/fl.70v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$ana/f/obs=refere ter sido baptizada com onze dias de idade/id=b1717-13-per1
+
+         pn$manuel monteiro/id=b1717-13-per2
+            ls$residencia/cerca de obidos
+
+         mn$maria rodrigues/id=b1717-13-per3
+
+         pad$jose sousa/id=b1717-13-per4
+            ls$residencia/obidos
+
+         mad$ana gomes/id=b1717-13-per5
+            ls$residencia/obidos
+
+      bap$b1717-14/15/3/1717/fl.70v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$bernarda/f/obs=refere ter sido baptizado com oito dias de idade/id=b1717-14-per1
+
+         pn$estevao francisco/id=b1717-14-per2
+            ls$residencia/tras do outeiro
+
+         mn$luisa maria/id=b1717-14-per3
+
+         pad$bernardo de palma/id=b1717-14-pad
+            ls$residencia/obidos
+
+         mad$manuel antonia de aboim/id=b1717-14-per4
+            ls$titulo/dona
+
+         mrmad$bernardo de palma/mesmo_que=b1717-14-pad/id=b1717-14-per5
+            ls$residencia/obidos
+
+      bap$b1717-15/11/4/1717/fl.70v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/id=b1717-15-per1
+
+         pn$pedro francisco/id=b1717-15-per2
+            ls$residencia/ribeira das caldas
+
+         mn$maria de oliveira/id=b1717-15-per3
+
+         pad$manuel de andrade/id=b1717-15-pad
+            ls$residencia/castelo de obidos
+
+         mad$luisa maria/id=b1717-15-per4
+
+         mrmad$manuel de andrade/mesmo_que=b1717-15-pad/id=b1717-15-per5
+            ls$residencia/castelo de obidos
+
+      bap$b1717-16/19/4/1717/fl.71./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1717-16-n/obs=refere ter sido baptizada com nove dias de idade
+
+         pn$antonio soares de almeida/id=b1717-16-per1
+            ls$profissao/militar
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+         mn$maria soares/id=b1717-16-per2
+
+         pad$manuel soares monteiro/id=b1717-16-per3
+            rel$parentesco/tio/maria/b1717-16-n
+
+      bap$b1717-17/22/4/1717/fl.71./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/obs=refere ter sido baptizado com nove dias de idade/id=b1717-17-per1
+
+         pn$mateus dos santos/id=b1717-17-per2
+            ls$residencia/tras do outeiro
+
+         mn$domingas henriques/id=b1717-17-per3
+
+         pad$antonio gomes matoso/id=b1717-17-pad
+            ls$titulo/licenciado
+            ls$residencia/obidos
+
+         mad$violante matosa/obs=sic matosa e nao matoso/id=b1717-17-per4
+            ls$titulo/dona
+
+         pmad$antonio gomes matoso/mesmo_que=b1717-17-pad/id=b1717-17-per5
+            ls$residencia/obidos
+
+      bap$b1717-18/10/5/1717/fl.71./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$joao/m/obs=refere ter sido baptizado com oito dias de idade/id=b1717-18-per1
+
+         pn$manuel andrade/id=b1717-18-per2
+            ls$residencia/castelo de obidos
+
+         mn$luisa maria/id=b1717-18-per3
+
+         pad$francisco de martins monteiro/id=b1717-18-pad
+            ls$profissao/padre
+
+         mad$eugenia maria monteira/id=b1717-18-per4
+            rel$parentesco/sobrinha/francisco de martins monteiro/b1717-18-pad
+
+         pmad$joao monteiro/id=b1717-18-per5
+            ls$residencia/obidos
+
+      bap$b1717-19/10/6/1717/fl.71./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/obs=refere ter sido baptizado com oito dias de idade/id=b1717-19-per1
+
+         pn$francisco soares/id=b1717-19-per2
+            ls$residencia/gaeiras
+
+         mn$maria francisca/id=b1717-19-per3
+
+         pad$pascoal francisco/id=b1717-19-per4
+            ls$residencia/casal das cruzes
+
+         pad2$joao antunes/id=b1717-19-per5
+            ls$residencia/gaeiras
+
+         mad$francisca da assuncao migueis/id=b1717-19-per6
+            ls$residencia/obidos
+
+      bap$b1717-20/24/8/1717/fl.71v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$jose/m/obs=refere ter sido baptizado com oito dias de idade/id=b1717-20-per1
+
+         pn$antonio luis/id=b1717-20-per2
+            ls$residencia/moinho do mocharro
+
+         mn$helena maria/id=b1717-20-per3
+
+         pad$jose soares rua/id=b1717-20-per4
+            ls$profissao/militar
+            ls$cargo/capitao
+
+         mad$josefa ferreira/id=b1717-20-per5
+            ls$residencia/casal do outeiro
+
+      bap$b1717-21/12/9/1717/fl.71v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$antonio/m/obs=refere ter sido baptizado com nove dias de idade/id=b1717-21-per1
+
+         pn$manuel francisco/id=b1717-21-per2
+            ls$residencia/gaeiras
+
+         mn$josefa maria/id=b1717-21-per3
+
+         pad$manuel de oliveira farto/id=b1717-21-per4
+            ls$residencia/obidos
+
+         pad2$jose monteiro/id=b1717-21-per5
+            ls$residencia/caldas
+
+      bap$b1717-22/13/10/1717/fl.71v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$jose/m/obs=refere ter sido baptizado com onze dias de idade/id=b1717-22-per1
+
+         pn$jose rodrigues/id=b1717-22-per2
+            ls$residencia/casal de santa maria
+
+         mn$francisca do couto/id=b1717-22-per3
+
+         pad$manuel barbosa neves/id=b1717-22-per4
+            ls$residencia/obidos
+
+         mad$maria francisca/id=b1717-22-per5
+            ls$residencia/casal do touguio no limite do nadadouro
+
+      bap$b1717-23/31/10/1717/fl.71v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1717-23-per1
+
+         pn$antonio martins/id=b1717-23-per2
+            ls$residencia/brougueira
+
+         mn$maria teresa/id=b1717-23-per3
+
+         pad$antonio martins/id=b1717-23-per4
+            ls$residencia/quinta da barroca
+
+         mad$maria da costa de sao jose/obs=sic/id=b1717-23-per5
+            ls$residencia/caldas
+
+      bap$b1717-24/1/11/1717/fl.72./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/id=b1717-24-per1
+
+         pn$joao monteiro/id=b1717-24-per2
+            ls$residencia/casais do nadadouro
+
+         mn$pascoa maria/id=b1717-24-per3
+
+         pad$joao dos santos/id=b1717-24-per4
+            ls$residencia/casais do nadadouro
+
+         mad$maria dias/id=b1717-24-per5
+            ls$residencia/casais do nadadouro
+
+      bap$b1717-25/10/11/1717/fl.72./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$engracia/f/id=b1717-25-per1
+
+         pn$jose correa/id=b1717-25-per2
+            ls$residencia/casal da calcada
+
+         mn$maria josefa/id=b1717-25-per3
+
+         pad$domingos da costa/id=b1717-25-per4
+            ls$residencia/obidos
+
+         mad$engracia maria/id=b1717-25-per5
+            ls$residencia/obidos
+
+      bap$b1717-26/29/12/1717/fl.72./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1717-26-per1
+
+         pn$manuel marques/id=b1717-26-per2
+            ls$residencia/casais do nadadouro
+
+         mn$brigida henriques/id=b1717-26-per3
+
+         pad$manuel de faria/id=b1717-26-per4
+            ls$residencia/caldas
+
+         mad$maria henriques/id=b1717-26-per5
+            ls$residencia/serra do bouro
+
+      bap$b1718-27/2/1/1718/fl.72./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$miguel/m/id=b1718-27-per1
+
+         pn$manuel barbosa neves/id=b1718-27-per2
+            ls$residencia/obidos
+
+         mn$maria luisa da trindade/id=b1718-27-per3
+
+         pad$miguel/id=b1718-27-infante
+            ls$titulo/infante
+            ls$titulo/dom
+
+         mad$mariana luisa francisca de sousa tavares da silva marcarenhas/id=b1718-27-luisa
+            ls$titulo/marquesa de arronches
+
+         referido$antonio feliz fialho/id=b1718-27-per4
+            ls$profissao/magistrado
+            ls$cargo/juiz de fora de obidos
+            rel$sociabilidade/procurador/miguel/b1718-27-infante
+
+         referido$sebastiao inacio figueira/id=b1718-27-per5
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+            rel$sociabilidade/procurador/mariana luisa francisca de sousa tavares da silva marcarenhas/b1718-27-luisa
+
+      bap$b1718-28/20/1/1718/fl.72v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$filipe antonio/m/id=b1718-28-per1
+
+         pn$manuel da fonseca/id=b1718-28-per2
+            ls$residencia/quinta da gracieira
+
+         mn$maria ferreira/id=b1718-28-per3
+
+         pad$pedro filipe/obs=refere ser sobrinho do padre filipe gomes de obidos/id=b1718-28-per4
+
+         mad$antonia/obs=refere ser sobrinha do padre filipe gomes de obidos/id=b1718-28-per5
+
+      bap$b1718-29/27/2/1718/fl.72v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$jose/m/id=b1718-29-per1
+
+         pn$joao dos santos/id=b1718-29-per2
+            ls$residencia/casais do nadadouro
+
+         mn$isabel do couto/id=b1718-29-per3
+
+         pad$jose franco de carvalho/id=b1718-29-per4
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mad$domingas da horta/id=b1718-29-per5
+            ls$residencia/casal do negrelho
+
+      bap$b1718-30/1/3/1718/fl.72v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$rosa maria/f/id=b1718-30-per1
+
+         pn$jose fernandes/id=b1718-30-per2
+            ls$residencia/cerca de obidos
+
+         mn$luisa ferreira/id=b1718-30-per3
+
+         pad$sebastiao alves de calheiros/id=b1718-30-pad
+            ls$cargo/beneficiado
+
+         mad$mariana rosa/id=b1718-30-per4
+            rel$parentesco/irma/sebastiao alves de calheiros/b1718-30-pad
+
+      bap$b1718-31/6/3/1718/fl.73./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$teresa/f/id=b1718-31-per1
+
+         pn$francisco martins/id=b1718-31-per2
+            ls$residencia/casal da figueira
+
+         mn$maria das neves/id=b1718-31-per3
+
+         pad$joao francisco/id=b1718-31-per4
+            ls$residencia/caldas
+
+         mad$ana maria/id=b1718-31-per5
+
+         pmad$jose luis/id=b1718-31-per6
+            ls$residencia/formigal
+
+      bap$b1718-32/8/5/1718/fl.73./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$eugenia/f/id=b1718-32-per1
+
+         pn$francisco do couto/id=b1718-32-per2
+            ls$residencia/gaeiras
+
+         mn$maria da cruz/id=b1718-32-per3
+
+         pad$francisco da silva/id=b1718-32-pad
+            ls$titulo/reverendo
+            ls$profissao/padre
+
+         mad$eugenia antonia/id=b1718-32-per4
+            rel$parentesco/sobrinha/francisco da silva/b1718-32-pad
+
+      bap$b1718-33/9/5/1718/fl.73./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1718-33-per1
+
+         pn$manuel cordeiro/id=b1718-33-per2
+            ls$residencia/casais do nadadouro
+
+         mn$domingas do couto/id=b1718-33-per3
+
+         pad$manuel de almeida/id=b1718-33-per4
+            ls$residencia/reguengo do chao da parada
+
+         mad$maria dos santos/id=b1718-33-per5
+            ls$residencia/reguengo do chao da parada
+
+      bap$b1718-34/6/6/1718/fl.73./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$eugenia/f/id=b1718-34-per1
+
+         pn$manuel pereira/id=b1718-34-per2
+            ls$residencia/casal da bochardia
+
+         mn$maria da costa/id=b1718-34-per3
+
+         pad$joao gomes/id=b1718-34-per4
+            ls$profissao/mercador
+
+         mad$catarina/id=b1718-34-per5
+
+         pmad$domingos da veiga/id=b1718-34-per6
+            ls$residencia/obidos
+
+      bap$b1718-35/26/6/1718/fl.73v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$eugenia/f/id=b1718-35-per1
+
+         pn$antonio marques/id=b1718-35-per2
+            ls$residencia/gaeiras
+
+         mn$vicencia marques/id=b1718-35-per3
+
+         pad$antonio francisco/id=b1718-35-per4
+            ls$residencia/pinhal
+
+         mad$ana da silva/id=b1718-35-per5
+            ls$residencia/gaeiras
+
+      bap$b1718-36/31/7/1718/fl.73v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho/obs=assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho assina padre pedro alves madeira (cura) refere mesmo trinta e um dias do mes de julho
+
+         n$maria/f/id=b1718-36-per1
+
+         pn$luis da cunha/id=b1718-36-per2
+            ls$residencia/gaeiras
+
+         mn$maria correia/id=b1718-36-per3
+
+         pad$joao ferreira coutinho/id=b1718-36-per4
+            ls$residencia/obidos
+
+      bap$b1718-37/3/12/1718/fl.73v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$luis/m/id=b1718-37-per1
+
+         pn$manuel antunes/id=b1718-37-per2
+            ls$residencia/ribeira das caldas
+
+         mn$maria lopes/id=b1718-37-per3
+
+         pad$manuel francisco/id=b1718-37-pad
+            ls$residencia/ribeira das caldas
+
+         mad$sebastiana/id=b1718-37-per4
+
+         pmad$manuel francisco/mesmo_que=b1718-37-pad/id=b1718-37-per5
+            ls$residencia/ribeira das caldas
+
+      bap$b1719-38/4/1/1719/fl.73v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/id=b1719-38-per1
+
+         pn$valentim henriques/id=b1719-38-per2
+            ls$residencia/gaeiras
+
+         mn$maria teresa/id=b1719-38-per3
+
+         pad$francisco barreto/id=b1719-38-per4
+            ls$residencia/gaeiras de aquem
+
+         mad$isabel maria/id=b1719-38-per5
+            ls$residencia/casal das cruzes
+
+      bap$b1719-39/16/1/1719/fl.74./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/id=b1719-39-per1
+
+         pn$antonio luis/id=b1719-39-per2
+            ls$residencia/casais do nadadouro no termo de obidos
+
+         mn$teresa marques/id=b1719-39-per3
+
+         pad$manuel de andrade/id=b1719-39-pad
+            ls$residencia/castelo de obidos
+
+         mad$luisa maria/id=b1719-39-per4
+
+         mrmad$manuel de andrade/mesmo_que=b1719-39-pad/id=b1719-39-per5
+            ls$residencia/castelo de obidos
+
+      bap$b1719-40/22/1/1719/fl.74./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$vicente/m/id=b1719-40-per1
+
+         pn$jose monteiro/id=b1719-40-per2
+            ls$residencia/casal do negrelho
+
+         mn$domingas da horta/id=b1719-40-per3
+
+         pad$antonio martins/id=b1719-40-pad
+            ls$residencia/quinta da barroca
+
+         mad$engracia maria/id=b1719-40-per4
+
+         mrmad$antonio martins/mesmo_que=b1719-40-pad/id=b1719-40-per5
+            ls$residencia/quinta da barroca
+
+      bap$b1719-41/27/1/1719/fl.74./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$sebastiana/f/id=b1719-41-per1
+
+         pn$miguel antunes/id=b1719-41-per2
+            ls$residencia/tras do outeiro
+
+         mn$josefa ferreira/id=b1719-41-per3
+
+         pad$sebastiao alves de calheiros/id=b1719-41-pad
+            ls$cargo/beneficiado
+
+         mad$mariana rosa de castro e calheiros/id=b1719-41-per4
+            rel$parentesco/irma/sebastiao alves de calheiros/b1719-41-pad
+
+      bap$b1719-42/15/2/1719/fl.74./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1719-42-per1
+
+         pn$joao antunes/id=b1719-42-per2
+            ls$residencia/casal que fica abaixo da brougueira
+
+         mn$francisca maria/id=b1719-42-per3
+
+         pad$manuel barbosa neves/id=b1719-42-pad
+
+         mad$maria luisa/id=b1719-42-per4
+
+         mrmad$manuel barbosa neves/mesmo_que=b1719-42-pad/id=b1719-42-per5
+
+      bap$b1719-43/5/3/1719/fl.74v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1719-43-per1
+
+         pn$francisco fernandes/id=b1719-43-per2
+            ls$residencia/casais do nadadouro
+
+         mn$maria martins/id=b1719-43-per3
+
+         pad$antonio martins/id=b1719-43-pad
+            ls$residencia/quinta da barroca
+
+         mad$engracia maria/id=b1719-43-per4
+
+         mrmad$antonio martins/mesmo_que=b1719-43-pad/id=b1719-43-per5
+            ls$residencia/quinta da barroca
+
+      bap$b1719-44/12/3/1719/fl.74v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/id=b1719-44-per1
+
+         pn$estevao goncalves/id=b1719-44-per2
+            ls$residencia/tras do outeiro
+
+         mn$catarina maria/id=b1719-44-per3
+
+         pad$jose francisco/id=b1719-44-per4
+            ls$residencia/tras do outeiro
+
+         mad$antonia ferreira/id=b1719-44-per5
+
+         pmad$manuel goncalves/id=b1719-44-per6
+            ls$residencia/tras do outeiro
+
+      bap$b1719-45/26/3/1719/fl.74v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$josefa/f/id=b1719-45-per1
+
+         pn$manuel francisco/id=b1719-45-per2
+            ls$residencia/moinho na ribeira das caldas
+
+         mn$maria francisca/id=b1719-45-per3
+
+         pad$francisco leal/id=b1719-45-per4
+            ls$residencia/arelho
+
+         mad$maria francisca/id=b1719-45-per5
+            ls$residencia/arelho
+
+      bap$b1719-46/4/4/1719/fl.74v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1719-46-per1
+
+         pn$jose monteiro/id=b1719-46-per2
+            ls$residencia/sua quinta da boa vista no limite do lugar das gaeiras
+
+         mn$antonia soares/id=b1719-46-per3
+
+         pad$gregorio ferreira monteiro/id=b1719-46-per4
+            ls$residencia/obidos
+
+         mad$joana maria da costa e veiga/id=b1719-46-joana
+            ls$residencia/caldas
+
+         referido$manuel leal henriques/id=b1719-46-per5
+            ls$profissao/padre
+            ls$cargo/cura da igreja de sao pedro de obidos
+            rel$sociabilidade/procurador/joana maria da costa e veiga/b1719-46-joana
+
+      bap$b1719-47/23/4/1719/fl.75./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$maria/f/id=b1719-47-per1
+
+         pn$antonio vicente/id=b1719-47-per2
+            ls$residencia/obidos
+
+         mn$bernarda maria/id=b1719-47-per3
+
+         pad$jose gomes ferreira/id=b1719-47-per4
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao tiago de obidos
+
+      bap$b1719-48/14/5/1719/fl.75./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$juliana/f/obs=refere ter sido baptizada quando ja tinha quatorze dias de idade/id=b1719-48-per1
+
+         pn$joao rodrigues/id=b1719-48-per2
+            ls$residencia/casal de santa maria
+
+         mn$francisca do couto/id=b1719-48-per3
+
+         pad$manuel barbosa neves/id=b1719-48-per4
+            ls$residencia/obidos
+
+         mad$iria dos santos/id=b1719-48-per5
+            ls$residencia/obidos
+
+      bap$b1719-49/28/5/1719/fl.75./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$manuel/m/id=b1719-49-per1
+
+         pn$jose goncalves/id=b1719-49-per2
+            ls$residencia/tras do outeiro
+
+         mn$maria do rosario/id=b1719-49-per3
+
+         pad$miguel antunes/id=b1719-49-pad
+            ls$residencia/tras do outeiro
+
+         mad$francisca/id=b1719-49-per4
+
+         pmad$miguel antunes/mesmo_que=b1719-49-pad/id=b1719-49-per5
+
+      bap$b1719-50/28/5/1719/fl.75v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+         n$antonio/m/id=b1719-50-per1
+
+         pn$joao monteiro/id=b1719-50-per2
+            ls$residencia/casais do nadadouro
+
+         mn$pascoa maria/id=b1719-50-per3
+
+         pad$antonio martins/id=b1719-50-per4
+            ls$residencia/barroca
+
+         mad$domingas da horta/id=b1719-50-per5
+            ls$residencia/negrelho

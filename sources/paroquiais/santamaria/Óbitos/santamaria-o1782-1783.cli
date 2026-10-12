@@ -1,0 +1,593 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1782-1783/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1782-1a/12/1/1782/fl.135v./joao carlos da silva (padre)
+
+         n$maria tomasia/f/id=o1782-1a-per1
+            ls$residencia/arrabalde
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 30 na nave de santa catarina/obs=foi sepultado no mesmo dia
+
+         marido$severino gomes/id=o1782-1a-per2
+            ls$residencia/arrabalde
+
+      obito$o1782-1/21/1/1782/fl.136/joao carlos da silva (padre)
+
+         n$inacio francisco/m/id=o1782-1-per1
+            ls$cargo/soldado do regimento de peniche
+            ls$residencia/obidos
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na cova numero 31 na nave de santa catarina/obs=faleceu repentinamente. foi sepultado no dia seguinte
+
+         pai$jose francisco/id=o1782-1-per2
+
+         mae$iria dos santos/id=o1782-1-per3
+
+      obito$o1782-2/12/2/1782/fl.136/joao carlos da silva (padre)
+
+         n$roberto antonio de deus/m/id=o1782-2-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 32 na nave de santa catarina/obs=foi sepultado no dia seguinte
+
+         pai$manuel antonio/id=o1782-2-per2
+            ls$residencia/a da gorda
+
+         mae$isabel teresa/id=o1782-2-per3
+            ls$residencia/a da gorda
+
+      obito$o1782-3/15/3/1782/fl.136/joao carlos da silva (padre)
+
+         n$francisco nogueira de valadares/m/id=o1782-3-per1
+            ls$residencia/a da gorda
+
+         sacr$sim/obs=so recebeu o sacramento da extrema uncao por estar demente
+
+         causa$demencia
+
+         locs$dentro da igreja de santa maria, na cova numero 33, na nave de santa catarina/obs=foi sepultado no dia seguinte
+
+         pai$sebastiao pereira/id=o1782-3-per2
+            ls$titulo/doutor
+
+         mae$isabel nogueira/id=o1782-3-per3
+
+      obito$o1782-4/30/3/1782/fl.136/joao carlos da silva (padre)
+
+         n$teresa inacia de valadares/f/id=o1782-4-per1
+            ls$titulo/dona
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave numero 34 da nave de santa catarina/obs=foi sepultada no dia seguinte
+
+         pai$sebastiao pereira/id=o1782-4-per2
+            ls$titulo/doutor
+
+         mae$isabel nogueira/id=o1782-4-per3
+
+      obito$o1782-5/10/4/1782/fl.136v./joao carlos da silva (padre)
+
+         n$mariana/f/id=o1782-5-per1
+            ls$idade_aprox/menor/obs=inocente. foi sepultada no dia seguinte
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova junto a escada da capela de santa catarina
+
+         pai$pedro joao/id=o1782-5-per2
+            ls$residencia/a da gorda
+
+         mae$teresa rita/id=o1782-5-per3
+            ls$residencia/a da gorda
+
+      obito$o1782-6/22/4/1782/fl.136v./joao carlos da silva (padre)
+
+         n$antonio/m/id=o1782-6-n
+            ls$enjeitado/sim
+            ls$residencia/quinta da gaga de torres vedras
+            ls$idade_aprox/menor/obs=inocente, filho de pais incognitos. faleceu na freguesia de santa maria, em obidos. foi sepultado no dia 23.
+
+         locs$adro da igreja de santa maria
+
+         referida$luisa maria da conceicao/id=o1782-6-referida
+            ls$residencia/quinta da gaga de torres vedras
+            rel$sociabilidade/ama/antonio/o1782-6-n
+
+         referido$antonio jose/id=o1782-6-per1
+            ls$residencia/quinta da gaga de torres vedras
+            rel$parentesco/marido/luisa maria da conceicao/o1782-6-referida
+
+      obito$o1782-7/27/4/1782/fl.136v./joao carlos da silva (padre)
+
+         n$matias antonio/m/id=o1782-7-n
+            ls$enjeitado/sim
+            ls$residencia/obidos
+            ls$idade_aprox/menor/obs=inocente, filho de pais incognitos, exposto na santa casa do hospital de lisboa. foi sepultado no mesmo dia
+
+         locs$adro da igreja de santa maria
+
+         referida$rosa maria/id=o1782-7-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/matias antonio/o1782-7-n
+
+         referido$manuel da silva/id=o1782-7-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/rosa maria/o1782-7-referida
+
+      obito$o1782-8/7/5/1782/fl.136v./joao carlos da silva (padre)
+
+         n$embolina/f/id=o1782-8-n
+            ls$enjeitada/sim
+            ls$residencia/obidos
+            ls$idade_aprox/menor/obs=inocente, filha de pais incognitos, exposta da santa casa do hospital de lisboa. foi sepultada no dia 8
+
+         locs$adro da igreja de santa maria
+
+         referida$maria da silva/id=o1782-8-referida
+            rel$sociabilidade/ama/embolina/o1782-8-n
+
+         referido$valeriano henriques/id=o1782-8-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/maria da silva/o1782-8-referida
+
+      obito$o1782-9/15/5/1782/fl.136v.-137/joao carlos da silva (padre)
+
+         n$valeriano da costa/m/id=o1782-9-per1
+            ls$residencia/gaeiras de sao marcos
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na cova numero 35 na nave de santa catarina/obs=faleceu repentinamente. foi sepultado no mesmo dia
+
+         mulher$sebastiana maria/id=o1782-9-per2
+            ls$residencia/gaeiras de sao marcos
+
+      obito$o1782-10/27/5/1782/fl.137/joao carlos da silva (padre)
+
+         n$jose/m/id=o1782-10-per1
+            ls$idade_aprox/menor/obs=inocente. foi baptizado em casa "in extremis". foi sepultado no mesmo dia
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova junto as escadasna capela de santa catarina
+
+         pai$antonio jose gomes/id=o1782-10-per2
+            ls$residencia/obidos
+
+         mae$feliciana rosa/id=o1782-10-per3
+            ls$residencia/obidos
+
+      obito$o1782-11/30/5/1782/fl.137/joao carlos da silva (padre)
+
+         n$maria de freitas/f/id=o1782-11-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs=so recebeu a extrema uncao porque perdeu a fala
+
+         locs$dentro da igreja de santa maria, na cova numero 36, na nave de santa catarina/obs=foi sepultada no mesmo dia
+
+         marido$francisco de sousa/id=o1782-11-per2
+            ls$morto/antes
+
+      obito$o1782-12/8/6/1782/fl.137/joao carlos da silva (padre)
+
+         n$joao/m/id=o1782-12-per1
+            ls$idade_aprox/menor/obs=inocente. foi sepultado no mesmo dia
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova junto a escada da capela de santa catarina
+
+         pai$joaquim luis/id=o1782-12-per2
+            ls$residencia/a da gorda
+
+         mae$teodora maria/id=o1782-12-per3
+            ls$residencia/a da gorda
+
+      obito$o1782-13/13/6/1782/fl.137/joao carlos da silva (padre)
+
+         n$joana baptista/f/id=o1782-13-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 38 na nave de santa catarina/obs=foi sepultada no dia seguinte
+
+         marido$manuel da mata/id=o1782-13-per2
+
+      obito$o1782-14/6/7/1782/fl.137v./joao carlos da silva (padre)
+
+         n$monica teresa/f/id=o1782-14-per1
+            ls$residencia/casal do azambujeiro
+
+         sacr$sim/obs=penitencia, extrema uncao
+
+         locs$dentro da igreja de santa maria, na cova numero 39, na nave de santa catarina/obs=foi sepultada no mesmo dia
+
+         oficios$2 oficios de 9 licoes
+
+         marido$agostinho goncalves/id=o1782-14-per2
+
+      obito$o1782-15/15/7/1782/fl.137v./joao carlos da silva (padre)
+
+         n$maria gertrudes/f/id=o1782-15-per1
+            ls$residencia/a da gorda
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na cova numero 40, na nave de santa catarina/obs=faleceu repentinamente. foi sepultada no dia seguinte
+
+         pai$tome monteiro/id=o1782-15-per2
+            ls$residencia/a da gorda
+
+         mae$antonia joaquina/id=o1782-15-per3
+            ls$residencia/a da gorda
+
+      obito$o1782-16/18/7/1782/fl.137v./joao carlos da silva (padre)
+
+         n$ana/f/id=o1782-16-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras de sao marcos
+
+         locs$dentro da igreja de santa maria, na cova por baixo da escada do altar de santa catarina/obs=foi sepultada no mesmo dia
+
+         pai$francisco gomes/id=o1782-16-per2
+            ls$residencia/gaeiras de sao marcos
+
+         mae$joaquina maria/id=o1782-16-per3
+            ls$residencia/gaeiras de sao marcos
+
+      obito$o1782-17/7/8/1782/fl.137v./joao carlos da silva (padre)
+
+         n$francisco/m/id=o1782-17-per1
+            ls$residencia/arrabalde
+
+         locs$dentro da igreja de santa maria, na primeira cova na nave do meio da parte de santa catarina/obs=foi sepultado no mesmo dia
+
+         pai$joao monteiro/id=o1782-17-per2
+            ls$residencia/arrabalde
+
+         mae$ana joauqina/id=o1782-17-per3
+            ls$residencia/arrabalde
+
+      obito$o1782-18/7/8/1782/fl.138/joao carlos da silva (padre)
+
+         n$maria/f/id=o1782-18-per1
+            ls$residencia/gaeiras de sao marcos
+            ls$idade_aprox/menor/obs=inocente. foi sepultada no mesmo dia
+
+         locs$dentro da igreja de santa maria, na segunda cova na nave do meio da parte de santa catarina
+
+         pai$antonio da costa/id=o1782-18-per2
+            ls$residencia/gaeiras de sao marcos
+
+         mae$maria joaquina/id=o1782-18-per3
+            ls$residencia/gaeiras de sao marcos
+
+      obito$o1782-19/6/9/1782/fl.138/joao carlos da silva (padre)
+
+         n$jose gomes/m/id=o1782-19-per1
+            ls$residencia/fraldeu
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 41 na nave de santa catarina/obs=foi sepultado no mesmo dia
+
+         mulher$maria gomes/id=o1782-19-per2
+
+      obito$o1782-20/9/9/1782/fl.138/joao carlos da silva (padre)
+
+         n$joana/f/id=o1782-20-n
+            ls$enjeitada/sim
+            ls$residencia/obidos
+            ls$idade_aprox/menor/obs=inocente, filha de pais incognitos, exposta da santa casa do hospital de lisboa. foi sepultada no mesmo dia
+
+         locs$adro da igreja de santa maria
+
+         referida$maria de jesus/id=o1782-20-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/joana/o1782-20-n
+
+         referido$tomas de aquino/id=o1782-20-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/maria de jesus/o1782-20-referida
+
+      obito$o1782-21/12/9/1782/fl.138/joao carlos da silva (padre)
+
+         n$gertrudes/f/id=o1782-21-per1
+            ls$idade_aprox/menor/obs=inocente. foi sepultada no dia 13.
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, na cova junto ao pulpito na nave de santa catarina
+
+         pai$joao de sousa/id=o1782-21-per2
+            ls$residencia/gaeiras de sao marcos
+
+         mae$embolina rosa/id=o1782-21-per3
+            ls$residencia/gaeiras de sao marcos
+
+      obito$o1782-22/2/10/1782/fl.138v./joao carlos da silva (padre)
+
+         n$maria teresa/f/id=o1782-22-per1
+            ls$residencia/gaeiras de sao marcos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na primeira cova na nave de sao bras/obs=foi sepultada no dia 3
+
+         marido$jose da costa mexia/id=o1782-22-per2
+            ls$morto/antes
+
+      obito$o1782-23/14/10/1782/fl.138v./joao carlos da silva (padre)
+
+         n$maria/f/id=o1782-23-per1
+            ls$idade_aprox/menor/obs=inocente. foi baptizada em casa in extremis. foi sepultada no dia seguinte
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova junto ao pulpito
+
+         pai$antonio dias/id=o1782-23-per2
+            ls$residencia/obidos
+
+         mae$maria joaquina/id=o1782-23-per3
+            ls$residencia/obidos
+
+      obito$o1782-24/24/11/1782/fl.138v./joao carlos da silva (padre)
+
+         n$mariana do carmo/f/id=o1782-24-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 2, na nave de sao bras/obs=foi sepultada no mesmo dia
+
+         marido$antonio carreira/id=o1782-24-per2
+            ls$morto/antes
+
+      obito$o1782-25/24/11/1782/fl.138v./joao carlos da silva (padre)
+
+         n$manuel soares/m/id=o1782-25-per1
+            ls$residencia/gaeiras de sao marcos
+
+         sacr$sim/obs=so recebeu o sacramento da extrema uncao por estar privado dos sentidos
+
+         locs$dentro da igreja de santa maria, na cova numero 3, na nave de sao bras/obs=foi sepultado no dia 25
+
+         mulher$luisa maria/id=o1782-25-per2
+
+      obito$o1782-26/28/11/1782/fl.139/joao carlos da silva (padre)
+
+         n$jose nogueira/m/id=o1782-26-per1
+            ls$residencia/arrabalde
+            ls$ec/v
+
+         causa$apoplexia
+
+         sacr$sim/obs= extrema uncao/obs=so recebeu o sacramento da extrema uncao por ficar privado dos sentidos
+
+         locs$dentro da igreja de santa maria, na cova numero 4, na nave de sao bras/obs=foi sepultado no dia 29
+
+         oficios$3 oficios de 9 licoes por sua alma e por alma de sua mulher e 12 missas
+
+         mulher$maria teresa/id=o1782-26-per2
+            ls$morta/antes
+
+      obito$o1782-27/31/12/1782/fl.139/joao carlos da silva (padre)
+
+         n$maria da conceicao/f/id=o1782-27-per1
+            ls$residencia/arrabalde
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na cova numero 5, na nave de sao bras/obs=faleceu repentinamente. foi sepultada no mesmo dia
+
+         marido$manuel pinto/id=o1782-27-per2
+
+      obito$o1783-1/24/1/1783/fl.139/joao carlos da silva (padre)
+
+         n$joao da silva/m/id=o1783-1-per1
+            ls$residencia/gaeiras de sao marcos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 7, na nave de sao bras/obs=foi sepultado no dia seguinte
+
+         mulher$antonia maria/id=o1783-1-per2
+            ls$morta/antes
+
+      obito$o1783-2/16/2/1783/fl.139/joao carlos da silva (padre)
+
+         n$teresa soares/f/id=o1783-2-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 8, na nave de sao bras/obs=foi sepultada no mesmo dia
+
+         pai$francisco lopes/id=o1783-2-per2
+            ls$residencia/obidos
+
+         mae$teresa da silva/id=o1783-2-per3
+            ls$residencia/obidos
+
+      obito$o1783-3/2/3/1783/fl.139v./joao carlos da silva (padre)
+
+         n$maria da conceicao/f/id=o1783-3-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 9, na nave de sao bras/obs=foi sepultada no dia seguinte
+
+         pai$antonio monteiro/id=o1783-3-per2
+            ls$residencia/a da gorda
+
+         mae$antonia maria/id=o1783-3-per3
+            ls$residencia/a da gorda
+
+      obito$o1783-4/7/3/1783/fl.139v./joao carlos da silva (padre)
+
+         n$manuel dos reis/m/id=o1783-4-per1
+            ls$residencia/obidos
+
+         sacr$nao/obs=nao recebeu os sacramentos por negligencia dos assistentes
+
+         locs$dentro da igreja de santa maria, na cova numero 10, na nave de sao bras/obs=foi sepultada no mesmo dia
+
+         pai$vicente dias/id=o1783-4-per2
+            ls$residencia/obidos
+
+         mae$iria gomes/id=o1783-4-per3
+            ls$residencia/obidos
+
+      obito$o1783-5/3/4/1783/fl.139v./joao carlos da silva (padre)
+
+         n$jose/m/id=o1783-5-per1
+            ls$residencia/gaeiras de sao marcos
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de santa maria, na ultima cova na nave de santa catarina
+
+         pai$manuel soares/id=o1783-5-per2
+            ls$residencia/gaeiras de sao marcos
+
+         mae$rita maria/id=o1783-5-per3
+            ls$residencia/gaeiras de sao marcos
+
+      obito$o1783-6/18/4/1783/fl.139v./joao carlos da silva (padre)
+
+         n$antonio pedro/m/id=o1783-6-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 11, na nave de sao bras/obs=foi sepultado no dia seguinte
+
+         mulher$catarina maria/id=o1783-6-per2
+            ls$residencia/a da gorda
+
+      obito$o1783-7/30/4/1783/fl.140/joao carlos da silva (padre)
+
+         n$antonio luis/m/id=o1783-7-per1
+            ls$naturalidade/nadadouro, termo de obidos
+            ls$residencia/peniche
+            ls$pobre/sim
+            ls$ec/v
+
+         locf$enfermaria da santa casa da misericordia
+
+         sacr$sim/obs=penitencia, eucaristia. recebeu os sacramentos quando foi para a enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de santa maria/obs=foi sepultado no mesmo dia
+
+      obito$o1783-8/1/6/1783/fl.140/joao carlos da silva (padre)
+
+         n$paula maria/f/id=o1783-8-per1
+            ls$residencia/gaeiras de sao marcos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 12, na nave de sao bras/obs=foi sepultada no mesmo dia
+
+         marido$manuel marques/id=o1783-8-per2
+            ls$morto/antes
+
+      obito$o1783-9/20/5/1783/fl.140/joao carlos da silva (padre)
+
+         n$bras antunes correia/m/id=o1783-9-per1
+            ls$titulo/reverendo
+            ls$cargo/prior aa igreja de sao joao de mocharro
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$igreja de sao joao do mocharro/obs=foi sepultado no mesmo dia
+
+         testamento$sim
+
+      obito$o1783-10/29/6/1783/fl.140/joao carlos da silva (padre)
+
+         n$joana maria/f/id=o1783-10-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim/obs=so recebeu o sacramento da extrema uncao por ter ficado privada dos sentidos
+
+         locs$dentro da igreja de santa maria, na cova numero 13, na nave de sao bras/obs=foi sepultada no mesmo dia
+
+         marido$jose luis/id=o1783-10-per2
+            ls$morto/antes
+
+      obito$o1783-11/10/9/1783/fl.140v./joao carlos da silva (padre)
+
+         n$joaquina/f/id=o1783-11-per1
+            ls$idade_aprox/menor/obs=inocente. foi sepultada no dia seguinte
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova junto aos bancos na nave de santa catarina
+
+         pai$antonio jose/id=o1783-11-per2
+            ls$residencia/obidos
+
+         mae$joaquina da silva/id=o1783-11-per3
+            ls$residencia/obidos
+
+      obito$o1783-12/12/11/1783/fl.140v./joao carlos da silva (padre)
+
+         n$manuel rebelo/m/id=o1783-12-per1
+            ls$residencia/gaeiras de sao marcos
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na cova numero 14 na nave de sao bras/obs=faleceu repentinamente. foi sepultado no mesmo dia
+
+         pai$vicente luis/id=o1783-12-per2
+
+         mae$isabel rodrigues/id=o1783-12-per3
+
+      obito$o1783-13/17/11/1783/fl.140v./joao carlos da silva (padre)
+
+         n$francisco/m/id=o1783-13-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova junto ao confessionario na nave de santa catarina
+
+         pai$antonio tavares/id=o1783-13-per2
+            ls$residencia/obidos
+
+         mae$ana maria/id=o1783-13-per3
+            ls$residencia/obidos
+
+      obito$o1783-14/30/11/1783/fl.140v./joao carlos da silva (padre)
+
+         n$mariana do carmo/f/id=o1783-14-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 15 na nave de sao bras/obs=foi sepultada no dia seguinte
+
+         pai$francisco da silva/id=o1783-14-per2
+
+         mae$iria da silva/id=o1783-14-per3
+
+      obito$o1783-15/7/12/1783/fl.141/joao carlos da silva (padre)
+
+         n$antonio martins/m/id=o1783-15-per1
+            ls$residencia/quinta da granja
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na cova numero 16 na nave de sao bras/obs=faleceu repentinamente. foi sepultado no dia seguinte
+
+         mulher$maria francisca/id=o1783-15-per2

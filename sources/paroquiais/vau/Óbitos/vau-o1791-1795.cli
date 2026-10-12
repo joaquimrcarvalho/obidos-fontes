@@ -1,0 +1,440 @@
+kleio$gacto.str/prefix=vau
+   fonte$obitos1791-1795/localizacao-a.d.l./freguesia de nossa senhora da piedade, vau
+
+      obito$o1791-1/15/3/1791/fl.52v./francisco jose rodrigues da costa (padre)
+
+         n$clemente jose/m/id=o1791-1-per1
+            ls$ec/c
+            ls$naturalidade/vau
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 22
+
+         mulher$damiana barbara/id=o1791-1-per2
+
+      obito$o1791-2/17/5/1791/fl.52v./francisco jose rodrigues da costa (padre)
+
+         n$joaquim/m/id=o1791-2-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/vau
+
+            pai$antonio henriques/id=o1791-2-per1-per2
+               ls$residencia/vau
+
+            mae$ana joaquina/id=o1791-2-per1-per3
+               ls$residencia/vau
+
+      obito$o1791-3/31/5/1791/fl.52v./francisco jose rodrigues da costa (padre)
+
+         n$luisa/f/id=o1791-3-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$naturalidade/vau
+
+            pai$jose monteiro/id=o1791-3-per1-per2
+               ls$naturalidade/vau
+
+            mae$mariana do carmo/id=o1791-3-per1-per3
+               ls$naturalidade/vau
+
+      obito$o1791-4/9/8/1791/fl.53/francisco jose rodrigues da costa (padre)
+
+         n$pedro%pº/m/id=o1791-4-per1
+            ls$idade_aprox/menor
+            ls$idade/10 anos
+            ls$residencia/vau
+
+            pai$jose felix/id=o1791-4-per1-per2
+               ls$residencia/vau
+
+            mae$gertrudes maria/id=o1791-4-per1-per3
+               ls$residencia/vau
+
+      obito$o1791-5/2/9/1791/fl.53/francisco jose rodrigues da costa (padre)
+
+         n$camila/f/id=o1791-5-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=enjeitada, inocente do hospital real de lisboa
+
+            pai$nome desconhecido/id=o1791-5-n-per1
+
+            mae$nome desconhecido/id=o1791-5-n-per2
+
+            referida$mariana rosa/id=o1791-5-referida
+               ls$residencia/vau
+               rel$sociabilidade/ama/camila/o1791-5-n
+
+            referido$pedro soares/id=o1791-5-n-per3
+               ls$residencia/vau
+               rel$parentesco/marido/mariana rosa/o1791-5-referida
+
+      obito$o1791-6/15/10/1791/fl.53/francisco jose rodrigues da costa (padre)
+
+         n$caetano gomes/m/id=o1791-6-per1
+            ls$ec/s
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+      obito$o1791-7/8/12/1791/fl.53/francisco jose rodrigues da costa (padre)
+
+         n$antonio/m/id=o1791-7-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         pai$jeronimo luis/id=o1791-7-per2
+
+         mae$luisa maria/id=o1791-7-per3
+
+      obito$o1791-8/21/12/1791/fl.53/francisco jose rodrigues da costa (padre)
+
+         n$gertrudes/f/id=o1791-8-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         pai$alexandre jose/id=o1791-8-per2
+
+         mae$maria rosa/id=o1791-8-per3
+
+      obito$o1792-1/21/4/1792/fl.53v./francisco jose rodrigues da costa (padre)
+
+         n$manuel jorge/m/id=o1792-1-per1
+            ls$ec/v
+            ls$naturalidade/vau
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 23
+
+         mulher$leonor maria/id=o1792-1-per2
+            ls$morta/antes
+
+      obito$o1792-2/19/7/1792/fl.53v./francisco jose rodrigues da costa (padre)
+
+         n$maria dos santos/f/id=o1792-2-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura ao pe do guarda-vento
+
+         marido$jose martins/id=o1792-2-per2
+
+      obito$o1792-3/8/8/1792/fl.53v./francisco jose rodrigues da costa (padre)
+
+         n$antonio soares ferreira/m/id=o1792-3-per1
+            ls$cargo/tenente
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 23
+
+         oficios$oficio
+
+         mulher$luisa maria/id=o1792-3-per2
+
+      obito$o1793-1/5/3/1793/fl.53v./francisco jose rodrigues da costa (padre)
+
+         n$paulo/m/id=o1793-1-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=inocente, enjeitado
+            ls$residencia/casal da lapinha
+
+            pai$nome desconhecido/id=o1793-1-n-per1
+
+            mae$nome desconhecido/id=o1793-1-n-per2
+
+            referida$isabel maria/id=o1793-1-referida
+               ls$residencia/casal da lapinha
+               rel$sociabilidade/ama/paulo/o1793-1-n
+
+            referido$joaquim de faria%joaq.m de f.ª/id=o1793-1-n-per3
+               ls$residencia/casal da lapinha
+               rel$parentesco/marido/isabel maria/o1793-1-referida
+
+      obito$o1793-2/7/8/1793/fl.53v./francisco jose rodrigues da costa (padre)
+
+         n$simao dos santos/m/id=o1793-2-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 24
+
+         mulher$rosalia maria/id=o1793-2-per2
+
+      obito$o1793-3/28/9/1793/fl.54/francisco jose rodrigues da costa (padre)
+
+         n$januario/m/id=o1793-3-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+            pai$januario luis/id=o1793-3-per1-per2
+
+            mae$joana maria/id=o1793-3-per1-per3
+               ls$naturalidade/freguesia de nossa senhora da piedade
+
+      obito$o1793-4/25/10/1793/fl.54/francisco jose rodrigues da costa (padre)
+
+         n$joao bras/m/id=o1793-4-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=santa uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 25
+
+         oficios$nao teve oficio
+
+      obito$o1793-5/8/11/1793/fl.54/francisco jose rodrigues da costa (padre)
+
+         n$sebastiana/f/id=o1793-5-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+            pai$manuel martins/id=o1793-5-per1-per2
+               ls$naturalidade/freguesia de nossa senhora da piedade
+
+            mae$maria josefa/id=o1793-5-per1-per3
+               ls$naturalidade/freguesia de nossa senhora da piedade
+
+      obito$o1794-1/18/1/1794/fl.54/francisco jose rodrigues da costa (padre)
+
+         n$maria/f/id=o1794-1-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+            pai$jose dos santos/id=o1794-1-per1-per2
+               ls$naturalidade/freguesia de nossa senhora da piedade
+
+            mae$damiana maria/id=o1794-1-per1-per3
+               ls$naturalidade/freguesia de nossa senhora da piedade
+
+      obito$o1794-2/24/4/1794/fl.54/francisco jose rodrigues da costa (padre)
+
+         n$manuel dos santos/m/id=o1794-2-per1
+            ls$ec/s
+            ls$residencia/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao, comunhao
+
+      obito$o1794-3/26/4/1794/fl.54/francisco jose rodrigues da costa (padre)
+
+         n$felix henriques/m/id=o1794-3-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         mulher$josefa maria/id=o1794-3-per2
+            ls$morta/antes
+
+      obito$o1794-4/27/8/1794/fl.54v./francisco jose rodrigues da costa (padre)
+
+         n$rosa joaquina/f/id=o1794-4-per1
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         marido$antonio henriques/id=o1794-4-per2
+
+      obito$o1794-5/24/11/1794/fl.54v./francisco jose rodrigues da costa (padre)
+
+         n$francisca/f/id=o1794-5-per1
+            ls$profissao/criada
+            rel$profissional/criada/jose gomes monteiro/o1794-5-referido
+
+         sacr$nao
+
+         locs$freguesia de nossa senhora da piedade
+
+         pai$inacio de oliveira/id=o1794-5-per2
+            ls$residencia/amoreira
+
+         mae$domingas do espirito santo/id=o1794-5-per3
+            ls$residencia/amoreira
+
+         referido$jose gomes monteiro%joze g.os montr.o/id=o1794-5-referido
+            ls$residencia/quinta da luz
+
+      obito$o1794-6/13/12/1794/fl.54v./francisco jose rodrigues da costa (padre)
+
+         n$monica/f/id=o1794-6-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         pai$manuel jorge/id=o1794-6-per2
+            ls$morto/antes
+
+         mae$leonor maria/id=o1794-6-per3
+            ls$morta/antes
+
+      obito$o1795-1/22/3/1795/fl.54v./francisco jose rodrigues da costa (padre)
+
+         n$vicente soares/m/id=o1795-1-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao, extrema uncao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 33
+
+         mulher$josefa maria/id=o1795-1-per2
+
+      obito$o1795-2/15/4/1795/fl.54v./francisco jose rodrigues da costa (padre)
+
+         n$paula maria/f/id=o1795-2-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, junto a sepultura 33
+
+         marido$bento das neves/id=o1795-2-per2
+            ls$morto/antes
+            ls$cargo/capitao
+
+      obito$o1795-3/27/6/1795/fl.55/francisco jose rodrigues da costa (padre)
+
+         n$francisco da silva/m/id=o1795-3-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 27
+
+         mulher$joaquina maria/id=o1795-3-per2
+
+      obito$o1795-4/27/6/1795/fl.55/francisco jose rodrigues da costa (padre)
+
+         n$francisca teresa/f/id=o1795-4-per1
+            ls$residencia/casal de sao roque
+
+         sacr$nao
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 28
+
+         marido$manuel lopes/id=o1795-4-per2
+            ls$residencia/casal de sao roque
+
+      obito$o1795-5/20/7/1795/fl.55/francisco jose rodrigues da costa (padre)
+
+         n$rosa/f/id=o1795-5-per1
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 29
+
+         pai$antonio garcia/id=o1795-5-per2
+
+         mae$rosa maria/id=o1795-5-per3
+            ls$morta/antes
+
+      obito$o1795-6/15/8/1795/fl.55/francisco jose rodrigues da costa (padre)
+
+         n$maria/f/id=o1795-6-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim
+
+            pai$nome desconhecido/id=o1795-6-n-per1
+
+            mae$nome desconhecido/id=o1795-6-n-per2
+
+            referida$mariana rosa/id=o1795-6-referida
+               rel$sociabilidade/ama/maria/o1795-6-n
+
+            referido$jose pereira/id=o1795-6-n-per3
+               rel$parentesco/marido/mariana rosa/o1795-6-referida
+
+      obito$o1795-7/23/8/1795/fl.55/francisco jose rodrigues da costa (padre)
+
+         n$domingos/m/id=o1795-7-per1
+            ls$ec/s
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$nao/obs=faleceu de repente, nao recebeu os sacramentos
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 30
+
+         pai$domingos martins/id=o1795-7-per2
+            ls$morto/antes
+
+         mae$vicencia maria/id=o1795-7-per3
+            ls$morta/antes
+
+      obito$o1795-8/11/10/1795/fl.55v./francisco jose rodrigues da costa (padre)
+
+         n$maria josefa/f/id=o1795-8-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim
+
+         locs$dentro da igreja de nossa senhora da piedade, sepultura 31
+
+         marido$joao bras/id=o1795-8-per2
+            ls$morto/antes
+
+      obito$o1795-9/15/10/1795/fl.55v./francisco jose rodrigues da costa (padre)
+
+         n$micaela maria/f/id=o1795-9-per1
+            ls$ec/v
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+         sacr$sim/obs=confissao
+
+         marido$jeronimo da silva/id=o1795-9-per2
+            ls$morto/antes
+
+      obito$o1795-10/18/10/1795/fl.55v./francisco jose rodrigues da costa (padre)
+
+         n$joao pedro%joao pº/obs="mosso"/id=o1795-10-per1
+            ls$profissao/criado
+            ls$naturalidade/po
+            ls$residencia/freguesia de nossa senhora da piedade
+            rel$profissional/criado/joao gomes monteiro/o1795-10-referido
+
+         sacr$sim/obs=confissao
+
+         referido$joao gomes monteiro%joao g.es montr.o/id=o1795-10-referido
+            ls$residencia/quinta da luz
+
+      obito$o1795-11/18/10/1795/fl.55v./francisco jose rodrigues da costa (padre)
+
+         n$maria/f/id=o1795-11-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$naturalidade/vau
+
+            pai$antonio madeira/id=o1795-11-per1-per2
+               ls$residencia/vau
+
+            mae$inacia maria/id=o1795-11-per1-per3
+               ls$naturalidade/vau
+
+      obito$o1795-12/10/11/1795/fl.55v./francisco jose rodrigues da costa (padre)
+
+         n$dionisio/m/id=o1795-12-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$naturalidade/freguesia de nossa senhora da piedade
+
+            pai$jose monteiro/id=o1795-12-per1-per2
+               ls$naturalidade/freguesia de nossa senhora da piedade
+
+            mae$mariana do carmo/id=o1795-12-per1-per3
+               ls$naturalidade/freguesia de nossa senhora da piedade
+
+      obito$o1795-13/19/12/1795/fl.55v.-56/francisco jose rodrigues da costa (padre)
+
+         n$teresa de melo da silva e sa/f/id=o1795-13-per1
+            ls$titulo/dona
+            ls$residencia/casal proprio
+            ls$residencia/casal de cabana
+
+         sacr$sim
+
+         locs$casal de cabana
+
+         locf$casal de cabana

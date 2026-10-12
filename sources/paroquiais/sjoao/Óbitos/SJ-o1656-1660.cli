@@ -1,0 +1,467 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$obitos1656-1660/localizacao-a.d.l./freguesia de sao joao
+
+      obito$o1656-1/28/1/1656/fl.154/francisco de sousa (vigario)
+
+         n$maria/f/id=o1656-1-per1
+            ls$ec/solteira
+            ls$pobre/sim
+
+         locs$adro
+
+         locf$carregal
+
+         testamento$nao
+
+         pai$estevao dias/id=o1656-1-per2
+
+         mae$maria dinis/id=o1656-1-per3
+
+      obito$o1656-2/15/2/1656/fl.154/francisco de sousa (vigario)
+
+         n$maria gaspar/f/id=o1656-2-per1
+            ls$pobre/sim
+            ls$ec/viuva
+
+         locs$adro da igreja de sao joao
+
+         locf$sobral
+
+         testamento$nao
+
+      obito$o1656-3/31/3/1656/fl.154/francisco de sousa (vigario)
+
+         n$maria alves/f/id=o1656-3-n
+            ls$residencia/casal da charneca, junto ao sobral da lagoa
+            rel$parentesco/sogra/bernardo da horta/o1656-3-referido
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$sim
+
+         referido$bernardo da horta/id=o1656-3-referido/obs=debaixo do registo, a 3 de abril de 1656, o vigario acrescenta uma nota dizendo que a defunta dinha feito testamento e que era seu testamenteiro seu filho bernardo da horta. este ultimo nao era seu filho mas seu genro.
+            rel$sociabilidade/testamenteiro/maria alves/o1656-3-n
+
+      obito$o1656-4/17/3/1656/fl.154v./francisco de sousa (vigario)
+
+         n$maria francisca/f/id=o1656-4-per1
+
+         locs$igreja de sao joao
+
+         locf$carregal
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         marido$estevao leitao/id=o1656-4-per2
+
+      obito$o1656-5/3/6/1656/fl.154v./francisco de sousa (vigario)
+
+         n$isabel lopes/f/id=o1656-5-per1
+            ls$pobre/sim
+
+         locs$adro da igreja de sao joao
+
+         locf$bairro
+
+         testamento$nao
+
+         mae$maria lopes/id=o1656-5-per2
+            ls$ec/viuva
+
+      obito$o1656-6/11/6/1656/fl.154v./francisco de sousa (vigario)
+
+         n$isabel francisca/f/id=o1656-6-per1
+
+         locs$igreja de sao joao
+
+         locf$arelho
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+         marido$francisco ferreira/id=o1656-6-per2
+
+      obito$o1656-7/11/11/1656/fl.154v./francisco carreira da silva (padre, cura)
+
+         n$domingos fernandes/m/id=o1656-7-per1
+
+         locs$igreja de sao joao
+
+         locf$bairro
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+      obito$o1656-8/24/11/1656/fl.154v./francisco carreira da silva (padre, cura)
+
+         n$joao luis/m/id=o1656-8-per1
+
+         locs$igreja de sao joao
+
+         locf$sobral
+
+         oficios$sim/obs=3 oficios
+
+      obito$o1656-9/8/12/1656/fl.155/francisco carreira da silva (padre, cura)
+
+         n$francisco pires/m/id=o1656-9-per1
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+      obito$o1656-10/19/12/1656/fl.155/francisco carreira da silva (padre, cura)
+
+         n$gaspar rodrigues/m/id=o1656-10-per1
+            ls$residencia/arelho
+
+         locs$igreja de sao joao
+
+         oficios$sim
+
+         testamento$nao
+
+      obito$o1657-1/1/1/1657/fl.155/francisco carreira da silva (padre, cura)
+
+         n$francisco de sousa/m/id=o1657-1-n
+            ls$cargo/vigario da igreja de sao joao
+
+         locs$capela mor da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$sim
+
+         referida$nome desconhecido/id=o1657-1-per1
+            rel$parentesco/irma/francisco de sousa/o1657-1-n
+            rel$sociabilidade/herdeira/francisco de sousa/o1657-1-n
+
+      obito$o1657-2/26/1/1657/fl.155/francisco carreira da silva (padre, cura)
+
+         n$catarina luis/f/id=o1657-2-per1
+            ls$residencia/bairro
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=2 oficios
+
+         testamento$nao
+
+      obito$o1657-3/5/2/1657/fl.155v./francisco carreira da silva (padre, cura)
+
+         n$catarina martins/f/id=o1657-3-per1
+            ls$residencia/carregal
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim
+
+         testamento$nao
+
+      obito$o1657-4/6/3/1657/fl.155v./francisco carreira da silva (padre, cura)
+
+         n$isabel ferreira/f/id=o1657-4-per1
+            ls$ec/viuva
+            ls$residencia/arelho
+
+            marido$henrique fernandes/obs=duvida na leitura do apelido/id=o1657-4-per1-per2
+               ls$morto/antes
+
+         locs$dentro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1657-5/24/3/1657/fl.155v./francisco carreira da silva (padre, cura)
+
+         n$manuel erdado/m/obs=duvida na leitura do ultimo apelido/id=o1657-5-per1
+            ls$naturalidade/vidais
+            ls$residencia/sobral, com rodrigo fernandes
+
+         locs$adro da igreja de sao joao
+
+         pai$antonio mendes/id=o1657-5-per2
+            ls$morto/antes
+
+         referido$rodrigo fernandes/id=o1657-5-per3
+            ls$residencia/sobral
+
+      obito$o1657-6/4/9/1657/fl.155v./francisco de melo da silva (vigario de sao joao)
+
+         n$leonor antunes/f/id=o1657-6-per1
+            ls$residencia/bairro
+            ls$ec/viuva
+
+            marido$pedro fernandes%pº frz/id=o1657-6-per1-per2
+               ls$residencia/bairro
+               ls$morto/antes
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+      obito$o1657-7/4/9/1657/fl.156/francisco de melo da silva (vigario de sao joao)
+
+         n$ana/f/id=o1657-7-per1
+            ls$idade/1 ano
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         pai$domingos luis/id=o1657-7-per2
+            ls$residencia/sobral
+
+         mae$maria goncalves/id=o1657-7-per3
+            ls$residencia/sobral
+
+      obito$o1657-8/27/12/1657/fl.156/francisco de melo da silva (vigario de sao joao)
+
+         n$maria/f/id=o1657-8-per1
+            ls$idade/1 ano
+            ls$residencia/carregal
+
+         locs$adro da igreja de sao joao
+
+         pai$domingos martins/id=o1657-8-per2
+            ls$residencia/carregal
+
+         mae$maria antunes/id=o1657-8-per3
+            ls$residencia/carregal
+
+      obito$o1658-1/30/1/1658/fl.156/francisco de melo da silva (vigario de sao joao)
+
+         n$leonardo ferreira/m/id=o1658-1-per1
+            ls$residencia/arelho
+            ls$ec/solteiro/obs=homem que nunca casou
+
+         locs$dentro da igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+      obito$o1658-2/7/3/1658/fl.156/francisco de melo da silva (vigario de sao joao)
+
+         n$joana/f/id=o1658-2-per1
+            ls$idade/1 ano
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         pai$francisco alves/id=o1658-2-per2
+            ls$residencia/bairro
+
+         mae$maria henriques/id=o1658-2-per3
+            ls$residencia/bairro
+
+      obito$o1658-3/18/3/1658/fl.156/francisco de melo da silva (vigario de sao joao)
+
+         n$maria/f/id=o1658-3-per1
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         pai$pedro leitao/id=o1658-3-per2
+            ls$residencia/sobral
+
+      obito$o1658-4/22/3/1658/fl.156v./francisco de melo da silva (vigario de sao joao)
+
+         n$francisca fernandes/f/id=o1658-4-per1
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         locs$igreja de sao joao
+
+         oficios$sim
+
+      obito$o1658-5/26/5/1658/fl.156v./francisco de melo da silva (vigario de sao joao)
+
+         n$alvaro/m/id=o1658-5-per1
+
+         locs$adro da igreja de sao joao
+
+         pai$manuel dias/id=o1658-5-per2
+
+      obito$o1658-6/21/6/1658/fl.156v./francisco de melo da silva (vigario de sao joao)
+
+         n$domingas/f/id=o1658-6-per1
+            ls$naturalidade/arelho
+
+         locs$adro da igreja de sao joao
+
+         oficios$sim/obs=1 oficio
+
+         mae$maria francisca/id=o1658-6-per2
+
+      obito$o1658-7/28/6/1658/fl.156v./francisco de melo da silva (vigario de sao joao)
+
+         n$brites fernandes/f/id=o1658-7-per1
+            ls$ec/viuva
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim
+
+      obito$o1658-8/28/6/1658/fl.156v./francisco de melo da silva (vigario de sao joao)
+
+         n$maria ferreira/f/id=o1658-8-per1
+            ls$residencia/arelho
+
+            marido$miguel fernandes/id=o1658-8-per1-per2
+               ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         oficios$sim
+
+      obito$o1658-9/28/6/1658/fl.156v./francisco de melo da silva (vigario de sao joao)
+
+         n$leonarda jorge/f/id=o1658-9-per1
+            ls$ec/viuva
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$sim/obs=fez testamento nuncupativo/obs=deixou uma casinha para bens da sua alma; a margem diz que com o dinheiro da casa e que sobejou se lhe disse em missas. a casa foi vendida a domingos luis do sobral 400.
+
+         referido$domingos luis/id=o1658-9-per2
+            ls$residencia/sobral
+
+      obito$o1658-10/7/7/1658/fl.157/francisco de melo da silva (vigario de sao joao)
+
+         n$catarina francisca/f/id=o1658-10-per1
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim
+
+         marido$francisco fernandes/id=o1658-10-per2
+            ls$residencia/sobral
+
+      obito$o1658-11/9/8/1658/fl.157/francisco de melo da silva (vigario de sao joao)
+
+         n$madalena luis/f/id=o1658-11-per1
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         marido$domingos fernandes/id=o1658-11-per2
+            ls$residencia/sobral
+
+      obito$o1658-12/12/8/1658/fl.157/francisco de melo da silva (vigario de sao joao)
+
+         n$bernardo da horta/f/id=o1658-12-per1
+            ls$residencia/casal da charneca
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+      obito$o1659-1/18/2/1659/fl.157/francisco de melo da silva (vigario de sao joao)
+
+         n$maria dinis/f/id=o1659-1-per1
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios.
+
+         testamento$nao
+
+         marido$luis botelho/id=o1659-1-per2
+            ls$residencia/sobral
+
+      obito$o1659-2/14/4/1659/fl.157/francisco de melo da silva (vigario de sao joao)
+
+         n$pedro alves/m/id=o1659-2-per1
+            ls$residencia/arelho
+
+         locs$igreja de sao joao
+
+         oficios$sim/obs=3 oficios
+
+         testamento$nao
+
+      obito$o1659-3/25/9/1659/fl.157v./francisco de melo da silva (vigario de sao joao)
+
+         n$maria ferreira/f/id=o1659-3-per1
+            ls$ec/viuva
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+      obito$o1659-4/24/12/1659/fl.157v./francisco de melo da silva (vigario de sao joao)
+
+         n$barbara rodrigues/f/id=o1659-4-per1
+            ls$pobre/sim
+            ls$residencia/arelho
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+         marido$jorge fernandes/id=o1659-4-per2
+            ls$residencia/arelho
+
+      obito$o1660-1/23/1/1660/fl.157v./francisco de melo da silva (vigario de sao joao)
+
+         n$joao/m/id=o1660-1-per1
+            ls$residencia/bairro
+
+         locs$igreja de sao joao
+
+         oficios$sim
+
+         pai$jorge goncalves/id=o1660-1-per2
+            ls$residencia/bairro
+
+         mae$maria francisca/id=o1660-1-per3
+            ls$residencia/bairro
+
+      obito$o1660-2/30/5/1660/fl.157v./francisco de melo da silva (vigario de sao joao)
+
+         n$gaspar fernandes/m/id=o1660-2-per1
+            ls$residencia/sobral
+
+         locs$igreja de sao joao
+
+         oficios$sim
+
+         testamento$nao
+
+      obito$o1660-3/21/7/1660/fl.158/antonio lopes (padre)
+
+         n$antonio dias/m/id=o1660-3-per1
+
+         locs$igreja de sao joao
+
+         locf$arelho
+
+         oficios$sim
+
+         testamento$nao
+
+      obito$o1660-4/20/9/1660/fl.158/antonio lopes (padre)
+
+         n$domingas antunes/f/id=o1660-4-per1
+            ls$ec/viuva
+            ls$residencia/casal da calcada
+            ls$pobre/sim
+
+         locs$adro da igreja de sao joao

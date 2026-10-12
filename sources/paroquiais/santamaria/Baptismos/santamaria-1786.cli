@@ -1,0 +1,557 @@
+kleio$gacto2.str/prefix=stmaria
+   fonte$baptismos1786/baptismos/obs=a partir de imagens digitalizadas
+
+      bap$b1786-1/12/1/1786/fl.278/igreja de santa maria/joao carlos da silva
+
+         n$mauricio/m/id=b1786-1-n
+            ls$datanasc/17860101
+
+         pn$antonio ribeiro coimbra/id=b1786-1-per1
+            ls$residencia/a da gorda
+            ls$naturalidade/a da gorda
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria rosa monteiro/id=b1786-1-per2
+            ls$naturalidade/quinta da granja
+            ls$locbaptismo/freguesia de santa maria
+
+         pad$mauricio jose da silva/id=b1786-1-per3
+            ls$residencia/termo de obidos
+
+         mad$rosa margarida da conceicao/id=b1786-1-per4
+            ls$residencia/bombarral
+
+         procurador-mad$manuel soares/id=b1786-1-per5
+            ls$profissao/padre
+
+      bap$b1786-2/15/1/1786/fl.278/igreja de santa maria/joao carlos da silva
+
+         n$manuel/m/id=b1786-2-n
+            ls$datanasc/17851227
+
+         pn$manuel gomes/id=b1786-2-per1
+            ls$residencia/fraldeu
+            ls$naturalidade/fraldeu
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$luisa maria/id=b1786-2-per2
+            ls$naturalidade/peso
+            ls$freguesia/santa catarina, coutos de alcobaca
+            ls$locbaptismo/freguesia de santa catarina
+
+         pad$manuel luis/id=b1786-2-per3
+            rel$parentesco/tio/manuel/b1786-2-n
+            ls$residencia/casal da aboboreira
+
+         mad$angelica maria/id=b1786-2-per4
+            rel$parentesco/tia/manuel/b1786-2-n
+
+      bap$b1786-3/26/1/1786/fl.278/igreja de santa maria/joao carlos da silva
+
+         n$francisco/m/id=b1786-3-n
+            ls$datanasc/17860113
+
+         pn$jose antonio leal/id=b1786-3-per1
+            ls$residencia/arrabalde/obs=na parte lateral do texto esta escrito vila de obidos
+            ls$naturalidade/sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/ermida do lugar de a dos negros, freguesia de santa maria madalena
+
+         mn$clara joaquina de matos/obs=duvida clara ou lara/id=b1786-3-per2
+            ls$naturalidade/a dos negros
+            ls$freguesia/santa maria madalena
+            ls$locbaptismo/freguesia de santa maria madalena
+
+         pad$jose de matos/id=b1786-3-per3
+            ls$residencia/obidos/obs=na vila
+            ls$profissao/padre
+            ls$titulo/reverendo/obs=duvida
+            rel$parentesco/tio/francisco/b1786-3-n
+
+         mad$ana margarida de matos/id=b1786-3-per4
+            ls$residencia/obidos/obidos
+            rel$parentesco/tia/francisco/b1786-3-n
+
+      bap$1786-4/28/1/1786/fl.278v/igreja de santa maria/joao carlos da silva/obs=baptizou em necessidade.
+
+         n$jose/m/id=b1786-4-n
+            ls$enjeitado/sim/b1786-4-referido-1/obs=a porta de joaquim reis. no mesmo dia
+
+         pn$nome desconhecido/id=1786-4-per1
+
+         mn$nome desconhecido/id=1786-4-per2
+
+         referido$joaquim reis/id=b1786-4-referido-1
+            ls$residencia/moinho de agostinho goncalves, ribeira das caldas
+            rel$sociabilidade/achou a crianca/jose/b1786-4-n
+
+         referido$agostinho goncalves/obs=foi proprietario de um moinho/id=1786-4-per3
+
+         referida$rosa maria/id=b1786-4-referida
+            rel$sociabilidade/ama/jose/b1786-4-n
+
+         referido$manuel lopes/id=1786-4-per4
+            ls$residencia/obidos
+            rel$parentesco/marido/rosa maria/b1786-4-referida
+
+         pad$joaquim antonio de sequeira/id=1786-4-per5
+            ls$cargo/tesoureiro da igreja de santa maria
+
+      bap$1786-5/6/2/1786/fl.278v/igreja de santa maria/joao carlos da silva
+
+         n$jose maria/m/id=b1786-5-n
+            ls$enjeitado/sim/obs=a porta de teresa maria de jesus no mesmo dia
+
+         pn$nome desconhecido/id=1786-5-per1
+
+         mn$nome desconhecido/id=1786-5-per2
+
+         referida$teresa maria de jesus/id=1786-b5-teresa
+            ls$ec/v
+
+         referido$joao henriques/id=1786-5-per3
+            ls$residencia/gaeiras de nossa senhora da ajuda
+            ls$freguesia/sao tiago
+            ls$morto/antes
+            rel$parentesco/marido/teresa maria de jesus/1786-b5-teresa
+
+         referida$teresa maria/id=b1786-5-ama
+            rel$sociabilidade/ama/jose maria/b1786-5-n
+
+         referido$antonio pereira/id=1786-5-per4
+            rel$parentesco/marido/teresa maria/b1786-5-ama
+
+         pad$jose jacinto de arruda/obs=duvida na leitura do apelido/id=1786-5-per5
+            ls$cargo/procurador do concelho
+
+      bap$1786-6/19/2/1786/fl.278v/igreja de santa maria/joao carlos da silva
+
+         n$gertrudes/id=b1786-6-n
+            ls$datanasc/17860205
+
+         pn$manuel da silva/id=1786-6-per1
+            ls$residencia/casais de alentejo
+            ls$naturalidade/casal do freixo, freguesia de sao pedro do bom jesus do carvalhal
+            ls$locbaptismo/freguesia de sao pedro do bom jesus do carvalhal
+            ls$loccasamento/freguesia de santa maria madalena
+
+         mn$iria do rosario/id=1786-6-per2
+            ls$naturalidade/casal do avenal/obs=lugar da a dos negros
+            ls$freguesia/santa maria madalena
+            ls$locbaptismo/freguesia de santa maria madalena
+
+         pad$gregorio jose de castro/id=1786-6-per3
+            ls$residencia/obidos
+
+         mad$gertrudes teresa/id=1786-6-per4
+            rel$parentesco/tia/gertrudes/b1786-6-n
+
+      bap$1786-7/20/2/1786/fl.278v-279/igreja de santa maria/joao carlos da silva
+
+         n$joao/id=1786-7-per1
+            ls$datanasc/17860118
+
+         pn$tomas de aquino/id=1786-7-per2
+            ls$residencia/obidos, freguesia de santa maria
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria de jesus/id=1786-7-per3
+            ls$naturalidade/peniche/obs=vila
+            ls$locbaptismo/peniche/freguesia de sao pedro
+
+         pad$joao caetano ? de novais corte real e lemos/obs=duvida na leitura do apelido real/id=1786-7-per4
+            ls$residencia/alenquer
+
+         procurador-pad$jose antonio leal/id=1786-7-per5
+
+      bap$1786-8/13/3/1786/fl.279/igreja de santa maria/joao carlos da silva
+
+         n$jose maria/id=b1786-8-n
+            ls$enjeitado/sim/obs=a porta de luis carreira no mesmo dia
+
+         pn$nome desconhecido/id=1786-8-per1
+
+         mn$nome desconhecido/id=1786-8-per2
+
+         referido$luis carreira/id=1786-8-per3
+            ls$residencia/arrabalde/obs=em nota lateral vila
+            rel$sociabilidade/achou a crianca/jose maria/b1786-8-n
+
+         referida$rosa maria/id=1786-b8-rm
+            rel$sociabilidade/ama/jose maria/b1786-8-n
+
+         referido$manuel lopes/id=1786-8-per4
+            rel$parentesco/marido/rosa maria/1786-b8-rm
+            ls$residencia/arrabalde
+
+         pad$jose jacinto de arruda/mesmo_que=1786-5-per5/id=1786-8-per5
+            ls$cargo/procurador do concelho
+
+      bap$1786-9/22/3/1786/fl.279/igreja de santa maria/joao carlos da silva
+
+         n$jose maria/id=b1786-9-n
+            ls$enjeitado/sim/obs=a porta de manuel henriques em 17860310
+
+         pn$nome desconhecido/id=1786-9-per1
+
+         mn$nome desconhecido/id=1786-9-per2
+
+         referido$manuel henriques/id=b1786-9-manuel
+            ls$residencia/casal da agua boa, limite do reguengo pequeno
+            ls$residencia/freguesia de s. bartolomeu
+            rel$parentesco/marido/maria lourenca/1786-9-per4
+
+         referida$maria lourenca/id=1786-9-per4
+            rel$sociabilidade/ama/jose maria/b1786-9-n
+
+         pad$jose jacinto de arruda/mesmo_que=1786-5-per5/id=1786-9-per5
+            ls$cargo/procurador do concelho
+
+      bap$1786-10/26/3/1786/fl.279/igreja de santa maria/joao carlos da silva
+
+         n$manuel/id=1786-10-per1
+            ls$datanasc/17860313
+
+         pn$manuel da silva/id=1786-10-per2
+            ls$residencia/santa maria
+            ls$naturalidade/sedim, braga
+            ls$locbaptismo/braga, freguesia sao tiago
+            ls$loccasamento/freguesia santa maria
+
+         mn$rosa maria/id=1786-10-per3
+            ls$naturalidade/soto, freguesia de nossa senhora dos anjos
+            ls$locbaptismo/freguesia de nossa senhora dos anjos
+
+         pad$inacio de coito/id=1786-10-per4
+            ls$residencia/obidos
+
+      bap$1786-11/26/3/1786/fl.279v/igreja de santa maria/joao carlos da silva
+
+         n$gertrudes/id=1786-11-per1
+            ls$datanasc/17860312
+
+         pn$jose da costa/id=1786-11-per2
+            ls$residencia/quinta do fraldeu
+            ls$naturalidade/salgueirao/obs=duvida
+            ls$freguesia/carvalhal, freguesia do bom jesus de sao pedro
+            ls$locbaptismo/freguesia do bom jesus de sao pedro
+            ls$loccasamento/freguesia de santa maria
+
+         mn$gertrudes maria/id=1786-11-per3
+            ls$naturalidade/fraldeu
+            ls$locbaptismo/freguesia de santa maria
+
+         pad$manuel de sequeira/id=1786-11-per4
+            ls$residencia/fraldeu
+
+         mad$mariana rosa leal/id=1786-11-per5
+            ls$residencia/obidos
+
+      bap$1786-12/26/3/1786/fl.279v/igreja de santa maria/joao carlos da silva
+
+         n$felipe/id=1786-12-per1
+            ls$datanasc/17860305
+
+         pn$inacio francisco/id=1786-12-per2
+            ls$residencia/a da gorda
+            ls$naturalidade/a da gorda
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de sao bartolomeu
+
+         mn$felipa maria/id=1786-12-per3
+            ls$naturalidade/reguengo pequeno
+            ls$locbaptismo/freguesia de sao bartolomeu/obs=termo da vila
+
+         pad$pedro francisco/id=1786-12-per4
+            ls$residencia/lisboa
+
+         procurador-pad$felipe jose/id=1786-12-per5
+
+      bap$1786-13/25/4/1786/fl.279v/igreja de santa maria/joao carlos da silva
+
+         n$joaquina/id=1786-b13-j
+            ls$datanasc/17860307
+
+         pn$domingos antonio/id=1786-13-per1
+            ls$residencia/a da gorda
+            ls$naturalidade/carregal, freguesia de sao joao de mocharro
+            ls$locbaptismo/sao joao de mocharro
+            ls$loccasamento/freguesia de santa maria
+
+         mn$marcelina rosa/id=1786-13-per2
+            ls$naturalidade/po
+            ls$freguesia/nossa senhora da purificacao
+            ls$locbaptismo/freguesia de nossa senhora da purificacao
+
+         pad$inacio francisco/id=1786-13-per3
+            ls$cargo/soldado do regimento de peniche
+            rel$parentesco/tio/joaquina/1786-b13-j
+
+      bap$1786-14/16/5/1786/fl.280/igreja de santa maria/joao carlos da silva
+
+         n$maria de sao jose/id=b1786-14-n
+            ls$enjeitada/sim/obs=a porta de ana da conceicao. no mesmo dia
+
+         pn$nome desconhecido/id=1786-14-per1
+
+         mn$nome desconhecido/id=1786-14-per2
+
+         referida$ana da conceicao/id=1786-b14-ana
+            rel$sociabilidade/achou a crianca/maria de sao jose/b1786-14-n
+
+         referido$joao pedro moreiro/id=1786-14-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/ana da conceicao/1786-b14-ana
+
+         referida$joana maria/obs=duvida/id=1786-b14jm#acrescentada esta ama no fim do registo. primeiro o padre dissera que a ama fora ana da conceicao
+            rel$sociabilidade/ama/maria de sao jose/b1786-14-n
+
+         referido$sou gomes/obs=duvida sou/id=1786-14-per4
+            ls$residencia/moinho de matatripas
+            rel$parentesco/marido/joana maria/1786-b14jm
+
+         pad$jose jacinto de arruda/mesmo_que=1786-5-per5/id=1786-14-per5
+            ls$cargo/procurador do concelho
+
+      bap$1786-15/16/5/1786/fl.280/igreja de santa maria/joao carlos da silva
+
+         n$maria jose/id=b1786-15-n
+            ls$enjeitada/sim/obs=a porta de jose alves. em 17860514
+
+         pn$nome desconhecido/id=1786-15-per1
+
+         mn$nome desconhecido/id=1786-15-per2
+
+         referido$jose alves/id=1786-15-per3
+            ls$residencia/casal de santa cecilia, formigal/obs=junto ao lugar do furmigal, termo da vila
+            rel$sociabilidade/achou a crianca/maria jose/b1786-15-n
+
+         referida$maria antonia/id=1786-b15-ma
+            rel$sociabilidade/ama/maria jose/b1786-15-n
+
+         referido$vicente ferreira/id=1786-15-per4
+            ls$residencia/obidos
+            rel$parentesco/marido/maria antonia/1786-b15-ma
+
+         pad$jose jacinto de arruda/mesmo_que=1786-5-per5/id=1786-15-per5
+            ls$cargo/procurador do concelho
+
+      bap$1786-16/21/5/1786/fl.280/igreja de santa maria/joao carlos da silva
+
+         n$jose maria/id=b1786-16-n
+            ls$enjeitado/sim/obs=a porta de jose francisco.em 17860520
+
+         pn$nome desconhecido/id=1786-16-per1
+
+         mn$nome desconhecido/id=1786-16-per2
+
+         referido$jose francisco/id=1786-16-per3
+            ls$residencia/casal da figueira/obs= termo da vila
+            rel$parentesco/marido/maria catarina/1786-16-per4
+            rel$sociabilidade/achou a crianca/jose maria/b1786-16-n
+
+         referida$maria catarina/id=1786-16-per4
+            rel$sociabilidade/ama/jose maria/b1786-16-n
+
+         pad$jose jacinto de arruda/mesmo_que=1786-5-per5/id=1786-16-per5
+            ls$cargo/procurador do concelho
+
+      bap$1786-17/29/5/1786/fl.280-280v/igreja de santa maria/joao carlos da silva
+
+         n$jose maria/id=b1786-17-n
+            ls$enjeitado/sim/obs=a porta de domingos ferreira%trazia uma cedula em que dizia o tratasem com amor e lhe puzesem por nome joze e que a seu tempo se pagaria a criacaoe
+
+         pn$nome desconhecido/id=1786-17-per1
+
+         mn$nome desconhecido/id=1786-17-per2
+
+         referido$domingos ferreira/id=1786-17-per3
+            ls$cargo/ermitao
+            ls$residencia/ermida de sao bento/obs=limite da vila
+            rel$sociabilidade/achou a crianca/jose maria/b1786-17-n
+
+         referida$ana maria/id=1786-b17-ana
+            rel$sociabilidade/ama/jose maria/b1786-17-n
+
+         referido$jose henriques/id=1786-17-per4
+            ls$residencia/usseira/obs=duvida
+            rel$parentesco/marido/ana maria/1786-b17-ana
+
+         pad$jose jacinto de arruda/mesmo_que=1786-5-per5/id=1786-17-per5
+            ls$cargo/procurador do concelho
+
+      bap$1786-18/2/6/1786/fl.280v/igreja de santa maria/joao carlos da silva
+
+         n$jose maria/m/id=b1786-18-n
+            ls$enjeitado/sim/obs=a porta de estevao da costa em 17860601
+
+         pn$nome desconhecido/id=1786-18-per1
+
+         mn$nome desconhecido/id=1786-18-per2
+
+         referido$estevao da costa/id=b1786-18-referido-1
+            ls$profissao/forneiro/obs=duvida
+            ls$residencia/santa maria
+            rel$sociabilidade/achou a crianca/jose maria/b1786-18-n
+
+         referida$custodia maria/id=b1786-18-custodia
+            rel$sociabilidade/ama/jose maria/b1786-18-n
+
+         referido$policarpio gomes/id=1786-18-per3
+            ls$residencia/sao mamede/obs=termo da vila
+            rel$parentesco/marido/custodia maria/b1786-18-custodia
+
+         pad$jose jacinto de arruda/id=1786-18-per4
+            ls$cargo/procurador do concelho
+
+      bap$1786-19/7/6/1786/fl.280v/igreja de santa maria/joao carlos da silva/obs=pos os santos oleos na igreja, mas antes baptizou em casa. baptismo in extremis.
+
+         n$jose/m/id=b1786-19-n
+            ls$datanasc/17860531
+
+         pn$joaquim claudio da silva freire/id=1786-19-per1
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/capela de nossa senhora da graça/obs=na vila. anexa a freguesia de santa maria
+            ls$residencia/santa maria
+
+         mn$maria rita do carmo e sequeira/id=1786-19-per2
+            ls$titulo/dona
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+
+         referido$manuel soares/id=1786-19-per3
+            ls$profissao/padre
+            ls$titulo/reverendo
+            ls$residencia/obidos
+            rel$sociabilidade/baptizou em necessidade/jose/b1786-19-n
+
+         pad$cristovao jose da serra soto maior/id=1786-19-per4
+            ls$residencia/obidos
+
+         procurador-pad$jose pedro do avelar salgado ayala/id=1786-19-per5
+
+      bap$1786-20/14/8/1786/fl.280v-281/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=1786-20-per1
+            ls$datanasc/17860801
+
+         pn$silvestre goncalves de campos/id=1786-20-per2
+            ls$naturalidade/barca
+            ls$freguesia/entre os rios, freguesia de s.miguel
+            ls$locbaptismo/freguesia de sao miguel, arcebispado de braga/obs=concelho da barca
+            ls$loccasamento/freguesia de sao pedro
+            ls$residencia/freguesia de santa maria
+
+         mn$josefa teresa do carmo/id=1786-20-per3
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pad$diogo jose de arruda/id=1786-20-per4
+            ls$profissao/padre
+            ls$titulo/reverendo
+            ls$residencia/obidos
+
+         mad$maria da conceicao/id=1786-20-per5
+            ls$residencia/obidos
+
+      bap$1786-21/1/10/1786/fl.281/igreja de santa maria/joao carlos da silva
+
+         n$maria/f/id=1786-21-per1
+            ls$datanasc/17860718
+
+         pn$antonio joaquim furtado/id=1786-21-per2
+            ls$residencia/sao pedro/obs=duvida
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago/obs=duvida
+
+         mn$joaquina rosa/id=1786-21-per3
+            ls$naturalidade/cartaxo
+            ls$freguesia/sao joao baptista
+            ls$locbaptismo/freguesia de sao joao baptista
+
+         pad$jose jacinto de arruda e avelar/id=1786-21-per4
+            ls$residencia/obidos
+
+         mad$joaquina barbara da conceicao e melo/id=1786-21-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         procurador-mad$francisco inacio furtado/id=1786-21-per6
+
+      bap$1786-22/29/10/1786/fl.281/igreja de santa maria/joao carlos da silva
+
+         n$cipriano/id=1786-22-per1
+            ls$datanasc/17861012
+
+         pn$vitorino jose da costa/id=1786-22-per2
+            ls$residencia/gaeiras
+            ls$naturalidade/gaeiras de sao marcos
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$ana maria/id=1786-22-per3
+            ls$naturalidade/casal do convento
+
+         pad$francisco dos santos coelho/id=b1786-22-pad
+            ls$residencia/peniche
+
+         mad$violante maria/id=1786-22-per4
+            ls$residencia/gaeiras
+
+         procurador-pad$teotonio dos santos/id=1786-22-per5
+            ls$residencia/gaeiras
+            rel$parentesco/pai/francisco dos santos coelho/b1786-22-pad
+
+      bap$1786-23/12/11/1786/fl.281v/igreja de santa maria/jose luis fialho de mendonca paroco na igreja de sao pedro
+
+         n$jose/m/id=1786-23-per1
+            ls$datanasc/17861104
+
+         pn$joaquim luis/id=1786-23-per2
+            ls$naturalidade/alvorninha, couto de alcobaca
+            ls$freguesia/nossa senhora da conceicao
+            ls$locbaptismo/alvorninha, freguesia de nossa senhora da conceicao
+            ls$loccasamento/freguesia de santa maria
+            ls$residencia/santa maria
+
+         mn$ana maria do carmo/id=1786-23-per3
+            ls$naturalidade/sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+
+         pad$jose de freitas e paiva/id=1786-23-per4
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$cargo/beneficiado da igreja de sao tiago
+
+         mad$maria gertrudes/id=b1786-23-mad
+            ls$residencia/obidos
+
+         procurador-pad$jose francisco/id=1786-23-per5
+
+            referido$manuel francisco/id=1786-23-per5-per6
+               rel$parentesco/pai/maria gertrudes/b1786-23-mad
+
+      bap$1786-24/10/12/1786/fl.281v/igreja de santa maria/joao carlos da silva
+
+         n$rita/f/id=1786-24-per1
+            ls$datanasc/17861126
+
+         pn$agostinho goncalves/id=1786-24-per2
+            ls$residencia/casal do zambujeiro
+            ls$naturalidade/casal do zambujeiro
+            ls$locbaptismo/freguesa de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria vicencia/id=1786-24-per3
+            ls$naturalidade/lisboa
+            ls$freguesia/santa isabel
+            ls$locbaptismo/freguesia de santa isabel
+
+         pad$bras manuel madeira/id=1786-24-per4
+            ls$residencia/quinta de vale das flores

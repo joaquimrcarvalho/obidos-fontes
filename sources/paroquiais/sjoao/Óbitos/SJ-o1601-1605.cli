@@ -1,0 +1,340 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$obitos1601-1605/localizacao-a.d.l./freguesia de sao joao
+
+      obito$o1601-1/13/3/1601/fl.92v./nome desconhecido
+
+         n$barnabe luis/m/id=o1601-1-per1
+
+      obito$o1601-2/25/4/1601/fl.92v./nome desconhecido
+
+         n$isabel fernandes/f/id=o1601-2-n
+
+      obito$o1601-3/30/4/1601/fl.92v./nome desconhecido
+
+         n$isabel/f/id=o1601-3-n
+
+            mae$isabel fernandes/mesmo_que=o1601-2-n/id=o1601-3-n-per1
+
+            referido$joao luis/id=o1601-3-n-per2
+               rel$sociabilidade/testamenteiro/isabel/o1601-2-n
+               rel$sociabilidade/herdeiro/isabel/o1601-2-n
+
+      obito$o1601-4/10/5/1601/fl.92v./nome desconhecido
+
+         n$domingas jorge/f/id=o1601-4-per1
+
+            marido$gaspar franco/id=o1601-4-per1-per2
+
+      obito$o1601-5/13/5/1601/fl.92v./nome desconhecido
+
+         n$antonia fernandes/f/id=o1601-5-per1
+            ls$residencia/arelho
+
+            marido$pedro fernandes/id=o1601-5-per1-per2
+               ls$profissao/lavrador
+               ls$residencia/arelho
+
+      obito$o1601-6/15/5/1601/fl.92v./nome desconhecido
+
+         n$violante rodrigues/f/id=o1601-6-per1
+            ls$alcunha/barrantes
+
+      obito$o1601-7/15/5/1601/fl.92v./nome desconhecido
+
+         n$maria/f/id=o1601-7-per1
+
+            mae$domingas jorge/id=o1601-7-per1-per2
+
+      obito$o1601-8/18/5/1601/fl.92v./nome desconhecido
+
+         n$afonso/m/id=o1601-8-per1
+
+            pai$joao franco/id=o1601-8-per1-per2
+
+      obito$o1601-9/18/5/1601/fl.93/nome desconhecido
+
+         n$adao vicente/m/id=o1601-9-per1
+            ls$residencia/arelho
+
+            mulher$? simoa/id=o1601-9-per1-per2
+
+      obito$o1601-10/18/5/1601/fl.93/nome desconhecido
+
+         n$catarina fernandes/f/id=o1601-10-per1
+
+            marido$joao franco/id=o1601-10-per1-per2
+
+      obito$o1601-11/18/5/1601/fl.93/nome desconhecido
+
+         n$gaspar dias/m/id=o1601-11-per1
+
+            mae$maria fernandes/id=o1601-11-per1-per2
+
+      obito$o1601-12/22/5/1601/fl.93/nome desconhecido
+
+         n$francisco pires/m/id=o1601-12-per1
+            ls$profissao/lavrador
+            ls$residencia/arelho
+
+      obito$o1601-13/22/5/1601/fl.93/nome desconhecido
+
+         n$simao lopes/m/id=o1601-13-per1
+            ls$residencia/arelho
+
+      obito$o1601-14/22/5/1601/fl.93/nome desconhecido
+
+         n$roque goncalves/m/id=o1601-14-per1
+            ls$residencia/carregal
+
+      obito$o1601-15/23/5/1601/fl.93/nome desconhecido
+
+         n$maria ferreira/f/id=o1601-15-per1
+
+            marido$antonio bras/id=o1601-15-per1-per2
+
+      obito$o1601-16/23/5/1601/fl.93/nome desconhecido
+
+         n$branca dias/f/id=o1601-16-per1
+            ls$residencia/arelho
+
+      obito$o1601-17/24/5/1601/fl.93/nome desconhecido
+
+         n$maria luis/f/id=o1601-17-per1
+
+            marido$antonio dias/id=o1601-17-per1-per2
+
+      obito$o1601-18/28/5/1601/fl.93/nome desconhecido
+
+         n$gracia fernandes/f/id=o1601-18-per1
+            ls$residencia/carregal
+
+            marido$estevao dias/id=o1601-18-per1-per2
+               ls$residencia/carregal
+
+      obito$o1601-19/10/6/1601/fl.93/nome desconhecido
+
+         n$luisa goncalves/f/id=o1601-19-n
+            ls$ec/solteira/obs=mulher que nao casou
+
+         oficios$sim. mandou dizer 10 missas por sua alma
+
+         referido$belchior goncalves/id=o1601-19-per1
+            rel$parentesco/irmao/luisa goncalves/o1601-19-n
+            rel$sociabilidade/herdeiro/luisa goncalves/o1601-19-n
+
+      obito$o1601-20/11/6/1601/fl.93/nome desconhecido
+
+         n$pedro alves/m/id=o1601-20-per1
+            ls$alcunha/o velho
+            ls$residencia/carregal
+
+      obito$o1601-21/12/6/1601/fl.93/nome desconhecido
+
+         n$jeronima fernandes/f/id=o1601-21-per1
+            ls$residencia/arelho
+
+            marido$diogo fernandes%dº frz/id=o1601-21-per1-per2
+               ls$residencia/arelho
+
+      obito$o1601-22/14/6/1601/fl.93/nome desconhecido
+
+         n$ambrozio dias/m/id=o1601-22-per1
+            ls$residencia/arelho
+
+      obito$o1601-23/16/7/1601/fl.93/nome desconhecido
+
+         n$domingas simoa/f/id=o1601-23-per1
+            ls$residencia/arelho
+
+            marido$antonio vicente/id=o1601-23-per1-per2
+               ls$residencia/arelho
+
+      obito$o1601-24/20/8/1601/fl.93/nome desconhecido
+
+         n$afonso alves/m/id=o1601-24-per1
+            ls$residencia/ribeira das caldas
+
+         locs$igreja de sao joao
+
+         oficios$sim. 1 oficio em sao tiago e 2 na igreja de sao joao
+
+      obito$o1601-25/28/10/1601/fl.93/nome desconhecido
+
+         n$isabel rodrigues/f/id=o1601-25-per1
+
+         locs$adro da igreja de sao joao
+
+         oficios$sim
+
+         marido$domingos fernandes/id=o1601-25-marido
+            ls$alcunha/o brougueiro/obs=no registo consta o seguinte: "he obrigado o mesmo domigos fernandes a mandar fazer tres officios pella alma de sua filha francisca leitoa por hum conceito que fes com seu marido ? que lhe deixou a fazenda"
+
+         referida$francisca leitoa/id=o1601-25-per2
+            rel$parentesco/filha/domingos fernandes/o1601-25-marido
+
+      obito$o1602-1/25/2/1602/fl.93/nome desconhecido
+
+         n$maria ferreira/f/id=o1602-1-per1
+            ls$residencia/arelho
+
+         locs$igreja de sao joao, porta principal, entrando a mao direita
+
+         marido$silvestre bras/id=o1602-1-per2
+            ls$residencia/arelho
+
+      obito$o1602-2/6/5/1602/fl.93/nome desconhecido
+
+         n$antonio bras salgueiro/m/id=o1602-2-per1
+
+         testamento$nao
+
+         locs$igreja de sao joao, no pateo da porta principal
+
+      obito$o1602-3/13/7/1602/fl.93v./nome desconhecido
+
+         n$catariua dias/f/id=o1602-3-per1
+            ls$residencia/carregal
+
+         locs$igreja de sao joao, na porta do sol no caminho que vai para o sobral
+
+         pai$estevao dias/id=o1602-3-per2
+            ls$alcunha/o velho
+            ls$residencia/carregal
+
+      obito$o1603-1/28/1/1603/fl.93v./nome desconhecido
+
+         n$beatriz henriques/f/id=o1603-1-per1
+            ls$residencia/arelho
+
+            marido$estevao dias/id=o1603-1-per1-per2
+               ls$residencia/arelho
+               ls$alcunha/o moco
+
+      obito$o1603-2/23/2/1603/fl.93v./nome desconhecido
+
+         n$mateus antunes/m/id=o1603-2-per1
+            ls$residencia/arelho
+
+      obito$o1603-3/4/8/1603/fl.93v./nome desconhecido
+
+         n$alvaro anes/m/id=o1603-3-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+      obito$o1603-4/30/8/1603/fl.93v./nome desconhecido
+
+         n$beatriz fernandes/f/id=o1603-4-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         marido$leonardo leitao/id=o1603-4-per2
+            ls$residencia/sobral
+
+      obito$o1603-5/4/9/1603/fl.93v./nome desconhecido
+
+         n$beatriz ferreira/f/id=o1603-5-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         marido$alvaro anes/id=o1603-5-per2
+            ls$residencia/sobral
+
+      obito$o1604-1/9/2/1604/fl.93v./nome desconhecido
+
+         n$francisca simoa/f/id=o1604-1-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         referido$francisco fernandes/id=o1604-1-per1
+            rel$parentesco/irmao/francisca simoa/o1604-1-n/obs=ficou encarregue da alma da sua irma para cumprir com as suas obrigações
+            ls$profissao/hortelao
+
+      obito$o1604-2/12/10/1604/fl.93v./nome desconhecido
+
+         n$andresa dias/f/id=o1604-2-per1
+            ls$residencia/sobral da lagoa
+
+         locs$adro da igreja de sao joao
+
+         marido$pedro leitao/id=o1604-2-per2
+            ls$residencia/sobral da lagoa
+
+      obito$o1605-1/25/4/1605/fl.93v./nome desconhecido
+
+         n$joana dias/f/id=o1605-1-per1
+            ls$residencia/bairro
+
+         locs$pateo da igreja de sao joao
+
+         marido$estevao correia/id=o1605-1-per2
+            ls$residencia/bairro
+
+         mae$guiomar dias/mesmo_que=o1605-3-n/id=o1605-1-per3
+
+      obito$o1605-2/26/4/1605/fl.93v./nome desconhecido
+
+         n$maria alves/f/id=o1605-2-per1
+            ls$residencia/bairro
+
+         locs$pateo da igreja de sao joao
+
+         mae$guiomar dias/mesmo_que=o1605-3-n/id=o1605-2-per2
+
+         marido$pedro fernandes/id=o1605-2-per3
+            ls$residencia/bairro
+
+      obito$o1605-3/28/4/1605/fl.93v./nome desconhecido
+
+         n$guiomar dias/f/id=o1605-3-n
+            ls$residencia/bairro
+
+         locs$pateo da igreja de sao joao
+
+         marido$joao alves/id=o1605-3-per1
+            ls$alcunha/o velho
+            ls$residencia/bairro
+
+      obito$o1605-4/8/5/1605/fl.94/nome desconhecido
+
+         n$baltazar afonso/m/obs=duvida na leitura do nome/id=o1605-4-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+      obito$o1605-5/15/5/1605/fl.94/nome desconhecido
+
+         n$ana goncalves/f/id=o1605-5-per1
+            ls$residencia/bairro
+
+         testamento$nao
+
+         locs$pateo da igreja de sao joao
+
+         marido$domingos dias/id=o1605-5-per2
+            ls$residencia/bairro
+
+      obito$o1605-6/25/5/1605/fl.94/nome desconhecido
+
+         n$maria carvalho/f/id=o1605-6-per1
+            ls$residencia/bairro
+
+         testamento$nao
+
+         locs$pateo da igreja de sao joao
+
+         marido$simao luis/id=o1605-6-per2
+            ls$residencia/bairro
+
+      obito$o1605-7/15/8/1605/fl.94/nome desconhecido
+
+         n$jeronima dias/f/id=o1605-7-per1
+            ls$residencia/sobral
+
+         testamento$nao
+
+         marido$antonio pires/id=o1605-7-per2
+            ls$residencia/sobral

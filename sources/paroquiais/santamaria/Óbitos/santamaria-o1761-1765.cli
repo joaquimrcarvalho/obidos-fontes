@@ -1,0 +1,1871 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1761-1765/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1761-1/10/1/1761/fl.40/isidoro coelho de sampaio (cura)
+
+         n$maria teresa de leao/f/id=o1761-1-per1
+            ls$residencia/obidos
+            ls$ec/s/obs=mulher solteira
+            ls$ec/s
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na segunda sepultura junto as escadas que sobem para a sacristia/obs=foi amortalhada no habito de sao francisco
+
+      obito$o1761-2/19/1/1761/fl.40/isidoro coelho de sampaio (cura)/obs=o livro foi visto em visitacao de 28 de janeiro de 1761. e dito que os assentos estao conformes.
+
+         n$rosa/f/id=o1761-2-n
+            ls$enjeitada/sim/obs=inocente, menina. filha de pais incognitos
+
+         locs$adro da igreja de santa maria
+
+         pai$nome desconhecido/id=o1761-2-per1
+
+         mae$nome desconhecido/id=o1761-2-per2
+
+         referida$isabel teresa/id=o1761-2-per3
+            ls$residencia/bairro
+            rel$sociabilidade/ama/rosa/o1761-2-n
+
+         referido$caetano da cunha e cruz/id=o1761-2-per4
+            ls$cargo/procurador do concelho
+
+      obito$o1761-3/26/1/1761/fl.40v./isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1761-3-per1
+            ls$idade_aprox/menor/obs=inocente, menino
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na nave de sao bras junto a porta da capela de sao lourenco
+
+         pai$luis jose/id=o1761-3-per2
+            ls$residencia/obidos, freguesia de santa maria
+
+         mae$joaquina de santa ana/id=o1761-3-per3
+            ls$residencia/obidos, freguesia de santa maria
+
+      obito$o1761-4/5/2/1761/fl.40v./isidoro coelho de sampaio (cura)
+
+         n$gregoria francisca/f/id=o1761-4-per1
+            ls$residencia/gaeiras de sao marcos
+            ls$pobre/sim
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na primeira sepultura junto a parede da segunda carreira por baixo das escadas que sobem a sacristia/obs=foi amortalhada num lencol
+
+         marido$miguel ribeiro/id=o1761-4-per2
+            ls$morto/antes
+
+      obito$o1761-5/4/3/1761/fl.40v./isidoro coelho de sampaio (cura)
+
+         n$vicente/m/id=o1761-5-per1
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de santa maria, na cova que esta entre as grades e coluna da nave de sao bras
+
+         pai$timoteo jorge de castro/id=o1761-5-per2
+            ls$residencia/arrabalde
+
+         mae$maria rosa/id=o1761-5-per3
+            ls$residencia/arrabalde
+
+      obito$o1761-6/10/3/1761/fl.41/isidoro coelho de sampaio (cura)
+
+         n$mariana de oliveira/f/obs=mulher velha/id=o1761-6-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim/obs=uncao, nao recebeu os restantes sacramentos por "nao poder"
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na terceira sepultura da parte da parede e segunda carreira abaixo das escadas que sobem para o cruzeiro/obs=oi sepultada no dia seguinte num lencol
+
+      obito$o1761-7a/13/3/1761/fl.41/isidoro coelho de sampaio (cura)
+
+         n$tomas da cunha/m/id=o1761-7a-per1
+            ls$residencia/gaeiras de sao marcos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina ao pe da pia da agua benta da porta do sol junto a parede/obs=foi amortalhado no habito de sao francisco
+
+         mulher$maria rosa/id=o1761-7a-per2
+
+      obito$o1761-6a/19/3/1761/fl.41/isidoro coelho de sampaio (cura)
+
+         n$doroteia/f/id=o1761-6a-n
+            ls$idade_aprox/menor/obs=inocente, menina
+            ls$enjeitada/sim
+            ls$residencia/ribeira de fraldeu
+
+         locs$adro da igreja de santa maria
+
+         referida$maria de andrade/id=o1761-6a-referida
+            ls$residencia/ribeira de fraldeu
+            rel$sociabilidade/ama/doroteia/o1781-6a-n
+
+         referido$manuel da silva/id=o1761-6a-per1
+            ls$residencia/ribeira de fraldeu
+            rel$parentesco/marido/maria de andrade/o1761-6a-referida
+
+      obito$o1761-7/13/4/1761/fl.41v./isidoro coelho de sampaio (cura)
+
+         n$nome desconhecido/f/obs= uma menina que tinha falecido ha quatro dias e foi baptizada em casa./id=o1761-7-per1
+            ls$locbaptismo/em casa
+            ls$residencia/gaeiras
+
+         locs$adro da igreja de santa maria
+
+         pai$mateus ferreira/id=o1761-7-per2
+            ls$residencia/gaeiras
+            ls$freguesia/santa maria
+
+         mae$mariana teresa/id=o1761-7-per3
+            ls$residencia/gaeiras
+            ls$freguesia/santa maria
+
+      obito$o1761-8/15/4/1761/fl.41v./isidoro coelho de sampaio (cura)
+
+         n$maria de aguiar/f/obs=mulher velha e solteira, criada das duas religiosas que naquele tempo assistiam em obidos na casa do prior de sao joao, joao bras antunes correia. foi amortalhada no habito das mesmas religiosas/id=o1761-8-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$ec/s
+            ls$profissao/criada
+            rel$profissional/criada/antonia jacinta/o1761-8-referida
+            rel$profissional/criada/teresa faustina/o1761-8-faustina
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na sepultura que esta entre o confessionario e a escada que sobe para o pulpito
+
+         referida$antonia jacinta/id=o1761-8-referida
+            ls$titulo/dona
+            ls$titulo/religiosa/obs=do convento de santa clara da cidade de lisboa
+            ls$residencia/obidos, casa de joao bras antunes correia
+
+         referida$teresa faustina/id=o1761-8-faustina
+            ls$titulo/dona
+            ls$titulo/religiosa/obs=do convento de santa clara da cidade de lisboa
+            ls$residencia/obidos, casa de joao bras antunes correia
+
+         referido$joao bras antunes correia/id=o1761-8-per2
+            ls$titulo/reverendo
+            ls$cargo/prior de sao joao
+            ls$residencia/obidos, freguesia de santa maria
+
+      obito$o1761-9/15/5/1761/fl.41v./isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1761-9-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         sacr$sim/obs=uncao
+
+         locs$dentro da igreja de santa maria, numa sepultura que esta entre o pulpito e o confessionario
+
+         pai$antonio henriques/id=o1761-9-per2
+            ls$residencia/gaeiras
+
+         mae$luzia maria/id=o1761-9-per3
+            ls$residencia/gaeiras
+
+      obito$o1761-10/29/5/1761/fl.42/isidoro coelho de sampaio (cura)
+
+         n$josefa maria henriques/f/id=o1761-10-per1
+            ls$residencia/arrabalde
+            ls$ec/v
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na nave do meio na sepultura que esta junto a coxia da carreira entre o pulpito e o confessionario/obs=faleceu de noite, de repente. foi sepultada no dia seguinte. foi amortalhada no habito de sao francisco
+
+         oficios$3 oficios
+
+         marido$manuel jorge/id=o1761-10-per2
+            ls$morto/antes
+            ls$cargo/tenente
+
+      obito$o1761-11/4/6/1761/fl.42/isidoro coelho de sampaio (cura)
+
+         n$caetano/m/id=o1761-11-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=menino, filho de pais incognitos
+
+         locs$adro da igreja de santa maria
+
+         referida$arcangela maria/id=o1761-11-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/caetano/o1761-11-n
+
+         referido$valentim jose/id=o1761-11-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/arcangela maria/o1761-11-referida
+
+      obito$o1761-12/9/6/1761/fl.42/isidoro coelho de sampaio (cura)
+
+         n$ana joaquina/f/id=o1761-12-per1
+            ls$residencia/gaeiras
+            ls$freguesia/santa maria
+
+         sacr$sim
+
+         locs$igreja do convento de sao miguel das gaeiras, num caixao/obs=foi sepultado aos 10 de junho. foi amortalhada no habito de sao francisco
+
+         marido$jose jeronimo furtado/id=o1761-12-per2
+            ls$residencia/gaeiras
+
+      obito$o1761-13/22/6/1761/fl.42v./isidoro coelho de sampaio (cura)
+
+         n$ana/f/id=o1761-13-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/gaeiras
+            ls$locbaptismo/em casa
+
+         locs$dentro da igreja de santa maria, na nave do meio numa sepultura por baixo do arco do coro da parte de sao bras, num caixao
+
+         pai$jose jeronimo furtado/id=o1761-13-per2
+            ls$ec/v
+            ls$residencia/gaeiras
+
+         mae$ana joaquina/id=o1761-13-per3
+            ls$residencia/gaeiras
+
+      obito$o1761-14/1/7/1761/fl.42v./isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1761-14-per1
+            ls$idade_aprox/menor/obs=inocente
+
+         locs$dentro da igreja de santa maria, na nave do meio por baixo do coro da parte de sao bras
+
+         pai$domingos ferreira/id=o1761-14-per2
+            ls$residencia/casais de alentejo
+
+         mae$maria gomes/id=o1761-14-per3
+            ls$residencia/casais de alentejo
+
+      obito$o1761-15/4/7/1761/fl.42v./isidoro coelho de sampaio (cura)
+
+         n$manuel goncalves/m/id=o1761-15-per1
+            ls$pobre/sim
+            ls$residencia/senhor da pedra
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio, numa sepultura junto a coxia da parte de santa catarina na carreira por baixo do confessionario/obs=foi amortalhado no habito de sao francisco
+
+         mulher$vitoria luisa/id=o1761-15-per2
+
+      obito$o1761-16/11/7/1761/fl.43/isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1761-16-n
+            ls$residencia/gaeiras
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=menino, filho de pais incognitos
+
+            pai$nome desconhecido/id=o1761-16-n-per1
+
+            mae$nome desconhecido/id=o1761-16-n-per2
+
+            referida$josefa maria/id=o1761-16-referida
+               ls$residencia/gaeiras
+               rel$sociabilidade/ama/jose/o1761-16-n
+
+            referido$amaro francisco/id=o1761-16-n-per3
+               ls$residencia/gaeiras
+               rel$parentesco/marido/josefa maria/o1761-16-referida
+
+      obito$o1761-17/13/7/1761/fl.43/isidoro coelho de sampaio (cura)
+
+         n$francisco/m/id=o1761-17-per1
+            ls$idade_aprox/menor/obs=menino
+            ls$residencia/moinho do lagar
+
+         locs$igreja de santa maria, na nave do meio numa sepultura por baixo da parte de sao bras
+
+         pai$manuel francisco/id=o1761-17-per2
+            ls$residencia/moinho do lagar, freguesia de santa maria
+
+         mae$maria madalena/id=o1761-17-per3
+            ls$residencia/moinho do lagar, freguesia de santa maria
+
+      obito$o1761-18/18/7/1761/fl.43/isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1761-18-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na nave do meio por baixo do coro da parte de santa catarina
+
+         pai$antonio dos reis/id=o1761-18-per2
+            ls$residencia/obidos
+
+         mae$antonia joaquina/id=o1761-18-per3
+            ls$residencia/obidos
+
+      obito$o1761-19/27/7/1761/fl.43v./isidoro coelho de sampaio (cura)
+
+         n$josefa de oliveira/f/id=o1761-19-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$ec/s/obs=mulher solteira e cega
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio numa sepultura que esta debaixo do pulpito/obs=foi amortalhada num lencol
+
+      obito$o1761-20/29/7/1761/fl.43v./isidoro coelho de sampaio (cura)
+
+         n$joana/f/id=o1761-20-n
+            ls$enjeitada/sim/obs=inocente, menina
+            ls$residencia/obidos
+
+         locs$adro da igreja de santa maria
+
+         referida$josefa de oliveira/id=o1761-20-per1
+            rel$sociabilidade/ama/joana/o1761-20-n
+
+      obito$o1761-21/15/8/1761/fl.43v./isidoro coelho de sampaio (cura)
+
+         n$francisco/m/id=o1761-21-per1
+            ls$residencia/obidos
+            ls$idade_aprox/menor/obs=inocente, menino
+
+         locs$dentro da igreja de santa maria, na nave do meio por baixo do coro da parte de santa catarina
+
+         pai$francisco da silva henriques/id=o1761-21-per2
+
+         mae$eusebia maria/id=o1761-21-per3
+
+      obito$o1761-22/16/8/1761/fl.44/isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1761-22-per1
+            ls$idade_aprox/menor
+            ls$residencia/quinta da charneca
+
+         locs$dentro da igreja de santa maria, na nave do meio por baixo do coro da parte de santa catarina
+
+         pai$joao da silva da pedra/id=o1761-22-per2
+            ls$residencia/quinta da charneca
+
+         mae$josefa cardoso/id=o1761-22-per3
+            ls$residencia/quinta da charneca
+
+      obito$o1761-23/24/8/1761/fl.44/isidoro coelho de sampaio (cura)
+
+         n$antonio/m/id=o1761-23-per1
+            ls$idade_aprox/menor
+            ls$residencia/senhor da pedra
+
+         locs$dentro da igreja de santa maria, na nave do meio por baixo do coro da parte de santa catarina
+
+         mae$vitoria luisa/id=o1761-23-per2
+            ls$ec/v
+            ls$residencia/senhor da pedra
+
+         pai$manuel goncalves/id=o1761-23-per3
+            ls$morto/antes
+
+      obito$o1761-24/28/8/1761/fl.44/isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1761-24-n
+            ls$residencia/obidos
+            ls$idade_aprox/menor/obs=menino, filho de pais incognitos
+            ls$enjeitado/sim
+
+         locs$adro da igreja de santa maria
+
+         pai$nome desconhecido/id=o1761-24-per1
+
+         mae$nome desconhecido/id=o1761-24-per2
+
+         referida$escolastica maria/id=o1761-24-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/jose/o1761-24-n
+
+         referido$antonio henriques/id=o1761-24-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/escolastica maria/o1761-24-referida
+
+      obito$o1761-25/29/8/1761/fl.44v./isidoro coelho de sampaio (cura)
+
+         n$maria da encarnacao/f/id=o1761-25-per1
+            ls$pobre/sim
+            ls$residencia/obidos, em casa de antonio da silva e mendonca
+            ls$freguesia/santa maria
+            ls$ec/s/obs=moca solteira
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina numa sepultura que esta junto a escada que sobe para o pulpito/obs= foi amortalhada no habito de sao francisco
+
+         referido$antonio da silva e mendonca/id=o1761-25-per2
+            ls$residencia/obidos
+
+      obito$o1761-26/30/8/1761/fl.44v./isidoro coelho de sampaio (cura)
+
+         n$ana/f/id=o1761-26-per1
+            ls$idade_aprox/menor
+            ls$residencia/quinta da charneca
+
+         locs$dentro da igreja de santa maria, numa sepultura que esta junto as escadas que sobem para o cruzeiro da parte de santa catarina
+
+         pai$francisco nunes/id=o1761-26-per2
+            ls$residencia/quinta da charneca
+
+         mae$madalena maria/id=o1761-26-per3
+            ls$residencia/quinta da charneca
+
+      obito$o1761-27/7/9/1761/fl.44v./isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1761-27-per1
+            ls$residencia/quinta da charneca
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de santa maria, numa sepultura que esta junto as escadas que sobem para o cruzeiro da parte de santa catarina
+
+         pai$francisco nunes/id=o1761-27-per2
+            ls$residencia/quinta da charneca
+
+         mae$madalena maria/id=o1761-27-per3
+            ls$residencia/quinta da charneca
+
+      obito$o1761-28/9/9/1761/fl.45/isidoro coelho de sampaio (cura)
+
+         n$peregrina/f/id=o1761-28-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, entre as grades do cruzeiro e a primeira coluna da parte de santa catarina
+
+         mae$angela maria/id=o1761-28-per2
+            ls$ec/v
+
+      obito$o1761-29/17/10/1761/fl.45/isidoro coelho de sampaio (cura)
+
+         n$valentim mauricio de queiros/m/id=o1761-29-per1
+            ls$titulo/doutor
+            ls$pobre/sim
+            ls$residencia/obidos, freguesia de santa maria
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na segunda sepultura da parte da parede por cima da pia de agua benta da porta do solnacia/obs=foi amortalhado no habito de sao francisco
+
+      obito$o1761-30/21/10/1761/fl.45/isidoro coelho de sampaio (cura)
+
+         n$francisca/f/id=o1761-30-per1
+
+            mulher$maria i/id=o1761-30-per1-per2
+               ls$idade_aprox/menor
+               ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, entre a coluna e as grades do cruzeiro da parte de santa catarina
+
+         pai$joao francisco/id=o1761-30-per3
+
+         mae$josefa maria/id=o1761-30-per4
+
+      obito$o1761-31/27/10/1761/fl.45v./isidoro coelho de sampaio (cura)
+
+         n$maria micaela/f/id=o1761-31-per1
+            ls$residencia/a da gorda
+
+         sacr$sim/obs=recebeu todos os sacramentos excepto o da uncao por nao chamarem a tempo
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina suma sepultura que esta junto a parede por cima da pia da agua benta/obs=foi amortalhada no habito de sao francisco
+
+         marido$caetano da silva/id=o1761-31-per2
+
+      obito$o1761-32/13/11/1761/fl.45v./isidoro coelho de sampaio (cura)
+
+         n$casemira/f/id=o1761-32-per1
+            ls$residencia/obidos
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de santa maria, entre as grades do cruzeiro e a primeira coluna da parte de santa catarina
+
+         pai$inacio de oliveira/id=o1761-32-per2
+            ls$residencia/obidos
+
+         mae$ana joaquina/id=o1761-32-per3
+            ls$residencia/obidos
+
+      obito$o1761-33/29/11/1761/fl.45v./isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1761-33-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         locs$adro da igreja de santa maria
+
+         pai$antonio soares/id=o1761-33-per2
+            ls$residencia/gaeiras
+
+         mae$inacia maria/id=o1761-33-per3
+            ls$morta/antes
+
+      obito$o1761-34/5/12/1761/fl.46/isidoro coelho de sampaio (cura)
+
+         n$isabel maria/f/id=o1761-34-per1
+            ls$residencia/granja
+
+         sacr$sim/obs=recebeu os sacramentos excepto o da uncao
+
+         causa$repentino incidente que lhe sobreveio na doenca
+
+         locs$dentro da igreja de santa maria, na nave do meio na sepultura junto coxia da parte de santa catarina na carreira abaixo do pulpito/obs=foi amortalhada no habito de sao francisco
+
+         pai$andre antunes/id=o1761-34-per2
+            ls$morto/antes
+
+         mae$maria lopes/id=o1761-34-per3
+            ls$residencia/granja
+
+      obito$o1761-35/10/12/1761/fl.46/isidoro coelho de sampaio (cura)
+
+         n$manuel/m/id=o1761-35-n
+            ls$enjeitado/sim/obs=inocente, menino, filho de pais incognitos. foi exposto aos 8 de dezembro na rua nova de obidos a porta do reverendo desembargador vigario geral, manuel pinheiro coimbrao e foi baptizado em sua casa pelo padre isidoro coelho de sampaio.
+
+         locs$adro da igreja de santa maria
+
+         pai$nome desconhecido/id=o1761-35-per1
+
+         mae$nome desconhecido/id=o1761-35-per2
+
+         referido$manuel pinheiro coimbrao/id=o1761-35-per3
+            ls$titulo/reverendo
+            ls$cargo/desembargador
+            ls$cargo/vigario geral
+            rel$sociabilidade/achou a crianca/manuel/o1761-35-n
+
+         referido$isidoro coelho de sampaio/obs=padre que faz o registo/id=o1761-35-per4
+            ls$profissao/padre
+
+      obito$o1761-36/22/12/1761/fl.46/isidoro coelho de sampaio (cura)
+
+         n$ana doroteia/f/id=o1761-36-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura junto a coxia da parte de santa catarina na carreira em frente a porta travessa/obs=foi amortalhada no habito de sao francisco
+
+         testamento$sim/obs=dispos nuncupativamente
+
+         oficios$3 oficios nocturnos
+
+         marido$antonio soares/id=o1761-36-per2
+            ls$residencia/a da gorda
+
+      obito$o1762-1/4/1/1762/fl.46v./isidoro coelho de sampaio (cura)
+
+         n$joao pereira/m/id=o1762-1-per1
+            ls$pobre/sim
+            ls$residencia/a da gorda
+            ls$cargo/soldado do regimento de peniche
+
+         sacr$sim/obs=recebeu os sacramentos excepto o da uncao que nao o recebeu por nao avisarem a tempo de se lhe administrar pela brevidade com que faleceu
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura junto a coxia por baixo do pulpito/obs=foi amortalhado no habito de sao francisco
+
+         pai$antonio pereira/id=o1762-1-per2
+
+         mae$maria da encarnacao/id=o1762-1-per3
+
+      obito$o1762-2/15/1/1762/fl.46v./isidoro coelho de sampaio (cura)
+
+         n$jacinto/m/id=o1762-2-per1
+            ls$idade_aprox/menor
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na nave do meio junto as escadas do cruzeiro da parte de sao bras
+
+         pai$antonio da silva/id=o1762-2-per2
+            ls$residencia/a da gorda
+
+         mae$joana teresa/id=o1762-2-per3
+            ls$residencia/a da gorda
+
+      obito$o1762-3/22/2/1762/fl.46v./isidoro coelho de sampaio (cura)
+
+         n$joana francisca/f/id=o1762-3-per1
+            ls$residencia/obidos
+            ls$pobre/sim
+            ls$ec/v
+
+         sacr$sim/obs=recebeu o sacramento da penitencia por nao estar capaz de comungar nem dar tempo para o da uncao
+
+         locs$dentro da igreja de santa maria, na nave do meio na terceira sepultura junto a coxia na carreira em frente a porta travessa
+
+         marido$francisco rodrigues/id=o1762-3-per2
+            ls$morto/antes
+
+      obito$o1762-4/28/2/1762/fl.47/isidoro coelho de sampaio (cura)
+
+         n$genoveva/f/id=o1762-4-n
+            ls$residencia/obidos
+            ls$idade_aprox/menor
+            ls$enjeitada/sim
+
+         locs$dentro da igreja de santa maria, entre as grades do cruzeiro e a primeira coluna da parte de sao bras
+
+         referida$angela maria/id=o1762-4-per1
+            ls$residencia/obidos
+            rel$sociabilidade/ama/genoveva/o1762-4-n
+
+      obito$o1762-5/1/3/1762/fl.47/isidoro coelho de sampaio (cura)
+
+         n$jacinta/f/id=o1762-5-per1
+            ls$residencia/gaeiras, em casa de dona joana luciana
+            ls$condicao/escrava/obs=preta
+
+         sacr$nao/obs=faleceu repentinamente
+
+         locs$adro da igreja de santa maria
+
+         referida$joana luciana/id=o1762-5-per2
+            ls$residencia/gaeiras
+            ls$titulo/dona
+
+      obito$o1762-6/7/3/1762/fl.47/isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1762-6-n
+            ls$idade_aprox/menor
+
+         locs$adro da igreja de santa maria
+
+         referida$pascoa maria/id=o1762-6-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/jose/o1762-6-n
+
+         referido$antonio monteiro/id=o1762-6-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/pascoa maria/o1762-6-referida
+
+      obito$o1762-7/29/3/1762/fl.47v./isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1762-7-per1
+            ls$idade_aprox/menor
+            ls$residencia/a da gorda
+
+         locs$igreja de santa maria, na nave de sao bras numa sepultura que esta junto as grades do cruzeiro
+
+         pai$antonio da silva/id=o1762-7-per2
+            ls$residencia/a da gorda
+
+         mae$joana teresa/id=o1762-7-per3
+            ls$residencia/a da gorda
+
+      obito$o1762-8/19/4/1762/fl.47v./isidoro coelho de sampaio (cura)
+
+         n$dionisia/f/id=o1762-8-per1
+            ls$pobre/sim
+            ls$residencia/arrabalde
+
+         sacr$nao/obs=nao recebeu os sacramentos pois morreu de repente
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na traseira, sepultura em frente a porta travessa
+
+         pai$antonio da silva/id=o1762-8-per2
+            ls$morto/antes
+
+         mae$antonia maria/id=o1762-8-mae
+            ls$residencia/arrabalde
+
+         referido$florencio da silva/id=o1762-8-per3
+            rel$parentesco/segundo marido/antonia maria/o1762-8-mae
+            ls$residencia/arrabalde
+
+      obito$o1762-9/25/4/1762/fl.47v./isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1762-9-n
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+            ls$enjeitado/sim
+
+         locs$adro da igreja de santa maria
+
+         referida$maria rosa/id=o1762-9-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/jose/o1762-9-n
+
+         referido$sebastiao da costa/id=o1762-9-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/maria rosa/o1762-9-referida
+
+      obito$o1762-10/1/6/1762/fl.48/isidoro coelho de sampaio (cura)
+
+         n$luisa/f/id=o1762-10-per1
+            ls$residencia/gaeiras
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na segunda sepultura em frente a porta travessa/obs=foi amortalhada no habito de sao francisco
+
+         pai$joao da silva/id=o1762-10-per2
+            ls$residencia/gaeiras
+
+         mae$antonia maria/id=o1762-10-per3
+            ls$residencia/gaeiras
+
+      obito$o1762-11/2/6/1762/fl.48/isidoro coelho de sampaio (cura)
+
+         n$ana/f/id=o1762-11-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, na nave do meio para baixo do coro da parte de sao bras
+
+         pai$francisco barreto/id=o1762-11-per2
+            ls$residencia/gaeiras
+
+         mae$maria do nascimento/id=o1762-11-per3
+            ls$residencia/gaeiras
+
+      obito$o1762-12/25/6/1762/fl.48/isidoro coelho de sampaio (cura)
+
+         n$maria/f/obs=faleceu de repente/id=o1762-12-per1
+            ls$residencia/gaeiras
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na sepultura por baixo da porta do sol junto da parede
+
+         pai$valeriano da costa/id=o1762-12-per2
+            ls$residencia/gaeiras
+
+         mae$sebastiana maria/id=o1762-12-per3
+            ls$residencia/gaeiras
+
+      obito$o1762-13/12/7/1762/fl.48v./isidoro coelho de sampaio (cura)
+
+         n$miguel mendes saquete/m/id=o1762-13-per1
+            ls$residencia/estremoz
+            ls$naturalidade/portalegre
+
+         locf$enfermaria da misericordia/obs=a margem: hospital
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina numa sepultura que esta em frente a porta travessa
+
+         mulher$maria teresa/id=o1762-13-per2
+
+      obito$o1762-14/13/7/1762/fl.48v./isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1762-14-per1
+            ls$pobre/sim
+            ls$residencia/arrabalde
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio numa sepultura junto a coxia da parte de santa catarina na primeira carreira para baixo da porta travessa
+
+         pai$antonio da silva/id=o1762-14-per2
+            ls$morto/antes
+
+         mae$antonia maria/id=o1762-14-mae
+            ls$residencia/arrabalde
+
+         referido$florencio da silva/obs=segundo marido de antonia maria/id=o1762-14-per3
+            rel$parentesco/marido/antonia maria/o1762-14-mae
+            ls$residencia/arrabalde
+
+      obito$o1762-15/24/7/1762/fl.48v./isidoro coelho de sampaio (cura)/obs=do folio 48v. salta para o 50.
+
+         n$maria josefa/f/id=o1762-15-per1
+            ls$pobre/sim
+            ls$residencia/serra de obidos%na serra desta vila
+
+         sacr$sim/obs=so recebeu o sacramento da penitencia por nao haver tempo de se lhe administrarem os mais sacramentos
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura da parte de santa catarina na primeira carreira por baixo da porta travessa
+
+         marido$joao ferreira/id=o1762-15-per2
+
+      obito$o1762-16/31/7/1762/fl.50/isidoro coelho de sampaio (cura)
+
+         n$antonia maria/f/id=o1762-16-per1
+            ls$pobre/sim
+            ls$residencia/arrabalde
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina numa sepultura junto a coluna da primeira carreira por baixo da porta travessa
+
+         marido$florencio da silva/id=o1762-16-per2
+
+      obito$o1762-17/22/8/1762/fl.50/isidoro coelho de sampaio (cura)
+
+         n$manuel barbosa neves/m/id=o1762-17-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na segunda sepultura da primeira carreira por baixo da porta travessa/obs=foi amortalhado no habito de sao francisco
+
+      obito$o1762-18/24/8/1762/fl.50/isidoro coelho de sampaio (cura)
+
+         n$nome desconhecido/f/obs=menina, inocente. foi baptizada logo que nasceu/id=o1762-18-per1
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria
+
+         pai$inacio de oliveira/id=o1762-18-per2
+
+         mae$ana joaquina/id=o1762-18-per3
+
+      obito$o1762-19/25/8/1762/fl.50v./isidoro coelho de sampaio (cura)
+
+         n$maria antunes/f/id=o1762-19-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na terceira sepultura em frente a coluna da primeira carreira por baixo da porta travessa/obs=foi amortalhada no habito de sao francisco
+
+         testamento$sim/obs=dispos nuncupativamente da sua terca para missas pela sua alme e de seu marido
+
+      obito$o1762-20/29/8/1762/fl.50v./isidoro coelho de sampaio (cura)
+
+         n$manuel/m/id=o1762-20-per1
+            ls$pobre/sim
+            ls$ec/s
+            ls$naturalidade/cos
+
+         locf$enfermaria da misericordia/obs=a margem: hospital
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio junto a coxia da parte de santa catarina
+
+      obito$o1762-21/2/9/1762/fl.50v./isidoro coelho de sampaio (cura)
+
+         n$nome desconhecido/m/obs=menino. foi baptizado em casa por necessidade./id=o1762-21-per1
+
+         locs$dentro da igreja de santa maria, ao pe da escada que sobe para o coro
+
+         pai$francisco xavier de sequeira/id=o1762-21-per2
+            ls$residencia/gaeiras
+
+         mae$maria de sao bernardo e faria/id=o1762-21-per3
+            ls$residencia/gaeiras
+
+      obito$o1762-22/7/9/1762/fl.51/isidoro coelho de sampaio (cura)
+
+         n$antonio/m/id=o1762-22-n
+            ls$idade_aprox/menor
+            ls$residencia/arrabalde
+            ls$enjeitado/sim/obs=menino, filho de pais incognitos
+
+            pai$nome desconhecido/id=o1762-22-n-per1
+
+            mae$nome desconhecido/id=o1762-22-n-per2
+
+            referida$escolastica maria/id=o1762-22-referida
+               ls$residencia/arrabalde
+               rel$sociabilidade/ama/antonio/o1762-22-n
+
+            referido$antonio henriques/id=o1762-22-n-per3
+               ls$residencia/arrabalde
+               rel$parentesco/marido/escolastica maria/o1762-22-referida
+
+      obito$o1762-23/23/10/1762/fl.51/isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1762-23-n
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+            ls$enjeitado/sim/obs=menino, filho de pais incognitos
+
+         locs$adro da igreja de santa maria
+
+         pai$nome desconhecido/id=o1762-23-per1
+
+         mae$nome desconhecido/id=o1762-23-per2
+
+         referida$escolastica maria/id=o1762-23-referida
+            ls$residencia/arrabalde
+            rel$sociabilidade/ama/jose/o1762-23-n
+
+         referido$antonio henriques/id=o1762-23-per3
+            ls$residencia/arrabalde
+            rel$parentesco/marido/escolastica maria/o1762-23-referida
+
+      obito$o1762-24/29/10/1762/fl.51/isidoro coelho de sampaio (cura)
+
+         n$margarida/f/id=o1762-24-n
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na nave de sao bras ao pe da porta da capela de sao lourenco
+
+         pai$carlos ribeiro/id=o1762-24-per1
+            ls$residencia/lisboa
+
+         mae$jeronima luisa do sacramento/id=o1762-24-per2
+            ls$residencia/lisboa
+
+         referida$angela maria/id=o1762-24-per3
+            ls$residencia/obidos
+            rel$sociabilidade/ama/margarida/o1762-24-n
+
+      obito$o1762-25/30/10/1762/fl.51v./isidoro coelho de sampaio (cura)
+
+         n$sebastiao henriques/m/id=o1762-25-per1
+            ls$residencia/arrabalde
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura da primeira carreira junto da coxia da parte de santa catarina/obs=foi sepultado no dia seguinte. foi amortalhado no habito de sao francisco.
+
+      obito$o1762-26/7/11/1762/fl.51v./isidoro coelho de sampaio (cura)
+
+         n$jose correia pimentel/m/id=o1762-26-n
+            ls$residencia/obidos
+
+         sacr$sim/obs= recebeu o sacramento da uncao por nao estar com capacidade de receber os mais sacramentos
+
+         locs$dentro da igreja de santa maria, na nave do meio na terceira sepultura da primeira carreira junto a coxia da parte de santa catarina/obs=foi sepultado no dia seguinte. foi amortalhado no habito de sao francisco.
+
+         testamento$sim/obs=fez testamento cerrado
+
+         oficios$3 oficios de 9 licoes
+
+         referida$maria de sao bernardo/id=o1762-26-per1
+            rel$parentesco/irma/jose correia pimentel/o1762-26-n
+            rel$sociabilidade/herdeira/jose correia pimentel/o1762-26-n
+            rel$sociabilidade/testamenteira/jose correia pimentel/o1762-26-n
+
+      obito$o1763-1/3/1/1763/fl.51v./isidoro coelho de sampaio (cura)
+
+         n$antonia maria/f/id=o1763-1-per1
+            ls$pobre/sim
+            ls$residencia/a da gorda
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na quarta sepultura da ultima carreira/obs=foi amortalhada no habito de sao francisco
+
+         marido$antonio de oliveira/id=o1763-1-per2
+            ls$residencia/a da gorda
+
+      obito$o1763-2/8/1/1763/fl.52/isidoro coelho de sampaio (cura)
+
+         n$silverio da silva/m/id=o1763-2-per1
+            ls$pobre/sim
+            ls$residencia/gaeiras
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na quinta sepultura da ultima carreira/obs=foi amortalhada num lencol
+
+         mulher$francisca maria/id=o1763-2-per2
+            ls$residencia/gaeiras
+
+      obito$o1763-3/12/1/1763/fl.52/isidoro coelho de sampaio (cura)
+
+         n$genoveva/f/id=o1763-3-per1
+            ls$idade_aprox/menor
+            ls$residencia/casais de alentejo
+
+         locs$dentro da igreja de santa maria, na nave de sao bras ao pe da porta da capela de sao lourenco
+
+         pai$manuel gomes/id=o1763-3-per2
+            ls$residencia/casais de alentejo
+
+         mae$joaquina teresa/id=o1763-3-per3
+            ls$residencia/casais de alentejo
+
+      obito$o1763-4/19/1/1763/fl.52/isidoro coelho de sampaio (cura)
+
+         n$jose henriques/m/id=o1763-4-per1
+            ls$pobre/sim
+            ls$ec/v
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na sexta sepultura da ultima carreira/obs=foi amortalhado no habito de sao francisco.
+
+         mulher$luisa maria/id=o1763-4-per2
+            ls$morta/antes
+
+      obito$o1763-5/23/3/1763/fl.52v./isidoro coelho de sampaio (cura)
+
+         n$joao monteiro/m/id=o1763-5-n
+            ls$titulo/reverendo
+            ls$residencia/obidos
+            ls$cargo/beneficiado da se patriarcal de lisboa
+            ls$cargo/beneficiado da igreja de santa maria
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na segunda sepultura da parte da parede junto a porta da escada que sobe para o coro/obs=foi sepultado nas vestes sacerdotais, num caixao. foi levado a sepultura pela irmandade dos clerigos desta vila.
+
+         oficios$3 oficios de 9 licoes
+
+         testamento$sim/obs=fez doacao causa mortis de todos os seus bens a sua sobrinha catarina gerarda micaela
+
+         referida$catarina gerarda micaela/id=o1763-5-per1
+            rel$parentesco/sobrinha/joao monteiro/o1763-5-n
+            rel$sociabilidade/herdeira/joao monteiro/o1763-5-n
+
+      obito$o1763-6/3/4/1763/fl.52v./isidoro coelho de sampaio (cura)
+
+         n$manuel joao/m/id=o1763-6-per1
+            ls$pobre/sim
+            ls$ec/c
+            ls$bispado/leiria
+
+         locs$enfermaria da santa casa da misericordia/obs=a margem: hospital
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina que sobe para o coro
+
+      obito$o1763-7/5/4/1763/fl.52v./isidoro coelho de sampaio (cura)
+
+         n$eulalia de jesus/f/id=o1763-7-per1
+            ls$residencia/obidos
+            ls$pobre/sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na primeira sepultura ao pe da parede junto a escada que sobe para o cruzeiro/obs=foi amortalhada no habito de sao francisco
+
+      obito$o1763-8/9/4/1763/fl.53/isidoro coelho de sampaio (cura)
+
+         n$manuel da silva/m/id=o1763-8-per1
+            ls$pobre/sim
+            ls$residencia/moinhos de fraldeu
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na segunda sepultura da parte da parede junto as escadas que sobem para o cruzeiro/obs=foi amortalhado num lencol
+
+         mulher$maria de andrade/id=o1763-8-per2
+
+      obito$o1763-9/17/4/1763/fl.53/isidoro coelho de sampaio (cura)
+
+         n$tome monteiro/m/id=o1763-9-per1
+            ls$residencia/a da gorda
+            ls$pobre/sim
+
+         sacr$sim/obs=nao recebeu o sacramento da uncao por nao chamarem a tempo
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na terceira sepultura da parte da parede da primeira carreira junto das escadas que sobem para o cruzeiro/obs=foi amortalhado no habito de sao francisco
+
+         mulher$antonia joaquina/id=o1763-9-per2
+            ls$residencia/a da gorda
+
+      obito$o1763-10/20/4/1763/fl.53/isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1763-10-n
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+            ls$enjeitada/sim
+
+         locs$adro da igreja de santa maria
+
+         referida$maria teresa/id=o1763-10-per1
+            ls$residencia/gaeiras
+            rel$sociabilidade/ama/maria/o1763-10-n
+
+         referido$jose leal/obs=mandou que enterrassem a crianca no adro da igreja de santa maria/id=o1763-10-per2
+            ls$cargo/procurador do concelho
+
+      obito$o1763-11/28/4/1763/fl.53v./isidoro coelho de sampaio (cura)
+
+         n$ana/f/id=o1763-11-per1
+            ls$idade_aprox/menor
+            ls$residencia/moinho do redondo/obs=a margem: casais
+
+         locs$dentro da igreja de santa maria, entre a coluna e o cruzeiro da parte de sao bras
+
+         pai$antonio jorge/id=o1763-11-per2
+            ls$residencia/moinho do redondo, freguesia de santa maria
+
+         mae$maria madalena/id=o1763-11-per3
+            ls$residencia/moinho do redondo, freguesia de santa maria
+
+      obito$o1763-12/5/5/1763/fl.53v./isidoro coelho de sampaio (cura)
+
+         n$eufemia maria/f/id=o1763-12-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na primeira carreira junto a coluna/obs=foi sepultada no dia seguinte. foi amortalhado no habito de sao francisco.
+
+         marido$manuel da costa/id=o1763-12-per2
+            ls$morto/antes
+
+      obito$o1763-13/15/5/1763/fl.53v./isidoro coelho de sampaio (cura)
+
+         n$isabel maria/f/id=o1763-13-n
+            ls$residencia/obidos
+            ls$ec/s
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura junto a coxia da primeira carreira em frente ao confessionario da parte de sao bras/obs=foi amortalhada no habito de sao francisco
+
+         testamento$sim
+
+         oficios$3 oficios de 9 licoes
+
+         referido$filipe gomes/id=o1763-13-per1
+            ls$profissao/padre
+            rel$sociabilidade/testamenteiro/isabel maria/o1763-13-n
+
+         referido$francisco de matos/id=o1763-13-per2
+            ls$profissao/padre
+            ls$cargo/cura
+            rel$sociabilidade/testamenteiro/isabel maria/o1763-13-n
+
+      obito$o1763-14/16/5/1763/fl.54/isidoro coelho de sampaio (cura)
+
+         n$antonia maria/f/id=o1763-14-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras, na primeira sepultura da segunda carreira, junto a parede/obs=foi amortalhada no habito de sao francisco
+
+      obito$o1763-15/20/5/1763/fl.54/isidoro coelho de sampaio (cura)
+
+         n$antonio monteiro/m/id=o1763-15-per1
+            ls$pobre/sim
+            ls$mendigo/sim/obs=mendicante. foi amortalhado num lencol
+
+         locf$enfermaria da misericordia, anexa a esta freguesia/obs=a margem: hospital
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na segunda sepultura da segunda carreira da parte da parede/obs=foi amortalhado num lencol
+
+      obito$o1763-16/21/5/1763/fl.54/isidoro coelho de sampaio (cura)
+
+         n$joaquim/m/id=o1763-16-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         sacr$sim/obs=recebeu o sacramento da uncao por nao ter capacidade para receber os mais sacramentos
+
+         locs$dentro da igreja de santa maria, numa sepultura que esta debaixo da escada do pulpito
+
+         pai$luis jose/id=o1763-16-per2
+
+         mae$joaquina de santa ana/id=o1763-16-per3
+
+      obito$o1763-17/19/6/1763/fl.54v./isidoro coelho de sampaio (cura)
+
+         n$manuel francisco/m/id=o1763-17-per1
+            ls$pobre/sim
+            ls$ec/s
+            ls$residencia/freguesia de vidais
+
+         sacr$sim
+
+         locf$enfermaria da misericordia, anexa a esta freguesia/obs=a margem: hospital
+
+         locs$dentro da igreja de santa maria, na sepultura que esta entre as duas colunas da parte de sao bras junto ao confessionario
+
+      obito$o1763-18/2/7/1763/fl.54v./isidoro coelho de sampaio (cura)
+
+         n$joao gomes/m/id=o1763-18-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura da segunda carreira por baixo do confessionario da parte de sao bras junto da coxia/obs=foi sepultado pela misericordia
+
+         mulher$maria inacia/id=o1763-18-per2
+
+      obito$o1763-19/7/7/1763/fl.54v./isidoro coelho de sampaio (cura)
+
+         n$maria madalena/f/id=o1763-19-per1
+            ls$residencia/moinho do redondo
+            ls$pobre/sim
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na sepultura junto a coxia da segunda carreira por baixo do confessionario da parte de sao bras/obs=foi amortalhada no habito de sao francisco
+
+         marido$antonio jose/id=o1763-19-per2
+            ls$residencia/moinho do redondo
+            ls$freguesia/santa maria
+
+      obito$o1763-20/10/7/1763/fl.55/isidoro coelho de sampaio (cura)
+
+         n$josefa maria/f/id=o1763-20-per1
+            ls$residencia/gaeiras
+            ls$pobre/sim
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na primeira sepultura junto da parede da carreira que esta por cima da porta travessa/obs=foi amortalhada no habito de sao francisco
+
+         marido$amaro francisco/id=o1763-20-per2
+
+      obito$o1763-21/15/7/1763/fl.55/isidoro coelho de sampaio (cura)
+
+         n$josefa/f/id=o1763-21-per1
+            ls$condicao/escrava
+            ls$residencia/a da gorda
+            rel$profissional/escrava/jose mergulhao/o1763-21-referido
+
+         sacr$nao/obs=nao recebeu os sacramentos por faleceu repentinamente
+
+         locs$dentro da igreja de santa maria, numa sepultura que esta entre as duas colunas da parte de sao bras junto ao confessionario/obs=foi amortalhado no habito de sao francisco
+
+         referido$jose mergulhao/id=o1763-21-referido
+            ls$profissao/padre
+
+      obito$o1763-22/21/8/1763/fl.55/isidoro coelho de sampaio (cura)
+
+         n$lourenco antunes correia/m/id=o1763-22-per1
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao joao
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na segunda sepultura da parte da parede da carreira para cima da porta travessa/obs=foi amortalhado no habito de sao francisco
+
+      obito$o1763-23/6/10/1763/fl.55v./isidoro coelho de sampaio (cura)
+
+         n$teresa maria figueira/f/id=o1763-23-per1
+            ls$residencia/obidos
+            ls$ec/s/obs=donzela
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na sepultura que esta junto da segunda coluna da carreira por cima da porta travessa/obs=foi sepultada no dia seguinte. foi amortalhada no habito de sao francisco.
+
+         testamento$sim
+
+         oficios$3 oficios de 9 licoes
+
+      obito$o1763-24/16/10/1763/fl.55v./isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1763-24-per1
+            ls$idade_aprox/menor/obs=menina
+            ls$enjeitada/sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na sepultura que esta por baixo do pulpito
+
+      obito$o1763-25/20/10/1763/fl.55v./isidoro coelho de sampaio (cura)
+
+         n$francisco/m/id=o1763-25-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         causa$afogamento?/obs=faleceu uma rapaz que foi achado morto no tanque do convento de sao miguel das gaeiras
+
+         locf$tanque do convento de sao miguel das gaeiras
+
+         locs$debaixo do coro do convento de sao miguel das gaeiras
+
+         pai$antonio marques/id=o1763-25-per2
+            ls$alcunha/o moco
+            ls$residencia/gaeiras
+
+         mae$luisa maria/id=o1763-25-per3
+            ls$residencia/gaeiras
+
+      obito$o1763-26/10/11/1763/fl.56/isidoro coelho de sampaio (cura)
+
+         n$violante joaquina/f/id=o1763-26-per1
+            ls$residencia/arrabalde
+            ls$pobre/sim
+            ls$ec/v
+
+         sacr$nao/obs=nao recebeu os sacramentos por morrer apressadamente e nao dar tempo para se lhe administrarem os mais sacramentos
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na primeira sepultura em frente a porta travessa/obs=foi amortalhada no seu manto
+
+         marido$manuel pereira/id=o1763-26-per2
+            ls$morto/antes
+
+      obito$o1763-27/10/11/1763/fl.56/isidoro coelho de sampaio (cura)
+
+         n$manuel leal/m/id=o1763-27-per1
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura junto a coxia da parte de sao bras em frente a segunda coluna por baixo do confessionario/obs=foi amortalhado no habito de sao francisco
+
+         mulher$josefa maria/id=o1763-27-per2
+            ls$residencia/a da gorda
+
+      obito$o1764-1/1/1/1764/fl.56/isidoro coelho de sampaio (cura)
+
+         n$josefa/f/id=o1764-1-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$igreja de santa maria, na nave de sao bras ao pe da porta da capela de sao lourenco
+
+         pai$francisco da silva henriques/id=o1764-1-per2
+            ls$residencia/obidos
+
+         mae$eusebia maria/id=o1764-1-per3
+            ls$residencia/obidos
+
+      obito$o1764-2/29/1/1764/fl.56v./isidoro coelho de sampaio (cura)
+
+         n$domingos/m/id=o1764-2-per1
+            ls$residencia/obidos
+
+         causa$acidente
+
+         sacr$sim/obs=uncao
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na segunda sepultura da carreira que esta em frente a porta travessa/obs=foi amortalhado no habito de sao francisco
+
+         pai$antonio moreira chaves/id=o1764-2-per2
+            ls$ec/v
+
+      obito$o1764-3/31/1/1764/fl.56v./isidoro coelho de sampaio (cura)
+
+         n$jose de oliveira/m/id=o1764-3-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$profissao/criado
+            rel$profissional/criado/manuel soares/o1764-3-referido
+
+         locf$a da gorda
+
+         sacr$sim/obs=recebeu os sacramentos excepto o da uncao por morrer apressadamente
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na terceira sepultura da carreira que esta em frente a porta travessa/obs=foi amortalhado no habito de sao francisco
+
+         referido$manuel soares/id=o1764-3-referido
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      obito$o1764-4/16/3/1764/fl.56v./isidoro coelho de sampaio (cura)
+
+         n$ana maria/f/id=o1764-4-per1
+            ls$residencia/gaeiras
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na cova junto as duas colunas da parte de baixo
+
+         marido$manuel pires/id=o1764-4-per2
+            ls$morto/antes
+
+      obito$o1764-5/20/3/1764/fl.57/isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1764-5-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, junto ao cruzeiro da parte de sao bras
+
+         pai$antonio soares/id=o1764-5-per2
+            ls$profissao/carpinteiro
+            ls$residencia/gaeiras
+
+         mae$ana vicencia/id=o1764-5-per3
+            ls$residencia/gaeiras
+
+      obito$o1764-6/7/4/1764/fl.57/isidoro coelho de sampaio (cura)
+
+         n$isabel maria/f/id=o1764-6-per1
+            ls$naturalidade/lisboa
+            ls$residencia/rua da atalaia, lisboa
+            ls$freguesia/encarnacao
+            ls$residencia/senhor da pedra
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na segunda sepultura junto a coxia da parte de sao bras na carreira em frente a porta travessa/obs=foi amortalhada no habito de sao francisco
+
+         marido$manuel antonio/id=o1764-6-per2
+            ls$naturalidade/lisboa
+            ls$residencia/rua da atalaia, lisboa
+            ls$freguesia/encarnacao
+
+      obito$o1764-7/10/5/1764/fl.57/isidoro coelho de sampaio (cura)
+
+         n$antonio barreto/m/id=o1764-7-per1
+            ls$pobre/sim
+            ls$residencia/gaeiras
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na primeira sepultura junto a coxia da parte de sao bras na carreira em frente a porta travessa/obs=foi amortalhada no habito de sao francisco
+
+         mulher$francisca pereira/id=o1764-7-per2
+            ls$residencia/gaeiras
+
+      obito$o1764-8/13/5/1764/fl.57v./isidoro coelho de sampaio (cura)
+
+         n$jose/m/obs=menor. faleceu logo que nasceu. foi baptizado/id=o1764-8-per1
+            ls$idade_aprox/menor
+            ls$residencia/arrabalde
+
+         locs$dentro da igreja de santa maria, na nave do meio junto as escadas do cruzeiro da parte de sao bras
+
+         pai$francisco felix/id=o1764-8-per2
+            ls$residencia/arrabalde
+
+         mae$maria joaquina/id=o1764-8-per3
+            ls$residencia/arrabalde
+
+      obito$o1764-9/21/5/1764/fl.57v./isidoro coelho de sampaio (cura)
+
+         n$jose/m/id=o1764-9-per1
+            ls$idade_aprox/menor
+            ls$residencia/arrabalde
+
+         locs$adro da igreja de santa maria
+
+         pai$joao de deus%joao de ds./id=o1764-9-per2
+            ls$morto/antes
+
+         mae$marcelina antonia/id=o1764-9-mae
+            ls$residencia/arrabalde
+
+         referido$silvestre silva/id=o1764-9-per3
+            rel$parentesco/segundo marido/marcelina antonia/o1764-9-mae
+            ls$residencia/arrabalde
+
+      obito$o1764-10/30/5/1764/fl.57v./isidoro coelho de sampaio (cura)
+
+         n$leonor inacia/f/id=o1764-10-per1
+            ls$titulo/dona
+            ls$residencia/obidos, na praca
+            ls$ec/s
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na primeira sepultura junto a parede por baixo da pia de agua benta da porta travessa/obs=foi amortalhada no habito de sao francisco
+
+      obito$o1764-11/22/6/1764/fl.58/isidoro coelho de sampaio (cura)
+
+         n$catarina soares/f/id=o1764-11-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na segunda sepultura da primeira carreira por baixo da porta travessa/obs=foi amortalhada no habito de sao francisco
+
+         oficios$3 oficios de 9 licoes
+
+         marido$jose henriques/id=o1764-11-per2
+            ls$residencia/a da gorda
+
+      obito$o1764-12/24/6/1764/fl.58/isidoro coelho de sampaio (cura)
+
+         n$francisco/m/id=o1764-12-n
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+            ls$enjeitado/sim/obs=menino, filho de pais incognitos
+
+         locs$adro da igreja de santa maria
+
+         pai$nome desconhecido/id=o1764-12-per1
+
+         mae$nome desconhecido/id=o1764-12-per2
+
+         referida$escolastica maria/id=o1764-12-referida
+            ls$residencia/arrabalde
+            rel$sociabilidade/ama/francisco/o1764-12-n
+
+         referido$antonio henriques/id=o1764-12-per3
+            ls$residencia/arrabalde
+            rel$parentesco/marido/escolastica maria/o1764-12-referida
+
+      obito$o1764-13/22/7/1764/fl.58/isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1764-13-n
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+            ls$enjeitado/sim/obs=filha de pais incognitos
+
+         locs$adro da igreja de santa maria
+
+         referida$gertrudes teresa/id=o1764-13-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/maria/o1764-13-n
+
+         referido$manuel viana/id=o1764-13-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/gertrudes teresa/o1764-13-referida
+
+      obito$o1764-14/23/7/1764/fl.58v./isidoro coelho de sampaio (cura)
+
+         n$joao/m/id=o1764-14-per1
+            ls$idade_aprox/menor
+            ls$residencia/arrabalde
+
+         locs$dentro da igreja de santa maria, na nave do meio junto aos bancos da coxia da parte de sao bras
+
+         pai$manuel de almeida/id=o1764-14-per2
+            ls$residencia/arrabalde
+
+         mae$maria josefa/id=o1764-14-per3
+            ls$residencia/arrabalde
+
+      obito$o1764-15/9/8/1764/fl.58v./isidoro coelho de sampaio (cura)
+
+         n$catarina xavier/f/id=o1764-15-per1
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria/obs=foi sepultada no adro da igreja de santa maria por assim o determinar no seu testamento no habito de s. francisco
+
+         testamento$sim
+
+      obito$o1764-16/17/8/1764/fl.58v./isidoro coelho de sampaio (cura)
+
+         n$bernardo de sousa/m/id=o1764-16-per1
+            ls$pobre/sim
+            ls$ec/v
+            ls$naturalidade/freguesia de sao joao baptista de bazenim/obs=bispado de coimbra
+
+         locf$enfermaria da misericordia/obs=a margem: hospital
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na terceira sepultura, na carreira por baixo da porta travessa
+
+         mulher$maria joao/id=o1764-16-per2
+            ls$morta/antes
+
+      obito$o1764-17/29/8/1764/fl.59/isidoro coelho de sampaio (cura)
+
+         n$bernardo da costa/m/id=o1764-17-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$profissao/criado
+            rel$profissional/criado/rodrigo/o1764-17-referido
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na primeira sepultura junto da coluna da primeira carreira por baixo da porta travessa da parte de sao bras/obs=foi amortalhado no habito de sao francisco
+
+         mulher$maria luisa/id=o1764-17-per2
+
+         referido$rodrigo/id=o1764-17-referido
+            ls$titulo/dom
+            ls$titulo/excelentissimo
+            ls$residencia/obidos
+            ls$freguesia/santa maria
+
+      obito$o1764-18/9/9/1764/fl.59/isidoro coelho de sampaio (cura)
+
+         n$antonio ferreira/m/id=o1764-18-n
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na sepultura junto a coxia da parte de sao bras na primeira carreira por baixo da porta travessa/obs=foi amortalhado no habito de sao francisco.
+
+         oficios$12 missas pela sua alma
+
+         mulher$mariana da conceicao/id=o1764-18-per1
+            ls$residencia/obidos
+            ls$freguesia/santa maria
+
+         referida$catarina/id=o1764-18-per2
+            rel$parentesco/filha/antonio ferreira/o1764-18-n
+            rel$sociabilidade/herdeira/antonio ferreira/o1764-18-n
+
+         testamento$sim/obs="dice antes de falecer de fronte de varias pesoas deyxava a sua terca a sua filha catherina com a obrigacao de lhe mandar dizer doze missas pela sua alma"
+
+      obito$o1764-19/14/10/1764/fl.59/isidoro coelho de sampaio (cura)
+
+         n$francisca antonia/f/id=o1764-19-per1
+            ls$titulo/dona
+            ls$residencia/obidos
+            ls$titulo/religiosa/obs=religiosa do convento da rosa, lisboa
+            ls$residencia/obidos, casa de pedro antunes correia
+
+         sacr$sim
+
+         locs$convento de vale benfeito, onde tem sepultura
+
+         referido$pedro antunes correia/id=o1764-19-per2
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      obito$o1764-20/24/10/1764/fl.59v./isidoro coelho de sampaio (cura)
+
+         n$martinho ribeiro/m/id=o1764-20-per1
+            ls$pobre/sim
+            ls$ec/v
+            ls$residencia/caldas
+            ls$naturalidade/freguesia de alvorninha
+
+         locf$enfermaria da misericordia/obs=a margem: hospital
+
+         sacr$sim,todos
+
+         locs$dentro da igreja de santa maria, na sepultura junto da parede da ultima carreira por baixo da porta travessa da nave de sao bras
+
+      obito$o1764-21/12/11/1764/fl.59v./isidoro coelho de sampaio (cura)
+
+         n$luisa maria/f/id=o1764-21-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$ec/s/obs=mulher solteira
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na segunda sepultura da ultima carreira por baixo da porta travessa
+
+      obito$o1764-22/18/11/1764/fl.59v./isidoro coelho de sampaio (cura)
+
+         n$antonio de sousa/m/id=o1764-22-per1
+            ls$residencia/a da gorda
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de sao bras na quarta sepultura da ultima carreira por baixo da porta travessa/obs=foi amortalhado no habito de sao francisco que lhe mandassem dizer trinta missas pela sua alma e pela da sua mulher
+
+         oficios$30 missas pela sua alma e da sua mulher
+
+      obito$o1764-23/29/11/1764/fl.60/isidoro coelho de sampaio (cura)
+
+         n$maria da silva/f/id=o1764-23-per1
+            ls$residencia/a da gorda
+            ls$ec/v
+
+         sacr$sim/obs=so recebeu o sacramento da uncao por estar fotua? e incapaz dos mais sacramentos.
+
+         locs$dentro da igreja de santa maria, numa sepultura que esta debaixo do primeiro arco entre o coro e a primeira coluna da parte de sao bras/obs=foi amortalhada no habito de sao francisco
+
+         oficios$3 oficios de 9 licoes
+
+         marido$manuel francisco/id=o1764-23-per2
+            ls$morto/antes
+
+      obito$o1765-1/11/1/1765/fl.60/isidoro coelho de sampaio (cura)
+
+         n$felix da silva/m/id=o1765-1-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs=recebeu todos os sacramentos excepto o da uncao por morrer apressadamente e nao dar tempo para se lhe administrar
+
+         locs$dentro da igreja de santa maria, na nave do meio na terceira sepultura da primeira carreira da parte de sao bras/obs=foi amortalhado no habito de sao francisco
+
+         mulher$josefa maria/id=o1765-1-per2
+            ls$residencia/obidos
+            ls$freguesia/santa maria
+
+      obito$o1765-2/24/1/1765/fl.60/isidoro coelho de sampaio (cura)
+
+         n$maria/f/id=o1765-2-per1
+            ls$idade_aprox/menor
+            ls$enjeitada/sim/obs=menina, filha de pais incognitos
+
+         locs$adro da igreja de santa maria
+
+      obito$o1765-3/27/2/1765/fl.60v./isidoro coelho de sampaio (cura)
+
+         n$nome desconhecido/m/id=o1765-3-per1
+            ls$naturalidade/bispado de leiria
+
+         locf$enfermaria da misericorida da vila/obs=a margem: hospital
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na primeira sepultura ao pe da parede e dos degraus que sobem para a sacristia
+
+      obito$o1765-4/1/3/1765/fl.60v./isidoro coelho de sampaio (cura)
+
+         n$antonio da silva de mendonca/m/id=o1765-4-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio na primeira sepultura da primeira carreira junto a coxia da parte de sao bras/obs=foi amortalhado no habito de sao francisco
+
+      obito$o1765-5/6/3/1765/fl.60v./isidoro coelho de sampaio (cura)
+
+         n$iria gomes/f/id=o1765-5-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na primeira sepultura junto a parede ao pe das escadas que sobem para o cruzeiro/obs=foi amortalhada no habito de sao francisco
+
+      obito$o1765-6/20/3/1765/fl.61/isidoro coelho de sampaio (cura)
+
+         n$joao/m/id=o1765-6-per1
+            ls$residencia/moinhos de fraldeu
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, numa sepultura que esta entre as escadas que sobem para a sacristia e a primeira coluna
+
+         pai$jose gomes/id=o1765-6-per2
+            ls$residencia/moinhos de fraldeu, freguesia de santa maria
+
+         mae$maria gomes/id=o1765-6-per3
+            ls$residencia/moinhos de fraldeu, freguesia de santa maria
+
+      obito$o1765-7/28/3/1765/fl.61/isidoro coelho de sampaio (cura)
+
+         n$ana/f/id=o1765-7-per1
+            ls$idade_aprox/menor
+            ls$residencia/casais de fraldeu
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina
+
+         pai$manuel de sequeira/id=o1765-7-per2
+            ls$residencia/casais de fraldeu
+
+         mae$rosa da conceicao/id=o1765-7-per3
+            ls$residencia/casais de fraldeu
+
+      obito$o1765-8/28/4/1765/fl.61/isidoro coelho de sampaio (cura)
+
+         n$ana/f/id=o1765-8-per1
+            ls$idade_aprox/menor
+            ls$residencia/casais de fraldeu
+
+         locs$dentro da igreja de santa maria, na nave do meio por baixo do coro da parte de santa catarina
+
+         pai$joaquim gomes/id=o1765-8-per2
+            ls$residencia/casais de fraldeu
+
+         mae$francisca maria/id=o1765-8-per3
+            ls$residencia/casais de fraldeu
+
+      obito$o1765-9/5/5/1765/fl.61v./isidoro coelho de sampaio (cura)
+
+         n$luisa/f/id=o1765-9-n
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+            ls$enjeitada/sim/obs=menina, enjeitada no hospital real de todos os santos da cidade de lisboa
+
+         locs$adro da igreja de santa maria
+
+         referida$eusebia maria/id=o1765-9-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/luisa/o1765-9-n
+
+         referido$francisco da silva/id=o1765-9-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/eusebia maria/o1765-9-referida
+
+      obito$o1765-10/29/5/1765/fl.61v./isidoro coelho de sampaio (cura)
+
+         n$manuel machado/m/id=o1765-10-per1
+            ls$pobre/sim
+            ls$residencia/obidos,casa do doutor bento jose de lima
+            ls$naturalidade/freguesia de sao pedro de penaferrim
+
+         sacr$sim
+
+         locf$enfermaria da misericordia de obidos
+
+         locs$dentro da igreja de santa maria, na nave do meio, na segunda sepultura junto a coxia da parte de sao bras/obs=foi amortalhado no habito de sao francisco
+
+         referido$bento jose de lima/id=o1765-10-per2
+            ls$cargo/juiz de fora
+            ls$titulo/doutor
+
+         mulher$francisca teresa/id=o1765-10-per3
+
+      obito$o1765-11/4/9/1765/fl.61v./isidoro coelho de sampaio (cura)
+
+         n$manuel da costa borges/m/id=o1765-11-per1
+            ls$residencia/arrabalde
+            ls$pobre/sim
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave do meio parte de santa catarina na segunda sepultura junto ao confessionario/obs=foi amortalhado no habito de sao francisco
+
+         mulher$antonia maria/id=o1765-11-per2
+
+      obito$o1765-12/24/9/1765/fl.62/isidoro coelho de sampaio (cura)
+
+         n$antonio da silva/m/id=o1765-12-per1
+            ls$pobre/sim
+            ls$residencia/ribeira de fraldeu
+
+         sacr$nao
+
+         locs$dentro da igreja de santa maria, na nave do meio, na primeira sepultura junto a coxia em frente ao confessionario da parte de santa catarina/obs=foi amortalhado no habito de sao francisco
+
+         mulher$maria helena/id=o1765-12-per2
+            ls$residencia/ribeira de fraldeu
+
+      obito$o1765-13/13/10/1765/fl.62/isidoro coelho de sampaio (cura)
+
+         n$joaquim/m/id=o1765-13-per1
+            ls$idade_aprox/menor/obs=menino
+
+         locs$dentro da igreja de santa maria, na nave do meio, na segunda sepultura por baixo do coro da parte de sao bras
+
+         pai$laureano bonifacio/id=o1765-13-per2
+
+         mae$maria antonia/id=o1765-13-per3
+
+      obito$o1765-14/24/10/1765/fl.62/isidoro coelho de sampaio (cura)
+
+         n$ana/f/id=o1765-14-per1
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, na nave de sao bras junto a porta da capela de sao lourenco
+
+         pai$valentim pereira/id=o1765-14-per2
+            ls$residencia/gaeiras
+
+         mae$maria joaquina/id=o1765-14-per3
+            ls$residencia/gaeiras
+
+      obito$o1765-15/6/11/1765/fl.62v./isidoro coelho de sampaio (cura)
+
+         n$francisco de campos/m/id=o1765-15-per1
+            ls$pobre/sim
+            ls$residencia/arrabalde
+            ls$cargo/soldado do regimento de peniche
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na sepultura junto da parede na segunda carreira/obs=foi amortalhado no habito de sao francisco
+
+      obito$o1765-16/16/11/1765/fl.62v./isidoro coelho de sampaio (cura)
+
+         n$josefa de abreu/f/id=o1765-16-n
+            ls$residencia/a da gorda
+            ls$ec/s
+
+         sacr$sim/obs=quando recebeu o viatico disse as pessoas que a acompanhavam que deixava um foro a sua sobrinha maria antonia, "com as obrigacoins que particularmente lhe tinha recomendado"
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na segunda sepultura da parte da parede da segunda carreira/obs= foi amortalhada no habito de sao francisco.
+
+         referida$maria antonia/id=o1765-16-per1
+            rel$parentesco/sobrinha/josefa de abreu/o1765-16-n
+            rel$sociabilidade/herdeira/josefa de abreu/o1765-16-n
+
+      obito$o1765-17/18/11/1765/fl.62v./isidoro coelho de sampaio (cura)
+
+         n$nome desconhecido/m/obs=menino. foi baptizado em casa logo que nasceu/id=o1765-17-per1
+
+         locs$dentro da igreja de santa maria, na nave de sao bras, a porta da capela de sao lourenco
+
+         pai$jose joaquim/id=o1765-17-per2
+            ls$residencia/rua do poco
+
+         mae$maria teresa/id=o1765-17-per3
+            ls$residencia/rua do rua do poco

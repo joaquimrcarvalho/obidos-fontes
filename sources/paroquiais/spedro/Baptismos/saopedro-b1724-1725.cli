@@ -1,0 +1,396 @@
+kleio$gacto.str/prefix=spedro
+   fonte$baptismos1722-1724/localizacao-a.d.l./freguesia de sao pedro
+
+      bap$b1724-19/10/10/1724/fl.2/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$francisco/m/id=b1724-19-per1
+            ls$datanasc/17241024
+            ls$ilegitimo/sim
+
+         mn$catarina luisa dos santos/id=b1724-19-per2
+            ls$ec/s
+            ls$residencia/obidos
+
+         pn$nome desconhecido/obs=pai incognito/id=b1724-19-per3
+
+         pad1$antonio da horta/id=b1724-19-per4
+            ls$residencia/obidos
+
+      bap$b1724-20/19/11/1724/fl.2/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$teodora/f/id=b1724-20-per1
+            ls$datanasc/17241109
+
+         pn$andre da costa/id=b1724-20-per2
+            ls$residencia/casais do pinhal
+
+         mn$maria henriques/id=b1724-20-per3
+            ls$residencia/casais do pinhal
+
+         pad1$antonio soares de almeida/id=b1724-20-per4
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+      bap$b1725-1/27/1/1725/fl.2v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$estevao/m/id=b1725-1-per1
+            ls$datanasc/17241226
+
+         pn$vicente rodrigues/id=b1725-1-per2
+            ls$residencia/obidos
+
+         mn$mariana teresa/id=b1725-1-per3
+            ls$residencia/obidos
+
+         pad1$jose veloso/id=b1725-1-per4
+            ls$residencia/vila franca
+
+         mad1$clara caetana/id=b1725-1-per5
+            ls$residencia/lisboa
+
+         procurador-mad1$lourenco correia/id=b1725-1-per6
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1725-2/19/1/1725/fl.2v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$teresa/f/id=b1725-2-per1
+            ls$datanasc/17250118
+
+         pn$manuel henriques/id=b1725-2-per2
+            ls$residencia/casal do pinheiro
+
+         mn$maria henriques/id=b1725-2-per3
+            ls$residencia/casal do pinheiro
+
+         pad1$manuel ferreira/id=b1725-2-per4
+            ls$residencia/obidos/obs="foi padrinho manoel ferreira in minoribus"
+
+      bap$b1725-3/28/2/1725/fl.3/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$eleuterio/f/id=b1725-3-per1
+            ls$datanasc/17250220
+
+         pn$manuel antunes/id=b1725-3-per2
+
+         mn$teotonia maria/id=b1725-3-per3
+
+         pad1$joao henriques de oliveira/id=b1725-3-per4
+
+         mad1$engracia maria/id=b1725-3-mad
+
+         procurador-mad1$joao henriques/id=b1725-3-per5
+            ls$residencia/obidos
+            rel$parentesco/filho/engracia maria/b1725-3-mad
+
+      bap$b1725-4/14/4/1725/fl.3/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$engracia/f/id=b1725-4-n/obs="filha de pais incognitos, que foi achada na estalagem nova junto a nossa senhora do amparo"
+            ls$enjeitada/sim
+
+         pn$nome desconhecido/id=b1725-4-per1
+
+         mn$nome desconhecido/id=b1725-4-per2
+
+         pad1$joao henriques/id=b1725-4-per3
+            ls$profissao/mercador
+            ls$cargo/procurador do concelho
+
+         referida$mariana do carmo/id=b1725-4-referida
+            ls$residencia/pinhal
+            rel$sociabilidade/ama/engracia/b1725-4-n
+
+         referido$antonio carreira/id=b1725-4-per4
+            ls$residencia/pinhal
+            rel$parentesco/marido/mariana do carmo/b1725-4-referida
+
+         referido$manuel leal henriques/id=b1725-4-per5
+            ls$profissao/padre
+            ls$cargo/cura na igreja de sao pedro
+            rel$sociabilidade/baptizou sub conditione/engracia/b1725-4-n
+
+      bap$b1725-5/23/4/1725/fl.3v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$manuel/m/id=b1725-5-per1
+            ls$datanasc/170416/obs=a margem diz que faleceu a 4 de dezembro de 1725
+
+         pn$antonio da horta/id=b1725-5-per2
+            ls$residencia/obidos
+
+         mn$teresa josefa/id=b1725-5-per3
+            ls$residencia/obidos
+
+         pad1$antonio francisco/id=b1725-5-per4
+            ls$residencia/obidos
+
+         mad1$isabel henriques/id=b1725-5-per5
+            ls$residencia/obidos
+
+      bap$b1725-6/5/5/1725/fl.3v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$francisco/m/id=b1725-6-per1
+            ls$datanasc/17250414
+
+         pn$jose pacheco cabral curotelo%jozeph pacheco cabral curutello/id=b1725-6-per2
+            ls$residencia/obidos
+
+         mn$catarina xavier de castro girao de sisneiros/id=b1725-6-per3
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         pad1$manuel de sisneiros girao e vasconcelos/id=b1725-6-per4
+            ls$titulo/dom
+            ls$residencia/obidos
+
+         mad1$helena teodora xavier de castro e sisneiros/id=b1725-6-per5
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         procurador-mad1$lourenco correia/id=b1725-6-per6
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1725-7/9/5/1725/fl.4/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$quiteria da rosa/f/id=b1725-7-n
+            ls$enjeitada/sim/obs=filha de pais incognitos, a qual foi deitada no cazal da portella por diante da amoreira, trazia escripto de nao ser baptizada, e que se lhe pozesse o dito nome"
+
+         pn$nome desconhecido/id=b1725-7-per1
+
+         mn$nome desconhecido/id=b1725-7-per2
+
+         pad1$joao henriques de oliveira/id=b1725-7-per3
+            ls$cargo/procurador do concelho
+
+         referida$maria dos santos/id=b1725-7-referida
+            ls$residencia/gaeiras
+            rel$sociabilidade/ama/quiteria da rosa/b1725-7-n
+
+         referido$manuel pereira/id=b1725-7-per4
+            ls$residencia/gaeiras
+            rel$parentesco/marido/maria dos santos/b1725-7-referida
+
+      bap$b1725-8/2/6/1725/fl.4/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$antonia/f/id=b1725-8-per1
+            ls$datanasc/17250525
+
+         pn$antonio henriques/id=b1725-8-per2
+            ls$residencia/casais do pinhal
+
+         mn$isabel monteiro/id=b1725-8-per3
+            ls$residencia/casais do pinhal
+
+         pad1$francisco nogueira valadares/id=b1725-8-per4
+            ls$residencia/obidos
+
+         mad1$antonia maria/id=b1725-8-per5
+            ls$residencia/casais do pinhal
+
+      bap$b1725-9/17/8/1725/fl.4v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$joao/m/id=b1725-9-n
+            ls$enjeitado/sim/obs="filho de pais incognitos, que foi deitado no lugar do olho marinho"
+
+         pn$nome desconhecido/id=b1725-9-per1
+
+         mn$nome desconhecido/id=b1725-9-per2
+
+         pad1$joao henriques de oliveira/id=b1725-9-per3
+            ls$cargo/procurador do concelho
+
+         referida$domingas simoa/id=b1725-9-referida
+            ls$residencia/po
+            rel$sociabilidade/ama/joao/b1725-9-n
+
+         referido$luis gomes/id=b1725-9-per4
+            ls$residencia/po
+            rel$parentesco/marido/domingas simoa/b1725-9-referida
+
+         referido$manuel leal henriques/id=b1725-9-per5
+            ls$profissao/padre
+            ls$cargo/cura na igreja de sao pedro
+            rel$sociabilidade/baptizou sub conditione/joao/b1725-9-n
+
+      bap$b1725-10/23/8/1725/fl.4v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$manuel/m/id=b1725-10-per1
+            ls$datamorte/17251124/obs=a margem diz que faleceu a 24 de novembro de 1725.
+            ls$datanasc/17250815
+
+         pn$joao manuel/id=b1725-10-per2
+            ls$residencia/obidos
+
+         mn$josefa maria/id=b1725-10-per3
+            ls$residencia/obidos
+
+         pad1$gregorio antunes correia/id=b1725-10-per4
+
+         mad1$catarina rosa/id=b1725-10-per5
+            ls$residencia/obidos
+
+      bap$b1725-11/20/8/1725/fl.4v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$josefa/f/id=b1725-11-n
+            ls$enjeitada/sim
+
+         pn$nome desconhecido/id=b1725-11-per1
+
+         mn$nome desconhecido/id=b1725-11-per2
+
+         pad1$joao henriques de oliveira/id=b1725-11-per3
+            ls$cargo/procurador do concelho
+
+         referida$catarina luisa/id=b1725-11-per4
+            ls$ec/s
+            rel$sociabilidade/ama/josefa/b1725-11-n
+
+         referido$manuel leal henriques/id=b1725-11-per5
+            ls$profissao/padre
+            ls$cargo/cura da igreja de sao pedro de obidos
+            rel$sociabilidade/baptizou sub conditione/josefa/b1725-11-n
+
+      bap$b1725-12/30/8/1725/fl.5/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$antonio/m/id=b1725-12-per1
+            ls$datanasc/17250821
+
+         pn$luis mendes/id=b1725-12-per2
+            ls$residencia/casal do mosteiro
+
+         mn$luisa maria/id=b1725-12-per3
+            ls$residencia/casal do mosteiro
+
+         pad1$francisco henriques/id=b1725-12-per4
+            ls$residencia/casal do azambujeiro
+
+         mad1$francisca teresa/id=b1725-12-per5
+            rel$parentesco/sobrinha/isabel moreira/b1725-12-referida
+
+         referida$isabel moreira/id=b1725-12-referida
+            ls$residencia/obidos
+
+      bap$b1725-13/5/9/1725/fl.5/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$josefa/f/id=b1725-13-per1
+            ls$datanasc/17250820
+
+         pn$antonio henriques/id=b1725-13-per2
+            ls$residencia/obidos
+
+         mn$bernarda maria/id=b1725-13-per3
+            ls$residencia/obidos
+
+         pad1$luis francisco/id=b1725-13-per4
+            ls$residencia/lisboa
+
+         mad1$josefa joaquina/id=b1725-13-per5
+            ls$residencia/obidos
+
+         procurador-mad1$francisco dos reis vieira/id=b1725-13-per6
+            ls$residencia/obidos
+
+      bap$b1725-14/29/9/1725/fl.5-5v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$maria/f/id=b1725-14-per1
+            ls$datanasc/17250923
+
+         pn$jose gomes/id=b1725-14-per2
+            ls$residencia/obidos
+
+         mn$maria gomes/id=b1725-14-per3
+            ls$residencia/obidos
+
+         pad1$agostinho pereira/id=b1725-14-per4
+            ls$residencia/obidos
+
+      bap$b1725-15/1/10/1725/fl.5v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$maria/f/id=b1725-15-per1
+            ls$datanasc/17250923
+
+         pn$domingos henriques/id=b1725-15-per2
+            ls$residencia/usseira
+
+         mn$joana da silva/id=b1725-15-per3
+            ls$residencia/usseira
+
+         pad1$manuel baptista/id=b1725-15-per4
+            ls$residencia/usseira
+
+         mad1$juliana gomes/id=b1725-15-per5
+            ls$residencia/usseira
+
+      bap$b1725-16/1/11/1725/fl.5v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$crispina crispiniana%chrispina chrispiniana/f/id=b1725-16-per1
+            ls$datanasc/17251025/obs=a margem diz que faleceu, mas nao indica a data.
+
+         pn$manuel martins/id=b1725-16-per2
+            ls$residencia/obidos
+
+         mn$antonia teresa/id=b1725-16-per3
+            ls$residencia/obidos
+
+         pad1$luis pedro furtado/id=b1725-16-per4
+            ls$residencia/obidos
+
+      bap$b1725-17/11/11/1725/fl.6/igreja de sao pedro/joao manuel de sequeira (beneficiado)/obs=assina o cura manuel leal henriques.
+
+         n$manuel/m/id=b1725-17-per1
+            ls$datanasc/17251101
+
+         pn$antonio luis/id=b1725-17-per2
+            ls$residencia/usseira
+
+         mn$leonor da silva/id=b1725-17-per3
+            ls$residencia/usseira
+
+         pad1$matias rodrigues/id=b1725-17-per4
+            ls$residencia/usseira
+
+         mad1$helena da cruz/id=b1725-17-per5
+            ls$residencia/usseira
+
+      bap$b1725-18/24/11/1725/fl.6/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$carlos/m/id=b1725-18-per1
+            ls$datanasc/17251110
+
+         pn$jose franco de carvalho/id=b1725-18-per2
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mn$antonia maria/id=b1725-18-per3
+            ls$residencia/obidos
+
+         pad1$manuel de almeida e castro/id=b1725-18-per4
+            ls$residencia/lisboa
+
+         procurador-pad1$diogo de arruda de avelar/id=b1725-18-per5
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+         mad1$maria de jesus e silva/id=b1725-18-per6
+            ls$residencia/lisboa
+
+         procurador-mad1$domingos da costa da fonseca/id=b1725-18-per7
+            ls$cargo/capitao
+            ls$residencia/obidos
+
+      bap$b1725-19/30/12/1725/fl.6v./igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+         n$monica/f/id=b1725-19-per1
+            ls$datanasc/17251220
+
+         pn$miguel da silva/id=b1725-19-per2
+            ls$residencia/usseira
+
+         mn$mariana da costa/id=b1725-19-per3
+            ls$residencia/usseira
+
+         pad1$manuel da fonseca/id=b1725-19-per4
+            ls$residencia/obidos
+
+         mad1$mariana de sousa/id=b1725-19-per5
+            ls$residencia/delgada

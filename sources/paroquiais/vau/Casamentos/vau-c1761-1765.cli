@@ -1,0 +1,270 @@
+kleio$gacto.str/prefix=vau
+   fonte$casamentos1761-1765/localizacao-a.d.l./freguesia de nossa senhora da piedade, vau
+
+      cas$c1761-1/29/1/1761/fl.9/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
+
+         noivo$jorge da horta/id=c1761-1-per1
+            ls$cargo/cabo da esquadra do regimento da praca de peniche
+            ls$residencia/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoivo$manuel da horta/id=c1761-1-per2
+            ls$morto/antes
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+
+         mnoivo$joana maria/id=c1761-1-per3
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+
+         noiva$joaquina rosa/id=c1761-1-per4
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoiva$jose henriques/id=c1761-1-per5
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+
+         mnoiva$josefa maria soares/id=c1761-1-per6
+            ls$morta/antes
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+
+         test$verissimo martins bahia/obs=padrinho de casamento/id=c1761-1-per7
+            ls$cargo/capitao
+            ls$residencia/peniche
+
+         test$josefa maria teixeira/obs=madrinha de casamento/id=c1761-1-per8
+            rel$parentesco/mulher/mateus teixeira/c1761-1-referido
+
+         referido$mateus teixeira/id=c1761-1-referido
+
+         test$rodrigo alves luis/id=c1761-1-per9
+            ls$profissao/padre
+            ls$assina/sim
+
+         test$jeronimo da silva/id=c1761-1-per10
+            ls$assina/sim
+
+         referido$joao de torres/obs=assina a rogo da madrinha/id=c1761-1-per11
+            ls$profissao/padre
+
+      cas$c1761-2/30/8/1761/fl.9v./igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. a margem: "separey estes cazados aos 8 de dezembro de 1761, por impedimento de consanguinidade que me constou por declaracao de inocencio soares morador no logar do sobral filho natural deste logar do vao, e a muitos annos acistente no dito logar, dice serem os bisavos irmaos, e os casados 4.os graos, e asim fiz esta declaracao. dia, mes, era ut supra. torres pereira ribeiro. debaixo do registo: "estes separados forao dispensados como se ve do assento a folha 10 nas costas". numa folha avulsa cozida a este livro a seguir a folha 10, segue uma dispensa apostolica de jeronimo luis e de luisa maria do vau.
+
+         noivo$jeronimo luis/id=c1761-2-noivo
+            rel$parentesco/consanguinidade de quarto grau/luisa maria/c1761-2-noiva
+            ls$naturalidade/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoivo$jose luis/id=c1761-2-pnoivo
+            ls$naturalidade/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+
+         mnoivo$joana maria/id=c1761-2-mnoivo
+            ls$naturalidade/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+
+         noiva$luisa maria/id=c1761-2-noiva
+            ls$naturalidade/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoiva$pedro ferreira/id=c1761-2-pnoiva
+            ls$naturalidade/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/obidos, igreja de sao tiago
+
+         mnoiva$teresa maria/id=c1761-2-mnoiva
+            ls$naturalidade/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            ls$loccasamento/obidos, igreja de sao tiago
+
+         test$rodrigo luis alves/obs=padrinho do casamento/id=c1761-2-per1
+            ls$profissao/padre
+
+         test$luisa maria franca/obs=madrinha do casamento/id=c1761-2-per2
+            rel$parentesco/mulher/antonio soares ferreira/c1761-2-referido
+
+         referido$antonio soares ferreira/id=c1761-2-referido
+            ls$cargo/tenente
+
+         test$francisca maria/obs=madrinha do casamento/id=c1761-2-per3
+            rel$parentesco/mulher/bernardo francisco/c1761-2-referido1
+
+         referido$bernardo francisco/id=c1761-2-referido1
+
+         test$joao de matos/id=c1761-2-per4
+            ls$cargo/sargento
+
+         test$antonio soares/id=c1761-2-per5
+            ls$cargo/tenente
+
+         test$jose de faria/id=c1761-2-per6
+            ls$cargo/tenente
+
+      cas$c1762-1/23/2/1762/fl.10/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
+
+         noivo$jeronimo da silva/id=c1762-1-per1
+            ls$naturalidade/monte mendo, freguesia de sao leonardo da atouguia da baleia
+
+         pnoivo$antonio cosme/id=c1762-1-per2
+
+         mnoivo$joana delgada/id=c1762-1-per3
+
+         noiva$micaela maria/id=c1762-1-per4
+            ls$naturalidade/freguesia de nossa senhora da piedade
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoiva$luis vicente/id=c1762-1-per5
+            ls$naturalidade/serra da pescaria, freguesia de famalicao/obs=coutos de alcobaca
+
+         mnoiva$maria do o/id=c1762-1-per6
+
+         test$bento das neves madail/obs=duvida na leitura do apelido/id=c1762-1-per7
+            ls$assina/sim
+            ls$cargo/alferes
+
+         test$rosa antonia torres/id=c1762-1-per8
+
+         test$urbano jose soares/id=c1762-1-per9
+            ls$assina/sim
+
+         test$antonio soares ferreira/id=c1762-1-per10
+            ls$cargo/tenente
+            ls$assina/sim
+
+         referido$joao de torres pereira ribeiro/obs=assina a rogo da testemunha/id=c1762-1-per11
+            ls$profissao/padre
+
+      cas$c1762-2/24/6/1762/fl.10v./igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. a cerimonia celebrou-se de tarde. registo de ratificacao. os nubentes "se achavão separados desde o mes de dezembro de 1761, por parentesco que lhe sahio em 4º grao de consanguinidade em linha transversal, e o ratefiquey por graca especial e decreto do emminente senhor cardeal patriarcha...". o paroco tem assim autorizacao para ler durante a missa o decreto do patriarca para que todos tomem conhecimento de que os nubentes foram dispensados do 4º grau de consanguinidade pois casaram sem suspeitar que eram parentes e "havendo respeyto aos inconvenientes que podem succeder na separacao em que se achao, tanto pello perigo da incontinencia, como pella legitimacao da prole que se espera do dito concorcio...".
+
+         noivo$jeronimo luis/mesmo_que=c1761-2-noivo/id=c1762-2-per1
+
+         noiva$luisa maria/mesmo_que=c1761-2-noiva/id=c1762-2-per2
+
+         test$antonio soares ferreira/id=c1762-2-test
+            ls$cargo/tenente
+            ls$residencia/vau
+
+         test$rodrigo alves luis/id=c1762-2-per3
+            ls$profissao/padre
+            ls$residencia/vau
+
+         test$felix henriques/id=c1762-2-per4
+            ls$residencia/vau
+
+         test$bernardino de torres pereira ribeiro/id=c1762-2-per5
+            ls$profissao/oficial de ourives de prata
+            ls$naturalidade/coutos de alcobaca
+
+         test$luisa maria/id=c1762-2-per6
+            rel$parentesco/mulher/antonio soares/c1762-2-test/obs=assinou a seu rogo o padre joao de torres pereira ribeiro
+
+         test$engracia maria/id=c1762-2-per7
+            ls$ec/v
+
+      cas$c1764-1/7/5/1764/fl.11/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
+
+         noivo$marcos lopes/id=c1764-1-per1
+            ls$residencia/moinho da ferraria, freguesia de nossa senhora da piedade
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoivo$pascoal lopes/id=c1764-1-per2
+
+         mnoivo$maria francisca/id=c1764-1-per3
+
+         noiva$maria antonia/id=c1764-1-per4
+            ls$naturalidade/serra do bouro
+
+         pnoiva$joaquim da fonseca/id=c1764-1-per5
+
+         mnoiva$antonia maria/id=c1764-1-per6
+
+         test$jose morinho/id=c1764-1-per7
+            ls$naturalidade/amoreira
+            ls$assina/sim
+
+         test$jose marques/id=c1764-1-per8
+            ls$naturalidade/foz
+            ls$assina/cruz
+
+         test$marcos lopes/id=c1764-1-per9
+            ls$naturalidade/ribeira de vale benfeito
+            ls$assina/cruz
+
+         test$antonio jose da conceicao/id=c1764-1-per10
+            ls$titulo/muito reverendo
+            ls$titulo/senhor
+            ls$titulo/frei
+            ls$ordem/sao jeronimo
+            ls$residencia/convento de vale benfeito
+            ls$assina/sim
+
+      cas$c1764-2/4/6/1764/fl.11v./igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro.
+
+         noivo$jose francisco louro/id=c1764-2-per1
+            ls$naturalidade/sobral da lagoa, freguesia de sao joao do mocharro
+
+         pnoivo$manuel francisco louro%manoel francisco louyo/id=c1764-2-per2
+
+         mnoivo$josefa maria/id=c1764-2-per3
+
+         noiva$rosa maria barbara/id=c1764-2-per4
+            ls$ec/v
+            ls$naturalidade/vau, freguesia de nossa senhora da piedade
+
+         pnoiva$jose goncalves/id=c1764-2-per5
+            ls$morto/antes
+
+         mnoiva$maria luisa/id=c1764-2-per6
+            ls$morta/antes
+
+         test$antonio martins/id=c1764-2-per7
+            ls$assina/cruz
+            ls$residencia/vau
+
+         test$jose luis pinheiro/id=c1764-2-per8
+            ls$assina/cruz
+            ls$residencia/vau
+
+         test$manuel cardoso/id=c1764-2-per9
+            ls$assina/cruz
+            ls$residencia/vau
+
+         test$jose soares/id=c1764-2-per10
+            ls$assina/cruz
+            ls$profissao/soldado
+            ls$residencia/vau
+
+      cas$c1765-1/28/2/1765/fl.12/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha. a margem diz que receberam as bencaos nupciais no dia 15 de agosto de 1765, dia de nossa senhora dos prazeres, estando presentes jeronimo da silva e jose henriques, entre muitas outras pessoas.
+
+         noivo$jose alves/id=c1765-1-per1
+            ls$naturalidade/vau
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoivo$rodrigo alves/id=c1765-1-per2
+            ls$morto/antes
+
+         mnoivo$maria luisa/id=c1765-1-per3
+            ls$morta/antes
+
+         noiva$maria rosa/id=c1765-1-per4
+            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+
+         pnoiva$francisco henriques/id=c1765-1-per5
+
+         mnoiva$rosa maria/id=c1765-1-per6
+
+         test$jeronimo da silva/id=c1765-1-per7
+            ls$assina/mal
+
+         test$rosa maria/id=c1765-1-per8
+            rel$parentesco/mulher/joao luis/c1765-1-referido
+
+         referido$joao luis/id=c1765-1-referido
+
+         test$joao de matos/id=c1765-1-per9
+
+         test$rodrigo alves luis/id=c1765-1-per10
+            ls$profissao/padre
+            ls$assina/sim

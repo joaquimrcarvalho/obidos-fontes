@@ -1,0 +1,988 @@
+kleio$gacto.str/prefix=sjoao
+   fonte$obitos1538-1559/localizacao-a.d.l./freguesia de sao joao
+
+      obito$o1538-1/31/12/1538/fl.46/nome desconhecido
+
+         n$bernardo/m/id=o1538-1-per1
+            ls$idade_aprox/menor/obs=crianca
+
+            pai$francisco pires%fº piz/id=o1538-1-per1-per2
+               ls$residencia/arelho
+
+      obito$o1538-2/9/1/1538/fl.46/nome desconhecido
+
+         n$pascoal da paz/m/id=o1538-2-n
+            ls$residencia/sobral
+
+         testamento$sim
+
+         referido$afonso pires/id=o1538-2-per1
+            rel$parentesco/irmao/pascoal da paz/o1538-2-n
+            rel$sociabilidade/testamenteiro/pascoal da paz/o1538-2-n
+            ls$residencia/freguesia de sao joao
+
+      obito$o1538-3/28/7/1538/fl.46/nome desconhecido
+
+         n$antonio fernandes/m/id=o1538-3-per1
+            ls$residencia/arelho
+
+         testamento$nao
+
+      obito$o1538-4/23/8/1538/fl.46/nome desconhecido
+
+         n$fernando/m/id=o1538-4-per1
+
+            pai$manuel fernandes/id=o1538-4-per1-per2
+               ls$residencia/arelho
+
+      obito$o1538-5/28/11/1538/fl.46/nome desconhecido
+
+         n$francisco esteves%fº estevez/m/id=o1538-5-n
+            ls$residencia/bairro
+
+            mulher$hilaria pires/id=o1538-5-n-per1
+               ls$residencia/bairro
+               rel$sociabilidade/testamenteira/francisco esteves/o1538-5-n
+
+         testamento$sim
+
+         referido$goncalo de braganca/obs=fez o testamento/id=o1538-5-per2
+
+      obito$o1540-1/18/9/1540/fl.46/nome desconhecido
+
+         n$maria afonso/f/id=o1540-1-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$pero anes%po anes/id=o1540-1-per2
+            ls$residencia/arelho
+
+      obito$o1540-2/7/11/1540/fl.46/nome desconhecido
+
+         n$fernao goncalves/m/id=o1540-2-n
+            ls$alcunha/o conde
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1540-3/7/11/1540/fl.46/nome desconhecido
+
+         n$nome desconhecido/f/id=o1540-3-per1
+
+            marido$fernao goncalves/mesmo_que=o1540-2-n/id=o1540-3-per1-per2
+
+         testamento$nao
+
+      obito$o1537-1/15/6/1537/fl.46v./nome desconhecido
+
+         n$luisa/f/id=o1537-1-per1
+            ls$idade_aprox/menor/obs=crianca
+
+            pai$roque goncalves/id=o1537-1-per1-per2
+               ls$residencia/carregal
+
+      obito$o1537-2/26/10/1537/fl.46v./nome desconhecido
+
+         n$catarina franca/f/id=o1537-2-per1
+            ls$residencia/arelho
+
+         testamento$nao
+
+         marido$joao alves%jo alves/id=o1537-2-per2
+            ls$residencia/arelho
+
+      obito$o1537-3/4/12/1537/fl.46v./nome desconhecido
+
+         n$nome desconhecido/m/id=o1537-3-per1
+            ls$residencia/sobral
+
+            pai$luis alves/id=o1537-3-per1-per2
+               ls$residencia/sobral
+
+            mae$nome desconhecido/id=o1537-3-per1-per3
+               ls$residencia/sobral
+
+      obito$o1537-4/9/12/1537/fl.46v./nome desconhecido
+
+         n$afonso anes leitao/m/id=o1537-4-per1
+            ls$residencia/sobral
+
+         testamento$nao
+
+      obito$o1537-5/15/6/1537/fl.46v./nome desconhecido
+
+         n$catarina/f/id=o1537-5-per1
+            ls$idade_aprox/menor/obs=crianca
+            ls$residencia/arelho
+
+            pai$joao fernandes%jº frz/id=o1537-5-per1-per2
+               ls$residencia/arelho
+
+            mae$catarina dias/id=o1537-5-per1-per3
+               ls$residencia/arelho
+
+      obito$o15??-1/22/0/15??/fl.47/nome desconhecido
+
+         n$maria/f/id=o15??-1-per1
+            ls$idade_aprox/menor/obs=crianca
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         pai$diogo leitao/id=o15??-1-per2
+            ls$residencia/sobral
+
+      obito$o15??-2/3/7/15??/fl.47/baltazar dias
+
+         n$maria afonso%ma. af./f/id=o15??-2-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$joao alvares/id=o15??-2-per2
+            ls$residencia/sobral
+
+      obito$o15??-3/3/0/15??/fl.47/nome desconhecido
+
+         n$aleixo/m/id=o15??-3-per1
+            ls$idade_aprox/menor/obs=crianca
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         pai$antonio fernandes/id=o15??-3-per2
+            ls$residencia/arelho
+
+         mae$isabel dias/id=o15??-3-per3
+            ls$residencia/arelho
+
+      obito$o15??-4/7/7/15??/fl.47/baltazar dias
+
+         n$isabel alves/f/id=o15??-4-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o15??-5/13/9/15??/fl.47/baltazar dias
+
+         n$guiomar alves/m/id=o15??-5-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$joao alves/id=o15??-5-per2
+            ls$residencia/bairro
+
+      obito$o15??-6/23/10/15??/fl.47/baltazar dias
+
+         n$joao fernandes/m/id=o15??-6-n
+            ls$alcunha/o preto
+            ls$residencia/carregal
+
+         locs$dentro da igreja de sao joao
+
+         testamento$sim
+
+         referido$nome desconhecido/id=o15??-6-per1
+            ls$residencia/sobral
+            rel$parentesco/genro/joao fernandes/o15??-6-n
+            rel$sociabilidade/testamenteiro/joao fernandes/o15??-6-n
+
+      obito$o15??-7/20/12/15??/fl.47/desc
+
+         n$maria anes/f/id=o15??-7-per1
+            ls$residencia/sobral
+            ls$pobre/sim/obs=mulher muito pobre
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1544-1/17/11/1544/fl.47v./nome desconhecido
+
+         n$maria afonso%mª afom./f/id=o1544-1-per1
+            ls$ec/viuva
+            ls$residencia/obidos
+            ls$freguesia/sao tiago
+
+         locs$dentro da igreja de sao joao do mocharro
+
+         testamento$nao
+
+      obito$o1544-2/6/12/1544/fl.47v./nome desconhecido
+
+         n$leonor fernandes/f/id=o1544-2-per1
+            ls$ec/viuva
+            ls$residencia/carregal
+
+         locs$a porta principal da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento por confiar que seu filhos lhe fizessem bem por sua alma
+
+      obito$o1544-3/28/1/1544/fl.47v./nome desconhecido
+
+         n$antonio pires/m/id=o1544-3-n
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$sim/obs=fez uma cedula
+
+         mae$maria pires/id=o1544-3-per1
+            ls$residencia/bairro
+            rel$sociabilidade/testamenteira/antonio pires/o1544-3-n
+
+      obito$o1544-4/25/4/1544/fl.47v./nome desconhecido
+
+         n$maria goncalves/f/id=o1544-4-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$joao pires/id=o1544-4-per2
+            ls$residencia/arelho
+
+      obito$o1545-1/17/10/1545/fl.47v./nome desconhecido
+
+         n$pero dias/m/id=o1545-1-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao
+
+      obito$o1545-2/28/10/1545/fl.47v./nome desconhecido
+
+         n$? luis/m/id=o1545-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao
+
+      obito$o1546-1/26/5/1546/fl.47v./baltazar dias
+
+         n$jorge fernandes/m/id=o1546-1-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao
+
+      obito$o1546-2/5/6/1546/fl.47v./nome desconhecido
+
+         n$isabel/f/id=o1546-2-per1
+            ls$ec/solteira/obs=moca
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         pai$henrique leitao/id=o1546-2-per2
+            ls$residencia/sobral
+
+      obito$o1546-3/9/6/1546/fl.47v./nome desconhecido
+
+         n$gaspar/m/id=o1546-3-per1
+            ls$ec/s/obs=mocinho
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         pai$estevao anes/id=o1546-3-per2
+            ls$residencia/sobral
+
+      obito$o1546-4/13/6/1546/fl.47v./nome desconhecido
+
+         n$nome desconhecido/m/id=o1546-4-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         pai$? pires/id=o1546-4-per2
+            ls$residencia/sobral
+
+      obito$o1547-1/12/2/1547/fl.48/baltazar dias
+
+         n$cecilia fernandes/f/id=o1547-1-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem a terca.
+
+         marido$domingos dias/id=o1547-1-per2
+            ls$residencia/arelho
+
+      obito$o1547-2/10/3/1547/fl.48/baltazar dias
+
+         n$joao alves/m/id=o1547-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez terca nem testamento
+
+      obito$o1547-3/3/5/1547/fl.48/baltazar dias
+
+         n$luis/m/id=o1547-3-per1
+            ls$residencia/arelho
+            ls$ec/s/obs=moco
+
+         locs$adro da igreja de sao joao do mocharro
+
+         pai$joao anes/obs=duvida na leitura do apelido/id=o1547-3-per2
+            ls$residencia/arelho
+
+      obito$o1547-4/9/10/1547/fl.48/baltazar dias
+
+         n$maria afonso/f/id=o1547-4-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$joao luis/id=o1547-4-per2
+            ls$residencia/arelho
+
+      obito$o1547-5/14/11/1547/fl.48/baltazar dias
+
+         n$? andre/f/id=o1547-5-per1
+            ls$residencia/sobral
+
+         locs$adro de nossa senhora de aboboriz
+
+         testamento$nao
+
+         marido$mateus silvestre/id=o1547-5-per2
+            ls$residencia/sobral
+
+      obito$o1548-1/8/6/1548/fl.48/baltazar dias
+
+         n$isabel fernandes/f/id=o1548-1-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+      obito$o1548-2/8/6/1548/fl.48v./baltazar dias
+
+         n$joao escudeiro%joham esqudeyro/m/id=o1548-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez cedula nem testamento
+
+      obito$o1548-3/22/8/1548/fl.48v./baltazar dias
+
+         n$nome desconhecido/f/id=o1548-3-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao/obs=nao fez testamento por nao ter idade para isso
+
+         pai$bras alves/obs=duvida na leitura do nome/id=o1548-3-per2
+            ls$residencia/arelho
+
+      obito$o1548-4/26/12/1548/fl.48v./baltazar dias
+
+         n$joana pires/f/id=o1548-4-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+      obito$o1549-1/2/2/1549/fl.48v./baltazar dias
+
+         n$joao fernandes/m/id=o1549-1-per1
+            ls$alcunha/o galego
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+      obito$o1549-2/13/9/1549/fl.48v./baltazar dias
+
+         n$joana fernandes/f/id=o1549-2-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         marido$estevao anes/id=o1549-2-per2
+            ls$residencia/sobral
+
+      obito$o1549-3/3/10/1549/fl.48v./baltazar dias
+
+         n$pero anes%pº anes/m/id=o1549-3-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$sim
+
+         referido$antonio pires/id=o1549-3-per1
+            rel$parentesco/irmao/pero anes/o1549-3-n
+            rel$sociabilidade/testamenteiro/pero anes/o1549-3-n
+
+      obito$o1549-4/3/11/1549/fl.49/baltazar dias
+
+         n$catarina fernandes%cnª frz/f/id=o1549-4-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         pai$jose nunes/obs=duvida na leitura do nome e apelido/id=o1549-4-per2
+            ls$residencia/arelho
+
+      obito$o1549-5/9/11/1549/fl.49/baltazar dias
+
+         n$ana/f/id=o1549-5-per1
+            ls$ec/solteira
+            ls$pobre/sim
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+      obito$o1550-1/7/3/1550/fl.49/baltazar dias
+
+         n$isabel goncalves/f/id=o1550-1-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$fernando eanes/id=o1550-1-per2
+            ls$residencia/arelho
+
+      obito$o1550-2/7/8/1550/fl.49/baltazar dias
+
+         n$antonio fernandes/m/id=o1550-2-per1
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         causa$afogamento/obs=nao fez testamento nem cedula porque "se alagaram todos tres na lagoa vindo em hum barquo caregado de trygo". Morreu junto com martinho
+
+      obito$o1550-3/7/8/1550/fl.49/baltazar dias
+
+         n$martinho/m/obs=nao fez testamento nem cedula porque "se alagaram todos tres na lagoa vindo em hum barquo caregado de trygo"/id=o1550-3-per1
+            ls$ec/s
+            ls$residencia/arelho/obs=homem solteiro
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         pai$joao luis/id=o1550-3-per2
+            ls$residencia/arelho
+
+         causa$afogamento/obs=nao fez testamento nem cedula porque "se alagaram todos tres na lagoa vindo em hum barquo caregado de trygo". morreu junto com antonio fernandes
+
+      obito$o1550-4/7/8/1550/fl.49/baltazar dias
+
+         n$nome desconhecido/m/id=o1550-4-per1
+            ls$ec/s
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         causa$afogamento/obs=nao fez testamento nem cedula porque "se alagaram todos tres na lagoa vindo em hum barquo caregado de trygo"morreu junto com antonio fernandes e martinho
+
+         pai$mateus pires/id=o1550-4-per2
+            ls$residencia/vale benfeito
+
+      obito$o1550-5/7/11/1550/fl.49/baltazar dias
+
+         n$antonia dias/f/id=o1550-5-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao
+
+         marido$jorge alves/id=o1550-5-per2
+            ls$residencia/arelho
+
+      obito$o1550-6/20/12/1550/fl.49/baltazar dias
+
+         n$? rodrigues/f/id=o1550-6-per1
+            ls$residencia/tras do outeiro
+            ls$freguesia/sao tiago
+
+         locs$dentro da igreja de sao joao do mocharro/obs=o seu pai o mandou enterrar dentro da igreja de sao joao
+
+         testamento$nao
+
+         marido$alvaro ?/id=o1550-6-per2
+            ls$residencia/tras do outeiro
+            ls$freguesia/sao tiago
+
+      obito$o1550-7/25/12/1550/fl.49v./baltazar dias
+
+         n$maria dias/f/id=o1550-7-per1
+            ls$residencia/arelho
+
+         locs$asro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+      obito$o1551-1/21/1/1551/fl.49v./baltazar dias
+
+         n$bras pires/m/id=o1551-1-n
+            ls$residencia/sobral da lagoa
+
+         locs$adro da igreja de sao joao
+
+         testamento$sim
+
+         mulher$leonor goncalves/id=o1551-1-per1
+            ls$residencia/sobral da lagoa
+            rel$sociabilidade/testamenteira/bras pires/o1551-1-n
+
+         referida$juliana bras/id=o1551-1-per2
+            rel$parentesco/filha/bras pires/o1551-1-n
+            rel$sociabilidade/testamenteira/bras pires/o1551-1-n
+
+      obito$o1551-2/22/1/1551/fl.49v./baltazar dias
+
+         n$maria goncalves/f/id=o1551-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         mae$maria bras/id=o1551-2-per2
+            ls$residencia/arelho
+
+      obito$o1551-3/24/1/1551/fl.49v./baltazar dias
+
+         n$catarina fernandes/f/obs=duvida na leitura do apelido/id=o1551-3-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1554-1/21/3/1554/fl.49v./baltazar dias
+
+         n$maria alvares/f/id=o1554-1-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao
+
+         marido$bras eanes/id=o1554-1-per2
+            ls$residencia/bairro
+
+      obito$o1554-2/29/3/1554/fl.50/baltazar dias
+
+         n$bras eanes/m/id=o1554-2-n
+            ls$residencia/bairro
+
+         testamento$nao
+
+         locs$adro da igreja de sao joao do mocharro
+
+         mulher$maria nunes%mª nunz/obs=duvida na leitura do apelido/id=o1554-2-per1
+            ls$residencia/bairro
+
+      obito$o1554-3/30/3/1554/fl.50/baltazar dias (cura)
+
+         n$pero fernandes/m/id=o1554-3-n
+            ls$residencia/bairro
+            rel$parentesco/irmao/bras eanes/o1554-2-n
+
+         locs$adro da igreja de sao joao do mocharro
+
+         testamento$nao/obs=fez um escrito de lembranca sem comendador a sua mulher maria lopes e a seu sogro joao afonso
+
+         mulher$maria lopes/id=o1554-3-per1
+
+         referido$joao afonso/id=o1554-3-per2
+            rel$parentesco/sogro/pero fernandes/o1554-3-n
+
+      obito$o1555-1/7/4/1555/fl.50/baltazar dias
+
+         n$antonio ?/m/id=o1555-1-per1
+            ls$ec/s
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez cedula nem testamento
+
+         pai$antonio pires/id=o1555-1-per2
+            ls$residencia/arelho
+
+      obito$o1555-2/17/4/1555/fl.50/baltazar dias
+
+         n$antonio pires/m/id=o1555-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez nem testamento nem cedula
+
+      obito$o1555-3/28/8/1555/fl.50/baltazar dias
+
+         n$maria ?/f/id=o1555-3-per1
+            ls$residencia/a da gorda
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=
+
+         oficios$sim. 3 oficios
+
+         marido$gaspar dias/id=o1555-3-per2
+            ls$residencia/a da gorda
+
+      obito$o1555-4/9/10/1555/fl.50/baltazar dias
+
+         n$isabel fernandes/f/obs=duvida na leitura do apelido/id=o1555-4-per1
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+      obito$o1555-5/??/10/1555/fl.50/baltazar dias
+
+         n$? alves/f/id=o1555-5-per1
+            ls$residencia/arelho
+
+         locs$igreja de sao joao
+
+         testamento$nao
+
+      obito$o1555-6/25/11/1555/fl.50v./baltazar dias
+
+         n$vicente alves/m/obs=duvida na leitura do nome e apelido/id=o1555-6-n
+            ls$residencia/carregal
+
+         locs$igreja de sao joao
+
+         testamento$sim
+
+         referido$nome desconhecido/id=o1555-6-per1
+            rel$parentesco/filho/vicente alves/o1555-6-n
+            rel$sociabilidade/testamenteiro/vicente alves/o1555-6-n
+
+      obito$o1556-1/2/1/1556/fl.50v./baltazar dias
+
+         n$joao pires/m/id=o1556-1-n
+            ls$residencia/bairro
+
+         locs$dentro da igreja de sao joao
+
+         testamento$sim/obs=deixou os seus filhos e filhas por testamenteiros
+
+      obito$o1556-2/15/1/1556/fl.50v./baltazar dias
+
+         n$maria alves/f/id=o1556-2-per1
+            ls$ec/viuva
+            ls$residencia/arelho
+            ls$pobre/sim
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1556-3/23/2/1556/fl.50v./baltazar dias
+
+         n$maria fernandes/f/id=o1556-3-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         oficios$sim
+
+         testamento$nao/obs=deixou a sua terça a sua filha antonia para que lhe mandasse fazer os oficios
+
+         referida$antonia/id=o1556-3-per1
+            rel$parentesco/filha/maria fernandes/o1556-3-n
+
+      obito$o1556-4/2/8?/1556/fl.50v./baltazar dias
+
+         n$catarina afonso/f/obs=duvida na leitura do nome e apelido/id=o1556-4-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$adao dias/id=o1556-4-per2
+            ls$residencia/arelho
+
+      obito$o1556-4a/2/3/1556/fl.50v./baltazar dias
+
+         n$joao fernandes/m/id=o1556-4-n
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=fez somente uma lembranca de que mandava fazer sua alma e a encomendou a seus genros e filhas
+
+         referida$nome desconhecido/id=o1556-4a-per1
+            rel$parentesco/filha/joao fernandes/o1556-4-n
+
+         referida$nome desconhecido/id=o1556-4a-per2
+            rel$parentesco/filha/joao fernandes/o1556-4-n
+
+         referido$nome desconhecido/id=o1556-4a-per3
+            rel$parentesco/genro/joao fernandes/o1556-4-n
+
+         referido$nome desconhecido/id=o1556-4a-per4
+            rel$parentesco/genro/joao fernandes/o1556-4-n
+
+      obito$o1556-5/17/9/1556/fl.50v./baltazar dias
+
+         n$filipa fernandes/f/id=o1556-5-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$amador fernandes/id=o1556-5-per2
+            ls$residencia/arelho
+
+      obito$o1556-6/13/10/1556/fl.51/baltazar dias
+
+         n$guiomar fernandes/f/obs=duvida na leitura do nome/id=o1556-6-n
+
+         locs$adro da igreja de sao joao
+
+         testamento$sim/obs=fez uma cedula seu filho amador fernandes testamenteiro de guiomar fernande
+
+         marido$simao pires/id=o1556-6-per1
+            ls$residencia/arelho
+
+         referido$amador fernandes/id=o1556-6-per2
+            rel$parentesco/filho/guiomar fernandes/o1556-6-n
+            rel$sociabilidade/testamenteiro/guiomar fernandes/o1556-6-n
+
+      obito$o1556-7/7/11/1556/fl.51/baltazar dias
+
+         n$guiomar/f/id=o1556-7-per1
+            ls$ec/solteira/obs=moca solteira
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         mae$beatriz duarte/id=o1556-7-per2
+            ls$residencia/arelho
+
+      obito$o1557-1/30/12/1557/fl.51/baltazar dias
+
+         n$isabel luis/f/id=o1557-1-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         marido$marcos fernandes/id=o1557-1-per2
+            ls$residencia/arelho
+
+      obito$o1557-2/20/12/1557/fl.51/baltazar dias
+
+         n$fernao eanes/m/id=o1557-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1557-3/25/9/1557/fl.51/baltazar dias
+
+         n$catarina afonso/f/id=o1557-3-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez cedula nem testamento
+
+         marido$joao fernandes/id=o1557-3-per2
+            ls$residencia/sobral
+
+      obito$o1557-4/8/10/1557/fl.51/baltazar dias
+
+         n$maria fernandes/f/id=o1557-4-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$diogo leitao%diº lleitã/id=o1557-4-per2
+            ls$residencia/sobral
+
+      obito$o1558-1/3/1/1558/fl.51v./baltazar dias
+
+         n$maria franca/f/id=o1558-1-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=fez uma cedula em que encomendava a sua irma antonia goncalves que lhe cumprisse o nela mandava fazer por sua alma e o fez
+
+         referida$antonia goncalves/id=o1558-1-per1
+            rel$parentesco/irma/maria franca/o1558-1-n
+
+      obito$o1558-2/22/1/1558/fl.51v./baltazar dias
+
+         n$isabel alves/f/id=o1558-2-n
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$sim. o seu marido ficou por testamenteiro
+
+         marido$cristovao lopes/id=o1558-2-per1
+            ls$residencia/sobral
+            rel$sociabilidade/testamenteiro/isabel alves/o1558-2-n
+
+      obito$o1558-3/28/1/1558/fl.51v./baltazar dias
+
+         n$marta luis/f/id=o1558-3-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=fez uma lembranca de que mandava a seus filhos que lhe fizessem por sua alma a qual tem domingos pires seu genro
+
+         marido$goncalo fernandes%go. frz/id=o1558-3-per1
+            ls$residencia/arelho
+
+         referido$domingos pires/id=o1558-3-per2
+            rel$parentesco/genro/marta luis/o1558-3-n
+
+      obito$o1558-4/25/3/1558/fl.51v./baltazar dias
+
+         n$beatriz fernandes/f/id=o1558-4-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$pedro anes/id=o1558-4-per2
+            ls$residencia/arelho
+
+      obito$o1558-5/27/3/1558/fl.51v./baltazar dias
+
+         n$isabel fernandes/f/id=o1558-5-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+         marido$joao afonso/id=o1558-5-per2
+            ls$residencia/arelho
+
+      obito$o1558-6/2/4/1558/fl.51v./baltazar dias
+
+         n$isabel fernandes/f/id=o1558-6-per1
+            ls$ec/viuva
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1558-7/20/11/1558/fl.51v./baltazar dias
+
+         n$pedro afonso/m/id=o1558-7-per1
+            ls$residencia/bairro
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao refere/obs=fez uma cedula e se bastiao dias para a cumprir
+
+         referido$sebastiao dias/id=o1558-7-per2
+
+      obito$o1558-8/6/12/1558/fl.51v./baltazar dias
+
+         n$jeronimo ferreira/f/id=o1558-8-per1
+            ls$residencia/sobral
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao
+
+      obito$o1559-1/23/3/1559/fl.52/baltazar dias
+
+         n$ana fernandes/f/id=o1559-1-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         marido$duarte pires/id=o1559-1-marido
+            ls$residencia/arelho
+
+      obito$o1559-2/25/4/1559/fl.52/baltazar dias
+
+         n$duarte pires/m/mesmo_que=1559-1-marido/id=o1559-2-per1
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao, junto a ana fernandes que era sua mulher
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+         mulher$ana fernandes/mesmo_que=o1559-1-n/id=o1559-2-per2
+            ls$morta/antes
+
+      obito$o1559-3/20/11/1559/fl.52/baltazar dias
+
+         n$francisco fernandes/m/obs=duvida na leitura do nome e apelido/id=o1559-3-per1
+            ls$residencia/carregal
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=nao fez testamento nem cedula
+
+      obito$o1559-4/24/11/1559/fl.52/baltazar dias
+
+         n$joao luis/m/obs=duvida na leitura do apelido/id=o1559-4-n
+            ls$residencia/arelho
+
+         locs$adro da igreja de sao joao
+
+         testamento$nao/obs=fez uma cedula e deixou seu filho joao luis moradora de a da gorda por testamenteiro
+
+         referido$joao luis/id=o1559-4-per1
+            ls$residencia/a da gorda
+            rel$sociabilidade/testamenteiro/joao luis/o1559-4-n

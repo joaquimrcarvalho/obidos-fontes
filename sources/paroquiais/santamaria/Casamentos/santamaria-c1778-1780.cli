@@ -1,0 +1,380 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$casamentos1778-1780/localizacao-a.d.l./freguesia de santa maria
+
+      cas$c1778-6/14/12/1778/fl.1/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$joao henriques/id=c1778-6-per1
+            ls$ec/v
+            ls$residencia/casal da bochardia
+            ls$freguesia/sao tiago
+
+            mulher1$luisa jacinta/id=c1778-6-per1-per2
+               ls$morta/antes
+
+         noiva$micaela antonia/id=c1778-6-per5
+            ls$naturalidade/gaeiras
+            ls$freguesia/sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+            ls$residencia/gaeiras, freguesia de santa maria
+
+         pnoiva$silverio da silva/id=c1778-6-per6
+
+         mnoiva$francisca maria/id=c1778-6-per7
+
+         test$joao francisco/id=c1778-6-per8
+            ls$residencia/gaeiras
+            ls$assina/cruz/obs=assinou joaquim antonio a rogo de joao francisco
+
+         test$joaquim antonio de sequeira/id=c1778-6-per9
+            ls$cargo/tesoureiro da igreja de santa maria
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1778-7/30/12/1778/fl.1-1v./igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$vicente ferreira/id=c1778-7-per1
+            ls$ec/s
+            ls$naturalidade/freguesia de santa maria
+            ls$residencia/freguesia de santa maria
+
+         pnoivo$joao ferreira/id=c1778-7-per2
+
+         mnoivo$maria josefa/id=c1778-7-per3
+
+         noiva$rosa maria/id=c1778-7-per4
+            ls$ec/s
+            ls$naturalidade/arelho
+            ls$freguesia/sao joao de mocharro
+            ls$locbaptismo/freguesia de sao joao de mocharro
+            ls$residencia/freguesia de santa maria
+
+         pnoiva$jose francisco/id=c1778-7-per5
+
+         mnoiva$iria dos santos/id=c1778-7-per6
+
+         test$jose monteiro malhao/id=c1778-7-per7
+            ls$cargo/capitao
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/bem
+
+         test$maximo joaquim de almeida/id=c1778-7-per8
+            ls$profissao/padre
+            ls$titulo/reverendo
+            ls$cargo/economo da igreja de santa maria
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1779-1/9/1/1779/fl.1v./igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$estanislau tavares/id=c1779-1-per1
+            ls$ec/s
+            ls$naturalidade/freguesia de nossa senhora da visitacao, alvorninha
+            ls$residencia/gaeiras
+
+         pnoivo$manuel joao/id=c1779-1-per2
+
+         mnoivo$teresa rosa/id=c1779-1-per3
+
+         noiva$antonia luisa/id=c1779-1-per4
+            ls$ec/s
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$residencia/gaeiras
+
+         pnoiva$manuel francisco/id=c1779-1-per5
+
+         mnoiva$maria madalena/id=c1779-1-per6
+
+         test$manuel antonio da costa/id=c1779-1-per7
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$agostinho goncalves/id=c1779-1-per8
+            ls$residencia/casal do azambujeiro
+            ls$assina/cruz/obs=assina joaquim antonio de sequeira a rogo de agostinho goncalves
+
+      cas$c1779-2/15/2/1779/fl.2/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$antonio rodrigues/id=c1779-2-per1
+            ls$ec/s
+            ls$naturalidade/valado
+            ls$freguesia/sao joao baptista, alfeizerao
+            ls$locbaptismo/freguesia de sao joao baptista, alfeizerao
+            ls$residencia/gaeiras
+
+         pnoivo$manuel rodrigues/id=c1779-2-per2
+
+         mnoivo$quiteria maria/id=c1779-2-per3
+
+         noiva$ana joaquina/id=c1779-2-per4
+            ls$ec/s
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$residencia/gaeiras
+
+         pnoiva$manuel francisco/id=c1779-2-per5
+
+         mnoiva$maria madalena/id=c1779-2-per6
+
+         test$manuel rebelo/id=c1779-2-per7
+            ls$residencia/gaeiras
+            ls$assina/sim
+
+         test$agostinho goncalves/id=c1779-2-per8
+            ls$residencia/casal do azambujeiro
+            ls$assina/sim/obs=assina joaquim antonio de sequeira a rodo de agostinho goncalves
+
+      cas$c1779-3/19/10/1779/fl.2-2v./ermida de santo antao, extra-muros de obidos/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$joao antonio tonsem/id=c1779-3-per1
+            ls$ec/s
+            ls$naturalidade/freguesia de sao sebastiao da pedreira, lisboa
+            ls$locbaptismo/freguesia de sao sebastiao da pedreira, lisboa
+            rel$parentesco/pai/joao/c1779-3-test
+            rel$parentesco/pai/francisco/c1779-3-teste
+            ls$residencia/gaeiras
+
+         pnoivo$joao henrique tonsem/id=c1779-3-per2
+
+         mnoivo$antonia joaquim tonsem/id=c1779-3-per3
+            ls$titulo/dona
+
+         noiva$filipa constancia leonor/id=c1779-3-per4
+            ls$ec/s
+            ls$naturalidade/freguesia de sao vicente de fora, lisboa
+            ls$locbaptismo/freguesia de sao vicente de fora, lisboa
+            rel$parentesco/mae/joao/c1779-3-test
+            rel$parentesco/mae/francisco/c1779-3-teste
+            ls$residencia/gaeiras/obs=a contraente aquando do sacramento do crisma, mudou o nome filipa para constancia, perante o vigario geral
+
+         pnoiva$estevao jose/id=c1779-3-per5
+
+         mnoiva$francisca do rosario/id=c1779-3-per6
+
+         test$joao/id=c1779-3-test/obs="a cujo matrimonio e bencoens nupciaes asistirao seus dous filhos, havidos antes deste matrimonio"
+
+         test$francisco/id=c1779-3-teste/obs="a cujo matrimonio e bencoens nupciaes asistirao seus dous filhos, havidos antes deste matrimonio"
+
+         test$carlos jose da serra/id=c1779-3-per7
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$cargo/cura da igreja de sao pedro
+            ls$assina/sim
+
+         test$jose luis fialho de mendonca/id=c1779-3-per8
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+            ls$cargo/cura na igreja de sao tiago
+            ls$assina/sim
+            ls$assina/bem
+
+         referido$nome desconhecido/id=c1779-3-per9
+            ls$titulo/senhor
+            ls$cargo/cardeal patriarca
+
+      cas$c1779-4/27/11/1779/fl.2v.-3/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$jose inacio/id=c1779-4-per1
+            ls$ec/v
+            ls$residencia/gaeiras
+
+            mulher1$mariana josefa/id=c1779-4-per1-per2
+               ls$morta/antes
+               ls$residencia/gaeiras
+
+         pnoivo$/id=c1779-4-per3
+
+         mnoivo$/id=c1779-4-per4
+
+         noiva$teresa maria/id=c1779-4-per5
+            ls$naturalidade/cravide
+            ls$freguesia/sao lourenco
+            ls$locbaptismo/freguesia de sao lourenco
+            ls$bispado/leiria
+            ls$residencia/gaeiras
+
+         pnoiva$felix jose/id=c1779-4-per6
+
+         mnoiva$luisa maria/id=c1779-4-per7
+
+         test$manuel leonardo gomes/id=c1779-4-per8
+            ls$assina/sim
+            ls$assina/bem
+            ls$residencia/obidos
+
+         test$joaquim antonio de sequeira/id=c1779-4-per9
+            ls$cargo/tesoureiro daigreja de santa maria
+            ls$assina/sim
+            ls$assina/bem
+
+      cas$c1779-5/2/12/1779/fl.3/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$tomas de aquino/id=c1779-5-per1
+            ls$ec/s
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de santa maria
+            ls$residencia/arrabalde
+
+         pnoivo$francisco henriques/id=c1779-5-per2
+
+         mnoivo$polonia teresa/id=c1779-5-per3
+
+         noiva$maria joaquina de jesus/id=c1779-5-per4
+            ls$ec/s
+            ls$naturalidade/peniche
+            ls$freguesia/sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$residencia/arrabalde
+
+         pnoiva$tome da silva/id=c1779-5-per5
+
+         mnoiva$maria joaquina/id=c1779-5-per6
+
+         test$manuel pinto/id=c1779-5-per7
+            ls$residencia/obidos
+            ls$assina/sim
+            ls$assina/mal
+
+         test$vicente pereira/id=c1779-5-per8
+            ls$assina/cruz/obs=assina joaquim antonio a rogo de vicente pereira
+
+      cas$c1780-1/13/6/1780/fl.3v./igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$jose pereira filipe da silva/id=c1780-1-per1
+            ls$ec/s
+            ls$freguesia/sao tiago de sopoes, termo de ponte de lima
+            ls$comarca/valenca
+            ls$arcebispado/braga
+            ls$residencia/lisboa
+
+         pnoivo$manuel pereira filipe da silva/id=c1780-1-per2
+
+         mnoivo$paula josefa/id=c1780-1-per3
+
+         noiva$maria madalena de santa ana/id=c1780-1-per4
+            ls$ec/s
+            ls$naturalidade/lisboa
+            ls$freguesia/nossa senhora do socorro
+            ls$locbaptismo/freguesia de nossa senhora do socorro
+            ls$residencia/freguesia de santa maria/obs=desobrigou-se na freguesia de santa maria
+
+         pnoiva$luis da cunha/id=c1780-1-per5
+
+         mnoiva$angela maria do espirito santo/id=c1780-1-per6
+
+         test$filipe de freitas e paiva/id=c1780-1-per7
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$joaquim antonio de sequeira/id=c1780-1-per8
+            ls$cargo/tesoureiro da igreja de santa maria
+            ls$assina/sim
+            ls$assina/bem
+
+         referido$jose salter de mendonca/id=c1780-1-per9
+            ls$titulo/reverendo
+            ls$titulo/doutor
+            ls$cargo/juiz dos acsamentos
+
+         referido$nome desconhecido/id=c1780-1-per10
+            ls$cargo/cardeal patriarca
+            ls$titulo/excelentissimo
+            ls$titulo/senhor
+
+      cas$c1780-2/18/6/1780/fl.3v.-4/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$jose caetano/id=c1780-2-per1
+            ls$ec/s
+            ls$naturalidade/obidos
+            ls$freguesia/sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$residencia/freguesia de sao pedro
+            ls$residencia/obidos
+
+         pnoivo$caetano henriques/id=c1780-2-per2
+
+         mnoivo$ines maria/id=c1780-2-per3
+
+         noiva$maria do carmo/id=c1780-2-per4
+            ls$ec/s
+            ls$naturalidade/obidos
+            ls$freguesia/sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$residencia/obidos
+            ls$residencia/freguesia de santa maria
+
+         pnoiva$luis pedro/id=c1780-2-per5
+
+         mnoiva$ana joaquina/id=c1780-2-per6
+
+         test$jose antonio pereira da costa/id=c1780-2-per7
+            ls$residencia/obidos
+            ls$assina/sim
+
+         test$jose da costa/id=c1780-2-per8
+            ls$residencia/obidos
+            ls$assina/sim
+
+      cas$c1780-3/21/9/1780/fl.4-4v./igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$antonio da silva/id=c1780-3-per1
+            ls$ec/s
+            ls$naturalidade/casais de alentejo
+            ls$locbaptismo/freguesia de santa maria
+            ls$residencia/casais de alentejo
+
+         pnoivo$inacio da silva/id=c1780-3-per2
+
+         mnoivo$teresa maria/id=c1780-3-per3
+
+         noiva$joaquina rosa/id=c1780-3-per4
+            ls$ec/s
+            ls$naturalidade/olho marinho
+            ls$freguesia/nossa senhora de aboboriz, amoreira
+            ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
+            ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
+            ls$residencia/casais de alentejo
+
+         pnoiva$pedro da silva/id=c1780-3-per5
+
+         mnoiva$ana joaquina/id=c1780-3-per6
+
+         test$manuel pereira de morais/id=c1780-3-per7
+            ls$assina/sim
+
+         test$joaquim antonio de sequeira/id=c1780-3-per8
+            ls$cargo/tesoureiro da igreja de santa maria
+            ls$assina/sim
+
+      cas$c1780-4/26/10/1780/fl.4v./igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+         noivo$vicente jose ferreira/id=c1780-4-per1
+            ls$ec/s
+            ls$naturalidade/ribeira de alcobertas
+            ls$freguesia/santa maria madalena
+            ls$locbaptismo/freguesia de santa maria madalena
+            ls$residencia/arrabalde
+
+         pnoivo$joao ferreira/id=c1780-4-per2
+
+         mnoivo$antonia rodrigues/id=c1780-4-per3
+
+         noiva$catarina rosa de jesus/id=c1780-4-per4
+            ls$ec/s
+            ls$naturalidade/alvorninha
+            ls$freguesia/nossa senhora da visitacao
+            ls$locbaptismo/freguesia de nossa senhora da visitacao
+            ls$residencia/arrabalde
+
+         pnoiva$francisco xavier da fonseca/id=c1780-4-per5
+
+         mnoiva$maria josefa policarpa/id=c1780-4-per6
+
+         test$joaquim manuel freire/id=c1780-4-per7
+            ls$assina/sim
+
+         test$joaquim antonio de sequeira/id=c1780-4-per8
+            ls$cargo/tesoureiro da igreja de santa maria
+            ls$assina/sim
+            ls$assina/bem

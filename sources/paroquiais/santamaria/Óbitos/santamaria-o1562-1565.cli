@@ -1,0 +1,363 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1562-1565/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1562-1/15/8/1562/fl.73/manuel frois
+
+         n$baltazar pires/m/id=o1562-1-per1
+
+         sacr$sim
+
+         testamento$sim/obs=ficou o seu filho como testamenteiro
+
+      obito$o1563-1/10/1/1563/fl.73/manuel frois
+
+         n$catarina dias/id=o1563-1-per1
+            ls$freguesia/santa maria
+            ls$ec/v
+            ls$pobre/sim
+
+         testamento$nao/obs="por nao ter de que e nao se lhe fez ainda pla alma"
+
+      obito$o1563-2/14/1/1563/fl.73/manuel frois
+
+         n$cosma dornelas/f/obs=faleceu no dia 14 de janeiro as 10 horas da noite./id=o1563-2-per1
+            ls$freguesia/santa maria
+
+            marido$francisco fortes/id=o1563-2-per1-per2
+
+         testamento$nao
+
+         sacr$sim/obs=morreu confessada e comungada. fez-se logo um oficio inteiro
+
+         oficios$inteiros de mes e ano/obs=no dia em que morreu fez-se logo um oficio inteiro. francisco fortes fez os oficios a 21 de janeiro
+
+      obito$o1563-3/11/2/1563/fl.73/manuel frois
+
+         n$isabel sanhuda/f/id=o1563-3-per1
+
+         sacr$sim/obs=faleceu confessada, comungada e ungida, fez-se um oficio
+
+         testamento$nao
+
+      obito$o1563-4/17/2/1563/fl.73v./manuel frois
+
+         n$pedro/m/obs=moco/id=o1563-4-per1
+            ls$profissao/criado
+            rel$profissional/criado/bras fernandes/o1563-4-referido
+
+         sacr$sim/obs=faleceu confessado e ungido
+
+         referido$bras fernandes/id=o1563-4-referido
+            ls$profissao/padre
+
+      obito$o1563-5/24/2/1563/fl.73v./manuel frois/obs=faleceu no dia de sao miguel, quarta-feira de cinzas
+
+         n$nome desconhecido/?/id=o1563-5-per1
+            rel$profissional/escravo/? de seixas/o1563-referido
+
+            referido$? de seixas/id=o1563-5-referido
+
+         sacr$nao/obs=morreu sem os sacramentos "por o nao requererem e nao se lhe fez nenhuma cousa nenhuma"
+
+      obito$o1563-6/7/5/1563/fl.73v./manuel frois
+
+         n$isabel/f/id=o1563-6-per1
+            ls$condicao/escrava
+            rel$profissional/escrava/francisco fortes/o1563-6-referido
+
+            referido$francisco fortes/id=o1563-6-referido
+
+         oficios$meio oficio e algumas missas
+
+      obito$o1563-7/13/9/1563/fl.73v./manuel frois/obs=o registo foi feito em 25 de setembro
+
+         n$bras fernandes/m/id=o1563-7-per1
+            ls$cargo/beneficiado da igreja de santa maria
+            ls$freguesia/santa maria
+
+         oficios$de presente e o do mes inteiro
+
+         testamento$nao
+
+      obito$o1563-8/27/10/1563/fl.73v./manuel frois
+
+         n$alvaro martins/m/id=o1563-8-per1
+            ls$freguesia/santa maria
+
+         sacr$sim/obs=faleceu confessado e ungido
+
+         testamento$nao
+
+         oficios$de presente inteiro, dois meios oficios de 6 meses e o do ano
+
+      obito$o1563-9/2/11/1563/fl.74/manuel frois
+
+         n$antonia dias/m/id=o1563-9-per1
+            ls$freguesia/santa maria
+
+            marido$andre pires/id=o1563-9-per1-per2
+               ls$profissao/serralheiro
+
+         sacr$sim/obs=sim
+
+         testamento$sim/obs=deixou o seu irmao por testamenteiro
+
+         oficios$dois meios oficios
+
+      obito$o1563-10/4/11/1563/fl.74/manuel frois
+
+         n$catarina esteves%c.a esteves/f/id=o1563-10-per1
+
+            marido$jeronimo goncalves%jn.o glz/id=o1563-10-per1-per2
+
+         testamento$sim
+
+         oficios$meio oficio e meio oficio do mes
+
+         sacr$sim/obs=faleceu confessada e comungada
+
+      obito$o1563-11/29/11/1563/fl.74/manuel frois
+
+         n$isabel dias/f/id=o1563-11-per1
+            ls$residencia/a da gorda
+            ls$freguesia/santa maria
+
+            marido$afonso fernandes%a.o frz/id=o1563-11-per1-per2
+               ls$profissao/tanoeiro
+
+         testamento$nao
+
+         oficios$meio oficio
+
+      obito$o1564-1/29/1/1564/fl.74/manuel frois
+
+         n$nome desconhecido/?/id=o1564-1-per1
+            ls$freguesia/santa maria
+
+         sacr$sim/obs=santos oleos
+
+         testamento$nao
+
+         oficios$nao/obs=ainda nao se fez nada pela sua alma. a 27 de fevereiro fez-se meio oficio.
+
+      obito$o1564-2/29/2/1564/fl.74v./manuel frois
+
+         n$diogo de seixas%d.o de sexas/m/id=o1564-2-per1
+            ls$ec/c
+            ls$freguesia/santa maria
+
+         sacr$sim: confissao e uncao
+
+         testamento$sim/obs=ficou testamenteira a sua mulher
+
+         oficios$um oficio inteiro
+
+      obito$o1564-3/26/4/1564/fl.74v./manuel frois
+
+         n$isabel eanes/f/id=o1564-3-per1
+            ls$freguesia/santa maria
+            ls$ec/v
+            ls$pobre/sim
+
+         causa$doenca
+
+         sacr$sim/obs=confissao, eucaristia e uncao
+
+         testamento$nao
+
+         oficios$nao/obs="nam se lhe fez aynda nada pela sua alma"
+
+      obito$o1564-4/28/6/1564/fl.74v./jeronimo matela
+
+         n$fernao frois/m/id=o1564-4-fernao
+            ls$profissao/escudeiro
+            ls$freguesia/santa maria
+            ls$residencia/obidos
+
+            mulher$filipa de freitas/id=o1564-4-fernao-per1
+               rel$sociabilidade/testamenteira/fernao frois/o1564-4-fernao
+
+         sacr$sim: confissao, eucaristia, uncao
+
+         testamento$sim/obs=ficou como testamenteira a sua mulher
+
+         oficios$enterramento, mes e ano
+
+         locs$dentro do corpo da igreja junto ao altar de sao bras
+
+      obito$o1564-5/15/7/1564/fl.74v./jeronimo matela
+
+         n$simao lopes/m/id=o1564-5-per1
+            ls$residencia/gaeiras
+
+         sacr$sim
+
+         testamento$nao
+
+         locs$igreja de sao tiago onde tem seu jazigo
+
+         oficios$enterramento
+
+      obito$o1564-6/13/11/1564/fl.75/jeronimo matela
+
+         n$baptista coto/m/id=o1564-6-per1
+            ls$cargo/prior de sao tiago
+            ls$freguesia/santa maria
+
+         locs$igreja de sao tiago, na capela mor
+
+         sacr$sim: confissao, eucaristia, santa uncao
+
+         testamento$/obs=ficou seu testamenteiro juliao dama seu compadre
+
+         oficios$enterramento, mes e ano/obs=feitos em sao tiago
+
+      obito$o1564-7/15/11/1564/fl.75/jeronimo matela
+
+         n$luzia fernandes%lugia frz/f/id=o1564-7-n
+            ls$freguesia/santa maria
+
+            marido$pedro alvares%p.o alvres/id=o1564-7-n-per1
+               ls$profissao/lavrador
+               rel$sociabilidade/testamenteiro/luzia fernandes/o1564-7-n
+
+         testamento$sim
+
+         sacr$sim/obs=confissao, eucaristia, santa uncao
+
+         oficios$enterramento, mes e ano
+
+      obito$o1564-8/17/12/1564/fl.75/jeronimo matela
+
+         n$diogo pereira/m/id=o1564-8-per1
+            ls$freguesia/santa maria
+
+         locs$frente da capela mor
+
+         sacr$sim/obs=confissao, eucaristia, santa uncao
+
+         oficios$enterramento, mes e ano
+
+      obito$o1565-1/22/7/1565/fl.75/antonio alves?
+
+         n$estevao pires/m/id=o1565-1-est
+            ls$residencia/moinho do azeite
+            ls$freguesia/santa maria
+
+            mulher$iria fernandes/id=o1565-1-est-per1
+               rel$sociabilidade/testamenteira/estevao pires/o1565-1-est
+
+         locs$adro da igreja de santa maria
+
+         testamento$sim
+
+         oficios$enterramento
+
+      obito$o1565-2/1/7/1565/fl.75v./goncalo fernandes
+
+         n$branca cosme/f/id=o1565-2-per1
+            ls$residencia/a da gorda/obs="nam fez manda"
+
+            marido$diogo martins/id=o1565-2-per1-per2
+               ls$residencia/a da gorda
+
+         sacr$sim
+
+         oficios$3 oficios
+
+      obito$o1565-3/15/8/1565/fl.75v./goncalo fernandes
+
+         n$branca goncalves/f/obs="nam fez manda"/id=o1565-3-per1
+            ls$pobre/sim
+
+         oficios$3 oficios
+
+      obito$o1565-4/26/10/1565/fl.75v./goncalo fernandes
+
+         n$maria oliveira%m.a olz/f/id=o1565-4-maria
+
+         locs$sao pedro
+
+         sacr$sim/obs=a uncao foi dada pelo padre goncalo fernandes
+
+         testamento$sim/obs=ficou seu testamenteiro ascenso fernandes
+
+         referido$ascenso fernandes/id=o1565-4-per1
+            rel$sociabilidade/testamenteiro/maria oliveira/o1565-4-maria
+
+         oficios$sim
+
+      obito$o1565-5/6/11/1565/fl.75v./goncalo fernandes
+
+         n$ines alvares/f/id=o1565-5-per1
+
+            marido$gaspar dias/id=o1565-5-per1-per2
+
+         sacr$sim/obs=os sacramentos foram ministrados pelo cura goncalo fernandes
+
+         testamento$nao
+
+         oficios$3 oficios
+
+      obito$o1565-6/13/11/1565/fl.75v./goncalo fernandes
+
+         n$catarina fernandes/f/id=o1565-6-per1
+            ls$ec/v
+            ls$residencia/a da gorda
+
+         sacr$sim/obs=comunhao, uncao
+
+         testamento$nao refere/obs="nam fez manda"
+
+         oficios$sim
+
+      obito$o1565-7/24/11/1565/fl.75v./goncalo fernandes
+
+         n$jorge vaz/m/id=o1565-7-n
+
+         sacr$sim/obs=confessado pelo prior
+
+         testamento$nao refere/obs=ficou seu testamenteiro ascenso fernandes
+
+         referido$ascenso fernandes/id=o1565-7-per1
+            rel$sociabilidade/testamenteiro/jorge vaz/o1565-7-n
+            ls$residencia/freguesia de santa maria
+
+         oficios$3 oficios
+
+      obito$o1565-8/6/12/1565/fl.75v./goncalo fernandes
+
+         n$juliao da rua/m/id=o1565-8-n
+
+         locs$sao tiago
+
+         sacr$sim
+
+         testamento$sim/obs=
+
+         referido$jeronimo de avelar/id=o1565-8-per1
+            rel$sociabilidade/testamenteiro/juliao da rua/o1565-8-n
+
+      obito$o1565-9/11/12/1565/fl.75v./goncalo fernandes
+
+         n$adriao dias/m/id=o1565-9-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         testamento$nao refere/obs="nao fez manda"
+
+         oficios$3 oficios
+
+      obito$o1565-10/19/12/1565/fl.75v./goncalo fernandes
+
+         n$isabel fernandes/f/id=o1565-10-per1
+
+            marido$adriao fernandes/id=o1565-10-per1-per2
+               ls$morto/antes
+
+         sacr$sim/obs=confissao, comunhao
+
+         testamento$nao refere/obs="nao fez manda"
+
+         oficios$3 oficios

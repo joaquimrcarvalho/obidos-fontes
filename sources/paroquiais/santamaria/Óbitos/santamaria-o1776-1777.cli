@@ -1,0 +1,799 @@
+kleio$gacto.str/prefix=stmaria
+   fonte$obitos1776-1777/localizacao-a.d.l./freguesia de santa maria
+
+      obito$o1776-1/17/1/1776/fl.115/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$joao/m/id=o1776-1-n
+            ls$idade_aprox/menor/obs=menino, inocente. faleceu no dia antecedente
+            ls$enjeitado/sim
+            ls$residencia/obidos
+
+         locs$adro da igreja de santa maria
+
+         referida$isidora maria/id=o1776-1-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/joao/o1776-1-n
+
+         referido$jose nunes/id=o1776-1-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/isidora maria/o1776-1-referida
+
+      obito$o1776-2/10/1/1776/fl.115/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$antonio de oliveira/m/id=o1776-2-per1
+            ls$pobre/sim
+            ls$residencia/casais de alentejo, no casal de domingos delgado
+            ls$ec/s
+            ls$profissao/moco de gado
+
+         sacr$sim/obs=so a extrema uncao, nao recebeu os mais sacramentos por a molestia que lhe deu e o privou dos sentidos
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na cova numero 24/obs=moco solteiro. foi sepultado no dia seguinte. foi amortalhado num lencol
+
+         pai$jose de oliveira/id=o1776-2-per2
+
+         mae$joana de oliveira/id=o1776-2-per3
+
+      obito$o1776-3/25/2/1776/fl.115/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$antonia maria/f/id=o1776-3-per1
+            ls$pobre/sim
+            ls$residencia/a da gorda
+
+         sacr$sim/obs= penitencia, extrema uncao
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na cova numero 25/obs=foi sepultada no dia seguinte. foi amortalhada no habito de sao francisco
+
+         marido$antonio da silva neves/id=o1776-3-per2
+            ls$residencia/a da gorda
+
+      obito$o1776-4/11/3/1776/fl.115v./jose luis fialho de mendonca (padre, beneficiado)
+
+         n$inacio xavier/m/id=o1776-4-n
+            ls$idade_aprox/menor
+            ls$enjeitado/sim/obs=menino, inocente, filho do hospital real de todos os santos da cidade de lisboa. faleceu no mesmo dia
+
+         locs$adro da igreja de santa maria
+
+         referida$isidora maria/id=o1776-4-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/inacio xavier/o1776-4-n
+
+         referido$jose nunes/id=o1776-4-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/isidora maria/o1776-4-referida
+
+      obito$o1776-5/17/3/1776/fl.115v./jose luis fialho de mendonca (padre, beneficiado)
+
+         n$antonio/m/id=o1776-5-n
+            ls$idade_aprox/menor/obs=menino, inocente. faleceu no mesmo dia
+            ls$enjeitado/sim
+            ls$residencia/obidos
+
+         locs$adro da igreja de santa maria
+
+         referida$rosa maria/id=o1776-5-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/o1776-5-n
+
+         referido$manuel da silva/id=o1776-5-per1
+            ls$residencia/obidos
+            rel$parentesco/marido/rosa maria/o1776-5-referida
+
+      obito$o1776-6/21/3/1776/fl.115v./jose luis fialho de mendonca (padre, beneficiado)
+
+         n$teresa maria soares/f/id=o1776-6-n
+            ls$residencia/a da gorda
+            ls$ec/s
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na cova 26/obs=mulher solteira. foi sepultada no mesmo dia. foi amortalhada no habito de sao francisco
+
+         pai$manuel da silva/id=o1776-6-per1
+            ls$morto/antes
+
+         mae$maria soares/id=o1776-6-per2
+            ls$morta/antes
+
+         referida$rita soares/id=o1776-6-per3
+            rel$parentesco/sobrinha/teresa maria soares/o1776-6-n
+            rel$sociabilidade/herdeira/teresa maria soares/o1776-6-n
+
+         testamento$sim/obs=fez doacao dos seus bens a sua sobrinha rita soares
+
+      obito$o1776-7/31/3/1776/fl.116/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$antonio/m/id=o1776-7-n
+            ls$idade_aprox/menor/obs=menino, inocente. faleceu no mesmo dia
+            ls$enjeitado/sim
+            ls$residencia/gaeiras de sao marcos
+
+         locs$adro da igreja de santa maria
+
+         referida$maria joaquina/id=o1776-7-referida
+            ls$residencia/gaeiras de sao marcos
+            rel$sociabilidade/ama/antonio/o1776-7-n
+
+         referido$valentim pereira/id=o1776-7-per1
+            ls$residencia/gaeiras de sao marcos
+            rel$parentesco/marido/maria joaquina/o1776-7-referida
+
+      obito$o1776-8/10/4/1776/fl.116/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$ana felicia roberta/f/id=o1776-8-n
+            ls$titulo/dona
+            ls$ec/s
+
+         sacr$sim
+
+         locf$obidos, freguesia de santa maria, na casa do seu irmao o beneficiado pedro antunes correia
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na cova numero 27, num caixao/obs=moca donzela. foi amortalhada no habito de sao francisco e no de nossa senhora do monte do carmo
+
+         pai$manuel antunes correia/id=o1776-8-per1
+
+         mae$luisa cardoso de andrade/id=o1776-8-per2
+            ls$titulo/dona
+
+         referido$pedro antunes correia/id=o1776-8-per3
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+            rel$sociabilidade/herdeiro/ana felicia roberta/o1776-8-n
+            rel$parentesco/irmao/ana felicia roberta/o1776-8-n
+
+      obito$o1776-9/28/4/1776/fl.116/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$antonio/m/id=o1776-9-n
+            ls$idade_aprox/menor/obs=menino, inocente. faleceu no mesmo dia
+            ls$enjeitado/sim
+            ls$residencia/casais de fraldeu
+
+         locs$adro da igreja de santa maria
+
+         referida$francisca maria/id=o1776-9-referida
+            ls$residencia/casais de fraldeu
+            rel$sociabilidade/ama/antonio/o1776-9-n
+
+         referido$joaquim gomes/id=o1776-9-per1
+            ls$residencia/casais de fraldeu
+            rel$parentesco/marido/francisca maria/o1776-9-referida
+
+      obito$o1776-10/1/6/1776/fl.116v./jose luis fialho de mendonca (padre, beneficiado)
+
+         n$manuel de arruda/m/id=o1776-10-per1
+            ls$residencia/arrabalde
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na cova numero 28/obs=foi sepultado no mesmo dia. foi amortalhado no habito de sao francisco
+
+         mulher$anastacia feliciana clara/id=o1776-10-per2
+            ls$morta/antes
+
+      obito$o1776-11/5/6/1776/fl.116v./jose luis fialho de mendonca (padre, beneficiado)
+
+         n$pedro antunes correia/m/id=o1776-11-per1
+            ls$cargo/beneficiado
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$cargo/presidente da colegiada de sao tiago de obidos
+            ls$residencia/arrabalde
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na cova numero 29/obs=foi sepultado no mesmo dia. foi amortalhado no habito de sao francisco e de sao pedro e com vestes sacerdotais
+
+         testamento$sim
+
+      obito$o1776-12/6/6/1776/fl.116v./jose luis fialho de mendonca (padre, beneficiado)
+
+         n$jose de sousa/m/id=o1776-12-per1
+            ls$residencia/gaeiras de sao marcos/obs=foi sepultada no dia seguinte. foi amortalhado no habito de sao francisco
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na cova numero 30
+
+         mulher$ana maria/id=o1776-12-per2
+            ls$residencia/gaeiras de sao marcos
+
+      obito$o1776-13/12/6/1776/fl.117/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$antonio/m/id=o1776-13-n
+            ls$enjeitado/sim
+            ls$residencia/obidos
+            ls$idade_aprox/menor/obs=menino. faleceu no dia antecedente
+
+         locs$adro da igreja de santa maria
+
+         referida$quiteria maria/id=o1776-13-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/o1776-13-n
+
+         referido$antonio jose/id=o1776-13-per1
+            ls$profissao/barbeiro
+            ls$residencia/obidos
+            rel$parentesco/marido/quiteria maria/o1776-13-referida
+
+      obito$o1776-14/17/6/1776/fl.117/jose luis fialho de mendonca (padre, beneficiado)
+
+         n$filipa/f/id=o1776-14-per1
+            ls$idade_aprox/menor/obs=menina, inocente. faleceu no mesmo dia
+            ls$residencia/a da gorda
+
+         locs$adro da igreja de santa maria
+
+         pai$manuel jose/id=o1776-14-per2
+            ls$ec/s
+            ls$residencia/a da gorda
+
+         mae$maria isabel/id=o1776-14-per3
+            ls$ec/s
+            ls$residencia/a da gorda
+
+      obito$o1776-15/27/6/1776/fl.117/joao carlos da silva (padre)
+
+         n$jose rodrigues de melo/m/id=o1776-15-per1
+            ls$pobre/sim
+            ls$ec/s
+            ls$mendigo/sim/obs=pobre mendicante. foi sepultado no mesmo dia
+
+         sacr$sim
+
+         locf$enfermaria da santa casa da misericordia
+
+         locs$adro da igreja de santa maria
+
+         pai$manuel rodrigues/id=o1776-15-per2
+
+         mae$maria dos santos/id=o1776-15-per3
+
+      obito$o1776-16/28/7/1776/fl.117-117v./joao carlos da silva (padre)
+
+         n$joao da costa/m/id=o1776-16-per1
+            ls$pobre/sim
+            ls$ec/v
+            ls$mendigo/sim
+            ls$residencia/barreira alva, freguesia de santo andre de mafra
+
+         sacr$sim
+
+         locf$enfermaria da santa casa da misericordia de obidos
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na cova numero 31 da mesma igreja
+
+         mulher$mariana dias/id=o1776-16-per2
+            ls$morta/antes
+            ls$residencia/barreira alva
+            ls$freguesia/santo andre de mafra
+
+      obito$o1776-17/2/8/1776/fl.117v./joao carlos da silva (padre)
+
+         n$francisco/m/id=o1776-17-per1
+            ls$idade_aprox/menor
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova junto as escadas da capela mor da parte de sao bras
+
+         pai$pedro joao/id=o1776-17-per2
+            ls$residencia/a da gorda
+
+         mae$teresa rita/id=o1776-17-per3
+            ls$residencia/a da gorda
+
+      obito$o1776-18/16/8/1776/fl.117v./joao carlos da silva (padre)
+
+         n$maria/f/id=o1776-18-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, na cova junto as escadas da capela mor da parte de santa catarina
+
+         pai$manuel soares/id=o1776-18-per2
+            ls$residencia/gaeiras
+
+         mae$rita maria/id=o1776-18-per3
+            ls$residencia/gaeiras
+
+      obito$o1776-19/31/8/1776/fl.117v./joao carlos da silva (padre)
+
+         n$antonio/m/id=o1776-19-n
+            ls$enjeitado/sim
+
+         locs$adro da igreja de santa maria
+
+         pai$nome desconhecido/id=o1776-19-per1
+
+         mae$nome desconhecido/id=o1776-19-per2
+
+         referida$antonia rita/id=o1776-19-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/antonio/o1776-19-n
+
+         referido$joao damasceno/id=o1776-19-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/antonia rita/o1776-19-referida
+
+      obito$o1776-20/14/9/1776/fl.118/joao carlos da silva (padre)
+
+         n$lourenco/m/id=o1776-20-per1
+            ls$idade_aprox/menor
+            ls$residencia/casais de alentejo
+
+         locs$dentro da igreja de santa maria, na nave do meio da parte de santa catarina, na cova junto ao confessionario
+
+         pai$domingos ferreira/id=o1776-20-per2
+            ls$residencia/casais de alentejo
+
+         mae$ana joaquina/id=o1776-20-per3
+            ls$residencia/casais de alentejo
+
+      obito$o1776-21/24/9/1776/fl.118/joao carlos da silva (padre)
+
+         n$tomas/m/id=o1776-21-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na nave do meio na cova junto ao confessionario
+
+         pai$antonio jose teixeira/id=o1776-21-per2
+            ls$residencia/obidos
+
+         mae$quiteria maria de jesus/id=o1776-21-per3
+            ls$residencia/obidos
+
+      obito$o1776-22/15/10/1776/fl.118/joao carlos da silva (padre)
+
+         n$maria/f/id=o1776-22-n
+            ls$enjeitada/sim
+            ls$residencia/obidos
+
+         locs$adro da igreja de santa maria
+
+         locf$casa de antonia rita e de antonio jose
+
+         pai$nome desconhecido/id=o1776-22-per1
+
+         mae$nome desconhecido/id=o1776-22-per2
+
+         referida$feliciana maria/id=o1776-22-per3
+            ls$residencia/bairro
+            rel$sociabilidade/ama/maria/o1776-22-n
+
+         referida$antonia rita/id=o1776-22-referida/obs=a crianca foi para casa de antonia rita e do marido antonio jose
+
+         referido$antonio jose/id=o1776-22-per4
+            rel$parentesco/marido/antonia rita/o1776-22-referida
+            ls$profissao/marceneiro
+
+      obito$o1776-23/21/10/1776/fl.118/joao carlos da silva (padre)
+
+         n$jose de almeida/m/id=o1776-23-per1
+            ls$residencia/sitio do senhor da pedra
+            ls$pobre/sim
+
+         sacr$sim
+
+         locs$adro da igreja de santa maria/obs=foi sepultado por pobre no adro da igreja de santa maria
+
+         mulher$ines maria/id=o1776-23-per2
+            ls$residencia/sitio do senhor da pedra
+
+      obito$o1776-24/21/10/1776/fl.118v./joao carlos da silva (padre)
+
+         n$jose joaquim/m/id=o1776-24-per1
+            ls$residencia/obidos
+
+         sacr$sim/obs=extrema uncao
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina na cova junto as escadas da sacristia
+
+         pai$luis jose/id=o1776-24-per2
+            ls$residencia/obidos
+
+         mae$joaquina de santa ana/id=o1776-24-per3
+            ls$residencia/obidos
+
+      obito$o1776-25/14/11/1776/fl.118v./joao carlos da silva (padre)
+
+         n$ana/f/id=o1776-25-n
+            ls$idade_aprox/menor
+            ls$enjeitada/sim
+            ls$residencia/obidos
+
+         locs$adro da igreja de santa maria
+
+         locf$obidos, em casa de maria rosa e sebastiao da costa
+
+         pai$nome desconhecido/id=o1776-25-per1
+
+         mae$nome desconhecido/id=o1776-25-per2
+
+         referida$joaquina maria/id=o1776-25-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/ana/o1776-25-n
+
+         referido$manuel francisco/id=o1776-25-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/joaquina maria/o1776-25-referida
+
+         referida$maria rosa/id=o1776-25-ref
+            ls$residencia/obidos/obs=a enjeitada veio para sua casa onde faleceu
+
+         referido$sebastiao da costa/id=o1776-25-per4
+            ls$residencia/obidos
+            rel$parentesco/marido/maria rosa/o1776-25-ref
+
+      obito$o1776-26/29/11/1776/fl.118v./joao carlos da silva (padre)
+
+         n$francisco de paulo%francisco de paula/m/id=o1776-26-per1
+            ls$residencia/a da gorda
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na nave de santa catarina, na cova numero 32
+
+         pai$luis pedro/id=o1776-26-per2
+            ls$residencia/a da gorda
+
+         mae$teresa damasia/id=o1776-26-per3
+            ls$residencia/a da gorda
+
+      obito$o1776-27/8/12/1776/fl.118v./joao carlos da silva (padre)
+
+         n$manuel luis/m/id=o1776-27-per1
+            ls$pobre/sim
+            ls$residencia/a da gorda
+
+         sacr$sim/obs=extrema uncao
+
+         locs$adro da igreja de santa maria
+
+         pai$marcos luis/id=o1776-27-per2
+            ls$residencia/a da gorda
+
+         mae$bernarda do couto/id=o1776-27-per3
+            ls$residencia/a da gorda
+
+      obito$o1776-28/10/12/1776/fl.119/joao carlos da silva (padre)
+
+         n$joaquim/m/id=o1776-28-per1
+            ls$idade_aprox/menor
+            ls$residencia/casal da seixeira
+
+         locs$dentro da igreja de santa maria, na cova debaixo da cadeira que esta ao pe da porta do coro
+
+         pai$jose antonio/id=o1776-28-per2
+            ls$residencia/casal da seixeira
+
+         mae$maria do carmo/id=o1776-28-per3
+            ls$residencia/casal da seixeira
+
+      obito$o1776-29/26/12/1776/fl.119/joao carlos da silva (padre)
+
+         n$francisco xavier de sequeira/m/id=o1776-29-per1
+            ls$residencia/obidos
+
+         sacr$nao/obs=nao recebeu os sacramentos por falecer repentinamente
+
+         locs$dentro da igreja de santa maria, na cova numero 34
+
+         mulher$maria rosa de sao bernardo/id=o1776-29-per2
+            ls$residencia/obidos
+
+      obito$o1776-30/28/12/1776/fl.119/joao carlos da silva (padre)
+
+         n$maria doroteia/f/id=o1776-30-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova junto aos bancos da parte de santa catarina
+
+         pai$antonio jose ribeiro/id=o1776-30-per2
+            ls$residencia/obidos
+
+         mae$antonia rita/id=o1776-30-per3
+            ls$residencia/obidos
+
+      obito$o1777-1/18/1/1777/fl.119/joao carlos da silva (padre)
+
+         n$ines/f/id=o1777-1-n
+            ls$enjeitada/sim
+            ls$idade_aprox/menor
+
+         locs$adro da igreja de santa maria
+
+         pai$nome desconhecido/id=o1777-1-per1
+
+         mae$nome desconhecido/id=o1777-1-per2
+
+         referida$maria teresa/id=o1777-1-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/ines/o1777-1-n
+
+         referido$jose joaquim/id=o1777-1-per3
+            ls$residencia/obidos
+            rel$parentesco/marido/maria teresa/o1777-1-referida
+
+         referida$joaquina de santa ana/id=o1777-1-ref
+            ls$residencia/obidos/obs=veio para sua casa e de seu marido, luis jose
+
+         referido$luis jose/id=o1777-1-per4
+            ls$residencia/obidos
+            rel$parentesco/marido/joaquina de santa ana/o1777-1-ref
+
+      obito$o1777-2/22/1/1777/fl.119v./joao carlos da silva (padre)
+
+         n$jose/m/id=o1777-2-per1
+            ls$residencia/casais de alentejo
+
+         causa$demencia
+
+         locs$dentro da igreja de santa maria, na cova numero 23, na nave de santa catarina/obs=foi sepultado no dia 23
+
+         pai$inacio da silva/id=o1777-2-per2
+            ls$residencia/casais de alentejo
+
+         mae$teresa maria/id=o1777-2-per3
+            ls$residencia/casais de alentejo
+
+      obito$o1777-3/20/2/1777/fl.119v./joao carlos da silva (padre)
+
+         n$jose antonio/m/id=o1777-3-per1
+            ls$residencia/casal da seixeira
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 35 da parte de santa catarina
+
+         mulher$maria do carmo/id=o1777-3-per2
+            ls$residencia/casal da seixeira
+
+      obito$o1777-4/20/2/1777/fl.119v./joao carlos da silva (padre)
+
+         n$monica maria da silva/f/id=o1777-4-per1
+            ls$residencia/a da gorda
+            ls$ec/v
+
+         sacr$sim
+
+         locs$ermida de santo antonio de a da gorda, anexa a igreja matriz de santa maria
+
+         oficios$oficio de corpo presente, feito na ermida de santo antonio
+
+         marido$manuel goncalves da silva/id=o1777-4-per2
+            ls$morto/antes
+
+      obito$o1777-5/2/3/1777/fl.119v./joao carlos da silva (padre)
+
+         n$ana/f/id=o1777-5-n
+            ls$enjeitada/sim
+            ls$idade_aprox/menor
+
+         locf$casais de alentejo
+
+         locs$adro da igreja de santa maria
+
+         referida$maria teresa/id=o1777-5-referida
+            ls$residencia/casais de alentejo
+            rel$sociabilidade/ama/ana/o1777-5-n
+
+         referido$julio ferreira/id=o1777-5-per1
+            ls$residencia/casais de alentejo
+            rel$parentesco/marido/maria teresa/o1777-5-referida
+
+      obito$o1777-6/3/3/1777/fl.119v./joao carlos da silva (padre)
+
+         n$jeronima bernarda/f/id=o1777-6-n
+            ls$titulo/dona
+            ls$residencia/obidos, na casa do prior bras antunes correia
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 37 da nave de santa catarina/obs=duvida no numero da cova onde a defunta foi sepultada, pois o paroco escreve: "na cova numero trinta e te, da nave de santa catherina". foi sepultada no dia 4 do dito mes
+
+         pai$manuel antunes/id=o1777-6-per1
+            ls$cargo/capitao
+
+         mae$maria correia/id=o1777-6-per2
+            ls$titulo/dona
+
+         referido$bras antunes correia/id=o1777-6-per3
+            ls$titulo/reverendo
+            ls$cargo/prior
+            ls$residencia/obidos
+            rel$parentesco/irmao/jeronima bernarda/o1777-6-n
+
+      obito$o1777-7/17/3/1777/fl.120/joao carlos da silva (padre)
+
+         n$feliz/m/id=o1777-7-n
+            ls$enjeitado/sim
+            ls$idade_aprox/menor/obs=inocente, filho de pais incognitos, exposto no hospital real de lisboa
+
+         locs$adro da igreja de santa maria
+
+         referida$helena catarina/id=o1777-7-referida
+            ls$residencia/gaeiras
+            rel$sociabilidade/ama/feliz/o1777-7-n
+
+         referido$jose monteiro/id=o1777-7-per1
+            ls$residencia/gaeiras
+            rel$parentesco/marido/helena catarina/o1777-7-referida
+
+      obito$o1777-8/29/3/1777/fl.120/joao carlos da silva (padre)
+
+         n$maria inacia/f/id=o1777-8-per1
+            ls$ec/s
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na cova numero 41 da nave de santa catarina
+
+         pai$joao craveiro/id=o1777-8-per2
+            ls$residencia/obidos
+
+         mae$maria inacia/id=o1777-8-per3
+            ls$residencia/obidos
+
+      obito$o1777-9/25/5/1777/fl.120/joao carlos da silva (padre)
+
+         n$paulo/m/id=o1777-9-per1
+            ls$idade_aprox/menor
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova junto ao pulpito
+
+         pai$joaquim luis/id=o1777-9-per2
+            ls$residencia/a da gorda
+
+         mae$teodora maria/id=o1777-9-per3
+            ls$residencia/a da gorda
+
+      obito$o1777-10/5/5/1777/fl.120/joao carlos da silva (padre)
+
+         n$maria de jezus/f/id=o1777-10-per1
+            ls$residencia/obidos
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 36
+
+         marido$jose pereira/id=o1777-10-per2
+
+      obito$o1777-11/30/5/1777/fl.120/joao carlos da silva (padre)
+
+         n$antonio/m/id=o1777-11-per1
+            ls$idade_aprox/menor
+            ls$residencia/gaeiras
+
+         locs$dentro da igreja de santa maria, na cova junto a porta de sao lourenco
+
+         pai$sebastiao mendes/id=o1777-11-per2
+            ls$residencia/gaeiras
+
+         mae$antonia maria/id=o1777-11-per3
+            ls$residencia/gaeiras
+
+      obito$o1777-12/25/6/1777/fl.120v./joao carlos da silva (padre)
+
+         n$vicente/m/id=o1777-12-per1
+            ls$idade_aprox/menor
+            ls$residencia/obidos
+
+         locs$dentro da igreja de santa maria, na segunda cova junto aos bancos, na nave do meio, da parte de sao braz
+
+         pai$manuel da silva/id=o1777-12-per2
+            ls$residencia/obidos
+
+         mae$rosa maria/id=o1777-12-per3
+            ls$residencia/obidos
+
+      obito$o1777-13/31/7/1777/fl.120v./joao carlos da silva (padre)
+
+         n$clara caetana/f/id=o1777-13-per1
+            ls$titulo/dona
+            ls$pobre/sim
+            ls$residencia/obidos
+            ls$ec/s
+
+         locs$dentro da igreja de santa maria, na cova numero 1 da parte de sao bras
+
+         pai$manuel de oliveira farto/id=o1777-13-per2
+            ls$residencia/obidos
+
+         mae$maria timotea/id=o1777-13-per3
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      obito$o1777-14/11/8/1777/fl.120v./joao carlos da silva (padre)
+
+         n$joaquim/m/id=o1777-14-per1
+            ls$idade_aprox/menor/obs=inocente
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova junto a porta da capela de sao lourenco
+
+         pai$joaquim luis/id=o1777-14-per2
+            ls$residencia/a da gorda
+
+         mae$teodora maria/id=o1777-14-per3
+            ls$residencia/a da gorda
+
+      obito$o1777-15/23/8/1777/fl.120v./joao carlos da silva (padre)
+
+         n$mariana josefa/f/id=o1777-15-per1
+            ls$residencia/gaeiras
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 2, da parte de sao bras
+
+         marido$jose inacio/id=o1777-15-per2
+
+      obito$o1777-16/23/8/1777/fl.120v./joao carlos da silva (padre)
+
+         n$ana/f/id=o1777-16-n
+            ls$enjeitada/sim
+            ls$residencia/gaeiras
+            ls$idade_aprox/menor/obs=inocente, filha de pais incognitos, exposta nesta vila
+
+         locs$dentro da igreja de santa maria, na cova numero dois, da parte de sao bras
+
+         referida$helena catarina/id=o1777-16-referida
+            ls$residencia/gaeiras
+            rel$sociabilidade/ama/ana/o1777-16-n
+
+         referido$jose monteiro/id=o1777-16-per1
+            ls$residencia/gaeiras
+            rel$parentesco/marido/helena catarina/o1777-16-referida
+
+      obito$o1777-17/28/8/1777/fl.121/joao carlos da silva (padre)
+
+         n$jose/m/id=o1777-17-per1
+            ls$idade_aprox/menor
+            ls$residencia/a da gorda
+
+         locs$dentro da igreja de santa maria, na cova junto a porta da capela de sao lourenco
+
+         pai$jose rodrigues/id=o1777-17-per2
+            ls$residencia/a da gorda
+
+         mae$josefa rosa do desterro/obs=duvida na leitura do nome/id=o1777-17-per3
+            ls$residencia/a da gorda
+
+      obito$o1777-18/30/10/1777/fl.121/joao carlos da silva (padre)
+
+         n$antonia maria/f/id=o1777-18-per1
+            ls$residencia/obidos
+            ls$ec/v
+
+         sacr$sim
+
+         locs$dentro da igreja de santa maria, na cova numero 4, na parte de sao bras/obs=foi sepultada no dia 31
+
+         marido$jose franco de carvalho/id=o1777-18-per2
+            ls$titulo/doutor
+            ls$morto/antes
+
+      obito$o1777-19/4/12/1777/fl.121/joao carlos da silva (padre)
+
+         n$martinho gomes/m/id=o1777-19-per1
+            ls$pobre/sim
+            ls$residencia/obidos
+
+         sacr$sim/obs=recebeu os sacramentos excepto o da uncao por nao dar tempo
+
+         locs$adro da igreja de santa maria/obs=foi sepultado no dia 5 do dito mes
+
+      obito$o1777-20/21/12/1777/fl.121/joao carlos da silva (padre)
+
+         n$pedro/m/id=o1777-20-per1
+            ls$residencia/obidos
+            ls$idade_aprox/menor
+
+         locs$dentro da igreja de santa maria, na cova junto a escada da capela mor da parte de sao bras
+
+         pai$pedro jose luis fialho de mendonca/id=o1777-20-per2
+            ls$cargo/monteiro mor de obidos
+
+         mae$maria delfina soares/id=o1777-20-per3
+            ls$titulo/dona

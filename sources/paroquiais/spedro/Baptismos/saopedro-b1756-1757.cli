@@ -1,0 +1,2480 @@
+kleio$gacto.str/prefix=spedro
+   fonte$baptismos1756-1757/localizacao-a.d.l./freguesia de sao pedro
+
+      bap$b1756-1/7/1/1756/fl.22/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$jeronimo/m/id=b1756-1-n
+            ls$enjeitado/sim/obs="o qual se expos a porta de leonardo da cunha em os sette dias do sobredito mes, e se deu a criar a maria jozefa cazada com felix correia o gago por ordem da camara desta vila"
+
+         pn$nome desconhecido/id=b1756-1-per1
+
+         mn$nome desconhecido/id=b1756-1-per2
+
+         pad$jeronimo de faria/id=b1756-1-per3
+            rel$parentesco/filho/manuel de faria/b1756-1-referido
+
+         referido$manuel de faria/id=b1756-1-referido
+            ls$cargo/alferes
+            ls$cargo/procurador do concelho
+
+         referido$leonardo da cunha/id=b1756-1-per4
+            rel$sociabilidade/achou a crianca/jeronimo/b1756-1-n
+
+         referida$maria josefa/id=b1756-1-referida
+            rel$sociabilidade/ama/jeronimo/b1756-1-n
+
+         referido$felix correia/id=b1756-1-per5
+            ls$alcunha/o gago
+            rel$parentesco/marido/maria josefa/b1756-1-referida
+
+      bap$b1756-2/13/1/1756/fl.22/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$manuel/m/id=b1756-2-n
+            ls$enjeitado/sim/obs="que se expos a porta de lourenco ferreira do bombarral e se deu a criar a anna maria mulher de agostinho da silva do dito lugar por ordem da camara desta vila"
+
+         pn$nome desconhecido/id=b1756-2-per1
+
+         mn$nome desconhecido/id=b1756-2-per2
+
+         pad$jeronimo de faria/id=b1756-2-per3
+            rel$parentesco/filho/manuel de faria/b1756-1-referido
+
+         referido$manuel de faria/mesmo_que=b1756-1-referido/id=b1756-2-per4
+            ls$cargo/alferes
+            ls$cargo/procurador do concelho
+
+         referido$lourenco ferreira/id=b1756-2-per5
+            ls$residencia/bombarral
+            rel$sociabilidade/achou a crianca/manuel/b1756-2-n
+
+         referida$ana maria/id=b1756-2-referida
+            ls$residencia/bombarral
+            rel$sociabilidade/ama/manuel/b1756-2-n
+
+         referido$agostinho da silva/id=b1756-2-per6
+            ls$residencia/bombarral
+            rel$parentesco/marido/ana maria/b1756-2-referida
+
+      bap$b1756-3/22/1/1756/fl.22v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joaquim/m/id=b1756-3-per1
+            ls$datanasc/17560113
+
+         pn$jose joaquim/id=b1756-3-per2
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$manuel martins/id=b1756-3-per3
+            ls$naturalidade/valermigio, freguesia de sao mamede
+            ls$locbaptismo/freguesia de sao mamede, valermigio
+            ls$bispado/coimbra
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$antonia teresa/id=b1756-3-per4
+            ls$naturalidade/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         mn$mariana teresa/id=b1756-3-per5
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$antonio dos santos/id=b1756-3-per6
+            ls$naturalidade/sao simao, cruzes
+            ls$bispado/coimbra
+            ls$locbaptismo/igreja de sao simao, cruzes
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria teresa/id=b1756-3-per7
+            ls$naturalidade/casais do pinhal
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$joao freire gameiro/id=b1756-3-per8
+            rel$parentesco/marido/maria do espirito santo da silveira/b1756-3-mad
+
+         mad$maria do espirito santo da silveira/id=b1756-3-mad
+            ls$titulo/dona
+            ls$residencia/obidos, freguesia de sao pedro
+
+         procurador-mad$agostinho gomes da silveira/id=b1756-3-per9
+            ls$titulo/doutor
+            rel$parentesco/primo/maria do espirito santo da silveira/b1756-3-mad
+
+      bap$b1756-4/1/2/1756/fl.22v.-23/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$gertrudes joaquina/f/id=b1756-4-per1
+            ls$datanasc/17560115
+
+         pn$joao gomes/id=b1756-4-per2
+            ls$residencia/usseira
+            ls$loccasamento/ermida de santa luzia, usseira
+            ls$locbaptismo/freguesia de sao pedro
+
+         ppn$francisco gomes/id=b1756-4-per3
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
+
+         mpn$luisa gomes/id=b1756-4-per4
+            ls$naturalidade/delgada, freguesia de nossa senhora da purificacao da rolica
+            ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
+
+         mn$joaquina/id=b1756-4-per5
+            ls$residencia/usseira
+            ls$loccasamento/ermida de santa luzia, usseira
+            ls$locbaptismo/freguesia de sao pedro
+
+         pmn$lourenco vieira/id=b1756-4-per6
+            ls$naturalidade/rixafoles, freguesia de sao tome de lamas/obs=termo do cadaval
+            ls$locbaptismo/sao tome de lamas, termo do cadaval
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria do nascimento/id=b1756-4-per7
+            ls$naturalidade/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$francisco rodrigues/id=b1756-4-per8
+            ls$cargo/capitao
+
+         mad$domingas gomes/id=b1756-4-per9
+            ls$residencia/usseira
+
+      bap$b1756-5/9/2/1756/fl.23/igreja de sao pedro/jose moreira chaves (reverendo, padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1756-5-n
+            ls$enjeitada/sim/obs=""que se expos a porta de joze dias da moreyra freguesia de nossa senhora da aboboriz, e se deu a criar por ordem da camara a thereza joaquina mulher de joze gonsalves dos cazaes do pinhal desta freguesia"
+
+         pn$nome desconhecido/id=b1756-5-per1
+
+         mn$nome desconhecido/id=b1756-5-per2
+
+         pad$narciso jose/id=b1756-5-per3
+            ls$cargo/tesoureiro da igreja de sao pedro
+
+         referido$jose dias/id=b1756-5-per4
+            ls$residencia/amoreira, freguesia de nossa senhora de aboboriz
+            rel$sociabilidade/achou a crianca/maria/b1756-5-n
+
+         referida$teresa joaquina/id=b1756-5-referida
+            ls$residencia/casais do pinhal
+            rel$sociabilidade/ama/maria/b1756-5-n
+
+         referido$jose goncalves/id=b1756-5-per5
+            ls$residencia/casais do pinhal
+            rel$parentesco/marido/teresa joaquina/b1756-5-referida
+
+      bap$b1756-6/8/2/1756/fl.23-23v./igreja de sao pedro/jose moreira chaves (padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$jose/m/id=b1756-6-per1
+            ls$datanasc/17560130
+
+         pn$antonio da silva/id=b1756-6-per2
+            ls$naturalidade/lisboa
+            ls$locbaptismo/lisboa, igreja de sao lourenco
+            ls$loccasamento/lisboa, igreja de sao juliao
+
+         ppn$joao da silva/id=b1756-6-per3
+            ls$naturalidade/friemis, freguesia de nossa senhora de viade
+            ls$arcebispado/braga
+            ls$comarca/chaves
+            ls$locbaptismo/freguesia de nossa senhora de viade
+            ls$loccasamento/santa casa da misericordia de lisboa
+
+         mpn$maria das neves/id=b1756-6-per4
+            ls$naturalidade/ourem, freguesia de freguesia de nossa senhora da purificacao
+            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            ls$loccasamento/santa casa da misericordia de lisboa
+
+         mn$josefa teresa/id=b1756-6-per5
+            ls$naturalidade/casais do pinhal
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao juliao, lisboa
+
+         pmn$jose henriques/id=b1756-6-per6
+            ls$naturalidade/casal da eira
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$joana teresa/id=b1756-6-per7
+            ls$naturalidade/casais do pinhal
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad$jose moreira chaves/id=b1756-6-per8
+            ls$profissao/padre
+
+         mad$nossa senhora da piedade/id=b1756-6-per9
+
+      bap$b1756-7/15/2/1756/fl.23v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$francisco/m/id=b1756-7-per1
+            ls$datanasc/17560118
+
+         pn$alexandre de seixas/id=b1756-7-per2
+            ls$naturalidade/obidos
+            ls$locbaptismo/igreja de sao pedro
+
+         ppn$pedro da silva e vasconcelos/id=b1756-7-per3
+            ls$naturalidade/turquel
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$josefa maria de seixas/id=b1756-7-per4
+            ls$naturalidade/obidos
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         mn$ana joaquina de seixas/id=b1756-7-per5
+            ls$titulo/dona
+            ls$naturalidade/quinta das lagrimas, freguesia de nossa senhora da piedade de vidais
+            ls$locbaptismo/freguesia de nossa senhora da piedade, vidais
+
+         pmn$dionisio de seixas pestana/id=b1756-7-per6
+            ls$cargo/capitao
+            ls$naturalidade/quinta das lagrimas, freguesia de nossa senhora da piedade de vidais
+            ls$loccasamento/igreja do sacramento, lisboa
+
+         mmn$mariana soares de meireles/id=b1756-7-per7
+            ls$titulo/dona
+            ls$naturalidade/lisboa
+            ls$locbaptismo/lisboa, igreja do sacramento
+            ls$loccasamento/lisboa, igreja do sacramento
+
+         procurador-mad$joaquim gerardo freire/id=b1756-7-per8
+            ls$residencia/amoreira
+
+         mad$ana joaquina clara/id=b1756-7-mad
+            ls$titulo/dona
+            ls$residencia/amoreira
+
+         referido$joao da costa freire/id=b1756-7-per9
+            ls$residencia/amoreira
+            rel$parentesco/marido/ana joaquina clara/b1756-7-mad
+
+      bap$b1756-8/23/2/1756/fl.24/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$ana/f/id=b1756-8-per1
+            ls$datanasc/17560213
+
+         pn$joaquim jose/id=b1756-8-per2
+            ls$naturalidade/evora, freguesia de sao mamede
+            ls$locbaptismo/evora, freguesia de sao mamede
+            ls$loccasamento/lisboa, igreja de sao nicolau
+
+         ppn$francisco da rosa/id=b1756-8-per3
+            ls$loccasamento/igreja de sao tiago, da cidade de evora
+
+         mpn$micaela da encarnacao/id=b1756-8-per4
+            ls$loccasamento/igreja de sao tiago, da cidade de evora
+
+         mn$antonia joaquina/id=b1756-8-per5
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/lisboa, igreja de sao nicolau
+
+         pmn$manuel henriques/id=b1756-8-per6
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/lisboa, igreja de sao nicolau
+
+         mmn$teresa de jesus/id=b1756-8-per7
+            ls$naturalidade/lisboa, freguesia de sao nicolau
+            ls$loccasamento/lisboa, freguesia de sao nicolau
+
+         pad$antonio de macedo/id=b1756-8-pad
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad$teresa maria caetana/id=b1756-8-per8
+            rel$parentesco/irma/antonio de macedo/b1756-8-pad
+            ls$residencia/obidos
+
+      bap$b1756-9/14/3/1756/fl.24-24v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$manuel/m/id=b1756-9-per1
+            ls$datanasc/17560302
+
+         pn$antonio gomes/id=b1756-9-per2
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$manuel gomes/id=b1756-9-per3
+            ls$residencia/poco
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$vicencia ferreira/id=b1756-9-per4
+            ls$morta/antes
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$ines maria/id=b1756-9-per5
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$joao ferreira/id=b1756-9-per6
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$mariana gomes/id=b1756-9-per7
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$francisco ferreira/id=b1756-9-per8
+            ls$cargo/monteiro mor
+
+         mad$antonia joaquina da rosa/id=b1756-9-mad
+
+         procurador-mad$manuel alvares/id=b1756-9-per9
+            rel$parentesco/marido/antonia joaquina da rosa/b1756-9-mad
+
+      bap$b1756-10/16/3/1756/fl.24v./igreja de sao pedro/agostinho da fonseca silva (cura, padre da igreja de sao pedro)/obs=assina o cura agostinho da fonseca silva.
+
+         n$ana/f/id=b1756-10-per1
+            ls$datanasc/17560228
+
+         pn$jose de almeida rebelo/id=b1756-10-per2
+            ls$naturalidade/viseu
+
+         ppn$jose de almeida/id=b1756-10-per3
+            ls$naturalidade/viseu
+            ls$loccasamento/numa das igrejas de viseu
+
+         mpn$maria rebelo/id=b1756-10-per4
+            ls$naturalidade/viseu
+            ls$loccasamento/numa das igrejas de viseu
+
+         mn$catarina antonia de pina/id=b1756-10-per5
+            ls$naturalidade/obidos
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de santa isabel, lisboa
+
+         pmn$alexandre pedro sole/id=b1756-10-per6
+            ls$naturalidade/modena, reino do imperio
+            ls$locbaptismo/se de carpi
+            ls$loccasamento/santa casa da misericordia de lisboa
+
+         mmn$antonia margarida de pina/id=b1756-10-per7
+            ls$naturalidade/obidos
+            ls$loccasamento/santa casa da misericordia de lisboa/obs=ela foi dotada pela santa casa da misericordia de lisboa
+
+         pad$teodoro jose travassos sottomaior/id=b1756-10-pad
+            ls$profissao/padre
+            ls$residencia/freguesia de sao pedro
+            rel$parentesco/filho/joao ferreira da serra/b1756-10-referido
+
+         mad$ana margarida sottomaior/id=b1756-10-per8
+            ls$titulo/dona
+            ls$residencia/freguesia de sao pedro
+            rel$parentesco/irma/teodoro jose travassos sottomaior/b1756-10-pad
+            rel$parentesco/filha/joao ferreira da serra/b1756-10-referido
+
+         referido$joao ferreira da serra/id=b1756-10-referido
+            ls$cargo/capitao
+            ls$residencia/freguesia de sao pedro
+
+      bap$b1756-11/21/3/1756/fl.24v.-25/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$jose/m/id=b1756-11-per1
+            ls$datanasc/17560312
+
+         pn$antonio de sousa/id=b1756-11-per2
+            ls$naturalidade/caldas
+            ls$freguesia/nossa senhora do populo
+            ls$locbaptismo/freguesia de nossa senhora do populo
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$manuel de sousa/id=b1756-11-per3
+            ls$naturalidade/vidais
+            ls$locbaptismo/igreja dos vidais
+            ls$loccasamento/freguesia de nossa senhora do populo
+
+         mpn$maria francisca/id=b1756-11-per4
+            ls$naturalidade/caldas
+            ls$freguesia/nossa senhora do populo
+            ls$loccasamento/freguesia de nossa senhora do populo
+
+         mn$ana joaquina/id=b1756-11-per5
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$manuel do couto/id=b1756-11-per6
+            ls$naturalidade/rio maior
+            ls$locbaptismo/igreja de rio maior
+            ls$loccasamento/freguesia de sao joao do mocharro
+
+         mmn$francisca monteiro/id=b1756-11-per7
+            ls$naturalidade/sobral
+            ls$freguesia/sao joao do mocharro
+            ls$loccasamento/freguesia de sao joao do mocharro
+
+         pad$jose de oliveira/id=b1756-11-per8
+            ls$residencia/sitio do senhor da pedra
+
+         mad$antonia josefa/id=b1756-11-per9
+            ls$residencia/casal da figueira
+
+      bap$b1756-12/22/3/1756/fl.25-25v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$ana/f/id=b1756-12-per1
+            ls$datanasc/17560306
+
+         pn$antonio da horta/id=b1756-12-per2
+            ls$loccasamento/ermida de santo antonio, a da gorda/obs=o registo de casamento foi feito no livro de recebimentos da igreja de santa maria
+
+         ppn$antonio da horta/id=b1756-12-per3
+            ls$naturalidade/freguesia de nossa senhora do populo, caldas
+            ls$locbaptismo/igreja de nossa senhora do populo, caldas
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$teresa josefa/id=b1756-12-per4
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         mn$eufemia margarida/id=b1756-12-per5
+            ls$naturalidade/a da gorda
+            ls$freguesia/santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/ermida de santo antonio, a da gorda/obs=o registo de casamento foi feito no livro de recebimentos da igreja de santa maria
+
+         pmn$teodosio da silva rego/id=b1756-12-per6
+            ls$naturalidade/freguesia do bom jesus de sao pedro do carvalhal
+            ls$locbaptismo/igreja do bom jesus de sao pedro do carvalhal
+            ls$loccasamento/igreja do reguengo grande
+
+         mmn$pascoa maria/id=b1756-12-per7
+            ls$naturalidade/quinta da granja
+            ls$freguesia/santa maria
+            ls$loccasamento/igreja do reguengo grande
+
+         pad$bernardo gomes henriques/id=b1756-12-per8
+            ls$cargo/capitao
+
+         mad$joana helena da cruz/id=b1756-12-per9
+            ls$titulo/dona
+            ls$residencia/lisboa
+
+         procurador-mad$alexandre caetano do avelar/id=b1756-12-per10
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+      bap$b1756-13/26/3/1756/fl.25v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$margarida/f/id=b1756-13-n
+            ls$datanasc/17560321
+
+         pn$joao ribeiro/id=b1756-13-per1
+            ls$residencia/obidos
+            ls$naturalidade/mafra
+            ls$locbaptismo/igreja de santo andre, mafra
+            ls$loccasamento/igreja de santa maria
+
+         ppn$manuel ribeiro/id=b1756-13-per2
+            ls$naturalidade/mato
+            ls$freguesia/sao miguel de palhacana, termo de alenquer
+            ls$loccasamento/freguesia de santo andre, mafra
+
+         mpn$teresa da conceicao/id=b1756-13-per3
+            ls$naturalidade/mafra
+            ls$freguesia/santo andre, mafra
+            ls$loccasamento/freguesia de santo andre, mafra
+
+         mn$eugenia maria/id=b1756-13-per4
+            ls$loccasamento/igreja de santa maria
+            ls$locbaptismo/igreja de santa maria
+            ls$residencia/obidos
+
+         pmn$francisco antunes/id=b1756-13-per5
+            ls$naturalidade/outeiro
+            ls$freguesia/sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/igreja de santa maria
+
+         mmn$josefa maria/id=b1756-13-per6
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$felix jose de faria/id=b1756-13-per7
+            ls$profissao/padre
+            rel$parentesco/primo/margarida/b1756-13-n
+            ls$residencia/obidos
+
+         mad$maria rosa de sao bernardo/id=b1756-13-per8
+            ls$residencia/obidos
+
+      bap$b1756-14/31/3/1756/fl.25v.-26/igreja de sao pedro/jose moreira chaves (padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joaquim/m/id=b1756-14-per1
+            ls$datanasc/17560317
+
+         pn$antonio rodrigues da silva/id=b1756-14-per2
+            ls$cargo/correio de sua majestade%correio de sua magestade que deos guarde
+            ls$naturalidade/valermigio, freguesia de sao mamede/obs=termo de mortagua
+            ls$bispado/coimbra
+            ls$loccasamento/igreja de sao mamede/obs=diz o paroco que se receberam na igreja de sao mamede "que se queymou no tempo do terremoto, que no anno de mil e settecentos e sincoenta e sinco, ouve na cidade de lisboa"
+
+         ppn$antonio rodrigues/id=b1756-14-per3
+            ls$naturalidade/valermigio, freguesia de sao mamede/obs=termo de mortagua
+            ls$bispado/coimbra
+
+         mpn$margarida rodrigues/id=b1756-14-per4
+            ls$naturalidade/vila pouca
+            ls$locbaptismo/freguesia de vila pouca
+
+         mn$antonia joana de deus/id=b1756-14-per5
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao mamede/obs=diz o paroco que se receberam na igreja de sao mamede "que se queymou no tempo do terremoto, que no anno de mil e settecentos e sincoenta e sinco, ouve na cidade de lisboa"
+
+         pmn$manuel martins/id=b1756-14-per6
+            ls$naturalidade/valermigio, freguesia de sao mamede/obs=termo de mortagua
+            ls$bispado/coimbra
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$antonia teresa/id=b1756-14-per7
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad$jose goncalves paz/id=b1756-14-per8
+            ls$residencia/lisboa
+
+         procurador-pad$manuel de faria/id=b1756-14-per9
+            ls$cargo/alferes
+            ls$residencia/freguesia de sao pedro
+
+         mad$nossa senhora da piedade/id=b1756-14-per10
+
+      bap$b1756-15/4/4/1756/fl.26-26v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$jose/m/id=b1756-15-per1
+            ls$datanasc/17560325
+
+         pn$domingos pereira/id=b1756-15-per2
+            ls$naturalidade/leiria
+            ls$locbaptismo/se de leiria
+            ls$loccasamento/igreja de santa maria
+            ls$enjeitado/sim/obs=filho de pais incognitos
+
+         ppn$nome desconhecido/id=b1756-15-per3
+
+         mpn$nome desconhecido/id=b1756-15-per4
+
+         mn$rosa maria/id=b1756-15-per5
+            ls$naturalidade/quintas, freguesia de nossa senhora do desterro
+            ls$bispado/leiria
+            ls$loccasamento/igreja de santa maria
+
+         pmn$antonio francisco/id=b1756-15-per6
+            ls$naturalidade/quintas, freguesia de nossa senhora do desterro
+            ls$bispado/leiria
+
+         mmn$luisa de oliveira/id=b1756-15-per7
+            ls$naturalidade/quintas, freguesia de nossa senhora do desterro
+            ls$bispado/leiria
+
+         pad$manuel da silva/id=b1756-15-per8
+            ls$profissao/criado
+            rel$profissional/criado/paulo de sequeira/b1756-15-referido
+
+         referido$paulo de sequeira/id=b1756-15-referido
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+
+         mad$nossa senhora do rosario/id=b1756-15-per9
+
+      bap$b1756-16/25/4/1756/fl.26v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$manuel/m/id=b1756-16-per1
+            ls$datanasc/17560415
+
+         pn$mateus nunes/id=b1756-16-per2
+            ls$naturalidade/bombarral, freguesia do salvador
+            ls$locbaptismo/freguesia do salvador
+            ls$loccasamento/igreja do bom jesus de sao pedro do carvalhal
+
+         ppn$francisco nunes/id=b1756-16-per3
+            ls$naturalidade/casais de vale do covo, freguesia do salvador
+            ls$loccasamento/freguesia do salvador
+
+         mpn$catarina da silva/id=b1756-16-per4
+            ls$naturalidade/casais de vale do covo, freguesia do salvador
+            ls$loccasamento/freguesia do salvador
+
+         mn$josefa maria/id=b1756-16-per5
+            ls$naturalidade/carvalhal, freguesia do bom jesus de sao pedro
+            ls$loccasamento/igreja do bom jesus de sao pedro do carvalhal
+
+         pmn$luis francisco/id=b1756-16-per6
+            ls$morto/antes
+            ls$residencia/casais da condesela, freguesia de sao salvador
+
+         mmn$maria soares/id=b1756-16-per7
+            ls$residencia/casais da condesela, freguesia de sao salvador
+            ls$morta/antes
+
+         pad$jose jeronimo/id=b1756-16-per8
+            rel$parentesco/filho/frutuoso inacio/b1756-16-referido
+
+         referido$frutuoso inacio/id=b1756-16-referido
+
+         mad$sebastiana da silva/id=b1756-16-per9
+            rel$parentesco/filha/francisco nunes/b1756-16-ref
+            ls$residencia/bombarral
+
+         referido$francisco nunes/id=b1756-16-ref
+            ls$residencia/bombarral
+
+      bap$b1756-17/10/5/1756/fl.26v.-27/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joaquina/f/id=b1756-17-per1
+            ls$datanasc/17560416
+
+         pn$antonio lourenco/id=b1756-17-per2
+            ls$naturalidade/coimbrao, freguesia de sao miguel
+            ls$bispado/leiria
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$timoteo fernandes/id=b1756-17-per3
+            ls$naturalidade/ervideira, freguesia de sao miguel de coimbrao
+            ls$bispado/leiria
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$maria lourenco/id=b1756-17-per4
+            ls$naturalidade/ervideira, freguesia de sao miguel de coimbrao
+            ls$bispado/leiria
+            ls$loccasamento/igreja de sao pedro
+
+         mn$maria josefa das neves/id=b1756-17-per5
+            ls$naturalidade/igreja de santa maria
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$lourenco de faria/id=b1756-17-per6
+            ls$naturalidade/obidos
+            ls$locbaptismo/numa das igrejas da vila
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$maria teresa/id=b1756-17-per7
+            ls$naturalidade/obidos
+            ls$locbaptismo/numa das igrejas da vila
+            ls$loccasamento/igreja de sao pedro
+
+         pad$antonio pedro da costa braga/id=b1756-17-per8
+            ls$residencia/obidos
+
+         procurador-pad$gregorio antunes correia/id=b1756-17-per9
+            ls$residencia/obidos
+
+         mad$anastacia margarida de andrade/id=b1756-17-per10
+            ls$titulo/dona
+            ls$residencia/obidos
+
+      bap$b1756-18/15/5/1756/fl.27-27v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$catarina/f/id=b1756-18-per1
+            ls$datanasc/17560215
+
+         pn$bernardo cabral de sisneiros/id=b1756-18-per2
+            ls$naturalidade/obidos
+            ls$locbaptismo/igreja de sao pedro
+            ls$titulo/dom
+            ls$loccasamento/igreja dos anjos
+
+         ppn$jose pacheco cabral corutelo/id=b1756-18-per3
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/lisboa, igreja de nossa senhora do socorro
+
+         mpn$catarina xavier de castro girao de sisneiros/id=b1756-18-per4
+            ls$titulo/dona
+            ls$locbaptismo/lisboa, igreja de sao cristovao
+            ls$loccasamento/lisboa, igreja de nossa senhora do socorro
+
+         mn$maria madalena de magalhaes/id=b1756-18-per5
+            ls$titulo/dona
+            ls$locbaptismo/igreja da encarnacao, lisboa
+            ls$loccasamento/igreja dos anjos
+
+         pmn$teotonio barbosa leite de araujo/id=b1756-18-per6
+            ls$naturalidade/valenca do minho
+            ls$locbaptismo/numa das igrejas de valenca do minho
+            ls$loccasamento/lisboa, igreja de nossa senhora da conceicao
+
+         mmn$teresa antonia de magalhaes meneses e castro/id=b1756-18-per7
+            ls$titulo/dona
+            ls$locbaptismo/lisboa, igreja do alecrim
+            ls$loccasamento/lisboa, igreja de nossa senhora da conceicao
+
+         pad$andre emaus/id=b1756-18-per8
+            ls$residencia/lisboa
+
+         mad$dionisia maria emaus/id=b1756-18-per9
+            ls$titulo/dona
+            ls$residencia/lisboa
+
+      bap$b1756-19/19/5/1756/fl.27v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva. o livro foi visto em visitacao de 29 de junho de 1756.
+
+         n$maria/f/id=b1756-19-per1
+            ls$datanasc/17560506
+
+         pn$jose henriques/id=b1756-19-per2
+            ls$naturalidade/casais do pinhal
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$jose henriques/id=b1756-19-per3
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$joana teresa/id=b1756-19-per4
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         mn$antonia maria/id=b1756-19-per5
+            ls$naturalidade/casais do pinhal
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$antonio henriques/id=b1756-19-per6
+            ls$naturalidade/casal do pinhal
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/freguesia de nossa senhora de aboboriz, amoreira
+
+         mmn$isabel monteiro/id=b1756-19-per7
+            ls$morta/antes
+            ls$naturalidade/vau, freguesia de nossa senhora de aboboriz da amoreira
+            ls$loccasamento/freguesia de nossa senhora de aboboriz, amoreira
+
+         pad$joao freire gameiro/id=b1756-19-per8
+            ls$residencia/obidos
+
+         procurador-pad$jose antonio carreira/id=b1756-19-per9
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+         mad$maria do espirito santo/id=b1756-19-per10
+            ls$titulo/dona
+            ls$residencia/obidos
+
+         procurador-mad$jose soares de almeida/id=b1756-19-per11
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1756-20/25/7/1756/fl.28/igreja de sao pedro/manuel da silva caldeira (padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1756-20-per1
+            ls$datanasc/17560704
+
+         pn$sebastiao da costa/id=b1756-20-per2
+            ls$enjeitado/sim
+
+         ppn$nome desconhecido/id=b1756-20-per3
+
+         mpn$nome desconhecido/id=b1756-20-per4
+
+         mn$maria rosa/id=b1756-20-per5
+
+         pmn$jose lopes/id=b1756-20-per6
+
+         mmn$teresa de sao jose/id=b1756-20-per7
+
+         pad$jose delgado/id=b1756-20-per8
+            rel$parentesco/filho/domingos delgado/b1756-20-referido
+
+         referido$domingos delgado/id=b1756-20-referido
+
+         mad$nossa senhora da conceicao/id=b1756-20-per9
+
+      bap$b1756-21/1/8/1756/fl.28-28v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$feliciana/f/id=b1756-21-per1
+            ls$datanasc/17560716
+
+         pn$vicente francisco/id=b1756-21-per2
+            ls$loccasamento/freguesia de sao joao
+
+         ppn$jose monteiro/id=b1756-21-per3
+            ls$naturalidade/vau, freguesia de nossa senhora de aboboriz da amoreira
+            ls$loccasamento/freguesia de sao tiago
+
+         mpn$domingas da horta/id=b1756-21-per4
+            ls$naturalidade/nadadouro, freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago
+
+         mn$pascoa maria joaquina/id=b1756-21-per5
+            ls$naturalidade/sobral da lagoa, freguesia de sao joao
+            ls$loccasamento/freguesia de sao joao
+
+         pmn$manuel francisco/id=b1756-21-per6
+            ls$naturalidade/sobral, freguesia de sao joao
+            ls$loccasamento/freguesia de sao joao
+
+         mmn$vitoria luis/id=b1756-21-per7
+            ls$naturalidade/sobral, freguesia de sao joao
+            ls$loccasamento/freguesia de sao joao
+
+         pad$estevao pedro de carvalho/id=b1756-21-per8
+            ls$cargo/escrivao dos orfaos
+
+         procurador-pad$jeronimo martins de castro/id=b1756-21-per9
+
+      bap$b1756-22/2/8/1756/fl.28v./igreja de sao pedro/jose moreira chaves (padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joaquim/m/id=b1756-22-per1
+            ls$datanasc/17560717
+
+         pn$domingos da silva/obs=preto de nacao/id=b1756-22-per2
+
+         mn$josefa joaquina/obs=preta de nacao/id=b1756-22-per3
+
+         pad$joao freire gameiro/id=b1756-22-per4
+
+         mad$ana catarina barbara/id=b1756-22-per5
+
+      bap$b1756-23/8/8/1756/fl.28v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$jose/m/id=b1756-23-per1
+            ls$datanasc/17560725
+
+         pn$manuel ferreira/id=b1756-23-per2
+            ls$naturalidade/igreja de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$manuel correia/id=b1756-23-per3
+            ls$naturalidade/usseira
+            ls$loccasamento/igreja de reguengo grande
+
+         mpn$catarina ferreira/id=b1756-23-per4
+            ls$naturalidade/reguengo grande
+            ls$locbaptismo/freguesia de reguengo grande
+            ls$loccasamento/igreja de reguengo grande
+
+         mn$catarina maria/id=b1756-23-per5
+            ls$naturalidade/igreja de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$jose da costa/id=b1756-23-per6
+            ls$naturalidade/usseira
+            ls$morto/antes
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$mariana da silva/id=b1756-23-per7
+            ls$morta/antes
+            ls$naturalidade/obidos
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad$jose das neves/id=b1756-23-per8
+            ls$residencia/usseira
+
+         mad$maria helena/id=b1756-23-per9
+            rel$parentesco/filha/francisco pereira/b1756-23-referido
+            ls$residencia/usseira
+
+         referido$francisco pereira/id=b1756-23-referido
+            ls$residencia/usseira
+
+      bap$b1756-24/13/9/1756/fl.29/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria do carmo/f/id=b1756-24-per1
+            ls$datanasc/17560825
+
+         pn$manuel gomes/id=b1756-24-per2
+            ls$naturalidade/casais do pinhal
+
+         ppn$manuel gomes/id=b1756-24-per3
+            ls$naturalidade/casais do pinhal
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$antonia maria/id=b1756-24-per4
+            ls$naturalidade/casais do pinhal
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$antonia joaquina/id=b1756-24-per5
+            ls$naturalidade/casais do pinhal
+
+         pmn$jose francisco/id=b1756-24-per6
+            ls$loccasamento/freguesia de sao pedro
+            ls$naturalidade/casal da ramalheira
+
+         mmn$teresa de jesus/id=b1756-24-per7
+            ls$naturalidade/casal da ramalheira
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$estevao pedro de carvalho/id=b1756-24-per8
+            ls$cargo/escrivao dos orfaos
+
+         mad$nossa senhora do carmo/id=b1756-24-per9
+
+      bap$b1756-25/25/9/1756/fl.29-29v./igreja de sao pedro/jose moreira chaves (padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joao/m/id=b1756-25-per1
+            ls$datanasc/17560904
+
+         pn$joao pedro de andrade/id=b1756-25-per2
+            ls$residencia/freguesia de sao pedro
+
+         ppn$manuel de andrade/id=b1756-25-per3
+            ls$naturalidade/obidos
+
+         mpn$luisa madeira/id=b1756-25-per4
+            ls$morta/antes
+            ls$naturalidade/peniche
+
+         mn$maria joaquina da silveira/id=b1756-25-per5
+            ls$titulo/dona
+            ls$residencia/freguesia de sao pedro
+
+         pmn$martinho cardoso pereira/id=b1756-25-per6
+            ls$titulo/doutor
+            ls$naturalidade/sacavem/obs=termo de lisboa
+            ls$morto/antes
+
+         mmn$antonia rosa/id=b1756-25-per7
+            ls$titulo/dona
+            ls$naturalidade/castelo branco
+            ls$bispado/guarda
+            ls$morta/antes
+
+         pad$francisco de melo/id=b1756-25-per8
+
+         mad$maria de assis/id=b1756-25-per9
+            ls$titulo/dona
+
+         procurador-mad$antonio de macedo neto/id=b1756-25-per10
+            ls$profissao/padre
+
+      bap$b1756-26/26/9/1756/fl.29v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$ana/f/id=b1756-26-per1
+            ls$datanasc/17560914
+
+         pn$caetano jose henriques/id=b1756-26-per2
+            ls$naturalidade/lisboa
+            ls$locbaptismo/isboa, igreja de sao nicolau
+            ls$loccasamento/igreja de sao tiago
+
+         ppn$manuel henriques bexiga/id=b1756-26-per3
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/lisboa, igreja de sao nicolau
+
+         mpn$maria de jesus/id=b1756-26-per4
+            ls$naturalidade/lisboa
+            ls$locbaptismo/lisboa, freguesia de sao nicolau
+            ls$loccasamento/lisboa, igreja de sao nicolau
+
+         mn$ines maria de santa ana/id=b1756-26-per5
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao tiago
+
+         pmn$francisco monteiro/id=b1756-26-per6
+            ls$naturalidade/casal branco, freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$tomasia maria/id=b1756-26-per7
+            ls$naturalidade/moinho do lagar, freguesia de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         pad$antero de azevedo teixeira/id=b1756-26-per8
+            ls$profissao/padre
+
+         procurador-pad$francisco gomes figueira/id=b1756-26-per9
+            ls$profissao/padre
+
+         mad$luisa da conceicao/id=b1756-26-per10
+
+         procurador-mad$jose caetano freire/id=b1756-26-per11
+
+      bap$b1756-27/10/10/1756/fl.29v.-30/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1756-27-per1
+            ls$datanasc/17560925
+
+         pn$manuel correia/id=b1756-27-per2
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$jose de oliveira/id=b1756-27-per3
+            ls$naturalidade/sao gregorio
+            ls$loccasamento/igreja de santa maria
+
+         mpn$joana maria/id=b1756-27-per4
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         mn$ana joaquina/id=b1756-27-per5
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$luis carreira/id=b1756-27-per6
+            ls$naturalidade/pataias
+            ls$bispado/leiria
+            ls$loccasamento/igreja de sao tiago
+
+         mmn$pascoa maria/id=b1756-27-per7
+            ls$naturalidade/tornada
+            ls$loccasamento/igreja de sao tiago
+
+         pad$jose monteiro/id=b1756-27-per8
+            ls$titulo/doutor
+            ls$residencia/obidos
+
+         mad$josefa umbelina/id=b1756-27-per9
+            rel$parentesco/filha/manuel pereira da costa/b1756-27-referido
+            ls$residencia/obidos
+
+         referido$manuel pereira da costa/id=b1756-27-referido
+            ls$residencia/obidos
+
+      bap$b1756-28/14/10/1756/fl.30/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$francisco/m/id=b1756-28-per1
+            ls$datanasc/17560929
+
+         pn$jose da silva/id=b1756-28-per2
+            ls$naturalidade/casal da serra, freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/igreja do salvador
+
+         ppn$manuel da silva/id=b1756-28-per3
+            ls$naturalidade/casal da serra, freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mpn$faustina ferreira/id=b1756-28-per4
+            ls$naturalidade/casal da serra, freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria do nascimento/id=b1756-28-per5
+            ls$naturalidade/bombarral, freguesia do salvador
+            ls$locbaptismo/igreja do salvador
+            ls$loccasamento/igreja do salvador
+
+         pmn$manuel henriques/id=b1756-28-per6
+            ls$naturalidade/casal do azambujeiro, freguesia de santa maria
+
+         mmn$mariana da encarnacao/id=b1756-28-per7
+            ls$naturalidade/casal da margaida/obs=aquando deste registo o casal da margaida ja nao existia "por estar demolido" e era da freguesia de santa maria.
+
+         pad$manuel francisco/id=b1756-28-per8
+            ls$alcunha/o carapau
+            ls$residencia/sitio do senhor da pedra
+
+         mad$nossa senhora do carmo/id=b1756-28-per9
+
+      bap$b1756-29/30/10/1756/fl.30-30v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$francisca/f/id=b1756-29-per1
+            ls$datanasc/17561022
+
+         pn$jose da costa/id=b1756-29-per2
+            ls$naturalidade/casais do pinhal
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$andre da costa/id=b1756-29-per3
+            ls$naturalidade/gaeiras, freguesia de sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$maria henriques/id=b1756-29-per4
+            ls$naturalidade/casais do pinhal
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$ana maria/id=b1756-29-per5
+            ls$naturalidade/casais do pinhal
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$henrique monteiro/id=b1756-29-per6
+            ls$naturalidade/barrocalvo, freguesia do bom jesus de sao pedro do carvalhal
+            ls$loccasamento/igreja de santa maria
+
+         mmn$maria madalena/id=b1756-29-per7
+            ls$naturalidade/obidos
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pad$francisco martins/id=b1756-29-per8
+
+         mad$francisca teresa/id=b1756-29-per9
+            ls$residencia/casal da figueira
+
+      bap$b1756-30/18/11/1756/fl.30v.-31/igreja de sao pedro/jose moreira chaves (padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$catarina/f/id=b1756-30-per1
+            ls$datanasc/1756
+
+         pn$felix soares/id=b1756-30-per2
+            ls$alcunha/pouca roupa
+            ls$loccasamento/igreja de santa maria
+            ls$enjeitado/sim/obs=enjeitado do hospital real de todos os santos de lisboa
+
+         ppn$nome desconhecido/id=b1756-30-per3
+
+         mpn$nome desconhecido/id=b1756-30-per4
+
+         mn$maria antonia/id=b1756-30-per5
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pmn$joao henriques/id=b1756-30-per6
+            ls$alcunha/o mouro/obs="o mouro de alcunha, e nao porque seja mouro de nacao"
+            ls$naturalidade/beira
+
+         mmn$antonia maria/id=b1756-30-per7
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/igreja de santa maria
+
+         pad$manuel de faria/id=b1756-30-per8
+
+         mad$nossa senhora da piedade/id=b1756-30-per9
+
+      bap$b1756-31/18/12/1756/fl.31/igreja de sao pedro/francisco de matos (reverendo, padre, cura da igreja de sao tiago)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joao/m/id=b1756-31-per1
+            ls$datanasc/17561106
+
+         pn$joao freire gameiro/id=b1756-31-per2
+            ls$naturalidade/lisboa
+            ls$locbaptismo/lisboa, igreja de nossa senhora das merces
+            ls$loccasamento/oratorio do doutor jose dantas barbosa/obs=o casamento realizou-se no oratorio do doutor jose dantas barbosa com procuracao
+
+         ppn$domingos freire gameiro/id=b1756-31-per3
+            ls$naturalidade/lisboa
+
+         mpn$teresa isabel de sousa/id=b1756-31-per4
+            ls$titulo/dona
+            ls$naturalidade/lisboa
+
+         mn$maria do espirito santo soares da silveira/id=b1756-31-per5
+            ls$titulo/dona
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/oratorio do doutor jose dantas barbosa/obs=o casamento realizou-se no oratorio do doutor jose dantas barbosa com procuracao
+
+         pmn$manuel soares henriques/id=b1756-31-pmn
+            ls$naturalidade/a da gorda, freguesia de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$sebastiana maria da silveira/id=b1756-31-per6
+            ls$titulo/dona
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad$joao felix pereira/id=b1756-31-per7
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$cargo/tesoureiro mor da santa se de lamego
+            rel$parentesco/sobrinho/nome desconhecido/b1756-31-referido
+
+         procurador-pad$manuel soares henriques/mesmo_que=b1756-31-pmn/id=b1756-31-per8
+
+            referido$nome desconhecido/id=b1756-31-referido
+               ls$titulo/excelentissimo
+               ls$cargo/bispo de lamego
+
+            referido$jose dantas barbosa/id=b1756-31-per8-per9
+               ls$titulo/excelentissimo
+               ls$titulo/senhor
+               ls$titulo/doutor
+               ls$cargo/arcebispo de lacedemonia
+               ls$cargo/provisor
+               ls$cargo/vigario geral do patriarcado
+
+         mad$nossa senhora do carmo/id=b1756-31-per10
+
+      bap$b1756-32/19/12/1756/fl.31v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joao/m/id=b1756-32-per1
+            ls$datanasc/17561201
+
+         pn$antonio henriques/id=b1756-32-per2
+            ls$alcunha/o mouro
+            ls$naturalidade/freguesia de santa maria
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de nossa senhora dos anjos, coto
+
+         ppn$joao henriques/id=b1756-32-per3
+            ls$alcunha/o mouro
+            ls$loccasamento/igreja de santa maria
+
+         mpn$antonia maria/id=b1756-32-per4
+            ls$loccasamento/igreja de santa maria
+
+         mn$escolastica maria/id=b1756-32-per5
+            ls$naturalidade/freguesia de nossa senhora dos anjos, coto
+            ls$locbaptismo/igreja de nossa senhora dos anjos, coto
+            ls$loccasamento/igreja de nossa senhora dos anjos, coto
+
+         pmn$manuel luis/id=b1756-32-per6
+            ls$naturalidade/porto de mos
+            ls$bispado/leiria
+            ls$loccasamento/igreja de nossa senhora dos anjos, coto
+
+         mmn$maria teresa/id=b1756-32-per7
+            ls$naturalidade/freguesia de nossa senhora dos anjos, coto
+            ls$locbaptismo/igreja de nossa senhora dos anjos, coto
+            ls$loccasamento/igreja de nossa senhora dos anjos, coto
+
+         pad$joao frazao/id=b1756-32-per8
+
+         mad$nossa senhora da piedade/id=b1756-32-per9
+
+      bap$b1756-33/24/12/1756/fl.31v.-32/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$inacio/m/id=b1756-33-per1
+            ls$datanasc/17561205
+
+         pn$jose francisco/id=b1756-33-per2
+            ls$naturalidade/usseira
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$domingos francisco/id=b1756-33-per3
+            ls$naturalidade/matacaes, termo de torres vedras
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$josefa maria/id=b1756-33-per4
+            ls$naturalidade/usseira
+            ls$loccasamento/igreja de sao pedro
+
+         mn$ana da silva/id=b1756-33-per5
+            ls$naturalidade/usseira
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$domingos henriques/id=b1756-33-per6
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$joana da silva/id=b1756-33-per7
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$jose da costa/id=b1756-33-per8
+            ls$residencia/usseira
+
+         mad$ana maria/id=b1756-33-per9
+            ls$residencia/usseira
+
+      bap$b1757-1/12/1/1757/fl.32/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1757-1-per1
+            ls$datanasc/17570104
+
+         pn$antonio monteiro/id=b1757-1-per2
+            ls$naturalidade/cos, freguesia de santa eufemia
+            ls$locbaptismo/igreja de santa eufemia, cos, coutos de alcobaca
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$francisco monteiro/id=b1757-1-per3
+            ls$naturalidade/valado, freguesia da pederneira
+            ls$loccasamento/igreja da pederneira
+
+         mpn$maria rodrigues/id=b1757-1-per4
+            ls$naturalidade/valado, freguesia da pederneira
+            ls$loccasamento/igreja da pederneira
+
+         mn$pascoa maria/id=b1757-1-per5
+            ls$enjeitada/sim/obs=filha de pais incognitos
+            ls$naturalidade/amoreira, freguesia de nossa senhora de aboboriz
+            ls$locbaptismo/amoreira, igreja de nossa senhora de aboboriz
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$nome desconhecido/id=b1757-1-per6
+
+         mmn$nome desconhecido/id=b1757-1-per7
+
+         pad$estevao pereira de carvalho/id=b1757-1-pad
+
+         mad$ana rosa de carvalho/id=b1757-1-mad
+            rel$parentesco/irma/estevao pereira de carvalho/b1757-1-pad
+
+         procurador-mad$joaquim jose de carvalho/id=b1757-1-per8
+            rel$parentesco/irmao/ana rosa de carvalho/b1757-1-mad
+
+      bap$b1757-2/23/1/1757/fl.32-32v./igreja de sao pedro/francisco de matos (reverendo, padre, cura na igreja de sao tiago)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1757-2-per1
+            ls$datanasc/17570112
+
+         pn$pedro ferreira/id=b1757-2-per2
+            ls$naturalidade/freguesia de sao joao
+            ls$loccasamento/santa casa da misericordia
+
+         ppn$francisco joao/id=b1757-2-per3
+
+         mpn$maria ferreira/id=b1757-2-per4
+
+         mn$ana joaquina do carmo/id=b1757-2-per5
+            ls$naturalidade/santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/santa casa da misericordia
+
+         pmn$antonio henriques/id=b1757-2-per6
+
+         mmn$maria da assuncao/id=b1757-2-per7
+
+      bap$b1757-3/27/1/1757/fl.32v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1757-3-per1
+            ls$datanasc/17570115
+            ls$ilegitima/sim
+
+         pn$joao de deus/id=b1757-3-per2
+            ls$ec/s
+            ls$naturalidade/obidos
+            ls$profissao/soldado/obs=soldado do regimento de peniche
+
+         ppn$dionisio do couto/id=b1757-3-per3
+            ls$naturalidade/obidos
+
+         mpn$maria teresa/id=b1757-3-per4
+            ls$naturalidade/obidos
+
+         mn$marcelina antonia/id=b1757-3-per5
+            ls$ec/s
+            ls$naturalidade/obidos
+
+         pmn$francisco soares/id=b1757-3-per6
+            ls$morto/antes
+
+         mmn$isabel maria/id=b1757-3-per7
+            ls$morta/antes
+
+         pad$agostinho da fonseca silva/id=b1757-3-per8
+            ls$profissao/padre
+            ls$cargo/cura na igreja de sao pedro
+
+      bap$b1757-4/11/2/1757/fl.33/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$matias/m/id=b1757-4-per1
+            ls$datanasc/17570202
+
+         pn$joao henriques/id=b1757-4-per2
+            ls$naturalidade/casal da eira
+            ls$loccasamento/ermida de santa iria
+
+         ppn$manuel henriques/id=b1757-4-per3
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$maria henriques/id=b1757-4-per4
+            ls$naturalidade/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$josefa maria/id=b1757-4-per5
+            ls$naturalidade/quinta da capeleira, freguesia de sao tiago
+            ls$loccasamento/ermida de santa iria
+
+         pmn$antonio monteiro/id=b1757-4-per6
+            ls$residencia/quinta da capeleira, freguesia de sao tiago
+
+         mmn$antonia maria/id=b1757-4-per7
+            ls$residencia/quinta da capeleira, freguesia de sao tiago
+
+         pad$matias rodrigues/id=b1757-4-per8
+            ls$residencia/a da gorda
+            rel$parentesco/marido/maria monteiro/b1757-4-mad
+
+         mad$maria monteiro/id=b1757-4-mad
+            ls$residencia/a da gorda
+
+      bap$b1757-5/26/2/1757/fl.33-33v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$manuel/m/id=b1757-5-per1
+            ls$datanasc/1757
+
+         pn$antonio francisco/id=b1757-5-per2
+            ls$naturalidade/freguesia de sao mateus, barosa
+            ls$bispado/leiria
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$manuel francisco/id=b1757-5-per3
+            ls$naturalidade/barosa
+            ls$bispado/leiria
+            ls$loccasamento/freguesia de sao mateus, marinha grande
+
+         mpn$isabel da conceicao/id=b1757-5-per4
+            ls$freguesia/marinha grande
+            ls$bispado/leiria
+            ls$freguesia/sao mateus, marinha grande
+            ls$loccasamento/freguesia de sao mateus, marinha grande
+
+         mn$maria teresa/id=b1757-5-per5
+            ls$naturalidade/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$antonio ferreira/id=b1757-5-per6
+            ls$naturalidade/rolica
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria das neves/id=b1757-5-per7
+            ls$naturalidade/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$manuel gomes/id=b1757-5-per8
+            ls$residencia/usseira
+
+         mad$maria ferreira/id=b1757-5-per9
+            ls$residencia/usseira
+
+      bap$b1757-6/9/4/1757/fl.33v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$feliciano/m/id=b1757-6-per1
+            ls$datanasc/17570329
+
+         pn$francisco de lemos/id=b1757-6-per2
+            ls$residencia/usseira
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$manuel das neves/id=b1757-6-per3
+            ls$naturalidade/usseira
+            ls$loccasamento/freguesia de santa maria
+
+         mpn$teresa maria/id=b1757-6-per4
+            ls$morta/antes
+            ls$naturalidade/casais de alentejo
+            ls$freguesia/santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria ferreira/id=b1757-6-per5
+            ls$residencia/usseira
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$joao ferreira/id=b1757-6-per6
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria gomes/id=b1757-6-per7
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$manuel das neves/id=b1757-6-per8
+            ls$residencia/usseira
+
+         mad$maria caetana/id=b1757-6-per9
+            ls$residencia/usseira
+
+      bap$b1757-7/19/4/1757/fl.33v.-34/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$severino/m/id=b1757-7-n
+            ls$enjeitado/sim/obs="o qual foi exposto na quinta de bayxo, e deuse a criar por ordem da camara e conselho desta vila foi padrinho severino gomes procu digo desta vila a francisca maria mulher de antonio nunes do lugar da dos ruivos"
+
+         pn$nome desconhecido/id=b1757-7-per1
+
+         mn$nome desconhecido/id=b1757-7-per2
+
+         referida$francisca maria/id=b1757-7-referida
+            ls$residencia/a dos ruivos
+            rel$sociabilidade/ama/severino/b17757-7-n
+
+         referido$antonio nunes/id=b1757-7-per3
+            ls$residencia/a dos ruivos
+            rel$parentesco/marido/francisca maria/b1757-7-referida
+
+         pad$severino gomes/id=b1757-7-per4
+            ls$cargo/procurador do concelho
+
+      bap$b1757-8/19/4/1757/fl.34/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$patornilha/f/id=b1757-8-n
+            ls$enjeitada/sim/obs="que se expos na ermida de nossa senhora do amparo, e se deu a criar a maria do espirito santo mulher de joao francisco desta vila por ordem por ordem da camara e conselho da mesma"
+
+         pn$nome desconhecido/id=b1757-8-per1
+
+         mn$nome desconhecido/id=b1757-8-per2
+
+         pad$severino gomes/id=b1757-8-per3
+            ls$cargo/procurador do
+
+         referida$maria do espirito santo/id=b1757-8-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/patornilha/b1757-8-n
+
+         referido$joao francisco/id=b1757-8-per4
+            ls$residencia/obidos
+            rel$parentesco/marido/maria do espirito santo/b1757-8-referida
+
+      bap$b1757-9/3/5/1757/fl.34-34v./igreja de sao pedro/jose moreira chaves (reverendo, padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1757-9-per1
+            ls$datanasc/17570424
+
+         pn$jeronimo correia/id=b1757-9-per2
+            ls$loccasamento/igreja de sao pedro
+
+         ppn$jose martins/id=b1757-9-per3
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$maria do o/id=b1757-9-per4
+            ls$morta/antes
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/igreja de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         mn$maria teresa/id=b1757-9-per5
+            ls$naturalidade/nadadouro, freguesia de sao tiago
+            ls$locbaptismo/igreja de sao tiago
+            ls$loccasamento/igreja de sao pedro
+
+         pmn$francisco fernandes/id=b1757-9-per6
+            ls$naturalidade/nadadouro, freguesia de sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago
+
+         mmn$maria martins/id=b1757-9-per7
+            ls$naturalidade/nadadouro, freguesia de sao tiago
+            ls$locbaptismo/freguesia de sao tiago
+            ls$loccasamento/freguesia de sao tiago
+
+         pad$jose ubaldo de leao/id=b1757-9-pad
+            ls$residencia/obidos
+
+         mad$dionisia antonia da cruz/id=b1757-9-per8
+            rel$parentesco/mae/jose ubaldo de leao/b1757-9-pad
+            ls$residencia/obidos
+
+         procurador-mad$manuel de leao/id=b1757-9-per9
+            ls$residencia/obidos
+
+      bap$b1757-10/4/5/1757/fl.34v./igreja de sao pedro/joao henriques de oliveira (padre)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria ines/f/id=b1757-10-n
+            ls$datanasc/17570420
+
+         pn$miguel ribeiro da cruz/id=b1757-10-per1
+            ls$titulo/doutor
+
+         ppn$salvador rodrigues/id=b1757-10-per2
+            ls$morto/antes
+            ls$naturalidade/faro/obs=algarve
+            ls$locbaptismo/igreja da se de faro
+            ls$loccasamento/igreja da se de faro
+
+         mpn$maria da conceicao/id=b1757-10-per3
+            ls$morta/antes
+            ls$naturalidade/faro/obs=algarve
+            ls$locbaptismo/igreja da se de faro
+            ls$loccasamento/igreja da se de faro
+
+         mn$maria casimira angelica de oliveira/id=b1757-10-per4
+            ls$titulo/dona
+
+         pmn$joao henriques de oliveira/id=b1757-10-per5
+            ls$naturalidade/sobral, freguesia de sao joao
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/igreja de sao pedro
+
+         pad$antonio da costa freire/id=b1757-10-per6
+            ls$cargo/desembargador
+            ls$residencia/lisboa
+
+         procurador-pad$antonio correia manuel de aboim/id=b1757-10-per7
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+            ls$residencia/obidos
+
+            referido$joao henriques de oliveira/id=b1757-10-per7-per8
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/prior
+               rel$parentesco/tio/maria ines/b1757-10-n
+
+            referido$jose rodrigues leal/obs=deu licenca para que o baptismo fosse realizado pelo tio da baptizada, o padre joao henriques de oliveira/id=b1757-10-per7-per9
+               ls$titulo/reverendo
+               ls$cargo/prior
+
+      bap$b1757-11/9/5/1757/fl.35/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$maria/f/id=b1757-11-n
+            ls$datanasc/17570425
+
+         pn$tome vieira/id=b1757-11-per1
+            ls$residencia/usseira
+
+         ppn$joao vieira/id=b1757-11-per2
+            ls$profissao/alfaiate
+            ls$naturalidade/usseira
+            ls$loccasamento/freguesia do bom jesus de sao pedro do carvalhal
+
+         mpn$maria josefa/id=b1757-11-per3
+            ls$naturalidade/salgueiro, freguesia do bom jesus de sao pedro do carvalhal
+            ls$locbaptismo/freguesia do bom jesus de sao pedro do carvalhal
+            ls$loccasamento/freguesia do bom jesus de sao pedro do carvalhal
+
+         mn$maria do nascimento/id=b1757-11-per4
+            ls$residencia/usseira
+
+         pmn$lourenco vieira/id=b1757-11-per5
+            ls$morto/antes
+            ls$naturalidade/freguesia de sao tome das lamas, termo do cadaval
+            ls$locbaptismo/igreja de sao tome das lamas, termo do cadaval
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria do nascimento/id=b1757-11-per6
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$diogo vieira/id=b1757-11-per7
+            rel$parentesco/tio/maria/b1757-11-n
+            ls$residencia/usseira
+
+         mad$ines maria/id=b1757-11-per8
+            ls$residencia/usseira
+
+      bap$b1757-12/9/5/1757/fl.35-35v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$severino/m/id=b1757-12-n
+            ls$enjeitado/sim/obs="foi exposto a porta de manuel joze do cazal da asafroeyra freguesia do carvalhal, e se deu a criar a escollastica maria mulher de antonio henriques o mouro de alcunha desta vila por ordem do conselho desta mesma vila sendo procurador severino gomes da costa"
+
+         pn$nome desconhecido/id=b1757-12-per1
+
+         mn$nome desconhecido/id=b1757-12-per2
+
+         referido$manuel jose/id=b1757-12-per3
+            ls$residencia/casal da asafroeira
+            ls$freguesia/carvalhal
+            rel$sociabilidade/achou a crianca/severino/b1757-12-n
+
+         referida$escolastica maria/id=b1757-12-referida
+            ls$residencia/obidos
+            rel$sociabilidade/ama/severino/b1757-12-n
+
+         referido$antonio henriques/id=b1757-12-per4
+            ls$alcunha/o mouro
+            ls$residencia/obidos
+            rel$parentesco/marido/escolastica maria/b1757-12-referida
+
+         referido$severino gomes da costa/id=b1757-12-per5
+            ls$cargo/procurador do concelho
+
+      bap$b1757-13/9/5/1757/fl.35v./igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$jose/m/id=b1757-13-n
+            ls$enjeitado/sim/obs="o qual se expos a porta de luis francisco cazado com maria henriques dos cazaes do cotto o qual se deu a criar a anna maria mulher de joze de oliveyra desta vila, por ordem da camara desta vila"
+
+         pn$nome desconhecido/id=b1757-13-per1
+
+         mn$nome desconhecido/id=b1757-13-per2
+
+         pad$manuel da silva caldeira/id=b1757-13-per3
+            ls$titulo/reverendo
+            ls$cargo/beneficiado
+
+         referido$agostinho da fonseca e silva/id=b1757-13-per4
+            ls$cargo/cura na igreja de sao pedro
+            rel$sociabilidade/baptizou sub conditione/jose/b1757-13-n/obs=a criança foi baptizada sub conditione pois o paroco nao sabia se já tinha ou não sido baptizado
+
+         referido$luis francisco/id=b1757-13-referido
+            ls$residencia/casais do coto
+            rel$parentesco/marido/maria henriques/b1757-13-referida
+            rel$sociabilidade/achou a crianca/jose/b1757-13-n
+
+         referida$maria henriques/id=b1757-13-referida
+            ls$residencia/casais do coto
+
+         referida$ana maria/id=b1757-13-ref
+            ls$residencia/obidos
+            rel$sociabilidade/ama/jose/b1757-13-n
+
+         referido$jose de oliveira/id=b1757-13-jose
+            ls$residencia/obidos
+            rel$parentesco/marido/ana maria/b1757-13-ref
+
+      bap$b1757-14/16/5/1757/fl.35v./igreja de sao pedro/jose moreira chaves (reverendo, padre)/obs=assina o cura agostinho da fonseca silva. o paroco diz que nao sabe se a criança foi ou nao baptizada sub conditione.
+
+         n$jose nepomuceno/m/id=b1757-14-n
+            ls$enjeitado/sim/obs="o qual se expos a porta de luis francisco cazado com maria henriques dos cazaes do cotto o qual se deu a criar a anna maria mulher de joze de oliveyra desta vila; por ordem da camara desta vila"
+
+         pn$nome desconhecido/id=b1757-14-per1
+
+         mn$nome desconhecido/id=b1757-14-per2
+
+         pad$manuel da silva caldeira/id=b1757-14-per3
+            ls$titulo/reverendo
+            ls$profissao/padre
+
+         referido$luis francisco/mesmo_que=b1757-13-referido/id=b1757-14-per4
+            ls$residencia/casais do coto
+            rel$parentesco/marido/maria henriques/b1757-13-referida
+            rel$sociabilidade/achou a crianca/jose nepomuceno/b1757-14-n
+
+         referida$maria henriques/mesmo_que=b1757-13-referida/id=b1757-14-per5
+            ls$residencia/casais do coto
+
+         referida$ana maria/mesmo_que=b1757-13-ref/id=b1757-14-per6
+            ls$residencia/obidos
+            rel$sociabilidade/ama/jose nepomuceno/b1757-13-n
+
+         referido$jose de oliveira/mesmo_que=b1757-13-jose/id=b1757-14-per7
+            ls$residencia/obidos
+            rel$parentesco/marido/ana maria/b1757-13-ref
+
+      bap$b1757-15/24/5/1757/fl.35v.-36/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+         n$joaquim/m/id=b1757-15-n
+            ls$enjeitado/sim/obs="hum menino exposto por nome joaquim filho de pays incognitos, o qual se havia deitado a porta de luis antonio cazado com maria de jezus do lugar do salgueyro, e a mesma maria de jezus se deu a criar por ordem da camara desta vila
+
+         pn$nome desconhecido/id=b1757-15-per1
+
+         mn$nome desconhecido/id=b1757-15-per2
+
+         pad$severino gomes da costa/id=b1757-15-per3
+            ls$cargo/procurador do concelho
+            ls$residencia/obidos
+
+         referido$agostinho da fonseca e silva/id=b1757-15-per4
+            ls$cargo/cura na igreja de sao pedro
+            rel$sociabilidade/baptizou sub conditione/joaquim/b1757-15-n
+
+         referido$luis antonio/id=b1757-15-per5
+            ls$residencia/salgueiro
+            rel$parentesco/marido/maria de jesus/b1757-15-referida
+            rel$sociabilidade/achou a crianca/joaquim/b1757-15-n
+
+         referida$maria de jesus/id=b1757-15-referida
+            ls$residencia/salgueiro
+            rel$sociabilidade/ama/joaquim/b1757-15-n
+
+      bap$b1757-16/19/6/1757/fl.36/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva. no folio 36v., o padre agostinho da fonseca e silva jura pelos santos evangelhos que desde o ano de 1753 ate o ano de 1757 fez sempre todos os assentos de baptismos colocando sempre a naturalidade dos pais do baptizado.
+
+         n$agostinho/m/id=b1757-16-n/obs=foi baptizado em casa "por haver nascido com perigo de vida"
+
+         pn$jose da costa/id=b1757-16-per1
+            ls$naturalidade/usseira
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$jose da costa/id=b1757-16-per2
+            ls$naturalidade/usseira
+            ls$loccasamento/igreja de sao pedro
+
+         mpn$mariana da silva/id=b1757-16-per3
+            ls$naturalidade/salgueiro
+            ls$freguesia/bom jesus de sao pedro do carvalhal
+            ls$loccasamento/igreja de sao pedro
+
+         mn$maria henriques/id=b1757-16-per4
+            ls$naturalidade/usseira
+            ls$residencia/usseira
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$domingos henriques/id=b1757-16-per5
+            ls$loccasamento/igreja de sao pedro
+
+         mmn$joana da silva/id=b1757-16-per6
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de sao pedro
+
+         pad$jose francisco/id=b1757-16-per7
+            ls$residencia/usseira
+
+         mad$teresa da silva/id=b1757-16-per8
+            rel$parentesco/filha/domingos henriques/b1757-16-referido
+
+         referido$domingos henriques/id=b1757-16-referido
+            ls$residencia/usseira
+
+         referido$agostinho da fonseca e silva/id=b1757-16-per9
+            ls$cargo/cura da igreja de sao pedro de obidos
+            rel$sociabilidade/baptizou em necessidade/agostinho/b1757-16-n
+
+      bap$b1757-17/2/7/1757/fl.36v.-37/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1757-17-per1
+            ls$datanasc/17570611
+
+         pn$bernardo da horta/id=b1757-17-per2
+            ls$residencia/obidos
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         ppn$antonio da horta/id=b1757-17-per3
+            ls$alcunha/o velho
+            ls$residencia/obidos
+            ls$naturalidade/caldas, freguesia de nossa senhora do populo
+            ls$locbaptismo/freguesia de nossa senhora do populo
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$teresa josefa/id=b1757-17-per4
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+            ls$residencia/obidos
+
+         mn$joana teresa/id=b1757-17-per5
+            ls$residencia/obidos
+            ls$naturalidade/a dos ruivos
+            ls$locbaptismo/freguesia do bom jesus de sao pedro do carvalhal
+
+         pmn$joao de lemos/id=b1757-17-per6
+            ls$residencia/a dos negros, freguesia de santa maria madalena
+            ls$locbaptismo/freguesia de santa maria madalena
+            ls$loccasamento/bom jesus de sao pedro do carvalhal
+
+         mmn$isabel maria/id=b1757-17-per7
+            ls$residencia/a dos ruivos, freguesia do bom jesus de sao pedro do carvalhal
+            ls$locbaptismo/freguesia do bom jesus de sao pedro do carvalhal
+            ls$loccasamento/bom jesus de sao pedro do carvalhal
+
+         pad$antonio correia manuel de aboim/id=b1757-17-per8
+            ls$cargo/beneficiado
+
+         mad$francisca rosa/id=b1757-17-mad
+            ls$residencia/obidos
+            rel$parentesco/filha/manuel de seixas/b1757-17-referido
+
+         referido$manuel de seixas/id=b1757-17-referido
+
+         procurador-mad$manuel antonio de seixas/id=b1757-17-per9
+            rel$parentesco/irmao/francisca rosa/b1757-17-mad
+
+      bap$b1757-18/8/7/1757/fl.37/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1757-18-n
+            ls$enjeitado/sim/obs="exposto no lugar do salgueiro termo desta vila a porta de maria henriques aos dous do dito mes de julho com hum escripto que dezia que ja estava baptizado e se chamava joze, e se deu a criar a marcelina maria mulher de manuel francisco o alcantra de alcunha, do lugar das gaeiras deste termo"
+
+         pn$nome desconhecido/id=b1757-18-per1
+
+         mn$nome desconhecido/id=b1757-18-per2
+
+         pad$francisco antonio/id=b1757-18-per3
+            ls$residencia/obidos
+            ls$cargo/procurador do concelho
+
+         referida$maria henriques/id=b1757-18-per4
+            ls$residencia/salgueiro
+            rel$sociabilidade/achou a crianca/jose/b1757-18-n
+
+         referida$marcelina maria/id=b1757-18-referida
+            ls$residencia/gaeiras
+            rel$sociabilidade/ama/jose/b1757-18-n
+
+         referido$manuel farncisco/id=b1757-18-per5
+            ls$residencia/gaeiras
+            ls$alcunha/o alcantra
+            rel$parentesco/marido/marcelina maria/b1757-18-referida
+
+         referido$agostinho da fonseca e silva/id=b1757-18-per6
+            ls$cargo/cura da igreja de sao pedro de obidos
+            rel$sociabilidade/baptizou sub conditione/jose/b1757-18-n
+
+      bap$b1757-19/8/7/1757/fl.37/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$ana/f/id=b1757-19-n
+            ls$enjeitada/sim/obs="exposta aos quatro diqas do mes de julho no cazal do val de inguia lemite do reguengo grande a porta de joze marques viuvo e se deu a criar a eugenia maria mulher de antonio theixeira do lugar do reguengo grande pelo procurador do concelho francisco antonio que foy padrinho"
+
+         pn$nome desconhecido/id=b1757-19-per1
+
+         mn$nome desconhecido/id=b1757-19-per2
+
+         pad$francisco antonio/id=b1757-19-per3
+            ls$cargo/procurador do concelho
+
+         referido$jose marques/id=b1757-19-per4
+            ls$ec/v
+            ls$residencia/casal do vale da enguia, limite do reguengo grande
+            rel$sociabilidade/achou a crianca/ana/b1757-19-n
+
+         referida$eugenia maria/id=b1757-19-referida
+            ls$residencia/reguengo grande
+            rel$sociabilidade/ama/ana/b1757-19-n
+
+         referido$antonio teixeira/id=b1757-19-per5
+            ls$residencia/reguengo grande
+            rel$parentesco/marido/eugenia maria/b1757-19-referida
+
+      bap$b1757-20/8/7/1757/fl.37-37v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$francisco/m/id=b1757-20-n
+            ls$enjeitado/sim/obs="expostto a porta do juis da ventena do lugar do moledo, manuel monteiro, e se deu a criar a escolastica maria mulher de antonio henriques o moro de alcunha pelo procurador do conselho francisco antonio que foy padrinho"
+
+         pn$nome desconhecido/id=b1757-20-per1
+
+         mn$nome desconhecido/id=b1757-20-per2
+
+         pad$francisco antonio/id=b1757-20-per3
+            ls$cargo/procurador do concelho
+
+         referida$escolastica maria/mesmo_que=b1757-12-referida/id=b1757-20-per4
+            ls$residencia/obidos
+            rel$sociabilidade/ama/francisco/b1757-20-n
+
+         referido$antonio henriques/id=b1757-20-per5
+            ls$alcunha/o mouro
+            ls$residencia/obidos
+            rel$parentesco/marido/escolastica maria/b1757-12-referida
+
+         referido$manuel monteiro/id=b1757-20-per6
+            ls$cargo/juiz da vintena de moledo
+            ls$residencia/moledo
+            rel$sociabilidade/achou a crianca/francisco/b1757-20-n
+
+      bap$b1757-21/13/7/1757/fl.37v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$francisco/m/id=b1757-21-n
+            ls$enjeitado/sim/obs="exposto nos cazaes de val covo, digo da silveira vila do bombarral, a porta de manuel gomes aos dous do dito mes e se deu a criar a hilaria maria mulher de antonio trigueiro moradores na vila das caldas"
+
+         pn$nome desconhecido/id=b1757-21-per1
+
+         mn$nome desconhecido/id=b1757-21-per2
+
+         pad$francisco antonio/id=b1757-21-per3
+            ls$cargo/procurador do concelho
+
+         referido$manuel gomes/id=b1757-21-per4
+            ls$residencia/casais da silveira, bombarral
+            rel$sociabilidade/achou a crianca/francisco/b1757-21-n
+
+         referida$hilaria maria/id=b1757-21-referida
+            ls$residencia/caldas
+            rel$sociabilidade/ama/francisco/b1757-21-n
+
+         referido$antonio trigueiro/id=b1757-21-per5
+            ls$residencia/caldas
+            rel$parentesco/marido/hilaria maria/b1757-21-referida
+
+      bap$b1757-22/17/7/1757/fl.37v.-38/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$vicencia/f/id=b1757-22-n
+            ls$datanasc/17570705
+
+         pn$joao luis/id=b1757-22-per1
+            ls$residencia/quinta nova
+            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            ls$loccasamento/freguesia de nossa senhora da purificacao
+
+         ppn$antonio luis/id=b1757-22-per2
+            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+            ls$locbaptismo/freguesia de nossa senhora da purificacao
+
+         mpn$mariana da silva/id=b1757-22-per3
+            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            ls$loccasamento/freguesia de nossa senhora da purificacao
+
+         mn$catarina maria/id=b1757-22-per4
+            ls$residencia/quinta nova
+            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            ls$loccasamento/freguesia de nossa senhora da purificacao
+
+         pmn$manuel da rocha/id=b1757-22-per5
+            ls$naturalidade/alvorninha, freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria, alvorninha
+
+         mmn$maria josefa/id=b1757-22-per6
+            ls$naturalidade/rolica
+            ls$locbaptismo/freguesia da rolica
+
+         pad$jose moreira chaves/id=b1757-22-per7
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$cargo/economo
+            ls$cargo/prioste da igreja de sao pedro de obidos
+
+         mad$francisca maria marcelina/id=b1757-22-per8
+            ls$residencia/rolica
+
+         referido$antonio henriques de azevedo melo castro e noronha/id=b1757-22-per9
+            ls$titulo/dom
+            ls$cargo/prior da matriz de nossa senhora da assuncao da vila de aguiar
+            ls$arcebispado/evora
+            rel$sociabilidade/baptizou em necessidade/vicencia/b1757-22-n
+
+      bap$b1757-23/23/7/1757/fl.38/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joana/f/id=b1757-23-n
+            ls$datanasc/17570624
+
+         pn$manuel gomes/id=b1757-23-per1
+            ls$naturalidade/granja de feigilde, freguesia de sao miguel
+            ls$bispado/viseu
+            ls$loccasamento/igreja de santa maria
+
+         ppn$manuel francisco/id=b1757-23-per2
+            ls$naturalidade/granja de feigilde, freguesia de sao miguel
+            ls$bispado/viseu
+
+         mpn$maria da conceicao/id=b1757-23-per3
+            ls$naturalidade/granja de feigilde, freguesia de sao migue
+            ls$bispado/viseu
+
+         mn$isabel maria/id=b1757-23-per4
+            ls$locbaptismo/igreja de santa maria
+            ls$loccasamento/igreja de santa maria
+
+         pmn$jose ferreira/id=b1757-23-per5
+            ls$residencia/obidos
+            ls$loccasamento/igreja de santa maria
+
+         mmn$julia maria/id=b1757-23-per6
+            ls$residencia/obidos
+            ls$loccasamento/igreja de santa maria
+
+         pad$jose moreira chaves/id=b1757-23-per7
+            ls$titulo/reverendo
+            ls$profissao/padre
+
+         pad$jose moreira chaves/id=b1757-23-per8
+            ls$titulo/reverendo
+            ls$profissao/padre
+            rel$sociabilidade/baptizou em necessidade/joana/b1757-23-n
+
+      bap$b1757-24/14/9/1757/fl.38v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$joao/m/id=b1757-24-per1
+            ls$datanasc/17570811
+
+         pn$joao baptista/id=b1757-24-per2
+            ls$profissao/alfaiate
+            ls$naturalidade/vermelha, freguesia de sao simao/obs=termo do cadaval
+            ls$arcediagado/obidos
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$joao baptista/id=b1757-24-per3
+            ls$naturalidade/carvalhal, freguesia do bom jesus de sao pedro
+            ls$loccasamento/freguesia de sao simao, vermelha
+
+         mpn$maria eugenia/id=b1757-24-per4
+            ls$naturalidade/vermelha, freguesia de sao simao
+            ls$loccasamento/freguesia de sao simao, vermelha
+
+         mn$emerenciana teresa de jesus/id=b1757-24-per5
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$manuel henriques/id=b1757-24-per6
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/lisboa, igreja de sao nicolau
+
+         mmn$teresa de jesus/id=b1757-24-per7
+            ls$naturalidade/lisboa, freguesia de sao nicolau
+            ls$locbaptismo/lisboa, igreja de sao nicolau
+            ls$loccasamento/lisboa, igreja de sao nicolau
+
+         pad$antonio de macedo neto/id=b1757-24-pad
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+
+         mad$ana eusebia de melo/id=b1757-24-per8
+            ls$titulo/dona
+            ls$residencia/obidos
+            rel$parentesco/irma/antonio de macedo neto/b1757-24-pad
+
+         procurador-mad$teodoro jose travassos/id=b1757-24-per9
+            ls$titulo/reverendo
+            ls$profissao/padre
+            ls$residencia/obidos
+
+      bap$b1757-25/19/9/1757/fl.38v.-39/igreja de sao pedro/jose moreira chaves (reverendo, padre)/obs=assina o cura valeriano gomes henriques
+
+         n$maria joaquina/f/id=b1757-25-per1
+            ls$datanasc/17570910
+            ls$residencia/casal do pinheiro
+
+         pn$joao da costa/id=b1757-25-per2
+            ls$naturalidade/freguesia de sao pedro das aguias
+            ls$bispado/lamego
+            ls$locbaptismo/freguesia de sao pedro das aguias
+
+         ppn$jose da costa/id=b1757-25-per3
+            ls$naturalidade/granja de sao pedro das aguias
+            ls$bispado/lamego
+            ls$locbaptismo/freguesia de sao pedro das aguias
+
+         mpn$ana fernandes/id=b1757-25-per4
+            ls$naturalidade/granja de sao pedro das aguias
+            ls$bispado/lamego
+            ls$locbaptismo/freguesia de sao pedro das aguias
+
+         mn$barbara joaquina/id=b1757-25-per5
+            ls$naturalidade/estremoz
+            ls$locbaptismo/freguesia de estremoz
+
+         pmn$joao da costa/id=b1757-25-per6
+            ls$naturalidade/alvoso da vargens
+            ls$locbaptismo/alvoso das vargens
+            ls$bispado/viana
+
+         mmn$isabel correia/id=b1757-25-per7
+            ls$naturalidade/vimieiro, alentejo
+            ls$locbaptismo/vimieiro, alentejo
+
+         pad$jose joaquim/id=b1757-25-per8
+            ls$residencia/casal do pinheiro
+
+         mad$maria teresa/id=b1757-25-per9
+            ls$residencia/casal do pinheiro
+
+      bap$b1757-26/19/9/1757/fl.39-39v./igreja de sao pedro/jose moreira chaves (reverendo, padre)/obs=assina o cura valeriano gomes henriques
+
+         n$francisco/m/id=b1757-26-n
+            ls$datanasc/17570616
+
+         pn$jose joaquim henriques da fonseca/id=b1757-26-per1
+            ls$titulo/doutor
+            ls$naturalidade/obidos
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         ppn$leandro gomes henriques/id=b1757-26-per2
+            ls$titulo/doutor
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$joana margarida de sao bernardo/id=b1757-26-per3
+            ls$titulo/dona
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$maria do carmo margarida da serra/id=b1757-26-per4
+            ls$titulo/dona
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         pmn$manuel de oliveira farto/id=b1757-26-per5
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$maria timotea da serra/id=b1757-26-per6
+            ls$titulo/dona
+            ls$residencia/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$agotinho gomes da silveira/id=b1757-26-per7
+            ls$titulo/doutor
+            ls$residencia/obidos, freguesia de sao pedro
+
+         referido$maximo joaquim de almeida/id=b1757-26-per8
+            ls$residencia/obidos
+            ls$profissao/padre
+            ls$cargo/economo da igreja de sao pedro de obidos
+            rel$sociabilidade/baptizou em necessidade/francisco/b1757-26-n
+
+      bap$b1757-27/27/9/1757/fl.39v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1757-27-per1
+            ls$datanasc/17570910
+
+         pn$felix correia/id=b1757-27-per2
+            ls$naturalidade/casais de alentejo, freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$jose correia/id=b1757-27-per3
+            ls$naturalidade/sabugo, freguesia de almargem do bispo/obs=termo de lisboa
+            ls$loccasamento/freguesia de santa maria
+
+         mpn$maria josefa/id=b1757-27-per4
+            ls$naturalidade/casais de alentejo, freguesia de santa maria
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de santa maria
+
+         mn$maria josefa/id=b1757-27-per5
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$joao manuel/id=b1757-27-per6
+            ls$naturalidade/carpalhosa, freguesia de sao salvador
+            ls$bispado/leiria
+            ls$loccasamento/freguesia de sao pedro
+
+         mmn$josefa maria/id=b1757-27-per7
+            ls$naturalidade/usseira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$manuel correia%m.el corra/id=b1757-27-per8
+            ls$residencia/obidos
+
+         mad$engracia maria/id=b1757-27-per9
+            ls$residencia/usseira
+
+      bap$b1757-28/1/10/1757/fl.39v.-40/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$francisco/m/id=b1757-28-per1
+            ls$datanasc/17570925
+
+         pn$joao pedro de andrade/id=b1757-28-per2
+            ls$loccasamento/igreja de nossa senhora do carmo
+
+         ppn$manuel de andrade/id=b1757-28-per3
+            ls$naturalidade/obidos
+            ls$loccasamento/igreja de sao pedro, peniche
+
+         mpn$luisa madeira/id=b1757-28-per4
+            ls$naturalidade/freguesia de sao pedro, peniche
+            ls$locbaptismo/igreja de sao pedro, peniche
+            ls$loccasamento/igreja de sao pedro, peniche
+
+         mn$maria joaquina da silveira/id=b1757-28-per5
+            ls$titulo/dona
+            ls$residencia/obidos, freguesia de sao pedro
+            ls$naturalidade/proenca a nova
+            ls$loccasamento/igreja de nossa senhora do carmo
+
+         pmn$martinho cardoso pereira/id=b1757-28-per6
+            ls$titulo/doutor
+            ls$profissao/medico/obs=foi medico em obidos
+            ls$morto/antes
+            ls$naturalidade/sacavem, termo de lisboa
+
+         mmn$antonia rosa da silva/id=b1757-28-per7
+            ls$titulo/dona
+            ls$naturalidade/castelo branco
+            ls$bispado/guarda
+
+         pad$francisco de melo/id=b1757-28-per8
+            ls$cargo/monteiro mor do reino
+
+         procurador-pad$joaquim roberto de carvalho/id=b1757-28-per9
+
+         mad$nossa senhora da piedade da igreja de sao pedro/id=b1757-28-per10
+
+      bap$b1757-29/1/10/1757/fl.40/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$jose/m/id=b1757-29-n
+            ls$enjeitado/sim/obs="exposto e achado em os vinte, e sette de 7bro. proximo passado, a porta de joze gomes, juis da ventenna do lugar de s. bartholomeu termo desta vila, e o cria jozefa joaquina mulher parda cazada com domingos da silva homem preto moradores nesta vila e freguesia"
+
+         pn$nome desconhecido/id=b1757-29-per1
+
+         mn$nome desconhecido/id=b1757-29-per2
+
+         pad$narciso jose/id=b1757-29-per3
+            ls$cargo/tesoureiro da igreja de sao pedro
+
+         referido$jose gomes/id=b1757-29-per4
+            ls$cargo/juiz da vintena de sao bartolomeu
+            ls$residencia/sao bartolomeu
+            rel$sociabilidade/achou a crianca/jose/b1757-29-n
+
+         referida$josefa joaquina/id=b1757-29-referida/obs=mulher parda
+            ls$residencia/obidos, freguesia de sao pedro
+            rel$sociabilidade/ama/jose/b1757-29-n
+
+         referido$domingos da silva/obs=homem preto/id=b1757-29-per5
+            ls$residencia/obidos, freguesia de sao pedro
+            rel$parentesco/marido/josefa joaquina/b1757-29-referida
+
+      bap$b1757-30/16/10/1757/fl.40v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$maria/f/id=b1757-30-n
+            ls$datanasc/17570909
+
+         pn$teodoro jose/id=b1757-30-per1
+            ls$naturalidade/freguesia de sao pedro
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         ppn$antonio correia/id=b1757-30-per2
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro, obidos
+
+         mpn$angela maria/id=b1757-30-per3
+            ls$naturalidade/lourical, freguesia de sao pedro
+            ls$bispado/leiria
+            ls$locbaptismo/freguesia de sao pedro, lourical
+            ls$loccasamento/freguesia de sao pedro, obidos
+
+         mn$maria rosa/id=b1757-30-per4
+            ls$naturalidade/casal do outeiro, freguesia de santa maria
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$manuel vicente/id=b1757-30-per5
+            ls$naturalidade/sancheira, freguesia de santa maria madalena
+            ls$locbaptismo/freguesia de santa maria madalena
+            ls$loccasamento/freguesia de sao joao
+
+         mmn$maria josefa/id=b1757-30-per6
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de santa maria
+            ls$loccasamento/freguesia de sao joao
+
+         pad$antonio correia manuel/id=b1757-30-per7
+            ls$cargo/beneficiado
+
+         referido$valeriano gomes henriques/id=b1757-30-per8
+            ls$cargo/cura
+            rel$sociabilidade/baptizou em necessidade/maria/b1757-30-n/obs=a criança foi baptizada em casa a 23 de setembro
+
+      bap$b1757-31/23/10/1757/fl.40v.-41/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$mariana/f/id=b1757-31-per1
+            ls$datanasc/17571012
+
+         pn$jose goncalves/id=b1757-31-per2
+            ls$naturalidade/igreja de nossa senhora da graca, benavente
+            ls$bispado/evora
+
+         ppn$francisco goncalves/id=b1757-31-per3
+            ls$naturalidade/borgueira, termo de torres novas
+            ls$comarca/santarem
+
+         mpn$margarida luis/id=b1757-31-per4
+            ls$naturalidade/benavente, freguesia de nossa senhora da graca
+
+         mn$teresa joaquina/id=b1757-31-per5
+            ls$naturalidade/casal da eira
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pmn$manuel henriques/id=b1757-31-per6
+            ls$morto/antes
+
+         mmn$maria henriques/id=b1757-31-per7
+            ls$naturalidade/casais do pinhal
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$francisco monteiro/id=b1757-31-per8
+            ls$residencia/quinta da capeleira
+
+         mad$mariana de jesus/id=b1757-31-per9
+            ls$residencia/obidos
+
+      bap$b1757-32/18/12/1757/fl.41/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$barbara/f/id=b1757-32-per1
+            ls$datanasc/17571204
+
+         pn$joao pereira/id=b1757-32-per2
+            ls$naturalidade/ponte do rol, freguesia de nossa senhora da conceicao
+            ls$residencia/ponte do rol
+            ls$locbaptismo/freguesia de nossa senhora da conceicao
+            ls$loccasamento/freguesia de nossa senhora da conceicao
+
+         ppn$sebastiao pereira/id=b1757-32-per3
+            ls$naturalidade/ponte do rol, freguesia de nossa senhora da conceicao
+            ls$residencia/ponte do rol
+            ls$locbaptismo/freguesia de nossa senhora da conceicao
+            ls$loccasamento/freguesia de nossa senhora da conceicao
+
+         mpn$domingas francisca/id=b1757-32-per4
+            ls$naturalidade/ponte do rol, freguesia de nossa senhora da conceicao
+            ls$residencia/ponte do rol
+            ls$locbaptismo/freguesia de nossa senhora da conceicao
+            ls$loccasamento/freguesia de nossa senhora da conceicao
+
+         mn$vicencia maria/id=b1757-32-per5
+            ls$naturalidade/ponte do rol, freguesia de nossa senhora da conceicao
+            ls$residencia/ponte do rol
+            ls$locbaptismo/freguesia de nossa senhora da conceicao
+            ls$loccasamento/freguesia de nossa senhora da conceicao
+
+         pmn$joao gomes/id=b1757-32-per6
+            ls$naturalidade/sao pedro da cadeira/obs=termo de torres vedras
+            ls$locbaptismo/freguesia de sao pedro da cadeira, termo de torres vedras
+
+         mmn$catarina maria/id=b1757-32-per7
+            ls$naturalidade/freguesia de sao lucas, freiria/obs=termo de torres vedras
+            ls$locbaptismo/freguesia de sao lucas, freiria/obs=termo de torres vedras
+
+         pad$joao gomes/id=b1757-32-per8
+            ls$residencia/casal do pinhal
+
+         mad$catarina maria/id=b1757-32-per9
+            ls$residencia/casal do pinhal
+
+      bap$b1757-33/18/12/1757/fl.41v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$doroteia/f/id=b1757-33-per1
+            ls$datanasc/17571129
+
+         pn$henrique da silva/id=b1757-33-per2
+            ls$naturalidade/obidos
+            ls$locbaptismo/igreja de santa maria
+
+         ppn$antonio henriques/id=b1757-33-per3
+            ls$naturalidade/a da gorda
+            ls$locbaptismo/igreja de santa maria
+            ls$residencia/obidos
+
+         mpn$brisida teresa/id=b1757-33-per4
+            ls$naturalidade/arelho, freguesia de sao joao do mocharro
+            ls$locbaptismo/freguesia de sao joao do mocharro
+            ls$loccasamento/freguesia de sao joao do mocharro
+
+         mn$joaquina maria/id=b1757-33-per5
+            ls$enjeitada/sim/obs=filha de pais incognitos
+            ls$naturalidade/lisboa
+            ls$locbaptismo/lisboa, igreja de santa justa
+
+         pmn$nome desconhecido/id=b1757-33-per6
+
+         mmn$nome desconhecido/id=b1757-33-per7
+
+         pad$antonio manuel carlos pinto de sousa/id=b1757-33-per8
+            ls$titulo/doutor
+            ls$cargo/juiz de fora
+
+         mad$doroteia inacia de oliveira e sousa/id=b1757-33-per9
+            ls$titulo/dona
+
+         procurador-mad$miguel barbosa/id=b1757-33-per10
+            ls$residencia/obidos
+            ls$cargo/beneficiado
+
+      bap$b1757-34/22/12/1757/fl.41v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
+
+         n$lourenco/m/id=b1757-34-per1
+            ls$datanasc/17571015
+
+         pn$joaquim henriques/id=b1757-34-per2
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+
+         ppn$joao henriques de oliveira/id=b1757-34-per3
+            ls$naturalidade/sobral da lagoa, freguesia de sao joao do mocharro
+            ls$loccasamento/freguesia de sao pedro
+
+         mpn$engracia maria/id=b1757-34-per4
+            ls$naturalidade/obidos
+            ls$locbaptismo/freguesia de sao pedro
+            ls$loccasamento/freguesia de sao pedro
+
+         mn$joana antonia/id=b1757-34-per5
+            ls$naturalidade/caldas, freguesia de nossa senhora do populo
+            ls$locbaptismo/freguesia de nossa senhora do populo
+
+         pmn$manuel de seixas e vasconcelos losccas freguesia de sao pedro/id=b1757-34-per6
+
+         mmn$maria de sao jose/id=b1757-34-per7
+            ls$naturalidade/obidos, freguesia de santa maria
+            ls$loccasamento/freguesia de sao pedro
+
+         pad$lourenco de melo de sa/id=b1757-34-per8
