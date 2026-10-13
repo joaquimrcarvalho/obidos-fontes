@@ -1210,10 +1210,10 @@ kleio$gacto.str/prefix=stmaria
          mn$jeronima gomes/id=b1698-19-per3
             ls$residencia/arrabalde
 
-         pad1$mateus gomes da palma/mesmo_que=b1694-26-palma/id=b1698-19-per4
+         pad1$mateus gomes da palma/xmesmo_que=b1694-26-palma/id=b1698-19-per4
             ls$titulo/doutor
 
-         mad1$joana maria da palma/mesmo_que=b1694-26-joana/id=b1698-19-per5
+         mad1$joana maria da palma/xmesmo_que=b1694-26-joana/id=b1698-19-per5
             rel$parentesco/irma/mateus gomes da palma/b1694-26-palma
 
          referido$nome desconhecido/id=b1698-19-per6
@@ -1587,7 +1587,7 @@ kleio$gacto.str/prefix=stmaria
          mn$joana da cunha/id=b1699-11-per3
             ls$residencia/arrabalde
 
-         pad1$mateus gomes da palma/mesmo_que=b1694-26-palma/id=b1699-11-per4
+         pad1$mateus gomes da palma/xmesmo_que=b1694-26-palma/id=b1699-11-per4
             ls$titulo/doutor
 
          mad1$antonia da palma/id=b1699-11-antonia
@@ -2174,7 +2174,7 @@ kleio$gacto.str/prefix=stmaria
 
          mad1$joana maria calada/id=b1700-16-joana
 
-         referido$mateus gomes da palma/mesmo_que=b1694-26-palma/id=b1700-16-per5
+         referido$mateus gomes da palma/xmesmo_que=b1694-26-palma/id=b1700-16-per5
             ls$titulo/doutor
             rel$parentesco/irmao/joana/b1700-16-joana
             rel$sociabilidade/procurador/joana/b1700-16-joana

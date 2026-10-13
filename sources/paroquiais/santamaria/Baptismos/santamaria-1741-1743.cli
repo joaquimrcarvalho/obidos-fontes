@@ -52,21 +52,21 @@ kleio$gacto.str/prefix=stmaria
          mn$luisa maria/id=b1741-3-per3
             ls$residencia/obidos
 
-         pad1$pedro antunes correia/mesmo_que=b1737-24-pedro/id=b1741-3-per4
+         pad1$pedro antunes correia/xmesmo_que=b1737-24-pedro/id=b1741-3-per4
             ls$profissao/padre
             ls$residencia/obidos
 
          mad1$rosa de viterbo/id=b1741-3-per5
             ls$residencia/lisboa ocidental
 
-         procurador-mad1$gregorio antunes correia/mesmo_que=b1740-9-gregorio/id=b1741-3-per6
+         procurador-mad1$gregorio antunes correia/xmesmo_que=b1740-9-gregorio/id=b1741-3-per6
 
       bap$b1741-4/27/3/1741/fl.40-40v./igreja de santa maria/teodosio de abreu e silva (beneficiado, presidente na igreja de santa maria)/obs=assina o padre cura jose de abreu e silva
 
          n$jose/m/id=b1741-4-per1
             ls$datanasc/17410317
 
-         pn$manuel de arruda/mesmo_que=b1739-8-manuel/id=b1741-4-per2
+         pn$manuel de arruda/xmesmo_que=b1739-8-manuel/id=b1741-4-per2
             ls$residencia/obidos
 
          mn$anastacia feliciana/id=b1741-4-per3
@@ -97,10 +97,10 @@ kleio$gacto.str/prefix=stmaria
          pad1$joao lopes/id=b1741-5-lopes
             ls$cargo/procurador do concelho
 
-         referida$maria do espirito santo/mesmo_que=b1736-2-mar/id=b1741-5-per4
+         referida$maria do espirito santo/xmesmo_que=b1736-2-mar/id=b1741-5-per4
             ls$residencia/obidos
 
-         referido$manuel goncalves/mesmo_que=b1736-2-gon/id=b1741-5-per5
+         referido$manuel goncalves/xmesmo_que=b1736-2-gon/id=b1741-5-per5
             ls$residencia/obidos
             rel$parentesco/marido/maria do espirito santo/b1736-2-mar
 
@@ -241,7 +241,7 @@ kleio$gacto.str/prefix=stmaria
          pn$antonio pedro/mesmo_que=b1736-11-ped/id=b1741-12-per2
             ls$residencia/a da gorda
 
-         mn$catarina maria/mesmo_que=b1736-11-cat/id=b1741-12-per3
+         mn$catarina maria/xmesmo_que=b1736-11-cat/id=b1741-12-per3
             ls$residencia/a da gorda
 
          pad1$joao ferreira/id=b1741-12-per4
@@ -482,7 +482,7 @@ kleio$gacto.str/prefix=stmaria
 
          pmad1$manuel antunes correia/id=b1741-23-per5
 
-         procurador-mad1$pedro antunes correia/mesmo_que=b1737-24-pedro/id=b1741-23-per6
+         procurador-mad1$pedro antunes correia/xmesmo_que=b1737-24-pedro/id=b1741-23-per6
             ls$titulo/reverendo
 
       bap$b1741-24/18/12/1741/fl.44/igreja de santa maria/jose de abreu e silva (padre, cura na igreja de santa maria)/obs=assina o padre cura jose de abreu e silva
@@ -1017,16 +1017,16 @@ kleio$gacto.str/prefix=stmaria
          mn$antonia teresa/id=b1742-23-per3
             ls$residencia/arrabalde, parte de fora da porta do vale
 
-         pad1$estevao correia malhao/mesmo_que=b1719-30-malhao/id=b1742-23-per4
+         pad1$estevao correia malhao/xmesmo_que=b1719-30-malhao/id=b1742-23-per4
             ls$residencia/arrabalde
 
          mad1$joana gerarda micaela/id=b1742-23-joa
             ls$residencia/arrabalde
 
-         pmad1$estevao correia malhao/mesmo_que=b1719-30-malhao/id=b1742-23-per5
+         pmad1$estevao correia malhao/xmesmo_que=b1719-30-malhao/id=b1742-23-per5
             ls$residencia/arrabalde
 
-         procurador-mad1$joao monteiro malhao/mesmo_que=b1738-17-malhao/id=b1742-23-per6
+         procurador-mad1$joao monteiro malhao/xmesmo_que=b1738-17-malhao/id=b1742-23-per6
             ls$residencia/arrabalde
             rel$parentesco/irmao/joana gerarda micaela/b1742-23-joa
 
