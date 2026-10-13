@@ -1,0 +1,125 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-14
+
+Processing data file SJ-o1538-1559.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1538-1559
+
+WARNING: SJ-o1538-1559.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1538-1559 Id: sjoao-obitos1538-1559.
+Near lines: 3 
+Near lines: 4       obito$o1538-1/31/12/1538/fl.46/nome desconhecido
+
+6: obito$sjoao-o1538-1
+14: obito$sjoao-o1538-2
+26: obito$sjoao-o1538-3
+33: obito$sjoao-o1538-4
+40: obito$sjoao-o1538-5
+53: obito$sjoao-o1540-1
+65: obito$sjoao-o1540-2
+74: obito$sjoao-o1540-3
+82: obito$sjoao-o1537-1
+90: obito$sjoao-o1537-2
+100: obito$sjoao-o1537-3
+111: obito$sjoao-o1537-4
+118: obito$sjoao-o1537-5
+130: obito$sjoao-o15??-1
+141: obito$sjoao-o15??-2
+153: obito$sjoao-o15??-3
+167: obito$sjoao-o15??-4
+176: obito$sjoao-o15??-5
+188: obito$sjoao-o15??-6
+203: obito$sjoao-o15??-7
+213: obito$sjoao-o1544-1
+224: obito$sjoao-o1544-2
+234: obito$sjoao-o1544-3
+247: obito$sjoao-o1544-4
+259: obito$sjoao-o1545-1
+268: obito$sjoao-o1545-2
+277: obito$sjoao-o1546-1
+286: obito$sjoao-o1546-2
+297: obito$sjoao-o1546-3
+308: obito$sjoao-o1546-4
+318: obito$sjoao-o1547-1
+330: obito$sjoao-o1547-2
+339: obito$sjoao-o1547-3
+350: obito$sjoao-o1547-4
+362: obito$sjoao-o1547-5
+374: obito$sjoao-o1548-1
+383: obito$sjoao-o1548-2
+392: obito$sjoao-o1548-3
+404: obito$sjoao-o1548-4
+413: obito$sjoao-o1549-1
+423: obito$sjoao-o1549-2
+435: obito$sjoao-o1549-3
+448: obito$sjoao-o1549-4
+460: obito$sjoao-o1549-5
+471: obito$sjoao-o1550-1
+483: obito$sjoao-o1550-2
+493: obito$sjoao-o1550-3
+508: obito$sjoao-o1550-4
+522: obito$sjoao-o1550-5
+534: obito$sjoao-o1550-6
+548: obito$sjoao-o1550-7
+557: obito$sjoao-o1551-1
+574: obito$sjoao-o1551-2
+586: obito$sjoao-o1551-3
+595: obito$sjoao-o1554-1
+607: obito$sjoao-o1554-2
+619: obito$sjoao-o1554-3
+634: obito$sjoao-o1555-1
+647: obito$sjoao-o1555-2
+656: obito$sjoao-o1555-3
+670: obito$sjoao-o1555-4
+678: obito$sjoao-o1555-5
+687: obito$sjoao-o1555-6
+700: obito$sjoao-o1556-1
+709: obito$sjoao-o1556-2
+720: obito$sjoao-o1556-3
+734: obito$sjoao-o1556-4
+746: obito$sjoao-o1556-4a
+767: obito$sjoao-o1556-5
+779: obito$sjoao-o1556-6
+794: obito$sjoao-o1556-7
+807: obito$sjoao-o1557-1
+819: obito$sjoao-o1557-2
+828: obito$sjoao-o1557-3
+840: obito$sjoao-o1557-4
+852: obito$sjoao-o1558-1
+864: obito$sjoao-o1558-2
+877: obito$sjoao-o1558-3
+892: obito$sjoao-o1558-4
+904: obito$sjoao-o1558-5
+916: obito$sjoao-o1558-6
+926: obito$sjoao-o1558-7
+937: obito$sjoao-o1558-8
+946: obito$sjoao-o1559-1
+958: obito$sjoao-o1559-2
+970: obito$sjoao-o1559-3
+979: obito$sjoao-o1559-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1538-1559.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1538-1559.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1538-1559.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1538-1559.ids
+0  errors. 
+1  warnings.
+Groups in this file:[oficios,referida,causa,mae,marido,locs,mulher,rel,referido,testamento,pai,ls,n,obito,fonte,kleio]
+Translation finished.

@@ -1,0 +1,121 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-33
+
+Processing data file saopedro-b1753-1755.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1753-1755
+
+WARNING: saopedro-b1753-1755.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1753-1755 Id: spedro-baptismos1753-1755.
+Near lines: 3 
+Near lines: 4       bap$b1753-14b/9/6/1753/fl.1/igreja de sao pedro/manuel pinheiro coimbrao (reverendo, doutor, desembargador, vigario geral do arcediagado)/obs=assina o cura agostinho da fonseca silva.
+
+6: bap$spedro-b1753-14b
+43: bap$spedro-b1753-15b
+84: bap$spedro-b1753-16b
+
+WARNING: saopedro-b1753-1755.cli line 96 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 96          mpn$luisa gomes/mesmo_que=b1753-15-bmpn/id=b1753-16b-per4
+Near lines: 97             ls$naturalidade/delgada, freguesia de nossa senhora da purificacao da rolica
+
+126: bap$spedro-b1753-17b
+166: bap$spedro-b1753-18b
+206: bap$spedro-b1753-19b
+239: bap$spedro-b1753-20b
+281: bap$spedro-b1753-21b
+324: bap$spedro-b1753-22b
+364: bap$spedro-b1753-23b
+416: bap$spedro-b1753-24b
+471: bap$spedro-b1754-1
+506: bap$spedro-b1754-2
+546: bap$spedro-b1754-3
+590: bap$spedro-b1754-4
+623: bap$spedro-b1754-5
+656: bap$spedro-b1754-6
+696: bap$spedro-b1754-7
+738: bap$spedro-b1754-8
+778: bap$spedro-b1754-9
+812: bap$spedro-b1754-10
+853: bap$spedro-b1754-11
+887: bap$spedro-b1754-12
+919: bap$spedro-b1754-13
+956: bap$spedro-b1754-14
+996: bap$spedro-b1754-15
+1037: bap$spedro-b1754-16
+1075: bap$spedro-b1754-17
+1116: bap$spedro-b1754-18
+1154: bap$spedro-b1754-19
+1188: bap$spedro-b1754-20
+1231: bap$spedro-b1754-21
+1265: bap$spedro-b1754-22
+1299: bap$spedro-b1754-23
+1343: bap$spedro-b1754-24
+1381: bap$spedro-b1754-25
+1421: bap$spedro-b1754-26
+1461: bap$spedro-b1754-27
+1505: bap$spedro-b1754-28
+1546: bap$spedro-b1754-29
+1592: bap$spedro-b1754-30
+1630: bap$spedro-b1754-31
+1674: bap$spedro-b1755-1
+1712: bap$spedro-b1755-2
+1750: bap$spedro-b1755-3
+1784: bap$spedro-b1755-3b
+1820: bap$spedro-b1755-4
+1844: bap$spedro-b1755-5
+1870: bap$spedro-b1755-6
+1907: bap$spedro-b1755-7
+1945: bap$spedro-b1755-8
+1969: bap$spedro-b1755-9
+1991: bap$spedro-b1755-10
+2009: bap$spedro-b1755-11
+2052: bap$spedro-b1755-12
+2088: bap$spedro-b1755-13
+2127: bap$spedro-b1755-14
+2147: bap$spedro-b1755-15
+2167: bap$spedro-b1755-16
+2207: bap$spedro-b1755-17
+2229: bap$spedro-b1755-18
+2269: bap$spedro-b1755-19
+2285: bap$spedro-b1755-20
+2329: bap$spedro-b1755-21
+2349: bap$spedro-b1755-22
+2390: bap$spedro-b1755-23
+2427: bap$spedro-b1755-24
+2465: bap$spedro-b1755-25
+2484: bap$spedro-b1755-26
+2504: bap$spedro-b1755-27
+2540: bap$spedro-b1755-28
+2563: bap$spedro-b1755-29
+2599: bap$spedro-b1755-30
+2631: bap$spedro-b1755-31
+2671: bap$spedro-b1755-32
+2683: bap$spedro-b1755-33
+*** End of File
+
+ERROR: saopedro-b1753-1755.cli line 96  Could not find same_as id spedro-b1753-15-bmpn. If  original reference is on another file use xsame_as
+Near lines: 96 Near lines: 97 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1753-1755.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1753-1755.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1753-1755.old
+1  errors. 
+2  warnings.
+Groups in this file:[mad,referida,procurador-mad1,procurador-pad1,referido,rel,mad1,pad1,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

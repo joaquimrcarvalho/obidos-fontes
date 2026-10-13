@@ -1,0 +1,54 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-35
+
+Processing data file vau-c1771-1775.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: vau
+Autorel: vau
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$vau-casamentos1771-1775
+
+WARNING: vau-c1771-1775.cli line 3 * Warning: Filename should match source Id to avoid errors. File: vau-c1771-1775 Id: vau-casamentos1771-1775.
+Near lines: 3 
+Near lines: 4       cas$c1771-1/19/1/1771/fl.17/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
+
+
+WARNING: vau-c1771-1775.cli line 3 Element value exceeds database field length: type=freguesia de nossa senhora da piedade, vau. Size:42 limit: 32
+Near lines: 3 
+Near lines: 4       cas$c1771-1/19/1/1771/fl.17/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
+
+6: cas$vau-c1771-1
+39: cas$vau-c1771-2
+77: cas$vau-c1771-3
+111: cas$vau-c1771-4
+143: cas$vau-c1771-5
+172: cas$vau-c1772-1
+205: cas$vau-c1772-2
+232: cas$vau-c1773-1
+271: cas$vau-c1774-1
+296: cas$vau-c1774-2
+321: cas$vau-c1774-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1771-1775.cli
+Original file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1771-1775.org
+Previous version: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1771-1775.old
+Temp file with ids: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1771-1775.ids
+0  errors. 
+2  warnings.
+Groups in this file:[mmnoiva,pmnoiva,rel,marido1,test,mnoiva,pnoiva,noiva,mnoivo,ls,pnoivo,noivo,cas,fonte,kleio]
+Translation finished.

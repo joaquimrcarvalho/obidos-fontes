@@ -1,0 +1,193 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-25
+
+Processing data file santamaria-1746-1750.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1746-1750
+
+WARNING: santamaria-1746-1750.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1746-1750 Id: stmaria-baptismos1746-1750.
+Near lines: 3 
+Near lines: 4       bap$b1746-1/16/1/1746/fl.79-79v./igreja de santa maria/sebastiao ferreira (reverendo, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+
+WARNING: santamaria-1746-1750.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1746-1/16/1/1746/fl.79-79v./igreja de santa maria/sebastiao ferreira (reverendo, economo da igreja de santa maria)/obs=assina o beneficiado teodosio de abreu e silva
+
+6: bap$stmaria-b1746-1
+31: bap$stmaria-b1746-2
+56: bap$stmaria-b1746-3
+79: bap$stmaria-b1746-4
+103: bap$stmaria-b1746-5
+
+WARNING: santamaria-1746-1750.cli line 127 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 127 
+Near lines: 128          procurador-mad$antonio de macedo/id=b1746-5-per7
+
+135: bap$stmaria-b1746-6
+153: bap$stmaria-b1746-7
+171: bap$stmaria-b1746-8
+191: bap$stmaria-b1746-9
+209: bap$stmaria-b1746-10
+227: bap$stmaria-b1746-11
+245: bap$stmaria-b1746-12
+263: bap$stmaria-b1746-13
+296: bap$stmaria-b1746-14
+321: bap$stmaria-b1746-15
+351: bap$stmaria-b1746-16
+375: bap$stmaria-b1746-17
+405: bap$stmaria-b1746-18
+426: bap$stmaria-b1746-19
+447: bap$stmaria-b1746-20
+463: bap$stmaria-b1746-21
+486: bap$stmaria-b1746-22
+510: bap$stmaria-b1746-23
+531: bap$stmaria-b1746-24
+548: bap$stmaria-b1746-25
+567: bap$stmaria-b1746-26
+592: bap$stmaria-b1746-27
+608: bap$stmaria-b1746-28
+634: bap$stmaria-b1746-29
+657: bap$stmaria-b1747-1
+685: bap$stmaria-b1747-2
+708: bap$stmaria-b1747-3
+728: bap$stmaria-b1747-4
+753: bap$stmaria-b1747-5
+773: bap$stmaria-b1747-6
+796: bap$stmaria-b1747-7
+817: bap$stmaria-b1747-8
+841: bap$stmaria-b1747-9
+859: bap$stmaria-b1747-10
+882: bap$stmaria-b1747-11
+892: bap$stmaria-b1747-12
+911: bap$stmaria-b1747-13
+938: bap$stmaria-b1747-14
+971: bap$stmaria-b1747-15
+992: bap$stmaria-b1747-16
+1013: bap$stmaria-b1747-17
+1035: bap$stmaria-b1747-18
+1056: bap$stmaria-b1747-19
+1074: bap$stmaria-b1747-20
+1092: bap$stmaria-b1747-21
+1112: bap$stmaria-b1747-22
+1132: bap$stmaria-b1747-23
+1152: bap$stmaria-b1747-24
+1167: bap$stmaria-b1747-25
+1185: bap$stmaria-b1748-1
+1210: bap$stmaria-b1748-2
+1233: bap$stmaria-b1748-3
+1259: bap$stmaria-b1748-4
+1278: bap$stmaria-b1748-5
+1301: bap$stmaria-b1748-6
+1325: bap$stmaria-b1748-7
+1344: bap$stmaria-b1748-8
+1359: bap$stmaria-b1748-9
+1383: bap$stmaria-b1748-10
+1402: bap$stmaria-b1748-11
+1421: bap$stmaria-b1748-12
+1444: bap$stmaria-b1748-13
+1464: bap$stmaria-b1748-14
+1483: bap$stmaria-b1748-15
+1505: bap$stmaria-b1748-16
+1523: bap$stmaria-b1748-17
+1542: bap$stmaria-b1748-18
+1559: bap$stmaria-b1748-19
+1578: bap$stmaria-b1748-20
+1598: bap$stmaria-b1748-21
+1634: bap$stmaria-b1748-22
+1650: bap$stmaria-b1748-23
+1667: bap$stmaria-b1749-1
+1688: bap$stmaria-b1749-2
+1709: bap$stmaria-b1749-3
+1729: bap$stmaria-b1749-4
+1749: bap$stmaria-b1749-5
+1771: bap$stmaria-b1749-6
+1793: bap$stmaria-b1749-7
+1817: bap$stmaria-b1749-8
+1844: bap$stmaria-b1749-9
+1864: bap$stmaria-b1749-10
+1887: bap$stmaria-b1749-11
+1906: bap$stmaria-b1749-12b
+1930: bap$stmaria-b1749-12
+1954: bap$stmaria-b1749-13
+1985: bap$stmaria-b1749-14
+2004: bap$stmaria-b1749-15
+2025: bap$stmaria-b1749-16
+2049: bap$stmaria-b1749-17
+2081: bap$stmaria-b1749-18
+2103: bap$stmaria-b1749-19
+2128: bap$stmaria-b1749-20
+2152: bap$stmaria-b1749-21
+2174: bap$stmaria-b1749-22
+2199: bap$stmaria-b1749-23
+2227: bap$stmaria-b1749-24
+2259: bap$stmaria-b1749-25
+2286: bap$stmaria-b1749-26
+2304: bap$stmaria-b1749-27
+2332: bap$stmaria-b1749-28
+2355: bap$stmaria-b1749-29
+2377: bap$stmaria-b1749-30
+2395: bap$stmaria-b1749-31
+2414: bap$stmaria-b1749-32
+2436: bap$stmaria-b1749-33
+2457: bap$stmaria-b1749-34
+2483: bap$stmaria-b1749-35
+2507: bap$stmaria-b1749-36
+2529: bap$stmaria-b1749-37
+2550: bap$stmaria-b1749-38
+2570: bap$stmaria-b1749-39
+2598: bap$stmaria-b1749-40
+2618: bap$stmaria-b1749-41
+2646: bap$stmaria-b1749-42
+2670: bap$stmaria-b1750-1
+2695: bap$stmaria-b1750-2
+2713: bap$stmaria-b1750-3
+2738: bap$stmaria-b1750-4
+2760: bap$stmaria-b1750-5
+2780: bap$stmaria-b1750-6
+2802: bap$stmaria-b1750-7
+2820: bap$stmaria-b1750-8
+2838: bap$stmaria-b1750-9
+2857: bap$stmaria-b1750-10
+2878: bap$stmaria-b1750-11
+2901: bap$stmaria-b1750-12
+2920: bap$stmaria-b1750-13
+2939: bap$stmaria-b1750-14
+2958: bap$stmaria-b1750-15
+2975: bap$stmaria-b1750-16
+3000: bap$stmaria-b1750-17
+3023: bap$stmaria-b1750-18
+3038: bap$stmaria-b1750-19
+3057: bap$stmaria-b1750-20
+3074: bap$stmaria-b1750-21
+3100: bap$stmaria-b1750-22
+3118: bap$stmaria-b1750-23
+*** End of File
+
+ERROR: santamaria-1746-1750.cli line 127  Could not find same_as id stmaria-bb1746-5-pad. If  original reference is on another file use xsame_as
+Near lines: 127 Near lines: 128 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1746-1750.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1746-1750.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1746-1750.old
+1  errors. 
+3  warnings.
+Groups in this file:[mmad,procuradora-mad,pad2,pad1,mpad,mmn,pmn,mpn,ppn,procurador-pad,mrmad,referido,referida,procurador-mad,rel,pmad,mad,ppad,pad,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

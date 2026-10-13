@@ -1,0 +1,51 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-14
+
+Processing data file SJ-o1616-1620.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1616-1620
+
+WARNING: SJ-o1616-1620.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1616-1620 Id: sjoao-obitos1616-1620.
+Near lines: 3 
+Near lines: 4       obito$o1616-1/14/6/1616/fl.101/bernardo do quintal (vigario da freguesia de sao joao)/obs=o vigario de sao joao, bernardo do quintal diz que tresladou os registos que se segume de uma meia folha que andava "desapegada"
+
+6: obito$sjoao-o1616-1
+20: obito$sjoao-o1616-2
+28: obito$sjoao-o1617-1
+33: obito$sjoao-o1617-2
+41: obito$sjoao-o1617-3
+50: obito$sjoao-o1617-4
+61: obito$sjoao-o1617-5
+72: obito$sjoao-o1618-1
+80: obito$sjoao-o1619-1
+88: obito$sjoao-o1619-2
+96: obito$sjoao-o1619-3
+110: obito$sjoao-o1620-1
+122: obito$sjoao-o1620-2
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1616-1620.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1616-1620.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1616-1620.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1616-1620.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mae,pai,locf,marido,mulher,rel,referida,testamento,locs,ls,n,obito,fonte,kleio]
+Translation finished.

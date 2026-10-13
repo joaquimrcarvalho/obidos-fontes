@@ -1,0 +1,174 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-44
+
+Processing data file ST-1640-1643.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1640-1643
+
+WARNING: ST-1640-1643.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1640-1643 Id: stiago-baptismos 1640-1643.
+Near lines: 3 
+Near lines: 4       bap$b1640-1a/6/5/1640/fl.53./igreja de sao tiago/ (vigario)/obs=assina padre joao pedroso (cura)
+
+6: bap$stiago-b1640-1a
+22: bap$stiago-b1640-2a
+39: bap$stiago-b1640-3a
+51: bap$stiago-b1640-4a
+70: bap$stiago-b1640-5a
+88: bap$stiago-b1640-6a
+109: bap$stiago-b1640-7a
+128: bap$stiago-b1640-8a
+147: bap$stiago-b1640-9a
+166: bap$stiago-b1640-10a
+183: bap$stiago-b1641-11a
+200: bap$stiago-b1641-12a
+218: bap$stiago-b1641-13a
+233: bap$stiago-b1641-14a
+250: bap$stiago-b1641-15a
+263: bap$stiago-b1641-16a
+278: bap$stiago-b1641-17a
+296: bap$stiago-b1641-18a
+315: bap$stiago-b1641-19a
+333: bap$stiago-b1641-20a
+358: bap$stiago-b1641-21a
+378: bap$stiago-b1641-22a
+397: bap$stiago-b1642-23a
+414: bap$stiago-b1642-24a
+429: bap$stiago-b1642-25a
+446: bap$stiago-b1642-26a
+461: bap$stiago-b1642-27a
+478: bap$stiago-b1642-28a
+496: bap$stiago-b1642-29a
+512: bap$stiago-b1642-30a
+525: bap$stiago-b1642-31a
+540: bap$stiago-b1642-32
+557: bap$stiago-b1642-33a
+575: bap$stiago-b1643-34a
+592: bap$stiago-b1643-35a
+610: bap$stiago-b1643-36a
+
+WARNING: ST-1640-1643.cli line 621 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 621 
+Near lines: 622          mad$maria fernandes/id=b1643-36a-per6
+
+627: bap$stiago-b1643-37a
+
+WARNING: ST-1640-1643.cli line 634 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 634 
+Near lines: 635          pad$manuel luis/id=b1643-37-pad
+
+644: bap$stiago-b1643-38a
+660: bap$stiago-b1643-39a
+
+WARNING: ST-1640-1643.cli line 666 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 666 
+Near lines: 667          pad$francisco de matos/id=b1643-39a-per4
+
+676: bap$stiago-b1643-40a
+688: bap$stiago-b1643-41a
+711: bap$stiago-b1643-42a
+
+WARNING: ST-1640-1643.cli line 718 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 718 
+Near lines: 719          pad$gaspar fernandes/id=b1643-42a-per4
+
+727: bap$stiago-b1643-43a
+738: bap$stiago-b1643-44a
+756: bap$stiago-b1643-45a
+769: bap$stiago-b1643-46a
+788: bap$stiago-b1643-47a
+806: bap$stiago-b1643-48a
+823: bap$stiago-b1643-49a
+842: bap$stiago-b1643-50a
+
+WARNING: ST-1640-1643.cli line 845 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 845          pn$gaspar francisco/mesmo_que=b1641-19-pn/id=b1643-50a-per2
+Near lines: 846             ls$residencia/casal de santa maria
+
+
+WARNING: ST-1640-1643.cli line 849 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 849          mn$simoa pereira/mesmo_que=b1641-19-mn/id=b1643-50a-per3
+Near lines: 850             ls$profissao/lavradeira
+
+862: bap$stiago-b1643-51a
+
+WARNING: ST-1640-1643.cli line 869 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 869 
+Near lines: 870          pad$domingos fernandes/id=b1643-51a-per4
+
+881: bap$stiago-b1643-52a
+893: bap$stiago-b1643-53a
+
+WARNING: ST-1640-1643.cli line 906 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 906          pmad$braz goncalves/mesmo_que=b1637-68-mrmad/id=b1643-53a-per6
+Near lines: 907             ls$residencia/tras do outeiro
+
+911: bap$stiago-b1643-54a
+928: bap$stiago-b1643-55a
+*** End of File
+
+ERROR: ST-1640-1643.cli line 621  Could not find same_as id stiago-b1640-97-pad. If  original reference is on another file use xsame_as
+Near lines: 621 Near lines: 622 
+
+ERROR: ST-1640-1643.cli line 634  Could not find same_as id stiago-b1636-49-mn. If  original reference is on another file use xsame_as
+Near lines: 634 Near lines: 635 
+
+ERROR: ST-1640-1643.cli line 666  Could not find same_as id stiago-b1638-72-nn. If  original reference is on another file use xsame_as
+Near lines: 666 Near lines: 667 
+
+ERROR: ST-1640-1643.cli line 718  Could not find same_as id stiago-b1635-45a-mn. If  original reference is on another file use xsame_as
+Near lines: 718 Near lines: 719 
+
+ERROR: ST-1640-1643.cli line 845  Could not find same_as id stiago-b1641-19-pn. If  original reference is on another file use xsame_as
+Near lines: 845 Near lines: 846 
+
+ERROR: ST-1640-1643.cli line 849  Could not find same_as id stiago-b1641-19-mn. If  original reference is on another file use xsame_as
+Near lines: 849 Near lines: 850 
+
+ERROR: ST-1640-1643.cli line 869  Could not find same_as id stiago-b1632-8-mn. If  original reference is on another file use xsame_as
+Near lines: 869 Near lines: 870 
+
+ERROR: ST-1640-1643.cli line 906  Could not find same_as id stiago-b1637-68-mrmad. If  original reference is on another file use xsame_as
+Near lines: 906 Near lines: 907 
+
+Line 292 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1632-6-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 614 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1640-97-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 618 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1640-97-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 631 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1636-49-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 665 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1638-72-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 672 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1628-52-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 674 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1628-52-1-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 715 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1635-45-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 742 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1637-61-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 746 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1637-61-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 773 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1637-65-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 777 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1637-65-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 826 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1640-96-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 830 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1640-96-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 857 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1640-98-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 858 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1640-98-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 866 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1632-8-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 901 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1630-93-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1640-1643.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1640-1643.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1640-1643.old
+8  errors. 
+9  warnings.
+Groups in this file:[referida,pmn,referido,mmad,pmad,ppad,mrmad,rel,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

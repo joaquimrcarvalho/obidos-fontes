@@ -1,0 +1,50 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-29
+
+Processing data file vau-c1761-1765.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: vau
+Autorel: vau
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$vau-casamentos1761-1765
+
+WARNING: vau-c1761-1765.cli line 3 * Warning: Filename should match source Id to avoid errors. File: vau-c1761-1765 Id: vau-casamentos1761-1765.
+Near lines: 3 
+Near lines: 4       cas$c1761-1/29/1/1761/fl.9/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
+
+
+WARNING: vau-c1761-1765.cli line 3 Element value exceeds database field length: type=freguesia de nossa senhora da piedade, vau. Size:42 limit: 32
+Near lines: 3 
+Near lines: 4       cas$c1761-1/29/1/1761/fl.9/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
+
+6: cas$vau-c1761-1
+53: cas$vau-c1761-2
+107: cas$vau-c1762-1
+141: cas$vau-c1762-2
+168: cas$vau-c1764-1
+205: cas$vau-c1764-2
+241: cas$vau-c1765-1
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1761-1765.cli
+Original file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1761-1765.org
+Previous version: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1761-1765.old
+Temp file with ids: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1761-1765.ids
+0  errors. 
+2  warnings.
+Groups in this file:[referido,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

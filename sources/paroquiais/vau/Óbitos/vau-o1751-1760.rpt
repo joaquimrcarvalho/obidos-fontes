@@ -1,0 +1,102 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-36
+
+Processing data file vau-o1751-1760.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: vau
+Autorel: vau
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$vau-obitos1751-1760
+
+WARNING: vau-o1751-1760.cli line 3 * Warning: Filename should match source Id to avoid errors. File: vau-o1751-1760 Id: vau-obitos1751-1760.
+Near lines: 3 
+Near lines: 4       obito$o1751-1/11/3/1751/fl.5/jose alves (padre, cura)
+
+
+WARNING: vau-o1751-1760.cli line 3 Element value exceeds database field length: type=freguesia de nossa senhora da piedade, vau. Size:42 limit: 32
+Near lines: 3 
+Near lines: 4       obito$o1751-1/11/3/1751/fl.5/jose alves (padre, cura)
+
+6: obito$vau-o1751-1
+22: obito$vau-o1751-2
+42: obito$vau-o1751-3
+52: obito$vau-o1751-4
+65: obito$vau-o1751-5
+78: obito$vau-o1751-6
+93: obito$vau-o1751-7
+106: obito$vau-o1752-1
+123: obito$vau-o1752-2
+134: obito$vau-o1752-3
+154: obito$vau-o1752-4
+171: obito$vau-o1752-5
+186: obito$vau-o1753-1
+200: obito$vau-o1753-2
+217: obito$vau-o1753-3
+232: obito$vau-o1753-4
+245: obito$vau-o1754-1
+256: obito$vau-o1754-2
+269: obito$vau-o1755-1
+283: obito$vau-o1757-1
+299: obito$vau-o1757-2
+308: obito$vau-o1755-2
+327: obito$vau-o1755-3
+339: obito$vau-o1755-4
+360: obito$vau-o1755-5
+377: obito$vau-o1755-6
+400: obito$vau-o1755-7
+412: obito$vau-o1756-1
+425: obito$vau-o1756-2
+442: obito$vau-o1756-3
+458: obito$vau-o1757-99
+473: obito$vau-o1757-100
+488: obito$vau-o1758-1
+499: obito$vau-o1758-2
+511: obito$vau-o1758-3
+523: obito$vau-o1758-4
+533: obito$vau-o1758-5
+544: obito$vau-o1758-6
+558: obito$vau-o1759-1
+567: obito$vau-o1758-7
+580: obito$vau-o1758-8
+593: obito$vau-o1758-9
+607: obito$vau-o1759-2
+622: obito$vau-o1759-3
+636: obito$vau-o1759-4
+648: obito$vau-o1759-5
+656: obito$vau-o1759-6
+671: obito$vau-o1760-1
+686: obito$vau-o1760-2
+697: obito$vau-o1760-3
+708: obito$vau-o1760-4
+719: obito$vau-o1760-5
+730: obito$vau-o1760-6
+747: obito$vau-o1757-100a
+764: obito$vau-o1757-101
+784: obito$vau-o1760-7
+815: obito$vau-o1760-8
+832: obito$vau-o1760-9
+848: obito$vau-o1760-10
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1751-1760.cli
+Original file: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1751-1760.org
+Previous version: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1751-1760.old
+Temp file with ids: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1751-1760.ids
+0  errors. 
+2  warnings.
+Groups in this file:[locf,referida,mae,pai,marido,rel,referido,oficios,mulher,testamento,locs,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

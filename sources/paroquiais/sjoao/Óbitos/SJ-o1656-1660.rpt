@@ -1,0 +1,76 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1656-1660.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1656-1660
+
+WARNING: SJ-o1656-1660.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1656-1660 Id: sjoao-obitos1656-1660.
+Near lines: 3 
+Near lines: 4       obito$o1656-1/28/1/1656/fl.154/francisco de sousa (vigario)
+
+6: obito$sjoao-o1656-1
+22: obito$sjoao-o1656-2
+34: obito$sjoao-o1656-3
+49: obito$sjoao-o1656-4
+63: obito$sjoao-o1656-5
+77: obito$sjoao-o1656-6
+91: obito$sjoao-o1656-7
+103: obito$sjoao-o1656-8
+113: obito$sjoao-o1656-9
+124: obito$sjoao-o1656-10
+135: obito$sjoao-o1657-1
+150: obito$sjoao-o1657-2
+161: obito$sjoao-o1657-3
+172: obito$sjoao-o1657-4
+185: obito$sjoao-o1657-5
+199: obito$sjoao-o1657-6
+215: obito$sjoao-o1657-7
+229: obito$sjoao-o1657-8
+243: obito$sjoao-o1658-1
+253: obito$sjoao-o1658-2
+267: obito$sjoao-o1658-3
+277: obito$sjoao-o1658-4
+287: obito$sjoao-o1658-5
+295: obito$sjoao-o1658-6
+306: obito$sjoao-o1658-7
+316: obito$sjoao-o1658-8
+328: obito$sjoao-o1658-9
+343: obito$sjoao-o1658-10
+355: obito$sjoao-o1658-11
+367: obito$sjoao-o1658-12
+376: obito$sjoao-o1659-1
+390: obito$sjoao-o1659-2
+401: obito$sjoao-o1659-3
+411: obito$sjoao-o1659-4
+424: obito$sjoao-o1660-1
+439: obito$sjoao-o1660-2
+450: obito$sjoao-o1660-3
+462: obito$sjoao-o1660-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1656-1660.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1656-1660.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1656-1660.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1656-1660.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referida,marido,referido,oficios,rel,mae,pai,testamento,locf,locs,ls,n,obito,fonte,kleio]
+Translation finished.

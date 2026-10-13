@@ -1,0 +1,58 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1716-1720.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1716-1720
+
+WARNING: santamaria-c1716-1720.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1716-1720 Id: stmaria-casamentos1716-1720.
+Near lines: 3 
+Near lines: 4       cas$c1716-1/9/2/1716/fl.35/igreja de santa maria/joao craveiro da silva (reverendo, padre, prior encomendado na igreja de santa maria)/obs=assina o cura o beneficiado antonio de mendonca, o padre enumera as testemunhas e acrescenta "e outras muitas que se acharao presentes"
+
+6: cas$stmaria-c1716-1
+37: cas$stmaria-c1716-2
+69: cas$stmaria-c1716-3
+98: cas$stmaria-c1716-4
+133: cas$stmaria-c1716-5
+161: cas$stmaria-c1717-1
+198: cas$stmaria-c1717-2
+231: cas$stmaria-c1717-3
+261: cas$stmaria-c1717-4
+289: cas$stmaria-c1717-5
+319: cas$stmaria-c1718-1
+350: cas$stmaria-c1718-2
+383: cas$stmaria-c1718-3
+414: cas$stmaria-c1718-4
+452: cas$stmaria-c1718-5
+486: cas$stmaria-c1718-6
+522: cas$stmaria-c1719-1
+555: cas$stmaria-c1719-2
+588: cas$stmaria-c1720-1
+621: cas$stmaria-c1720-2
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1716-1720.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1716-1720.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1716-1720.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1716-1720.ids
+0  errors. 
+1  warnings.
+Groups in this file:[marido1,mulher1,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

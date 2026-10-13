@@ -1,0 +1,53 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1771-1772.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1771-1772
+
+WARNING: santamaria-c1771-1772.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1771-1772 Id: stmaria-casamentos1771-1772.
+Near lines: 3 
+Near lines: 4       cas$c1771-1/11/2/1771/fl.119-119v./igreja de santa maria/jose luis fialho de mendonca (padre, beneficiado da igreja de santa maria)/obs=assina o paroco o beneficiado jose luis fialho de mendonca. o casamento realizou-se pelas 2 horas da tarde
+
+6: cas$stmaria-c1771-1
+35: cas$stmaria-c1771-2
+65: cas$stmaria-c1771-3
+99: cas$stmaria-c1771-4
+
+WARNING: santamaria-c1771-1772.cli line 98 Element value exceeds database field length: loc=ermida de nossa senhora de monserrate sita no arrabalde de obidos. Size:65 limit: 64
+Near lines: 98 
+Near lines: 99          noivo$vitoriano jose freire de andrade/id=c1771-4-per1
+
+142: cas$stmaria-c1771-5
+176: cas$stmaria-c1771-6
+210: cas$stmaria-c1771-7
+245: cas$stmaria-c1772-1
+280: cas$stmaria-c1772-2
+320: cas$stmaria-c1772-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1771-1772.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1771-1772.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1771-1772.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1771-1772.ids
+0  errors. 
+2  warnings.
+Groups in this file:[referido,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

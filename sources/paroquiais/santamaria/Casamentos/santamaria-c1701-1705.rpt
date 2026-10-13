@@ -1,0 +1,55 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-27
+
+Processing data file santamaria-c1701-1705.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1700-1705
+
+WARNING: santamaria-c1701-1705.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1701-1705 Id: stmaria-casamentos1700-1705.
+Near lines: 3 
+Near lines: 4       cas$c1701-1/26/9/1701/fl.2/igreja de santa maria/francisco fernandes (padre, cura na igreja de sao pedro)/obs=assina o cura o beneficiado antonio de mendonca, o padre enumera as testemunhas e acrescenta "e outras muitas que se acharao presentes"
+
+6: cas$stmaria-c1701-1
+37: cas$stmaria-c1701-2
+67: cas$stmaria-c1702-3b
+101: cas$stmaria-c1702-2
+138: cas$stmaria-c1702-3a
+171: cas$stmaria-c1702-4
+205: cas$stmaria-c1703-1
+235: cas$stmaria-c1703-2
+266: cas$stmaria-c1703-3
+295: cas$stmaria-c1703-4
+325: cas$stmaria-c1704-1
+356: cas$stmaria-c1704-2
+389: cas$stmaria-c1704-3
+422: cas$stmaria-c1705-1
+457: cas$stmaria-c1705-2
+487: cas$stmaria-c1705-3
+527: cas$stmaria-c1705-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1701-1705.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1701-1705.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1701-1705.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1701-1705.ids
+0  errors. 
+1  warnings.
+Groups in this file:[marido1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,rel,ls,noivo,cas,fonte,kleio]
+Translation finished.

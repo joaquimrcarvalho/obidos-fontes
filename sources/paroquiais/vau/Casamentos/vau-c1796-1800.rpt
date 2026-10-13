@@ -1,0 +1,53 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-36
+
+Processing data file vau-c1796-1800.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: vau
+Autorel: vau
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$vau-casamentos1796-1800
+
+WARNING: vau-c1796-1800.cli line 3 * Warning: Filename should match source Id to avoid errors. File: vau-c1796-1800 Id: vau-casamentos1796-1800.
+Near lines: 3 
+Near lines: 4       cas$c1796-1/6/2/1796/fl.29v.-30/igreja de nossa senhora da piedade, vau/francisco jose rodrigues da costa (padre)/obs=assina paroco francisco jose rodrigues da costa.
+
+
+WARNING: vau-c1796-1800.cli line 3 Element value exceeds database field length: type=freguesia de nossa senhora da piedade, vau. Size:42 limit: 32
+Near lines: 3 
+Near lines: 4       cas$c1796-1/6/2/1796/fl.29v.-30/igreja de nossa senhora da piedade, vau/francisco jose rodrigues da costa (padre)/obs=assina paroco francisco jose rodrigues da costa.
+
+6: cas$vau-c1796-1
+39: cas$vau-c1796-2
+69: cas$vau-c1796-3
+92: cas$vau-c1796-4
+121: cas$vau-c1797-1
+147: cas$vau-c1797-2
+167: cas$vau-c1797-3
+190: cas$vau-c1800-1
+214: cas$vau-c1800-2
+242: cas$vau-c1800-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1796-1800.cli
+Original file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1796-1800.org
+Previous version: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1796-1800.old
+Temp file with ids: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1796-1800.ids
+0  errors. 
+2  warnings.
+Groups in this file:[mulher1,marido1,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

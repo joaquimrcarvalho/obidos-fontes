@@ -1,0 +1,140 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-24
+
+Processing data file SJ-o1691-1701.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1691-1701
+
+WARNING: SJ-o1691-1701.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1691-1701 Id: sjoao-obitos1691-1701.
+Near lines: 3 
+Near lines: 4       obito$o1691-1/21/1/1691/fl.186/sebastiao de almeida trigoso
+
+6: obito$sjoao-o1691-1
+16: obito$sjoao-o1691-2
+26: obito$sjoao-o1691-3
+36: obito$sjoao-o1691-4
+49: obito$sjoao-o1692-1
+64: obito$sjoao-o1692-2
+78: obito$sjoao-o1692-3
+91: obito$sjoao-o1693-1
+107: obito$sjoao-o1693-2
+120: obito$sjoao-o1693-3
+133: obito$sjoao-o1693-4
+147: obito$sjoao-o1693-5
+165: obito$sjoao-o1693-6
+182: obito$sjoao-o1693-7
+197: obito$sjoao-o1694-1
+212: obito$sjoao-o1694-2
+226: obito$sjoao-o1694-3
+244: obito$sjoao-o1694-4
+264: obito$sjoao-o1694-5
+281: obito$sjoao-o1694-6
+292: obito$sjoao-o1694-7
+309: obito$sjoao-o1694-8
+321: obito$sjoao-o1695-1
+333: obito$sjoao-o1695-2
+351: obito$sjoao-o1695-3
+364: obito$sjoao-o1695-4
+378: obito$sjoao-o1695-5
+395: obito$sjoao-o1695-6
+408: obito$sjoao-o1695-7
+425: obito$sjoao-o1695-8
+438: obito$sjoao-o1695-9
+451: obito$sjoao-o1695-10
+467: obito$sjoao-o1695-11
+480: obito$sjoao-o1695-12
+494: obito$sjoao-o1695-13
+513: obito$sjoao-o1695-14
+530: obito$sjoao-o1695-15
+545: obito$sjoao-o1695-16
+566: obito$sjoao-o1695-17
+578: obito$sjoao-o1695-18
+594: obito$sjoao-o1695-19
+610: obito$sjoao-o1695-20
+626: obito$sjoao-o1695-21
+640: obito$sjoao-o1695-22
+655: obito$sjoao-o1695-23
+668: obito$sjoao-o1695-24
+683: obito$sjoao-o1695-25
+698: obito$sjoao-o1695-26
+714: obito$sjoao-o1695-27
+728: obito$sjoao-o1695-28
+740: obito$sjoao-o1695-29
+755: obito$sjoao-o1696-1
+768: obito$sjoao-o1696-2
+783: obito$sjoao-o1696-3
+793: obito$sjoao-o1696-4
+805: obito$sjoao-o1696-5
+821: obito$sjoao-o1696-6
+837: obito$sjoao-o1696-7
+853: obito$sjoao-o1696-8
+871: obito$sjoao-o1696-9
+887: obito$sjoao-o1696-10
+899: obito$sjoao-o1696-11
+918: obito$sjoao-o1696-12
+935: obito$sjoao-o1696-13
+953: obito$sjoao-o1697-1
+969: obito$sjoao-o1697-2
+984: obito$sjoao-o1697-3
+997: obito$sjoao-o1697-4
+1010: obito$sjoao-o1697-5
+1023: obito$sjoao-o1697-6
+1041: obito$sjoao-o1697-7
+1053: obito$sjoao-o1697-8
+1071: obito$sjoao-o1698-1
+1083: obito$sjoao-o1698-2
+1097: obito$sjoao-o1698-3
+1113: obito$sjoao-o1698-4
+1131: obito$sjoao-o1698-5
+1145: obito$sjoao-o1698-6
+1156: obito$sjoao-o1698-7
+1170: obito$sjoao-o1698-8
+1183: obito$sjoao-o1698-9
+1199: obito$sjoao-o1698-10
+1210: obito$sjoao-o1698-11
+1228: obito$sjoao-o1698-12
+1244: obito$sjoao-o1698-13
+1257: obito$sjoao-o1699-1
+1273: obito$sjoao-o1699-2
+1285: obito$sjoao-o1699-3
+1304: obito$sjoao-o1699-4
+1318: obito$sjoao-o1699-5
+1333: obito$sjoao-o1699-6
+1349: obito$sjoao-o1699-7
+1366: obito$sjoao-o1699-8
+1382: obito$sjoao-o1699-9
+1398: obito$sjoao-o1699-10
+1409: obito$sjoao-o1700-1
+1421: obito$sjoao-o1700-2
+1435: obito$sjoao-o1700-3
+1448: obito$sjoao-o1700-4
+1464: obito$sjoao-o1701-1
+1475: obito$sjoao-o1701-2
+1485: obito$sjoao-o1701-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1691-1701.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1691-1701.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1691-1701.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1691-1701.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referida,mulher,rel,referido,pai,locf,causa,marido,oficios,ls,mae,sacr,testamento,locs,n,obito,fonte,kleio]
+Translation finished.

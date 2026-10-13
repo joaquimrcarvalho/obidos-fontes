@@ -1,0 +1,81 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-30
+
+Processing data file santamaria-o1782-1783.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1782-1783
+
+WARNING: santamaria-o1782-1783.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1782-1783 Id: stmaria-obitos1782-1783.
+Near lines: 3 
+Near lines: 4       obito$o1782-1a/12/1/1782/fl.135v./joao carlos da silva (padre)
+
+6: obito$stmaria-o1782-1a
+18: obito$stmaria-o1782-1
+32: obito$stmaria-o1782-2
+47: obito$stmaria-o1782-3
+63: obito$stmaria-o1782-4
+78: obito$stmaria-o1782-5
+92: obito$stmaria-o1782-6
+109: obito$stmaria-o1782-7
+126: obito$stmaria-o1782-8
+142: obito$stmaria-o1782-9
+154: obito$stmaria-o1782-10
+168: obito$stmaria-o1782-11
+180: obito$stmaria-o1782-12
+194: obito$stmaria-o1782-13
+205: obito$stmaria-o1782-14
+218: obito$stmaria-o1782-15
+233: obito$stmaria-o1782-16
+247: obito$stmaria-o1782-17
+260: obito$stmaria-o1782-18
+274: obito$stmaria-o1782-19
+285: obito$stmaria-o1782-20
+302: obito$stmaria-o1782-21
+316: obito$stmaria-o1782-22
+329: obito$stmaria-o1782-23
+343: obito$stmaria-o1782-24
+356: obito$stmaria-o1782-25
+367: obito$stmaria-o1782-26
+384: obito$stmaria-o1782-27
+395: obito$stmaria-o1783-1
+408: obito$stmaria-o1783-2
+423: obito$stmaria-o1783-3
+438: obito$stmaria-o1783-4
+453: obito$stmaria-o1783-5
+467: obito$stmaria-o1783-6
+479: obito$stmaria-o1783-7
+493: obito$stmaria-o1783-8
+506: obito$stmaria-o1783-9
+519: obito$stmaria-o1783-10
+532: obito$stmaria-o1783-11
+546: obito$stmaria-o1783-12
+559: obito$stmaria-o1783-13
+573: obito$stmaria-o1783-14
+586: obito$stmaria-o1783-15
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1782-1783.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1782-1783.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1782-1783.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1782-1783.ids
+0  errors. 
+1  warnings.
+Groups in this file:[testamento,locf,oficios,mulher,referido,rel,referida,causa,mae,pai,marido,locs,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

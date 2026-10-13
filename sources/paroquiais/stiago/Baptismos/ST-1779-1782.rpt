@@ -1,0 +1,98 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-21
+
+Processing data file ST-1779-1782.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1779-1782
+
+WARNING: ST-1779-1782.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1779-1782 Id: stiago-baptismos 1779-1782.
+Near lines: 3 
+Near lines: 4       bap$b1779-1/25/4/1779/fl.74./igreja de sao tiago/ (vigario)/obs=assina padre jose luis fialho de mendonca (cura)
+
+6: bap$stiago-b1779-1
+19: bap$stiago-b1779-2
+37: bap$stiago-b1779-3
+59: bap$stiago-b1779-4
+75: bap$stiago-b1779-5
+97: bap$stiago-b1779-6
+114: bap$stiago-b1779-7
+133: bap$stiago-b1779-8
+150: bap$stiago-b1780-9
+167: bap$stiago-b1780-10
+183: bap$stiago-b1780-11
+199: bap$stiago-b1780-12
+216: bap$stiago-b1780-13
+239: bap$stiago-b1780-14
+257: bap$stiago-b1780-15
+275: bap$stiago-b1780-16
+290: bap$stiago-b1780-17
+
+WARNING: ST-1779-1782.cli line 301 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 301 
+Near lines: 302          mad$maria feliciana soares de silveira/id=b1780-17-mad
+
+307: bap$stiago-b1780-18
+325: bap$stiago-b1780-19
+340: bap$stiago-b1780-20
+358: bap$stiago-b1780-21
+378: bap$stiago-b1780-22
+399: bap$stiago-b1780-23
+416: bap$stiago-b1780-24
+447: bap$stiago-b1780-25
+474: bap$stiago-b1781-26
+500: bap$stiago-b1781-27
+520: bap$stiago-b1781-28
+552: bap$stiago-b1781-29
+579: bap$stiago-b1781-30
+608: bap$stiago-b1781-31
+644: bap$stiago-b1781-32
+662: bap$stiago-b1781-33
+680: bap$stiago-b1781-34
+706: bap$stiago-b1781-35
+725: bap$stiago-b1781-36
+743: bap$stiago-b1781-37
+760: bap$stiago-b1781-38
+780: bap$stiago-b1782-39
+804: bap$stiago-b1782-40
+824: bap$stiago-b1782-41
+845: bap$stiago-b1782-42
+864: bap$stiago-b1782-43
+890: bap$stiago-b1782-44
+907: bap$stiago-b1782-45
+929: bap$stiago-b1782-46
+947: bap$stiago-b1782-47
+969: bap$stiago-b1782-48
+996: bap$stiago-b1782-49
+1027: bap$stiago-b1782-50
+1061: bap$stiago-b1782-51
+1076: bap$stiago-b1782-52
+1088: bap$stiago-b1782-53
+1105: bap$stiago-b1782-54
+1123: bap$stiago-b1782-55
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1779-1782.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1779-1782.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1779-1782.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1779-1782.ids
+0  errors. 
+2  warnings.
+Groups in this file:[ppad,mmn,pmn,mpn,ppn,mpad,mrmad,procurador-mad,procurador-pad,rel,pmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

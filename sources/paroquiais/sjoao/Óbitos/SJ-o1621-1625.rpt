@@ -1,0 +1,61 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1621-1625.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1621-1625
+
+WARNING: SJ-o1621-1625.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1621-1625 Id: sjoao-obitos1621-1625.
+Near lines: 3 
+Near lines: 4       obito$o1621-1/9/2/1621/fl.101v./bernardo do quintal (vigario da igreja de sao joao)
+
+6: obito$sjoao-o1621-1
+14: obito$sjoao-o1621-2
+21: obito$sjoao-o1621-3
+31: obito$sjoao-o1621-4
+41: obito$sjoao-o1621-5
+48: obito$sjoao-o1622-1
+64: obito$sjoao-o1624-1
+74: obito$sjoao-o1624-2
+81: obito$sjoao-o1624-3
+92: obito$sjoao-o1624-4
+104: obito$sjoao-o1624-5
+112: obito$sjoao-o1625-1
+119: obito$sjoao-o1625-2
+126: obito$sjoao-o1625-3
+136: obito$sjoao-o1625-4
+148: obito$sjoao-o1625-5
+155: obito$sjoao-o1625-6
+162: obito$sjoao-o1625-7
+172: obito$sjoao-o1625-8
+179: obito$sjoao-o1625-9
+186: obito$sjoao-o1625-10
+198: obito$sjoao-o1625-11
+209: obito$sjoao-o1625-12
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1621-1625.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1621-1625.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1621-1625.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1621-1625.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mulher,testamento,mae,referido,rel,referida,marido,locs,ls,n,obito,fonte,kleio]
+Translation finished.

@@ -1,0 +1,169 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1650-1655.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1650-1655
+
+WARNING: SJ-1650-1655.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1650-1655 Id: sjoao-baptismos1650-1655.
+Near lines: 3 
+Near lines: 4       bap$b1650-1/9/2/1650/fl.80/jeronimo de matos (cura na igreja de sao joao)/obs=assina o cura jeronimo de matos
+
+6: bap$sjoao-b1650-1
+22: bap$sjoao-b1650-2
+41: bap$sjoao-b1650-3
+56: bap$sjoao-b1650-4
+72: bap$sjoao-b1650-5
+86: bap$sjoao-b1650-6
+102: bap$sjoao-b1650-7
+118: bap$sjoao-b1650-8
+136: bap$sjoao-b1650-9
+151: bap$sjoao-b1650-10
+167: bap$sjoao-b1650-11
+182: bap$sjoao-b1650-12
+198: bap$sjoao-b1650-13
+216: bap$sjoao-b1650-14
+232: bap$sjoao-b1650-15
+254: bap$sjoao-b1650-16
+272: bap$sjoao-b1650-17
+293: bap$sjoao-b1650-18
+309: bap$sjoao-b1650-19
+325: bap$sjoao-b1651-1
+341: bap$sjoao-b1651-2
+356: bap$sjoao-b1651-3
+372: bap$sjoao-b1651-4
+387: bap$sjoao-b1651-5
+403: bap$sjoao-b1651-6
+419: bap$sjoao-b1651-7
+435: bap$sjoao-b1651-8
+451: bap$sjoao-b1651-9
+468: bap$sjoao-b1651-10
+484: bap$sjoao-b1651-11
+498: bap$sjoao-b1651-12
+514: bap$sjoao-b1651-13
+529: bap$sjoao-b1651-14
+545: bap$sjoao-b1651-15
+560: bap$sjoao-b1651-16
+576: bap$sjoao-b1651-17
+592: bap$sjoao-b1651-18
+608: bap$sjoao-b1651-19
+625: bap$sjoao-b1651-20
+639: bap$sjoao-b1652-1
+654: bap$sjoao-b1652-2
+670: bap$sjoao-b1652-3
+686: bap$sjoao-b1652-4
+703: bap$sjoao-b1652-5
+718: bap$sjoao-b1652-6
+730: bap$sjoao-b1652-7
+745: bap$sjoao-b1652-8
+761: bap$sjoao-b1652-9
+777: bap$sjoao-b1652-10
+793: bap$sjoao-b1652-11
+807: bap$sjoao-b1652-12
+823: bap$sjoao-b1652-13
+840: bap$sjoao-b1652-14
+856: bap$sjoao-b1652-15
+877: bap$sjoao-b1652-16
+893: bap$sjoao-b1652-17
+910: bap$sjoao-b1653-1
+926: bap$sjoao-b1653-2
+942: bap$sjoao-b1653-3
+958: bap$sjoao-b1653-4
+970: bap$sjoao-b1653-5
+
+WARNING: SJ-1650-1655.cli line 969 Element value exceeds database field length: loc=bento de oliveira fialho (licenciado, economo da igreja de sao joao). Size:68 limit: 64
+Near lines: 969 
+Near lines: 970          n$antonia/f/id=b1653-5-per1
+
+987: bap$sjoao-b1653-6
+1003: bap$sjoao-b1653-7
+1019: bap$sjoao-b1653-8
+1035: bap$sjoao-b1653-9
+1051: bap$sjoao-b1653-10
+1067: bap$sjoao-b1653-11
+1083: bap$sjoao-b1653-12
+1097: bap$sjoao-b1653-13
+1113: bap$sjoao-b1653-14
+1128: bap$sjoao-b1653-15
+1144: bap$sjoao-b1653-16
+1160: bap$sjoao-b1653-17
+1176: bap$sjoao-b1653-18
+1191: bap$sjoao-b1653-19
+1207: bap$sjoao-b1653-19a
+1221: bap$sjoao-b1653-20
+1237: bap$sjoao-b1653-21
+1253: bap$sjoao-b1653-22
+1269: bap$sjoao-b1653-23
+1284: bap$sjoao-b1653-24
+1306: bap$sjoao-b1653-25
+1322: bap$sjoao-b1654-1
+1337: bap$sjoao-b1654-2
+1353: bap$sjoao-b1654-3
+1367: bap$sjoao-b1654-4
+1383: bap$sjoao-b1654-5
+
+WARNING: SJ-1650-1655.cli line 1382 Element value exceeds database field length: loc=bento de oliveira fialho (licenciado, economo da igreja de sao joao). Size:68 limit: 64
+Near lines: 1382 
+Near lines: 1383          n$catarina/f/id=b1654-5-per1
+
+1400: bap$sjoao-b1654-6
+1421: bap$sjoao-b1654-7
+1437: bap$sjoao-b1654-8
+1453: bap$sjoao-b1654-9
+1468: bap$sjoao-b1654-10
+1485: bap$sjoao-b1654-11
+1501: bap$sjoao-b1654-12
+1517: bap$sjoao-b1654-13
+1534: bap$sjoao-b1654-14
+1549: bap$sjoao-b1654-15
+1565: bap$sjoao-b1654-16
+1581: bap$sjoao-b1654-17
+1595: bap$sjoao-b1654-18
+1611: bap$sjoao-b1654-19
+1625: bap$sjoao-b1655-1
+1642: bap$sjoao-b1655-2
+1658: bap$sjoao-b1655-3
+1674: bap$sjoao-b1655-4
+1690: bap$sjoao-b1655-5
+1706: bap$sjoao-b1655-6
+1721: bap$sjoao-b1655-7
+1736: bap$sjoao-b1655-8
+1748: bap$sjoao-b1655-9
+1766: bap$sjoao-b1655-10
+1780: bap$sjoao-b1655-11
+1797: bap$sjoao-b1655-12
+1812: bap$sjoao-b1655-13
+1827: bap$sjoao-b1655-14
+1843: bap$sjoao-b1655-15
+1859: bap$sjoao-b1655-16
+1875: bap$sjoao-b1655-17
+1891: bap$sjoao-b1655-18
+1907: bap$sjoao-b1655-19
+1922: bap$sjoao-b1655-20
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1650-1655.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1650-1655.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1650-1655.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1650-1655.ids
+0  errors. 
+3  warnings.
+Groups in this file:[mad,referida,referido,rel,mrmad1,pmad1,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

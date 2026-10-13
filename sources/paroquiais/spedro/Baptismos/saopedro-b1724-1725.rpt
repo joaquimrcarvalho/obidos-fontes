@@ -1,0 +1,59 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-19
+
+Processing data file saopedro-b1724-1725.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1722-1724
+
+WARNING: saopedro-b1724-1725.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1724-1725 Id: spedro-baptismos1722-1724.
+Near lines: 3 
+Near lines: 4       bap$b1724-19/10/10/1724/fl.2/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+6: bap$spedro-b1724-19
+21: bap$spedro-b1724-20
+36: bap$spedro-b1725-1
+57: bap$spedro-b1725-2
+71: bap$spedro-b1725-3
+88: bap$spedro-b1725-4
+114: bap$spedro-b1725-5
+131: bap$spedro-b1725-6
+155: bap$spedro-b1725-7
+175: bap$spedro-b1725-8
+192: bap$spedro-b1725-9
+217: bap$spedro-b1725-10
+234: bap$spedro-b1725-11
+255: bap$spedro-b1725-12
+275: bap$spedro-b1725-13
+295: bap$spedro-b1725-14
+309: bap$spedro-b1725-15
+326: bap$spedro-b1725-16
+340: bap$spedro-b1725-17
+357: bap$spedro-b1725-18
+383: bap$spedro-b1725-19
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1724-1725.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1724-1725.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1724-1725.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1724-1725.ids
+0  errors. 
+1  warnings.
+Groups in this file:[procurador-pad1,referido,referida,rel,procurador-mad1,mad1,pad1,pn,mn,ls,n,bap,fonte,kleio]
+Translation finished.

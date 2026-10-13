@@ -1,0 +1,107 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1698-1700.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1698-1700
+
+WARNING: SJ-1698-1700.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1698-1700 Id: sjoao-baptismos1698-1700.
+Near lines: 3 
+Near lines: 4       bap$b1698-1/2/3/1698/fl.12./igreja de sao joao/ (prior)/obs= assina o padre matias de oliveira(padre economo)
+
+6: bap$sjoao-b1698-1
+31: bap$sjoao-b1698-2
+48: bap$sjoao-b1698-3
+68: bap$sjoao-b1698-4
+85: bap$sjoao-b1698-5
+102: bap$sjoao-b1698-6
+122: bap$sjoao-b1698-7
+142: bap$sjoao-b1698-8
+159: bap$sjoao-b1698-9
+179: bap$sjoao-b1698-10
+197: bap$sjoao-b1698-11
+214: bap$sjoao-b1698-12
+237: bap$sjoao-b1698-13
+254: bap$sjoao-b1698-14
+271: bap$sjoao-b1698-15
+296: bap$sjoao-b1698-16
+312: bap$sjoao-b1698-17
+329: bap$sjoao-b1698-18
+347: bap$sjoao-b1698-19
+365: bap$sjoao-b1698-20
+382: bap$sjoao-b1698-21
+401: bap$sjoao-b1699-22
+425: bap$sjoao-b1699-23
+445: bap$sjoao-b1699-24
+461: bap$sjoao-b1699-25
+476: bap$sjoao-b1699-26
+491: bap$sjoao-b1699-27
+509: bap$sjoao-b1699-28
+525: bap$sjoao-b1699-29
+542: bap$sjoao-b1699-30
+563: bap$sjoao-b1699-31
+586: bap$sjoao-b1699-32
+604: bap$sjoao-b1699-33
+625: bap$sjoao-b1699-34
+644: bap$sjoao-b1699-35
+661: bap$sjoao-b1699-36
+687: bap$sjoao-b1699-37
+708: bap$sjoao-b1699-38
+729: bap$sjoao-b1699-39
+753: bap$sjoao-b1699-40
+770: bap$sjoao-b1699-41
+787: bap$sjoao-b1699-42
+803: bap$sjoao-b1700-43
+821: bap$sjoao-b1700-44
+847: bap$sjoao-b1700-45
+874: bap$sjoao-b1700-46
+894: bap$sjoao-b1700-47
+919: bap$sjoao-b1700-48
+939: bap$sjoao-b1700-49
+965: bap$sjoao-b1700-50
+985: bap$sjoao-b1700-51
+1003: bap$sjoao-b1700-52
+1021: bap$sjoao-b1700-53
+1039: bap$sjoao-b1700-54
+1057: bap$sjoao-b1700-55
+1076: bap$sjoao-b1700-56
+1096: bap$sjoao-b1700-57
+1113: bap$sjoao-b1700-58
+1131: bap$sjoao-b1700-58a
+1150: bap$sjoao-b1700-59
+1165: bap$sjoao-b1700-60
+1185: bap$sjoao-b1700-61
+1204: bap$sjoao-b1700-62
+1230: bap$sjoao-b1700-63
+1247: bap$sjoao-b1700-64
+1263: bap$sjoao-b1700-65
+1280: bap$sjoao-b1700-66
+1296: bap$sjoao-b1700-67
+1312: bap$sjoao-b1700-68
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1698-1700.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1698-1700.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1698-1700.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1698-1700.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mpad,ppad,mmad,pmad,rel,referido,mrmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

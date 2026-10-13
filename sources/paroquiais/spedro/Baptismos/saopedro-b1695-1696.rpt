@@ -1,0 +1,69 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-31
+
+Processing data file saopedro-b1695-1696.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1695-1696
+
+WARNING: saopedro-b1695-1696.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1695-1696 Id: spedro-baptismos1695-1696.
+Near lines: 3 
+Near lines: 4       bap$b1695-1/31/1/1695/fl.119/igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
+
+6: bap$spedro-b1695-1
+25: bap$spedro-b1695-2
+47: bap$spedro-b1695-3
+66: bap$spedro-b1695-4
+80: bap$spedro-b1695-5
+92: bap$spedro-b1695-6
+118: bap$spedro-b1695-6a
+145: bap$spedro-b1695-7
+160: bap$spedro-b1695-8
+174: bap$spedro-b1695-9
+187: bap$spedro-b1695-10
+201: bap$spedro-b1695-11
+218: bap$spedro-b1695-12
+233: bap$spedro-b1695-13
+253: bap$spedro-b1695-14
+269: bap$spedro-b1695-15
+284: bap$spedro-b1695-16
+301: bap$spedro-b1695-17
+312: bap$spedro-b1695-18
+327: bap$spedro-b1695-19
+347: bap$spedro-b1696-1
+362: bap$spedro-b1696-2
+374: bap$spedro-b1696-3
+386: bap$spedro-b1696-4
+404: bap$spedro-b1696-5
+414: bap$spedro-b1696-6
+428: bap$spedro-b1696-7
+443: bap$spedro-b1696-8
+456: bap$spedro-b1696-9
+470: bap$spedro-b1696-10
+488: bap$spedro-b1696-11
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1695-1696.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1695-1696.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1695-1696.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1695-1696.ids
+0  errors. 
+1  warnings.
+Groups in this file:[procurador-pad1,procurador-mad1,referida,referido,rel,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

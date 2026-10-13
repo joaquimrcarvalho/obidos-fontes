@@ -1,0 +1,136 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file notarial1705.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$not1705
+
+WARNING: notarial1705.cli line 3 * Warning: Filename should match source Id to avoid errors. File: notarial1705 Id: not1705.
+Near lines: 3 
+Near lines: 4       escritura$not1705-e1/3/1/1705/dinheiro a juro/fol=34v.-36/loc=obidos, nas casas de morada do tabeliao/sumario=escritura de 60000 a razao de juro que da isabel maria baptista do lugar de almoster a manuel pinto e sua filha e genro das caldas
+
+6: escritura$not1705-e1
+57: escritura$not1705-e2
+86: escritura$not1705-e3
+109: escritura$not1705-e3a
+158: escritura$not1705-e4
+194: escritura$not1705-e5
+222: escritura$not1705-e6
+288: escritura$not1705-e7
+334: escritura$not1705-e8
+375: escritura$not1705-e9
+
+WARNING: notarial1705.cli line 392 Element value exceeds database field length: name=morgado constituido por 2 pedacos de terra varzea divididos por uma rigueira que levam 10 alqueires de semeadura pouco mais ou menos. Size:132 limit: 64
+Near lines: 392          aforamento$morgado constituido por 2 pedacos de terra varzea divididos por uma rigueira que levam 10 alqueires de semeadura pouco mais ou menos
+Near lines: 393             atr$confrontacoes/partem do norte com a fazenda do foreiro e com o rio real; do sul com estrada publica; do nascente com fazenda do conde de vila verde
+
+406: escritura$not1705-e10
+433: escritura$not1705-e11
+472: escritura$not1705-e12
+
+WARNING: notarial1705.cli line 471 Element value exceeds database field length: tipo=escritura de desistencia e nomeacao. Size:35 limit: 32
+Near lines: 471 
+Near lines: 472          foreira$ana gomes/id=1705-ana
+
+499: escritura$not1705-e13
+522: escritura$not1705-e14
+540: escritura$not1705-15
+
+WARNING: notarial1705.cli line 556 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 556          test$antonio gomes/m/mesmo_que=not1705-e16-test/id=not1705-15-per4
+Near lines: 557             ls$alcunha/mil homens%mil homeis
+
+571: escritura$not1705-e16
+607: escritura$not1705-e17
+629: escritura$not1705-e18
+655: escritura$not1705-e19
+697: escritura$not1705-e20
+740: escritura$not1705-e21
+767: escritura$not1705-e22
+789: escritura$not1705-e23
+808: escritura$not1705-e24
+
+WARNING: notarial1705.cli line 831 Element value exceeds database field length: name=todos os seus bens que presentemente tinha como os que adquirisse posteriormente, quer moveis quer imoveis. Size:106 limit: 64
+Near lines: 831 
+Near lines: 832          test$antonio lopes ferreira/m/id=not1705-e24-per5
+
+844: escritura$not1705-e25
+873: escritura$not1705-e26
+
+WARNING: notarial1705.cli line 883 Element value exceeds database field length: name=as maiorias de uma sesmaria, composta por pomares e mato, de que era obrigado a pagar em cada ano 7 alqueires de trigo de foro a retro aberto por uma escritura de trespasse que o dito manuel da silva rego havia comprado e assim mais o juro de outros trinta mil reis que ele aceitante tinha tomado a razao de juro. Size:312 limit: 64
+Near lines: 883 
+Near lines: 884          test$domingos da silva/m/id=not1705-e26-per3
+
+898: escritura$not1705-e27
+925: escritura$not1705-e28
+
+WARNING: notarial1705.cli line 945 Element value exceeds database field length: name=um prazo constituido por uma terra e arneiro com vinha, arvores de fruto e mato tudo "mistico junto ao logo da bolla". Size:117 limit: 64
+Near lines: 945          bem$um prazo constituido por uma terra e arneiro com vinha, arvores de fruto e mato tudo "mistico junto ao logo da bolla"/obs=o senhorio do prazo era o doutor manuel ferreira botelho e sua mulher dona clara isabel maria
+Near lines: 946             atr$localizacao/arelho, junto ao lugar da bola
+
+965: escritura$not1705-e29
+988: escritura$not1705-e30
+1014: escritura$not1705-e31
+1047: escritura$not1705-e32
+1086: escritura$not1705-e33
+1113: escritura$not1705-e34
+1144: escritura$not1705-e35
+1172: escritura$not1705-e36
+1213: escritura$not1705-e36a
+1259: escritura$not1705-e37
+
+WARNING: notarial1705.cli line 1270 Element value exceeds database field length: name=um casal foreiro a malta, que consta de casas terreas, terras e mais fazenda se que se pagam tercas. Size:99 limit: 64
+Near lines: 1270          bem$um casal foreiro a malta, que consta de casas terreas, terras e mais fazenda se que se pagam tercas
+Near lines: 1271             atr$localizacao/nos casais do pinhal, limite da vila de obidos
+
+1294: escritura$not1705-e38
+1314: escritura$not1705-e39
+
+WARNING: notarial1705.cli line 1324 Element value exceeds database field length: name=um serrado de terra com uma laranjeira entre outras arvores de fruto e sem fruto. Size:80 limit: 64
+Near lines: 1324          bem$um serrado de terra com uma laranjeira entre outras arvores de fruto e sem fruto
+Near lines: 1325             atr$localizacao/no limite do lugar das antunas da serra do bouro
+
+1339: escritura$not1705-e40
+1382: escritura$not1705-e42
+
+WARNING: notarial1705.cli line 1406 Element value exceeds database field length: name=um assentamento de casas com quintal que foram de joao ferreira coutinho e antonio da silva monteiro sergerro e morador em lisboa com todas as benfeitorias que lhe fez. Size:167 limit: 64
+Near lines: 1406          bem$um assentamento de casas com quintal que foram de joao ferreira coutinho e antonio da silva monteiro sergerro e morador em lisboa com todas as benfeitorias que lhe fez
+Near lines: 1407             atr$localizacao/no arrabalde de obidos, de fora do postigo
+
+1440: escritura$not1705-e43
+1472: escritura$not1705-e44
+1504: escritura$not1705-e45
+
+WARNING: notarial1705.cli line 1503 Element value exceeds database field length: loc=carvalhal, termo de obidos, nas casas de morada de antonio henriques. Size:68 limit: 64
+Near lines: 1503 
+Near lines: 1504          comprador$antonio henriques da silva/id=not1705-e45-comprador
+
+*** End of File
+
+Line 1383 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (not1705-e41-outorgante) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1392 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (not1705-e41-outorg) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/notariais/joao ferreira serra/notarial1705.cli
+Original file: /kleio-home/sources/notariais/joao ferreira serra/notarial1705.org
+Previous version: /kleio-home/sources/notariais/joao ferreira serra/notarial1705.old
+Temp file with ids: /kleio-home/sources/notariais/joao ferreira serra/notarial1705.ids
+0  errors. 
+11  warnings.
+Groups in this file:[dotado,vendedora,outorgante,pai,dotada,dotante,constituintef,rendeiro,senhorio,bem,comprador,vendedor,aforamento,marido,foreira,foreiro,referida,senhoria,mulher,constituinte,test,atr,garantia,divida,devedor,rel,referido,ls,credor,escritura,fonte,kleio]
+Translation finished.

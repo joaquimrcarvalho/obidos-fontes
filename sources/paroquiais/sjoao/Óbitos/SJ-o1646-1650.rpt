@@ -1,0 +1,82 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1646-1650.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1646-1650
+
+WARNING: SJ-o1646-1650.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1646-1650 Id: sjoao-obitos1646-1650.
+Near lines: 3 
+Near lines: 4       obito$o1646-1/28/1/1646/fl.111/jeronimo de matos
+
+6: obito$sjoao-o1646-1
+15: obito$sjoao-o1646-2
+26: obito$sjoao-o1646-3
+35: obito$sjoao-o1646-4
+49: obito$sjoao-o1646-5
+60: obito$sjoao-o1646-6
+72: obito$sjoao-o1646-7
+80: obito$sjoao-o1646-8
+90: obito$sjoao-o1647-1
+102: obito$sjoao-o1647-2
+109: obito$sjoao-o1647-3
+121: obito$sjoao-o1647-4
+130: obito$sjoao-o1647-5
+142: obito$sjoao-o1647-6
+151: obito$sjoao-o1648-1
+161: obito$sjoao-o1648-2
+171: obito$sjoao-o1648-3
+180: obito$sjoao-o1648-4
+192: obito$sjoao-o1648-5
+207: obito$sjoao-o1648-6
+214: obito$sjoao-o1648-7
+224: obito$sjoao-o1648-8
+234: obito$sjoao-o1649-1
+242: obito$sjoao-o1649-2
+250: obito$sjoao-o1649-3
+262: obito$sjoao-o1649-4
+270: obito$sjoao-o1649-5
+279: obito$sjoao-o1649-6
+291: obito$sjoao-o1649-7
+301: obito$sjoao-o1649-8
+310: obito$sjoao-o1649-9
+319: obito$sjoao-o1649-10
+328: obito$sjoao-o1649-11
+337: obito$sjoao-o1649-12
+344: obito$sjoao-o1649-13
+353: obito$sjoao-o1650-1
+363: obito$sjoao-o1650-2
+370: obito$sjoao-o1650-3
+384: obito$sjoao-o1650-4
+392: obito$sjoao-o1650-5
+399: obito$sjoao-o1650-6
+409: obito$sjoao-o1650-7
+421: obito$sjoao-o1650-8
+433: obito$sjoao-o1650-9
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1646-1650.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1646-1650.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1646-1650.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1646-1650.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pai,sacr,marido,oficios,locs,testamento,ls,n,obito,fonte,kleio]
+Translation finished.

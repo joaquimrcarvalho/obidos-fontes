@@ -1,0 +1,227 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 15-11
+
+Processing data file santamaria-1766-1770.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1766-1770
+
+WARNING: santamaria-1766-1770.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1766-1770 Id: stmaria-baptismos1766-1770.
+Near lines: 3 
+Near lines: 4       bap$b1766-1/26/1/1766/fl.123/igreja de santa maria/isidoro coelho de sampaio (padre da igreja de santa maria de obidos)/obs=assina o paroco isidoro coelho de sampaio
+
+
+WARNING: santamaria-1766-1770.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1766-1/26/1/1766/fl.123/igreja de santa maria/isidoro coelho de sampaio (padre da igreja de santa maria de obidos)/obs=assina o paroco isidoro coelho de sampaio
+
+6: bap$stmaria-b1766-1
+35: bap$stmaria-b1766-2
+68: bap$stmaria-b1766-3
+103: bap$stmaria-b1766-4
+138: bap$stmaria-b1766-5
+171: bap$stmaria-b1766-6
+207: bap$stmaria-b1766-6a
+242: bap$stmaria-b1766-7
+271: bap$stmaria-b1766-8
+309: bap$stmaria-b1766-9
+339: bap$stmaria-b1766-10
+363: bap$stmaria-b1766-11
+394: bap$stmaria-b1766-12
+412: bap$stmaria-b1766-13
+436: bap$stmaria-b1766-14
+456: bap$stmaria-b1766-15
+480: bap$stmaria-b1766-16
+503: bap$stmaria-b1766-17
+534: bap$stmaria-b1766-18
+558: bap$stmaria-b1766-19
+582: bap$stmaria-b1766-20
+606: bap$stmaria-b1766-21
+626: bap$stmaria-b1766-22
+659: bap$stmaria-b1766-23
+683: bap$stmaria-b1766-24
+703: bap$stmaria-b1766-25
+734: bap$stmaria-b1766-26
+754: bap$stmaria-b1767-1
+775: bap$stmaria-b1767-2
+799: bap$stmaria-b1767-3
+831: bap$stmaria-b1767-4
+865: bap$stmaria-b1767-5
+888: bap$stmaria-b1767-6
+917: bap$stmaria-b1767-7
+937: bap$stmaria-b1767-8
+960: bap$stmaria-b1767-9
+984: bap$stmaria-b1767-10
+1008: bap$stmaria-b1767-11
+1032: bap$stmaria-b1767-12
+1055: bap$stmaria-b1767-13
+1079: bap$stmaria-b1767-14
+1112: bap$stmaria-b1767-15
+1143: bap$stmaria-b1767-16
+1173: bap$stmaria-b1767-17
+1203: bap$stmaria-b1767-18
+1229: bap$stmaria-b1767-19
+1264: bap$stmaria-b1767-20
+1288: bap$stmaria-b1767-21
+1317: bap$stmaria-b1767-22
+1352: bap$stmaria-b1767-23
+1376: bap$stmaria-b1767-24
+1402: bap$stmaria-b1767-25
+1426: bap$stmaria-b1767-26
+1450: bap$stmaria-b1767-27
+1471: bap$stmaria-b1767-28
+1492: bap$stmaria-b1767-29
+1522: bap$stmaria-b1767-30
+1546: bap$stmaria-b1767-31
+1576: bap$stmaria-b1767-32
+1608: bap$stmaria-b1767-33
+1632: bap$stmaria-b1767-34
+1655: bap$stmaria-b1767-35
+1694: bap$stmaria-b1767-36
+1717: bap$stmaria-b1767-37
+1744: bap$stmaria-b1767-38
+1768: bap$stmaria-b1767-39
+1791: bap$stmaria-b1767-40
+1821: bap$stmaria-b1767-41
+1841: bap$stmaria-b1768-1
+1881: bap$stmaria-b1768-2
+1904: bap$stmaria-b1768-3
+1932: bap$stmaria-b1768-4
+1956: bap$stmaria-b1768-5
+1998: bap$stmaria-b1768-6
+2032: bap$stmaria-b1768-7
+2071: bap$stmaria-b1768-8
+2102: bap$stmaria-b1768-9
+2136: bap$stmaria-b1768-10
+2172: bap$stmaria-b1768-11
+2202: bap$stmaria-b1768-12
+2240: bap$stmaria-b1768-13
+2269: bap$stmaria-b1768-14
+2301: bap$stmaria-b1768-15
+2332: bap$stmaria-b1768-16
+2367: bap$stmaria-b1768-17
+2399: bap$stmaria-b1768-18
+2430: bap$stmaria-b1768-19
+2459: bap$stmaria-b1768-20
+2489: bap$stmaria-b1768-21
+2512: bap$stmaria-b1768-22
+2533: bap$stmaria-b1768-23
+2566: bap$stmaria-b1768-24
+2596: bap$stmaria-b1768-25
+2630: bap$stmaria-b1768-26
+2668: bap$stmaria-b1768-27
+2696: bap$stmaria-b1769-1
+2734: bap$stmaria-b1769-2
+
+WARNING: santamaria-1766-1770.cli line 2759 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 2759          mpad$antonia maria/mesmo_que=b1769-2-mad/id=b1769-2-per9
+Near lines: 2760             ls$residencia/casal das canastras
+
+2767: bap$stmaria-b1769-3
+2798: bap$stmaria-b1769-4
+2814: bap$stmaria-b1769-5
+2830: bap$stmaria-b1769-6
+2851: bap$stmaria-b1769-7
+2879: bap$stmaria-b1769-8
+2926: bap$stmaria-b1769-9
+2953: bap$stmaria-b1769-10
+2991: bap$stmaria-b1769-11
+3022: bap$stmaria-b1769-12
+3057: bap$stmaria-b1769-13
+3090: bap$stmaria-b1769-14
+3114: bap$stmaria-b1769-15
+3138: bap$stmaria-b1751-100
+3166: bap$stmaria-b1769-16
+3190: bap$stmaria-b1769-17
+3213: bap$stmaria-b1769-18
+3246: bap$stmaria-b1769-19
+3269: bap$stmaria-b1769-20
+3294: bap$stmaria-b1769-21
+3331: bap$stmaria-b1769-22
+3355: bap$stmaria-b1769-23
+3388: bap$stmaria-b1769-24
+3412: bap$stmaria-b1769-25
+3439: bap$stmaria-b1769-26
+3464: bap$stmaria-b1769-27
+3488: bap$stmaria-b1769-28
+3512: bap$stmaria-b1769-29
+3546: bap$stmaria-b1769-30
+3566: bap$stmaria-b1769-31
+3591: bap$stmaria-b1769-32
+3617: bap$stmaria-b1769-33
+3641: bap$stmaria-b1769-34
+3667: bap$stmaria-b1769-35
+3702: bap$stmaria-b1769-36
+3726: bap$stmaria-b1769-37
+3751: bap$stmaria-b1769-38
+3780: bap$stmaria-b1769-39
+3813: bap$stmaria-b1769-40
+3839: bap$stmaria-b1769-41
+3865: bap$stmaria-b1769-42
+3891: bap$stmaria-b1769-43
+3921: bap$stmaria-b1769-44
+3947: bap$stmaria-b1769-45
+3970: bap$stmaria-b1769-46
+3999: bap$stmaria-b1769-47
+4027: bap$stmaria-b1769-48
+4059: bap$stmaria-b1769-49
+4088: bap$stmaria-b1769-50
+4121: bap$stmaria-b1770-1
+4162: bap$stmaria-b1770-2
+4186: bap$stmaria-b1770-3
+4209: bap$stmaria-b1770-4
+4231: bap$stmaria-b1770-5
+4258: bap$stmaria-b1770-6
+4282: bap$stmaria-b1770-7
+4302: bap$stmaria-b1770-8
+4328: bap$stmaria-b1770-9
+4356: bap$stmaria-b1770-10
+4388: bap$stmaria-b1770-11
+4412: bap$stmaria-b1770-12
+4436: bap$stmaria-b1770-13
+4460: bap$stmaria-b1770-14
+4487: bap$stmaria-b1770-15
+4515: bap$stmaria-b1770-16
+4547: bap$stmaria-b1770-17
+4576: bap$stmaria-b1770-18
+4600: bap$stmaria-b1770-19
+4625: bap$stmaria-b1770-20
+4655: bap$stmaria-b1770-21
+4688: bap$stmaria-b1770-22
+4712: bap$stmaria-b1770-23
+4736: bap$stmaria-b1770-24
+4762: bap$stmaria-b1770-25
+4788: bap$stmaria-b1770-26
+4813: bap$stmaria-b1770-27
+4837: bap$stmaria-b1770-28
+4861: bap$stmaria-b1770-29
+4885: bap$stmaria-b1770-30
+4935: bap$stmaria-b1770-31
+4966: bap$stmaria-b1770-32
+4986: bap$stmaria-b1770-33
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1766-1770.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1766-1770.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1766-1770.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1766-1770.ids
+0  errors. 
+3  warnings.
+Groups in this file:[mpad,procurador-pad,ppad,referida,pmad,referido,rel,procurador-mad,mrmad,mad,pad,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

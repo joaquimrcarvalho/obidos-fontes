@@ -1,0 +1,79 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-29
+
+Processing data file saopedro-o1775-1776.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-obitos1775-1776
+
+WARNING: saopedro-o1775-1776.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-o1775-1776 Id: spedro-obitos1775-1776.
+Near lines: 3 
+Near lines: 4       obito$o1775-1/15/1/1775/fl.34v./carlos jose da serra (cura)
+
+6: obito$spedro-o1775-1
+20: obito$spedro-o1775-2
+34: obito$spedro-o1775-3
+48: obito$spedro-o1775-4
+65: obito$spedro-o1775-5
+77: obito$spedro-o1775-6
+95: obito$spedro-o1775-7
+115: obito$spedro-o1775-8
+135: obito$spedro-o1775-9
+147: obito$spedro-o1775-10
+160: obito$spedro-o1775-11
+173: obito$spedro-o1775-12
+186: obito$spedro-o1775-13
+197: obito$spedro-o1775-14
+211: obito$spedro-o1775-15
+225: obito$spedro-o1775-16
+239: obito$spedro-o1775-17
+254: obito$spedro-o1775-18
+267: obito$spedro-o1775-19
+287: obito$spedro-o1775-20
+302: obito$spedro-o1775-21
+315: obito$spedro-o1775-22
+335: obito$spedro-o1775-23
+349: obito$spedro-o1775-24
+363: obito$spedro-o1775-25
+379: obito$spedro-o1775-26
+397: obito$spedro-o1776-1
+412: obito$spedro-o1776-2
+426: obito$spedro-o1776-3
+437: obito$spedro-o1776-4
+449: obito$spedro-o1776-5
+468: obito$spedro-o1776-6
+484: obito$spedro-o1776-7
+498: obito$spedro-o1776-8
+517: obito$spedro-o1776-9
+532: obito$spedro-o1776-10
+545: obito$spedro-o1776-11
+558: obito$spedro-o1776-12
+567: obito$spedro-o1776-13
+587: obito$spedro-o1776-14
+601: obito$spedro-o1776-15
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1775-1776.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1775-1776.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1775-1776.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1775-1776.ids
+0  errors. 
+1  warnings.
+Groups in this file:[testamento,locf,marido,oficios,causa,mulher,sacr,referido,rel,referida,mae,pai,locs,ls,n,obito,fonte,kleio]
+Translation finished.

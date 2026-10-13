@@ -1,0 +1,49 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1778-1780.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1778-1780
+
+WARNING: santamaria-c1778-1780.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1778-1780 Id: stmaria-casamentos1778-1780.
+Near lines: 3 
+Near lines: 4       cas$c1778-6/14/12/1778/fl.1/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+6: cas$stmaria-c1778-6
+35: cas$stmaria-c1778-7
+70: cas$stmaria-c1779-1
+99: cas$stmaria-c1779-2
+130: cas$stmaria-c1779-3
+178: cas$stmaria-c1779-4
+213: cas$stmaria-c1779-5
+244: cas$stmaria-c1780-1
+287: cas$stmaria-c1780-2
+321: cas$stmaria-c1780-3
+352: cas$stmaria-c1780-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1778-1780.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1778-1780.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1778-1780.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1778-1780.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,rel,mnoivo,pnoivo,test,mnoiva,pnoiva,noiva,mulher1,ls,noivo,cas,fonte,kleio]
+Translation finished.

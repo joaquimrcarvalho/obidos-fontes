@@ -1,0 +1,87 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1651-1655.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1651-1655
+
+WARNING: SJ-o1651-1655.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1651-1655 Id: sjoao-obitos1651-1655.
+Near lines: 3 
+Near lines: 4       obito$o1651-1/19/1/1651/fl.113v./francisco de sousa (vigario de sao joao)
+
+6: obito$sjoao-o1651-1
+16: obito$sjoao-o1651-2
+
+WARNING: SJ-o1651-1655.cli line 27 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 27          referido$antonio fernandes/mesmo_que=o1651-3-n/id=o1651-2-per3
+Near lines: 28             ls$residencia/arelho
+
+
+WARNING: SJ-o1651-1655.cli line 30 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 30          referido$matias vicente/mesmo_que=o1651-4-n/id=o1651-2-per4
+Near lines: 31             ls$residencia/arelho
+
+
+WARNING: SJ-o1651-1655.cli line 34 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 34 
+Near lines: 35       obito$o1651-3/31/1/1651/fl.113v./francisco de sousa (vigario de sao joao)
+
+37: obito$sjoao-o1651-3
+50: obito$sjoao-o1651-4
+65: obito$sjoao-o1651-5
+79: obito$sjoao-o1651-6
+94: obito$sjoao-o1651-7
+109: obito$sjoao-o1651-8
+121: obito$sjoao-o1651-9
+135: obito$sjoao-o1651-10
+149: obito$sjoao-o1652-1
+163: obito$sjoao-o1652-2
+176: obito$sjoao-o1652-3
+194: obito$sjoao-o1652-4
+206: obito$sjoao-o1652-5
+218: obito$sjoao-o1652-6
+234: obito$sjoao-o1653-1
+248: obito$sjoao-o1653-2
+262: obito$sjoao-o1653-3
+276: obito$sjoao-o1653-4
+290: obito$sjoao-o1653-5
+303: obito$sjoao-o1653-6
+315: obito$sjoao-o1653-7
+328: obito$sjoao-o1653-8
+342: obito$sjoao-o1653-9
+355: obito$sjoao-o1653-10
+368: obito$sjoao-o1653-11
+379: obito$sjoao-o1654-1
+391: obito$sjoao-o1654-2
+408: obito$sjoao-o1655-1
+422: obito$sjoao-o1655-2
+434: obito$sjoao-o1655-3
+448: obito$sjoao-o1655-4
+462: obito$sjoao-o1655-5
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1651-1655.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1651-1655.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1651-1655.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1651-1655.ids
+0  errors. 
+4  warnings.
+Groups in this file:[marido,locf,mae,rel,oficios,referido,pai,locs,causa,mulher,testamento,ls,n,obito,fonte,kleio]
+Translation finished.

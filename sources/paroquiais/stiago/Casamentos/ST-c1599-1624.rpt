@@ -1,0 +1,80 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-22
+
+Processing data file ST-c1599-1624.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-casamentos1599-1624
+
+WARNING: ST-c1599-1624.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-c1599-1624 Id: stiago-casamentos1599-1624.
+Near lines: 3 
+Near lines: 4       cas$c1599-1/31/12/1599/fl.46./igreja de sao tiago/dom fernando de menezes (prior)/obs=assina dom fernando de menezes nao se referem testemunhas assina dom fernando de menezes nao se referem testemunhas
+
+6: cas$stiago-c1599-1
+14: cas$stiago-c1600-2
+36: cas$stiago-c1600-3
+49: cas$stiago-c1601-4
+61: cas$stiago-c1601-4d
+67: cas$stiago-c1601-4c
+79: cas$stiago-c1601-5
+92: cas$stiago-c1601-6
+110: cas$stiago-c1601-7
+130: cas$stiago-c1606-8
+142: cas$stiago-c1607-9
+160: cas$stiago-c1607-10
+169: cas$stiago-c1607-11
+179: cas$stiago-c1607-12
+191: cas$stiago-c1608-13
+203: cas$stiago-c1609-14
+215: cas$stiago-c1609-15
+223: cas$stiago-c1610-16
+241: cas$stiago-c1610-17
+254: cas$stiago-c1611-18
+262: cas$stiago-c1611-19
+275: cas$stiago-c1611-20
+290: cas$stiago-c1611-21
+302: cas$stiago-c1612-22
+312: cas$stiago-c1617-23
+322: cas$stiago-c1617-24
+332: cas$stiago-c1617-25
+345: cas$stiago-c1614-26
+356: cas$stiago-c1614-27
+366: cas$stiago-c1616-28
+379: cas$stiago-c1616-29
+393: cas$stiago-c1616-30
+402: cas$stiago-c1616-31
+413: cas$stiago-c1617-32
+431: cas$stiago-c1617-33
+443: cas$stiago-c1617-34
+457: cas$stiago-c1622-35
+468: cas$stiago-c1624-36
+480: cas$stiago-c1624-37
+498: cas$stiago-c1624-38
+515: cas$stiago-c1618-39
+528: cas$stiago-c1618-40
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1599-1624.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1599-1624.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1599-1624.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1599-1624.ids
+0  errors. 
+1  warnings.
+Groups in this file:[rel,referido,test,mnoiva,pnoiva,mnoivo,ls,noiva,pnoivo,noivo,cas,fonte,kleio]
+Translation finished.

@@ -1,0 +1,82 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file SJ-cas1727-1732.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-casamentos1727-1734
+
+WARNING: SJ-cas1727-1732.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-cas1727-1732 Id: sjoao-casamentos1727-1734.
+Near lines: 3 
+Near lines: 4       cas$c1727-1/5/2/1727/fl.49/igreja de sao joao/braz antunes correia (prior)/obs= assina braz antunes correia
+
+6: cas$sjoao-c1727-1
+31: cas$sjoao-c1727-2
+53: cas$sjoao-c1727-3
+77: cas$sjoao-c1727-4
+100: cas$sjoao-c1727-5
+128: cas$sjoao-c1727-6
+151: cas$sjoao-c1727-7
+176: cas$sjoao-c1728-8
+196: cas$sjoao-c1728-9
+218: cas$sjoao-c1728-10
+242: cas$sjoao-c1728-11
+262: cas$sjoao-c1728-12
+285: cas$sjoao-c1729-13
+309: cas$sjoao-c1729-14
+337: cas$sjoao-c1729-15
+361: cas$sjoao-c1729-16
+387: cas$sjoao-c1729-17
+409: cas$sjoao-c1729-18
+430: cas$sjoao-c1730-19
+456: cas$sjoao-c1730-20
+479: cas$sjoao-c1730-21
+501: cas$sjoao-c1730-22
+526: cas$sjoao-c1731-23
+552: cas$sjoao-c1731-24
+576: cas$sjoao-c1731-25
+601: cas$sjoao-c1731-26
+634: cas$sjoao-c1731-27
+665: cas$sjoao-c1731-28
+695: cas$sjoao-c1732-29
+720: cas$sjoao-c1732-30
+745: cas$sjoao-c1732-31
+772: cas$sjoao-c1732-32
+794: cas$sjoao-c1732-33
+817: cas$sjoao-c1732-34
+845: cas$sjoao-c1732-35
+870: cas$sjoao-c1732-36
+893: cas$sjoao-c1732-37
+*** End of File
+
+Line 27 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1724-39-mat) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 51 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1724-39-mat) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 75 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1724-39-mat) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 98 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1724-39-mat) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 191 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1724-39-mat) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 213 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1724-39-mat) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 260 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1724-39-mat) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1727-1732.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1727-1732.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1727-1732.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1727-1732.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referida,rel,referido,mulher1,marido1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

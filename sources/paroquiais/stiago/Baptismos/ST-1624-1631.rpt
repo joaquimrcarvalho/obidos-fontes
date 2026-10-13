@@ -1,0 +1,138 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-18
+
+Processing data file ST-1624-1631.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1624-1631
+
+WARNING: ST-1624-1631.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1624-1631 Id: stiago-baptismos 1624-1631.
+Near lines: 3 
+Near lines: 4       bap$b1624-1/21/8/1624/fl.2./igreja de sao tiago/ (vigario)/obs=assina padre joao pedroso (cura)
+
+6: bap$stiago-b1624-1
+19: bap$stiago-b1624-2a
+30: bap$stiago-b1624-3a
+44: bap$stiago-b1624-4
+58: bap$stiago-b1624-5
+71: bap$stiago-b1625-6a
+88: bap$stiago-b1625-7a
+101: bap$stiago-b1625-8a
+116: bap$stiago-b1625-9a
+128: bap$stiago-b1625-10a
+144: bap$stiago-b1625-11a
+159: bap$stiago-b1625-12a
+174: bap$stiago-b1625-13a
+189: bap$stiago-b1625-14a
+205: bap$stiago-b1625-15a
+222: bap$stiago-b1625-16a
+233: bap$stiago-b1625-17a
+246: bap$stiago-b1625-18a
+261: bap$stiago-b1625-19a
+276: bap$stiago-b1626-20a
+291: bap$stiago-b1626-21a
+306: bap$stiago-b1626-22a
+322: bap$stiago-b1626-23a
+337: bap$stiago-b1626-24a
+352: bap$stiago-b1626-25a
+370: bap$stiago-b1626-26
+381: bap$stiago-b1626-27a
+396: bap$stiago-b1626-28a
+411: bap$stiago-b1626-29a
+424: bap$stiago-b1626-30a
+439: bap$stiago-b1626-31
+453: bap$stiago-b1627-32
+466: bap$stiago-b1627-33
+480: bap$stiago-b1627-34
+495: bap$stiago-b1627-35
+511: bap$stiago-b1627-36
+526: bap$stiago-b1627-37
+539: bap$stiago-b1627-38
+556: bap$stiago-b1627-39
+573: bap$stiago-b1627-40
+591: bap$stiago-b1627-41
+606: bap$stiago-b1627-42
+621: bap$stiago-b1627-43
+639: bap$stiago-b1627-44
+654: bap$stiago-b1627-45
+669: bap$stiago-b1627-46
+684: bap$stiago-b1627-47
+697: bap$stiago-b1627-48
+710: bap$stiago-b1627-49
+723: bap$stiago-b1627-50
+739: bap$stiago-b1627-51
+757: bap$stiago-b1628-52
+773: bap$stiago-b1628-53
+790: bap$stiago-b1628-54
+810: bap$stiago-b1628-55
+824: bap$stiago-b1628-56
+841: bap$stiago-b1628-57
+857: bap$stiago-b1628-58
+874: bap$stiago-b1628-59
+887: bap$stiago-b1628-60
+903: bap$stiago-b1628-61
+915: bap$stiago-b1628-62
+927: bap$stiago-b1628-63
+941: bap$stiago-b1628-64
+953: bap$stiago-b1628-65
+968: bap$stiago-b1628-66
+983: bap$stiago-b1628-67
+996: bap$stiago-b1629-68
+1012: bap$stiago-b1629-69
+1025: bap$stiago-b1629-70
+1038: bap$stiago-b1629-71
+1053: bap$stiago-b1629-72
+1066: bap$stiago-b1629-73
+1082: bap$stiago-b1629-74
+1099: bap$stiago-b1629-75
+1114: bap$stiago-b1629-76
+1128: bap$stiago-b1629-77
+1142: bap$stiago-b1629-78
+1156: bap$stiago-b1629-79
+1175: bap$stiago-b1629-80
+1187: bap$stiago-b1629-81
+1205: bap$stiago-b1630-82
+1221: bap$stiago-b1630-83
+1238: bap$stiago-b1630-84
+1256: bap$stiago-b1630-85
+1269: bap$stiago-b1630-86
+1287: bap$stiago-b1630-87
+1303: bap$stiago-b1630-88
+1319: bap$stiago-b1630-89
+1334: bap$stiago-b1630-90
+1350: bap$stiago-b1630-91
+1363: bap$stiago-b1630-92
+1380: bap$stiago-b1630-93
+1397: bap$stiago-b1630-94
+1414: bap$stiago-b1631-95
+1426: bap$stiago-b1631-96
+1442: bap$stiago-b1631-97
+1457: bap$stiago-b1631-98
+1472: bap$stiago-b1631-99
+1485: bap$stiago-b1631-100
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1624-1631.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1624-1631.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1624-1631.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1624-1631.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mmad,pad2,mrmad,rel,pmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

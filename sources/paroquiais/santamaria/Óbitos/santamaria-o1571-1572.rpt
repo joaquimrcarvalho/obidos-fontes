@@ -1,0 +1,63 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-o1571-1572.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1571-1572
+
+WARNING: santamaria-o1571-1572.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1571-1572 Id: stmaria-obitos1571-1572.
+Near lines: 3 
+Near lines: 4       obito$o1571-1/17/2/1571/fl.79
+
+6: obito$stmaria-o1571-1
+17: obito$stmaria-o1571-2
+31: obito$stmaria-o1571-3
+44: obito$stmaria-o1571-4
+56: obito$stmaria-o1571-5
+66: obito$stmaria-o1571-6
+77: obito$stmaria-o1571-7
+87: obito$stmaria-o1571-8
+98: obito$stmaria-o1571-9
+106: obito$stmaria-o1571-10
+121: obito$stmaria-o1571-11
+132: obito$stmaria-o1571-12
+144: obito$stmaria-o1571-13
+154: obito$stmaria-o1571-14
+165: obito$stmaria-o1572-1
+179: obito$stmaria-o1572-2
+191: obito$stmaria-o1572-3
+200: obito$stmaria-o1572-4
+214: obito$stmaria-o1572-5
+225: obito$stmaria-o1572-6
+235: obito$stmaria-o1572-7
+243: obito$stmaria-o1572-8
+250: obito$stmaria-o1572-9
+263: obito$stmaria-o1572-10
+275: obito$stmaria-o1572-11
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1571-1572.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1571-1572.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1571-1572.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1571-1572.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referida,locf,mae,pai,causa,marido,oficios,testamento,locs,sacr,referido,rel,ls,n,obito,fonte,kleio]
+Translation finished.

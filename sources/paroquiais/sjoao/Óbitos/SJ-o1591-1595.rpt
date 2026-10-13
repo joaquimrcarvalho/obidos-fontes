@@ -1,0 +1,49 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-14
+
+Processing data file SJ-o1591-1595.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1591-1595
+
+WARNING: SJ-o1591-1595.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1591-1595 Id: sjoao-obitos1591-1595.
+Near lines: 3 
+Near lines: 4       obito$o1591-1/12/1/1591/fl.62/nome desconhecido
+
+6: obito$sjoao-o1591-1
+12: obito$sjoao-o1591-2
+22: obito$sjoao-o1591-3
+31: obito$sjoao-o1591-4
+38: obito$sjoao-o1592-1
+48: obito$sjoao-o1592-2
+56: obito$sjoao-o1593-1
+65: obito$sjoao-o1593-2
+74: obito$sjoao-o1593-3
+84: obito$sjoao-o1593-4
+94: obito$sjoao-o1595-1
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1591-1595.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1591-1595.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1591-1595.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1591-1595.ids
+0  errors. 
+1  warnings.
+Groups in this file:[testamento,marido,ls,locs,n,obito,fonte,kleio]
+Translation finished.

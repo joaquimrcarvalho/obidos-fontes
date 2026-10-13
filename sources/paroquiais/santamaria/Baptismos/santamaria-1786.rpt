@@ -1,0 +1,62 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 15-14
+
+Processing data file santamaria-1786.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1786
+
+WARNING: santamaria-1786.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1786 Id: stmaria-baptismos1786.
+Near lines: 3 
+Near lines: 4       bap$b1786-1/12/1/1786/fl.278/igreja de santa maria/joao carlos da silva
+
+6: bap$stmaria-b1786-1
+30: bap$stmaria-b1786-2
+53: bap$stmaria-b1786-3
+79: bap$stmaria-1786-4
+104: bap$stmaria-1786-5
+131: bap$stmaria-1786-6
+153: bap$stmaria-1786-7
+173: bap$stmaria-1786-8
+196: bap$stmaria-1786-9
+216: bap$stmaria-1786-10
+234: bap$stmaria-1786-11
+256: bap$stmaria-1786-12
+276: bap$stmaria-1786-13
+296: bap$stmaria-1786-14
+322: bap$stmaria-1786-15
+345: bap$stmaria-1786-16
+365: bap$stmaria-1786-17
+389: bap$stmaria-1786-18
+413: bap$stmaria-1786-19
+440: bap$stmaria-1786-20
+464: bap$stmaria-1786-21
+489: bap$stmaria-1786-22
+513: bap$stmaria-1786-23
+542: bap$stmaria-1786-24
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1786.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1786.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1786.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1786.ids
+0  errors. 
+1  warnings.
+Groups in this file:[procurador-pad,referida,referido,rel,procurador-mad,mad,pad,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

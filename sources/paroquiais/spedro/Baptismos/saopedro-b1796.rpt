@@ -1,0 +1,68 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-34
+
+Processing data file saopedro-b1796.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1796
+
+WARNING: saopedro-b1796.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1796 Id: spedro-baptismos1796.
+Near lines: 3 
+Near lines: 4       bap$b1796-1/10/1/1796/fl.80v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
+
+6: bap$spedro-b1796-1
+47: bap$spedro-b1796-2
+72: bap$spedro-b1796-3
+100: bap$spedro-b1796-4
+128: bap$spedro-b1796-5
+161: bap$spedro-b1796-6
+201: bap$spedro-b1796-7
+250: bap$spedro-b1796-8
+278: bap$spedro-b1796-9
+302: bap$spedro-b1796-10
+322: bap$spedro-b1796-11
+354: bap$spedro-b1796-12
+384: bap$spedro-b1796-13
+408: bap$spedro-b1796-14
+451: bap$spedro-b1796-15
+487: bap$spedro-b1796-16
+528: bap$spedro-b1796-17
+548: bap$spedro-b1796-18
+584: bap$spedro-b1796-19
+623: bap$spedro-b1796-20
+653: bap$spedro-b1796-21
+702: bap$spedro-b1796-22
+735: bap$spedro-b1796-23
+775: bap$spedro-b1796-24
+802: bap$spedro-b1796-25
+850: bap$spedro-b1796-26
+889: bap$spedro-b1796-27
+918: bap$spedro-b1796-28
+937: bap$spedro-b1796-29
+962: bap$spedro-b1796-30
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1796.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1796.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1796.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1796.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mrmad1,procurador-pad1,procuradora-mad1,referida,rel,referido,procurador-mad1,mad1,pad1,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

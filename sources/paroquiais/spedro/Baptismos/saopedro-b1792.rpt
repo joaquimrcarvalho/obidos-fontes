@@ -1,0 +1,74 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-34
+
+Processing data file saopedro-b1792.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1792
+
+WARNING: saopedro-b1792.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1792 Id: spedro-baptismos1792.
+Near lines: 3 
+Near lines: 4       bap$b1792-1/13/2/1792/fl.51/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
+
+6: bap$spedro-b1792-1
+55: bap$spedro-b1792-2
+108: bap$spedro-b1792-3
+133: bap$spedro-b1792-4
+
+WARNING: saopedro-b1792.cli line 153 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 153          procurador-mad1$jose garcia/mesmo_que=b1792-4-pmad/id=b1792-4-per6
+Near lines: 154             ls$residencia/obidos
+
+161: bap$spedro-b1792-5
+193: bap$spedro-b1792-6
+216: bap$spedro-b1792-7
+236: bap$spedro-b1791-100
+286: bap$spedro-b1792-8
+325: bap$spedro-b1792-9
+346: bap$spedro-b1792-10
+376: bap$spedro-b1792-11
+414: bap$spedro-b1792-12
+452: bap$spedro-b1792-13
+490: bap$spedro-b1792-14
+538: bap$spedro-b1792-15
+560: bap$spedro-b1792-16
+581: bap$spedro-b1792-17
+621: bap$spedro-b1792-18
+668: bap$spedro-b1792-19
+697: bap$spedro-b1792-20
+722: bap$spedro-b1792-21
+743: bap$spedro-b1792-20a
+783: bap$spedro-b1792-21a
+825: bap$spedro-b1792-22
+865: bap$spedro-b1792-23
+909: bap$spedro-b1792-23a
+932: bap$spedro-b1792-24
+960: bap$spedro-b1792-25
+982: bap$spedro-b1792-26
+1021: bap$spedro-b1792-27
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1792.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1792.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1792.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1792.ids
+0  errors. 
+2  warnings.
+Groups in this file:[mmad1,pad2,procurador-pad1,referido,mrmad1,referida,rel,procurador-mad1,pmad1,mad1,pad1,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,57 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1791-1795.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1791-1795
+
+WARNING: santamaria-c1791-1795.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1791-1795 Id: stmaria-casamentos1791-1795.
+Near lines: 3 
+Near lines: 4       cas$c1791-1/14/2/1791/fl.26/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva. o casamento realizou-se numa segunda-feira pelas 8 horas e meia da manha
+
+6: cas$stmaria-c1791-1
+36: cas$stmaria-c1791-2
+68: cas$stmaria-c1792-1
+100: cas$stmaria-c1792-2
+132: cas$stmaria-c1792-3
+163: cas$stmaria-c1792-4
+196: cas$stmaria-c1793-1
+229: cas$stmaria-c1793-2
+256: cas$stmaria-c1793-3
+289: cas$stmaria-c1794-1
+326: cas$stmaria-c1794-2
+363: cas$stmaria-c1794-3
+392: cas$stmaria-c1794-4
+430: cas$stmaria-c1794-5
+457: cas$stmaria-c1795-1
+498: cas$stmaria-c1795-2
+532: cas$stmaria-c1795-3
+563: cas$stmaria-c1795-4
+596: cas$stmaria-c1795-5
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1791-1795.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1791-1795.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1791-1795.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1791-1795.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,mulher1,marido1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

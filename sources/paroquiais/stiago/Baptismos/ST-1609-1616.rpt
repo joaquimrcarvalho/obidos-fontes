@@ -1,0 +1,146 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file ST-1609-1616.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1609-1616
+
+WARNING: ST-1609-1616.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1609-1616 Id: stiago-baptismos 1609-1616.
+Near lines: 3 
+Near lines: 4       bap$b1609-1/25/8/1609/fl.21v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
+
+6: bap$stiago-b1609-1
+20: bap$stiago-b1609-2
+35: bap$stiago-b1609-3
+50: bap$stiago-b1609-4
+62: bap$stiago-b1609-5
+77: bap$stiago-b1609-6
+90: bap$stiago-b1609-7
+103: bap$stiago-b1609-8
+116: bap$stiago-b1609-9
+129: bap$stiago-b1610-10
+144: bap$stiago-b1610-11
+158: bap$stiago-b1610-12
+174: bap$stiago-b1610-13
+190: bap$stiago-b1610-14
+202: bap$stiago-b1610-15
+214: bap$stiago-b1610-16
+228: bap$stiago-b1610-17
+239: bap$stiago-b1610-18
+255: bap$stiago-b1610-19
+270: bap$stiago-b1610-20
+284: bap$stiago-b1611-21n
+299: bap$stiago-b1611-22n
+313: bap$stiago-b1611-23n
+327: bap$stiago-b1611-24n
+340: bap$stiago-b1611-25n
+352: bap$stiago-b1611-26n
+367: bap$stiago-b1611-27
+382: bap$stiago-b1611-28
+396: bap$stiago-b1611-29
+409: bap$stiago-b1611-30
+425: bap$stiago-b1611-31
+437: bap$stiago-b1611-32
+452: bap$stiago-b1611-33
+467: bap$stiago-b1612-34
+481: bap$stiago-b1612-35
+496: bap$stiago-b1612-36
+509: bap$stiago-b1612-37
+524: bap$stiago-b1612-38
+539: bap$stiago-b1612-39
+552: bap$stiago-b1612-40
+566: bap$stiago-b1612-41
+582: bap$stiago-b1612-42
+598: bap$stiago-b1612-43
+613: bap$stiago-b1612-44
+628: bap$stiago-b1612-45
+642: bap$stiago-b1612-46
+656: bap$stiago-b1612-47
+671: bap$stiago-b1612-48
+684: bap$stiago-b1612-49
+697: bap$stiago-b1612-50
+710: bap$stiago-b1612-51
+724: bap$stiago-b1613-52
+736: bap$stiago-b1613-53
+751: bap$stiago-b1613-54
+767: bap$stiago-b1613-55
+782: bap$stiago-b1613-56
+798: bap$stiago-b1613-57
+812: bap$stiago-b1613-58
+827: bap$stiago-b1613-59
+842: bap$stiago-b1613-60
+857: bap$stiago-b1613-61
+873: bap$stiago-b1613-62
+886: bap$stiago-b1613-63
+901: bap$stiago-b1613-64
+915: bap$stiago-b1613-65
+929: bap$stiago-b1614-66
+944: bap$stiago-b1614-67
+959: bap$stiago-b1614-68
+971: bap$stiago-b1614-69
+986: bap$stiago-b1614-70
+999: bap$stiago-b1614-71
+1012: bap$stiago-b1614-72
+1026: bap$stiago-b1614-73
+1040: bap$stiago-b1614-74
+1054: bap$stiago-b1614-75
+1069: bap$stiago-b1614-76
+1082: bap$stiago-b1614-77
+1094: bap$stiago-b1614-78
+1109: bap$stiago-b1615-80
+1122: bap$stiago-b1615-81
+1137: bap$stiago-b1615-82
+1151: bap$stiago-b1615-83
+1166: bap$stiago-b1615-84
+1180: bap$stiago-b1615-85
+1195: bap$stiago-b1615-86
+1210: bap$stiago-b1615-87
+1225: bap$stiago-b1615-88
+1239: bap$stiago-b1615-89
+1254: bap$stiago-b1615-90
+1269: bap$stiago-b1615-91
+1283: bap$stiago-b1615-92
+1298: bap$stiago-b1615-105
+1312: bap$stiago-b1615-93
+1326: bap$stiago-b1615-94
+1340: bap$stiago-b1615-95
+1355: bap$stiago-b1616-96
+1366: bap$stiago-b1616-97
+1382: bap$stiago-b1616-98
+1396: bap$stiago-b1616-99
+1410: bap$stiago-b1616-100
+1424: bap$stiago-b1616-101
+1439: bap$stiago-b1616-102
+1454: bap$stiago-b1616-103
+1468: bap$stiago-b1616-104
+*** End of File
+
+Line 162 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1606-69-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 166 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1606-69-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 586 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1602-32-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 590 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1602-32-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1609-1616.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1609-1616.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1609-1616.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1609-1616.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pmad,rel,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

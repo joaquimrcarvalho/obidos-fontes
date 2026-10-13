@@ -1,0 +1,77 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-11
+
+Processing data file SJ-1744-1745.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1744-1744
+
+WARNING: SJ-1744-1745.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1744-1745 Id: sjoao-baptismos1744-1744.
+Near lines: 3 
+Near lines: 4       bap$b1744-1/5/1/1744/fl.87v./igreja de sao joao/ (prior)/obs= assina o padre braz antunes correia (prior)
+
+6: bap$sjoao-b1744-1
+20: bap$sjoao-b1744-2
+38: bap$sjoao-b1744-3
+53: bap$sjoao-b1744-4
+70: bap$sjoao-b1744-5
+89: bap$sjoao-b1744-6
+106: bap$sjoao-b1744-7
+127: bap$sjoao-b1744-8
+147: bap$sjoao-b1744-9
+166: bap$sjoao-b1744-10
+183: bap$sjoao-b1744-11
+204: bap$sjoao-b1744-12
+223: bap$sjoao-b1744-13
+243: bap$sjoao-b1744-14
+264: bap$sjoao-b1744-15
+285: bap$sjoao-b1744-16
+305: bap$sjoao-b1744-17
+322: bap$sjoao-b1744-18
+341: bap$sjoao-b1744-19
+360: bap$sjoao-b1744-20
+377: bap$sjoao-b1744-21
+394: bap$sjoao-b1744-22
+413: bap$sjoao-b1744-23
+429: bap$sjoao-b1744-24
+446: bap$sjoao-b1744-25
+461: bap$sjoao-b1744-26
+480: bap$sjoao-b1744-27
+503: bap$sjoao-b1744-28
+519: bap$sjoao-b1744-29
+536: bap$sjoao-b1744-30
+555: bap$sjoao-b1744-31
+574: bap$sjoao-b1744-32
+591: bap$sjoao-b1744-33
+607: bap$sjoao-b1744-34
+626: bap$sjoao-b1744-35
+647: bap$sjoao-b1744-36
+663: bap$sjoao-b1744-37
+680: bap$sjoao-b1744-38
+697: bap$sjoao-b1744-39
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1744-1745.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1744-1745.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1744-1745.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1744-1745.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mpad,mrmad,mmad,rel,referido,pmad,ppad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

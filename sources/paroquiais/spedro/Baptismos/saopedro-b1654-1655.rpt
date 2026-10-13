@@ -1,0 +1,63 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-30
+
+Processing data file saopedro-b1654-1655.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1654-1655
+
+WARNING: saopedro-b1654-1655.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1654-1655 Id: spedro-baptismos1654-1655.
+Near lines: 3 
+Near lines: 4       bap$b1654-1/8/4/1654/fl.3/igreja de sao pedro/francisco figueira (padre, economo da igreja de santa maria)/obs=assina inacio henriques
+
+6: bap$spedro-b1654-1
+22: bap$spedro-b1654-2
+39: bap$spedro-b1654-3
+57: bap$spedro-b1654-4
+73: bap$spedro-b1654-5
+89: bap$spedro-b1654-6
+105: bap$spedro-b1654-7
+123: bap$spedro-b1654-8
+141: bap$spedro-b1654-9
+157: bap$spedro-b1654-10
+179: bap$spedro-b1654-11
+194: bap$spedro-b1655-1
+210: bap$spedro-b1655-2
+226: bap$spedro-b1655-3
+240: bap$spedro-b1655-4
+256: bap$spedro-b1655-5
+268: bap$spedro-b1655-6
+279: bap$spedro-b1655-7
+291: bap$spedro-b1655-8
+304: bap$spedro-b1655-9
+312: bap$spedro-b1655-10
+328: bap$spedro-b1655-11
+344: bap$spedro-b1655-12
+355: bap$spedro-b1655-13
+369: bap$spedro-b1655-14
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1654-1655.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1654-1655.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1654-1655.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1654-1655.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,rel,pad2,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

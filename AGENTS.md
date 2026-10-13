@@ -30,10 +30,11 @@ marker file in the root identifies the directory.
 * **Do not delete or rename `.timelink-project`.** `find_local_kleio_home()`
   and the `timelink` CLI detect this directory by that marker; without it,
   detection falls back to fragile heuristics.
-* **Never commit generated files.** Databases, backups and Kleio translation
-  byproducts (`*.err`, `*.ids`, `*.org`, `*.old`, `*.cli-renamed`, `*.rpt`,
-  `*.rep`, `*.files.json`, `strs/`) are covered by `.gitignore`; do not
-  force-add them.
+* **Keep generated files out of commits by default.** Databases, backups and
+  Kleio byproducts (`*.ids`, `*.org`, `*.old`, `*.cli-renamed`, `*.rep`,
+  `strs/`) remain ignored. Translation outputs (`*.err`, `*.xml`, `*.rpt`,
+  `*.files.json`) are intentionally trackable and may be committed when
+  updating translation results.
 * **Kleio sources are transcriptions.** Files in `sources/` are scholarly
   work, and each file is copyright of its transcriber. Never rewrite them
   mechanically; content changes go through the researcher. Validate

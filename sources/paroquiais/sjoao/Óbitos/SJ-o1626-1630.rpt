@@ -1,0 +1,60 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1626-1630.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1626-1630
+
+WARNING: SJ-o1626-1630.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1626-1630 Id: sjoao-obitos1626-1630.
+Near lines: 3 
+Near lines: 4       obito$o1626-1/2/1/1626/fl.102v./nome desconhecido
+
+6: obito$sjoao-o1626-1
+13: obito$sjoao-o1627-1
+20: obito$sjoao-o1627-2
+26: obito$sjoao-o1627-3
+33: obito$sjoao-o1627-4
+41: obito$sjoao-o1627-5
+51: obito$sjoao-o1628-1
+61: obito$sjoao-o1628-2
+67: obito$sjoao-o1628-3
+76: obito$sjoao-o1628-4
+82: obito$sjoao-o1628-5
+94: obito$sjoao-o1628-6
+104: obito$sjoao-o1628-7
+113: obito$sjoao-o1628-8
+125: obito$sjoao-o1628-9
+133: obito$sjoao-o1629-1
+143: obito$sjoao-o1629-2
+153: obito$sjoao-o1629-3
+163: obito$sjoao-o1630-1
+173: obito$sjoao-o1630-2
+180: obito$sjoao-o1630-3
+187: obito$sjoao-o1630-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1626-1630.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1626-1630.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1626-1630.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1626-1630.ids
+0  errors. 
+1  warnings.
+Groups in this file:[oficios,rel,referido,locf,marido,locs,ls,n,obito,fonte,kleio]
+Translation finished.

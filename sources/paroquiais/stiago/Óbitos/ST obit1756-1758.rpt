@@ -1,0 +1,86 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-18
+
+Processing data file ST obit1756-1758.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-obitos1756-1758
+
+WARNING: ST obit1756-1758.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST obit1756-1758 Id: stiago-obitos1756-1758.
+Near lines: 3 
+Near lines: 4       obito$o1756-1/10/3/1756/fl.29/ francisco de matos (cura)
+
+6: obito$stiago-o1756-1
+22: obito$stiago-o1756-2
+36: obito$stiago-o1756-3
+50: obito$stiago-o1756-4
+64: obito$stiago-o1756-5
+79: obito$stiago-o1756-6
+94: obito$stiago-o1756-7
+110: obito$stiago-o1756-8
+125: obito$stiago-o1756-9
+141: obito$stiago-o1756-10
+156: obito$stiago-o1756-11
+171: obito$stiago-o1756-12
+187: obito$stiago-o1756-13
+202: obito$stiago-o1756-14
+218: obito$stiago-o1756-15
+234: obito$stiago-o1757-16
+251: obito$stiago-o1757-17
+266: obito$stiago-o1757-18
+282: obito$stiago-o1757-19
+299: obito$stiago-o1757-20
+314: obito$stiago-o1757-21
+329: obito$stiago-o1757-22
+342: obito$stiago-o1757-23
+358: obito$stiago-o1757-24
+370: obito$stiago-o1757-25
+388: obito$stiago-o1757-26
+403: obito$stiago-o1758-27
+417: obito$stiago-o1758-28
+438: obito$stiago-o1758-29
+453: obito$stiago-o1758-30
+466: obito$stiago-o1758-31
+478: obito$stiago-o1758-32
+493: obito$stiago-o1758-33
+506: obito$stiago-o1758-34
+522: obito$stiago-o1758-35
+536: obito$stiago-o1758-36
+551: obito$stiago-o1758-37
+566: obito$stiago-o1758-38
+581: obito$stiago-o1758-39
+594: obito$stiago-o1758-40
+607: obito$stiago-o1758-41
+623: obito$stiago-o1758-42
+639: obito$stiago-o1758-43
+655: obito$stiago-o1758-44
+670: obito$stiago-o1758-45
+688: obito$stiago-o1758-46
+703: obito$stiago-o1758-47
+718: obito$stiago-o1758-48
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Óbitos/ST obit1756-1758.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Óbitos/ST obit1756-1758.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Óbitos/ST obit1756-1758.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Óbitos/ST obit1756-1758.ids
+0  errors. 
+1  warnings.
+Groups in this file:[locf,referido,rel,referida,oficios,causa,marido,mulher,locs,testamento,sacr,mae,pai,ls,n,obito,fonte,kleio]
+Translation finished.

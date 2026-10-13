@@ -1,0 +1,78 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-26
+
+Processing data file santamaria-1785.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-bap1785
+
+WARNING: santamaria-1785.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1785 Id: stmaria-bap1785.
+Near lines: 3 
+Near lines: 4       bap$b1785-1/22/8/1785/fl.275v/igreja de santa maria/joao carlos da silva
+
+6: bap$stmaria-b1785-1
+24: bap$stmaria-b1785-2
+53: bap$stmaria-b1785-3
+78: bap$stmaria-b1785-4
+99: bap$stmaria-b1785-5
+123: bap$stmaria-b1785-6
+152: bap$stmaria-b1785-7
+175: bap$stmaria-b1785-8
+198: bap$stmaria-b1785-9
+219: bap$stmaria-b1785-10
+245: bap$stmaria-b1785-11
+266: bap$stmaria-b1785-12
+289: bap$stmaria-b1785-13
+307: bap$stmaria-b1785-14
+325: bap$stmaria-b1785-15
+351: bap$stmaria-b1785-17
+370: bap$stmaria-b1785-18
+397: bap$stmaria-b1785-19
+414: bap$stmaria-b1785-20
+437: bap$stmaria-b1785-21
+460: bap$stmaria-b1785-22
+478: bap$stmaria-b1785-23
+498: bap$stmaria-b1785-24
+517: bap$stmaria-b1785-25
+533: bap$stmaria-b1785-26
+
+WARNING: santamaria-1785.cli line 544 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 544          pad$francisco rodrigues/mesmo_que=b1785-25-f/id=b1785-26-per3
+Near lines: 545             rel$parentesco/tio/mariana/b1785-26-n
+
+550: bap$stmaria-b1785-27
+572: bap$stmaria-b1785-28
+590: bap$stmaria-b1785-29
+608: bap$stmaria-b1785-30
+630: bap$stmaria-b1785-31
+645: bap$stmaria-b1785-32
+663: bap$stmaria-785-33
+683: bap$stmaria-1785-34
+*** End of File
+
+ERROR: santamaria-1785.cli line 544  Could not find same_as id stmaria-b1785-25-f. If  original reference is on another file use xsame_as
+Near lines: 544 Near lines: 545 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1785.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1785.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1785.old
+1  errors. 
+2  warnings.
+Groups in this file:[procurador-pad,referida,procurador-mad,mad,referido,rel,pad,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

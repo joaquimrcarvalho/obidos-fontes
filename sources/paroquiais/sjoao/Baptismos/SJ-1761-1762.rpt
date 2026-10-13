@@ -1,0 +1,113 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-11
+
+Processing data file SJ-1761-1762.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1761-1762
+
+WARNING: SJ-1761-1762.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1761-1762 Id: sjoao-baptismos1761-1762.
+Near lines: 3 
+Near lines: 4       bap$b1761-1/6/1/1761/fl.89v/igreja de sao joao/ (vigario)/obs= assina o padre braz antunes correia (prior)
+
+6: bap$sjoao-b1761-1
+24: bap$sjoao-b1761-2
+45: bap$sjoao-b1761-3
+65: bap$sjoao-b1761-4
+
+WARNING: SJ-1761-1762.cli line 73 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 73          pad$francisco antunes/mesmo_que=b1761-3-trasouteiro/id=b1761-4-per4
+Near lines: 74             ls$residencia/tras do outeiro
+
+86: bap$sjoao-b1761-5
+98: bap$sjoao-b1761-6
+117: bap$sjoao-b1761-7
+139: bap$sjoao-b1761-8
+154: bap$sjoao-b1761-9
+169: bap$sjoao-b1761-10
+181: bap$sjoao-b1761-11
+194: bap$sjoao-b1761-12
+213: bap$sjoao-b1761-13
+232: bap$sjoao-b1761-14
+247: bap$sjoao-b1761-15
+262: bap$sjoao-b1761-16
+280: bap$sjoao-b1761-17
+295: bap$sjoao-b1761-18
+315: bap$sjoao-b1761-19
+332: bap$sjoao-b1761-20
+350: bap$sjoao-b1761-21
+371: bap$sjoao-b1761-22
+393: bap$sjoao-b1761-23
+408: bap$sjoao-b1761-24
+423: bap$sjoao-b1761-25
+442: bap$sjoao-b1761-26
+460: bap$sjoao-b1761-27
+482: bap$sjoao-b1761-28
+504: bap$sjoao-b1761-29
+524: bap$sjoao-b1761-30
+542: bap$sjoao-b1761-31
+560: bap$sjoao-b1762-32
+577: bap$sjoao-b1762-33
+595: bap$sjoao-b1762-34
+612: bap$sjoao-b1762-35
+634: bap$sjoao-b1762-36
+652: bap$sjoao-b1762-37
+669: bap$sjoao-b1762-38
+684: bap$sjoao-b1762-39
+705: bap$sjoao-b1762-40
+720: bap$sjoao-b1762-41
+738: bap$sjoao-b1762-42
+753: bap$sjoao-b1762-43
+769: bap$sjoao-b1762-44
+783: bap$sjoao-b1762-45
+798: bap$sjoao-b1762-46
+815: bap$sjoao-b1762-47
+836: bap$sjoao-b1762-48
+853: bap$sjoao-b1762-49
+868: bap$sjoao-b1762-50
+883: bap$sjoao-b1762-51
+898: bap$sjoao-b1762-52
+919: bap$sjoao-b1762-53
+934: bap$sjoao-b1762-54
+952: bap$sjoao-b1762-55
+973: bap$sjoao-b1762-56
+994: bap$sjoao-b1762-57
+1012: bap$sjoao-b1762-58
+1033: bap$sjoao-b1762-59
+1047: bap$sjoao-b1762-60
+1064: bap$sjoao-b1762-61
+1087: bap$sjoao-b1762-62
+1102: bap$sjoao-b1762-63
+1118: bap$sjoao-b1762-64
+1137: bap$sjoao-b1762-65
+1157: bap$sjoao-b1762-66
+1175: bap$sjoao-b1762-67
+1187: bap$sjoao-b1762-68
+*** End of File
+
+ERROR: SJ-1761-1762.cli line 73  Could not find same_as id sjoao-b1761-3-trasouteiro. If  original reference is on another file use xsame_as
+Near lines: 73 Near lines: 74 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1761-1762.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1761-1762.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1761-1762.old
+1  errors. 
+2  warnings.
+Groups in this file:[mmn,pmn,ppad,referido,mmad,pmad,procurador-mad,procurador-pad,mrmad,mad,rel,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

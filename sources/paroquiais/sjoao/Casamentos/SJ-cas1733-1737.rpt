@@ -1,0 +1,78 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-13
+
+Processing data file SJ-cas1733-1737.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-casamentos1733-1737
+
+WARNING: SJ-cas1733-1737.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-cas1733-1737 Id: sjoao-casamentos1733-1737.
+Near lines: 3 
+Near lines: 4       cas$c1733-1/16/1/1733/fl.68/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento foi realizado de manha
+
+6: cas$sjoao-c1733-1
+37: cas$sjoao-c1733-2
+66: cas$sjoao-c1733-3
+97: cas$sjoao-c1733-4
+126: cas$sjoao-c1733-5
+156: cas$sjoao-c1733-6
+183: cas$sjoao-c1733-7
+213: cas$sjoao-c1733-8
+244: cas$sjoao-c1733-9
+272: cas$sjoao-c1733-10
+303: cas$sjoao-c1734-1
+339: cas$sjoao-c1734-2
+388: cas$sjoao-c1734-3
+417: cas$sjoao-c1734-4
+448: cas$sjoao-c1734-5
+483: cas$sjoao-c1734-6
+511: cas$sjoao-c1734-7
+542: cas$sjoao-c1734-8
+574: cas$sjoao-c1735-1
+604: cas$sjoao-c1735-2
+631: cas$sjoao-c1735-3
+660: cas$sjoao-c1735-4
+687: cas$sjoao-c1735-5
+717: cas$sjoao-c1735-6
+742: cas$sjoao-c1735-7
+775: cas$sjoao-c1736-1
+802: cas$sjoao-c1736-2
+833: cas$sjoao-c1736-3
+865: cas$sjoao-c1736-4
+900: cas$sjoao-c1736-5
+935: cas$sjoao-c1736-6
+967: cas$sjoao-c1736-7
+1000: cas$sjoao-c1736-8
+1031: cas$sjoao-c1736-9
+1059: cas$sjoao-c1736-10
+1086: cas$sjoao-c1737-1
+1124: cas$sjoao-c1737-2
+1157: cas$sjoao-c1737-3
+1190: cas$sjoao-c1737-4
+1222: cas$sjoao-c1737-5
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1733-1737.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1733-1737.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1733-1737.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1733-1737.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,marido1,mulher1,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

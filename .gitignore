@@ -28,15 +28,13 @@ database/backups/*
 .kleio.json
 
 # Kleio server translation byproducts
-*.err
+
 *.ids
 *.org
 *.old
 *.cli-renamed
-*.xml
-*.rpt
 *.rep
-*.files.json
+
 strs/
 
 # Legacy version control metadata (pre-git SVN working copies)

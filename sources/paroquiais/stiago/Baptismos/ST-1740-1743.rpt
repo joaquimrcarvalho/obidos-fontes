@@ -1,0 +1,84 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-20
+
+Processing data file ST-1740-1743.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1740-1747
+
+WARNING: ST-1740-1743.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1740-1743 Id: stiago-baptismos 1740-1747.
+Near lines: 3 
+Near lines: 4       bap$b1740-51/21/2/1740/fl.118./igreja de sao tiago/ (vigario)/obs=assina padre jose de matos (cura)
+
+6: bap$stiago-b1740-51
+22: bap$stiago-b1740-52
+41: bap$stiago-b1740-53
+60: bap$stiago-b1740-54
+78: bap$stiago-b1740-55
+96: bap$stiago-b1740-56
+114: bap$stiago-b1740-57
+134: bap$stiago-b1740-58
+149: bap$stiago-b1740-59
+165: bap$stiago-b1740-60
+180: bap$stiago-b1740-61
+200: bap$stiago-b1740-62
+224: bap$stiago-b1740-63
+241: bap$stiago-b1740-64
+
+WARNING: ST-1740-1743.cli line 254 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 254 
+Near lines: 255       bap$b1741-15/4/1/1741/fl.120./igreja de sao tiago/ (vigario)/obs=assina padre jose de matos (cura)
+
+257: bap$stiago-b1741-15
+277: bap$stiago-b1741-16
+293: bap$stiago-b1741-17
+311: bap$stiago-b1741-18
+327: bap$stiago-b1741-19
+344: bap$stiago-b1741-20
+362: bap$stiago-b1741-21
+383: bap$stiago-b1741-22
+399: bap$stiago-b1741-23
+414: bap$stiago-b1741-24
+430: bap$stiago-b1741-25
+445: bap$stiago-b1741-26
+461: bap$stiago-b1741-27
+484: bap$stiago-b1741-28
+509: bap$stiago-b1741-29
+527: bap$stiago-b1741-30
+547: bap$stiago-b1741-31
+565: bap$stiago-b1741-32
+581: bap$stiago-b1742-33
+601: bap$stiago-b1742-34
+619: bap$stiago-b1742-35
+638: bap$stiago-b1742-36
+654: bap$stiago-b1742-37
+672: bap$stiago-b1742-38
+689: bap$stiago-b1742-39
+*** End of File
+
+ERROR: ST-1740-1743.cli line 254  Could not find same_as id stiago-b1740-64-pad. If  original reference is on another file use xsame_as
+Near lines: 254 Near lines: 255 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1740-1743.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1740-1743.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1740-1743.old
+1  errors. 
+2  warnings.
+Groups in this file:[ppad,procurador-pad,mmad,pmad,mrmad,procurador-mad,mpad,rel,mad,pad,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,100 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-20
+
+Processing data file ST-1767-1769.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1767-1769
+
+WARNING: ST-1767-1769.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1767-1769 Id: stiago-baptismos 1767-1769.
+Near lines: 3 
+Near lines: 4       bap$b1767-1/24/2/1767/fl.22./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+6: bap$stiago-b1767-1
+23: bap$stiago-b1767-2
+42: bap$stiago-b1767-3
+62: bap$stiago-b1767-4
+77: bap$stiago-b1767-5
+97: bap$stiago-b1767-6
+115: bap$stiago-b1767-7
+
+WARNING: ST-1767-1769.cli line 128 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 128 
+Near lines: 129          mad$joana baptista/id=b1767-7-mad
+
+133: bap$stiago-b1767-8
+151: bap$stiago-b1767-9
+170: bap$stiago-b1767-10
+192: bap$stiago-b1767-11
+209: bap$stiago-b1767-12
+226: bap$stiago-b1767-13
+248: bap$stiago-b1767-14
+266: bap$stiago-b1767-15
+282: bap$stiago-b1767-16
+299: bap$stiago-b1768-17
+315: bap$stiago-b1768-18
+332: bap$stiago-b1768-19
+348: bap$stiago-b1768-20
+
+WARNING: ST-1767-1769.cli line 361 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 361 
+Near lines: 362          mad$felicia caetana/id=b1768-20-mad
+
+367: bap$stiago-b1768-21
+386: bap$stiago-b1768-22
+400: bap$stiago-b1768-23
+
+WARNING: ST-1767-1769.cli line 412 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 412 
+Near lines: 413          mad$mariana antonia/id=b1768-23-mariana
+
+418: bap$stiago-b1768-24
+439: bap$stiago-b1768-25
+459: bap$stiago-b1768-26
+478: bap$stiago-b1768-27
+495: bap$stiago-b1768-28
+518: bap$stiago-b1768-29
+534: bap$stiago-b1769-30
+553: bap$stiago-b1769-31
+577: bap$stiago-b1769-32
+592: bap$stiago-b1769-33
+612: bap$stiago-b1769-34
+631: bap$stiago-b1769-35
+648: bap$stiago-b1769-36
+673: bap$stiago-b1769-37
+688: bap$stiago-b1769-38
+706: bap$stiago-b1769-39
+721: bap$stiago-b1769-40
+734: bap$stiago-b1769-41
+751: bap$stiago-b1769-42
+771: bap$stiago-b1769-43
+786: bap$stiago-b1769-44
+800: bap$stiago-b1769-45
+*** End of File
+
+ERROR: ST-1767-1769.cli line 361  Could not find same_as id stiago-nb1768-20-mad. If  original reference is on another file use xsame_as
+Near lines: 361 Near lines: 362 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1767-1769.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1767-1769.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1767-1769.old
+1  errors. 
+4  warnings.
+Groups in this file:[procurador-mad,referido,mrmad,mpad,procurador-pad,rel,pmad,mad,ppad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

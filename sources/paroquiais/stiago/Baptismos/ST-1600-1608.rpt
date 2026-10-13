@@ -1,0 +1,142 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-18
+
+Processing data file ST-1600-1608.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1600-1608
+
+WARNING: ST-1600-1608.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1600-1608 Id: stiago-baptismos 1600-1608.
+Near lines: 3 
+Near lines: 4       bap$b1600-1/15/11/1600/fl.3./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
+
+6: bap$stiago-b1600-1
+21: bap$stiago-b1600-2
+35: bap$stiago-b1600-3
+53: bap$stiago-b1600-4
+68: bap$stiago-b1600-5
+83: bap$stiago-b1600-6
+99: bap$stiago-b1601-7
+111: bap$stiago-b1601-8
+125: bap$stiago-b1601-9
+137: bap$stiago-b1601-10
+149: bap$stiago-b1601-11
+161: bap$stiago-b1601-12
+173: bap$stiago-b1601-13
+186: bap$stiago-b1601-14
+200: bap$stiago-b1601-15
+214: bap$stiago-b1601-16
+226: bap$stiago-b1601-17
+240: bap$stiago-b1601-18
+252: bap$stiago-b1601-19
+267: bap$stiago-b1601-20
+282: bap$stiago-b1601-21
+298: bap$stiago-b1601-22
+310: bap$stiago-b1602-23
+322: bap$stiago-b1602-24
+336: bap$stiago-b1602-25
+348: bap$stiago-b1602-26
+360: bap$stiago-b1602-27
+376: bap$stiago-b1602-28
+391: bap$stiago-b1602-29
+409: bap$stiago-b1602-101
+422: bap$stiago-b1602-30
+435: bap$stiago-b1602-31
+450: bap$stiago-b1602-32
+465: bap$stiago-b1603-33
+479: bap$stiago-b1603-34
+495: bap$stiago-b1603-35
+507: bap$stiago-b1603-36
+519: bap$stiago-b1603-37
+533: bap$stiago-b1603-38
+545: bap$stiago-b1603-39
+558: bap$stiago-b1604-40
+572: bap$stiago-b1604-41
+585: bap$stiago-b1604-42
+597: bap$stiago-b1604-43
+612: bap$stiago-b1604-44
+626: bap$stiago-b1604-45
+641: bap$stiago-b1604-46
+656: bap$stiago-b1604-47
+670: bap$stiago-b1604-48
+683: bap$stiago-b1604-49
+697: bap$stiago-b1604-50
+709: bap$stiago-b1605-51
+722: bap$stiago-b1605-52
+736: bap$stiago-b1605-53
+750: bap$stiago-b1605-54
+765: bap$stiago-b1605-55
+781: bap$stiago-b1605-56
+793: bap$stiago-b1605-57
+808: bap$stiago-b1605-58
+819: bap$stiago-b1605-59
+832: bap$stiago-b1605-60
+845: bap$stiago-b1605-61
+857: bap$stiago-b1605-62
+871: bap$stiago-b1605-63
+887: bap$stiago-b1605-102
+902: bap$stiago-b1605-64
+914: bap$stiago-b1605-65
+927: bap$stiago-b1605-66
+939: bap$stiago-b1605-67
+953: bap$stiago-b1606-68
+965: bap$stiago-b1606-69
+979: bap$stiago-b1606-70
+996: bap$stiago-b1606-71
+1009: bap$stiago-b1606-72
+1021: bap$stiago-b1606-73
+1036: bap$stiago-b1606-74
+1048: bap$stiago-b1607-75
+1063: bap$stiago-b1607-76
+1078: bap$stiago-b1607-77
+1092: bap$stiago-b1607-78
+1106: bap$stiago-b1607-79
+1121: bap$stiago-b1607-80
+1135: bap$stiago-b1607-81
+1151: bap$stiago-b1608-82
+1167: bap$stiago-b1608-83
+1179: bap$stiago-b1608-84
+1196: bap$stiago-b1608-103
+1211: bap$stiago-b1608-85
+1226: bap$stiago-b1608-86
+1242: bap$stiago-b1608-87
+1257: bap$stiago-b1608-88
+1272: bap$stiago-b1608-89
+1288: bap$stiago-b1608-90
+1303: bap$stiago-b1608-91
+1318: bap$stiago-b1608-92
+1331: bap$stiago-b1608-93
+1346: bap$stiago-b1608-94
+1358: bap$stiago-b1608-95
+1374: bap$stiago-b1608-96
+1387: bap$stiago-b1608-97
+1402: bap$stiago-b1608-98
+1417: bap$stiago-b1608-99
+1429: bap$stiago-b1608-100
+1442: bap$stiago-b1608-104
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1600-1608.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1600-1608.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1600-1608.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1600-1608.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,mrmad,pmad,rel,pad2,ppad,mad,ls,pad,mn,pn,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,63 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-21
+
+Processing data file ST-1792-1795.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1792-1795
+
+WARNING: ST-1792-1795.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1792-1795 Id: stiago-baptismos 1792-1795.
+Near lines: 3 
+Near lines: 4       bap$b1792-1a/25/1/1792/fl.2./igreja de sao tiago/ (vigario)/obs=assina padre (cura)
+
+6: bap$stiago-b1792-1a
+20: bap$stiago-b1792-2b
+33: bap$stiago-b1793-3
+52: bap$stiago-b1793-4
+73: bap$stiago-b1793-5
+97: bap$stiago-b1793-6
+123: bap$stiago-b1793-7
+162: bap$stiago-b1793-8
+192: bap$stiago-b1793-9
+220: bap$stiago-b1793-10
+250: bap$stiago-b1793-11
+278: bap$stiago-b1793-12
+303: bap$stiago-b1793-13
+332: bap$stiago-b1793-14
+358: bap$stiago-b1794-15
+384: bap$stiago-b1794-16
+409: bap$stiago-b1794-17
+437: bap$stiago-b1794-18
+465: bap$stiago-b1794-19
+496: bap$stiago-b1794-20
+523: bap$stiago-b1794-21
+543: bap$stiago-b1794-22
+570: bap$stiago-b1794-23
+606: bap$stiago-b1794-24
+633: bap$stiago-b1794-25
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1792-1795.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1792-1795.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1792-1795.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1792-1795.ids
+0  errors. 
+1  warnings.
+Groups in this file:[procuradora-mad,mad2,rel,procurador-pad,mpn,procurador-mad,pmad,ppn,mmn,pmn,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,75 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-23
+
+Processing data file ST-c1793-1800.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-casamentos1793-1800
+
+WARNING: ST-c1793-1800.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-c1793-1800 Id: stiago-casamentos1793-1800.
+Near lines: 3 
+Near lines: 4       cas$c1793-1/6/2/1793/fl.27v./igreja de sao tiago/francisco craveiro da silva(cura)/obs=assina francisco craveiro da silva matoso (cura)
+
+6: cas$stiago-c1793-1
+27: cas$stiago-c1793-2
+48: cas$stiago-c1793-3
+69: cas$stiago-c1793-4
+91: cas$stiago-c1793-5
+114: cas$stiago-c1793-6
+135: cas$stiago-c1793-7
+157: cas$stiago-c1793-8
+182: cas$stiago-c1794-9
+202: cas$stiago-c1794-10
+224: cas$stiago-c1794-11
+245: cas$stiago-c1794-12
+267: cas$stiago-c1794-13
+288: cas$stiago-c1795-14
+310: cas$stiago-c1795-15
+334: cas$stiago-c1795-16
+359: cas$stiago-c1795-17
+386: cas$stiago-c1796-18
+415: cas$stiago-c1796-19
+433: cas$stiago-c1796-20
+456: cas$stiago-c1797-21
+479: cas$stiago-c1797-22
+503: cas$stiago-c1797-23
+526: cas$stiago-c1797-24
+552: cas$stiago-c1797-25
+578: cas$stiago-c1797-26
+604: cas$stiago-c1797-27
+627: cas$stiago-c1798-28
+654: cas$stiago-c1799-29
+678: cas$stiago-c1800-30
+709: cas$stiago-c1800-31
+733: cas$stiago-c1800-32
+756: cas$stiago-c1800-33
+785: cas$stiago-c1800-34
+812: cas$stiago-c1800-35
+835: cas$stiago-c1800-36
+860: cas$stiago-c1800-37
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1793-1800.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1793-1800.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1793-1800.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1793-1800.ids
+0  errors. 
+1  warnings.
+Groups in this file:[marido1,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

@@ -1,0 +1,75 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-28
+
+Processing data file saopedro-b1793.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1793
+
+WARNING: saopedro-b1793.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1793 Id: spedro-baptismos1793.
+Near lines: 3 
+Near lines: 4       bap$b1793-1/8/1/1793/fl.58/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
+
+6: bap$spedro-b1793-1
+44: bap$spedro-b1793-2
+86: bap$spedro-b1793-3
+112: bap$spedro-b1793-4
+129: bap$spedro-b1793-5
+162: bap$spedro-b1793-6
+202: bap$spedro-b1793-7
+237: bap$spedro-b1793-8
+275: bap$spedro-b1793-9
+304: bap$spedro-b1793-10
+340: bap$spedro-b1793-11
+360: bap$spedro-b1793-12
+403: bap$spedro-b1793-13
+435: bap$spedro-b1793-14
+468: bap$spedro-b1793-15
+507: bap$spedro-b1793-16
+544: bap$spedro-b1793-17
+584: bap$spedro-b1793-18
+611: bap$spedro-b1793-19
+650: bap$spedro-b1793-20
+676: bap$spedro-b1793-21
+710: bap$spedro-b1793-22
+733: bap$spedro-b1793-23
+758: bap$spedro-b1793-24
+794: bap$spedro-b1793-25
+837: bap$spedro-b1793-26
+857: bap$spedro-b1793-27
+878: bap$spedro-b1793-28
+
+WARNING: saopedro-b1793.cli line 885 Element value exceeds database field length: iddest=spedro-b1793-28-n jezus molher de thomas de aquino do arrebalde desta villa. Size:75 limit: 64
+Near lines: 885 
+Near lines: 886             referida$maria de jesus/id=b1793-28-referida
+
+906: bap$spedro-b1793-29
+941: bap$spedro-b1793-30
+982: bap$spedro-b1793-31
+1007: bap$spedro-b1793-32
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1793.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1793.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1793.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1793.ids
+0  errors. 
+2  warnings.
+Groups in this file:[procuradora-mad1,referida,procurador-mad1,referido,rel,pmad1,mad1,procurador-pad1,pad1,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

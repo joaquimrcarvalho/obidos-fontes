@@ -1,0 +1,54 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-35
+
+Processing data file saopedro-c1796-1797.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-casamentos1796-1797
+
+WARNING: saopedro-c1796-1797.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-c1796-1797 Id: spedro-casamentos1796-1797.
+Near lines: 3 
+Near lines: 4       cas$c1796-1/23/1/1796/fl.24/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura o beneficiado joaquim jose de matos. o casamento realizou-se de manha.
+
+6: cas$spedro-c1796-1
+28: cas$spedro-c1796-2
+
+WARNING: saopedro-c1796-1797.cli line 27 Element value exceeds database field length: loc=ermida de santa iria, extra-muros de obidos, anexa da igreja de sao pedro. Size:73 limit: 64
+Near lines: 27 
+Near lines: 28          noivo$caetano machado de matos/id=c1796-2-per1
+
+60: cas$spedro-c1796-3
+93: cas$spedro-c1796-4
+126: cas$spedro-c1796-5
+153: cas$spedro-c1796-6
+182: cas$spedro-c1796-7
+210: cas$spedro-c1796-8
+241: cas$spedro-c1797-1
+269: cas$spedro-c1797-2
+299: cas$spedro-c1797-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1796-1797.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1796-1797.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1796-1797.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1796-1797.ids
+0  errors. 
+2  warnings.
+Groups in this file:[referido,rel,marido1,mnoivo,pnoivo,test,mnoiva,pnoiva,noiva,ls,noivo,cas,fonte,kleio]
+Translation finished.

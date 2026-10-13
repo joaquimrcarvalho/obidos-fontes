@@ -1,0 +1,108 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-20
+
+Processing data file saopedro-b1752-1753.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1752-1753
+
+WARNING: saopedro-b1752-1753.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1752-1753 Id: spedro-baptismos1752-1753.
+Near lines: 3 
+Near lines: 4       bap$b1752-1/2/1/1752/fl.175/igreja de sao pedro/agostinho da fonseca silva (cura)/obs=assina o cura agostinho da fonseca silva.
+
+6: bap$spedro-b1752-1
+51: bap$spedro-b1752-2
+
+WARNING: saopedro-b1752-1753.cli line 96 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 96          procurador-mad1$estevao correia malhao/mesmo_que=b1752-2-procurador-mad/id=b1752-2-per9
+Near lines: 97             ls$residencia/obidos
+
+106: bap$spedro-b1752-3
+151: bap$spedro-b1752-4
+197: bap$spedro-b1752-5
+222: bap$spedro-b1752-6
+252: bap$spedro-b1752-7
+292: bap$spedro-b1752-8
+334: bap$spedro-b1752-9
+376: bap$spedro-b1752-10
+411: bap$spedro-b1752-11
+438: bap$spedro-b1752-12
+475: bap$spedro-b1752-13
+511: bap$spedro-b1752-14
+553: bap$spedro-b1752-15
+611: bap$spedro-b1752-16
+632: bap$spedro-b1752-17
+687: bap$spedro-b1752-18
+710: bap$spedro-b1752-19
+747: bap$spedro-b1752-20
+782: bap$spedro-b1752-21
+815: bap$spedro-b1752-22
+836: bap$spedro-b1752-23
+861: bap$spedro-b1752-23a
+889: bap$spedro-b1752-24
+923: bap$spedro-b1752-25
+957: bap$spedro-b1752-26
+992: bap$spedro-b1752-27
+1033: bap$spedro-b1752-28
+1061: bap$spedro-b1752-29
+1084: bap$spedro-b1752-30
+1124: bap$spedro-b1752-31
+1171: bap$spedro-b1752-31a
+1220: bap$spedro-b1752-32
+1260: bap$spedro-b1752-33
+1295: bap$spedro-b1752-34
+1320: bap$spedro-b1752-35
+1358: bap$spedro-b1752-36
+1392: bap$spedro-b1752-37
+1422: bap$spedro-b1752-38
+1460: bap$spedro-b1752-39
+1480: bap$spedro-b1752-40
+1508: bap$spedro-b1752-41
+1543: bap$spedro-b1752-42
+1568: bap$spedro-b1752-43
+1614: bap$spedro-b1752-44
+1648: bap$spedro-b1752-45
+1695: bap$spedro-b1752-46
+1733: bap$spedro-b1752-47
+1760: bap$spedro-b1753-1
+1783: bap$spedro-b1753-2
+1819: bap$spedro-b1753-2a
+1856: bap$spedro-b1753-3
+1902: bap$spedro-b1753-4
+1947: bap$spedro-b1753-5
+1989: bap$spedro-b1753-6
+2028: bap$spedro-b1753-7
+2067: bap$spedro-b1753-8
+2116: bap$spedro-b1753-9
+2155: bap$spedro-b1753-10
+2190: bap$spedro-b1753-11
+2214: bap$spedro-b1753-12
+2256: bap$spedro-b1753-13
+*** End of File
+
+ERROR: saopedro-b1752-1753.cli line 96  Could not find same_as id spedro-b1752-2-procurador-mad. If  original reference is on another file use xsame_as
+Near lines: 96 Near lines: 97 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1752-1753.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1752-1753.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1752-1753.old
+1  errors. 
+2  warnings.
+Groups in this file:[referida,referido,procurador-mad1,procurador-pad1,rel,mad1,pad1,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

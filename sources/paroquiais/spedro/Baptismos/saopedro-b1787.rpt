@@ -1,0 +1,92 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-34
+
+Processing data file saopedro-b1787.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1787
+
+WARNING: saopedro-b1787.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1787 Id: spedro-baptismos1787.
+Near lines: 3 
+Near lines: 4       bap$b1787-1/8/1/1787/fl.18v./igreja de sao pedro/jose luis fialho de mendonca (reverendo, doutor, padre, beneficiado, prior da igreja de sao pedro)/obs=assina o cura, o beneficiado jose luis fialho de mendonca
+
+6: bap$spedro-b1787-1
+
+WARNING: saopedro-b1787.cli line 35 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 35          procurador-mad1$joao monteiro malhao/mesmo_que=b1787-1-pmad/id=b1787-1-per6
+Near lines: 36             ls$cargo/capitao
+
+45: bap$spedro-b1787-2
+81: bap$spedro-b1787-3
+109: bap$spedro-b1787-4
+128: bap$spedro-b1787-5
+144: bap$spedro-b1787-6
+181: bap$spedro-b1787-7
+205: bap$spedro-b1787-8
+
+WARNING: saopedro-b1787.cli line 230 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 230          procurador-pad1$manuel da silva/mesmo_que=b1787-8-mrmad/id=b1787-8-per9
+Near lines: 231             ls$residencia/usseira
+
+241: bap$spedro-b1787-9
+275: bap$spedro-b1787-10
+304: bap$spedro-b1787-11
+340: bap$spedro-b1787-12
+372: bap$spedro-b1787-13
+408: bap$spedro-b1787-14
+436: bap$spedro-b1787-15
+465: bap$spedro-b1787-16
+
+WARNING: saopedro-b1787.cli line 478 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 478          ppad1$joao felix de brito pegado/mesmo_que=b1787-16-pmad/id=b1787-16-per4
+Near lines: 479             ls$residencia/obidos
+
+495: bap$spedro-b1787-17
+511: bap$spedro-b1787-18
+532: bap$spedro-b1787-19
+548: bap$spedro-b1787-20
+585: bap$spedro-b1787-21
+610: bap$spedro-b1787-22
+
+WARNING: saopedro-b1787.cli line 634 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 634 
+Near lines: 635          mad1$maria benedita/id=b1787-22-mad
+
+
+WARNING: saopedro-b1787.cli line 640 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 640 
+Near lines: 641          procurador-mad1$luis manuel fialho/id=b1787-22-per10
+
+652: bap$spedro-b1787-23
+702: bap$spedro-b1787-24
+736: bap$spedro-b1787-25
+765: bap$spedro-b1787-26
+804: bap$spedro-b1787-27
+852: bap$spedro-b1787-28
+872: bap$spedro-b1787-29
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1787.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1787.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1787.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1787.ids
+0  errors. 
+6  warnings.
+Groups in this file:[ppad1,mrmad1,referida,referido,mmn,pmn,mpn,ppn,pmad1,procurador-mad1,mad1,procurador-pad1,rel,pad1,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

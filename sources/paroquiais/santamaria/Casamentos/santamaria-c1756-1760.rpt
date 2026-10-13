@@ -1,0 +1,74 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1756-1760.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1756-1760
+
+WARNING: santamaria-c1756-1760.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1756-1760 Id: stmaria-casamentos1756-1760.
+Near lines: 3 
+Near lines: 4       cas$c1756-1/23/2/1756/fl.74v./igreja da nossa senhora do carmo, extra-muros/isidoro coelho de sampaio (cura)/obs=assina o cura isidoro coelho de sampaio, o casamento realizou-se das 9 para as 10 horas da manha
+
+6: cas$stmaria-c1756-1
+44: cas$stmaria-c1756-2
+86: cas$stmaria-c1756-3
+119: cas$stmaria-c1756-4
+146: cas$stmaria-c1757-1
+179: cas$stmaria-c1757-2
+208: cas$stmaria-c1757-3
+235: cas$stmaria-c1757-4
+271: cas$stmaria-c1757-5
+299: cas$stmaria-c1757-6
+373: cas$stmaria-c1757-7
+406: cas$stmaria-c1757-8
+450: cas$stmaria-c1758-1
+483: cas$stmaria-c1758-2
+512: cas$stmaria-c1758-3
+549: cas$stmaria-c1758-4
+592: cas$stmaria-c1758-5
+624: cas$stmaria-c1759-1
+656: cas$stmaria-c1759-2
+697: cas$stmaria-c1759-3
+726: cas$stmaria-c1759-4
+
+WARNING: santamaria-c1756-1760.cli line 725 Element value exceeds database field length: loc=igreja da santa casa da misericordia de obidos, anexa da igreja de santa maria. Size:78 limit: 64
+Near lines: 725 
+Near lines: 726          noivo$jose teixeira/id=c1759-4-per1
+
+761: cas$stmaria-c1759-5
+804: cas$stmaria-c1760-1
+832: cas$stmaria-c1760-2
+
+WARNING: santamaria-c1756-1760.cli line 831 Element value exceeds database field length: loc=ermida de sao miguel da quinta da navalha, anaxa a freguesia de santa maria. Size:75 limit: 64
+Near lines: 831 
+Near lines: 832          noivo$francisco dinis monteiro malhao/id=c1760-2-per1
+
+865: cas$stmaria-c1760-3
+896: cas$stmaria-c1760-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1756-1760.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1756-1760.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1756-1760.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1756-1760.ids
+0  errors. 
+3  warnings.
+Groups in this file:[rel,mulher1,marido1,referido,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

@@ -1,0 +1,58 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-27
+
+Processing data file santamaria-c1621-1625.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1621-1625
+
+WARNING: santamaria-c1621-1625.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1621-1625 Id: stmaria-casamentos1621-1625.
+Near lines: 3 
+Near lines: 4       cas$c1621-1/31/1/1621/fl.91/igreja de santa maria/luis andre/obs=assina luis andre e enumera as testemunhas e acrescenta "e outras muitas"
+
+6: cas$stmaria-c1621-1
+20: cas$stmaria-c1621-2
+32: cas$stmaria-c1621-3
+47: cas$stmaria-c1621-4
+61: cas$stmaria-c1621-5
+75: cas$stmaria-c1621-6
+89: cas$stmaria-c1621-7
+104: cas$stmaria-c1621-8
+118: cas$stmaria-c1621-9
+133: cas$stmaria-c1622-1
+147: cas$stmaria-c1623-1
+161: cas$stmaria-c1623-2
+175: cas$stmaria-c1623-3
+190: cas$stmaria-c1623-4
+203: cas$stmaria-c1623-5
+215: cas$stmaria-c1624-1
+234: cas$stmaria-c1624-2
+247: cas$stmaria-c1625-1
+263: cas$stmaria-c1625-2
+273: cas$stmaria-c1625-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1621-1625.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1621-1625.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1621-1625.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1621-1625.ids
+0  errors. 
+1  warnings.
+Groups in this file:[test,ls,noiva,noivo,cas,fonte,kleio]
+Translation finished.

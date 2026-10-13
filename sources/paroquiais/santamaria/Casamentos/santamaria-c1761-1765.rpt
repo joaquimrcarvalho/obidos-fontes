@@ -1,0 +1,88 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1761-1765.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1761-1765
+
+WARNING: santamaria-c1761-1765.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1761-1765 Id: stmaria-casamentos1761-1765.
+Near lines: 3 
+Near lines: 4       cas$c1761-1/19/1/1761/fl.88v./igreja da santa maria/isidoro coelho de sampaio (cura)/obs=assina o paroco isidoro coelho de sampaio. o casamento realizou-se "pelo meyo", provavelmente pelo meio dia
+
+6: cas$stmaria-c1761-1
+40: cas$stmaria-c1761-2
+72: cas$stmaria-c1761-3
+107: cas$stmaria-c1761-4
+140: cas$stmaria-c1761-5
+168: cas$stmaria-c1761-6
+203: cas$stmaria-c1761-7
+237: cas$stmaria-c1761-8
+272: cas$stmaria-c1761-9
+298: cas$stmaria-c1762-1
+333: cas$stmaria-c1762-2
+366: cas$stmaria-c1763-1
+
+WARNING: santamaria-c1761-1765.cli line 365 Element value exceeds database field length: loc=igreja da santa casa da misericordia de obidos, anexa a igreja de santa maria. Size:77 limit: 64
+Near lines: 365 
+Near lines: 366          noivo$manuel de arruda/obs=filho de pais incognitos/id=c1763-1-per1
+
+406: cas$stmaria-c1763-2
+
+WARNING: santamaria-c1761-1765.cli line 405 Element value exceeds database field length: loc=ermida de nossa senhora de monserrate, anexa a igreja de santa maria. Size:68 limit: 64
+Near lines: 405 
+Near lines: 406          noivo$joao monteiro malhao/id=c1763-2-per1
+
+440: cas$stmaria-c1763-3
+468: cas$stmaria-c1763-4
+495: cas$stmaria-c1763-5
+
+WARNING: santamaria-c1761-1765.cli line 494 Element value exceeds database field length: loc=igreja da santa casa da misericordia de obidos, anexa da igreja de santa maria. Size:78 limit: 64
+Near lines: 494 
+Near lines: 495          noivo$tomas jose monteiro/id=c1763-5-per1
+
+536: cas$stmaria-c1763-6
+574: cas$stmaria-c1763-7
+621: cas$stmaria-c1763-8
+646: cas$stmaria-c1764-1
+690: cas$stmaria-c1764-2
+725: cas$stmaria-c1764-3
+753: cas$stmaria-c1764-4
+779: cas$stmaria-c1764-5
+813: cas$stmaria-c1765-1
+847: cas$stmaria-c1765-2
+882: cas$stmaria-c1765-3
+919: cas$stmaria-c1765-4
+949: cas$stmaria-c1765-5
+985: cas$stmaria-c1765-6
+
+WARNING: santamaria-c1761-1765.cli line 984 Element value exceeds database field length: loc=casa do oratorio que se criou para este efeito, nas casas de residencia de dom rodrigo antonio de noronha e meneses. Size:115 limit: 64
+Near lines: 984 
+Near lines: 985          noivo$joao domingos de melo/id=c1765-6-per1
+
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1761-1765.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1761-1765.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1761-1765.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1761-1765.ids
+0  errors. 
+5  warnings.
+Groups in this file:[referida,mulher1,rel,referido,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

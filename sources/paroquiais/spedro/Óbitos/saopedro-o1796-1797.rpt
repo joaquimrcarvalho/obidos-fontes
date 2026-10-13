@@ -1,0 +1,85 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-35
+
+Processing data file saopedro-o1796-1797.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-obitos1796-1797
+
+WARNING: saopedro-o1796-1797.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-o1796-1797 Id: spedro-obitos1796-1797.
+Near lines: 3 
+Near lines: 4       obito$o1796-1/9/1/1796/fl.38/joaquim jose de matos (cura, beneficiado)
+
+6: obito$spedro-o1796-1
+18: obito$spedro-o1796-2
+29: obito$spedro-o1796-3
+41: obito$spedro-o1796-4
+58: obito$spedro-o1796-5
+72: obito$spedro-o1796-6
+85: obito$spedro-o1796-7
+99: obito$spedro-o1796-8
+110: obito$spedro-o1796-9
+126: obito$spedro-o1796-10
+141: obito$spedro-o1796-11
+152: obito$spedro-o1796-12
+167: obito$spedro-o1796-13
+177: obito$spedro-o1796-14
+189: obito$spedro-o1796-15
+200: obito$spedro-o1796-16
+211: obito$spedro-o1796-17
+227: obito$spedro-o1796-18
+245: obito$spedro-o1796-19
+257: obito$spedro-o1796-20
+268: obito$spedro-o1796-21
+282: obito$spedro-o1796-22
+295: obito$spedro-o1796-23
+313: obito$spedro-o1796-24
+334: obito$spedro-o1796-25
+346: obito$spedro-o1796-26
+366: obito$spedro-o1797-1
+378: obito$spedro-o1797-2
+391: obito$spedro-o1797-3
+404: obito$spedro-o1797-4
+416: obito$spedro-o1797-5
+426: obito$spedro-o1797-6
+446: obito$spedro-o1797-7
+466: obito$spedro-o1797-8
+482: obito$spedro-o1797-9
+496: obito$spedro-o1797-10
+507: obito$spedro-o1797-11
+522: obito$spedro-o1797-12
+538: obito$spedro-o1797-13
+552: obito$spedro-o1797-14
+568: obito$spedro-o1797-15
+581: obito$spedro-o1797-16
+601: obito$spedro-o1797-17
+619: obito$spedro-o1797-18
+629: obito$spedro-o1797-19
+640: obito$spedro-o1797-20
+651: obito$spedro-o1797-21
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1796-1797.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1796-1797.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1796-1797.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Óbitos/saopedro-o1796-1797.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referida,mae,referido,rel,locf,marido,oficios,testamento,pai,mulher,locs,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

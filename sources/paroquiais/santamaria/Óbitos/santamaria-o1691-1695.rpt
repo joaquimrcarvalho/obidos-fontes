@@ -1,0 +1,126 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-29
+
+Processing data file santamaria-o1691-1695.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1691-1695
+
+WARNING: santamaria-o1691-1695.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1691-1695 Id: stmaria-obitos1691-1695.
+Near lines: 3 
+Near lines: 4       obito$o1691-1/4/1/1691/fl.156/manuel cacela (padre, licenciado)
+
+6: obito$stmaria-o1691-1
+19: obito$stmaria-o1691-2
+32: obito$stmaria-o1691-3
+49: obito$stmaria-o1691-4
+62: obito$stmaria-o1691-5
+76: obito$stmaria-o1691-6
+87: obito$stmaria-o1691-7
+97: obito$stmaria-o1691-8
+110: obito$stmaria-o1691-9
+118: obito$stmaria-o1691-10
+131: obito$stmaria-o1691-11
+147: obito$stmaria-o1691-12
+158: obito$stmaria-o1691-13
+167: obito$stmaria-o1692-1
+179: obito$stmaria-o1692-2
+190: obito$stmaria-o1692-3
+204: obito$stmaria-o1692-4
+215: obito$stmaria-o1692-5
+227: obito$stmaria-o1692-6
+241: obito$stmaria-o1692-7
+253: obito$stmaria-o1692-8
+273: obito$stmaria-o1692-9
+286: obito$stmaria-o1692-10
+297: obito$stmaria-o1692-11
+307: obito$stmaria-o1692-12
+317: obito$stmaria-o1692-13
+330: obito$stmaria-o1692-14
+337: obito$stmaria-o1693-1
+349: obito$stmaria-o1693-2
+360: obito$stmaria-o1693-3
+371: obito$stmaria-o1693-4
+384: obito$stmaria-o1693-5
+395: obito$stmaria-o1693-6
+404: obito$stmaria-o1693-7
+415: obito$stmaria-o1693-8
+432: obito$stmaria-o1693-9
+442: obito$stmaria-o1693-10
+455: obito$stmaria-o1693-11
+466: obito$stmaria-o1693-12
+478: obito$stmaria-o1693-13
+487: obito$stmaria-o1693-14
+499: obito$stmaria-o1693-15
+513: obito$stmaria-o1693-16
+528: obito$stmaria-o1693-17
+543: obito$stmaria-o1693-18
+561: obito$stmaria-o1693-19
+576: obito$stmaria-o1693-20
+591: obito$stmaria-o1693-21
+607: obito$stmaria-o1693-22
+621: obito$stmaria-o1693-23
+633: obito$stmaria-o1694-1
+646: obito$stmaria-o1694-2
+660: obito$stmaria-o1694-3
+675: obito$stmaria-o1694-4
+687: obito$stmaria-o1694-5
+702: obito$stmaria-o1694-6
+715: obito$stmaria-o1694-7
+728: obito$stmaria-o1694-7a
+743: obito$stmaria-o1694-8
+757: obito$stmaria-o1694-9
+770: obito$stmaria-o1694-10
+785: obito$stmaria-o1694-11
+798: obito$stmaria-o1694-12
+810: obito$stmaria-o1694-13
+822: obito$stmaria-o1694-14
+837: obito$stmaria-o1694-15
+856: obito$stmaria-o1694-16
+864: obito$stmaria-o1695-1
+872: obito$stmaria-o1695-2
+882: obito$stmaria-o1695-3
+895: obito$stmaria-o1695-4
+907: obito$stmaria-o1695-5
+920: obito$stmaria-o1695-6
+932: obito$stmaria-o1695-7
+948: obito$stmaria-o1695-8
+958: obito$stmaria-o1695-9
+971: obito$stmaria-o1695-10
+990: obito$stmaria-o1695-11
+1007: obito$stmaria-o1695-12
+1023: obito$stmaria-o1695-13
+1033: obito$stmaria-o1695-14
+1045: obito$stmaria-o1695-15
+1061: obito$stmaria-o1695-16
+1073: obito$stmaria-o1695-17
+1088: obito$stmaria-o1695-18
+1101: obito$stmaria-o1695-19
+1117: obito$stmaria-o1695-20
+1127: obito$stmaria-o1695-21
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1691-1695.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1691-1695.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1691-1695.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1691-1695.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pai,mae,causa,mulher,marido,testamento,sacr,oficios,locs,locf,referido,rel,referida,ls,n,obito,fonte,kleio]
+Translation finished.

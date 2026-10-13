@@ -1,0 +1,94 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 15-54
+
+Processing data file santamaria-1796.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1796
+
+WARNING: santamaria-1796.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1796 Id: stmaria-baptismos1796.
+Near lines: 3 
+Near lines: 4       bap$b1796-1/3/1/1796/fl.54v./colegiada de santa maria/joaquim jose soares/obs=celebra com a licenca do prior jose joaquim xavier tavares.
+
+6: bap$stmaria-b1796-1
+40: bap$stmaria-b1796-2
+69: bap$stmaria-b1796-3
+98: bap$stmaria-b1796-4
+131: bap$stmaria-b1796-5
+163: bap$stmaria-b1796-6
+196: bap$stmaria-b1796-7
+227: bap$stmaria-b1796-8
+256: bap$stmaria-b1796-9
+285: bap$stmaria-b1796-10
+318: bap$stmaria-b1796-11
+349: bap$stmaria-b1796-12
+388: bap$stmaria-b1796-13
+418: bap$stmaria-b1796-14
+433: bap$stmaria-b1796-15
+
+WARNING: santamaria-1796.cli line 437 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 437 
+Near lines: 438          referida$ana maria/id=b1796-14-am
+
+447: bap$stmaria-b1796-16
+482: bap$stmaria-b1796-17
+496: bap$stmaria-b1796-18
+
+ERROR: santamaria-1796.cli line 498 Bad date format:179607??. Use YYYYMMDD, YYYY-MM-DD, FROM_DATE:UNTIL_DATE, >DATE or <DATE
+Near lines: 498 
+Near lines: 499          pad$joaquim antonio de sequeira/mesmo_que=b1796-14-pad/id=b1796-18-per2
+
+508: bap$stmaria-b1796-19
+536: bap$stmaria-b1796-20
+554: bap$stmaria-b1796-21
+584: bap$stmaria-b1796-22
+621: bap$stmaria-b1796-23
+654: bap$stmaria-b1796-24
+684: bap$stmaria-b1796-25
+722: bap$stmaria-b1796-26
+755: bap$stmaria-b1796-27
+786: bap$stmaria-b1796-28
+801: bap$stmaria-b1796-29
+818: bap$stmaria-b1796-30
+847: bap$stmaria-b1796-31
+878: bap$stmaria-b1796-32
+908: bap$stmaria-b1796-33
+929: bap$stmaria-b1796-34
+948: bap$stmaria-b1796-35
+969: bap$stmaria-b1796-36
+986: bap$stmaria-b1796-37
+1004: bap$stmaria-b1796-38
+1035: bap$stmaria-b1796-39
+1064: bap$stmaria-b1796-40
+1087: bap$stmaria-b1796-41
+1120: bap$stmaria-b1796-42
+1153: bap$stmaria-b1796-43
+1186: bap$stmaria-b1796-44
+*** End of File
+
+ERROR: santamaria-1796.cli line 437  Could not find same_as id stmaria-b1794-14-pad. If  original reference is on another file use xsame_as
+Near lines: 437 Near lines: 438 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1796.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1796.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1796.old
+2  errors. 
+2  warnings.
+Groups in this file:[ppad,referida,referido,procurador-mad,rel,mad,procurador-pad,pad,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

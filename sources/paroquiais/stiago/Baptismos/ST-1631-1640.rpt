@@ -1,0 +1,152 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file ST-1631-1640.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1631-1640
+
+WARNING: ST-1631-1640.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1631-1640 Id: stiago-baptismos 1631-1640.
+Near lines: 3 
+Near lines: 4       bap$b1631-1a/17/8/1631/fl.26v./igreja de sao tiago/ (vigario)/obs=assina padre joao pedroso (cura)
+
+6: bap$stiago-b1631-1a
+24: bap$stiago-b1631-2a
+42: bap$stiago-b1631-3a
+59: bap$stiago-b1631-4a
+76: bap$stiago-b1631-5a
+92: bap$stiago-b1632-6a
+106: bap$stiago-b1632-7a
+121: bap$stiago-b1632-8a
+138: bap$stiago-b1632-9a
+155: bap$stiago-b1632-10a
+171: bap$stiago-b1632-11a
+187: bap$stiago-b1632-12a
+203: bap$stiago-b1632-13a
+219: bap$stiago-b1632-14a
+236: bap$stiago-b1633-15a
+256: bap$stiago-b1633-16a
+270: bap$stiago-b1633-17a
+285: bap$stiago-b1633-18a
+301: bap$stiago-b1633-19a
+318: bap$stiago-b1633-20a
+329: bap$stiago-b1633-21a
+346: bap$stiago-b1633-22a
+365: bap$stiago-b1633-23
+382: bap$stiago-b1633-24a
+397: bap$stiago-b1634-25a
+415: bap$stiago-b1634-26a
+429: bap$stiago-b1634-27a
+447: bap$stiago-b1634-28
+462: bap$stiago-b1634-29
+478: bap$stiago-b1634-30
+495: bap$stiago-b1634-31
+512: bap$stiago-b1634-32
+527: bap$stiago-b1634-33
+542: bap$stiago-b1634-34
+560: bap$stiago-b1634-35
+577: bap$stiago-b1634-36
+595: bap$stiago-b1634-37
+611: bap$stiago-b1634-38
+633: bap$stiago-b1634-39
+647: bap$stiago-b1635-40
+667: bap$stiago-b1635-41
+684: bap$stiago-b1635-42
+701: bap$stiago-b1635-43
+717: bap$stiago-b1635-44
+736: bap$stiago-b1635-45
+751: bap$stiago-b1635-46
+768: bap$stiago-b1635-47
+783: bap$stiago-b1636-48
+806: bap$stiago-b1636-49
+824: bap$stiago-b1636-50
+841: bap$stiago-b1636-51
+855: bap$stiago-b1636-52
+872: bap$stiago-b1636-53
+892: bap$stiago-b1636-54
+908: bap$stiago-b1636-55
+925: bap$stiago-b1636-56
+944: bap$stiago-b1636-57
+955: bap$stiago-b1636-58
+967: bap$stiago-b1636-59
+983: bap$stiago-b1636-60
+997: bap$stiago-b1637-61
+1017: bap$stiago-b1637-62
+1031: bap$stiago-b1637-63
+1043: bap$stiago-b1637-64
+1060: bap$stiago-b1637-65
+1077: bap$stiago-b1637-66
+1090: bap$stiago-b1637-67
+1108: bap$stiago-b1637-68
+1126: bap$stiago-b1637-69
+1142: bap$stiago-b1637-70
+1158: bap$stiago-b1638-71
+1173: bap$stiago-b1638-72
+1187: bap$stiago-b1638-73
+1204: bap$stiago-b1638-74
+1220: bap$stiago-b1638-75
+1238: bap$stiago-b1638-76
+1252: bap$stiago-b1638-77
+1271: bap$stiago-b1638-78
+1290: bap$stiago-b1638-79
+1305: bap$stiago-b1638-80
+1322: bap$stiago-b1638-81
+1334: bap$stiago-b1638-82
+1347: bap$stiago-b1638-83
+1364: bap$stiago-b1638-84
+
+WARNING: ST-1631-1640.cli line 1376 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1376          mrmad$braz goncalves/mesmo_que=b1637-68-mrmad/id=b1638-84-per6
+Near lines: 1377             ls$residencia/tras do outeiro
+
+1381: bap$stiago-b1638-85
+1400: bap$stiago-b1638-86
+1415: bap$stiago-b1638-87
+1433: bap$stiago-b1638-88
+1452: bap$stiago-b1638-89
+1468: bap$stiago-b1638-90
+1483: bap$stiago-b1639-91
+1498: bap$stiago-b1639-92
+1516: bap$stiago-b1639-93
+1538: bap$stiago-b1639-94
+1561: bap$stiago-b1639-95
+1578: bap$stiago-b1639-96
+1594: bap$stiago-b1639-97
+1612: bap$stiago-b1640-98
+1631: bap$stiago-b1640-99
+1649: bap$stiago-b1640-100
+1665: bap$stiago-b1640-101
+1684: bap$stiago-b1640-102
+1703: bap$stiago-b1640-103
+*** End of File
+
+ERROR: ST-1631-1640.cli line 1376  Could not find same_as id stiago-b1637-68-mrmad. If  original reference is on another file use xsame_as
+Near lines: 1376 Near lines: 1377 
+
+Line 183 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1618-26-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 405 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1630-93-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 423 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1630-93-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 680 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1626-27-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1631-1640.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1631-1640.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1631-1640.old
+1  errors. 
+2  warnings.
+Groups in this file:[mmn,pmn,referido,referida,rel,ppad,mrmad,pmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,103 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-11
+
+Processing data file SJ-1721-1722.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1721-1722
+
+WARNING: SJ-1721-1722.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1721-1722 Id: sjoao-baptismos1721-1722.
+Near lines: 3 
+Near lines: 4       bap$b1721-1/19/1/1721/fl.92/igreja de sao joao/ (vigario)/obs= assina o padre joao nunes (cura)
+
+6: bap$sjoao-b1721-1
+23: bap$sjoao-b1721-2
+38: bap$sjoao-b1721-3
+57: bap$sjoao-b1721-4
+72: bap$sjoao-b1721-5
+89: bap$sjoao-b1721-6
+106: bap$sjoao-b1721-7
+123: bap$sjoao-b1721-8
+151: bap$sjoao-b1721-9
+172: bap$sjoao-b1721-10
+189: bap$sjoao-b1721-11
+206: bap$sjoao-b1721-12
+225: bap$sjoao-b1721-13
+242: bap$sjoao-b1721-14
+258: bap$sjoao-b1721-15
+274: bap$sjoao-b1721-16
+291: bap$sjoao-b1721-17
+307: bap$sjoao-b1721-18
+322: bap$sjoao-b1721-19
+336: bap$sjoao-b1721-20
+362: bap$sjoao-b1721-21
+381: bap$sjoao-b1721-22
+398: bap$sjoao-b1721-23
+419: bap$sjoao-b1721-24
+436: bap$sjoao-b1721-25
+451: bap$sjoao-b1722-26
+471: bap$sjoao-b1722-27
+487: bap$sjoao-b1722-28
+507: bap$sjoao-b1722-29
+524: bap$sjoao-b1722-30
+
+WARNING: SJ-1721-1722.cli line 544 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 544 
+Near lines: 545          mmad$maria ferreira/mesmo_que=b1722-30-maria/id=b1722-30-per6
+
+549: bap$sjoao-b1722-31
+565: bap$sjoao-b1722-32
+587: bap$sjoao-b1722-33
+604: bap$sjoao-b1722-34
+619: bap$sjoao-b1722-35
+634: bap$sjoao-b1722-36
+655: bap$sjoao-b1722-37
+678: bap$sjoao-b1722-38
+698: bap$sjoao-b1722-39
+715: bap$sjoao-b1722-40
+741: bap$sjoao-b1722-41
+762: bap$sjoao-b1722-42
+782: bap$sjoao-b1722-43
+802: bap$sjoao-b1722-44
+822: bap$sjoao-b1722-45
+842: bap$sjoao-b1722-46
+860: bap$sjoao-b1722-47
+875: bap$sjoao-b1722-48
+890: bap$sjoao-b1722-49
+905: bap$sjoao-b1722-50
+925: bap$sjoao-b1722-51
+949: bap$sjoao-b1722-52
+972: bap$sjoao-b1722-53
+992: bap$sjoao-b1722-54
+1007: bap$sjoao-b1722-55
+1027: bap$sjoao-b1722-56
+1039: bap$sjoao-b1722-57
+1054: bap$sjoao-b1722-58
+*** End of File
+
+ERROR: SJ-1721-1722.cli line 544  Could not find same_as id sjoao-b1722-30-lemo. If  original reference is on another file use xsame_as
+Near lines: 544 Near lines: 545 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1721-1722.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1721-1722.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1721-1722.old
+1  errors. 
+2  warnings.
+Groups in this file:[procurador-pad,procurador-mad,mmad,rel,mpad,pmad,ppad,mrmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

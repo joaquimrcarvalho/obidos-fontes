@@ -1,0 +1,78 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1611-1614.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1611-1614
+
+WARNING: SJ-1611-1614.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1611-1614 Id: sjoao-baptismos1611-1614.
+Near lines: 3 
+Near lines: 4       bap$b1611-1/12/12/1611/fl.80v./igreja de sao joao/ (vigario)/obs= assina padre joao delgado (vigario)
+
+6: bap$sjoao-b1611-1
+19: bap$sjoao-b1611-2
+35: bap$sjoao-b1612-3
+49: bap$sjoao-b1612-4
+63: bap$sjoao-b1612-5
+74: bap$sjoao-b1612-6
+89: bap$sjoao-b1612-7
+104: bap$sjoao-b1612-8
+117: bap$sjoao-b1612-9
+132: bap$sjoao-b1612-10
+148: bap$sjoao-b1612-11
+160: bap$sjoao-b1612-12
+172: bap$sjoao-b1612-13
+187: bap$sjoao-b1612-14
+201: bap$sjoao-b1612-15
+216: bap$sjoao-b1612-16
+231: bap$sjoao-b1612-17
+244: bap$sjoao-b1612-18
+253: bap$sjoao-b1612-19
+266: bap$sjoao-b1612-20
+281: bap$sjoao-b1612-21
+295: bap$sjoao-b1612-22
+310: bap$sjoao-b1612-23
+323: bap$sjoao-b1613-24
+332: bap$sjoao-b1613-25
+347: bap$sjoao-b1613-26
+362: bap$sjoao-b1613-27
+378: bap$sjoao-b1613-28
+393: bap$sjoao-b1613-29
+404: bap$sjoao-b1613-30
+417: bap$sjoao-b1613-31
+432: bap$sjoao-b1613-32
+446: bap$sjoao-b1613-33
+459: bap$sjoao-b1614-34
+470: bap$sjoao-b1614-35
+483: bap$sjoao-b1614-36
+498: bap$sjoao-b1614-37
+513: bap$sjoao-b1614-38
+528: bap$sjoao-b1614-39
+545: bap$sjoao-b1614-40
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1611-1614.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1611-1614.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1611-1614.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1611-1614.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pmad,rel,mrmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

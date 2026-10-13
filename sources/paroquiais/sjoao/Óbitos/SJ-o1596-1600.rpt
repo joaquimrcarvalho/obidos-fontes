@@ -1,0 +1,67 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-14
+
+Processing data file SJ-o1596-1600.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjOAO
+Autorel: sjOAO
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjOAO-obitos1596-1600
+
+WARNING: SJ-o1596-1600.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1596-1600 Id: sjOAO-obitos1596-1600.
+Near lines: 3 
+Near lines: 4       obito$o1596-1/8/5/1596/fl.62v./nome desconhecido
+
+6: obito$sjOAO-o1596-1
+16: obito$sjOAO-o1598-1
+23: obito$sjOAO-o1598-2
+28: obito$sjOAO-o1598-3
+33: obito$sjOAO-o1598-4
+37: obito$sjOAO-o1598-5
+47: obito$sjOAO-o1599-1
+53: obito$sjOAO-o1599-2
+58: obito$sjOAO-o1599-3
+64: obito$sjOAO-o1599-4
+68: obito$sjOAO-o1599-5
+75: obito$sjOAO-o1599-6
+82: obito$sjOAO-o1599-7
+86: obito$sjOAO-o1599-8
+90: obito$sjOAO-o1599-9
+95: obito$sjOAO-o1599-10
+100: obito$sjOAO-o1599-11
+108: obito$sjOAO-o1599-12
+113: obito$sjOAO-o1599-13
+118: obito$sjOAO-o1599-14
+124: obito$sjOAO-o1599-15
+130: obito$sjOAO-o1599-16
+135: obito$sjOAO-o1599-17
+141: obito$sjOAO-o1599-18
+145: obito$sjOAO-o1599-19
+150: obito$sjOAO-o1599-20
+158: obito$sjOAO-o1599-21
+163: obito$sjOAO-o1600-1
+171: obito$sjOAO-o1600-2
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1596-1600.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1596-1600.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1596-1600.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1596-1600.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pai,rel,mulher,ls,marido,testamento,locs,n,obito,fonte,kleio]
+Translation finished.

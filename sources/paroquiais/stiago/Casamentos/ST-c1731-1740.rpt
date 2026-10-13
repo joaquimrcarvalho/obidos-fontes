@@ -1,0 +1,108 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-22
+
+Processing data file ST-c1731-1740.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-casamentos1731-1740
+
+WARNING: ST-c1731-1740.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-c1731-1740 Id: stiago-casamentos1731-1740.
+Near lines: 3 
+Near lines: 4       cas$c1731-1/17/2/1731/fl.56./igreja de sao tiago/pedro alves madeira(cura)/obs=assina pedro alves madeira (cura)
+
+6: cas$stiago-c1731-1
+28: cas$stiago-c1731-2
+57: cas$stiago-c1731-3
+79: cas$stiago-c1731-4
+104: cas$stiago-c1732-5
+129: cas$stiago-c1732-6
+153: cas$stiago-c1732-7
+177: cas$stiago-c1732-8
+201: cas$stiago-c1732-9
+225: cas$stiago-c1732-10
+251: cas$stiago-c1733-11
+274: cas$stiago-c1733-12
+299: cas$stiago-c1733-13
+323: cas$stiago-c1733-14
+347: cas$stiago-c1733-15
+369: cas$stiago-c1733-16
+395: cas$stiago-c1733-17
+418: cas$stiago-c1733-18
+444: cas$stiago-c1733-19
+470: cas$stiago-c1733-20
+499: cas$stiago-c1733-21
+523: cas$stiago-c1733-22
+548: cas$stiago-c1733-23
+572: cas$stiago-c1734-24
+596: cas$stiago-c1734-25
+619: cas$stiago-c1734-26
+643: cas$stiago-c1734-27
+665: cas$stiago-c1734-28
+692: cas$stiago-c1734-29
+730: cas$stiago-c1735-30
+764: cas$stiago-c1735-31
+786: cas$stiago-c1735-32
+811: cas$stiago-c1735-33
+834: cas$stiago-c1735-34
+860: cas$stiago-c1735-35
+887: cas$stiago-c1735-36
+911: cas$stiago-c1735-37
+937: cas$stiago-c1735-38
+965: cas$stiago-c1735-39
+989: cas$stiago-c1735-40
+1012: cas$stiago-c1735-41
+1039: cas$stiago-c1735-42
+1061: cas$stiago-c1736-43
+1084: cas$stiago-c1736-44
+1106: cas$stiago-c1736-45
+1129: cas$stiago-c1737-46
+1153: cas$stiago-c1737-47
+1178: cas$stiago-c1737-48
+1203: cas$stiago-c1737-49
+1229: cas$stiago-c1737-50
+1252: cas$stiago-c1737-51
+1272: cas$stiago-c1738-52
+1298: cas$stiago-c1738-53
+1320: cas$stiago-c1738-54
+1342: cas$stiago-c1738-55
+1367: cas$stiago-c1738-56
+1391: cas$stiago-c1738-57
+1419: cas$stiago-c1739-58
+1441: cas$stiago-c1739-59
+1462: cas$stiago-c1739-60
+1485: cas$stiago-c1739-61
+1506: cas$stiago-c1739-62
+1531: cas$stiago-c1739-63
+1561: cas$stiago-c1740-64
+1587: cas$stiago-c1740-65a
+1611: cas$stiago-c1740-65
+1638: cas$stiago-c1740-66
+1662: cas$stiago-c1740-67
+1686: cas$stiago-c1740-68
+1704: cas$stiago-c1740-69
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1731-1740.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1731-1740.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1731-1740.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1731-1740.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mmnoivo,pmnoivo,marido1,mulher2,mulher1,referido,rel,test,mnoiva,pnoiva,noiva,mnoivo,ls,pnoivo,noivo,cas,fonte,kleio]
+Translation finished.

@@ -1,0 +1,62 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-19
+
+Processing data file santamaria-c1571-1575.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1571-1575
+
+WARNING: santamaria-c1571-1575.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1571-1575 Id: stmaria-casamentos1571-1575.
+Near lines: 3 
+Near lines: 4       cas$c1571-1/25/2/1571/fl.55v./igreja de santa maria/goncalo fernandes (cura na igreja de santa maria)/obs=assina goncalo fernandes e enumera as testemunhas e acrescenta "e outros muitos"
+
+6: cas$stmaria-c1571-1
+34: cas$stmaria-c1571-2
+55: cas$stmaria-c1571-3
+78: cas$stmaria-c1571-4
+105: cas$stmaria-c1571-5
+144: cas$stmaria-c1571-6
+171: cas$stmaria-c1572-1
+200: cas$stmaria-c1572-2
+221: cas$stmaria-c1573-1
+248: cas$stmaria-c1573-2
+274: cas$stmaria-c1573-3
+297: cas$stmaria-c1573-4
+318: cas$stmaria-c1574-1
+347: cas$stmaria-c1574-2
+374: cas$stmaria-c1574-3
+406: cas$stmaria-c1575-1
+434: cas$stmaria-c1575-2
+460: cas$stmaria-c1575-3
+484: cas$stmaria-c1575-4
+
+WARNING: santamaria-c1571-1575.cli line 483 Element value exceeds database field length: loc=igreja de sao pedro ("por estar interdita esta ygreja de sancta maria") gaspar vicente (cura). Size:93 limit: 64
+Near lines: 483 
+Near lines: 484          noivo$francisco lopes/id=c1575-4-per1
+
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1571-1575.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1571-1575.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1571-1575.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1571-1575.ids
+0  errors. 
+2  warnings.
+Groups in this file:[mnoiva,pnoiva,rel,test,referido,noiva,ls,noivo,cas,fonte,kleio]
+Translation finished.

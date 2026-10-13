@@ -1,0 +1,89 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 15-54
+
+Processing data file santamaria-c1731-1733.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1731-1733
+
+WARNING: santamaria-c1731-1733.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1731-1733 Id: stmaria-casamentos1731-1733.
+Near lines: 3 
+Near lines: 4       cas$c1731-1/31/1/1731/fl.65/igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro de obidos)/obs=assina o cura jose de matos
+
+6: cas$stmaria-c1731-1
+37: cas$stmaria-c1731-2
+71: cas$stmaria-c1731-3
+103: cas$stmaria-c1731-4
+141: cas$stmaria-c1731-5
+176: cas$stmaria-c1731-6
+210: cas$stmaria-c1731-7
+246: cas$stmaria-c1731-8
+280: cas$stmaria-c1731-9
+313: cas$stmaria-c1732-1
+344: cas$stmaria-c1732-2
+379: cas$stmaria-c1732-3
+417: cas$stmaria-c1732-4
+456: cas$stmaria-c1732-5
+493: cas$stmaria-c1733-1
+523: cas$stmaria-c1733-2
+561: cas$stmaria-c1733-3
+
+ERROR: santamaria-c1731-1733.cli line 566 *** Current group locmorte cannot be linked with previous group ls(att-241)
+Near lines: 566                ls$morta/antes 
+Near lines: 567                ls$morta/antes 
+
+
+ERROR: santamaria-c1731-1733.cli line 566 ***locmorte group not stored.
+Near lines: 566                ls$morta/antes 
+Near lines: 567                ls$morta/antes 
+
+
+ERROR: santamaria-c1731-1733.cli line 566 ** Failure. Could not process group locmorte
+Near lines: 566                ls$morta/antes 
+Near lines: 567                ls$morta/antes 
+
+
+ERROR: santamaria-c1731-1733.cli line 569 Bad date format:lisboa, hospital real de todos os santos. Use YYYYMMDD, YYYY-MM-DD, FROM_DATE:UNTIL_DATE, >DATE or <DATE
+Near lines: 569 
+Near lines: 570          noiva$luzia rodrigues/id=c1733-3-per3
+
+
+WARNING: santamaria-c1731-1733.cli line 569 Element value exceeds database field length: data=lisboa, hospital real de todos os santos. Size:40 limit: 24
+Near lines: 569 
+Near lines: 570          noiva$luzia rodrigues/id=c1733-3-per3
+
+598: cas$stmaria-c1733-4
+632: cas$stmaria-c1733-5
+675: cas$stmaria-c1733-6
+712: cas$stmaria-c1733-7
+752: cas$stmaria-c1733-8
+791: cas$stmaria-c1733-9
+829: cas$stmaria-c1733-10
+871: cas$stmaria-c1734-100
+900: cas$stmaria-c1734-101
+930: cas$stmaria-c1734-102
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1731-1733.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1731-1733.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1731-1733.old
+4  errors. 
+2  warnings.
+Groups in this file:[marido1,mulher1,rel,referido,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

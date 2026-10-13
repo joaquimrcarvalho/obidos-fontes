@@ -1,0 +1,85 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1786-1790.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1786-1790
+
+WARNING: santamaria-c1786-1790.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1786-1790 Id: stmaria-casamentos1786-1790.
+Near lines: 3 
+Near lines: 4       cas$c1786-1/30/1/1786/fl.14-14v./igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva. o casamento realizou-se numa segunda-feira pelas 3 horas da tarde
+
+6: cas$stmaria-c1786-1
+37: cas$stmaria-c1786-2
+68: cas$stmaria-c1786-3
+99: cas$stmaria-c1786-4
+139: cas$stmaria-c1786-5
+178: cas$stmaria-c1786-6
+213: cas$stmaria-c1787-1
+244: cas$stmaria-c1787-2
+276: cas$stmaria-c1787-3
+305: cas$stmaria-c1787-4
+343: cas$stmaria-c1787-5
+374: cas$stmaria-c1787-6
+
+WARNING: santamaria-c1786-1790.cli line 373 Element value exceeds database field length: loc=ermida de nossa senhora da graca, anexa da freguesia de santa maria. Size:67 limit: 64
+Near lines: 373 
+Near lines: 374          noivo$luis de oliveira/id=c1787-6-per1
+
+415: cas$stmaria-c1788-1
+446: cas$stmaria-c1788-2
+
+WARNING: santamaria-c1786-1790.cli line 445 Element value exceeds database field length: loc=ermida de nossa senhora da graca, anexa da freguesia de santa maria. Size:67 limit: 64
+Near lines: 445 
+Near lines: 446          noivo$felix jose sobral/id=c1788-2-per1
+
+483: cas$stmaria-c1788-3
+515: cas$stmaria-c1788-4
+554: cas$stmaria-c1788-5
+585: cas$stmaria-c1788-6
+616: cas$stmaria-c1789-1
+647: cas$stmaria-c1789-2
+679: cas$stmaria-c1789-3
+
+WARNING: santamaria-c1786-1790.cli line 678 Element value exceeds database field length: loc=ermida de nossa senhora da graca, anexa da freguesia de santa maria. Size:67 limit: 64
+Near lines: 678 
+Near lines: 679          noivo$joao manuel de seixas/id=c1789-3-per1
+
+721: cas$stmaria-c1789-4
+753: cas$stmaria-c1789-5
+785: cas$stmaria-c1789-6
+822: cas$stmaria-c1789-7
+862: cas$stmaria-c1789-8
+893: cas$stmaria-c1790-1
+924: cas$stmaria-c1790-1a
+955: cas$stmaria-c1790-2
+988: cas$stmaria-c1790-3
+1016: cas$stmaria-c1790-4
+1047: cas$stmaria-c1790-5
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1786-1790.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1786-1790.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1786-1790.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1786-1790.ids
+0  errors. 
+4  warnings.
+Groups in this file:[rel,mulher1,referido,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

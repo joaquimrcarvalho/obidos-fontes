@@ -1,0 +1,92 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file ST-1726-1729.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1726-1729
+
+WARNING: ST-1726-1729.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1726-1729 Id: stiago-baptismos 1726-1729.
+Near lines: 3 
+Near lines: 4       bap$b1726-1/23/3/1726/fl.88v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+6: bap$stiago-b1726-1
+23: bap$stiago-b1726-2
+38: bap$stiago-b1726-3
+54: bap$stiago-b1726-4
+67: bap$stiago-b1726-5
+84: bap$stiago-b1726-6
+96: bap$stiago-b1726-7
+113: bap$stiago-b1726-8
+133: bap$stiago-b1726-9
+147: bap$stiago-b1726-10
+164: bap$stiago-b1726-11
+184: bap$stiago-b1727-12
+199: bap$stiago-b1727-13
+217: bap$stiago-b1727-14
+233: bap$stiago-b1727-15
+248: bap$stiago-b1727-16
+270: bap$stiago-b1727-17
+290: bap$stiago-b1727-18
+307: bap$stiago-b1727-19
+324: bap$stiago-b1727-20
+342: bap$stiago-b1727-21
+359: bap$stiago-b1727-22
+375: bap$stiago-b1727-23
+390: bap$stiago-b1727-24
+405: bap$stiago-b1727-25
+420: bap$stiago-b1728-26
+435: bap$stiago-b1728-27
+450: bap$stiago-b1728-28
+470: bap$stiago-b1728-29
+485: bap$stiago-b1728-30
+503: bap$stiago-b1728-31
+519: bap$stiago-b1728-32
+
+WARNING: ST-1726-1729.cli line 535 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 535 
+Near lines: 536          referido$antonio coelho de miranda/id=b1728-32-per5
+
+549: bap$stiago-b1728-33
+564: bap$stiago-b1729-34
+581: bap$stiago-b1729-35
+596: bap$stiago-b1729-36
+619: bap$stiago-b1729-37
+634: bap$stiago-b1729-38
+650: bap$stiago-b1729-39
+665: bap$stiago-b1729-40
+680: bap$stiago-b1729-41
+699: bap$stiago-b1729-42
+716: bap$stiago-b1729-43
+736: bap$stiago-b1729-43a
+751: bap$stiago-b1729-44
+766: bap$stiago-b1729-45
+783: bap$stiago-b1729-46
+*** End of File
+
+Line 315 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1716-8-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 320 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1716-8-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1726-1729.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1726-1729.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1726-1729.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1726-1729.ids
+0  errors. 
+2  warnings.
+Groups in this file:[ppad,pmad,procurador-mad,mrmad,mad,rel,referido,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

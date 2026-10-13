@@ -1,0 +1,56 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-19
+
+Processing data file santamaria-c1616-1620.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1616-1620
+
+WARNING: santamaria-c1616-1620.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1616-1620 Id: stmaria-casamentos1616-1620.
+Near lines: 3 
+Near lines: 4       cas$c1616-1/16/5/1616/fl.107/igreja de santa maria/luis andre/obs=assina luis andre e enumera as testemunhas e acrescenta "e outras pessoas mais"
+
+6: cas$stmaria-c1616-1
+23: cas$stmaria-c1616-2
+36: cas$stmaria-c1616-3
+48: cas$stmaria-c1616-4
+62: cas$stmaria-c1617-1
+76: cas$stmaria-c1617-2
+89: cas$stmaria-c1618-1
+102: cas$stmaria-c1618-2
+114: cas$stmaria-c1618-3
+128: cas$stmaria-c1618-4
+144: cas$stmaria-c1618-5
+160: cas$stmaria-c1619-1
+175: cas$stmaria-c1619-2
+188: cas$stmaria-c1619-3
+204: cas$stmaria-c1619-4
+219: cas$stmaria-c1620-1
+233: cas$stmaria-c1620-2
+246: cas$stmaria-c1620-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1616-1620.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1616-1620.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1616-1620.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1616-1620.ids
+0  errors. 
+1  warnings.
+Groups in this file:[test,noiva,ls,noivo,cas,fonte,kleio]
+Translation finished.

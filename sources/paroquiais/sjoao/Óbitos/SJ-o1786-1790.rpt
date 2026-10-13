@@ -1,0 +1,163 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-17
+
+Processing data file SJ-o1786-1790.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1786-1790
+
+WARNING: SJ-o1786-1790.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1786-1790 Id: sjoao-obitos1786-1790.
+Near lines: 3 
+Near lines: 4       obito$o1786-1/26/1/1786/fl.157v./jose antonio de figueiredo monteiro (prior)
+
+6: obito$sjoao-o1786-1
+21: obito$sjoao-o1786-2
+39: obito$sjoao-o1786-3
+57: obito$sjoao-o1786-4
+73: obito$sjoao-o1786-5
+90: obito$sjoao-o1786-6
+104: obito$sjoao-o1786-7
+120: obito$sjoao-o1786-8
+137: obito$sjoao-o1786-9
+152: obito$sjoao-o1786-10
+178: obito$sjoao-o1786-11
+196: obito$sjoao-o1786-12
+211: obito$sjoao-o1786-13
+228: obito$sjoao-o1786-14
+246: obito$sjoao-o1786-15
+262: obito$sjoao-o1786-16
+279: obito$sjoao-o1786-17
+295: obito$sjoao-o1786-18
+315: obito$sjoao-o1786-19
+335: obito$sjoao-o1786-20
+352: obito$sjoao-o1786-21
+368: obito$sjoao-o1786-22
+383: obito$sjoao-o1786-23
+407: obito$sjoao-o1786-24
+425: obito$sjoao-o1786-25
+445: obito$sjoao-o1786-26
+461: obito$sjoao-o1787-1
+479: obito$sjoao-o1787-2
+497: obito$sjoao-o1787-3
+513: obito$sjoao-o1787-4
+536: obito$sjoao-o1787-5
+555: obito$sjoao-o1787-6
+570: obito$sjoao-o1787-7
+586: obito$sjoao-o1787-8
+607: obito$sjoao-o1787-9
+626: obito$sjoao-o1787-10
+651: obito$sjoao-o1787-11
+671: obito$sjoao-o1787-12
+691: obito$sjoao-o1787-13
+709: obito$sjoao-o1787-14
+727: obito$sjoao-o1787-15
+743: obito$sjoao-o1787-16
+761: obito$sjoao-o1787-17
+784: obito$sjoao-o1787-18
+803: obito$sjoao-o1788-1
+819: obito$sjoao-o1788-2
+837: obito$sjoao-o1788-3
+851: obito$sjoao-o1788-4
+867: obito$sjoao-o1788-5
+881: obito$sjoao-o1788-6
+896: obito$sjoao-o1788-7
+915: obito$sjoao-o1788-8
+930: obito$sjoao-o1788-9
+949: obito$sjoao-o1788-10
+968: obito$sjoao-o1788-11
+982: obito$sjoao-o1788-12
+1001: obito$sjoao-o1788-13
+1015: obito$sjoao-o1788-14
+1029: obito$sjoao-o1788-15
+1047: obito$sjoao-o1788-16
+1062: obito$sjoao-o1788-17
+1083: obito$sjoao-o1788-18
+1104: obito$sjoao-o1788-19
+1120: obito$sjoao-o1788-20
+1138: obito$sjoao-o1788-21
+1158: obito$sjoao-o1788-22
+1176: obito$sjoao-o1788-23
+1192: obito$sjoao-o1788-24
+1212: obito$sjoao-o1788-27
+1232: obito$sjoao-o1789-1
+1248: obito$sjoao-o1789-2
+1263: obito$sjoao-o1789-3
+1280: obito$sjoao-o1789-4
+1296: obito$sjoao-o1789-5
+1313: obito$sjoao-o1789-6
+1331: obito$sjoao-o1789-7
+1347: obito$sjoao-o1789-8
+1364: obito$sjoao-o1789-9
+1384: obito$sjoao-o1789-10
+1404: obito$sjoao-o1789-11
+1424: obito$sjoao-o1789-12
+1448: obito$sjoao-o1789-13
+1469: obito$sjoao-o1789-14
+1489: obito$sjoao-o1789-15
+1509: obito$sjoao-o1789-16
+1528: obito$sjoao-o1789-17
+1548: obito$sjoao-o1789-18
+1565: obito$sjoao-o1789-19
+1581: obito$sjoao-o1789-20
+1602: obito$sjoao-o1789-21
+1617: obito$sjoao-o1789-22
+1640: obito$sjoao-o1789-23
+1656: obito$sjoao-o1789-24
+1674: obito$sjoao-o1789-25
+1690: obito$sjoao-o1789-26
+1712: obito$sjoao-o1790-1
+1728: obito$sjoao-o1790-2
+1744: obito$sjoao-o1790-3
+1759: obito$sjoao-o1790-4
+1780: obito$sjoao-o1790-5
+1796: obito$sjoao-o1790-6
+1812: obito$sjoao-o1790-7
+1828: obito$sjoao-o1790-8
+1844: obito$sjoao-o1790-9
+1858: obito$sjoao-o1790-10
+1877: obito$sjoao-o1790-11
+1895: obito$sjoao-o1790-12
+1909: obito$sjoao-o1790-13
+1931: obito$sjoao-o1790-14
+1943: obito$sjoao-o1790-15
+1952: obito$sjoao-o1790-16
+1965: obito$sjoao-o1790-17
+1985: obito$sjoao-o1790-18
+1996: obito$sjoao-o1790-19
+2015: obito$sjoao-o1790-20
+2033: obito$sjoao-o1790-21
+2052: obito$sjoao-o1790-22
+2070: obito$sjoao-o1790-23
+2090: obito$sjoao-o1790-24
+2109: obito$sjoao-o1790-25
+2128: obito$sjoao-o1790-26
+2145: obito$sjoao-o1790-27
+2168: obito$sjoao-o1790-28
+2189: obito$sjoao-o1790-29
+2207: obito$sjoao-o1790-30
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1786-1790.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1786-1790.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1786-1790.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1786-1790.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referida,rel,referido,testamento,oficios,mulher,causa,mae,pai,marido,locs,sacr,locf,ls,n,obito,fonte,kleio]
+Translation finished.

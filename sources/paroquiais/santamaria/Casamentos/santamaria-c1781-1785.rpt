@@ -1,0 +1,66 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1781-1785.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1781-1785
+
+WARNING: santamaria-c1781-1785.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1781-1785 Id: stmaria-casamentos1781-1785.
+Near lines: 3 
+Near lines: 4       cas$c1781-1/26/2/1781/fl.5/igreja de santa maria/joao carlos da silva (padre)/obs=assina o paroco joao carlos da silva
+
+6: cas$stmaria-c1781-1
+39: cas$stmaria-c1781-2
+
+WARNING: santamaria-c1781-1785.cli line 38 Element value exceeds database field length: loc=ermida de nossa senhora de monserrate, anexa da freguesia de santa maria. Size:72 limit: 64
+Near lines: 38 
+Near lines: 39          noivo$joaquim francisco/id=c1781-2-per1
+
+71: cas$stmaria-c1781-3
+103: cas$stmaria-c1781-4
+138: cas$stmaria-c1781-5
+168: cas$stmaria-c1781-6
+200: cas$stmaria-c1781-7
+231: cas$stmaria-c1782-1
+260: cas$stmaria-c1782-2
+292: cas$stmaria-c1782-3
+329: cas$stmaria-c1782-4
+358: cas$stmaria-c1783-1
+383: cas$stmaria-c1783-2
+418: cas$stmaria-c1783-3
+459: cas$stmaria-c1784-1
+489: cas$stmaria-c1784-2
+518: cas$stmaria-c1784-3
+561: cas$stmaria-c1784-4
+593: cas$stmaria-c1785-1
+625: cas$stmaria-c1785-2
+655: cas$stmaria-c1785-3
+697: cas$stmaria-c1785-4
+730: cas$stmaria-c1785-5
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1781-1785.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1781-1785.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1781-1785.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1781-1785.ids
+0  errors. 
+2  warnings.
+Groups in this file:[rel,referido,marido1,mulher1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

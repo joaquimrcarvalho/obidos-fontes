@@ -1,0 +1,51 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-35
+
+Processing data file saopedro-c1798-1800.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-casamentos1798-1800
+
+WARNING: saopedro-c1798-1800.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-c1798-1800 Id: spedro-casamentos1798-1800.
+Near lines: 3 
+Near lines: 4       cas$c1798-1/22/1/1798/fl.27v.-28/igreja da santa casa da misericordia de obidos/joaquim jose de matos (cura, beneficiado)/obs=assina o cura o beneficiado joaquim jose de matos. o casamento realizou-se de manha.
+
+6: cas$spedro-c1798-1
+33: cas$spedro-c1798-2
+60: cas$spedro-c1798-3
+86: cas$spedro-c1798-4
+118: cas$spedro-c1798-5
+147: cas$spedro-c1799-1
+176: cas$spedro-c1799-2
+209: cas$spedro-c1799-3
+245: cas$spedro-c1800-1
+285: cas$spedro-c1800-2
+312: cas$spedro-c1800-3
+339: cas$spedro-c1800-4
+366: cas$spedro-c1800-5
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1798-1800.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1798-1800.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1798-1800.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1798-1800.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mulher1,rel,referido,marido1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

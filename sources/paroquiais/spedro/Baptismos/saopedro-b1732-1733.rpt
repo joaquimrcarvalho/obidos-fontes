@@ -1,0 +1,78 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-32
+
+Processing data file saopedro-b1732-1733.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1732-1733
+
+WARNING: saopedro-b1732-1733.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1732-1733 Id: spedro-baptismos1732-1733.
+Near lines: 3 
+Near lines: 4       bap$b1732-1/6/1/1732/fl.27/igreja de sao pedro/manuel leal henriques (padre, cura na igreja de sao pedro)/obs=assina o cura manuel leal henriques.
+
+6: bap$spedro-b1732-1
+28: bap$spedro-b1732-2
+42: bap$spedro-b1732-3
+62: bap$spedro-b1732-4
+80: bap$spedro-b1732-5
+100: bap$spedro-b1732-6
+117: bap$spedro-b1732-7
+139: bap$spedro-b1732-8
+157: bap$spedro-b1732-9
+173: bap$spedro-b1732-10
+194: bap$spedro-b1732-11
+217: bap$spedro-b1732-12
+239: bap$spedro-b1732-13
+254: bap$spedro-b1732-14
+269: bap$spedro-b1733-1
+296: bap$spedro-b1733-2
+321: bap$spedro-b1733-2a
+347: bap$spedro-b1733-3
+365: bap$spedro-b1733-4
+383: bap$spedro-b1733-5
+409: bap$spedro-b1733-6
+430: bap$spedro-b1733-7
+459: bap$spedro-b1733-8
+479: bap$spedro-b1733-9
+496: bap$spedro-b1733-10
+514: bap$spedro-b1733-11
+530: bap$spedro-b1733-12
+547: bap$spedro-b1733-13
+565: bap$spedro-b1733-14
+584: bap$spedro-b1733-15
+612: bap$spedro-b1733-16
+631: bap$spedro-b1733-17
+648: bap$spedro-b1733-18
+
+WARNING: saopedro-b1732-1733.cli line 665 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 665          procurador-mad1$francisco gomes/mesmo_que=b1733-18-referido/id=b1733-18-per5
+Near lines: 666             ls$residencia/usseira
+
+679: bap$spedro-b1733-19
+696: bap$spedro-b1733-20
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1732-1733.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1732-1733.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1732-1733.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1732-1733.ids
+0  errors. 
+2  warnings.
+Groups in this file:[procurador-mad1,procurador-pad1,referido,rel,mad1,pad1,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

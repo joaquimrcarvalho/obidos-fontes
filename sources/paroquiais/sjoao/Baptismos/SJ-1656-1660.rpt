@@ -1,0 +1,134 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-18
+
+Processing data file SJ-1656-1660.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1656-1660
+
+WARNING: SJ-1656-1660.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1656-1660 Id: sjoao-baptismos1656-1660.
+Near lines: 3 
+Near lines: 4       bap$b1656-1/12/1/1656/fl.2/francisco carreira da silva (padre, cura na igreja de sao joao)/obs=assina francisco de sousa vigario de sao joao
+
+6: bap$sjoao-b1656-1
+20: bap$sjoao-b1656-2
+38: bap$sjoao-b1656-3
+54: bap$sjoao-b1656-4
+72: bap$sjoao-b1656-5
+91: bap$sjoao-b1656-6
+107: bap$sjoao-b1656-7
+121: bap$sjoao-b1656-8
+141: bap$sjoao-b1656-9
+157: bap$sjoao-b1656-10
+174: bap$sjoao-b1656-11
+190: bap$sjoao-b1656-12
+205: bap$sjoao-b1656-13
+221: bap$sjoao-b1656-14
+238: bap$sjoao-b1656-15
+256: bap$sjoao-b1656-16
+274: bap$sjoao-b1656-17
+289: bap$sjoao-b1657-1
+307: bap$sjoao-b1657-2
+321: bap$sjoao-b1657-3
+340: bap$sjoao-b1657-4
+354: bap$sjoao-b1657-5
+369: bap$sjoao-b1657-6
+383: bap$sjoao-b1657-7
+402: bap$sjoao-b1657-8
+418: bap$sjoao-b1657-9
+437: bap$sjoao-b1657-10
+453: bap$sjoao-b1657-11
+472: bap$sjoao-b1657-12
+490: bap$sjoao-b1657-13
+506: bap$sjoao-b1657-14
+522: bap$sjoao-b1657-15
+536: bap$sjoao-b1657-16
+552: bap$sjoao-b1657-17
+567: bap$sjoao-b1657-18
+583: bap$sjoao-b1658-1
+599: bap$sjoao-b1658-2
+615: bap$sjoao-b1658-3
+631: bap$sjoao-b1658-4
+646: bap$sjoao-b1658-5
+662: bap$sjoao-b1658-6
+678: bap$sjoao-b1658-7
+694: bap$sjoao-b1658-8
+710: bap$sjoao-b1658-9
+726: bap$sjoao-b1658-10
+742: bap$sjoao-b1658-11
+756: bap$sjoao-b1658-12
+774: bap$sjoao-b1658-12a
+790: bap$sjoao-b1658-13
+804: bap$sjoao-b1658-14
+820: bap$sjoao-b1658-15
+836: bap$sjoao-b1658-16
+848: bap$sjoao-b1658-16a
+863: bap$sjoao-b1659-1
+879: bap$sjoao-b1659-2
+895: bap$sjoao-b1659-3
+908: bap$sjoao-b1659-4
+924: bap$sjoao-b1659-5
+941: bap$sjoao-b1659-6
+957: bap$sjoao-b1659-7
+973: bap$sjoao-b1659-8
+989: bap$sjoao-b1659-9
+1005: bap$sjoao-b1659-10
+1022: bap$sjoao-b1659-11
+1038: bap$sjoao-b1659-12
+1054: bap$sjoao-b1659-13
+1070: bap$sjoao-b1659-13a
+1085: bap$sjoao-b1659-14
+1102: bap$sjoao-b1659-15
+1118: bap$sjoao-b1659-16
+1134: bap$sjoao-b1659-17
+1150: bap$sjoao-b1660-1
+1166: bap$sjoao-b1660-2
+1182: bap$sjoao-b1660-3
+1197: bap$sjoao-b1660-4
+1213: bap$sjoao-b1660-5
+1228: bap$sjoao-b1660-6
+1244: bap$sjoao-b1660-7
+1260: bap$sjoao-b1660-8
+1276: bap$sjoao-b1660-9
+1292: bap$sjoao-b1660-10
+1309: bap$sjoao-b1660-11
+
+WARNING: SJ-1656-1660.cli line 1308 Element value exceeds database field length: loc=francisco de melo da silva (reverendo, vigario da igreja de sao joao). Size:69 limit: 64
+Near lines: 1308 
+Near lines: 1309          n$isabel/f/id=b1660-11-per1
+
+1323: bap$sjoao-b1660-12
+1339: bap$sjoao-b1660-13
+1355: bap$sjoao-b1660-14
+1371: bap$sjoao-b1660-15
+1387: bap$sjoao-b1660-16
+1402: bap$sjoao-b1660-17
+1418: bap$sjoao-b1660-18
+1434: bap$sjoao-b1660-19
+1450: bap$sjoao-b1660-20
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1656-1660.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1656-1660.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1656-1660.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1656-1660.ids
+0  errors. 
+2  warnings.
+Groups in this file:[referida,referido,mmad1,pmad1,mrmad1,rel,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

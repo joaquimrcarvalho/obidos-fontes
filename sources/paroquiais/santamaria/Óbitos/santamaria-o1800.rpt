@@ -1,0 +1,77 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-19
+
+Processing data file santamaria-o1800.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1800
+
+WARNING: santamaria-o1800.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1800 Id: stmaria-obitos1800.
+Near lines: 3 
+Near lines: 4       obito$o1800-1/8/1/1800/fl.21/jose joaquim xavier tavares (prior)
+
+6: obito$stmaria-o1800-1
+16: obito$stmaria-o1800-2
+31: obito$stmaria-o1800-3
+46: obito$stmaria-o1800-4
+57: obito$stmaria-o1800-5
+71: obito$stmaria-o1800-6
+89: obito$stmaria-o1800-7
+105: obito$stmaria-o1800-8
+116: obito$stmaria-o1800-9
+126: obito$stmaria-o1800-10
+139: obito$stmaria-o1800-11
+153: obito$stmaria-o1800-12
+165: obito$stmaria-o1800-13
+179: obito$stmaria-o1800-14
+196: obito$stmaria-o1800-15
+212: obito$stmaria-o1800-16
+225: obito$stmaria-o1800-17
+239: obito$stmaria-o1800-18
+251: obito$stmaria-o1800-19
+262: obito$stmaria-o1800-20
+273: obito$stmaria-o1800-21
+290: obito$stmaria-o1800-22
+306: obito$stmaria-o1800-23
+322: obito$stmaria-o1800-24
+334: obito$stmaria-o1800-25
+346: obito$stmaria-o1800-26
+359: obito$stmaria-o1800-27
+374: obito$stmaria-o1800-28
+388: obito$stmaria-o1800-29
+403: obito$stmaria-o1800-30
+418: obito$stmaria-o1800-31
+429: obito$stmaria-o1800-32
+440: obito$stmaria-o1800-33
+451: obito$stmaria-o1800-34
+460: obito$stmaria-o1800-35
+475: obito$stmaria-o1800-36
+486: obito$stmaria-o1800-37
+499: obito$stmaria-o1800-38
+511: obito$stmaria-o1800-39
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1800.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1800.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1800.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1800.ids
+0  errors. 
+1  warnings.
+Groups in this file:[locf,mae,pai,referido,rel,referida,marido,causa,mulher,testamento,locs,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

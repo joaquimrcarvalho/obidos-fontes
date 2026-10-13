@@ -1,0 +1,235 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file santamaria-1736-1740.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1736-1740
+
+WARNING: santamaria-1736-1740.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1736-1740 Id: stmaria-baptismos1736-1740.
+Near lines: 3 
+Near lines: 4       bap$b1736-1/12/1/1736/fl.11/igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos
+
+
+WARNING: santamaria-1736-1740.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1736-1/12/1/1736/fl.11/igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos
+
+6: bap$stmaria-b1736-1
+25: bap$stmaria-b1736-2
+46: bap$stmaria-b1736-3
+70: bap$stmaria-b1736-4
+89: bap$stmaria-b1736-5
+109: bap$stmaria-b1736-6
+127: bap$stmaria-b1736-7
+144: bap$stmaria-b1736-8
+158: bap$stmaria-b1736-9
+179: bap$stmaria-b1736-10
+195: bap$stmaria-b1736-11
+213: bap$stmaria-b1736-12
+229: bap$stmaria-b1736-13
+245: bap$stmaria-b1736-14
+275: bap$stmaria-b1736-15
+
+WARNING: santamaria-1736-1740.cli line 291 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 291 
+Near lines: 292       bap$b1736-16/2/8/1736/fl.14v./igreja de santa maria/jose de matos (cura da igreja de santa maria)/obs=assina o cura jose de matos
+
+294: bap$stmaria-b1736-16
+313: bap$stmaria-b1736-17
+333: bap$stmaria-b1736-18
+352: bap$stmaria-b1736-19
+368: bap$stmaria-b1736-20
+386: bap$stmaria-b1736-21
+408: bap$stmaria-b1736-22
+428: bap$stmaria-b1736-23
+447: bap$stmaria-b1736-24
+471: bap$stmaria-b1736-25
+493: bap$stmaria-b1736-26
+518: bap$stmaria-b1736-27
+538: bap$stmaria-b1736-28
+563: bap$stmaria-b1736-29
+583: bap$stmaria-b1736-30
+605: bap$stmaria-b1737-1
+619: bap$stmaria-b1737-2
+643: bap$stmaria-b1737-3
+663: bap$stmaria-b1737-4
+688: bap$stmaria-b1737-5
+709: bap$stmaria-b1737-6
+730: bap$stmaria-b1737-7
+751: bap$stmaria-b1737-8
+767: bap$stmaria-b1737-9
+784: bap$stmaria-b1737-10
+802: bap$stmaria-b1737-11
+818: bap$stmaria-b1737-12
+842: bap$stmaria-b1737-13
+860: bap$stmaria-b1737-14
+881: bap$stmaria-b1737-15
+910: bap$stmaria-b1737-16
+930: bap$stmaria-b1737-17
+944: bap$stmaria-b1737-18
+964: bap$stmaria-b1737-19
+981: bap$stmaria-b1737-20
+997: bap$stmaria-b1737-21
+1012: bap$stmaria-b1737-22
+1034: bap$stmaria-b1737-23
+1048: bap$stmaria-b1737-24
+1076: bap$stmaria-b1737-25
+1095: bap$stmaria-b1738-1
+1125: bap$stmaria-b1738-2
+1140: bap$stmaria-b1738-3
+1155: bap$stmaria-b1738-4
+1172: bap$stmaria-b1738-5
+1189: bap$stmaria-b1738-6
+1208: bap$stmaria-b1738-7
+1224: bap$stmaria-b1738-8
+1248: bap$stmaria-b1738-9
+1268: bap$stmaria-b1738-10
+1291: bap$stmaria-b1738-11
+1311: bap$stmaria-b1738-12
+1327: bap$stmaria-b1738-13
+1344: bap$stmaria-b1738-14
+
+WARNING: santamaria-1736-1740.cli line 1347 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1347          pn$antonio pedro/mesmo_que=b1736-11-ped/id=b1738-14-per2
+Near lines: 1348             ls$residencia/a da gorda
+
+1365: bap$stmaria-b1738-15
+1383: bap$stmaria-b1738-16
+1399: bap$stmaria-b1738-17
+1427: bap$stmaria-b1738-18
+1446: bap$stmaria-b1738-19
+1472: bap$stmaria-b1738-20
+1494: bap$stmaria-b1738-21
+
+WARNING: santamaria-1736-1740.cli line 1500 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1500          mn$maria craveiro da silva/mesmo_que=b1737-3-maria/id=b1738-21-per3
+Near lines: 1501             ls$residencia/obidos
+
+1523: bap$stmaria-b1738-22
+1545: bap$stmaria-b1738-23
+1565: bap$stmaria-b1738-24
+1579: bap$stmaria-b1739-1
+1592: bap$stmaria-b1739-2
+1616: bap$stmaria-b1739-3
+1629: bap$stmaria-b1739-4
+1648: bap$stmaria-b1739-5
+1677: bap$stmaria-b1739-6
+1702: bap$stmaria-b1739-7
+1724: bap$stmaria-b1739-8
+1744: bap$stmaria-b1739-9
+1767: bap$stmaria-b1739-10
+1787: bap$stmaria-b1739-11
+1816: bap$stmaria-b1739-12
+1839: bap$stmaria-b1739-13
+1857: bap$stmaria-b1739-14
+1881: bap$stmaria-b1739-15
+1903: bap$stmaria-b1739-16
+1928: bap$stmaria-b1739-17
+1949: bap$stmaria-b1739-18
+1966: bap$stmaria-b1739-19
+1983: bap$stmaria-b1739-20
+1999: bap$stmaria-b1739-21
+2015: bap$stmaria-b1739-22
+2033: bap$stmaria-b1739-23
+2055: bap$stmaria-b1739-24
+2077: bap$stmaria-b1739-25
+2096: bap$stmaria-b1739-26
+2117: bap$stmaria-b1739-27
+2136: bap$stmaria-b1739-28
+2168: bap$stmaria-b1739-29
+2185: bap$stmaria-b1739-30
+2207: bap$stmaria-b1739-31
+2231: bap$stmaria-b1740-1
+2255: bap$stmaria-b1740-2
+2275: bap$stmaria-b1740-3
+2292: bap$stmaria-b1740-4
+2318: bap$stmaria-b1740-5
+2338: bap$stmaria-b1740-6
+2362: bap$stmaria-b1740-7
+2376: bap$stmaria-b1740-8
+2397: bap$stmaria-b1740-9
+2419: bap$stmaria-b1740-10
+2434: bap$stmaria-b1740-11
+2453: bap$stmaria-b1740-12
+2476: bap$stmaria-b1740-13
+2499: bap$stmaria-b1740-14
+2523: bap$stmaria-b1740-15
+
+WARNING: santamaria-1736-1740.cli line 2530 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 2530          pad1$manuel de faria/mesmo_que=b17340-14-faria/id=b1740-15-per3
+Near lines: 2531             ls$cargo/procurador do concelho
+
+2548: bap$stmaria-b1740-15a
+2576: bap$stmaria-b1740-16
+2593: bap$stmaria-b1740-17
+2610: bap$stmaria-b1740-18
+2622: bap$stmaria-b1740-19
+2639: bap$stmaria-b1740-20
+2662: bap$stmaria-b1740-21
+2683: bap$stmaria-b1740-22
+2700: bap$stmaria-b1740-23
+2715: bap$stmaria-b1740-24
+2740: bap$stmaria-b1740-25
+2760: bap$stmaria-b1740-26
+2781: bap$stmaria-b1740-27
+
+WARNING: santamaria-1736-1740.cli line 2788 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 2788          pad1$manuel de faria/mesmo_que=b1640-14-faria/id=b1740-27-per3
+Near lines: 2789             ls$cargo/procurador do concelho
+
+2806: bap$stmaria-b1740-28
+*** End of File
+
+ERROR: santamaria-1736-1740.cli line 291  Could not find same_as id stmaria-b1736-15-vieira. If  original reference is on another file use xsame_as
+Near lines: 291 Near lines: 292 
+
+ERROR: santamaria-1736-1740.cli line 1347  Could not find same_as id stmaria-b1736-11-ped. If  original reference is on another file use xsame_as
+Near lines: 1347 Near lines: 1348 
+
+ERROR: santamaria-1736-1740.cli line 1500  Could not find same_as id stmaria-b1737-3-maria. If  original reference is on another file use xsame_as
+Near lines: 1500 Near lines: 1501 
+
+ERROR: santamaria-1736-1740.cli line 2530  Could not find same_as id stmaria-b17340-14-faria. If  original reference is on another file use xsame_as
+Near lines: 2530 Near lines: 2531 
+
+ERROR: santamaria-1736-1740.cli line 2788  Could not find same_as id stmaria-b1640-14-faria. If  original reference is on another file use xsame_as
+Near lines: 2788 Near lines: 2789 
+
+Line 83 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-30-malhao) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 87 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-30-malhao) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 322 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-30-malhao) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 593 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1708-25-matoso) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1029 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1735-11-arruda) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1117 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-23-leandro) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1121 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-23-leandro) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1415 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-30-malhao) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1867 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-30-malhao) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1916 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-30-malhao) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 2217 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-23-leandro) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 2248 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-30-malhao) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 2386 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-23-leandro) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 2817 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1719-23-leandro) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1736-1740.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1736-1740.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1736-1740.old
+5  errors. 
+7  warnings.
+Groups in this file:[mpad1,mmad1,referida,procurador-pad1,referido,rel,ppad1,procurador-mad1,mrmad1,pmad1,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

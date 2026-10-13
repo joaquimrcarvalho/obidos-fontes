@@ -1,0 +1,171 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file santamaria-1656-1660.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1656-1660
+
+WARNING: santamaria-1656-1660.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1656-1660 Id: stmaria-baptismos1656-1660.
+Near lines: 3 
+Near lines: 4       bap$b1656-1/16/1/1656/fl.24v./igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos
+
+
+WARNING: santamaria-1656-1660.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1656-1/16/1/1656/fl.24v./igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos
+
+6: bap$stmaria-b1656-1
+21: bap$stmaria-b1656-2
+37: bap$stmaria-b1656-3
+51: bap$stmaria-b1656-4
+67: bap$stmaria-b1656-5
+82: bap$stmaria-b1656-6
+99: bap$stmaria-b1656-7
+112: bap$stmaria-b1656-8
+129: bap$stmaria-b1656-9
+148: bap$stmaria-b1656-10
+
+WARNING: santamaria-1656-1660.cli line 159 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 159 
+Near lines: 160          mpad1$luisa jorge/id=b1656-10-per5
+
+167: bap$stmaria-b1656-11
+181: bap$stmaria-b1656-12
+196: bap$stmaria-b1656-13
+210: bap$stmaria-b1656-14
+227: bap$stmaria-b1656-15
+241: bap$stmaria-b1656-16
+259: bap$stmaria-b1656-17
+274: bap$stmaria-b1656-18
+288: bap$stmaria-b1656-19
+306: bap$stmaria-b1656-19d
+325: bap$stmaria-b1656-20
+341: bap$stmaria-b1656-21
+357: bap$stmaria-b1656-22
+370: bap$stmaria-b1656-23
+387: bap$stmaria-b1656-24
+401: bap$stmaria-b1656-25
+413: bap$stmaria-b1656-26
+429: bap$stmaria-b1657-1
+444: bap$stmaria-b1657-2
+457: bap$stmaria-b1657-3
+472: bap$stmaria-b1657-4
+488: bap$stmaria-b1657-5
+503: bap$stmaria-b1657-6
+518: bap$stmaria-b1657-7
+533: bap$stmaria-b1657-8
+553: bap$stmaria-b1657-9
+572: bap$stmaria-b1657-10
+588: bap$stmaria-b1657-11
+604: bap$stmaria-b1657-12
+625: bap$stmaria-b1657-13
+644: bap$stmaria-b1657-14
+660: bap$stmaria-b1657-15
+676: bap$stmaria-b1657-16
+692: bap$stmaria-b1657-17
+705: bap$stmaria-b1657-18
+720: bap$stmaria-b1657-19
+736: bap$stmaria-b1657-20
+752: bap$stmaria-b1657-21
+769: bap$stmaria-b1658-1
+786: bap$stmaria-b1658-2
+802: bap$stmaria-b1658-3
+817: bap$stmaria-b1658-4
+831: bap$stmaria-b1658-5
+848: bap$stmaria-b1658-6
+864: bap$stmaria-b1658-7
+878: bap$stmaria-b1658-8
+894: bap$stmaria-b1658-9
+911: bap$stmaria-b1658-10
+927: bap$stmaria-b1658-11
+942: bap$stmaria-b1658-12
+962: bap$stmaria-b1658-13
+978: bap$stmaria-b1658-14
+990: bap$stmaria-b1658-15
+1006: bap$stmaria-b1658-16
+1022: bap$stmaria-b1658-17
+1037: bap$stmaria-b1658-18
+1051: bap$stmaria-b1658-19
+1066: bap$stmaria-b1658-20
+1082: bap$stmaria-b1658-21
+1100: bap$stmaria-b1658-22
+1116: bap$stmaria-b1658-23
+1130: bap$stmaria-b1658-24
+1146: bap$stmaria-b1658-25
+1161: bap$stmaria-b1658-26
+1175: bap$stmaria-b1659-1
+1190: bap$stmaria-b1659-2
+1205: bap$stmaria-b1659-3
+1222: bap$stmaria-b1659-4
+1236: bap$stmaria-b1659-5
+1252: bap$stmaria-b1659-6
+1267: bap$stmaria-b1659-7
+1284: bap$stmaria-b1659-8
+1299: bap$stmaria-b1659-9
+1319: bap$stmaria-b1659-10
+1335: bap$stmaria-b1659-11
+1350: bap$stmaria-b1659-12
+1364: bap$stmaria-b1659-13
+1378: bap$stmaria-b1659-14
+1392: bap$stmaria-b1659-15
+1406: bap$stmaria-b1659-16
+1421: bap$stmaria-b1659-17
+1435: bap$stmaria-b1659-18
+1454: bap$stmaria-b1659-19
+1473: bap$stmaria-b1659-20
+1487: bap$stmaria-b1659-21
+1499: bap$stmaria-b1659-22
+1515: bap$stmaria-b1659-23
+1529: bap$stmaria-b1659-24
+1545: bap$stmaria-b1660-1
+1560: bap$stmaria-b1660-2
+1578: bap$stmaria-b1660-3
+1597: bap$stmaria-b1660-4
+1611: bap$stmaria-b1660-5
+1627: bap$stmaria-b1660-6
+1642: bap$stmaria-b1660-7
+1654: bap$stmaria-b1660-8
+1668: bap$stmaria-b1660-9
+1681: bap$stmaria-b1660-10
+1695: bap$stmaria-b1660-11
+1710: bap$stmaria-b1660-12
+1724: bap$stmaria-b1660-13
+1738: bap$stmaria-b1660-14
+1754: bap$stmaria-b1660-15
+1771: bap$stmaria-b1660-16
+1787: bap$stmaria-b1660-17
+1803: bap$stmaria-b1660-18
+1819: bap$stmaria-b1660-19
+1835: bap$stmaria-b1660-20
+*** End of File
+
+Line 138 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1651-14-alvaro) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 144 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1651-14-alvaro) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 302 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1652-8-adriana) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 321 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1652-8-adriana) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1468 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1652-8-adriana) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1656-1660.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1656-1660.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1656-1660.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1656-1660.ids
+0  errors. 
+3  warnings.
+Groups in this file:[referido,referida,ppad1,mpad1,mrmad1,pmad1,rel,mad1,pad2,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

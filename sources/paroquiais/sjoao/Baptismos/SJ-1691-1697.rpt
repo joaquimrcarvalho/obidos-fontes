@@ -1,0 +1,218 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1691-1697.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1691-1697
+
+WARNING: SJ-1691-1697.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1691-1697 Id: sjoao-baptismos1691-1697.
+Near lines: 3 
+Near lines: 4       bap$b1691-1/5/1/1691/fl.78v./nome desconhecido/obs=assina sebastiao de almeida trigoso. este registo foi efectuado por ordem do reverendo vigario da vara da vila por constar de uma justificação.
+
+6: bap$sjoao-b1691-1
+19: bap$sjoao-b1691-2
+39: bap$sjoao-b1691-3
+57: bap$sjoao-b1691-4
+77: bap$sjoao-b1691-5
+93: bap$sjoao-b1691-6
+112: bap$sjoao-b1691-7
+131: bap$sjoao-b1691-8
+141: bap$sjoao-b1691-9
+157: bap$sjoao-b1691-10
+177: bap$sjoao-b1691-11
+195: bap$sjoao-b1691-12
+214: bap$sjoao-b1691-13
+230: bap$sjoao-b1691-14
+246: bap$sjoao-b1691-15
+265: bap$sjoao-b1691-16
+283: bap$sjoao-b1691-17
+295: bap$sjoao-b1691-18
+311: bap$sjoao-b1691-19
+326: bap$sjoao-b1691-20
+343: bap$sjoao-b1691-21
+362: bap$sjoao-b1691-22
+378: bap$sjoao-b1691-23
+394: bap$sjoao-b1691-24
+415: bap$sjoao-b1691-25
+431: bap$sjoao-b1691-26
+447: bap$sjoao-b1691-27
+463: bap$sjoao-b1691-28
+476: bap$sjoao-b1692-1
+493: bap$sjoao-b1692-2
+513: bap$sjoao-b1692-3
+530: bap$sjoao-b1692-4
+549: bap$sjoao-b1692-5
+571: bap$sjoao-b1692-6
+592: bap$sjoao-b1692-7
+608: bap$sjoao-b1692-8
+628: bap$sjoao-b1692-9
+647: bap$sjoao-b1692-10
+663: bap$sjoao-b1692-11
+682: bap$sjoao-b1692-12
+701: bap$sjoao-b1693-1
+717: bap$sjoao-b1693-2
+736: bap$sjoao-b1693-3
+754: bap$sjoao-b1693-4
+772: bap$sjoao-b1693-5
+793: bap$sjoao-b1693-6
+809: bap$sjoao-b1693-7
+826: bap$sjoao-b1693-8
+846: bap$sjoao-b1693-9
+861: bap$sjoao-b1693-10
+877: bap$sjoao-b1693-11
+896: bap$sjoao-b1693-12
+912: bap$sjoao-b1693-13
+930: bap$sjoao-b1693-14
+946: bap$sjoao-b1693-15
+962: bap$sjoao-b1693-16
+975: bap$sjoao-b1693-17
+989: bap$sjoao-b1693-18
+1006: bap$sjoao-b1693-19
+1024: bap$sjoao-b1693-20
+1040: bap$sjoao-b1693-21
+1059: bap$sjoao-b1693-22
+1080: bap$sjoao-b1693-23
+1102: bap$sjoao-b1693-24
+1122: bap$sjoao-b1693-25
+1143: bap$sjoao-b1693-26
+1164: bap$sjoao-b1693-27
+1184: bap$sjoao-b1694-1
+1206: bap$sjoao-b1694-2
+1229: bap$sjoao-b1694-3
+1250: bap$sjoao-b1694-4
+1271: bap$sjoao-b1694-5
+1297: bap$sjoao-b1694-6
+1315: bap$sjoao-b1694-7
+1335: bap$sjoao-b1694-8
+
+WARNING: SJ-1691-1697.cli line 1343 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1343          pad1$manuel vicente/mesmo_que=b1694-8-pmad/id=b1694-8-per4
+Near lines: 1344             ls$residencia/carregal
+
+1354: bap$sjoao-b1694-9
+1382: bap$sjoao-b1694-10
+1402: bap$sjoao-b1694-11
+1433: bap$sjoao-b1694-12
+1461: bap$sjoao-b1694-13
+1487: bap$sjoao-b1694-14
+1509: bap$sjoao-b1694-15
+1526: bap$sjoao-b1694-16
+1547: bap$sjoao-b1694-17
+1566: bap$sjoao-b1694-18
+1587: bap$sjoao-b1694-19
+1616: bap$sjoao-b1694-20
+1635: bap$sjoao-b1694-21
+
+WARNING: SJ-1691-1697.cli line 1646 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1646          ppad1$manuel alvares/mesmo_que=b1694-21-pmad/id=b1694-21-per5
+Near lines: 1647             ls$residencia/carregal
+
+
+WARNING: SJ-1691-1697.cli line 1649 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1649          mpad1$catarina fernandes/mesmo_que=b1694-21-mmad/id=b1694-21-per6
+Near lines: 1650             ls$residencia/carregal
+
+1663: bap$sjoao-b1694-22
+1683: bap$sjoao-b1694-23
+1704: bap$sjoao-b1695-1
+1729: bap$sjoao-b1695-2
+1747: bap$sjoao-b1695-3
+1768: bap$sjoao-b1695-4
+1787: bap$sjoao-b1695-5
+1817: bap$sjoao-b1695-6
+1848: bap$sjoao-b1695-7
+
+WARNING: SJ-1691-1697.cli line 1858 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1858          ppad1$joao da mata geao/mesmo_que=b1695-7-pmad/id=b1695-7-per5
+Near lines: 1859             ls$residencia/caldas
+
+
+WARNING: SJ-1691-1697.cli line 1861 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1861          mpad1$madalena da silva/mesmo_que=b1695-7-mmad/id=b1695-7-per6
+Near lines: 1862             ls$residencia/caldas
+
+1874: bap$sjoao-b1695-8
+1903: bap$sjoao-b1695-9
+1922: bap$sjoao-b1695-10
+1942: bap$sjoao-b1695-11
+1959: bap$sjoao-b1695-12
+
+WARNING: SJ-1691-1697.cli line 1971 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1971          ppad1$antonio goncalves/mesmo_que=b1695-12-pmad/id=b1695-12-per4
+Near lines: 1972             ls$morto/antes
+
+
+WARNING: SJ-1691-1697.cli line 1975 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1975          mpad1$nataria francisca/mesmo_que=b1695-12-mmad/id=b1695-12-per5
+Near lines: 1976             ls$residencia/sobral
+
+1991: bap$sjoao-b1695-13
+2008: bap$sjoao-b1695-14
+2030: bap$sjoao-b1695-15
+2047: bap$sjoao-b1695-16
+2068: bap$sjoao-b1695-17
+2089: bap$sjoao-b1696-1
+2110: bap$sjoao-b1696-2
+2132: bap$sjoao-b1696-3
+2151: bap$sjoao-b1696-4
+2175: bap$sjoao-b1696-5
+2198: bap$sjoao-b1696-6
+2218: bap$sjoao-b1696-7
+2241: bap$sjoao-b1696-8
+2260: bap$sjoao-b1696-9
+2289: bap$sjoao-b1696-10
+2310: bap$sjoao-b1696-11
+2332: bap$sjoao-b1696-12
+2353: bap$sjoao-b1696-13
+2379: bap$sjoao-b1696-14
+2400: bap$sjoao-b1696-15
+2429: bap$sjoao-b1696-16
+2453: bap$sjoao-b1696-17
+2485: bap$sjoao-b1696-18
+2505: bap$sjoao-b1697-1
+2524: bap$sjoao-b1697-2
+2541: bap$sjoao-b1697-3
+2562: bap$sjoao-b1697-2a
+2582: bap$sjoao-b1697-3a
+2599: bap$sjoao-b1697-4
+2622: bap$sjoao-b1697-5
+2646: bap$sjoao-b1697-6
+2676: bap$sjoao-b1697-7
+2695: bap$sjoao-b1697-8
+2718: bap$sjoao-b1697-9
+2740: bap$sjoao-b1697-10
+2759: bap$sjoao-b1697-11
+2783: bap$sjoao-b1697-12
+2799: bap$sjoao-b1697-13
+2818: bap$sjoao-b1697-14
+2835: bap$sjoao-b1697-15
+2854: bap$sjoao-b1697-16
+2874: bap$sjoao-b1697-17
+2890: bap$sjoao-b1697-18
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1691-1697.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1691-1697.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1691-1697.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1691-1697.ids
+0  errors. 
+8  warnings.
+Groups in this file:[mmn,pmn,mpad1,referida,ppad1,mmad1,pad2,pmad1,mrmad1,mad1,pad1,mn,ls,pn,referido,rel,n,bap,fonte,kleio]
+Translation finished.

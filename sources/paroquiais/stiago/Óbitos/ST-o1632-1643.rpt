@@ -1,0 +1,180 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-23
+
+Processing data file ST-o1632-1643.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-obitos1632-1643
+
+WARNING: ST-o1632-1643.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-o1632-1643 Id: stiago-obitos1632-1643.
+Near lines: 3 
+Near lines: 4       obito$o1632-1/23/1/1632/fl.82v/ joao pedroso (cura)
+
+6: obito$stiago-o1632-1
+22: obito$stiago-o1632-2
+38: obito$stiago-o1632-3
+53: obito$stiago-o1632-4
+68: obito$stiago-o1632-5
+83: obito$stiago-o1632-6
+95: obito$stiago-o1632-7
+
+WARNING: ST-o1632-1643.cli line 104 Element value exceeds database field length: value=adro da igreja de sao tiago de obidos antre o cunhal da igreja e a porta principal da banda do norte e o cunhal da casa da igreja que indo das casas do prior para a igreja fica a mao direita debaixo de uma tampa que esta ao comprido duas ripas e do dito casario fica coisa de vara e meia para a banda da mao direita. Size:315 limit: 254
+Near lines: 104 
+Near lines: 105       obito$o1632-8/18/7/1632/fl.84/ joao pedroso (cura)
+
+107: obito$stiago-o1632-8
+122: obito$stiago-o1632-9
+136: obito$stiago-o1632-10
+152: obito$stiago-o1632-11
+164: obito$stiago-o1632-12
+185: obito$stiago-o1632-13
+204: obito$stiago-o1632-14
+216: obito$stiago-o1632-15
+231: obito$stiago-o1633-16
+244: obito$stiago-o1633-17
+259: obito$stiago-o1633-18
+278: obito$stiago-o1633-19
+289: obito$stiago-o1633-20
+303: obito$stiago-o1633-21
+318: obito$stiago-o1633-22
+333: obito$stiago-o1633-23
+349: obito$stiago-o1633-24
+363: obito$stiago-o1633-25
+378: obito$stiago-o1634-26
+393: obito$stiago-o1634-27
+405: obito$stiago-o1634-28
+417: obito$stiago-o1634-29
+434: obito$stiago-o1635-30
+453: obito$stiago-o1635-31
+468: obito$stiago-o1635-32
+484: obito$stiago-o1635-33
+499: obito$stiago-o1635-34
+512: obito$stiago-o1635-35
+525: obito$stiago-o1635-36
+542: obito$stiago-o1636-37
+556: obito$stiago-o1636-38
+568: obito$stiago-o1636-39
+585: obito$stiago-o1636-40
+599: obito$stiago-o1636-41
+614: obito$stiago-o1636-42
+628: obito$stiago-o1636-43
+645: obito$stiago-o1636-44
+661: obito$stiago-o1636-45
+674: obito$stiago-o1636-46
+690: obito$stiago-o1636-47
+706: obito$stiago-o1636-48
+722: obito$stiago-o1636-49
+734: obito$stiago-o1636-50
+752: obito$stiago-o1636-51
+768: obito$stiago-o1636-52
+783: obito$stiago-o1636-53
+800: obito$stiago-o1636-54
+817: obito$stiago-o1637-55
+832: obito$stiago-o1637-56
+
+WARNING: ST-o1632-1643.cli line 844 Element value exceeds database field length: value=adro da igreja de sao tiago de obidos da porta principal defronte do cunhal da dita igreja que esta da banda do norte e fica a cove onde jaz enterrado mais para a banda do sul que do norte qualquer coisa e sera do dito cunhal onde jaz 10 ou 11 varas pouco mais ou menos. Size:269 limit: 254
+Near lines: 844 
+Near lines: 845          oficios$3 licoes
+
+849: obito$stiago-o1637-57
+865: obito$stiago-o1637-58
+879: obito$stiago-o1637-59
+892: obito$stiago-o1637-60
+911: obito$stiago-o1637-61
+926: obito$stiago-o1637-62
+
+WARNING: ST-o1632-1643.cli line 934 Element value exceeds database field length: value=adro da igreja de sao tiago de obidos da porta principal defronte do cunhal da torre do poco do castelo que fica para a banda do norte a direito também do cunhal da casa da madeira da dita igreja que esta para a banda do sul e da parede e cunhal da dira casa serao duas varas e meia. Size:282 limit: 254
+Near lines: 934 
+Near lines: 935          oficios$3 licoes
+
+939: obito$stiago-o1637-63
+955: obito$stiago-o1637-64
+967: obito$stiago-o1637-65
+
+WARNING: ST-o1632-1643.cli line 977 Element value exceeds database field length: value=adro da igreja de sao tiago de obidos da porta principal defronte do cunhal da torre do poco do castelo que fica da parte norte e fica a direito do cunhal da parede da casa da madeira da dita igreja da parte do sul e com os pes direito para o dito cunhal e dele onde jaz enterrada serao 4 varas. Size:294 limit: 254
+Near lines: 977 
+Near lines: 978       obito$o1637-66/18/11/1637/fl.99/ joao pedroso (cura)
+
+980: obito$stiago-o1637-66
+991: obito$stiago-o1638-67
+1005: obito$stiago-o1638-68
+1018: obito$stiago-o1638-69
+1031: obito$stiago-o1638-70
+1045: obito$stiago-o1638-71
+1061: obito$stiago-o1638-72
+1078: obito$stiago-o1638-73
+1095: obito$stiago-o1639-74
+1111: obito$stiago-o1639-75
+1123: obito$stiago-o1639-76
+1135: obito$stiago-o1639-77
+1150: obito$stiago-o1639-78
+1166: obito$stiago-o1639-79
+1184: obito$stiago-o1639-80
+1206: obito$stiago-o1639-81
+
+WARNING: ST-o1632-1643.cli line 1220 Element value exceeds database field length: value=adro da igreja de sao tiago de obidos da porta principal defronte do cunhal da torre do poco do castelo do cunhal que fica da parte do norte e fica no ? que vindo das casas do prior para a dita porta principal fica de caminho coisa de 9 varas pouco mais ou menos para o poente e defronte do dito cunhal. Size:302 limit: 254
+Near lines: 1220 
+Near lines: 1221       obito$o1639-82/18/12/1639/fl.4/ joao pedroso (cura)
+
+1223: obito$stiago-o1639-82
+1236: obito$stiago-o1640-83
+
+WARNING: ST-o1632-1643.cli line 1248 Element value exceeds database field length: value=adro da igreja de sao tiago de obidos da porta principal e jaz no dito adro defronte a direito do cunhal da torre do castelo do cunhal defronte do dito cunhal da banda do norte e do carreiro que vem das casas do prior para a igreja serao 15 varas pouco mais ou menos. Size:266 limit: 254
+Near lines: 1248 
+Near lines: 1249       obito$o1640-84/14/1/1640/fl.4v/ joao pedroso (cura)
+
+1251: obito$stiago-o1640-84
+1264: obito$stiago-o1640-85
+1283: obito$stiago-o1640-86
+1303: obito$stiago-o1640-87
+1317: obito$stiago-o1640-88
+1336: obito$stiago-o1640-89
+1351: obito$stiago-o1641-90
+1366: obito$stiago-o1641-91
+1381: obito$stiago-o1641-92
+1396: obito$stiago-o1641-93
+1412: obito$stiago-o1641-94
+
+WARNING: ST-o1632-1643.cli line 1422 Element value exceeds database field length: value=dentro da igreja de sao tiago de obidos defronte da capela mor entre as colunas mais perto da dita capela ao longo de uma campa e fica da parte sul onde jaz e da outra parte da parte da campa da banda do norte jaz enterrado seu irmao antonio monteiro mentecapto. Size:261 limit: 254
+Near lines: 1422 
+Near lines: 1423          oficios$3 licoes
+
+1434: obito$stiago-o1642-95
+1445: obito$stiago-o1642-96
+1457: obito$stiago-o1642-97
+1470: obito$stiago-o1642-98
+1489: obito$stiago-o1643-99
+
+WARNING: ST-o1632-1643.cli line 1497 Element value exceeds database field length: value=adro da igreja de sao tiago de obidos defronte do penedo que tem a cruz que fica da banda do norte junto ao cunhal da torre do poco do castelo e neste direito jaz enterrado junto a parede do celeiro da igreja da banda do sul e da parede aonde jaz sera vara e meia. Size:263 limit: 254
+Near lines: 1497 
+Near lines: 1498       obito$o1643-100/1/4/1643/fl.9/ joao pedroso (cura)
+
+1500: obito$stiago-o1643-100
+1511: obito$stiago-o1643-101
+1525: obito$stiago-o1643-102
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1632-1643.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1632-1643.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1632-1643.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1632-1643.ids
+0  errors. 
+9  warnings.
+Groups in this file:[referida,rel,locf,referido,mae,pai,marido,oficios,locs,testamento,sacr,mulher,ls,n,obito,fonte,kleio]
+Translation finished.

@@ -1,0 +1,173 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file ST-1694-1703.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos1694-1703
+
+WARNING: ST-1694-1703.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1694-1703 Id: stiago-baptismos1694-1703.
+Near lines: 3 
+Near lines: 4       bap$b1694-1/22/6/1694/fl.20v./igreja de sao tiago/ (vigario)/obs=assina padre fracisco fernandes (padre economo)
+
+6: bap$stiago-b1694-1
+19: bap$stiago-b1694-2
+38: bap$stiago-b1695-3
+53: bap$stiago-b1695-4
+74: bap$stiago-b1695-5
+89: bap$stiago-b1695-6
+105: bap$stiago-b1695-7
+120: bap$stiago-b1695-8
+136: bap$stiago-b1695-9
+152: bap$stiago-b1696-10
+168: bap$stiago-b1696-11
+184: bap$stiago-b1696-12
+202: bap$stiago-b1696-13
+218: bap$stiago-b1696-14
+234: bap$stiago-b1696-15
+251: bap$stiago-b1696-16
+266: bap$stiago-b1696-17
+284: bap$stiago-b1696-18
+299: bap$stiago-b1696-19
+314: bap$stiago-b1696-20
+329: bap$stiago-b1696-21
+345: bap$stiago-b1696-22
+364: bap$stiago-b1696-23
+387: bap$stiago-b1697-24
+404: bap$stiago-b1697-25
+422: bap$stiago-b1697-26
+441: bap$stiago-b1697-27
+456: bap$stiago-b1697-28
+472: bap$stiago-b1697-29
+490: bap$stiago-b1697-30
+506: bap$stiago-b1697-31
+521: bap$stiago-b1697-32
+536: bap$stiago-b1697-33
+549: bap$stiago-b1698-34
+567: bap$stiago-b1698-35
+582: bap$stiago-b1698-36
+601: bap$stiago-b1698-37
+618: bap$stiago-b1698-38
+634: bap$stiago-b1698-39
+649: bap$stiago-b1698-40
+665: bap$stiago-b1698-41
+682: bap$stiago-b1698-42
+698: bap$stiago-b1699-43
+716: bap$stiago-b1699-44
+733: bap$stiago-b1699-45
+752: bap$stiago-b1699-46
+770: bap$stiago-b1699-47
+786: bap$stiago-b1699-48
+802: bap$stiago-b1699-49
+821: bap$stiago-b1699-50
+835: bap$stiago-b1699-51
+850: bap$stiago-b1699-52
+869: bap$stiago-b1700-53
+884: bap$stiago-b1700-54
+899: bap$stiago-b1700-55
+915: bap$stiago-b1700-56
+930: bap$stiago-b1700-57
+945: bap$stiago-b1700-58
+960: bap$stiago-b1700-59
+976: bap$stiago-b1700-60
+1000: bap$stiago-b1700-61
+1016: bap$stiago-b1700-62
+1030: bap$stiago-b1701-63
+1045: bap$stiago-b1701-64
+1057: bap$stiago-b1701-65
+1074: bap$stiago-b1701-66
+1089: bap$stiago-b1701-67
+1101: bap$stiago-b1701-68
+1116: bap$stiago-b1701-69
+1128: bap$stiago-b1701-70
+1143: bap$stiago-b1701-71
+1161: bap$stiago-b1701-72
+1173: bap$stiago-b1701-73
+1190: bap$stiago-b1701-73a
+1205: bap$stiago-b1701-74
+1224: bap$stiago-b1701-75
+1236: bap$stiago-b1701-76
+1252: bap$stiago-b1701-77
+1264: bap$stiago-b1701-78
+1276: bap$stiago-b1701-79
+1292: bap$stiago-b1702-80
+1309: bap$stiago-b1702-81
+1322: bap$stiago-b1702-82
+1342: bap$stiago-b1702-83
+1360: bap$stiago-b1702-84
+1378: bap$stiago-b1702-85
+1396: bap$stiago-b1702-86
+1416: bap$stiago-b1702-87
+1433: bap$stiago-b1702-88
+1449: bap$stiago-b1702-89
+1464: bap$stiago-b1702-90
+1483: bap$stiago-b1703-91
+1501: bap$stiago-b1703-92
+1518: bap$stiago-b1703-93
+1541: bap$stiago-b1703-94
+1555: bap$stiago-b1703-95
+1572: bap$stiago-b1703-96
+1587: bap$stiago-b1703-97
+1602: bap$stiago-b1703-98
+1619: bap$stiago-b1703-99
+*** End of File
+
+Line 42 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1687-18-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 46 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1687-18-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 57 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mrmad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 61 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 93 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 97 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 156 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 160 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 188 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 192 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 206 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1691-84-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 210 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1691-84-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 399 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 400 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 408 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1687-18-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 412 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1687-18-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 417 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 418 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mrmad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 426 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-15-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 430 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-15-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 476 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 480 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 553 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 557 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 586 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mrmad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 590 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 774 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 778 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685-2-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 790 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 794 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1686-14-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 903 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mrmad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 907 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 908 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1692-92-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1522 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mrmad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1526 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1694-1703.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1694-1703.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1694-1703.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1694-1703.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pad2,referido,mmad,mrmad,mpad,pmad,ppad,referida,rel,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

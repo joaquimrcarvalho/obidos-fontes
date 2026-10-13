@@ -1,0 +1,166 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-38
+
+Processing data file ST-1703-1710.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1703-1710
+
+WARNING: ST-1703-1710.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1703-1710 Id: stiago-baptismos 1703-1710.
+Near lines: 3 
+Near lines: 4       bap$b1704-1/26/1/1704/fl.39./igreja de sao tiago/ (vigario)/obs=assina padre bernardo madeira (cura)
+
+6: bap$stiago-b1704-1
+22: bap$stiago-b1704-2
+37: bap$stiago-b1704-3
+54: bap$stiago-b1704-4
+74: bap$stiago-b1704-5
+94: bap$stiago-b1704-6
+115: bap$stiago-b1704-7
+132: bap$stiago-b1704-8
+150: bap$stiago-b1704-9
+167: bap$stiago-b1704-10
+186: bap$stiago-b1704-11
+206: bap$stiago-b1704-12
+224: bap$stiago-b1704-13
+244: bap$stiago-b1704-14
+258: bap$stiago-b1704-15
+272: bap$stiago-b1704-16
+288: bap$stiago-b1705-17
+301: bap$stiago-b1705-18
+313: bap$stiago-b1705-19
+328: bap$stiago-b1705-20
+343: bap$stiago-b1705-21
+
+WARNING: ST-1703-1710.cli line 350 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 350 
+Near lines: 351          pad$jose soares rua/id=b1705-21-per4
+
+364: bap$stiago-b1705-22
+382: bap$stiago-b1705-23
+397: bap$stiago-b1705-24
+412: bap$stiago-b1705-25
+427: bap$stiago-b1705-26
+442: bap$stiago-b1705-27
+457: bap$stiago-b1705-28
+472: bap$stiago-b1705-29
+485: bap$stiago-b1705-30
+502: bap$stiago-b1705-31
+516: bap$stiago-b1706-31
+532: bap$stiago-b1706-32
+547: bap$stiago-b1706-33
+562: bap$stiago-b1706-34
+579: bap$stiago-b1706-35
+594: bap$stiago-b1706-36
+611: bap$stiago-b1706-37
+626: bap$stiago-b1706-38
+638: bap$stiago-b1706-39
+655: bap$stiago-b1706-40
+670: bap$stiago-b1706-41
+686: bap$stiago-b1706-42
+699: bap$stiago-b1706-43
+715: bap$stiago-b1706-44
+730: bap$stiago-b1707-45
+744: bap$stiago-b1707-46
+759: bap$stiago-b1707-47
+775: bap$stiago-b1707-48
+792: bap$stiago-b1707-49
+806: bap$stiago-b1707-50
+819: bap$stiago-b1707-51
+830: bap$stiago-b1707-52
+845: bap$stiago-b1707-53
+857: bap$stiago-b1707-54
+874: bap$stiago-b1707-55
+886: bap$stiago-b1707-56
+902: bap$stiago-b1707-57
+919: bap$stiago-b1707-58
+934: bap$stiago-b1708-59
+949: bap$stiago-b1708-60
+961: bap$stiago-b1708-61
+979: bap$stiago-b1708-62
+991: bap$stiago-b1708-63
+1006: bap$stiago-b1708-64
+1021: bap$stiago-b1708-65
+1039: bap$stiago-b1708-66
+1054: bap$stiago-b1708-67
+1071: bap$stiago-b1708-68
+1086: bap$stiago-b1708-69
+1103: bap$stiago-b1708-70
+1115: bap$stiago-b1708-71
+1131: bap$stiago-b1708-72
+1146: bap$stiago-b1708-73
+1161: bap$stiago-b1708-74
+1178: bap$stiago-b1709-75
+1193: bap$stiago-b1709-76
+1208: bap$stiago-b1709-77
+1223: bap$stiago-b1709-78
+1238: bap$stiago-b1709-79
+1253: bap$stiago-b1709-80
+1268: bap$stiago-b1709-81
+1287: bap$stiago-b1709-82
+1304: bap$stiago-b1709-83
+1320: bap$stiago-b1709-84
+1332: bap$stiago-b1709-85
+1346: bap$stiago-b1709-86
+1358: bap$stiago-b1709-87
+1375: bap$stiago-b1709-88
+1392: bap$stiago-b1710-89
+1404: bap$stiago-b1710-90
+1421: bap$stiago-b1710-91
+1439: bap$stiago-b1710-92
+1454: bap$stiago-b1710-93
+1466: bap$stiago-b1710-94
+1483: bap$stiago-b1710-95
+1500: bap$stiago-b1710-96
+1519: bap$stiago-b1710-97
+1535: bap$stiago-b1710-98
+1551: bap$stiago-b1710-99
+1566: bap$stiago-b1710-100
+*** End of File
+
+ERROR: ST-1703-1710.cli line 350  Could not find same_as id stiago-b1702-89-mn. If  original reference is on another file use xsame_as
+Near lines: 350 Near lines: 351 
+
+Line 35 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-85-pad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 58 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1701-79-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 62 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1701-79-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 98 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-81-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 102 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-81-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 119 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-88-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 123 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-88-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 347 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-89-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 386 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1701-70-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 390 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1701-70-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 489 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1698-41-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 493 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1698-41-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 598 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-82-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 602 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1702-82-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 642 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1700-62-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 646 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1700-62-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 674 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mrmad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 678 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1690-50-mad) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 703 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1701-79-pn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 707 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1701-79-mn) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1703-1710.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1703-1710.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1703-1710.old
+1  errors. 
+2  warnings.
+Groups in this file:[ppad,referido,mrmad,rel,pmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

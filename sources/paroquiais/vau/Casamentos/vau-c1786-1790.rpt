@@ -1,0 +1,49 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-36
+
+Processing data file vau-c1786-1790.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: vau
+Autorel: vau
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$vau-casamentos1786-1790
+
+WARNING: vau-c1786-1790.cli line 3 * Warning: Filename should match source Id to avoid errors. File: vau-c1786-1790 Id: vau-casamentos1786-1790.
+Near lines: 3 
+Near lines: 4       cas$c1786-1/28/9/1786/fl.27v./igreja de nossa senhora da piedade, vau/francisco rodrigues da costa (padre)/obs=assina paroco francisco rodrigues da costa. o casamento realizou-se de tarde.
+
+
+WARNING: vau-c1786-1790.cli line 3 Element value exceeds database field length: type=freguesia de nossa senhora da piedade, vau. Size:42 limit: 32
+Near lines: 3 
+Near lines: 4       cas$c1786-1/28/9/1786/fl.27v./igreja de nossa senhora da piedade, vau/francisco rodrigues da costa (padre)/obs=assina paroco francisco rodrigues da costa. o casamento realizou-se de tarde.
+
+6: cas$vau-c1786-1
+40: cas$vau-c1789-1
+68: cas$vau-c1789-2
+96: cas$vau-c1790-1
+131: cas$vau-c1790-2
+163: cas$vau-c1790-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1786-1790.cli
+Original file: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1786-1790.org
+Previous version: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1786-1790.old
+Temp file with ids: /kleio-home/sources/paroquiais/vau/Casamentos/vau-c1786-1790.ids
+0  errors. 
+2  warnings.
+Groups in this file:[test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

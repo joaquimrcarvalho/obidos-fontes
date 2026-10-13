@@ -1,0 +1,85 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-20
+
+Processing data file ST-1764-1766.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1764-1766
+
+WARNING: ST-1764-1766.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1764-1766 Id: stiago-baptismos 1764-1766.
+Near lines: 3 
+Near lines: 4       bap$b1764-1/5/1/1764/fl.2./igreja de sao tiago/ (vigario)/obs=assina padre francisco de matos (cura)
+
+6: bap$stiago-b1764-1
+25: bap$stiago-b1764-2
+48: bap$stiago-b1764-3
+62: bap$stiago-b1764-4
+86: bap$stiago-b1764-5
+103: bap$stiago-b1764-6
+126: bap$stiago-b1764-7
+144: bap$stiago-b1764-8
+159: bap$stiago-b1764-9
+171: bap$stiago-b1764-10
+188: bap$stiago-b1764-11
+201: bap$stiago-b1764-12
+214: bap$stiago-b1764-13
+230: bap$stiago-b1765-14
+249: bap$stiago-b1765-15
+266: bap$stiago-b1765-16
+282: bap$stiago-b1765-17
+299: bap$stiago-b1765-18
+316: bap$stiago-b1765-19
+334: bap$stiago-b1765-20
+354: bap$stiago-b1765-21
+372: bap$stiago-b1765-22
+389: bap$stiago-b1765-23
+406: bap$stiago-b1765-24
+418: bap$stiago-b1765-25
+435: bap$stiago-b1765-26
+453: bap$stiago-b1765-27
+468: bap$stiago-b1765-28
+485: bap$stiago-b1765-29
+501: bap$stiago-b1765-30
+518: bap$stiago-b1765-31
+538: bap$stiago-b1765-32
+553: bap$stiago-b1766-33
+570: bap$stiago-b1766-34
+588: bap$stiago-b1766-35
+609: bap$stiago-b1766-36
+625: bap$stiago-b1766-37
+642: bap$stiago-b1766-38
+657: bap$stiago-b1766-39
+675: bap$stiago-b1766-40
+695: bap$stiago-b1766-41
+719: bap$stiago-b1766-43
+735: bap$stiago-b1766-44
+752: bap$stiago-b1766-45
+764: bap$stiago-b1766-46
+781: bap$stiago-b1766-47
+796: bap$stiago-b1766-48
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1764-1766.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1764-1766.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1764-1766.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1764-1766.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mmad,ppad,mpad,pmad,procurador-mad,procurador-pad,mrmad,mad,rel,referido,referida,pad,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

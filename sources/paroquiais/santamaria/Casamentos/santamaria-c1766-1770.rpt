@@ -1,0 +1,72 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1766-1770.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1766-1770
+
+WARNING: santamaria-c1766-1770.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1766-1770 Id: stmaria-casamentos1766-1770.
+Near lines: 3 
+Near lines: 4       cas$c1766-1/3/2/1766/fl.105v./igreja da santa maria/isidoro coelho de sampaio (cura)/obs=assina o paroco isidoro coelho de sampaio. o casamento realizou-se pelas 9 para as 10 horas da manha
+
+6: cas$stmaria-c1766-1
+43: cas$stmaria-c1767-1
+82: cas$stmaria-c1767-2
+118: cas$stmaria-c1767-3
+147: cas$stmaria-c1767-4
+179: cas$stmaria-c1767-5
+206: cas$stmaria-c1768-1
+238: cas$stmaria-c1768-2
+267: cas$stmaria-c1768-3
+307: cas$stmaria-c1768-4
+340: cas$stmaria-c1768-5
+373: cas$stmaria-c1769-1
+407: cas$stmaria-c1769-2
+445: cas$stmaria-c1769-3
+
+WARNING: santamaria-c1766-1770.cli line 444 Element value exceeds database field length: loc=capela de nossa senhora de monserrate, anexa a freguesia de santa maria. Size:71 limit: 64
+Near lines: 444 
+Near lines: 445          noivo$jose luis de almeida e azevedo/id=c1769-3-per1
+
+483: cas$stmaria-c1769-4
+514: cas$stmaria-c1769-5
+540: cas$stmaria-c1769-6
+574: cas$stmaria-c1769-7
+605: cas$stmaria-c1770-1
+644: cas$stmaria-c1770-2
+675: cas$stmaria-c1770-3
+704: cas$stmaria-c1770-4
+739: cas$stmaria-c1770-5
+776: cas$stmaria-c1770-6
+806: cas$stmaria-c1770-7
+847: cas$stmaria-c1770-8
+885: cas$stmaria-c1770-9
+925: cas$stmaria-c1770-11
+958: cas$stmaria-c1770-12
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1766-1770.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1766-1770.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1766-1770.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1766-1770.ids
+0  errors. 
+2  warnings.
+Groups in this file:[marido1,rel,mulher1,referido,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

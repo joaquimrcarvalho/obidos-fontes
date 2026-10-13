@@ -1,0 +1,198 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-24
+
+Processing data file santamaria-1606-1610.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1606-1610
+
+WARNING: santamaria-1606-1610.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1606-1610 Id: stmaria-baptismos1606-1610.
+Near lines: 3 
+Near lines: 4       bap$b1606-1/1/1/1606/fl.80/igreja de santa maria/manuel aires/obs=assina manuel aires
+
+
+WARNING: santamaria-1606-1610.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1606-1/1/1/1606/fl.80/igreja de santa maria/manuel aires/obs=assina manuel aires
+
+6: bap$stmaria-b1606-1
+20: bap$stmaria-b1606-2
+34: bap$stmaria-b1606-3
+48: bap$stmaria-b1606-4
+62: bap$stmaria-b1606-5
+77: bap$stmaria-b1606-6
+90: bap$stmaria-b1606-7
+104: bap$stmaria-b1606-8
+119: bap$stmaria-b1606-9
+133: bap$stmaria-b1606-10
+148: bap$stmaria-b1606-11
+160: bap$stmaria-b1606-12
+173: bap$stmaria-b1606-13
+188: bap$stmaria-b1606-14
+203: bap$stmaria-b1606-15
+216: bap$stmaria-b1606-16
+228: bap$stmaria-b1606-17
+247: bap$stmaria-b1606-18
+259: bap$stmaria-b1606-19
+273: bap$stmaria-b1606-20
+287: bap$stmaria-b1606-21
+303: bap$stmaria-b1606-22
+316: bap$stmaria-b1606-23
+334: bap$stmaria-b1606-24
+350: bap$stmaria-b1606-25
+366: bap$stmaria-b1606-26
+380: bap$stmaria-b1606-27
+393: bap$stmaria-b1606-28
+417: bap$stmaria-b1606-29
+430: bap$stmaria-b1606-30
+445: bap$stmaria-b1606-31
+464: bap$stmaria-b1606-32
+478: bap$stmaria-b1606-33
+495: bap$stmaria-b1606-34
+511: bap$stmaria-b1606-35
+528: bap$stmaria-b1607-1
+540: bap$stmaria-b1607-2
+554: bap$stmaria-b1607-3
+570: bap$stmaria-b1607-4
+586: bap$stmaria-b1607-5
+602: bap$stmaria-b1607-6
+615: bap$stmaria-b1607-7
+633: bap$stmaria-b1607-8
+649: bap$stmaria-b1607-9
+663: bap$stmaria-b1607-10
+677: bap$stmaria-b1607-11
+693: bap$stmaria-b1607-12
+711: bap$stmaria-b1607-13
+725: bap$stmaria-b1607-14
+740: bap$stmaria-b1607-15
+756: bap$stmaria-b1607-16
+774: bap$stmaria-b1607-17
+790: bap$stmaria-b1607-18
+803: bap$stmaria-b1607-19
+817: bap$stmaria-b1607-20
+833: bap$stmaria-b1607-21
+851: bap$stmaria-b1607-22
+868: bap$stmaria-b1607-23
+887: bap$stmaria-b1607-24
+907: bap$stmaria-b1607-25
+923: bap$stmaria-b1607-26
+938: bap$stmaria-b1607-27
+954: bap$stmaria-b1607-28
+970: bap$stmaria-b1607-29
+984: bap$stmaria-b1608-1
+998: bap$stmaria-b1608-2
+1013: bap$stmaria-b1608-3
+1028: bap$stmaria-b1608-4
+1049: bap$stmaria-b1608-9
+1064: bap$stmaria-b1608-10
+1080: bap$stmaria-b1608-11
+1093: bap$stmaria-b1608-12
+1108: bap$stmaria-b1608-13
+1120: bap$stmaria-b1608-14
+1137: bap$stmaria-b1608-15
+1149: bap$stmaria-b1608-16
+1163: bap$stmaria-b1608-17
+1183: bap$stmaria-b1608-18
+1202: bap$stmaria-b1608-19
+1216: bap$stmaria-b1608-20
+1232: bap$stmaria-b1608-21
+1248: bap$stmaria-b1608-22
+1264: bap$stmaria-b1608-23
+1286: bap$stmaria-b1608-24
+1302: bap$stmaria-b1608-25
+1304: bap$stmaria-b1608-26
+1314: bap$stmaria-b1608-27
+1329: bap$stmaria-b1608-28
+1342: bap$stmaria-b1608-29
+1356: bap$stmaria-b1608-30
+1369: bap$stmaria-b1608-31
+1383: bap$stmaria-b1609-1
+1396: bap$stmaria-b1609-2
+1411: bap$stmaria-b1609-3
+1429: bap$stmaria-b1609-4
+1446: bap$stmaria-b1609-5
+1463: bap$stmaria-b1609-6
+1477: bap$stmaria-b1609-7
+1493: bap$stmaria-b1609-8
+1505: bap$stmaria-b1609-9
+1524: bap$stmaria-b1609-10
+1538: bap$stmaria-b1609-11
+1555: bap$stmaria-b1609-12
+1574: bap$stmaria-b1609-13
+1576: bap$stmaria-b1609-14
+1590: bap$stmaria-b1609-15
+1606: bap$stmaria-b1609-16
+1627: bap$stmaria-b1609-17
+1639: bap$stmaria-b1609-18
+1659: bap$stmaria-b1609-19
+1676: bap$stmaria-b1609-20
+1696: bap$stmaria-b1609-21
+1713: bap$stmaria-b1609-22
+1729: bap$stmaria-b1609-23
+1744: bap$stmaria-b1609-24
+1761: bap$stmaria-b1609-25
+1775: bap$stmaria-b1609-26
+1791: bap$stmaria-b1609-27
+1805: bap$stmaria-b1609-28
+1822: bap$stmaria-b1609-29
+1836: bap$stmaria-b1609-30
+1850: bap$stmaria-b1609-31
+1862: bap$stmaria-b1610-1
+1878: bap$stmaria-b1610-2
+1895: bap$stmaria-b1610-3
+1910: bap$stmaria-b1610-4
+1925: bap$stmaria-b1610-5
+1939: bap$stmaria-b1610-6
+1955: bap$stmaria-b1610-7
+1969: bap$stmaria-b1610-8
+1983: bap$stmaria-b1610-9
+2002: bap$stmaria-b1610-10
+2018: bap$stmaria-b1610-11
+2036: bap$stmaria-b1610-12
+2054: bap$stmaria-b1610-13
+2068: bap$stmaria-b1610-14
+2081: bap$stmaria-b1610-15
+2095: bap$stmaria-b1610-16
+2110: bap$stmaria-b1610-17
+2127: bap$stmaria-b1610-18
+2141: bap$stmaria-b1610-19
+2155: bap$stmaria-b1610-20
+2176: bap$stmaria-b1610-21
+2190: bap$stmaria-b1610-22
+2205: bap$stmaria-b1610-23
+2221: bap$stmaria-b1610-24
+2243: bap$stmaria-b1610-25
+2258: bap$stmaria-b1610-26
+2272: bap$stmaria-b1610-27
+2285: bap$stmaria-b1610-28
+2301: bap$stmaria-b1610-29
+2317: bap$stmaria-b1610-30
+2332: bap$stmaria-b1610-31
+2347: bap$stmaria-b1610-32
+2355: bap$stmaria-b1610-33
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1606-1610.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1606-1610.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1606-1610.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1606-1610.ids
+0  errors. 
+2  warnings.
+Groups in this file:[pmn,referida,mad,pad2,referido,mrmad1,pmad1,rel,ppad1,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,52 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-34
+
+Processing data file saopedro-c1786-1787.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-casamentos1786-1787
+
+WARNING: saopedro-c1786-1787.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-c1786-1787 Id: spedro-casamentos1786-1787.
+Near lines: 3 
+Near lines: 4       cas$c1786-1/22/2/1786/fl.4v.-5/igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+6: cas$spedro-c1786-1
+34: cas$spedro-c1786-2
+63: cas$spedro-c1786-3
+93: cas$spedro-c1786-4
+121: cas$spedro-c1786-5
+147: cas$spedro-c1786-6
+174: cas$spedro-c1787-1
+204: cas$spedro-c1787-2
+235: cas$spedro-c1787-3
+
+WARNING: saopedro-c1786-1787.cli line 234 Element value exceeds database field length: loc=igreja da santa casa da misericordia, anexa a colegiada de sao pedro. Size:68 limit: 64
+Near lines: 234 
+Near lines: 235          noivo$manuel francisco/id=c1787-3-per1
+
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1786-1787.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1786-1787.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1786-1787.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1786-1787.ids
+0  errors. 
+2  warnings.
+Groups in this file:[rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

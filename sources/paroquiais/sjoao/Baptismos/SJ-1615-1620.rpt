@@ -1,0 +1,173 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1615-1620.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1615-1620
+
+WARNING: SJ-1615-1620.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1615-1620 Id: sjoao-baptismos1615-1620.
+Near lines: 3 
+Near lines: 4       bap$b1615-1/15/1/1615/fl.1/joao delgado (vigario da igreja de sao joao)/obs=assina joao delgado
+
+6: bap$sjoao-b1615-1
+20: bap$sjoao-b1615-2
+36: bap$sjoao-b1615-3
+52: bap$sjoao-b1615-4
+69: bap$sjoao-b1615-5
+84: bap$sjoao-b1615-6
+100: bap$sjoao-b1615-7
+116: bap$sjoao-b1615-8
+131: bap$sjoao-b1615-9
+147: bap$sjoao-b1615-10
+164: bap$sjoao-b1615-11
+180: bap$sjoao-b1615-12
+196: bap$sjoao-b1615-13
+214: bap$sjoao-b1615-14
+231: bap$sjoao-b1615-15
+247: bap$sjoao-b1615-16
+264: bap$sjoao-b1615-17
+279: bap$sjoao-b1615-18
+295: bap$sjoao-b1615-19
+310: bap$sjoao-b1615-20
+324: bap$sjoao-b1615-21
+340: bap$sjoao-b1616-1
+352: bap$sjoao-b1616-2
+368: bap$sjoao-b1616-3
+384: bap$sjoao-b1616-4
+400: bap$sjoao-b1616-5
+416: bap$sjoao-b1616-6
+432: bap$sjoao-b1616-7
+448: bap$sjoao-b1616-8
+465: bap$sjoao-b1616-9
+475: bap$sjoao-b1616-10
+492: bap$sjoao-b1616-11
+509: bap$sjoao-b1616-12
+526: bap$sjoao-b1616-13
+540: bap$sjoao-b1616-14
+554: bap$sjoao-b1616-15
+570: bap$sjoao-b1616-15a
+586: bap$sjoao-b1616-16
+606: bap$sjoao-b1616-17
+623: bap$sjoao-b1616-18
+639: bap$sjoao-b1616-19
+655: bap$sjoao-b1616-20
+672: bap$sjoao-b1616-21
+688: bap$sjoao-b1616-22
+703: bap$sjoao-b1617-1
+720: bap$sjoao-b1617-2
+740: bap$sjoao-b1617-3
+756: bap$sjoao-b1617-4
+775: bap$sjoao-b1617-5
+791: bap$sjoao-b1617-6
+801: bap$sjoao-b1617-7
+816: bap$sjoao-b1617-8
+830: bap$sjoao-b1617-9
+846: bap$sjoao-b1617-10
+861: bap$sjoao-b1617-11
+876: bap$sjoao-b1617-12
+892: bap$sjoao-b1617-13
+908: bap$sjoao-b1617-14
+925: bap$sjoao-b1617-15
+941: bap$sjoao-b1617-16
+959: bap$sjoao-b1617-17
+976: bap$sjoao-b1617-18
+992: bap$sjoao-b1617-19
+1008: bap$sjoao-b1617-20
+1023: bap$sjoao-b1617-21
+1039: bap$sjoao-b1617-22
+1055: bap$sjoao-b1617-23
+1071: bap$sjoao-b1618-1
+1087: bap$sjoao-b1618-2
+1104: bap$sjoao-b1618-3
+1120: bap$sjoao-b1618-4
+1136: bap$sjoao-b1618-5
+1154: bap$sjoao-b1618-6
+1170: bap$sjoao-b1618-7
+1187: bap$sjoao-b1618-8
+1201: bap$sjoao-b1618-9
+1215: bap$sjoao-b1618-10
+1231: bap$sjoao-b1618-11
+1247: bap$sjoao-b1618-12
+1262: bap$sjoao-b1618-13
+1276: bap$sjoao-b1618-14
+1296: bap$sjoao-b1618-15
+1311: bap$sjoao-b1618-16
+1324: bap$sjoao-b1619-1
+1340: bap$sjoao-b1619-2
+1356: bap$sjoao-b1619-3
+1370: bap$sjoao-b1619-4
+1386: bap$sjoao-b1619-5
+1401: bap$sjoao-b1619-6
+1416: bap$sjoao-b1619-7
+1434: bap$sjoao-b1619-8
+1449: bap$sjoao-b1619-9
+1468: bap$sjoao-b1619-10
+1486: bap$sjoao-b1619-11
+1502: bap$sjoao-b1619-12
+1518: bap$sjoao-b1619-13
+1534: bap$sjoao-b1619-14
+1550: bap$sjoao-b1619-15
+1566: bap$sjoao-b1619-16
+1582: bap$sjoao-b1619-17
+1601: bap$sjoao-b1619-18
+1619: bap$sjoao-b1619-19
+1633: bap$sjoao-b1619-20
+1647: bap$sjoao-b1619-21
+1662: bap$sjoao-b1619-22
+1681: bap$sjoao-b1619-23
+1697: bap$sjoao-b1619-24
+1713: bap$sjoao-b1619-25
+1729: bap$sjoao-b1620-1
+1745: bap$sjoao-b1620-2
+1764: bap$sjoao-b1620-3
+1774: bap$sjoao-b1620-4
+1785: bap$sjoao-b1620-5
+1795: bap$sjoao-b1620-6
+1809: bap$sjoao-b1620-7
+1825: bap$sjoao-b1620-8
+1840: bap$sjoao-b1620-9
+1855: bap$sjoao-b1620-10
+1871: bap$sjoao-b1620-11
+1886: bap$sjoao-b1620-12
+1903: bap$sjoao-b1620-13
+1919: bap$sjoao-b1620-14
+1938: bap$sjoao-b1620-15
+1954: bap$sjoao-b1620-16
+1970: bap$sjoao-b1620-17
+1980: bap$sjoao-b1620-18
+1994: bap$sjoao-b1620-19
+2008: bap$sjoao-b1620-20
+2026: bap$sjoao-b1620-21
+2038: bap$sjoao-b1620-22
+2050: bap$sjoao-b1620-23
+2067: bap$sjoao-b1620-24
+2083: bap$sjoao-b1620-25
+2098: bap$sjoao-b1620-26
+2115: bap$sjoao-b1620-27
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1615-1620.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1615-1620.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1615-1620.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1615-1620.ids
+0  errors. 
+1  warnings.
+Groups in this file:[ppad1,rel,referido,mmad1,mrmad1,pmad1,mad1,ls,pad1,mn,pn,n,bap,fonte,kleio]
+Translation finished.

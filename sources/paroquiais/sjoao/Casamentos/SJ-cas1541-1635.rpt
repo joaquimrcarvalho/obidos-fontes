@@ -1,0 +1,97 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-13
+
+Processing data file SJ-cas1541-1635.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-casamentos1541-1635
+
+WARNING: SJ-cas1541-1635.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-cas1541-1635 Id: sjoao-casamentos1541-1635.
+Near lines: 3 
+Near lines: 4       cas$c1541-1/14/8/1541/fl.17./igreja de sao joao/braz fernandes(cura)/obs=assina braz fernandes
+
+6: cas$sjoao-c1541-1
+14: cas$sjoao-c1541-2
+30: cas$sjoao-c1541-3
+43: cas$sjoao-c1541-4
+57: cas$sjoao-c1600-5
+69: cas$sjoao-c1600-6
+81: cas$sjoao-c1600-7
+95: cas$sjoao-c1600-8
+106: cas$sjoao-c1601-9
+129: cas$sjoao-c1601-10
+145: cas$sjoao-c1601-11
+160: cas$sjoao-c1601-12
+177: cas$sjoao-c1601-13
+194: cas$sjoao-c1601-14
+210: cas$sjoao-c1601-15
+224: cas$sjoao-c1602-16
+240: cas$sjoao-c1602-17
+256: cas$sjoao-c1602-18
+272: cas$sjoao-c1602-19
+289: cas$sjoao-c1602-20
+308: cas$sjoao-c1602-21
+325: cas$sjoao-c1602-22
+345: cas$sjoao-c1603-23
+357: cas$sjoao-c1603-24
+376: cas$sjoao-c1603-25
+395: cas$sjoao-c1603-26
+412: cas$sjoao-c1603-27
+429: cas$sjoao-c1604-28
+445: cas$sjoao-c1604-29
+464: cas$sjoao-c1604-30
+478: cas$sjoao-c1604-31
+493: cas$sjoao-c1604-32
+507: cas$sjoao-c1605-33
+521: cas$sjoao-c1605-34
+535: cas$sjoao-c1605-35
+549: cas$sjoao-c1605-36
+563: cas$sjoao-c1605-37
+577: cas$sjoao-c1605-38
+593: cas$sjoao-c1606-39
+609: cas$sjoao-c1606-40
+626: cas$sjoao-c1606-41
+642: cas$sjoao-c1606-42
+657: cas$sjoao-c1606-43
+671: cas$sjoao-c1606-44
+685: cas$sjoao-c1608-45
+699: cas$sjoao-c1608-46
+716: cas$sjoao-c1609-47
+733: cas$sjoao-c1610-48
+747: cas$sjoao-c1610-49
+764: cas$sjoao-c1610-50
+778: cas$sjoao-c1611-51
+793: cas$sjoao-c1611-52
+804: cas$sjoao-c1611-53
+811: cas$sjoao-c1611-54
+825: cas$sjoao-c1611-55
+836: cas$sjoao-c1612-56
+850: cas$sjoao-c1612-57
+868: cas$sjoao-c1635-58
+882: cas$sjoao-c1635-59
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1541-1635.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1541-1635.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1541-1635.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1541-1635.ids
+0  errors. 
+1  warnings.
+Groups in this file:[rel,test,mnoiva,pnoiva,mnoivo,pnoivo,noiva,ls,noivo,cas,fonte,kleio]
+Translation finished.

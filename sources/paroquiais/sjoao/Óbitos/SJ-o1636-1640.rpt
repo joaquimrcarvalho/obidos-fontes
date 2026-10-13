@@ -1,0 +1,63 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1636-1640.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1636-1640
+
+WARNING: SJ-o1636-1640.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1636-1640 Id: sjoao-obitos1636-1640.
+Near lines: 3 
+Near lines: 4       obito$o1636-1/0/1/1636/fl.105/pero leitao
+
+6: obito$sjoao-o1636-1
+17: obito$sjoao-o1636-2
+26: obito$sjoao-o1636-3
+38: obito$sjoao-o1636-4
+57: obito$sjoao-o1636-5
+66: obito$sjoao-o1636-6
+78: obito$sjoao-o1636-7
+88: obito$sjoao-o1636-8
+95: obito$sjoao-o1636-9
+102: obito$sjoao-o1637-1
+109: obito$sjoao-o1637-2
+116: obito$sjoao-o1637-3
+126: obito$sjoao-o1637-4
+139: obito$sjoao-o1637-5
+149: obito$sjoao-o1637-6
+156: obito$sjoao-o1637-7
+167: obito$sjoao-o1637-8
+177: obito$sjoao-o1637-9
+188: obito$sjoao-o1637-10
+197: obito$sjoao-o1637-11
+210: obito$sjoao-o1640-1
+219: obito$sjoao-o1640-2
+230: obito$sjoao-o1640-3
+238: obito$sjoao-o1640-4
+250: obito$sjoao-o1640-5
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1636-1640.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1636-1640.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1636-1640.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1636-1640.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mae,pai,referida,marido,testamento,rel,referido,oficios,sacr,locs,ls,n,obito,fonte,kleio]
+Translation finished.

@@ -1,0 +1,61 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-27
+
+Processing data file santamaria-c1581-1585.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1581-1585
+
+WARNING: santamaria-c1581-1585.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1581-1585 Id: stmaria-casamentos1581-1585.
+Near lines: 3 
+Near lines: 4       cas$c1581-1/4/4/1581/fl.62/igreja de santa maria/antonio da maia (beneficiado da igreja de santa maria)/obs=assina gaspar vicente e enumera as testemunhas e acrescenta "estando muito povo junto...e muitos outros"
+
+6: cas$stmaria-c1581-1
+22: cas$stmaria-c1581-2
+39: cas$stmaria-c1582-1
+62: cas$stmaria-c1582-2
+93: cas$stmaria-c1582-3
+106: cas$stmaria-c1582-4
+124: cas$stmaria-c1582-5
+141: cas$stmaria-c1582-6
+159: cas$stmaria-c1583-1
+171: cas$stmaria-c1583-2
+186: cas$stmaria-c1583-3
+198: cas$stmaria-c1583-4
+216: cas$stmaria-c1584-1
+241: cas$stmaria-c1584-2
+268: cas$stmaria-c1584-3
+281: cas$stmaria-c1584-4
+309: cas$stmaria-c1585-1
+334: cas$stmaria-c1585-2
+364: cas$stmaria-c1585-3
+376: cas$stmaria-c1585-4
+399: cas$stmaria-c1585-5
+416: cas$stmaria-c1585-6
+435: cas$stmaria-c1585-7
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1581-1585.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1581-1585.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1581-1585.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1581-1585.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,rel,mnoivo,pnoivo,mnoiva,pnoiva,test,noiva,ls,noivo,cas,fonte,kleio]
+Translation finished.

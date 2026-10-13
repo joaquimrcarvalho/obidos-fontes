@@ -1,0 +1,90 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1601-1605.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1601-1605
+
+WARNING: SJ-o1601-1605.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1601-1605 Id: sjoao-obitos1601-1605.
+Near lines: 3 
+Near lines: 4       obito$o1601-1/13/3/1601/fl.92v./nome desconhecido
+
+6: obito$sjoao-o1601-1
+10: obito$sjoao-o1601-2
+14: obito$sjoao-o1601-3
+24: obito$sjoao-o1601-4
+30: obito$sjoao-o1601-5
+39: obito$sjoao-o1601-6
+44: obito$sjoao-o1601-7
+50: obito$sjoao-o1601-8
+56: obito$sjoao-o1601-9
+63: obito$sjoao-o1601-10
+69: obito$sjoao-o1601-11
+75: obito$sjoao-o1601-12
+81: obito$sjoao-o1601-13
+86: obito$sjoao-o1601-14
+91: obito$sjoao-o1601-15
+97: obito$sjoao-o1601-16
+102: obito$sjoao-o1601-17
+108: obito$sjoao-o1601-18
+116: obito$sjoao-o1601-19
+127: obito$sjoao-o1601-20
+133: obito$sjoao-o1601-21
+141: obito$sjoao-o1601-22
+146: obito$sjoao-o1601-23
+154: obito$sjoao-o1601-24
+163: obito$sjoao-o1601-25
+177: obito$sjoao-o1602-1
+187: obito$sjoao-o1602-2
+195: obito$sjoao-o1602-3
+206: obito$sjoao-o1603-1
+215: obito$sjoao-o1603-2
+220: obito$sjoao-o1603-3
+227: obito$sjoao-o1603-4
+237: obito$sjoao-o1603-5
+247: obito$sjoao-o1604-1
+258: obito$sjoao-o1604-2
+268: obito$sjoao-o1605-1
+
+WARNING: SJ-o1601-1605.cli line 277 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 277 
+Near lines: 278       obito$o1605-2/26/4/1605/fl.93v./nome desconhecido
+
+280: obito$sjoao-o1605-2
+
+WARNING: SJ-o1601-1605.cli line 286 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 286 
+Near lines: 287          marido$pedro fernandes/id=o1605-2-per3
+
+292: obito$sjoao-o1605-3
+303: obito$sjoao-o1605-4
+310: obito$sjoao-o1605-5
+322: obito$sjoao-o1605-6
+334: obito$sjoao-o1605-7
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1601-1605.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1601-1605.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1601-1605.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1601-1605.ids
+0  errors. 
+3  warnings.
+Groups in this file:[testamento,referida,locs,oficios,mulher,pai,ls,marido,rel,referido,mae,n,obito,fonte,kleio]
+Translation finished.

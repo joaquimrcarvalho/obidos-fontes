@@ -1,0 +1,62 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 14-59
+
+Processing data file notarial1704.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$not1704
+
+WARNING: notarial1704.cli line 3 * Warning: Filename should match source Id to avoid errors. File: notarial1704 Id: not1704.
+Near lines: 3 
+Near lines: 4       escritura$not1704-e1/14/10/1704/dinheiro a juro/fol=1-2v/loc=obidos, no escritorio do tabeliao/sumario=escritura de 12000 a razao de juro que deu antonio luis a antonio antunes e sua mulher isabel rodrigues todos da amoreira, outorgada a 25 de outubro de 1704
+
+6: escritura$not1704-e1
+37: escritura$not1704-e2
+70: escritura$not1704-e3
+106: escritura$not1704-e4
+151: escritura$not1704-e5
+178: escritura$not1704-e6
+204: escritura$not1704-e7
+233: escritura$not1704-e8
+273: escritura$not1704-e9
+305: escritura$not1704-e10
+326: escritura$not1704-e11
+371: escritura$not1704-e12a
+400: escritura$not1704-e13
+431: escritura$not1704-e13a
+461: escritura$not1704-e14
+504: escritura$not1704-e15
+542: escritura$not1704-e15a
+560: escritura$not1704-e16
+590: escritura$not1704-e17
+606: escritura$not1704-e18
+636: escritura$not1704-e19
+668: escritura$not1704-e20
+696: escritura$not1704-e21
+725: escritura$not1704-e22
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/notariais/joao ferreira serra/notarial1704.cli
+Original file: /kleio-home/sources/notariais/joao ferreira serra/notarial1704.org
+Previous version: /kleio-home/sources/notariais/joao ferreira serra/notarial1704.old
+Temp file with ids: /kleio-home/sources/notariais/joao ferreira serra/notarial1704.ids
+0  errors. 
+1  warnings.
+Groups in this file:[donatario,doadora,compradora,senhoria,foreiro,marido,vendedora,aforamento,referida,foreira,senhorio,constituinte,constituintef,rel,referido,bem,vendedor,comprador,test,atr,garantia,divida,mulher,devedor,ls,credor,escritura,fonte,kleio]
+Translation finished.

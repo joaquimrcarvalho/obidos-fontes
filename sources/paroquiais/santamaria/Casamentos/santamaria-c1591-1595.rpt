@@ -1,0 +1,57 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-26
+
+Processing data file santamaria-c1591-1595.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1591-1595
+
+WARNING: santamaria-c1591-1595.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1591-1595 Id: stmaria-casamentos1591-1595.
+Near lines: 3 
+Near lines: 4       cas$c1591-1/12/5/1591/fl.101v./igreja de santa maria/gaspar vicente (padre, cura, beneficiado da igreja de santa maria)/obs=assina gaspar vicente e enumera as testemunhas e acrescenta "e outros muitos"
+
+6: cas$stmaria-c1591-1
+29: cas$stmaria-c1591-2
+43: cas$stmaria-c1591-3
+70: cas$stmaria-c1591-4
+84: cas$stmaria-c1591-5
+104: cas$stmaria-c1592-1
+119: cas$stmaria-c1592-2
+134: cas$stmaria-c1592-3
+146: cas$stmaria-c1592-4
+160: cas$stmaria-c1593-1
+173: cas$stmaria-c1594-1
+185: cas$stmaria-c1594-2
+199: cas$stmaria-c1594-3
+212: cas$stmaria-c1595-1
+223: cas$stmaria-c1595-2
+237: cas$stmaria-c1595-3
+252: cas$stmaria-c1595-4
+262: cas$stmaria-c1595-5
+273: cas$stmaria-c1595-6
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1591-1595.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1591-1595.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1591-1595.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1591-1595.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,rel,test,mnoiva,pnoiva,noiva,mnoivo,ls,pnoivo,noivo,cas,fonte,kleio]
+Translation finished.

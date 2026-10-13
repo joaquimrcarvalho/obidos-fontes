@@ -1,0 +1,46 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-35
+
+Processing data file saopedro-c1792-1793.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-casamentos1792-1793
+
+WARNING: saopedro-c1792-1793.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-c1792-1793 Id: spedro-casamentos1792-1793.
+Near lines: 3 
+Near lines: 4       cas$c1792-1/2/1/1792/fl.17v.-18/igreja de sao pedro/joaquim jose de matos (padre, cura)/obs=assina o cura o padre joaquim jose de matos.
+
+6: cas$spedro-c1792-1
+31: cas$spedro-c1792-2
+59: cas$spedro-c1792-3
+87: cas$spedro-c1792-4
+113: cas$spedro-c1793-1
+147: cas$spedro-c1793-2
+180: cas$spedro-c1793-3
+209: cas$spedro-c1793-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1792-1793.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1792-1793.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1792-1793.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1792-1793.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,marido1,mnoivo,pnoivo,test,mnoiva,pnoiva,noiva,mulher1,ls,noivo,cas,fonte,kleio]
+Translation finished.

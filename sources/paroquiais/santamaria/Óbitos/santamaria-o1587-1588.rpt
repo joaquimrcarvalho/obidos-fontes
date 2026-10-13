@@ -1,0 +1,44 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-o1587-1588.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1587-1588
+
+WARNING: santamaria-o1587-1588.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1587-1588 Id: stmaria-obitos1587-1588.
+Near lines: 3 
+Near lines: 4       obito$o1587-1/7/9/1584/fl.142
+
+6: obito$stmaria-o1587-1
+16: obito$stmaria-o1587-2
+24: obito$stmaria-o1588-1
+32: obito$stmaria-o1588-2
+38: obito$stmaria-o1588-3
+42: obito$stmaria-o1588-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1587-1588.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1587-1588.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1587-1588.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1587-1588.ids
+0  errors. 
+1  warnings.
+Groups in this file:[marido,locs,ls,n,obito,fonte,kleio]
+Translation finished.

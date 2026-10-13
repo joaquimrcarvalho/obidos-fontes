@@ -1,0 +1,279 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1671-1680.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1671-1680
+
+WARNING: SJ-1671-1680.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1671-1680 Id: sjoao-baptismos1671-1680.
+Near lines: 3 
+Near lines: 4       bap$b1671-1/13/1/1671/fl.30v./antonio lopes (padre)/obs=assina o vigario antonio lopes
+
+6: bap$sjoao-b1671-1
+19: bap$sjoao-b1671-2
+35: bap$sjoao-b1671-3
+51: bap$sjoao-b1671-4
+67: bap$sjoao-b1671-5
+82: bap$sjoao-b1671-6
+97: bap$sjoao-b1671-7
+113: bap$sjoao-b1671-8
+126: bap$sjoao-b1671-9
+142: bap$sjoao-b1671-10
+158: bap$sjoao-b1671-11
+174: bap$sjoao-b1671-12
+191: bap$sjoao-b1671-13
+207: bap$sjoao-b1671-14
+223: bap$sjoao-b1671-15
+243: bap$sjoao-b1671-16
+259: bap$sjoao-b1671-17
+274: bap$sjoao-b1671-18
+291: bap$sjoao-b1671-19
+307: bap$sjoao-b1671-20
+324: bap$sjoao-b1671-21
+340: bap$sjoao-b1671-22
+356: bap$sjoao-b1671-23
+372: bap$sjoao-b1671-24
+388: bap$sjoao-b1671-25
+404: bap$sjoao-b1671-26
+420: bap$sjoao-b1672-1
+434: bap$sjoao-b1672-2
+450: bap$sjoao-b1672-3
+466: bap$sjoao-b1672-4
+482: bap$sjoao-b1672-5a
+498: bap$sjoao-b1672-5
+
+WARNING: SJ-1671-1680.cli line 501 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 501          pn$joao henriques/mesmo_que=b1672-5-pn/id=b1672-5-per2
+Near lines: 502             ls$residencia/sobral
+
+
+WARNING: SJ-1671-1680.cli line 504 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 504          mn$maria martins/mesmo_que=b1672-5-mn/id=b1672-5-per3
+Near lines: 505             ls$residencia/sobral
+
+513: bap$sjoao-b1672-6
+529: bap$sjoao-b1672-7
+542: bap$sjoao-b1672-8
+558: bap$sjoao-b1672-9
+574: bap$sjoao-b1672-10
+589: bap$sjoao-b1672-11
+602: bap$sjoao-b1672-12
+617: bap$sjoao-b1672-13
+632: bap$sjoao-b1672-14
+649: bap$sjoao-b1672-15
+665: bap$sjoao-b1673-1
+681: bap$sjoao-b1673-2
+697: bap$sjoao-b1673-3
+713: bap$sjoao-b1673-4
+726: bap$sjoao-b1673-5
+741: bap$sjoao-b1673-6
+754: bap$sjoao-b1673-7
+770: bap$sjoao-b1673-8
+785: bap$sjoao-b1673-9
+801: bap$sjoao-b1673-10
+817: bap$sjoao-b1673-11
+833: bap$sjoao-b1673-12
+849: bap$sjoao-b1673-13
+865: bap$sjoao-b1673-14
+881: bap$sjoao-b1673-15
+897: bap$sjoao-b1673-16
+913: bap$sjoao-b1673-17
+926: bap$sjoao-b1673-18
+940: bap$sjoao-b1673-19
+956: bap$sjoao-b1673-20
+972: bap$sjoao-b1673-21
+988: bap$sjoao-b1673-22
+1003: bap$sjoao-b1674-1
+1016: bap$sjoao-b1674-2
+1031: bap$sjoao-b1674-3
+1048: bap$sjoao-b1674-4
+1064: bap$sjoao-b1674-5
+1079: bap$sjoao-b1674-6
+1094: bap$sjoao-b1674-7
+1110: bap$sjoao-b1674-8
+1126: bap$sjoao-b1674-9
+1142: bap$sjoao-b1674-10
+1157: bap$sjoao-b1674-11
+1172: bap$sjoao-b1674-12
+1188: bap$sjoao-b1674-13
+1204: bap$sjoao-b1674-14
+1221: bap$sjoao-b1674-15
+1236: bap$sjoao-b1674-16
+1254: bap$sjoao-b1674-17
+1270: bap$sjoao-b1674-18
+1282: bap$sjoao-b1674-19
+1299: bap$sjoao-b1674-20
+1316: bap$sjoao-b1674-21
+1332: bap$sjoao-b1674-22
+1348: bap$sjoao-b1674-23
+1364: bap$sjoao-b1674-24
+1380: bap$sjoao-b1674-25
+1396: bap$sjoao-b1674-26
+1413: bap$sjoao-b1675-1
+1428: bap$sjoao-b1675-2
+1446: bap$sjoao-b1675-3
+1459: bap$sjoao-b1675-4
+1473: bap$sjoao-b1675-5
+1489: bap$sjoao-b1675-6
+1506: bap$sjoao-b1675-7
+1521: bap$sjoao-b1675-8
+1537: bap$sjoao-b1675-9
+1553: bap$sjoao-b1675-10
+1569: bap$sjoao-b1675-11
+1584: bap$sjoao-b1675-12
+1600: bap$sjoao-b1675-13
+1611: bap$sjoao-b1675-14
+1626: bap$sjoao-b1675-15
+1641: bap$sjoao-b1675-16
+1656: bap$sjoao-b1675-17
+1674: bap$sjoao-b1675-18
+1690: bap$sjoao-b1675-19
+1706: bap$sjoao-b1676-1
+1721: bap$sjoao-b1676-2
+1737: bap$sjoao-b1676-3
+1753: bap$sjoao-b1676-4
+1769: bap$sjoao-b1676-5
+1783: bap$sjoao-b1676-6
+1799: bap$sjoao-b1676-7
+1814: bap$sjoao-b1676-8
+1830: bap$sjoao-b1676-9
+1849: bap$sjoao-b1676-10
+1865: bap$sjoao-b1676-11
+1881: bap$sjoao-b1676-12
+1896: bap$sjoao-b1676-13
+1912: bap$sjoao-b1676-14
+1928: bap$sjoao-b1676-15
+1944: bap$sjoao-b1676-16
+1960: bap$sjoao-b1676-17
+1976: bap$sjoao-b1676-18
+1993: bap$sjoao-b1676-19
+2009: bap$sjoao-b1676-20
+2025: bap$sjoao-b1676-21
+2040: bap$sjoao-b1676-22
+2054: bap$sjoao-b1676-23
+2070: bap$sjoao-b1677-1
+2086: bap$sjoao-b1677-2
+2101: bap$sjoao-b1677-3
+2118: bap$sjoao-b1677-4
+2134: bap$sjoao-b1677-5
+2150: bap$sjoao-b1677-6
+2166: bap$sjoao-b1677-7
+2182: bap$sjoao-b1677-8
+2198: bap$sjoao-b1677-9
+2214: bap$sjoao-b1677-10
+2230: bap$sjoao-b1677-11
+2246: bap$sjoao-b1677-12
+2261: bap$sjoao-b1677-13
+2276: bap$sjoao-b1677-14
+2292: bap$sjoao-b1677-15
+2308: bap$sjoao-b1677-16
+2324: bap$sjoao-b1677-17
+2342: bap$sjoao-b1677-18
+2358: bap$sjoao-b1677-19
+2375: bap$sjoao-b1677-20
+2391: bap$sjoao-b1677-21
+2407: bap$sjoao-b1677-22
+2423: bap$sjoao-b1677-23
+2438: bap$sjoao-b1677-24
+2454: bap$sjoao-b1677-25
+2469: bap$sjoao-b1677-26
+2484: bap$sjoao-b1677-27
+2500: bap$sjoao-b1677-29
+2516: bap$sjoao-b1677-30
+2532: bap$sjoao-b1677-31
+2547: bap$sjoao-b1677-32
+2563: bap$sjoao-b1677-33
+2578: bap$sjoao-b1678-1
+2594: bap$sjoao-b1678-2
+2610: bap$sjoao-b1678-3
+2626: bap$sjoao-b1678-4
+2643: bap$sjoao-b1678-5
+2659: bap$sjoao-b1678-6
+2675: bap$sjoao-b1678-7
+2690: bap$sjoao-b1678-8
+2706: bap$sjoao-b1678-9
+2720: bap$sjoao-b1678-10
+2735: bap$sjoao-b1678-11
+2751: bap$sjoao-b1678-12
+2767: bap$sjoao-b1678-13
+2783: bap$sjoao-b1678-14
+2799: bap$sjoao-b1678-15
+2815: bap$sjoao-b1678-16
+2831: bap$sjoao-b1678-17
+2848: bap$sjoao-b1678-18
+2864: bap$sjoao-b1678-19
+2881: bap$sjoao-b1679-1
+2896: bap$sjoao-b1679-2
+2912: bap$sjoao-b1679-3
+2928: bap$sjoao-b1679-4
+2944: bap$sjoao-b1679-5
+2959: bap$sjoao-b1679-6
+2972: bap$sjoao-b1679-7
+2988: bap$sjoao-b1679-8
+3004: bap$sjoao-b1679-9
+3023: bap$sjoao-b1679-10
+3043: bap$sjoao-b1679-11
+3059: bap$sjoao-b1679-12
+3078: bap$sjoao-b1679-13
+3097: bap$sjoao-b1679-14
+3116: bap$sjoao-b1679-15
+3139: bap$sjoao-b1680-1
+3152: bap$sjoao-b1680-2
+3168: bap$sjoao-b1680-3
+3184: bap$sjoao-b1680-4
+3199: bap$sjoao-b1680-5
+3212: bap$sjoao-b1680-6
+3234: bap$sjoao-b1680-7
+3252: bap$sjoao-b1680-8
+3268: bap$sjoao-b1680-9
+3284: bap$sjoao-b1680-10
+3307: bap$sjoao-b1680-11
+3321: bap$sjoao-b1680-12
+3339: bap$sjoao-b1680-13
+3354: bap$sjoao-b1680-14
+3370: bap$sjoao-b1680-15
+3390: bap$sjoao-b1680-16
+3407: bap$sjoao-b1680-17
+3423: bap$sjoao-b1680-18
+3439: bap$sjoao-b1680-19
+3455: bap$sjoao-b1680-20
+3472: bap$sjoao-b1680-21
+3488: bap$sjoao-b1680-22
+3508: bap$sjoao-b1680-23
+3529: bap$sjoao-b1680-24
+3549: bap$sjoao-b1680-25
+3568: bap$sjoao-b1680-26
+3584: bap$sjoao-b1680-27
+3602: bap$sjoao-b1680-28
+*** End of File
+
+ERROR: SJ-1671-1680.cli line 501  Could not find same_as id sjoao-b1672-5-pn. If  original reference is on another file use xsame_as
+Near lines: 501 Near lines: 502 
+
+ERROR: SJ-1671-1680.cli line 504  Could not find same_as id sjoao-b1672-5-mn. If  original reference is on another file use xsame_as
+Near lines: 504 Near lines: 505 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1671-1680.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1671-1680.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1671-1680.old
+2  errors. 
+3  warnings.
+Groups in this file:[mmad1,pmad1,mrmad1,rel,referido,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

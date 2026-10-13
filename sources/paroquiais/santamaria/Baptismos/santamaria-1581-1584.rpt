@@ -1,0 +1,115 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 14-55
+
+Processing data file santamaria-1581-1584.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1581-1584
+
+WARNING: santamaria-1581-1584.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1581-1584 Id: stmaria-baptismos1581-1584.
+Near lines: 3 
+Near lines: 4       bap$b1581-1/18/1/1581/fl.43v./igreja de santa maria/luis francisco (beneficiado de sao joao de mocharro)/obs= assina gaspar vicente
+
+
+WARNING: santamaria-1581-1584.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1581-1/18/1/1581/fl.43v./igreja de santa maria/luis francisco (beneficiado de sao joao de mocharro)/obs= assina gaspar vicente
+
+6: bap$stmaria-b1581-1
+28: bap$stmaria-b1581-2
+47: bap$stmaria-b1581-3
+69: bap$stmaria-b1581-4
+82: bap$stmaria-b1581-5
+100: bap$stmaria-b1581-6
+119: bap$stmaria-b1581-7
+138: bap$stmaria-b1581-8
+155: bap$stmaria-b1581-9
+174: bap$stmaria-b1581-10
+194: bap$stmaria-b1581-11
+210: bap$stmaria-b1581-12
+230: bap$stmaria-b1581-13
+249: bap$stmaria-b1581-14
+265: bap$stmaria-b1581-15
+284: bap$stmaria-b1581-16
+304: bap$stmaria-b1581-17
+323: bap$stmaria-b1581-18
+339: bap$stmaria-b1582-1
+359: bap$stmaria-b1582-2
+380: bap$stmaria-b1582-3
+401: bap$stmaria-b1582-4
+422: bap$stmaria-b1582-5
+441: bap$stmaria-b1582-6
+461: bap$stmaria-b1582-7
+480: bap$stmaria-b1582-8
+499: bap$stmaria-b1582-9
+516: bap$stmaria-b1582-10
+536: bap$stmaria-b1582-11
+550: bap$stmaria-b1582-12
+561: bap$stmaria-b1582-13
+571: bap$stmaria-b1582-14
+589: bap$stmaria-b1582-15
+606: bap$stmaria-b1582-16
+635: bap$stmaria-b1583-1
+656: bap$stmaria-b1583-2
+676: bap$stmaria-b1583-3
+696: bap$stmaria-b1583-4
+711: bap$stmaria-b1583-5
+725: bap$stmaria-b1583-6
+739: bap$stmaria-b1583-7
+753: bap$stmaria-b1583-8
+768: bap$stmaria-b1583-9
+786: bap$stmaria-b1583-10
+800: bap$stmaria-b1583-11
+819: bap$stmaria-b1583-12
+836: bap$stmaria-b1583-13
+848: bap$stmaria-b1583-14
+877: bap$stmaria-b1583-15
+897: bap$stmaria-b1583-16
+913: bap$stmaria-b1584-1
+937: bap$stmaria-b1584-2
+959: bap$stmaria-b1584-3
+978: bap$stmaria-b1584-4
+997: bap$stmaria-b1584-5
+1014: bap$stmaria-b1584-6
+1030: bap$stmaria-b1584-7
+1043: bap$stmaria-b1584-8
+1062: bap$stmaria-b1584-9
+1081: bap$stmaria-b1584-10
+1099: bap$stmaria-b1584-11
+1115: bap$stmaria-b1584-12
+1133: bap$stmaria-b1584-13
+1147: bap$stmaria-b1584-14
+1160: bap$stmaria-b1584-15
+1179: bap$stmaria-b1584-16
+1198: bap$stmaria-b1584-17
+1218: bap$stmaria-b1584-18
+1233: bap$stmaria-b1584-19
+1252: bap$stmaria-b1584-20
+1269: bap$stmaria-b1584-21
+1281: bap$stmaria-b1584-22
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1581-1584.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1581-1584.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1581-1584.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1581-1584.ids
+0  errors. 
+2  warnings.
+Groups in this file:[mrmad,ppad,mmad1,mad,pad,referido,pmad1,rel,mrmad1,mad1,ppad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,63 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-26
+
+Processing data file santamaria-1783.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-bap1783
+
+WARNING: santamaria-1783.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1783 Id: stmaria-bap1783.
+Near lines: 3 
+Near lines: 4       bap$b1783-1/26/1/1783/fl.265/igreja de santa maria/joao carlos da silva
+
+6: bap$stmaria-b1783-1
+31: bap$stmaria-b1783-2
+52: bap$stmaria-b1783-3
+74: bap$stmaria-b1783-4
+97: bap$stmaria-b1783-5
+126: bap$stmaria-b1783-6
+144: bap$stmaria-b1783-7
+161: bap$stmaria-b1783-8
+179: bap$stmaria-b1783-9
+196: bap$stmaria-b1783-10
+228: bap$stmaria-b1783-11
+249: bap$stmaria-b1783-12
+275: bap$stmaria-b1783-13
+292: bap$stmaria-b1783-14
+310: bap$stmaria-b1783-15
+332: bap$stmaria-b1783-16
+349: bap$stmaria-b1783-17
+364: bap$stmaria-b1783-18
+380: bap$stmaria-b1783-19
+396: bap$stmaria-b1783-20
+421: bap$stmaria-b1783-21
+437: bap$stmaria-b1783-22
+457: bap$stmaria-b1783-23
+472: bap$stmaria-b1783-24
+488: bap$stmaria-b1783-25
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1783.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1783.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1783.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1783.ids
+0  errors. 
+1  warnings.
+Groups in this file:[ppad,procurador-pad,procurador-mad,mad,pad,referido,rel,referida,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

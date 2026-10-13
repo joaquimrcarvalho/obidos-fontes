@@ -1,0 +1,2707 @@
+<?xml version='1.0'?>
+<KLEIO STRUCTURE="/usr/local/timelink/clio/src/gacto2.str" SOURCE="/kleio-home/sources/paroquiais/vau/Casamentos/vau-c1794-1795.cli" TRANSLATOR="gactoxml2.str" WHEN="2026-10-12 6:36:2" OBS="" SPACE="vau">
+<CLASS NAME="source" SUPER="entity" TABLE="sources" GROUP="fonte">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="value" COLUMN="the_value" CLASS="value" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="loc" COLUMN="loc" CLASS="loc" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="ref" COLUMN="ref" CLASS="ref" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="kleiofile" COLUMN="kleiofile" CLASS="kleiofile" TYPE="varchar" SIZE="512" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="32768" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="replace" COLUMN="replaces" CLASS="replace" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="vau-casamentos1794-1795" NAME="fonte" CLASS="source" ORDER="1" LEVEL="1" LINE="4">
+    <ELEMENT NAME="line" CLASS="line"><core>4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-casamentos1794-1795</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>fonte</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>root</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>source</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>1</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>1</core></ELEMENT>
+   <ELEMENT NAME="year" CLASS="undef">
+         <core><![CDATA[localizacao-a.d.l.]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[freguesia de nossa senhora da piedade, vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[0]]></core>   </ELEMENT>
+   <ELEMENT NAME="kleiofile" CLASS="kleiofile">
+         <core><![CDATA[/kleio-home/sources/paroquiais/vau/Casamentos/vau-c1794-1795.cli]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="act" SUPER="entity" TABLE="acts" GROUP="cas">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="loc" COLUMN="loc" CLASS="loc" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="ref" COLUMN="ref" CLASS="ref" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="vau-c1794-1" NAME="cas" CLASS="act" ORDER="2" LEVEL="2" LINE="6">
+    <ELEMENT NAME="line" CLASS="line"><core>6</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-casamentos1794-1795</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>2</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[4]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[2]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1794]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="ref">
+         <core><![CDATA[fl.29]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[igreja de nossa senhora da piedade, vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="celebrante" CLASS="undef">
+         <core><![CDATA[francisco jose rodrigues da costa (padre)]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[assina paroco francisco jose rodrigues da costa. o casamento realizou-se de tarde.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[cas]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="person" SUPER="entity" TABLE="persons" GROUP="noivo">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="name" COLUMN="name" CLASS="name" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="sex" COLUMN="sex" CLASS="sex" TYPE="char" SIZE="1" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="vau-c1794-1-noivo" NAME="noivo" CLASS="person" ORDER="3" LEVEL="3" LINE="7">
+    <ELEMENT NAME="line" CLASS="line"><core>7</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>3</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[antonio monteiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="relation" SUPER="entity" TABLE="relations" GROUP="relation">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="origin" COLUMN="origin" CLASS="origin" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="destination" COLUMN="destination" CLASS="destination" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="value" COLUMN="the_value" CLASS="value" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="vau-c1794-1-rela1" NAME="relation"  ORDER="4" LEVEL="4" CLASS="relation" LINE="7">
+    <ELEMENT NAME="line" CLASS="line"><core>7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>4</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela1</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP><CLASS NAME="attribute" SUPER="entity" TABLE="attributes" GROUP="ls">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="entity" COLUMN="entity" CLASS="entity" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="512" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="value" COLUMN="the_value" CLASS="value" TYPE="varchar" SIZE="1024" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="vau-c1794-1-noivo-att1" NAME="ls" CLASS="attribute" ORDER="5" LEVEL="4" LINE="9">
+    <ELEMENT NAME="line" CLASS="line"><core>9</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-noivo-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-noivo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>5</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-noivo-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-1-noivo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per1" NAME="pnoivo" CLASS="person" ORDER="6" LEVEL="4" LINE="11">
+    <ELEMENT NAME="line" CLASS="line"><core>11</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>pnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-noivo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>6</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[antonio monteiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-noivo-rela2" NAME="relation"  ORDER="7" LEVEL="5" CLASS="relation" LINE="11">
+    <ELEMENT NAME="line" CLASS="line"><core>11</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>7</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-noivo-rela2</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per2" NAME="mnoivo" CLASS="person" ORDER="8" LEVEL="4" LINE="13">
+    <ELEMENT NAME="line" CLASS="line"><core>13</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>mnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-noivo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>8</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[rosa maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-noivo-rela3" NAME="relation"  ORDER="9" LEVEL="5" CLASS="relation" LINE="13">
+    <ELEMENT NAME="line" CLASS="line"><core>13</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>9</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-noivo-rela3</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per3" NAME="noiva" CLASS="person" ORDER="10" LEVEL="3" LINE="14">
+    <ELEMENT NAME="line" CLASS="line"><core>14</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>10</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[joaquina rosa]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-rela4" NAME="relation"  ORDER="11" LEVEL="4" CLASS="relation" LINE="14">
+    <ELEMENT NAME="line" CLASS="line"><core>14</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>11</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela4</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per3-att2" NAME="ls" CLASS="attribute" ORDER="12" LEVEL="4" LINE="15">
+    <ELEMENT NAME="line" CLASS="line"><core>15</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per3-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>12</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da vitoria, famalicao, termo da pederneira]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-per3-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-1-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per3-att3" NAME="ls" CLASS="attribute" ORDER="13" LEVEL="4" LINE="16">
+    <ELEMENT NAME="line" CLASS="line"><core>16</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per3-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>13</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[locbaptismo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da vitoria, famalicao, termo da pederneira]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-per3-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-1-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per3-att4" NAME="ls" CLASS="attribute" ORDER="14" LEVEL="4" LINE="18">
+    <ELEMENT NAME="line" CLASS="line"><core>18</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per3-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>14</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[vau, freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[veio pequena, ha muitos anos com os seus pais para esta freguesia]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-per3-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-1-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per4" NAME="pnoiva" CLASS="person" ORDER="15" LEVEL="4" LINE="20">
+    <ELEMENT NAME="line" CLASS="line"><core>20</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>pnoiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>15</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[simao dos santos]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per3-rela5" NAME="relation"  ORDER="16" LEVEL="5" CLASS="relation" LINE="20">
+    <ELEMENT NAME="line" CLASS="line"><core>20</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>16</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pnoiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per4</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per3-rela5</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per5" NAME="mnoiva" CLASS="person" ORDER="17" LEVEL="4" LINE="22">
+    <ELEMENT NAME="line" CLASS="line"><core>22</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>mnoiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>17</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[rosalia maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per3-rela6" NAME="relation"  ORDER="18" LEVEL="5" CLASS="relation" LINE="22">
+    <ELEMENT NAME="line" CLASS="line"><core>22</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>18</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mnoiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per3-rela6</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per6" NAME="test" CLASS="person" ORDER="19" LEVEL="3" LINE="23">
+    <ELEMENT NAME="line" CLASS="line"><core>23</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>19</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jose monteiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-rela7" NAME="relation"  ORDER="20" LEVEL="4" CLASS="relation" LINE="23">
+    <ELEMENT NAME="line" CLASS="line"><core>23</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per6</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>20</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per6</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela7</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per6-rel1" NAME="rel" CLASS="relation" ORDER="21" LEVEL="4" LINE="24">
+    <ELEMENT NAME="line" CLASS="line"><core>24</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per6-rel1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>21</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[irmao]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[antonio monteiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[vau-c1794-1-noivo]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-per6-rel1]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[vau-c1794-1-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per6-att5" NAME="ls" CLASS="attribute" ORDER="22" LEVEL="4" LINE="26">
+    <ELEMENT NAME="line" CLASS="line"><core>26</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per6-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>22</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[sim]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-per6-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-1-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per7" NAME="test" CLASS="person" ORDER="23" LEVEL="3" LINE="27">
+    <ELEMENT NAME="line" CLASS="line"><core>27</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>23</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jose dos santos]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-rela8" NAME="relation"  ORDER="24" LEVEL="4" CLASS="relation" LINE="27">
+    <ELEMENT NAME="line" CLASS="line"><core>27</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per7</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>24</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per7</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela8</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per7-att6" NAME="ls" CLASS="attribute" ORDER="25" LEVEL="4" LINE="28">
+    <ELEMENT NAME="line" CLASS="line"><core>28</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per7-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per7</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>25</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-per7-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-1-per7]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-per7-att7" NAME="ls" CLASS="attribute" ORDER="26" LEVEL="4" LINE="30">
+    <ELEMENT NAME="line" CLASS="line"><core>30</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per7-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per7</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>26</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[sim]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-1-per7-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-1-per7]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940204]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-1-rela9" NAME="relation"  ORDER="27" LEVEL="3" CLASS="relation" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>27</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela9</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-noivo-atra1" NAME="ls"  ORDER="28" LEVEL="3" CLASS="attribute" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>28</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-noivo-atra1</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-per3-atra2" NAME="ls"  ORDER="29" LEVEL="3" CLASS="attribute" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>29</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-per3-atra2</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-rela10" NAME="relation"  ORDER="30" LEVEL="3" CLASS="relation" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>30</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pai</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela10</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-rela11" NAME="relation"  ORDER="31" LEVEL="3" CLASS="relation" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>31</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mae</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1-noivo</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela11</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-rela12" NAME="relation"  ORDER="32" LEVEL="3" CLASS="relation" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>32</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1-per2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela12</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-rela13" NAME="relation"  ORDER="33" LEVEL="3" CLASS="relation" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>33</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pai</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per4</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela13</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-rela14" NAME="relation"  ORDER="34" LEVEL="3" CLASS="relation" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>34</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mae</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1-per3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela14</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-1-rela15" NAME="relation"  ORDER="35" LEVEL="3" CLASS="relation" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-1-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>35</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-1-per4</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-1-per5</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-1-rela15</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940204</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2" NAME="cas" CLASS="act" ORDER="36" LEVEL="2" LINE="32">
+    <ELEMENT NAME="line" CLASS="line"><core>32</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-casamentos1794-1795</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>36</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[1]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[3]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1794]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="ref">
+         <core><![CDATA[fl.29]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[igreja de nossa senhora da piedade, vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="celebrante" CLASS="undef">
+         <core><![CDATA[francisco jose rodrigues da costa (padre)]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[assina paroco francisco jose rodrigues da costa. o casamento realizou-se de manha.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[cas]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per1" NAME="noivo" CLASS="person" ORDER="37" LEVEL="3" LINE="33">
+    <ELEMENT NAME="line" CLASS="line"><core>33</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>37</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jose antonio]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-rela16" NAME="relation"  ORDER="38" LEVEL="4" CLASS="relation" LINE="33">
+    <ELEMENT NAME="line" CLASS="line"><core>33</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>38</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela16</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per1-att1" NAME="ls" CLASS="attribute" ORDER="39" LEVEL="4" LINE="35">
+    <ELEMENT NAME="line" CLASS="line"><core>35</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per1-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>39</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per1-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per2" NAME="pnoivo" CLASS="person" ORDER="40" LEVEL="4" LINE="36">
+    <ELEMENT NAME="line" CLASS="line"><core>36</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>pnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>40</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[antonio soares]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per1-rela17" NAME="relation"  ORDER="41" LEVEL="5" CLASS="relation" LINE="36">
+    <ELEMENT NAME="line" CLASS="line"><core>36</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>41</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per1-rela17</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per2-att2" NAME="ls" CLASS="attribute" ORDER="42" LEVEL="5" LINE="37">
+    <ELEMENT NAME="line" CLASS="line"><core>37</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per2-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>42</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[cargo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[tenente]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per2-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per2-att3" NAME="ls" CLASS="attribute" ORDER="43" LEVEL="5" LINE="38">
+    <ELEMENT NAME="line" CLASS="line"><core>38</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per2-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>43</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per2-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per2-att4" NAME="ls" CLASS="attribute" ORDER="44" LEVEL="5" LINE="40">
+    <ELEMENT NAME="line" CLASS="line"><core>40</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per2-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>44</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[loccasamento]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per2-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per3" NAME="mnoivo" CLASS="person" ORDER="45" LEVEL="4" LINE="41">
+    <ELEMENT NAME="line" CLASS="line"><core>41</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>mnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>45</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[luisa maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per1-rela18" NAME="relation"  ORDER="46" LEVEL="5" CLASS="relation" LINE="41">
+    <ELEMENT NAME="line" CLASS="line"><core>41</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>46</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per3</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per1-rela18</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per3-att5" NAME="ls" CLASS="attribute" ORDER="47" LEVEL="5" LINE="42">
+    <ELEMENT NAME="line" CLASS="line"><core>42</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per3-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>47</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per3-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per3-att6" NAME="ls" CLASS="attribute" ORDER="48" LEVEL="5" LINE="44">
+    <ELEMENT NAME="line" CLASS="line"><core>44</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per3-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>48</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[loccasamento]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per3-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per4" NAME="noiva" CLASS="person" ORDER="49" LEVEL="3" LINE="45">
+    <ELEMENT NAME="line" CLASS="line"><core>45</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>49</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[maria da conceicao]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-rela19" NAME="relation"  ORDER="50" LEVEL="4" CLASS="relation" LINE="45">
+    <ELEMENT NAME="line" CLASS="line"><core>45</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>50</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela19</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per4-att7" NAME="ls" CLASS="attribute" ORDER="51" LEVEL="4" LINE="47">
+    <ELEMENT NAME="line" CLASS="line"><core>47</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per4-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>51</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[locbaptismo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de santa maria de almoster]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per4-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per4]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per5" NAME="pnoiva" CLASS="person" ORDER="52" LEVEL="4" LINE="48">
+    <ELEMENT NAME="line" CLASS="line"><core>48</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>pnoiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>52</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[manuel da silva]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per4-rela20" NAME="relation"  ORDER="53" LEVEL="5" CLASS="relation" LINE="48">
+    <ELEMENT NAME="line" CLASS="line"><core>48</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>53</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pnoiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per4-rela20</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per5-att8" NAME="ls" CLASS="attribute" ORDER="54" LEVEL="5" LINE="49">
+    <ELEMENT NAME="line" CLASS="line"><core>49</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per5-att8</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per5</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>54</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[casal da ferraria., freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per5-att8]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per5]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per5-att9" NAME="ls" CLASS="attribute" ORDER="55" LEVEL="5" LINE="50">
+    <ELEMENT NAME="line" CLASS="line"><core>50</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per5-att9</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per5</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>55</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de santa maria de almoster]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per5-att9]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per5]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per5-att10" NAME="ls" CLASS="attribute" ORDER="56" LEVEL="5" LINE="52">
+    <ELEMENT NAME="line" CLASS="line"><core>52</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per5-att10</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per5</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>56</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[loccasamento]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de santa maria de almoster]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per5-att10]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per5]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per6" NAME="mnoiva" CLASS="person" ORDER="57" LEVEL="4" LINE="53">
+    <ELEMENT NAME="line" CLASS="line"><core>53</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>mnoiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>57</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[marta maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per4-rela21" NAME="relation"  ORDER="58" LEVEL="5" CLASS="relation" LINE="53">
+    <ELEMENT NAME="line" CLASS="line"><core>53</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per6</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>58</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mnoiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per6</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per4-rela21</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per6-att11" NAME="ls" CLASS="attribute" ORDER="59" LEVEL="5" LINE="54">
+    <ELEMENT NAME="line" CLASS="line"><core>54</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per6-att11</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>59</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[casal da ferraria, freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per6-att11]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per6-att12" NAME="ls" CLASS="attribute" ORDER="60" LEVEL="5" LINE="55">
+    <ELEMENT NAME="line" CLASS="line"><core>55</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per6-att12</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>60</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de santa maria de almoster]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per6-att12]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per6-att13" NAME="ls" CLASS="attribute" ORDER="61" LEVEL="5" LINE="57">
+    <ELEMENT NAME="line" CLASS="line"><core>57</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per6-att13</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>61</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[loccasamento]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de santa maria de almoster]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per6-att13]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per7" NAME="test" CLASS="person" ORDER="62" LEVEL="3" LINE="58">
+    <ELEMENT NAME="line" CLASS="line"><core>58</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>62</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jose francisco louro]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-rela22" NAME="relation"  ORDER="63" LEVEL="4" CLASS="relation" LINE="58">
+    <ELEMENT NAME="line" CLASS="line"><core>58</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per7</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>63</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per7</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela22</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per7-att14" NAME="ls" CLASS="attribute" ORDER="64" LEVEL="4" LINE="60">
+    <ELEMENT NAME="line" CLASS="line"><core>60</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per7-att14</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per7</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>64</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[sim]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per7-att14]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per7]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-per8" NAME="test" CLASS="person" ORDER="65" LEVEL="3" LINE="61">
+    <ELEMENT NAME="line" CLASS="line"><core>61</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per8</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>65</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jeronimo luis]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-rela23" NAME="relation"  ORDER="66" LEVEL="4" CLASS="relation" LINE="61">
+    <ELEMENT NAME="line" CLASS="line"><core>61</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per8</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>66</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per8</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela23</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per8-att15" NAME="ls" CLASS="attribute" ORDER="67" LEVEL="4" LINE="63">
+    <ELEMENT NAME="line" CLASS="line"><core>63</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per8-att15</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per8</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>67</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[cruz]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-2-per8-att15]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-2-per8]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940301]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-2-rela24" NAME="relation"  ORDER="68" LEVEL="3" CLASS="relation" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>68</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela24</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per1-atra3" NAME="ls"  ORDER="69" LEVEL="3" CLASS="attribute" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>69</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per1-atra3</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-per4-atra4" NAME="ls"  ORDER="70" LEVEL="3" CLASS="attribute" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>70</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-per4-atra4</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-rela25" NAME="relation"  ORDER="71" LEVEL="3" CLASS="relation" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>71</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pai</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela25</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-rela26" NAME="relation"  ORDER="72" LEVEL="3" CLASS="relation" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>72</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mae</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per3</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela26</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-rela27" NAME="relation"  ORDER="73" LEVEL="3" CLASS="relation" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>73</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2-per3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela27</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-rela28" NAME="relation"  ORDER="74" LEVEL="3" CLASS="relation" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>74</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pai</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela28</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-rela29" NAME="relation"  ORDER="75" LEVEL="3" CLASS="relation" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per6</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>75</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mae</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per6</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela29</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-2-rela30" NAME="relation"  ORDER="76" LEVEL="3" CLASS="relation" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-2-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>76</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-2-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-2-per6</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-2-rela30</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940301</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3" NAME="cas" CLASS="act" ORDER="77" LEVEL="2" LINE="65">
+    <ELEMENT NAME="line" CLASS="line"><core>65</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-casamentos1794-1795</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>77</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[3]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[3]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1794]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="ref">
+         <core><![CDATA[fl.29v.]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[igreja de nossa senhora da piedade, vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="celebrante" CLASS="undef">
+         <core><![CDATA[francisco jose rodrigues da costa (padre)]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[assina paroco francisco jose rodrigues da costa.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[cas]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per1" NAME="noivo" CLASS="person" ORDER="78" LEVEL="3" LINE="66">
+    <ELEMENT NAME="line" CLASS="line"><core>66</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>78</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[francisco da silva]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-rela31" NAME="relation"  ORDER="79" LEVEL="4" CLASS="relation" LINE="66">
+    <ELEMENT NAME="line" CLASS="line"><core>66</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>79</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela31</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per1-att1" NAME="ls" CLASS="attribute" ORDER="80" LEVEL="4" LINE="67">
+    <ELEMENT NAME="line" CLASS="line"><core>67</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per1-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>80</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per1-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per1-att2" NAME="ls" CLASS="attribute" ORDER="81" LEVEL="4" LINE="69">
+    <ELEMENT NAME="line" CLASS="line"><core>69</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per1-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>81</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per1-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per2" NAME="pnoivo" CLASS="person" ORDER="82" LEVEL="4" LINE="70">
+    <ELEMENT NAME="line" CLASS="line"><core>70</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>pnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>82</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jeronimo da silva]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per1-rela32" NAME="relation"  ORDER="83" LEVEL="5" CLASS="relation" LINE="70">
+    <ELEMENT NAME="line" CLASS="line"><core>70</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>83</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per1-rela32</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per2-att3" NAME="ls" CLASS="attribute" ORDER="84" LEVEL="5" LINE="71">
+    <ELEMENT NAME="line" CLASS="line"><core>71</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per2-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>84</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per2-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per2-att4" NAME="ls" CLASS="attribute" ORDER="85" LEVEL="5" LINE="73">
+    <ELEMENT NAME="line" CLASS="line"><core>73</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per2-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>85</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per2-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per3" NAME="mnoivo" CLASS="person" ORDER="86" LEVEL="4" LINE="74">
+    <ELEMENT NAME="line" CLASS="line"><core>74</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>mnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>86</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[micaela maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per1-rela33" NAME="relation"  ORDER="87" LEVEL="5" CLASS="relation" LINE="74">
+    <ELEMENT NAME="line" CLASS="line"><core>74</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>87</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per3</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per1-rela33</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per3-att5" NAME="ls" CLASS="attribute" ORDER="88" LEVEL="5" LINE="75">
+    <ELEMENT NAME="line" CLASS="line"><core>75</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per3-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>88</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per3-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per3-att6" NAME="ls" CLASS="attribute" ORDER="89" LEVEL="5" LINE="77">
+    <ELEMENT NAME="line" CLASS="line"><core>77</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per3-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>89</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per3-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per4" NAME="noiva" CLASS="person" ORDER="90" LEVEL="3" LINE="78">
+    <ELEMENT NAME="line" CLASS="line"><core>78</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>90</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[josefa maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-rela34" NAME="relation"  ORDER="91" LEVEL="4" CLASS="relation" LINE="78">
+    <ELEMENT NAME="line" CLASS="line"><core>78</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>91</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela34</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per4-att7" NAME="ls" CLASS="attribute" ORDER="92" LEVEL="4" LINE="79">
+    <ELEMENT NAME="line" CLASS="line"><core>79</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per4-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>92</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[ec]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[v]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per4-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per4]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per4-att8" NAME="ls" CLASS="attribute" ORDER="93" LEVEL="4" LINE="80">
+    <ELEMENT NAME="line" CLASS="line"><core>80</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per4-att8</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>93</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per4-att8]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per4]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per4-att9" NAME="ls" CLASS="attribute" ORDER="94" LEVEL="4" LINE="82">
+    <ELEMENT NAME="line" CLASS="line"><core>82</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per4-att9</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>94</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per4-att9]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per4]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per5" NAME="marido1" CLASS="person" ORDER="95" LEVEL="4" LINE="83">
+    <ELEMENT NAME="line" CLASS="line"><core>83</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>marido1</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>95</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[joao bras]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per4-rela35" NAME="relation"  ORDER="96" LEVEL="5" CLASS="relation" LINE="83">
+    <ELEMENT NAME="line" CLASS="line"><core>83</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>96</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido1</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per4-rela35</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per5-att10" NAME="ls" CLASS="attribute" ORDER="97" LEVEL="5" LINE="85">
+    <ELEMENT NAME="line" CLASS="line"><core>85</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per5-att10</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per5</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>97</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[morto]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[antes]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per5-att10]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per5]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per6" NAME="test" CLASS="person" ORDER="98" LEVEL="3" LINE="86">
+    <ELEMENT NAME="line" CLASS="line"><core>86</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>98</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jose dos santos]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-rela36" NAME="relation"  ORDER="99" LEVEL="4" CLASS="relation" LINE="86">
+    <ELEMENT NAME="line" CLASS="line"><core>86</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per6</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>99</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per6</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela36</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per6-att11" NAME="ls" CLASS="attribute" ORDER="100" LEVEL="4" LINE="87">
+    <ELEMENT NAME="line" CLASS="line"><core>87</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per6-att11</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>100</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per6-att11]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per6-att12" NAME="ls" CLASS="attribute" ORDER="101" LEVEL="4" LINE="89">
+    <ELEMENT NAME="line" CLASS="line"><core>89</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per6-att12</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>101</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[mal]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per6-att12]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per7" NAME="test" CLASS="person" ORDER="102" LEVEL="3" LINE="90">
+    <ELEMENT NAME="line" CLASS="line"><core>90</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>102</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jose antonio]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-rela37" NAME="relation"  ORDER="103" LEVEL="4" CLASS="relation" LINE="90">
+    <ELEMENT NAME="line" CLASS="line"><core>90</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per7</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>103</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per7</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela37</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per7-att13" NAME="ls" CLASS="attribute" ORDER="104" LEVEL="4" LINE="91">
+    <ELEMENT NAME="line" CLASS="line"><core>91</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per7-att13</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per7</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>104</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per7-att13]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per7]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-per7-att14" NAME="ls" CLASS="attribute" ORDER="105" LEVEL="4" LINE="93">
+    <ELEMENT NAME="line" CLASS="line"><core>93</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per7-att14</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per7</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>105</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[cruz]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1794-3-per7-att14]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1794-3-per7]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17940303]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1794-3-rela38" NAME="relation"  ORDER="106" LEVEL="3" CLASS="relation" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>106</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>foi-mulher</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3-per5</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela38</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per5-atra5" NAME="ls"  ORDER="107" LEVEL="3" CLASS="attribute" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>107</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[morto]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[antes]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1794-3-per5</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per5-atra5</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-rela39" NAME="relation"  ORDER="108" LEVEL="3" CLASS="relation" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>108</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela39</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per1-atra6" NAME="ls"  ORDER="109" LEVEL="3" CLASS="attribute" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>109</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per1-atra6</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-per4-atra7" NAME="ls"  ORDER="110" LEVEL="3" CLASS="attribute" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>110</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1794-3-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-per4-atra7</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-rela40" NAME="relation"  ORDER="111" LEVEL="3" CLASS="relation" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>111</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pai</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela40</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-rela41" NAME="relation"  ORDER="112" LEVEL="3" CLASS="relation" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>112</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mae</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per3</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela41</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1794-3-rela42" NAME="relation"  ORDER="113" LEVEL="3" CLASS="relation" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1794-3-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>113</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1794-3-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1794-3-per3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1794-3-rela42</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17940303</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1" NAME="cas" CLASS="act" ORDER="114" LEVEL="2" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-casamentos1794-1795</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>114</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[26]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[10]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1795]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="ref">
+         <core><![CDATA[fl.29v.]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[igreja de nossa senhora da piedade, vau]]></core>   </ELEMENT>
+   <ELEMENT NAME="celebrante" CLASS="undef">
+         <core><![CDATA[francisco jose rodrigues da costa (padre)]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[assina paroco francisco jose rodrigues da costa.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[cas]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per1" NAME="noivo" CLASS="person" ORDER="115" LEVEL="3" LINE="96">
+    <ELEMENT NAME="line" CLASS="line"><core>96</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>115</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[liborio jose]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-rela43" NAME="relation"  ORDER="116" LEVEL="4" CLASS="relation" LINE="96">
+    <ELEMENT NAME="line" CLASS="line"><core>96</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>116</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela43</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per1-att1" NAME="ls" CLASS="attribute" ORDER="117" LEVEL="4" LINE="97">
+    <ELEMENT NAME="line" CLASS="line"><core>97</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per1-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>117</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per1-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per1-att2" NAME="ls" CLASS="attribute" ORDER="118" LEVEL="4" LINE="99">
+    <ELEMENT NAME="line" CLASS="line"><core>99</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per1-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>118</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per1-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per2" NAME="pnoivo" CLASS="person" ORDER="119" LEVEL="4" LINE="100">
+    <ELEMENT NAME="line" CLASS="line"><core>100</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>pnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>119</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jorge da horta]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per1-rela44" NAME="relation"  ORDER="120" LEVEL="5" CLASS="relation" LINE="100">
+    <ELEMENT NAME="line" CLASS="line"><core>100</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>120</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per1-rela44</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per2-att3" NAME="ls" CLASS="attribute" ORDER="121" LEVEL="5" LINE="101">
+    <ELEMENT NAME="line" CLASS="line"><core>101</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per2-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>121</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per2-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per2-att4" NAME="ls" CLASS="attribute" ORDER="122" LEVEL="5" LINE="103">
+    <ELEMENT NAME="line" CLASS="line"><core>103</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per2-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>122</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per2-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per3" NAME="mnoivo" CLASS="person" ORDER="123" LEVEL="4" LINE="104">
+    <ELEMENT NAME="line" CLASS="line"><core>104</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>mnoivo</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>123</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[joaquina rosa]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per1-rela45" NAME="relation"  ORDER="124" LEVEL="5" CLASS="relation" LINE="104">
+    <ELEMENT NAME="line" CLASS="line"><core>104</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>124</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mnoivo</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per3</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per1-rela45</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per3-att5" NAME="ls" CLASS="attribute" ORDER="125" LEVEL="5" LINE="105">
+    <ELEMENT NAME="line" CLASS="line"><core>105</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per3-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>125</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per3-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per3-att6" NAME="ls" CLASS="attribute" ORDER="126" LEVEL="5" LINE="107">
+    <ELEMENT NAME="line" CLASS="line"><core>107</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per3-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per3</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>126</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per3-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per3]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per4" NAME="noiva" CLASS="person" ORDER="127" LEVEL="3" LINE="108">
+    <ELEMENT NAME="line" CLASS="line"><core>108</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>noiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>127</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[rosa maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-rela46" NAME="relation"  ORDER="128" LEVEL="4" CLASS="relation" LINE="108">
+    <ELEMENT NAME="line" CLASS="line"><core>108</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>128</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>noiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela46</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per4-att7" NAME="ls" CLASS="attribute" ORDER="129" LEVEL="4" LINE="109">
+    <ELEMENT NAME="line" CLASS="line"><core>109</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per4-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>129</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per4-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per4]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per4-att8" NAME="ls" CLASS="attribute" ORDER="130" LEVEL="4" LINE="111">
+    <ELEMENT NAME="line" CLASS="line"><core>111</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per4-att8</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>130</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per4-att8]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per4]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per5" NAME="pnoiva" CLASS="person" ORDER="131" LEVEL="4" LINE="112">
+    <ELEMENT NAME="line" CLASS="line"><core>112</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>pnoiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>131</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[vicente soares]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per4-rela47" NAME="relation"  ORDER="132" LEVEL="5" CLASS="relation" LINE="112">
+    <ELEMENT NAME="line" CLASS="line"><core>112</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>132</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pnoiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per4-rela47</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per5-att9" NAME="ls" CLASS="attribute" ORDER="133" LEVEL="5" LINE="113">
+    <ELEMENT NAME="line" CLASS="line"><core>113</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per5-att9</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per5</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>133</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per5-att9]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per5]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per5-att10" NAME="ls" CLASS="attribute" ORDER="134" LEVEL="5" LINE="115">
+    <ELEMENT NAME="line" CLASS="line"><core>115</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per5-att10</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per5</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>134</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per5-att10]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per5]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per6" NAME="mnoiva" CLASS="person" ORDER="135" LEVEL="4" LINE="116">
+    <ELEMENT NAME="line" CLASS="line"><core>116</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>mnoiva</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per4</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>135</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[josefa maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per4-rela48" NAME="relation"  ORDER="136" LEVEL="5" CLASS="relation" LINE="116">
+    <ELEMENT NAME="line" CLASS="line"><core>116</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per6</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>136</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mnoiva</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per6</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per4-rela48</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per6-att11" NAME="ls" CLASS="attribute" ORDER="137" LEVEL="5" LINE="117">
+    <ELEMENT NAME="line" CLASS="line"><core>117</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per6-att11</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>137</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per6-att11]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per6-att12" NAME="ls" CLASS="attribute" ORDER="138" LEVEL="5" LINE="119">
+    <ELEMENT NAME="line" CLASS="line"><core>119</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per6-att12</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per6</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>138</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[residencia]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[freguesia de nossa senhora da piedade]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per6-att12]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per6]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per7" NAME="test" CLASS="person" ORDER="139" LEVEL="3" LINE="120">
+    <ELEMENT NAME="line" CLASS="line"><core>120</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>139</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jeronimo luis]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-rela49" NAME="relation"  ORDER="140" LEVEL="4" CLASS="relation" LINE="120">
+    <ELEMENT NAME="line" CLASS="line"><core>120</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per7</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>140</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per7</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela49</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per7-att13" NAME="ls" CLASS="attribute" ORDER="141" LEVEL="4" LINE="122">
+    <ELEMENT NAME="line" CLASS="line"><core>122</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per7-att13</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per7</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>141</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[cruz]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per7-att13]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per7]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-per8" NAME="test" CLASS="person" ORDER="142" LEVEL="3" LINE="123">
+    <ELEMENT NAME="line" CLASS="line"><core>123</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per8</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>test</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>142</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[jose soares]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-rela50" NAME="relation"  ORDER="143" LEVEL="4" CLASS="relation" LINE="123">
+    <ELEMENT NAME="line" CLASS="line"><core>123</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per8</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>143</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>test</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>cas</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per8</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela50</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per8-att14" NAME="ls" CLASS="attribute" ORDER="144" LEVEL="4" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per8-att14</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per8</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>144</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[assina]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[cruz]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[vau-c1795-1-per8-att14]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[vau-c1795-1-per8]]></core>   </ELEMENT>
+   <ELEMENT NAME="date_extra_info" CLASS="undef">
+         <core><![CDATA[{}]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[17951026]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="vau-c1795-1-rela51" NAME="relation"  ORDER="145" LEVEL="5" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>145</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela51</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per1-atra8" NAME="ls"  ORDER="146" LEVEL="5" CLASS="attribute" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>146</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per1-atra8</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-per4-atra9" NAME="ls"  ORDER="147" LEVEL="5" CLASS="attribute" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>147</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type">      <core><![CDATA[ec]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value">      <core><![CDATA[c]]></core>      <comment><![CDATA[]]></comment>      <original><![CDATA[]]></original></ELEMENT>
+    <ELEMENT NAME="entity" CLASS="entity"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-per4-atra9</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-rela52" NAME="relation"  ORDER="148" LEVEL="5" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>148</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pai</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela52</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-rela53" NAME="relation"  ORDER="149" LEVEL="5" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per3</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>149</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mae</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per3</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1-per1</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela53</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-rela54" NAME="relation"  ORDER="150" LEVEL="5" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>150</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1-per3</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela54</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-rela55" NAME="relation"  ORDER="151" LEVEL="5" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>151</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>pai</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela55</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-rela56" NAME="relation"  ORDER="152" LEVEL="5" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per6</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>152</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>mae</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per6</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1-per4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela56</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP>
+<GROUP ID="vau-c1795-1-rela57" NAME="relation"  ORDER="153" LEVEL="5" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>vau-c1795-1-per5</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>153</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>parentesco</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>marido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>n/a</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>vau-c1795-1-per5</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>vau-c1795-1-per6</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>vau-c1795-1-rela57</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>17951026</core></ELEMENT>
+</GROUP></KLEIO>

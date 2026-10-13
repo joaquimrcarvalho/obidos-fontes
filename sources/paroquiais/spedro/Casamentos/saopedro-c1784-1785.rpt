@@ -1,0 +1,63 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-34
+
+Processing data file saopedro-c1784-1785.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-casamentos1784-1785
+
+WARNING: saopedro-c1784-1785.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-c1784-1785 Id: spedro-casamentos1784-1785.
+Near lines: 3 
+Near lines: 4       cas$c1784-1/30/6/1784/fl.1/igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
+
+6: cas$spedro-c1784-1
+41: cas$spedro-c1784-2
+72: cas$spedro-c1784-3
+109: cas$spedro-c1785-1
+
+WARNING: saopedro-c1784-1785.cli line 108 Element value exceeds database field length: loc=ermida de santa ana do lugar do pinhal, anexa desta freguesia de sao pedro. Size:74 limit: 64
+Near lines: 108 
+Near lines: 109          noivo$joaquim ferreira/id=c1785-1-per1
+
+145: cas$spedro-c1785-2
+185: cas$spedro-c1785-3
+216: cas$spedro-c1785-4
+248: cas$spedro-c1785-5
+279: cas$spedro-c1785-6
+
+WARNING: saopedro-c1784-1785.cli line 278 Element value exceeds database field length: loc=igreja da santa casa da misericordia, anexa da colegiada de sao pedro. Size:69 limit: 64
+Near lines: 278 
+Near lines: 279          noivo$jose ferreira/id=c1785-6-per1
+
+311: cas$spedro-c1785-7
+
+WARNING: saopedro-c1784-1785.cli line 310 Element value exceeds database field length: loc=igreja da santa casa da misericordia de obidos, anexa a colegiada de sao pedro. Size:78 limit: 64
+Near lines: 310 
+Near lines: 311          noivo$antonio duarte/id=c1785-7-per1
+
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1784-1785.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1784-1785.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1784-1785.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1784-1785.ids
+0  errors. 
+4  warnings.
+Groups in this file:[referido,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

@@ -1,0 +1,56 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-26
+
+Processing data file santamaria-1784.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-bap1784
+
+WARNING: santamaria-1784.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1784 Id: stmaria-bap1784.
+Near lines: 3 
+Near lines: 4       bap$b1784-1/8/2/1784/fl.269v/igreja de santa maria/joao carlos da silva
+
+6: bap$stmaria-b1784-1
+24: bap$stmaria-b1784-2
+43: bap$stmaria-b1784-3
+65: bap$stmaria-b1784-4
+80: bap$stmaria-b1784-5
+98: bap$stmaria-b1784-6
+120: bap$stmaria-b1784-7
+137: bap$stmaria-b1784-8
+156: bap$stmaria-b1784-9
+174: bap$stmaria-b1784-10
+193: bap$stmaria-b1784-11
+217: bap$stmaria-b1784-12
+238: bap$stmaria-b1784-13
+261: bap$stmaria-b1784-14
+280: bap$stmaria-b1784-15
+302: bap$stmaria-b1784-16
+321: bap$stmaria-b1784-17
+347: bap$stmaria-b1784-18
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1784.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1784.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1784.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1784.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pmad,procurador-pad,referido,procurador-mad,rel,mad,pad,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

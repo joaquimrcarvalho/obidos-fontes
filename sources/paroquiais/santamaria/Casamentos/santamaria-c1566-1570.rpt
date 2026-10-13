@@ -1,0 +1,80 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-26
+
+Processing data file santamaria-c1566-1570.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1566-1570
+
+WARNING: santamaria-c1566-1570.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1566-1570 Id: stmaria-casamentos1566-1570.
+Near lines: 3 
+Near lines: 4       cas$c1566-1/25/8/1566/fl.49/igreja de santa maria/baltazar dias (cura na igreja de santa maria)/obs=assina baltazar diasenumeram-se as testemunhas e acrescenta-se "e outras muitas pessoas"assina baltazar dias enumeram-se as testemunhas e acrescenta-se "e outras muitas pessoas"
+
+6: cas$stmaria-c1566-1
+58: cas$stmaria-c1566-2
+123: cas$stmaria-c1567-1
+143: cas$stmaria-c1567-2
+170: cas$stmaria-c1567-3
+206: cas$stmaria-c1567-4
+
+WARNING: santamaria-c1566-1570.cli line 218 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 218          test$baltazar dias/mesmo_que=b1567-4-referido/id=c1567-4-per3
+Near lines: 219             ls$profissao/padre
+
+227: cas$stmaria-c1567-5
+246: cas$stmaria-c1567-6
+268: cas$stmaria-c1567-7
+291: cas$stmaria-c1567-8
+312: cas$stmaria-c1567-9
+341: cas$stmaria-c1568-10
+
+WARNING: santamaria-c1566-1570.cli line 356 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 356          test$antonio godinho/mesmo_que=b1568-10-referido/id=c1568-10-per4
+Near lines: 357             ls$cargo/vigario da vara
+
+379: cas$stmaria-c1568-11
+402: cas$stmaria-c1568-12
+419: cas$stmaria-c1568-13
+440: cas$stmaria-c1569-1
+465: cas$stmaria-c1569-2
+488: cas$stmaria-c1570-1
+507: cas$stmaria-c1570-2
+536: cas$stmaria-c1570-3
+550: cas$stmaria-c1570-4
+581: cas$stmaria-c1570-5
+609: cas$stmaria-c1570-6
+651: cas$stmaria-c1570-7
+687: cas$stmaria-c1570-8
+704: cas$stmaria-c1570-9
+728: cas$stmaria-c1570-10
+*** End of File
+
+ERROR: santamaria-c1566-1570.cli line 218  Could not find same_as id stmaria-b1567-4-referido. If  original reference is on another file use xsame_as
+Near lines: 218 Near lines: 219 
+
+ERROR: santamaria-c1566-1570.cli line 356  Could not find same_as id stmaria-b1568-10-referido. If  original reference is on another file use xsame_as
+Near lines: 356 Near lines: 357 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1566-1570.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1566-1570.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1566-1570.old
+2  errors. 
+3  warnings.
+Groups in this file:[rel,test,referido,mnoiva,pnoiva,noiva,mnoivo,ls,pnoivo,noivo,cas,fonte,kleio]
+Translation finished.

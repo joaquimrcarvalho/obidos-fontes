@@ -1,0 +1,118 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-34
+
+Processing data file saopedro-b1799-1800.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sp
+Autorel: sp
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sp-baptismos1799-1800
+
+WARNING: saopedro-b1799-1800.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1799-1800 Id: sp-baptismos1799-1800.
+Near lines: 3 
+Near lines: 4       bap$b1799-1/6/1/1799/fl.111v./joao caetano da fonseca (padre, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
+
+6: bap$sp-b1799-1
+25: bap$sp-b1799-2
+
+WARNING: saopedro-b1799-1800.cli line 24 Element value exceeds database field length: loc=joao caetano da fonseca neves (padre, economo da igreja de sao pedro). Size:69 limit: 64
+Near lines: 24 
+Near lines: 25          n$maria/f/id=b1799-2-per1
+
+52: bap$sp-b1799-3
+73: bap$sp-b1799-4
+106: bap$sp-b1799-5
+129: bap$sp-b1799-6
+153: bap$sp-b1799-7
+172: bap$sp-b1799-8
+209: bap$sp-b1799-9
+231: bap$sp-b1799-10
+256: bap$sp-b1799-11
+274: bap$sp-b1799-12
+296: bap$sp-b1799-13
+319: bap$sp-b1799-14
+354: bap$sp-b1799-15
+382: bap$sp-b1799-16
+419: bap$sp-b1799-17
+464: bap$sp-b1799-18
+496: bap$sp-b1799-19
+528: bap$sp-b1799-20
+548: bap$sp-b1799-21
+592: bap$sp-b1799-22
+630: bap$sp-b1799-23
+662: bap$sp-b1799-24
+681: bap$sp-b1799-25
+699: bap$sp-b1799-26
+719: bap$sp-b1799-27
+757: bap$sp-b1799-28
+782: bap$sp-b1799-29
+814: bap$sp-b1799-30
+848: bap$sp-b1799-31
+866: bap$sp-b1799-32
+882: bap$sp-b1799-33
+927: bap$sp-b1799-34
+946: bap$sp-b1799-35
+979: bap$sp-b1799-36
+1006: bap$sp-b1799-37
+1040: bap$sp-b1799-38
+
+WARNING: saopedro-b1799-1800.cli line 1039 Element value exceeds database field length: loc=jose de barros e almeida (reverendo, prior da igreja de sao pedro). Size:66 limit: 64
+Near lines: 1039 
+Near lines: 1040          n$jose/m/id=b1799-38-n
+
+1058: bap$sp-b1799-39
+1079: bap$sp-b1799-40
+1106: bap$sp-b1800-1
+1140: bap$sp-b1800-2
+1170: bap$sp-b1800-3
+1197: bap$sp-b1800-4
+1218: bap$sp-b1800-5
+1241: bap$sp-b1800-6
+1270: bap$sp-b1800-7
+1292: bap$sp-b1800-8
+1309: bap$sp-b1800-9
+1343: bap$sp-b1800-10
+1376: bap$sp-b1800-11
+1409: bap$sp-b1800-12
+1446: bap$sp-b1800-13
+1478: bap$sp-b1800-14
+1500: bap$sp-b1800-15
+1532: bap$sp-b1800-16
+1557: bap$sp-b1800-17
+1586: bap$sp-b1800-18
+1618: bap$sp-b1800-19
+1647: bap$sp-b1800-20
+1678: bap$sp-b1800-21
+1699: bap$sp-b1800-22
+1730: bap$sp-b1800-23
+1748: bap$sp-b1800-24
+1778: bap$sp-b1800-25
+1816: bap$sp-b1800-26
+1835: bap$sp-b1800-27
+1858: bap$sp-b1800-28
+1889: bap$sp-b1800-29
+1923: bap$sp-b1800-30
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1799-1800.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1799-1800.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1799-1800.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1799-1800.ids
+0  errors. 
+3  warnings.
+Groups in this file:[procuradora-mad1,mad2,mrmad1,pmad1,procurador-pad1,mmn,pmn,mpn,ppn,referida,referido,ppad1,rel,procurador-mad1,mad1,pad1,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

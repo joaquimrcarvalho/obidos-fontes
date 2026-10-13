@@ -1,0 +1,91 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-19
+
+Processing data file ST-1719-1722.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-baptismos 1719-1722
+
+WARNING: ST-1719-1722.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-1719-1722 Id: stiago-baptismos 1719-1722.
+Near lines: 3 
+Near lines: 4       bap$b1719-51/29/5/1719/fl.75v./igreja de sao tiago/ (vigario)/obs=assina padre pedro alves madeira (cura)
+
+6: bap$stiago-b1719-51
+22: bap$stiago-b1719-52
+38: bap$stiago-b1719-53
+54: bap$stiago-b1719-54
+72: bap$stiago-b1720-5
+87: bap$stiago-b1720-6
+107: bap$stiago-b1720-7
+123: bap$stiago-b1720-8
+139: bap$stiago-b1720-9
+154: bap$stiago-b1720-10
+170: bap$stiago-b1720-11
+186: bap$stiago-b1720-12
+211: bap$stiago-b1720-13
+226: bap$stiago-b1720-14
+247: bap$stiago-b1720-15
+264: bap$stiago-b1720-16
+280: bap$stiago-b1720-17
+297: bap$stiago-b1721-18
+314: bap$stiago-b1721-19
+329: bap$stiago-b1721-20
+344: bap$stiago-b1721-21
+357: bap$stiago-b1721-22
+370: bap$stiago-b1721-23
+385: bap$stiago-b1721-24
+402: bap$stiago-b1721-25
+418: bap$stiago-b1721-26
+433: bap$stiago-b1721-27
+
+WARNING: ST-1719-1722.cli line 449 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 449 
+Near lines: 450             referido$pedro francisco/id=b1721-27-pedro
+
+455: bap$stiago-b1721-28
+470: bap$stiago-b1721-29
+485: bap$stiago-b1721-30
+505: bap$stiago-b1721-31
+524: bap$stiago-b1722-32
+542: bap$stiago-b1722-32a
+561: bap$stiago-b1722-33
+576: bap$stiago-b1722-34
+594: bap$stiago-b1722-35
+613: bap$stiago-b1722-36
+628: bap$stiago-b1722-37
+645: bap$stiago-b1722-38
+660: bap$stiago-b1722-39
+676: bap$stiago-b1722-40
+693: bap$stiago-b1722-41
+710: bap$stiago-b1722-42
+725: bap$stiago-b1722-43
+740: bap$stiago-b1722-44
+755: bap$stiago-b1722-45
+*** End of File
+
+ERROR: ST-1719-1722.cli line 449  Could not find same_as id stiago-luis-b1721-27-luis. If  original reference is on another file use xsame_as
+Near lines: 449 Near lines: 450 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1719-1722.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1719-1722.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Baptismos/ST-1719-1722.old
+1  errors. 
+2  warnings.
+Groups in this file:[referida,ppad,referido,mrmad,rel,procurador-pad,procurador-mad,pmad,mad,pad,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,63 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-29
+
+Processing data file santamaria-o1701-1703.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1701-1703
+
+WARNING: santamaria-o1701-1703.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1701-1703 Id: stmaria-obitos1701-1703.
+Near lines: 3 
+Near lines: 4       obito$o1701-1/15/1/1701/fl.187/manuel cacela (padre, licenciado)
+
+6: obito$stmaria-o1701-1
+17: obito$stmaria-o1701-2
+30: obito$stmaria-o1701-3
+44: obito$stmaria-o1701-4
+56: obito$stmaria-o1701-5
+68: obito$stmaria-o1701-6
+82: obito$stmaria-o1701-7
+96: obito$stmaria-o1701-8
+110: obito$stmaria-o1701-9
+127: obito$stmaria-o1701-10
+138: obito$stmaria-o1701-11
+155: obito$stmaria-o1701-12
+168: obito$stmaria-o1701-13
+183: obito$stmaria-o1701-14
+188: obito$stmaria-o1702-1
+203: obito$stmaria-o1702-2
+216: obito$stmaria-o1702-3
+231: obito$stmaria-o1702-4
+245: obito$stmaria-o1702-5
+259: obito$stmaria-o1702-6
+274: obito$stmaria-o1702-7
+290: obito$stmaria-o1703-1
+306: obito$stmaria-o1703-2
+318: obito$stmaria-o1703-3
+332: obito$stmaria-o1703-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1701-1703.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1701-1703.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1701-1703.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1701-1703.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mae,causa,pai,marido,locf,mulher,oficios,testamento,locs,sacr,rel,referida,ls,n,obito,fonte,kleio]
+Translation finished.

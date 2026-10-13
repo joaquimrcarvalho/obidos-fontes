@@ -1,0 +1,56 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-29
+
+Processing data file santamaria-o1616-1617.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1616-1617
+
+WARNING: santamaria-o1616-1617.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1616-1617 Id: stmaria-obitos1616-1617.
+Near lines: 3 
+Near lines: 4       obito$o1616-1/1/1/1616/fl.160/luis andre
+
+6: obito$stmaria-o1616-1
+17: obito$stmaria-o1616-2
+28: obito$stmaria-o1616-3
+41: obito$stmaria-o1616-4
+51: obito$stmaria-o1616-5
+60: obito$stmaria-o1616-6
+69: obito$stmaria-o1616-7
+80: obito$stmaria-o1616-8
+94: obito$stmaria-o1617-1
+105: obito$stmaria-o1617-2
+114: obito$stmaria-o1617-3
+124: obito$stmaria-o1617-4
+133: obito$stmaria-o1617-5
+142: obito$stmaria-o1617-6
+151: obito$stmaria-o1617-7
+162: obito$stmaria-o1617-8
+170: obito$stmaria-o1617-9
+175: obito$stmaria-o1617-10
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1616-1617.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1616-1617.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1616-1617.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1616-1617.ids
+0  errors. 
+1  warnings.
+Groups in this file:[marido,causa,locf,pai,testamento,oficios,sacr,locs,ls,n,obito,fonte,kleio]
+Translation finished.

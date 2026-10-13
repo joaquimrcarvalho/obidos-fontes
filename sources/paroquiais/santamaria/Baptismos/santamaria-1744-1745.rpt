@@ -1,0 +1,142 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-19
+
+Processing data file santamaria-1744-1745.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1744-1745
+
+WARNING: santamaria-1744-1745.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1744-1745 Id: stmaria-baptismos1744-1745.
+Near lines: 3 
+Near lines: 4       bap$b1744-1/1/1/1744/fl.59/igreja de santa maria/jose de abreu e silva (padre, cura na igreja de santa maria)/obs=assina o padre cura jose de abreu e silva
+
+
+WARNING: santamaria-1744-1745.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1744-1/1/1/1744/fl.59/igreja de santa maria/jose de abreu e silva (padre, cura na igreja de santa maria)/obs=assina o padre cura jose de abreu e silva
+
+6: bap$stmaria-b1744-1
+39: bap$stmaria-b1744-2
+57: bap$stmaria-b1744-3
+87: bap$stmaria-b1744-4
+106: bap$stmaria-b1744-5
+132: bap$stmaria-b1744-6
+156: bap$stmaria-b1744-7
+183: bap$stmaria-b1744-8
+200: bap$stmaria-b1744-9
+228: bap$stmaria-b1744-10
+252: bap$stmaria-b1744-11
+281: bap$stmaria-b1744-12
+302: bap$stmaria-b1744-13
+327: bap$stmaria-b1744-14
+346: bap$stmaria-b1744-15
+363: bap$stmaria-b1744-16
+386: bap$stmaria-b1744-17
+403: bap$stmaria-b1744-18
+420: bap$stmaria-b1744-19
+442: bap$stmaria-b1744-20
+467: bap$stmaria-b1744-21
+492: bap$stmaria-b1744-22
+513: bap$stmaria-b1744-23
+537: bap$stmaria-b1744-24
+555: bap$stmaria-b1744-25
+575: bap$stmaria-b1744-26
+599: bap$stmaria-b1744-27
+625: bap$stmaria-b1744-28
+647: bap$stmaria-b1744-29
+670: bap$stmaria-b1744-30
+697: bap$stmaria-b1744-31
+720: bap$stmaria-b1744-32
+747: bap$stmaria-b1744-33
+775: bap$stmaria-b1744-34
+795: bap$stmaria-b1744-35
+817: bap$stmaria-b1744-36
+
+WARNING: santamaria-1744-1745.cli line 837 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 837 
+Near lines: 838       bap$b1744-37/21/10/1744/fl.66-66v./igreja de santa maria/jose de abreu e silva (padre, cura na igreja de santa maria)/obs=assina o padre cura jose de abreu e silva
+
+840: bap$stmaria-b1744-37
+866: bap$stmaria-b1744-38
+886: bap$stmaria-b1744-39
+910: bap$stmaria-b1744-40
+937: bap$stmaria-b1744-41
+959: bap$stmaria-b1744-42
+986: bap$stmaria-b1744-43
+1009: bap$stmaria-b1744-44
+1028: bap$stmaria-b1744-45
+1053: bap$stmaria-b1745-1
+1076: bap$stmaria-b1745-2
+1093: bap$stmaria-b1745-3
+1115: bap$stmaria-b1745-4
+1138: bap$stmaria-b1745-5
+1165: bap$stmaria-b1745-6
+1188: bap$stmaria-b1745-7
+1214: bap$stmaria-b1745-8
+1239: bap$stmaria-b1745-9
+1257: bap$stmaria-b1745-10
+1277: bap$stmaria-b1745-11
+1299: bap$stmaria-b1745-12
+1325: bap$stmaria-b1745-13
+1346: bap$stmaria-b1745-14
+1362: bap$stmaria-b1745-15
+1386: bap$stmaria-b1745-16
+1410: bap$stmaria-b1745-17
+1436: bap$stmaria-b1745-18
+1458: bap$stmaria-b1745-19
+1486: bap$stmaria-b1745-20
+1506: bap$stmaria-b1745-21
+1535: bap$stmaria-b1745-22
+1556: bap$stmaria-b1745-23
+1577: bap$stmaria-b1745-24
+1604: bap$stmaria-b1745-25
+1624: bap$stmaria-b1745-26
+1645: bap$stmaria-b1745-27
+1669: bap$stmaria-b1745-28
+1693: bap$stmaria-b1745-29
+1702: bap$stmaria-b1745-30
+1726: bap$stmaria-b1745-31
+1750: bap$stmaria-b1745-32
+1773: bap$stmaria-b1745-33
+1797: bap$stmaria-b1745-34
+
+WARNING: santamaria-1744-1745.cli line 1818 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1818          procurador-mad$manuel soares/mesmo_que=bb1745-34-pmad/id=b1745-34-per6
+Near lines: 1819             ls$residencia/obidos
+
+1823: bap$stmaria-b1745-35
+1847: bap$stmaria-b1745-36
+1875: bap$stmaria-b1745-37
+1897: bap$stmaria-b1745-38
+1921: bap$stmaria-b1745-39
+*** End of File
+
+ERROR: santamaria-1744-1745.cli line 837  Could not find same_as id stmaria-bb1744-36-pad. If  original reference is on another file use xsame_as
+Near lines: 837 Near lines: 838 
+
+ERROR: santamaria-1744-1745.cli line 1818  Could not find same_as id stmaria-bb1745-34-pmad. If  original reference is on another file use xsame_as
+Near lines: 1818 Near lines: 1819 
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1744-1745.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1744-1745.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1744-1745.old
+2  errors. 
+4  warnings.
+Groups in this file:[mmad,pmad,mpn,ppn,procurador-pad,procurador-mad,mrmad,ppad,mad,pad,mrmad1,ppad1,referido,rel,referida,procurador-mad1,pmad1,mad1,procurador-pad1,pad1,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

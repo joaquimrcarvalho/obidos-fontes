@@ -1,0 +1,157 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 16-10
+
+Processing data file santamaria-1706-1710.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1706-1710
+
+WARNING: santamaria-1706-1710.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1706-1710 Id: stmaria-baptismos1706-1710.
+Near lines: 3 
+Near lines: 4       bap$b1706-1/12/1/1706/fl.36v./igreja de santa maria/antonio de mendonca (beneficiado da igreja de santa maria)/obs=assina o cura, o beneficiado antonio de mendonca"fis os exorcismos e pus os s.tos oleos...por ser baptizada em caza"
+
+
+WARNING: santamaria-1706-1710.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1706-1/12/1/1706/fl.36v./igreja de santa maria/antonio de mendonca (beneficiado da igreja de santa maria)/obs=assina o cura, o beneficiado antonio de mendonca"fis os exorcismos e pus os s.tos oleos...por ser baptizada em caza"
+
+6: bap$stmaria-b1706-1
+20: bap$stmaria-b1706-2
+43: bap$stmaria-b1706-3
+63: bap$stmaria-b1706-4
+80: bap$stmaria-b1706-5
+99: bap$stmaria-b1706-6
+116: bap$stmaria-b1706-7
+134: bap$stmaria-b1706-8
+150: bap$stmaria-b1706-9
+168: bap$stmaria-b1706-10
+188: bap$stmaria-b1706-11
+209: bap$stmaria-b1706-12
+223: bap$stmaria-b1706-13
+240: bap$stmaria-b1706-14
+257: bap$stmaria-b1706-15
+276: bap$stmaria-b1706-16
+296: bap$stmaria-b1706-17
+311: bap$stmaria-b1706-18
+325: bap$stmaria-b1706-19
+341: bap$stmaria-b1706-20
+357: bap$stmaria-b1706-21
+369: bap$stmaria-b1706-22
+384: bap$stmaria-b1706-23
+399: bap$stmaria-b1707-1
+419: bap$stmaria-b1707-2
+437: bap$stmaria-b1707-3
+453: bap$stmaria-b1707-4
+469: bap$stmaria-b1707-5
+489: bap$stmaria-b1707-6
+510: bap$stmaria-b1707-7
+527: bap$stmaria-b1707-8
+546: bap$stmaria-b1707-9
+560: bap$stmaria-b1707-10
+574: bap$stmaria-b1707-11
+591: bap$stmaria-b1707-12
+607: bap$stmaria-b1707-13
+627: bap$stmaria-b1707-14
+644: bap$stmaria-b1707-15
+663: bap$stmaria-b1707-16
+679: bap$stmaria-b1708-1
+695: bap$stmaria-b1708-2
+713: bap$stmaria-b1708-3
+732: bap$stmaria-b1708-4
+750: bap$stmaria-b1708-5
+767: bap$stmaria-b1708-6
+784: bap$stmaria-b1708-7
+800: bap$stmaria-b1708-8
+817: bap$stmaria-b1708-9
+830: bap$stmaria-b1708-10
+842: bap$stmaria-b1708-11
+857: bap$stmaria-b1708-12
+871: bap$stmaria-b1708-13
+890: bap$stmaria-b1708-14
+907: bap$stmaria-b1708-15
+925: bap$stmaria-b1708-16
+937: bap$stmaria-b1708-17
+950: bap$stmaria-b1708-18
+966: bap$stmaria-b1708-19
+984: bap$stmaria-b1708-20
+998: bap$stmaria-b1708-21
+1015: bap$stmaria-b1708-22
+1033: bap$stmaria-b1708-23
+1051: bap$stmaria-b1708-24
+1070: bap$stmaria-b1708-25
+1090: bap$stmaria-b1708-26
+1110: bap$stmaria-b1708-27
+1131: bap$stmaria-b1708-28
+1153: bap$stmaria-b1708-29
+1181: bap$stmaria-b1708-30
+1205: bap$stmaria-b1708-31
+1217: bap$stmaria-b1708-32
+1233: bap$stmaria-b1708-33
+1250: bap$stmaria-b1708-34
+1266: bap$stmaria-b1708-35
+1286: bap$stmaria-b1709-1
+1302: bap$stmaria-b1709-2
+1318: bap$stmaria-b1709-3
+1339: bap$stmaria-b1709-4
+1356: bap$stmaria-b1709-5
+1372: bap$stmaria-b1709-6
+1387: bap$stmaria-b1709-7
+1401: bap$stmaria-b1709-8
+1421: bap$stmaria-b1709-9
+1442: bap$stmaria-b1709-10
+1460: bap$stmaria-b1709-11
+1476: bap$stmaria-b1710-1
+1492: bap$stmaria-b1710-2
+1509: bap$stmaria-b1710-3
+1529: bap$stmaria-b1710-4
+1546: bap$stmaria-b1710-5
+1562: bap$stmaria-b1710-6
+1584: bap$stmaria-b1710-7
+1600: bap$stmaria-b1710-8
+1619: bap$stmaria-b1710-9
+1636: bap$stmaria-b1710-10
+1654: bap$stmaria-b1710-11
+1675: bap$stmaria-b1710-12
+1695: bap$stmaria-b1710-13
+1711: bap$stmaria-b1710-14
+1730: bap$stmaria-b1710-15
+1749: bap$stmaria-b1710-16
+1765: bap$stmaria-b1710-17
+1780: bap$stmaria-b1710-18
+1801: bap$stmaria-b1710-19
+1816: bap$stmaria-b1710-20
+1836: bap$stmaria-b1710-21
+1852: bap$stmaria-b1710-22
+1871: bap$stmaria-b1710-23
+
+WARNING: santamaria-1706-1710.cli line 1890 destination id of "same as" not found. Will check again at the end of file.
+Near lines: 1890 
+Near lines: 1891          mrmad1$cosme gomes/id=b1710-23-cosme
+
+*** End of File
+
+Line 1122 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1705-14-silva) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1706-1710.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1706-1710.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1706-1710.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1706-1710.ids
+0  errors. 
+3  warnings.
+Groups in this file:[procurador-mad1,procurador-pad1,mmad1,mrmad1,mpad1,ppad1,rel,referido,pmad1,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

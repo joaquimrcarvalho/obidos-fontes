@@ -1,0 +1,94 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-26
+
+Processing data file santamaria-1759-1760.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1759-1760
+
+WARNING: santamaria-1759-1760.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1759-1760 Id: stmaria-baptismos1759-1760.
+Near lines: 3 
+Near lines: 4       bap$b1759-1/9/2/1759/fl.57/igreja de santa maria/isidoro coelho de sampaio (padre da igreja de santa maria de obidos)/obs=assina o paroco isidoro coelho de sampaio
+
+
+WARNING: santamaria-1759-1760.cli line 3 Element value exceeds database field length: type=freguesia de santa maria de obidos. Size:34 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1759-1/9/2/1759/fl.57/igreja de santa maria/isidoro coelho de sampaio (padre da igreja de santa maria de obidos)/obs=assina o paroco isidoro coelho de sampaio
+
+6: bap$stmaria-b1759-1
+40: bap$stmaria-b1759-2
+75: bap$stmaria-b1759-3
+104: bap$stmaria-b1759-4
+139: bap$stmaria-b1759-5
+171: bap$stmaria-b1759-6
+202: bap$stmaria-b1759-7
+240: bap$stmaria-b1759-8
+275: bap$stmaria-b1759-9
+306: bap$stmaria-b1759-10
+341: bap$stmaria-b1759-11
+378: bap$stmaria-b1759-12
+417: bap$stmaria-b1759-13
+457: bap$stmaria-b1759-14
+492: bap$stmaria-b1759-15
+522: bap$stmaria-b1759-16
+554: bap$stmaria-b1759-17
+585: bap$stmaria-b1759-18
+619: bap$stmaria-b1759-19
+640: bap$stmaria-b1759-20
+691: bap$stmaria-b1759-21
+724: bap$stmaria-b1759-22
+753: bap$stmaria-b1760-1
+788: bap$stmaria-b1760-2
+820: bap$stmaria-b1760-3
+855: bap$stmaria-b1760-4
+881: bap$stmaria-b1760-5
+921: bap$stmaria-b1760-6
+956: bap$stmaria-b1760-7
+992: bap$stmaria-b1760-8
+1026: bap$stmaria-b1760-9
+1071: bap$stmaria-b1760-10
+1105: bap$stmaria-b1760-11
+1143: bap$stmaria-b1760-12
+1173: bap$stmaria-b1760-13
+1206: bap$stmaria-b1760-14
+1230: bap$stmaria-b1760-15
+1262: bap$stmaria-b1760-16
+1286: bap$stmaria-b1760-17
+1308: bap$stmaria-b1760-18
+1332: bap$stmaria-b1760-19
+1352: bap$stmaria-b1760-20
+1376: bap$stmaria-b1760-21
+1410: bap$stmaria-b1760-22
+1438: bap$stmaria-b1760-23
+1461: bap$stmaria-b1760-24
+1488: bap$stmaria-b1760-25
+1525: bap$stmaria-b1760-26
+1549: bap$stmaria-b1760-27
+1584: bap$stmaria-b1760-28
+1618: bap$stmaria-b1760-29
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1759-1760.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1759-1760.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1759-1760.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1759-1760.ids
+0  errors. 
+2  warnings.
+Groups in this file:[referida,mrmad,mmad,procurador-pad,ppad,rel,referido,procurador-mad,pmad,mad,pad,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

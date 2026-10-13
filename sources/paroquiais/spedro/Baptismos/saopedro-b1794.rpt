@@ -1,0 +1,58 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-34
+
+Processing data file saopedro-b1794.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1794
+
+WARNING: saopedro-b1794.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1794 Id: spedro-baptismos1794.
+Near lines: 3 
+Near lines: 4       bap$b1794-1/9/1/1794/fl.65/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
+
+6: bap$spedro-b1794-1
+32: bap$spedro-b1794-2
+56: bap$spedro-b1794-3
+94: bap$spedro-b1794-4
+132: bap$spedro-b1794-5
+169: bap$spedro-b1794-6
+195: bap$spedro-b1794-7
+239: bap$spedro-b1794-8
+260: bap$spedro-b1794-9
+327: bap$spedro-b1794-10
+371: bap$spedro-b1794-11
+426: bap$spedro-b1794-12
+463: bap$spedro-b1794-13
+500: bap$spedro-b1794-14
+536: bap$spedro-b1794-15
+576: bap$spedro-b1794-16
+622: bap$spedro-b1794-17
+667: bap$spedro-b1794-18
+711: bap$spedro-b1794-19
+764: bap$spedro-b1794-20
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1794.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1794.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1794.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1794.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mrmad1,procurador-pad1,pmad1,mmn,pmn,mpn,ppn,procurador-mad1,mad1,pad1,referido,rel,referida,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

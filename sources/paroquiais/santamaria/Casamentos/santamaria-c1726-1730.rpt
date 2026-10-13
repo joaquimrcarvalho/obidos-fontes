@@ -1,0 +1,67 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1726-1730.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1726-1730
+
+WARNING: santamaria-c1726-1730.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1726-1730 Id: stmaria-casamentos1726-1730.
+Near lines: 3 
+Near lines: 4       cas$c1726-1/4/2/1726/fl.51v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos, o casamento realizou-se as 9 horas da manha.
+
+6: cas$stmaria-c1726-1
+41: cas$stmaria-c1726-2
+75: cas$stmaria-c1726-3
+100: cas$stmaria-c1726-4
+132: cas$stmaria-c1726-5
+168: cas$stmaria-c1726-6
+200: cas$stmaria-c1727-1
+233: cas$stmaria-c1727-2
+266: cas$stmaria-c1727-3
+297: cas$stmaria-c1727-4
+333: cas$stmaria-c1727-5
+366: cas$stmaria-c1727-6
+399: cas$stmaria-c1727-7
+438: cas$stmaria-c1727-8
+467: cas$stmaria-c1728-1
+502: cas$stmaria-c1727-9
+532: cas$stmaria-c1728-2
+564: cas$stmaria-c1728-3
+602: cas$stmaria-c1728-4
+644: cas$stmaria-c1728-5
+675: cas$stmaria-c1729-1
+708: cas$stmaria-c1729-2
+742: cas$stmaria-c1729-3
+783: cas$stmaria-c1729-4
+791: cas$stmaria-c1729-5
+829: cas$stmaria-c1730-1
+861: cas$stmaria-c1730-2
+897: cas$stmaria-c1730-3
+929: cas$stmaria-c1730-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1726-1730.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1726-1730.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1726-1730.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1726-1730.ids
+0  errors. 
+1  warnings.
+Groups in this file:[marido1,mulher1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

@@ -1,0 +1,69 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-27
+
+Processing data file santamaria-c1706-1710.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1706-1710
+
+WARNING: santamaria-c1706-1710.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1706-1710 Id: stmaria-casamentos1706-1710.
+Near lines: 3 
+Near lines: 4       cas$c1706-1/20/1/1706/fl.10v./igreja de santa maria/antonio de mendonca (beneficiado, cura da igreja de santa maria)/obs=assina o cura o beneficiado antonio de mendonca, o padre enumera as testemunhas e acrescenta "e outras muitas que se acharao presentes"
+
+6: cas$stmaria-c1706-1
+35: cas$stmaria-c1706-2
+63: cas$stmaria-c1706-3
+95: cas$stmaria-c1706-4
+126: cas$stmaria-c1706-5
+156: cas$stmaria-c1706-6
+193: cas$stmaria-c1707-1
+227: cas$stmaria-c1707-2
+258: cas$stmaria-c1707-3
+293: cas$stmaria-c1707-4
+324: cas$stmaria-c1707-5
+362: cas$stmaria-c1707-6
+395: cas$stmaria-c1707-7
+425: cas$stmaria-c1708-1
+466: cas$stmaria-c1708-2
+503: cas$stmaria-c1708-3
+539: cas$stmaria-c1708-4
+571: cas$stmaria-c1708-5
+599: cas$stmaria-c1709-1
+629: cas$stmaria-c1709-2
+660: cas$stmaria-c1709-3
+698: cas$stmaria-c1709-4
+720: cas$stmaria-c1709-5
+753: cas$stmaria-c1710-1
+783: cas$stmaria-c1710-2
+813: cas$stmaria-c1710-3
+851: cas$stmaria-c1710-4
+888: cas$stmaria-c1710-5
+914: cas$stmaria-c1710-6
+944: cas$stmaria-c1710-7
+966: cas$stmaria-c1710-8
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1706-1710.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1706-1710.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1706-1710.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1706-1710.ids
+0  errors. 
+1  warnings.
+Groups in this file:[marido1,rel,mulher1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

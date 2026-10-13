@@ -1,0 +1,69 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-19
+
+Processing data file santamaria-o1568-1570.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1568-1570
+
+WARNING: santamaria-o1568-1570.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1568-1570 Id: stmaria-obitos1568-1570.
+Near lines: 3 
+Near lines: 4       obito$o1568-1/19/1/1568/fl.76v./goncalo fernandes
+
+6: obito$stmaria-o1568-1
+23: obito$stmaria-o1568-2
+33: obito$stmaria-o1568-3
+47: obito$stmaria-o1568-4
+59: obito$stmaria-o1568-5
+68: obito$stmaria-o1568-6
+80: obito$stmaria-o1568-7
+91: obito$stmaria-o1568-8
+100: obito$stmaria-o1568-9
+112: obito$stmaria-o1568-10
+122: obito$stmaria-o1568-11
+142: obito$stmaria-o1568-12
+158: obito$stmaria-o1569-1
+173: obito$stmaria-o1569-2
+187: obito$stmaria-o1569-3
+199: obito$stmaria-o1569-4
+215: obito$stmaria-o1569-5
+228: obito$stmaria-o1569-6
+239: obito$stmaria-o1569-7
+253: obito$stmaria-o1569-8
+264: obito$stmaria-o1569-9
+278: obito$stmaria-o1570-1
+288: obito$stmaria-o1570-2
+298: obito$stmaria-o1570-3
+307: obito$stmaria-o1570-4
+316: obito$stmaria-o1570-5
+327: obito$stmaria-o1570-6
+338: obito$stmaria-o1570-7
+350: obito$stmaria-o1570-8
+360: obito$stmaria-o1570-9
+371: obito$stmaria-o1570-10
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1568-1570.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1568-1570.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1568-1570.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1568-1570.ids
+0  errors. 
+1  warnings.
+Groups in this file:[locf,locs,causa,referida,mulher,marido,pai,mae,rel,referido,oficios,testamento,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

@@ -1,0 +1,85 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-36
+
+Processing data file vau-o1781-1785.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: vau
+Autorel: vau
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$vau-obitos1781-1785
+
+WARNING: vau-o1781-1785.cli line 3 * Warning: Filename should match source Id to avoid errors. File: vau-o1781-1785 Id: vau-obitos1781-1785.
+Near lines: 3 
+Near lines: 4       obito$o1781-1/7/1/1781/fl.45v./francisco rodrigues da costa (padre)
+
+
+WARNING: vau-o1781-1785.cli line 3 Element value exceeds database field length: type=freguesia de nossa senhora da piedade, vau. Size:42 limit: 32
+Near lines: 3 
+Near lines: 4       obito$o1781-1/7/1/1781/fl.45v./francisco rodrigues da costa (padre)
+
+6: obito$vau-o1781-1
+24: obito$vau-o1781-2
+42: obito$vau-o1781-3
+55: obito$vau-o1781-4
+77: obito$vau-o1781-5
+99: obito$vau-o1781-6
+117: obito$vau-o1781-7
+129: obito$vau-o1782-1
+143: obito$vau-o1782-2
+163: obito$vau-o1782-3
+175: obito$vau-o1782-4
+185: obito$vau-o1782-5
+195: obito$vau-o1782-6
+205: obito$vau-o1783-1
+221: obito$vau-o1783-2
+231: obito$vau-o1783-3
+244: obito$vau-o1783-4
+257: obito$vau-o1783-5
+270: obito$vau-o1783-6
+283: obito$vau-o1783-7
+296: obito$vau-o1783-8
+307: obito$vau-o1783-9
+317: obito$vau-o1783-10
+335: obito$vau-o1784-1
+353: obito$vau-o1784-2
+367: obito$vau-o1784-3
+376: obito$vau-o1784-4
+385: obito$vau-o1784-5
+399: obito$vau-o1784-6
+412: obito$vau-o1784-7
+425: obito$vau-o1784-8
+434: obito$vau-o1784-9
+447: obito$vau-o1785-1
+460: obito$vau-o1785-2
+478: obito$vau-o1785-3
+491: obito$vau-o1785-4
+503: obito$vau-o1785-5
+519: obito$vau-o1785-6
+530: obito$vau-o1785-7
+541: obito$vau-o1785-8
+554: obito$vau-o1785-9
+566: obito$vau-o1785-10
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1781-1785.cli
+Original file: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1781-1785.org
+Previous version: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1781-1785.old
+Temp file with ids: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1781-1785.ids
+0  errors. 
+2  warnings.
+Groups in this file:[causa,referido,rel,referida,mae,pai,marido,mulher,oficios,locs,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

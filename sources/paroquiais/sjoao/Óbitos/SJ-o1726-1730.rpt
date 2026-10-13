@@ -1,0 +1,95 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1726-1730.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1726-1730
+
+WARNING: SJ-o1726-1730.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1726-1730 Id: sjoao-obitos1726-1730.
+Near lines: 3 
+Near lines: 4       obito$o1726-1/10/1/1726/fl.54/bras antunes correia (prior)
+
+6: obito$sjoao-o1726-1
+22: obito$sjoao-o1726-2
+35: obito$sjoao-o1726-3
+56: obito$sjoao-o1726-4
+75: obito$sjoao-o1726-5
+97: obito$sjoao-o1726-6
+113: obito$sjoao-o1726-7
+129: obito$sjoao-o1726-8
+145: obito$sjoao-o1726-9
+162: obito$sjoao-o1726-10
+180: obito$sjoao-o1727-1
+196: obito$sjoao-o1727-2
+214: obito$sjoao-o1727-3
+227: obito$sjoao-o1727-4
+243: obito$sjoao-o1727-5
+259: obito$sjoao-o1727-6
+275: obito$sjoao-o1727-7
+297: obito$sjoao-o1727-8
+319: obito$sjoao-o1727-9
+337: obito$sjoao-o1728-1
+353: obito$sjoao-o1728-2
+369: obito$sjoao-o1728-3
+386: obito$sjoao-o1728-4
+402: obito$sjoao-o1728-5
+418: obito$sjoao-o1728-6
+442: obito$sjoao-o1729-1
+466: obito$sjoao-o1729-2
+482: obito$sjoao-o1729-3
+499: obito$sjoao-o1729-4
+515: obito$sjoao-o1729-5
+533: obito$sjoao-o1729-6
+549: obito$sjoao-o1729-7
+567: obito$sjoao-o1729-8
+585: obito$sjoao-o1729-9
+601: obito$sjoao-o1729-10
+615: obito$sjoao-o1729-11
+628: obito$sjoao-o1729-12
+644: obito$sjoao-o1729-13
+662: obito$sjoao-o1729-14
+688: obito$sjoao-o1729-15
+702: obito$sjoao-o1729-16
+720: obito$sjoao-o1730-1
+732: obito$sjoao-o1730-2
+748: obito$sjoao-o1730-3
+766: obito$sjoao-o1730-4
+782: obito$sjoao-o1730-5
+794: obito$sjoao-o1730-6
+810: obito$sjoao-o1730-7
+824: obito$sjoao-o1730-8
+840: obito$sjoao-o1730-9
+856: obito$sjoao-o1730-10
+872: obito$sjoao-o1730-11
+886: obito$sjoao-o1730-12
+900: obito$sjoao-o1730-13
+916: obito$sjoao-o1730-14
+928: obito$sjoao-o1730-15
+942: obito$sjoao-o1730-16
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1726-1730.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1726-1730.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1726-1730.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1726-1730.ids
+0  errors. 
+1  warnings.
+Groups in this file:[causa,mae,pai,mulher,referida,rel,referido,marido,oficios,locs,testamento,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

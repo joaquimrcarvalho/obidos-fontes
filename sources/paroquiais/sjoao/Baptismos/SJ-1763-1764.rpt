@@ -1,0 +1,90 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-11
+
+Processing data file SJ-1763-1764.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1763-1764
+
+WARNING: SJ-1763-1764.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1763-1764 Id: sjoao-baptismos1763-1764.
+Near lines: 3 
+Near lines: 4       bap$b1763-1/30/1/1763/fl.100v/igreja de sao joao/ (vigario)/obs= assina o padre braz antunes correia (prior)
+
+6: bap$sjoao-b1763-1
+22: bap$sjoao-b1763-2
+37: bap$sjoao-b1763-3
+52: bap$sjoao-b1763-4
+64: bap$sjoao-b1763-5
+79: bap$sjoao-b1763-6
+94: bap$sjoao-b1763-7
+109: bap$sjoao-b1763-8
+125: bap$sjoao-b1763-9
+140: bap$sjoao-b1763-10
+155: bap$sjoao-b1763-11
+170: bap$sjoao-b1763-12
+187: bap$sjoao-b1763-13
+202: bap$sjoao-b1763-14
+223: bap$sjoao-b1763-15
+239: bap$sjoao-b1763-16
+254: bap$sjoao-b1763-17
+271: bap$sjoao-b1763-18
+286: bap$sjoao-b1763-19
+305: bap$sjoao-b1763-20
+321: bap$sjoao-b1763-21
+338: bap$sjoao-b1763-22
+358: bap$sjoao-b1763-23
+373: bap$sjoao-b1763-24
+389: bap$sjoao-b1763-25
+404: bap$sjoao-b1763-26
+423: bap$sjoao-b1763-27
+439: bap$sjoao-b1763-28
+455: bap$sjoao-b1763-29
+470: bap$sjoao-b1763-30
+485: bap$sjoao-b1763-31
+501: bap$sjoao-b1763-32
+523: bap$sjoao-b1763-33
+538: bap$sjoao-b1763-34
+555: bap$sjoao-b1763-35
+574: bap$sjoao-b1764-36
+592: bap$sjoao-b1764-37a
+609: bap$sjoao-b1764-38
+630: bap$sjoao-b1764-39
+651: bap$sjoao-b1764-40
+666: bap$sjoao-b1764-41
+686: bap$sjoao-b1764-42
+698: bap$sjoao-b1764-43
+722: bap$sjoao-b1764-44
+737: bap$sjoao-b1764-45
+757: bap$sjoao-b1764-46
+771: bap$sjoao-b1764-47
+786: bap$sjoao-b1764-48
+803: bap$sjoao-b1764-49
+822: bap$sjoao-b1764-50
+837: bap$sjoao-b1764-51
+855: bap$sjoao-b1764-52
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1763-1764.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1763-1764.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1763-1764.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1763-1764.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mmad,mpad,referido,procurador-mad,ppad,procurador-pad,pmad,rel,mrmad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

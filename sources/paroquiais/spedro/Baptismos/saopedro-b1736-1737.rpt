@@ -1,0 +1,94 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-32
+
+Processing data file saopedro-b1736-1737.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1736-1737
+
+WARNING: saopedro-b1736-1737.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1736-1737 Id: spedro-baptismos1736-1737.
+Near lines: 3 
+Near lines: 4       bap$b1736-1/28/1/1736/fl.41v./igreja de sao pedro/bras antunes correia (reverendo, prior de sao joao)/obs=assina o cura manuel leal henriques.
+
+6: bap$spedro-b1736-1
+20: bap$spedro-b1736-2
+41: bap$spedro-b1736-3
+64: bap$spedro-b1736-4
+80: bap$spedro-b1736-5
+107: bap$spedro-b1736-6
+124: bap$spedro-b1736-7
+146: bap$spedro-b1736-8
+163: bap$spedro-b1736-9
+182: bap$spedro-b1736-10
+197: bap$spedro-b1736-11
+222: bap$spedro-b1736-12
+236: bap$spedro-b1736-13
+258: bap$spedro-b1736-14
+278: bap$spedro-b1736-15
+292: bap$spedro-b1736-16
+310: bap$spedro-b1736-17
+334: bap$spedro-b1736-18
+351: bap$spedro-b1736-19
+366: bap$spedro-b1736-20
+387: bap$spedro-b1736-21
+404: bap$spedro-b1737-1
+422: bap$spedro-b1737-2
+440: bap$spedro-b1737-3
+458: bap$spedro-b1737-4
+483: bap$spedro-b1737-5
+502: bap$spedro-b1737-6
+523: bap$spedro-b1737-7
+548: bap$spedro-b1737-8
+577: bap$spedro-b1737-9
+598: bap$spedro-b1737-10
+618: bap$spedro-b1737-11
+632: bap$spedro-b1737-12
+660: bap$spedro-b1737-13
+690: bap$spedro-b1737-14
+705: bap$spedro-b1737-15
+734: bap$spedro-b1737-16
+761: bap$spedro-b1737-17
+787: bap$spedro-b1737-18
+812: bap$spedro-b1737-19
+838: bap$spedro-b1737-20
+860: bap$spedro-b1737-21
+879: bap$spedro-b1737-22
+906: bap$spedro-b1737-23
+922: bap$spedro-b1737-24
+956: bap$spedro-b1737-25
+981: bap$spedro-b1737-26
+998: bap$spedro-b1737-27
+1020: bap$spedro-b1737-28
+1052: bap$spedro-b1737-29
+1072: bap$spedro-b1737-30
+1093: bap$spedro-b1737-31
+1107: bap$spedro-b1737-32
+1128: bap$spedro-b1737-33
+1145: bap$spedro-b1737-34
+1168: bap$spedro-b1737-35
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1736-1737.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1736-1737.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1736-1737.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1736-1737.ids
+0  errors. 
+1  warnings.
+Groups in this file:[procurador-pad1,referida,procurador-mad1,referido,rel,mad1,pad1,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

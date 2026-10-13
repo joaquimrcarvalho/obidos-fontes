@@ -1,0 +1,64 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1631-1635.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1631-1635
+
+WARNING: SJ-o1631-1635.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1631-1635 Id: sjoao-obitos1631-1635.
+Near lines: 3 
+Near lines: 4       obito$o1631-1/4/3/1631/fl.104/nome desconhecido
+
+6: obito$sjoao-o1631-1
+16: obito$sjoao-o1631-2
+26: obito$sjoao-o1631-3
+33: obito$sjoao-o1631-4
+42: obito$sjoao-o1631-5
+50: obito$sjoao-o1631-6
+61: obito$sjoao-o1631-7
+68: obito$sjoao-o1631-8
+79: obito$sjoao-o1632-1
+86: obito$sjoao-o1632-2
+98: obito$sjoao-o1632-3
+108: obito$sjoao-o1632-4
+115: obito$sjoao-o1633-1
+125: obito$sjoao-o1633-2
+136: obito$sjoao-o1633-3
+144: obito$sjoao-o1633-4
+152: obito$sjoao-o1633-5
+161: obito$sjoao-o1633-6
+168: obito$sjoao-o1633-7
+175: obito$sjoao-o1633-8
+183: obito$sjoao-o1633-9
+190: obito$sjoao-o1633-10
+197: obito$sjoao-o1633-11
+220: obito$sjoao-o1634-1
+227: obito$sjoao-o1635-1
+234: obito$sjoao-o1635-2
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1631-1635.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1631-1635.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1631-1635.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1631-1635.ids
+0  errors. 
+1  warnings.
+Groups in this file:[sacr,referido,rel,referida,oficios,testamento,mulher,locf,pai,mae,marido,locs,ls,n,obito,fonte,kleio]
+Translation finished.

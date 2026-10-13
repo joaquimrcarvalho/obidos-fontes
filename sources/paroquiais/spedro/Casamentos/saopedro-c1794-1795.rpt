@@ -1,0 +1,49 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-35
+
+Processing data file saopedro-c1794-1795.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-casamentos1794-1795
+
+WARNING: saopedro-c1794-1795.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-c1794-1795 Id: spedro-casamentos1794-1795.
+Near lines: 3 
+Near lines: 4       cas$c1794-1/24/4/1794/fl.20v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura o beneficiado joaquim jose de matos. o casamento realizou-se de tarde.
+
+6: cas$spedro-c1794-1
+35: cas$spedro-c1794-2
+69: cas$spedro-c1795-1
+102: cas$spedro-c1795-2
+131: cas$spedro-c1795-3
+165: cas$spedro-c1795-4
+193: cas$spedro-c1795-5
+224: cas$spedro-c1795-6
+254: cas$spedro-c1795-7
+293: cas$spedro-c1795-8
+323: cas$spedro-c1795-9
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1794-1795.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1794-1795.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1794-1795.old
+Temp file with ids: /kleio-home/sources/paroquiais/spedro/Casamentos/saopedro-c1794-1795.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,marido1,mnoivo,pnoivo,rel,test,mnoiva,pnoiva,noiva,mulher1,ls,noivo,cas,fonte,kleio]
+Translation finished.

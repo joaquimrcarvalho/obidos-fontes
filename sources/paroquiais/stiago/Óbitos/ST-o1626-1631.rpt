@@ -1,0 +1,88 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-23
+
+Processing data file ST-o1626-1631.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-obitos1626-1631
+
+WARNING: ST-o1626-1631.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-o1626-1631 Id: stiago-obitos1626-1631.
+Near lines: 3 
+Near lines: 4       obito$o1626-1/17/6/1626/fl.70/ joao pedroso (cura)
+
+6: obito$stiago-o1626-1
+17: obito$stiago-o1626-2
+37: obito$stiago-o1627-3
+49: obito$stiago-o1627-4
+60: obito$stiago-o1627-5
+76: obito$stiago-o1627-6
+88: obito$stiago-o1627-7
+99: obito$stiago-o1627-8
+113: obito$stiago-o1628-9
+125: obito$stiago-o1628-10
+140: obito$stiago-o1628-11
+150: obito$stiago-o1628-12
+163: obito$stiago-o1628-13
+178: obito$stiago-o1628-14
+192: obito$stiago-o1628-15
+204: obito$stiago-o1628-16
+216: obito$stiago-o1629-17
+227: obito$stiago-o1629-18
+241: obito$stiago-o1629-19
+254: obito$stiago-o1629-20
+269: obito$stiago-o1629-21
+284: obito$stiago-o1630-22
+299: obito$stiago-o1630-23
+315: obito$stiago-o1630-24
+331: obito$stiago-o1630-25
+347: obito$stiago-o1630-26
+360: obito$stiago-o1630-27
+374: obito$stiago-o1630-28
+392: obito$stiago-o1630-29
+407: obito$stiago-o1630-30
+418: obito$stiago-o1630-31
+431: obito$stiago-o1631-32
+446: obito$stiago-o1631-33
+461: obito$stiago-o1631-34
+476: obito$stiago-o1631-35
+488: obito$stiago-o1631-36
+501: obito$stiago-o1631-37
+516: obito$stiago-o1631-38
+531: obito$stiago-o1631-39
+546: obito$stiago-o1631-40
+561: obito$stiago-o1631-41
+573: obito$stiago-o1631-42
+586: obito$stiago-o1631-43
+601: obito$stiago-o1631-44
+615: obito$stiago-o1631-45
+628: obito$stiago-o1631-46
+639: obito$stiago-o1631-47
+654: obito$stiago-o1631-48
+666: obito$stiago-o1631-49
+681: obito$stiago-o1632-50
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1626-1631.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1626-1631.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1626-1631.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Óbitos/ST-o1626-1631.ids
+0  errors. 
+1  warnings.
+Groups in this file:[oficios,mulher,marido,mae,pai,referido,locf,rel,locs,testamento,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

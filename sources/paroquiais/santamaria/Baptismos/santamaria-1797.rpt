@@ -1,0 +1,67 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-27
+
+Processing data file santamaria-1797.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-baptismos1797
+
+WARNING: santamaria-1797.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-1797 Id: stmaria-baptismos1797.
+Near lines: 3 
+Near lines: 4       bap$b1797-1/23/1/1797/fl.67v./colegiada de santa maria/jose joaquim xavier tavares/obs=prior. foi baptizado "sub conditione por ser baptizado em casa, por quem nao tinha sufficiente infracao"
+
+6: bap$stmaria-b1797-1
+39: bap$stmaria-b1797-2
+59: bap$stmaria-b1797-3
+93: bap$stmaria-b1797-4
+114: bap$stmaria-b1797-5
+135: bap$stmaria-b1797-6
+169: bap$stmaria-b1797-7
+185: bap$stmaria-b1797-8
+216: bap$stmaria-b1797-9
+250: bap$stmaria-b1797-10
+280: bap$stmaria-b1797-11
+313: bap$stmaria-b1797-12
+344: bap$stmaria-b1797-13
+374: bap$stmaria-b1797-14
+410: bap$stmaria-b1797-15
+443: bap$stmaria-b1797-16
+477: bap$stmaria-b1797-17
+514: bap$stmaria-b1797-18
+547: bap$stmaria-b1797-19
+580: bap$stmaria-b1797-20
+617: bap$stmaria-b1797-21
+661: bap$stmaria-b1797-22
+694: bap$stmaria-b1797-23
+727: bap$stmaria-b1797-24
+764: bap$stmaria-b1797-25
+796: bap$stmaria-b1797-26
+827: bap$stmaria-b1797-27
+857: bap$stmaria-b1797-28
+896: bap$stmaria-b1797-29
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1797.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1797.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1797.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Baptismos/santamaria-1797.ids
+0  errors. 
+1  warnings.
+Groups in this file:[pmad,mrmad,procurador-pad,referido,rel,referida,mad,procurador-mad,ppad,pad,mmn,pmn,mn,mpn,ppn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

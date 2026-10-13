@@ -1,0 +1,77 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1574-1577.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1574-1577
+
+WARNING: SJ-1574-1577.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1574-1577 Id: sjoao-baptismos1574-1577.
+Near lines: 3 
+Near lines: 4       bap$b1574-1/18/11/1574/fl.55./igreja de sao joao/ (vigario)/obs= assina padre antonio marques (cura)
+
+6: bap$sjoao-b1574-1
+22: bap$sjoao-b1574
+35: bap$sjoao-b1574-3
+52: bap$sjoao-b1574-4
+68: bap$sjoao-b1575-5
+83: bap$sjoao-b1575-6
+100: bap$sjoao-b1575-7
+115: bap$sjoao-b1575-8
+130: bap$sjoao-b1575-9
+146: bap$sjoao-b1575-10
+158: bap$sjoao-b1575-11
+174: bap$sjoao-b1575-12
+191: bap$sjoao-b1575-13
+205: bap$sjoao-b1576-14
+219: bap$sjoao-b1576-15
+235: bap$sjoao-b1576-16
+249: bap$sjoao-b1576-17
+261: bap$sjoao-b1576-18
+277: bap$sjoao-b1576-19
+292: bap$sjoao-b1576-20
+304: bap$sjoao-b1576-21
+320: bap$sjoao-b1576-22
+333: bap$sjoao-b1576-23
+345: bap$sjoao-b1576-24
+359: bap$sjoao-b1576-25
+373: bap$sjoao-b1577-26
+386: bap$sjoao-b1577-27
+401: bap$sjoao-b1577-28
+413: bap$sjoao-b1577-29
+428: bap$sjoao-b1577-30
+443: bap$sjoao-b1577-31
+458: bap$sjoao-b1577-32
+473: bap$sjoao-b1577-33
+490: bap$sjoao-b1577-34
+503: bap$sjoao-b1577-35
+515: bap$sjoao-b1577-36
+529: bap$sjoao-b1577-37
+539: bap$sjoao-b1577-38
+553: bap$sjoao-b1577-39
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1574-1577.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1574-1577.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1574-1577.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1574-1577.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mmad,mrmad,ppad,mad,pad,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

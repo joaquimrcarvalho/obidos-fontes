@@ -1,0 +1,80 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-29
+
+Processing data file vau-o1761-1765.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: vau
+Autorel: vau
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$vau-obitos1761-1765
+
+WARNING: vau-o1761-1765.cli line 3 * Warning: Filename should match source Id to avoid errors. File: vau-o1761-1765 Id: vau-obitos1761-1765.
+Near lines: 3 
+Near lines: 4       obito$o1761-1/5/1/1761/fl.15v./joao de torres pereira ribeira (padre)
+
+
+WARNING: vau-o1761-1765.cli line 3 Element value exceeds database field length: type=freguesia de nossa senhora da piedade, vau. Size:42 limit: 32
+Near lines: 3 
+Near lines: 4       obito$o1761-1/5/1/1761/fl.15v./joao de torres pereira ribeira (padre)
+
+6: obito$vau-o1761-1
+20: obito$vau-o1761-2
+32: obito$vau-o1761-3
+53: obito$vau-o1761-4
+71: obito$vau-o1761-5
+83: obito$vau-o1762-1
+95: obito$vau-o1762-2
+115: obito$vau-o1762-3
+124: obito$vau-o1762-4
+141: obito$vau-o1762-5
+155: obito$vau-o1763-1
+178: obito$vau-o1763-2
+189: obito$vau-o1763-3
+200: obito$vau-o1763-4
+211: obito$vau-o1763-5
+229: obito$vau-o1763-6
+243: obito$vau-o1763-7
+267: obito$vau-o1763-8
+285: obito$vau-o1764-1
+298: obito$vau-o1764-2
+312: obito$vau-o1764-3
+327: obito$vau-o1764-4
+338: obito$vau-o1764-5
+349: obito$vau-o1764-6
+367: obito$vau-o1764-7
+388: obito$vau-o1765-1
+401: obito$vau-o1765-2
+417: obito$vau-o1765-3
+432: obito$vau-o1765-4
+450: obito$vau-o1765-5
+461: obito$vau-o1765-6
+481: obito$vau-o1765-7
+499: obito$vau-o1765-8
+513: obito$vau-o1765-9
+524: obito$vau-o1765-10
+539: obito$vau-o1765-11
+559: obito$vau-o1765-12
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1761-1765.cli
+Original file: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1761-1765.org
+Previous version: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1761-1765.old
+Temp file with ids: /kleio-home/sources/paroquiais/vau/Óbitos/vau-o1761-1765.ids
+0  errors. 
+2  warnings.
+Groups in this file:[locf,causa,marido,referido,rel,referida,mulher,testamento,oficios,sacr,mae,pai,locs,ls,n,obito,fonte,kleio]
+Translation finished.

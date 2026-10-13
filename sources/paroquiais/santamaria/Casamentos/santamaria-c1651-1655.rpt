@@ -1,0 +1,64 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 6-19
+
+Processing data file santamaria-c1651-1655.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1651-1655
+
+WARNING: santamaria-c1651-1655.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1651-1655 Id: stmaria-casamentos1651-1655.
+Near lines: 3 
+Near lines: 4       cas$c1651-1/2/1/1651/fl.77v./igreja de santa maria/jeronimo de matos (padre)/obs=assina luis andre e enumera as testemunhas e acrescenta "e outras muitas"
+
+6: cas$stmaria-c1651-1
+18: cas$stmaria-c1651-2
+31: cas$stmaria-c1651-3
+44: cas$stmaria-c1651-4
+57: cas$stmaria-c1651-5
+70: cas$stmaria-c1651-6
+82: cas$stmaria-c1651-7
+97: cas$stmaria-c1651-8
+110: cas$stmaria-c1652-1
+124: cas$stmaria-c1652-2
+137: cas$stmaria-c1652-3
+151: cas$stmaria-c1653-1
+165: cas$stmaria-c1653-2
+175: cas$stmaria-c1653-3
+188: cas$stmaria-c1653-4
+200: cas$stmaria-c1653-5
+218: cas$stmaria-c1653-6
+230: cas$stmaria-c1653-7
+243: cas$stmaria-c1653-8
+257: cas$stmaria-c1654-1
+271: cas$stmaria-c1654-2
+284: cas$stmaria-c1654-3
+302: cas$stmaria-c1654-4
+313: cas$stmaria-c1655-1
+330: cas$stmaria-c1655-2
+346: cas$stmaria-c1655-3
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1651-1655.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1651-1655.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1651-1655.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1651-1655.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mnoiva,pnoiva,rel,referido,ls,test,noiva,noivo,cas,fonte,kleio]
+Translation finished.

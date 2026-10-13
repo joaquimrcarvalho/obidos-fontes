@@ -1,0 +1,100 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-13
+
+Processing data file SJ-cas1761-1770.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-casamentos1761-1770
+
+WARNING: SJ-cas1761-1770.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-cas1761-1770 Id: sjoao-casamentos1761-1770.
+Near lines: 3 
+Near lines: 4       cas$c1761-1/12/1/1761/fl.82/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento realiza-se de manha.
+
+6: cas$sjoao-c1761-1
+36: cas$sjoao-c1761-2
+72: cas$sjoao-c1761-3
+105: cas$sjoao-c1761-4
+141: cas$sjoao-c1761-5
+171: cas$sjoao-c1761-6
+204: cas$sjoao-c1762-1
+235: cas$sjoao-c1762-2
+273: cas$sjoao-c1762-3
+304: cas$sjoao-c1762-4
+334: cas$sjoao-c1762-5
+366: cas$sjoao-c1762-6
+399: cas$sjoao-c1762-7
+430: cas$sjoao-c1762-8
+459: cas$sjoao-c1763-1
+487: cas$sjoao-c1763-2
+516: cas$sjoao-c1763-3
+546: cas$sjoao-c1764-1
+580: cas$sjoao-c1764-2
+606: cas$sjoao-c1764-3
+641: cas$sjoao-c1764-4
+675: cas$sjoao-c1764-5
+712: cas$sjoao-c1764-6
+741: cas$sjoao-c1764-7
+770: cas$sjoao-c1765-1
+801: cas$sjoao-c1765-2
+830: cas$sjoao-c1765-3
+858: cas$sjoao-c1765-4
+889: cas$sjoao-c1766-1
+919: cas$sjoao-c1766-2
+951: cas$sjoao-c1766-3
+979: cas$sjoao-c1766-4
+1008: cas$sjoao-c1766-5
+1038: cas$sjoao-c1766-6
+1076: cas$sjoao-c1767-1
+1110: cas$sjoao-c1767-2
+1139: cas$sjoao-c1767-3
+1167: cas$sjoao-c1767-4
+1199: cas$sjoao-c1767-5
+1229: cas$sjoao-c1767-6
+1260: cas$sjoao-c1767-7
+1290: cas$sjoao-c1767-8
+1320: cas$sjoao-c1768-1
+1348: cas$sjoao-c1768-2
+1376: cas$sjoao-c1768-3
+1407: cas$sjoao-c1768-4
+1432: cas$sjoao-c1768-5
+1460: cas$sjoao-c1769-1
+1491: cas$sjoao-c1769-2
+1525: cas$sjoao-c1769-3
+1556: cas$sjoao-c1769-4
+1584: cas$sjoao-c1769-5
+1616: cas$sjoao-c1769-6
+1649: cas$sjoao-c1769-7
+1680: cas$sjoao-c1770-1
+1719: cas$sjoao-c1770-2
+1755: cas$sjoao-c1770-3
+1784: cas$sjoao-c1770-4
+1817: cas$sjoao-c1770-5
+1848: cas$sjoao-c1770-6
+1875: cas$sjoao-c1770-7
+1904: cas$sjoao-c1770-8
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1761-1770.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1761-1770.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1761-1770.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Casamentos/SJ-cas1761-1770.ids
+0  errors. 
+1  warnings.
+Groups in this file:[referido,rel,marido1,mulher1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

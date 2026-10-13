@@ -1,0 +1,98 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 15-55
+
+Processing data file saopedro-b1728-1729.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: spedro
+Autorel: spedro
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$spedro-baptismos1728-1729
+
+WARNING: saopedro-b1728-1729.cli line 3 * Warning: Filename should match source Id to avoid errors. File: saopedro-b1728-1729 Id: spedro-baptismos1728-1729.
+Near lines: 3 
+Near lines: 4       bap$b1728-1/11/1/1728/fl.14/igreja de sao pedro/jose de matos (padre na igreja de santa maria)/obs=assina o cura manuel leal henriques.
+
+6: bap$spedro-b1728-1
+27: bap$spedro-b1728-2
+47: bap$spedro-b1728-3
+67: bap$spedro-b1728-4
+88: bap$spedro-b1728-5
+114: bap$spedro-b1728-6
+
+ERROR: saopedro-b1728-1729.cli line 114 *** Current group locbaptismo cannot be linked with previous group ls(att-33)
+Near lines: 114             ls$datanasc/17280225 
+Near lines: 115             ls$datanasc/17280225 
+
+
+ERROR: saopedro-b1728-1729.cli line 114 ***locbaptismo group not stored.
+Near lines: 114             ls$datanasc/17280225 
+Near lines: 115             ls$datanasc/17280225 
+
+
+ERROR: saopedro-b1728-1729.cli line 114 ** Failure. Could not process group locbaptismo
+Near lines: 114             ls$datanasc/17280225 
+Near lines: 115             ls$datanasc/17280225 
+
+
+ERROR: saopedro-b1728-1729.cli line 117 Bad date format:em casa. Use YYYYMMDD, YYYY-MM-DD, FROM_DATE:UNTIL_DATE, >DATE or <DATE
+Near lines: 117 
+Near lines: 118          pn$alexandre pedro solli/id=b1728-6-per1
+
+138: bap$spedro-b1728-7
+169: bap$spedro-b1728-8
+186: bap$spedro-b1728-9
+204: bap$spedro-b1728-10
+223: bap$spedro-b1728-11
+240: bap$spedro-b1728-12
+258: bap$spedro-b1728-13
+275: bap$spedro-b1728-14
+292: bap$spedro-b1728-15
+315: bap$spedro-b1728-16
+335: bap$spedro-b1728-17
+357: bap$spedro-b1728-18
+381: bap$spedro-b1729-1
+398: bap$spedro-b1729-2
+417: bap$spedro-b1729-3
+434: bap$spedro-b1729-4
+448: bap$spedro-b1729-5
+469: bap$spedro-b1729-6
+486: bap$spedro-b1729-7
+508: bap$spedro-b1729-8
+529: bap$spedro-b1729-9
+556: bap$spedro-b1729-10
+575: bap$spedro-b1729-11
+595: bap$spedro-b1729-12
+616: bap$spedro-b1729-13
+637: bap$spedro-b1729-14
+652: bap$spedro-b1729-15
+678: bap$spedro-b1729-16
+700: bap$spedro-b1729-17
+721: bap$spedro-b1729-18
+739: bap$spedro-b1729-19
+753: bap$spedro-b1729-20
+781: bap$spedro-b1729-21
+803: bap$spedro-b1729-22
+823: bap$spedro-b1729-23
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1728-1729.cli
+Original file: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1728-1729.org
+Previous version: /kleio-home/sources/paroquiais/spedro/Baptismos/saopedro-b1728-1729.old
+4  errors. 
+1  warnings.
+Groups in this file:[mpn,ppn,procurador-mad1,referido,rel,mad1,procurador-pad1,pad1,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

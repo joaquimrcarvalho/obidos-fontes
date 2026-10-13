@@ -1,0 +1,76 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-28
+
+Processing data file santamaria-c1736-1740.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1736-1740
+
+WARNING: santamaria-c1736-1740.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1736-1740 Id: stmaria-casamentos1736-1740.
+Near lines: 3 
+Near lines: 4       cas$c1736-1/19/4/1736/fl.10/igreja de santa maria/manuel leal henriques (reverendo, padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos. a partir daqui os folios vao numerados de acordo com os do livro. ate aqui o mau estado do livro nao permitia a leitura do folio, dai que tenhamos criado uma numeracao.
+
+6: cas$stmaria-c1736-1
+38: cas$stmaria-c1736-2
+69: cas$stmaria-c1736-3
+110: cas$stmaria-c1736-4
+152: cas$stmaria-c1736-5
+200: cas$stmaria-c1736-6
+238: cas$stmaria-c1736-7
+278: cas$stmaria-c1737-1
+323: cas$stmaria-c1737-2
+360: cas$stmaria-c1737-3
+389: cas$stmaria-c1737-4
+424: cas$stmaria-c1737-5
+458: cas$stmaria-c1737-6
+494: cas$stmaria-c1737-7
+535: cas$stmaria-c1737-8
+570: cas$stmaria-c1737-9
+610: cas$stmaria-c1738-1
+647: cas$stmaria-c1738-2
+683: cas$stmaria-c1738-3
+721: cas$stmaria-c1738-4
+760: cas$stmaria-c1739-1
+792: cas$stmaria-c1739-2
+824: cas$stmaria-c1739-3
+864: cas$stmaria-c1739-4
+907: cas$stmaria-c1739-5
+951: cas$stmaria-c1739-6
+986: cas$stmaria-c1739-7
+1020: cas$stmaria-c1740-1
+1068: cas$stmaria-c1740-2
+1103: cas$stmaria-c1740-3
+
+WARNING: santamaria-c1736-1740.cli line 1102 Element value exceeds database field length: loc=ermida de santo antonio de a da gorda, anexa igreja de santa maria. Size:66 limit: 64
+Near lines: 1102 
+Near lines: 1103          noivo$antonio da horta/id=c1740-3-per1
+
+1139: cas$stmaria-c1740-4
+1173: cas$stmaria-c1740-5
+1210: cas$stmaria-c1740-6
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1736-1740.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1736-1740.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1736-1740.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1736-1740.ids
+0  errors. 
+2  warnings.
+Groups in this file:[rel,marido1,referido,mulher1,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

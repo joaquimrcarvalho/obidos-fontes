@@ -1,0 +1,101 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-22
+
+Processing data file ST-c1624-1644.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stiago
+Autorel: stiago
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stiago-casamentos1624-1644
+
+WARNING: ST-c1624-1644.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ST-c1624-1644 Id: stiago-casamentos1624-1644.
+Near lines: 3 
+Near lines: 4       cas$c1624-1/31/12/1624/fl.100./igreja de sao tiago/joao pedroso (cura)/obs=assina joao pedroso (cura)
+
+6: cas$stiago-c1624-1
+26: cas$stiago-c1625-2
+36: cas$stiago-c1625-3
+47: cas$stiago-c1625-4
+63: cas$stiago-c1625-5
+73: cas$stiago-c1625-6
+87: cas$stiago-c1627-7
+105: cas$stiago-c1627-8
+125: cas$stiago-c1627-9
+142: cas$stiago-c1627-10
+171: cas$stiago-c1628-11
+189: cas$stiago-c1629-12
+203: cas$stiago-c1629-13
+217: cas$stiago-c1629-14
+242: cas$stiago-c1629-15
+268: cas$stiago-c1630-16
+294: cas$stiago-c1630-17
+309: cas$stiago-c1630-18
+326: cas$stiago-c1630-19
+349: cas$stiago-c1630-20
+370: cas$stiago-c1631-21
+396: cas$stiago-c1632-22
+422: cas$stiago-c1632-23
+438: cas$stiago-c1632-24
+457: cas$stiago-c1632-25
+486: cas$stiago-c1633-26
+509: cas$stiago-c1633-27
+525: cas$stiago-c1634-28
+551: cas$stiago-c1634-29
+579: cas$stiago-c1634-30
+591: cas$stiago-c1635-31
+611: cas$stiago-c1635-32
+628: cas$stiago-c1636-33
+653: cas$stiago-c1636-34
+686: cas$stiago-c1636-35
+708: cas$stiago-c1637-36
+730: cas$stiago-c1637-37
+748: cas$stiago-c1637-38
+772: cas$stiago-c1638-39a
+796: cas$stiago-c1638-39
+815: cas$stiago-c1638-40
+833: cas$stiago-c1639-41
+850: cas$stiago-c1639-42
+875: cas$stiago-c1639-43
+896: cas$stiago-c1639-44
+925: cas$stiago-c1640-45
+946: cas$stiago-c1640-46
+969: cas$stiago-c1640-47
+993: cas$stiago-c1640-48
+1018: cas$stiago-c1641-49
+1031: cas$stiago-c1641-50
+1055: cas$stiago-c1641-51
+1072: cas$stiago-c1641-52
+1099: cas$stiago-c1641-53
+1124: cas$stiago-c1642-54
+1149: cas$stiago-c1642-55
+1166: cas$stiago-c1642-56
+1186: cas$stiago-c1642-57
+1212: cas$stiago-c1643-58
+1232: cas$stiago-c1644-59
+1256: cas$stiago-c1644-60
+1274: cas$stiago-c1644-61
+1293: cas$stiago-c1644-62
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1624-1644.cli
+Original file: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1624-1644.org
+Previous version: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1624-1644.old
+Temp file with ids: /kleio-home/sources/paroquiais/stiago/Casamentos/ST-c1624-1644.ids
+0  errors. 
+1  warnings.
+Groups in this file:[mnoiva,mnoivo,pnoivo,rel,referido,test,pnoiva,noiva,ls,noivo,cas,fonte,kleio]
+Translation finished.

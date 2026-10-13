@@ -1,0 +1,124 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+13-10-2026 10-28
+
+Processing data file santamaria-o1756-1758.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-obitos1756-1758
+
+WARNING: santamaria-o1756-1758.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-o1756-1758 Id: stmaria-obitos1756-1758.
+Near lines: 3 
+Near lines: 4       obito$o1756-1/1/1/1756/fl.13/isidoro coelho de sampaio (cura)
+
+6: obito$stmaria-o1756-1
+22: obito$stmaria-o1756-2
+36: obito$stmaria-o1756-3
+50: obito$stmaria-o1756-3a
+64: obito$stmaria-o1756-4
+81: obito$stmaria-o1756-5
+100: obito$stmaria-o1756-6
+113: obito$stmaria-o1756-7
+125: obito$stmaria-o1756-8
+139: obito$stmaria-o1756-9
+152: obito$stmaria-o1756-10
+167: obito$stmaria-o1756-11
+181: obito$stmaria-o1756-12
+195: obito$stmaria-o1756-13
+209: obito$stmaria-o1756-14
+223: obito$stmaria-o1756-15
+237: obito$stmaria-o1756-16
+254: obito$stmaria-o1756-17
+270: obito$stmaria-o1756-18
+284: obito$stmaria-o1756-19
+299: obito$stmaria-o1756-20
+316: obito$stmaria-o1756-21
+325: obito$stmaria-o1756-22
+339: obito$stmaria-o1756-23
+354: obito$stmaria-o1756-24
+366: obito$stmaria-o1756-25
+380: obito$stmaria-o1756-26
+391: obito$stmaria-o1756-27
+406: obito$stmaria-o1756-28
+421: obito$stmaria-o1756-29
+440: obito$stmaria-o1756-30
+456: obito$stmaria-o1756-31
+471: obito$stmaria-o1756-32
+484: obito$stmaria-o1756-33
+499: obito$stmaria-o1756-34
+513: obito$stmaria-o1756-35
+530: obito$stmaria-o1756-36
+545: obito$stmaria-o1756-37
+567: obito$stmaria-o1756-38
+581: obito$stmaria-o1756-39
+597: obito$stmaria-o1756-40
+612: obito$stmaria-o1756-41
+625: obito$stmaria-o1756-42
+642: obito$stmaria-o1756-43
+655: obito$stmaria-o1756-44
+666: obito$stmaria-o1756-45
+680: obito$stmaria-o1757-1
+693: obito$stmaria-o1757-2
+707: obito$stmaria-o1757-3
+721: obito$stmaria-o1757-4
+734: obito$stmaria-o1757-5
+751: obito$stmaria-o1757-6
+766: obito$stmaria-o1757-7
+779: obito$stmaria-o1757-8
+792: obito$stmaria-o1757-9
+807: obito$stmaria-o1757-10
+820: obito$stmaria-o1757-11
+832: obito$stmaria-o1757-12
+848: obito$stmaria-o1757-13
+864: obito$stmaria-o1757-14
+876: obito$stmaria-o1757-15
+886: obito$stmaria-o1758-1
+900: obito$stmaria-o1758-2
+913: obito$stmaria-o1758-3
+926: obito$stmaria-o1758-4
+941: obito$stmaria-o1758-5
+959: obito$stmaria-o1758-6
+975: obito$stmaria-o1758-7
+990: obito$stmaria-o1758-8
+1002: obito$stmaria-o1758-9
+1017: obito$stmaria-o1758-10
+1031: obito$stmaria-o1758-11
+1048: obito$stmaria-o1758-12
+1062: obito$stmaria-o1758-13
+1077: obito$stmaria-o1758-14
+1091: obito$stmaria-o1758-15
+1107: obito$stmaria-o1758-16
+1122: obito$stmaria-o1758-17
+1136: obito$stmaria-o1758-18
+1150: obito$stmaria-o1758-19
+1168: obito$stmaria-o1758-20
+1180: obito$stmaria-o1758-21
+1194: obito$stmaria-o1758-22
+1206: obito$stmaria-o1758-23
+1222: obito$stmaria-o1758-24
+1239: obito$stmaria-o1758-25
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1756-1758.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1756-1758.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1756-1758.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Óbitos/santamaria-o1756-1758.ids
+0  errors. 
+1  warnings.
+Groups in this file:[testamento,causa,referida,mulher,oficios,marido,locf,rel,mae,pai,referido,locs,sacr,ls,n,obito,fonte,kleio]
+Translation finished.

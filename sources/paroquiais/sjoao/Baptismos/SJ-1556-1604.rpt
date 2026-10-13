@@ -1,0 +1,57 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1556-1604.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1556-1604
+
+WARNING: SJ-1556-1604.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1556-1604 Id: sjoao-baptismos1556-1604.
+Near lines: 3 
+Near lines: 4       bap$b1556-1/17/11/1556/fl.1 documento avulso/joao delgado/obs=assina joao delgado
+
+
+WARNING: SJ-1556-1604.cli line 3 Element value exceeds database field length: type=freguesia de sao joao; documentos avulso. Size:40 limit: 32
+Near lines: 3 
+Near lines: 4       bap$b1556-1/17/11/1556/fl.1 documento avulso/joao delgado/obs=assina joao delgado
+
+6: bap$sjoao-b1556-1
+20: bap$sjoao-b1556-2
+34: bap$sjoao-b1557-1
+50: bap$sjoao-b1557-2
+66: bap$sjoao-b1557-3
+79: bap$sjoao-b1557-4
+83: bap$sjoao-b1557-9
+97: bap$sjoao-b1598-100
+110: bap$sjoao-b1603-100
+126: bap$sjoao-b1603-101
+140: bap$sjoao-b1604-1
+153: bap$sjoao-b1604-2
+172: bap$sjoao-b1604-3
+185: bap$sjoao-b1604-4
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1556-1604.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1556-1604.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1556-1604.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1556-1604.ids
+0  errors. 
+2  warnings.
+Groups in this file:[mrmad1,pad2,mad1,pad1,mn,pn,ls,n,bap,fonte,kleio]
+Translation finished.

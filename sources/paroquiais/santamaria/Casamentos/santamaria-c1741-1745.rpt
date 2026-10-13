@@ -1,0 +1,81 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 14-55
+
+Processing data file santamaria-c1741-1745.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: stmaria
+Autorel: stmaria
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$stmaria-casamentos1741-1745
+
+WARNING: santamaria-c1741-1745.cli line 3 * Warning: Filename should match source Id to avoid errors. File: santamaria-c1741-1745 Id: stmaria-casamentos1741-1745.
+Near lines: 3 
+Near lines: 4       cas$c1741-1/9/1/1741/fl.26/igreja de santa maria/jose de abreu e silva(padre, cura da igreja de santa maria)/obs=assina o padre cura jose de abreu e silva. o casamento realizou-se numa segunda feira de manha
+
+6: cas$stmaria-c1741-1
+42: cas$stmaria-c1741-2
+85: cas$stmaria-c1741-3
+91: cas$stmaria-c1741-4
+
+WARNING: santamaria-c1741-1745.cli line 90 Element value exceeds database field length: loc=ermida de santo antonio de a da gorda, anexa da freguesia de santa maria. Size:72 limit: 64
+Near lines: 90 
+Near lines: 91          noivo$antonio da silva neves/id=c1741-4-per1
+
+138: cas$stmaria-c1741-5
+177: cas$stmaria-c1742-1
+216: cas$stmaria-c1742-2
+251: cas$stmaria-c1742-3
+289: cas$stmaria-c1742-4
+326: cas$stmaria-c1742-5
+369: cas$stmaria-c1742-6
+404: cas$stmaria-c1742-7
+448: cas$stmaria-c1742-8
+492: cas$stmaria-c1742-9
+533: cas$stmaria-c1742-10
+570: cas$stmaria-c1742-11
+606: cas$stmaria-c1742-12
+648: cas$stmaria-c1743-1
+689: cas$stmaria-c1743-2
+728: cas$stmaria-c1743-3
+770: cas$stmaria-c1743-4
+799: cas$stmaria-c1743-5
+835: cas$stmaria-c1743-6
+871: cas$stmaria-c1743-7
+907: cas$stmaria-c1743-8
+944: cas$stmaria-c1743-9
+981: cas$stmaria-c1743-10
+1021: cas$stmaria-c1743-11
+1058: cas$stmaria-c1744-1
+1094: cas$stmaria-c1744-2
+1128: cas$stmaria-c1744-3
+1174: cas$stmaria-c1744-4
+1208: cas$stmaria-c1745-1
+1249: cas$stmaria-c1745-2
+1293: cas$stmaria-c1745-3
+1328: cas$stmaria-c1745-4
+1367: cas$stmaria-c1745-5
+1403: cas$stmaria-c1745-6
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1741-1745.cli
+Original file: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1741-1745.org
+Previous version: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1741-1745.old
+Temp file with ids: /kleio-home/sources/paroquiais/santamaria/Casamentos/santamaria-c1741-1745.ids
+0  errors. 
+2  warnings.
+Groups in this file:[mulher2,marido1,referido,mulher1,rel,test,mnoiva,pnoiva,noiva,mnoivo,pnoivo,ls,noivo,cas,fonte,kleio]
+Translation finished.

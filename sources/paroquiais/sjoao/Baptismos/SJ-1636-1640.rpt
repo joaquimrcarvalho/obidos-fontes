@@ -1,0 +1,358 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-10
+
+Processing data file SJ-1636-1640.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-baptismos1636-1640
+
+WARNING: SJ-1636-1640.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-1636-1640 Id: sjoao-baptismos1636-1640.
+Near lines: 3 
+Near lines: 4       bap$b1636-1/13/1/1636/fl.37/pero leitao (cura na igreja de sao joao do mocharro)/obs=assina pero leitao
+
+6: bap$sjoao-b1636-1
+22: bap$sjoao-b1636-2
+37: bap$sjoao-b1636-3
+51: bap$sjoao-b1636-4
+67: bap$sjoao-b1636-5
+80: bap$sjoao-b1636-6
+100: bap$sjoao-b1636-7
+119: bap$sjoao-b1636-8
+133: bap$sjoao-b1636-9
+149: bap$sjoao-b1636-10
+165: bap$sjoao-b1636-11
+181: bap$sjoao-b1636-12
+192: bap$sjoao-b1636-13
+208: bap$sjoao-b1636-14
+223: bap$sjoao-b1636-15
+239: bap$sjoao-b1636-16
+255: bap$sjoao-b1636-17
+277: bap$sjoao-b1636-18
+293: bap$sjoao-b1637-1
+306: bap$sjoao-b1637-2
+318: bap$sjoao-b1637-3
+331: bap$sjoao-b1637-4
+346: bap$sjoao-b1637-5
+362: bap$sjoao-b1637-6
+377: bap$sjoao-b1637-7
+395: bap$sjoao-b1637-8
+407: bap$sjoao-b1637-9
+421: bap$sjoao-b1637-10
+435: bap$sjoao-b1637-11
+447: bap$sjoao-b1637-12
+459: bap$sjoao-b1637-13
+471: bap$sjoao-b1637-14
+483: bap$sjoao-b1637-15
+495: bap$sjoao-b1638-1
+511: bap$sjoao-b1638-2
+523: bap$sjoao-b1638-3
+536: bap$sjoao-b1638-4
+
+WARNING: SJ-1636-1640.cli line 535 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 535 
+Near lines: 536          n$domingos/m/id=b1638-4-per1
+
+548: bap$sjoao-b1638-5
+
+WARNING: SJ-1636-1640.cli line 547 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 547 
+Near lines: 548          n$maria/f/id=b1638-5-per1
+
+560: bap$sjoao-b1638-6
+
+WARNING: SJ-1636-1640.cli line 559 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 559 
+Near lines: 560          n$cipriano/m/id=b1638-6-per1
+
+572: bap$sjoao-b1638-7
+
+WARNING: SJ-1636-1640.cli line 571 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 571 
+Near lines: 572          n$manuel/m/id=b1638-7-per1
+
+585: bap$sjoao-b1638-8
+
+WARNING: SJ-1636-1640.cli line 584 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 584 
+Near lines: 585          n$pascoal/m/id=b1638-8-per1
+
+599: bap$sjoao-b1638-9
+
+WARNING: SJ-1636-1640.cli line 598 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 598 
+Near lines: 599          n$catarina/f/id=b1638-9-per1
+
+611: bap$sjoao-b1638-10
+
+WARNING: SJ-1636-1640.cli line 610 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 610 
+Near lines: 611          n$isabel/m/id=b1638-10-per1
+
+623: bap$sjoao-b1638-11
+
+WARNING: SJ-1636-1640.cli line 622 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 622 
+Near lines: 623          n$ascenso/m/id=b1638-11-per1
+
+635: bap$sjoao-b1638-12
+
+WARNING: SJ-1636-1640.cli line 634 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 634 
+Near lines: 635          n$francisca/f/id=b1638-12-per1
+
+647: bap$sjoao-b1638-13
+
+WARNING: SJ-1636-1640.cli line 646 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 646 
+Near lines: 647          n$antonio/m/id=b1638-13-per1
+
+659: bap$sjoao-b1638-14
+
+WARNING: SJ-1636-1640.cli line 658 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 658 
+Near lines: 659          n$maria/f/id=b1638-14-per1
+
+671: bap$sjoao-b1638-15
+
+WARNING: SJ-1636-1640.cli line 670 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 670 
+Near lines: 671          n$domingas/f/id=b1638-15-n
+
+684: bap$sjoao-b1638-16
+
+WARNING: SJ-1636-1640.cli line 683 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 683 
+Near lines: 684          n$maria/f/id=b1638-16-n
+
+703: bap$sjoao-b1638-17
+
+WARNING: SJ-1636-1640.cli line 702 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 702 
+Near lines: 703          n$iria/f/id=b1638-17-per1
+
+715: bap$sjoao-b1638-18
+
+WARNING: SJ-1636-1640.cli line 714 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 714 
+Near lines: 715          n$antonia/f/id=b1638-18-per1
+
+727: bap$sjoao-b1638-19
+
+WARNING: SJ-1636-1640.cli line 726 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 726 
+Near lines: 727          n$domingos/m/id=b1638-19-per1
+
+739: bap$sjoao-b1639-1
+755: bap$sjoao-b1639-2
+768: bap$sjoao-b1639-3
+783: bap$sjoao-b1639-4
+
+WARNING: SJ-1636-1640.cli line 782 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 782 
+Near lines: 783          n$francisco/m/id=b1639-4-per1
+
+795: bap$sjoao-b1639-5
+810: bap$sjoao-b1639-6
+
+WARNING: SJ-1636-1640.cli line 809 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 809 
+Near lines: 810          n$ana/f/id=b1639-6-per1
+
+826: bap$sjoao-b1639-7
+
+WARNING: SJ-1636-1640.cli line 825 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 825 
+Near lines: 826          n$domingas/f/id=b1639-7-per1
+
+838: bap$sjoao-b1639-8
+
+WARNING: SJ-1636-1640.cli line 837 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 837 
+Near lines: 838          n$domingas/f/id=b1639-8-per1
+
+851: bap$sjoao-b1639-9
+
+WARNING: SJ-1636-1640.cli line 850 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 850 
+Near lines: 851          n$domingas/f/id=b1639-9-per1
+
+863: bap$sjoao-b1639-10
+
+WARNING: SJ-1636-1640.cli line 862 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 862 
+Near lines: 863          n$jose/m/id=b1639-10-per1
+
+875: bap$sjoao-b1639-11
+
+WARNING: SJ-1636-1640.cli line 874 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 874 
+Near lines: 875          n$catarina/f/id=b1639-11-per1
+
+890: bap$sjoao-b1639-12
+
+WARNING: SJ-1636-1640.cli line 889 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 889 
+Near lines: 890          n$domingos/m/id=b1639-12-per1
+
+904: bap$sjoao-b1639-13
+
+WARNING: SJ-1636-1640.cli line 903 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 903 
+Near lines: 904          n$alvaro/m/id=b1639-13-per1
+
+918: bap$sjoao-b1639-14
+
+WARNING: SJ-1636-1640.cli line 917 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 917 
+Near lines: 918          n$maria/f/id=b1639-14-per1
+
+930: bap$sjoao-b1639-15
+
+WARNING: SJ-1636-1640.cli line 929 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 929 
+Near lines: 930          n$maria/f/id=b1639-15-per1
+
+942: bap$sjoao-b1639-16
+
+WARNING: SJ-1636-1640.cli line 941 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 941 
+Near lines: 942          n$joao/m/id=b1639-16-per1
+
+956: bap$sjoao-b1639-17
+
+WARNING: SJ-1636-1640.cli line 955 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 955 
+Near lines: 956          n$manuel/m/id=b1639-17-per1
+
+968: bap$sjoao-b1639-18
+
+WARNING: SJ-1636-1640.cli line 967 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 967 
+Near lines: 968          n$joao/m/id=b1639-18-per1
+
+985: bap$sjoao-b1639-19
+
+WARNING: SJ-1636-1640.cli line 984 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 984 
+Near lines: 985          n$manuel/m/id=b1639-19-per1
+
+997: bap$sjoao-b1639-20
+
+WARNING: SJ-1636-1640.cli line 996 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 996 
+Near lines: 997          n$maria/f/id=b1639-20-per1
+
+1009: bap$sjoao-b1639-21
+
+WARNING: SJ-1636-1640.cli line 1008 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1008 
+Near lines: 1009          n$domingas/f/id=b1639-21-per1
+
+1021: bap$sjoao-b1639-22
+1035: bap$sjoao-b1639-23
+
+WARNING: SJ-1636-1640.cli line 1034 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1034 
+Near lines: 1035          n$joao/m/id=b1639-23-per1
+
+1049: bap$sjoao-b1639-24
+
+WARNING: SJ-1636-1640.cli line 1048 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1048 
+Near lines: 1049          n$pedro/m/id=b1639-24-per1
+
+1062: bap$sjoao-b1639-25
+
+WARNING: SJ-1636-1640.cli line 1061 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1061 
+Near lines: 1062          n$joao/m/id=b1639-25-per1
+
+1075: bap$sjoao-b1639-26
+
+WARNING: SJ-1636-1640.cli line 1074 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1074 
+Near lines: 1075          n$diogo/m/id=b1639-26-per1
+
+1090: bap$sjoao-b1639-27
+
+WARNING: SJ-1636-1640.cli line 1089 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1089 
+Near lines: 1090          n$helena/f/id=b1639-27-per1
+
+1102: bap$sjoao-b1639-28
+
+WARNING: SJ-1636-1640.cli line 1101 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1101 
+Near lines: 1102          n$francisco/m/id=b1639-28-per1
+
+1114: bap$sjoao-b1639-29
+
+WARNING: SJ-1636-1640.cli line 1113 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1113 
+Near lines: 1114          n$manuel/m/id=b1639-29-per1
+
+1126: bap$sjoao-b1639-30
+
+WARNING: SJ-1636-1640.cli line 1125 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1125 
+Near lines: 1126          n$tome/m/id=b1639-30-per1
+
+1138: bap$sjoao-b1640-1
+
+WARNING: SJ-1636-1640.cli line 1137 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1137 
+Near lines: 1138          n$domingas/f/id=b1640-1-per1
+
+1150: bap$sjoao-b1640-2
+
+WARNING: SJ-1636-1640.cli line 1149 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1149 
+Near lines: 1150          n$manuel/m/id=b1640-2-per1
+
+1162: bap$sjoao-b1640-3
+
+WARNING: SJ-1636-1640.cli line 1161 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1161 
+Near lines: 1162          n$pascoal/m/id=b1640-3-per1
+
+1174: bap$sjoao-b1640-4
+
+WARNING: SJ-1636-1640.cli line 1173 Element value exceeds database field length: loc=jeronimo ferreira (padre, coadjutor, economo da igreja de sao joao). Size:67 limit: 64
+Near lines: 1173 
+Near lines: 1174          n$joao/m/id=b1640-4-per1
+
+1188: bap$sjoao-b1640-5
+1205: bap$sjoao-b1640-6
+1221: bap$sjoao-b1640-7
+1233: bap$sjoao-b1640-8
+1243: bap$sjoao-b1640-9
+1259: bap$sjoao-b1640-10
+1275: bap$sjoao-b1640-11
+1291: bap$sjoao-b1640-12
+1305: bap$sjoao-b1640-13
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1636-1640.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1636-1640.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1636-1640.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Baptismos/SJ-1636-1640.ids
+0  errors. 
+46  warnings.
+Groups in this file:[referido,pad2,pmad1,mrmad1,mmad1,rel,mad1,pad1,mn,ls,pn,n,bap,fonte,kleio]
+Translation finished.

@@ -1,0 +1,106 @@
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-10-2026 6-15
+
+Processing data file SJ-o1721-1725.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: sjoao
+Autorel: sjoao
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$sjoao-obitos1721-1725
+
+WARNING: SJ-o1721-1725.cli line 3 * Warning: Filename should match source Id to avoid errors. File: SJ-o1721-1725 Id: sjoao-obitos1721-1725.
+Near lines: 3 
+Near lines: 4       obito$o1721-1/1/1/1721/fl.43v./joao nunes (cura na igreja de sao joao)
+
+6: obito$sjoao-o1721-1
+27: obito$sjoao-o1721-2
+47: obito$sjoao-o1721-3
+62: obito$sjoao-o1721-4
+78: obito$sjoao-o1721-5
+96: obito$sjoao-o1721-6
+112: obito$sjoao-o1721-7
+127: obito$sjoao-o1721-8
+145: obito$sjoao-o1721-9
+161: obito$sjoao-o1721-10
+177: obito$sjoao-o1721-11
+191: obito$sjoao-o1721-12
+205: obito$sjoao-o1721-13
+222: obito$sjoao-o1721-14
+238: obito$sjoao-o1721-15
+253: obito$sjoao-o1721-16
+272: obito$sjoao-o1721-17
+285: obito$sjoao-o1721-18
+299: obito$sjoao-o1721-19
+314: obito$sjoao-o1721-20
+330: obito$sjoao-o1721-21
+345: obito$sjoao-o1721-22
+361: obito$sjoao-o1721-23
+379: obito$sjoao-o1721-24
+393: obito$sjoao-o1721-25
+409: obito$sjoao-o1722-1
+434: obito$sjoao-o1722-2
+449: obito$sjoao-o1722-3
+465: obito$sjoao-o1722-4
+479: obito$sjoao-o1722-5
+494: obito$sjoao-o1722-6
+513: obito$sjoao-o1722-7
+529: obito$sjoao-o1722-8
+543: obito$sjoao-o1722-9
+560: obito$sjoao-o1722-10
+579: obito$sjoao-o1723-1
+595: obito$sjoao-o1723-2
+613: obito$sjoao-o1723-3
+636: obito$sjoao-o1723-4
+652: obito$sjoao-o1723-5
+667: obito$sjoao-o1723-6
+683: obito$sjoao-o1723-7
+699: obito$sjoao-o1723-8
+715: obito$sjoao-o1724-1
+731: obito$sjoao-o1724-2
+749: obito$sjoao-o1724-3
+765: obito$sjoao-o1724-4
+783: obito$sjoao-o1724-5
+799: obito$sjoao-o1724-6
+816: obito$sjoao-o1724-7
+835: obito$sjoao-o1724-8
+849: obito$sjoao-o1724-9
+868: obito$sjoao-o1724-10
+884: obito$sjoao-o1724-11
+901: obito$sjoao-o1724-12
+916: obito$sjoao-o1724-13
+932: obito$sjoao-o1724-14
+948: obito$sjoao-o1724-15
+963: obito$sjoao-o1725-1
+980: obito$sjoao-o1725-2
+1002: obito$sjoao-o1725-3
+1019: obito$sjoao-o1725-4
+1037: obito$sjoao-o1725-5
+1055: obito$sjoao-o1725-6
+1075: obito$sjoao-o1725-7
+1096: obito$sjoao-o1725-8
+1110: obito$sjoao-o1725-9
+1127: obito$sjoao-o1725-10
+*** End of File
+
+
+Structure file: /usr/local/timelink/clio/src/gacto2.str
+Structure processing report: /usr/local/timelink/clio/src/gacto2.srpt
+Structure in JSON: /usr/local/timelink/clio/src/gacto2.str.json
+
+Kleio file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1721-1725.cli
+Original file: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1721-1725.org
+Previous version: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1721-1725.old
+Temp file with ids: /kleio-home/sources/paroquiais/sjoao/Óbitos/SJ-o1721-1725.ids
+0  errors. 
+1  warnings.
+Groups in this file:[locf,causa,referida,marido,oficios,mulher,testamento,sacr,rel,referido,mae,pai,locs,ls,n,obito,fonte,kleio]
+Translation finished.
