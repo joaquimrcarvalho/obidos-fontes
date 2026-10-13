@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=spedro
+kleio$gacto.str/prefix=spedro/translations=1
    fonte$baptismos1794/localizacao-a.d.l./freguesia de sao pedro
 
       bap$b1794-1/9/1/1794/fl.65/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
@@ -6,50 +6,50 @@ kleio$gacto.str/prefix=spedro
          n$maria/f/id=b1794-1-n
             ls$enjeitada/sim/obs="exposta no mesmo dia no cazal da figueira, e se deu a criar a maria luzia, filha de joze moreira, e cazada com joaquim da silva desta villa"
 
-         pn$nome desconhecido/id=b1794-1-per1
+            pn$nome desconhecido/id=b1794-1-per1
 
-         mn$nome desconhecido/id=b1794-1-per2
+            mn$nome desconhecido/id=b1794-1-per2
 
-         referida$maria luzia/id=b1794-1-referida
-            ls$residencia/obidos
-            rel$sociabilidade/ama/maria/b1794-1-n
+            referida$maria luzia/id=b1794-1-referida
+               ls$residencia/obidos
+               rel$sociabilidade/ama/maria/b1794-1-n
 
-         referido$jose moreira/id=b1794-1-per3
-            rel$parentesco/pai/maria luzia/b1794-1-referida
+            referido$jose moreira/id=b1794-1-per3
+               rel$parentesco/pai/maria luzia/b1794-1-referida
 
-         referido$joaquim da silva/id=b1794-1-per4
-            ls$residencia/obidos
-            rel$parentesco/marido/maria luzia/b1794-1-referida
+            referido$joaquim da silva/id=b1794-1-per4
+               ls$residencia/obidos
+               rel$parentesco/marido/maria luzia/b1794-1-referida
 
-         pad1$joao jose de freitas/id=b1794-1-per5
-            rel$parentesco/filho/nome desconhecido/b1794-1-referido
+            pad1$joao jose de freitas/id=b1794-1-per5
+               rel$parentesco/filho/nome desconhecido/b1794-1-referido
 
-         referido$nome desconhecido/id=b1794-1-referido
-            ls$cargo/procurador do concelho
+            referido$nome desconhecido/id=b1794-1-referido
+               ls$cargo/procurador do concelho
 
       bap$b1794-2/19/1/1794/fl.65/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
          n$francisco/m/id=b1794-2-per1
             ls$datanasc/17940108
 
-         pn$anacleto dos santos/id=b1794-2-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
-            ls$naturalidade/rolica
+            pn$anacleto dos santos/id=b1794-2-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+               ls$naturalidade/rolica
 
-         mn$anastacia joaquina/id=b1794-2-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao nicolau, de alfama, lisboa
-            ls$loccasamento/freguesia de senhora da graca da abrigada
+            mn$anastacia joaquina/id=b1794-2-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao nicolau, de alfama, lisboa
+               ls$loccasamento/freguesia de senhora da graca da abrigada
 
-         pad1$manuel correia valente/id=b1794-2-per4
-            ls$titulo/clerigo de ordens menores/obs=clerigo in minoribus
-            ls$bispado/leiria
+            pad1$manuel correia valente/id=b1794-2-per4
+               ls$titulo/clerigo de ordens menores/obs=clerigo in minoribus
+               ls$bispado/leiria
 
-         mad1$senhora da piedade/id=b1794-2-per5
+            mad1$senhora da piedade/id=b1794-2-per5
 
-         procurador-mad1$manuel dos santos ferreiro/obs=tocou com a coroa da senhora da piedade/id=b1794-2-per6
-            ls$cargo/tesoureiro
+            procurador-mad1$manuel dos santos ferreiro/obs=tocou com a coroa da senhora da piedade/id=b1794-2-per6
+               ls$cargo/tesoureiro
 
       bap$b1794-3/9/2/1794/fl.65v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -57,75 +57,75 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/usseira
             ls$datanasc/17940115
 
-         pn$carlos da silva/id=b1794-3-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia da senhora da purificacao, rolica
-            ls$naturalidade/rolica
+            pn$carlos da silva/id=b1794-3-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia da senhora da purificacao, rolica
+               ls$naturalidade/rolica
 
-         ppn$antonio martins/id=b1794-3-per3
-            ls$residencia/rolica
+               ppn$antonio martins/id=b1794-3-per3
+                  ls$residencia/rolica
 
-         mpn$maria da silva/id=b1794-3-per4
-            ls$residencia/rolica
+               mpn$maria da silva/id=b1794-3-per4
+                  ls$residencia/rolica
 
-         mn$micaela de jesus/id=b1794-3-per5
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$micaela de jesus/id=b1794-3-per5
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pmn$manuel da silva/id=b1794-3-per6
-            ls$residencia/usseira
+               pmn$manuel da silva/id=b1794-3-per6
+                  ls$residencia/usseira
 
-         mmn$maria de andrade/id=b1794-3-per7
-            ls$residencia/usseira
+               mmn$maria de andrade/id=b1794-3-per7
+                  ls$residencia/usseira
 
-         pad1$antonio joaquim/id=b1794-3-per8
-            ls$residencia/a da gorda
+            pad1$antonio joaquim/id=b1794-3-per8
+               ls$residencia/a da gorda
 
-         mad1$maria joana/id=b1794-3-per9
-            ls$residencia/usseira
+            mad1$maria joana/id=b1794-3-per9
+               ls$residencia/usseira
 
-         pmad1$leandro gomes/id=b1794-3-per10
-            ls$residencia/usseira
+               pmad1$leandro gomes/id=b1794-3-per10
+                  ls$residencia/usseira
 
       bap$b1794-4/11/2/1794/fl.65v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
          n$maria/f/id=b1794-4-per1
             ls$datanasc/17940203
 
-         pn$francisco dos santos/id=b1794-4-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia da senhora do amparo, mira
-            ls$bispado/leiria
+            pn$francisco dos santos/id=b1794-4-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia da senhora do amparo, mira
+               ls$bispado/leiria
 
-         ppn$manuel francisco pimenteira/id=b1794-4-per3
-            ls$naturalidade/mira
+               ppn$manuel francisco pimenteira/id=b1794-4-per3
+                  ls$naturalidade/mira
 
-         mpn$teresa maria de jesus/id=b1794-4-per4
-            ls$naturalidade/mira
+               mpn$teresa maria de jesus/id=b1794-4-per4
+                  ls$naturalidade/mira
 
-         mn$rosa maria/id=b1794-4-per5
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao tiago
-            ls$loccasamento/freguesia de sao pedro
+            mn$rosa maria/id=b1794-4-per5
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao tiago
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$antonio de oliveira/id=b1794-4-per6
-            ls$naturalidade/nadadouro, freguesia de sao tiago
+               pmn$antonio de oliveira/id=b1794-4-per6
+                  ls$naturalidade/nadadouro, freguesia de sao tiago
 
-         mmn$teresa maria/id=b1794-4-per7
-            ls$naturalidade/nadadouro, freguesia de sao tiago
+               mmn$teresa maria/id=b1794-4-per7
+                  ls$naturalidade/nadadouro, freguesia de sao tiago
 
-         pad1$mateus goncalves dos santos/id=b1794-4-per8
-            ls$residencia/lisboa
+            pad1$mateus goncalves dos santos/id=b1794-4-per8
+               ls$residencia/lisboa
 
-         procurador-pad1$antonio pedro constantino moreira/id=b1794-4-per9
+            procurador-pad1$antonio pedro constantino moreira/id=b1794-4-per9
 
-         mad1$senhora do carmo/id=b1794-4-per10
+            mad1$senhora do carmo/id=b1794-4-per10
 
-         procurador-mad1$joao crisostomo/obs=tocou com a coroa da senhora do carmo/id=b1794-4-per11
-            ls$residencia/obidos
+            procurador-mad1$joao crisostomo/obs=tocou com a coroa da senhora do carmo/id=b1794-4-per11
+               ls$residencia/obidos
 
       bap$b1794-5/16/2/1794/fl.66/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -133,36 +133,36 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/casal das caxinas
             ls$datanasc/17940205
 
-         pn$joaquim manuel/id=b1794-5-per2
-            ls$residencia/casal das caxinas
-            ls$naturalidade/igreja de sao pedro
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/igreja de sao pedro
+            pn$joaquim manuel/id=b1794-5-per2
+               ls$residencia/casal das caxinas
+               ls$naturalidade/igreja de sao pedro
+               ls$locbaptismo/igreja de sao pedro
+               ls$loccasamento/igreja de sao pedro
 
-         ppn$joaquim manuel/id=b1794-5-per3
-            ls$residencia/casal do pinheiro
+               ppn$joaquim manuel/id=b1794-5-per3
+                  ls$residencia/casal do pinheiro
 
-         mpn$ines maria/id=b1794-5-per4
-            ls$residencia/casal do pinheiro
+               mpn$ines maria/id=b1794-5-per4
+                  ls$residencia/casal do pinheiro
 
-         mn$maria do nascimento/id=b1794-5-per5
-            ls$residencia/casal das caxinas
-            ls$naturalidade/igreja de sao pedro
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/igreja de sao pedro
+            mn$maria do nascimento/id=b1794-5-per5
+               ls$residencia/casal das caxinas
+               ls$naturalidade/igreja de sao pedro
+               ls$locbaptismo/igreja de sao pedro
+               ls$loccasamento/igreja de sao pedro
 
-         pmn$joao ribeiro/id=b1794-5-per6
-            ls$residencia/casal das caxinas
+               pmn$joao ribeiro/id=b1794-5-per6
+                  ls$residencia/casal das caxinas
 
-         mmn$eugenia maria/id=b1794-5-per7
-            ls$residencia/casal das caxinas
+               mmn$eugenia maria/id=b1794-5-per7
+                  ls$residencia/casal das caxinas
 
-         pad1$joaquim antonio de sequeira/id=b1794-5-per8
+            pad1$joaquim antonio de sequeira/id=b1794-5-per8
 
-         mad1$senhora da piedade/id=b1794-5-per9
+            mad1$senhora da piedade/id=b1794-5-per9
 
-         procurador-mad1$joao crisostomo/obs=tocou com a coroa da senhora da piedade/id=b1794-5-per10
-            ls$residencia/obidos
+            procurador-mad1$joao crisostomo/obs=tocou com a coroa da senhora da piedade/id=b1794-5-per10
+               ls$residencia/obidos
 
       bap$b1794-6/26/2/1794/fl.66/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -174,21 +174,21 @@ kleio$gacto.str/prefix=spedro
                ls$cargo/beneficiado
                rel$sociabilidade/baptizou sub conditione/maria/b1794-6-n
 
-         pn$nome desconhecido/id=b1794-6-per2
+            pn$nome desconhecido/id=b1794-6-per2
 
-         mn$nome desconhecido/id=b1794-6-per3
+            mn$nome desconhecido/id=b1794-6-per3
 
-         referido$joaquim pereira/id=b1794-6-per4
-            ls$residencia/rabaceira
-            rel$sociabilidade/achou a crianca/maria/b1794-6-n
-            rel$parentesco/marido/teodora maria/b1794-6-referida
+            referido$joaquim pereira/id=b1794-6-per4
+               ls$residencia/rabaceira
+               rel$sociabilidade/achou a crianca/maria/b1794-6-n
+               rel$parentesco/marido/teodora maria/b1794-6-referida
 
-         referida$teodora maria/id=b1794-6-referida
-            ls$residencia/rabaceira
-            rel$sociabilidade/ama/maria/b1794-6-n
+            referida$teodora maria/id=b1794-6-referida
+               ls$residencia/rabaceira
+               rel$sociabilidade/ama/maria/b1794-6-n
 
-         pad1$manuel correia valente/id=b1794-6-per5
-            ls$titulo/clerigo de ordens menores/obs=clerigo in minoribus
+            pad1$manuel correia valente/id=b1794-6-per5
+               ls$titulo/clerigo de ordens menores/obs=clerigo in minoribus
 
       bap$b1794-7/28/2/1794/fl.66-66v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -196,43 +196,43 @@ kleio$gacto.str/prefix=spedro
             ls$datanasc/17940125
             ls$residencia/obidos
 
-         pn$joao pedro craveiro baptista/id=b1794-7-per2
-            ls$cargo/capitao
-            ls$residencia/obidos
-            ls$naturalidade/caldas
-            ls$locbaptismo/freguesia de nossa senhora do populo
+            pn$joao pedro craveiro baptista/id=b1794-7-per2
+               ls$cargo/capitao
+               ls$residencia/obidos
+               ls$naturalidade/caldas
+               ls$locbaptismo/freguesia de nossa senhora do populo
 
-         ppn$joao baptista quaresma/id=b1794-7-per3
-            ls$residencia/caldas
+               ppn$joao baptista quaresma/id=b1794-7-per3
+                  ls$residencia/caldas
 
-         mpn$josefa craveira/id=b1794-7-per4
-            ls$naturalidade/caldas
+               mpn$josefa craveira/id=b1794-7-per4
+                  ls$naturalidade/caldas
 
-         mn$matilde vicencia francisca maria cecoli/id=b1794-7-per5
-            ls$residencia/dona
-            ls$residencia/obidos
-            ls$naturalidade/roma
-            ls$nacionalidade/italia
-            ls$locbaptismo/freguesia de sao marcos, roma
+            mn$matilde vicencia francisca maria cecoli/id=b1794-7-per5
+               ls$residencia/dona
+               ls$residencia/obidos
+               ls$naturalidade/roma
+               ls$nacionalidade/italia
+               ls$locbaptismo/freguesia de sao marcos, roma
 
-         pmn$joao baptista cecoli/id=b1794-7-per6
-            ls$naturalidade/roma
-            ls$nacionalidade/italia
+               pmn$joao baptista cecoli/id=b1794-7-per6
+                  ls$naturalidade/roma
+                  ls$nacionalidade/italia
 
-         mmn$maria agostinha/id=b1794-7-per7
-            ls$titulo/dona
-            ls$naturalidade/roma
-            ls$nacionalidade/italia
+               mmn$maria agostinha/id=b1794-7-per7
+                  ls$titulo/dona
+                  ls$naturalidade/roma
+                  ls$nacionalidade/italia
 
-         pad1$jose maria de lacerda castelo branco/id=b1794-7-per8
-            ls$titulo/ilustrissimo
+            pad1$jose maria de lacerda castelo branco/id=b1794-7-per8
+               ls$titulo/ilustrissimo
 
-         mad1$joana rita de lacerda castelo branco/id=b1794-7-per9
-            ls$titulo/dona
+            mad1$joana rita de lacerda castelo branco/id=b1794-7-per9
+               ls$titulo/dona
 
-         procurador-mad1$jose da silva e abreu/id=b1794-7-per10
-            ls$cargo/juiz de fora de obidos
-            ls$residencia/obidos
+            procurador-mad1$jose da silva e abreu/id=b1794-7-per10
+               ls$cargo/juiz de fora de obidos
+               ls$residencia/obidos
 
       bap$b1794-8/4/3/1794/fl.66v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -244,16 +244,16 @@ kleio$gacto.str/prefix=spedro
                ls$cargo/beneficiado
                rel$sociabilidade/baptizou sub conditione/maria/b1794-8-n
 
-         pn$nome desconhecido/id=b1794-8-per2
+            pn$nome desconhecido/id=b1794-8-per2
 
-         mn$nome desconhecido/id=b1794-8-per3
+            mn$nome desconhecido/id=b1794-8-per3
 
-         pad1$filipe de freitas e paiva/id=b1794-8-per4
-            ls$cargo/procurador
+            pad1$filipe de freitas e paiva/id=b1794-8-per4
+               ls$cargo/procurador
 
-         referido$antonio vicente/id=b1794-8-per5
-            ls$residencia/sao bartolomeu
-            rel$sociabilidade/achou a crianca/maria/b1794-8-n
+            referido$antonio vicente/id=b1794-8-per5
+               ls$residencia/sao bartolomeu
+               rel$sociabilidade/achou a crianca/maria/b1794-8-n
 
       bap$b1794-9/8/4/1794/fl.67/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -261,66 +261,66 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/obidos
             ls$datanasc/17940312
 
-         pn$francisco manuel gomes da silveira malhao/id=b1794-9-per1
-            ls$titulo/bacharel
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/igreja de sao pedro
+            pn$francisco manuel gomes da silveira malhao/id=b1794-9-per1
+               ls$titulo/bacharel
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/igreja de sao pedro
 
-         ppn$agostinho gomes da silveira/id=b1794-9-per2
-            ls$titulo/bacharel
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/igreja de sao pedro
-            ls$naturalidade/obidos
+               ppn$agostinho gomes da silveira/id=b1794-9-per2
+                  ls$titulo/bacharel
+                  ls$locbaptismo/igreja de sao pedro
+                  ls$loccasamento/igreja de sao pedro
+                  ls$naturalidade/obidos
 
-         mpn$maria da conceicao dinis/id=b1794-9-per3
-            ls$titulo/dona
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/igreja de sao pedro
-            ls$naturalidade/obidos
+               mpn$maria da conceicao dinis/id=b1794-9-per3
+                  ls$titulo/dona
+                  ls$locbaptismo/igreja de sao pedro
+                  ls$loccasamento/igreja de sao pedro
+                  ls$naturalidade/obidos
 
-         mn$josefa margarida de oliveira e gama/id=b1794-9-per4
-            ls$titulo/dona
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia de sao sebastiao, rio de janeiro
-            ls$nacionalidade/brasil
+            mn$josefa margarida de oliveira e gama/id=b1794-9-per4
+               ls$titulo/dona
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia de sao sebastiao, rio de janeiro
+               ls$nacionalidade/brasil
 
-         pmn$miguel ribeiro da cruz/id=b1794-9-per5
-            ls$cargo/desembargador
-            ls$naturalidade/ilhas
-            ls$loccasamento/freguesia de sao pedro
+               pmn$miguel ribeiro da cruz/id=b1794-9-per5
+                  ls$cargo/desembargador
+                  ls$naturalidade/ilhas
+                  ls$loccasamento/freguesia de sao pedro
 
-         mmn$maria casimira angelica de oliveira/id=b1794-9-per6
-            ls$titulo/dona
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mmn$maria casimira angelica de oliveira/id=b1794-9-per6
+                  ls$titulo/dona
+                  ls$naturalidade/obidos
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         referido$manuel leonardo da silveira/id=b1794-9-per7
-            ls$profissao/padre
-            rel$sociabilidade/baptizou em necessidade/francisco/b1794-9-n
-            rel$parentesco/tio/francisco/b1794-9-n
+            referido$manuel leonardo da silveira/id=b1794-9-per7
+               ls$profissao/padre
+               rel$sociabilidade/baptizou em necessidade/francisco/b1794-9-n
+               rel$parentesco/tio/francisco/b1794-9-n
 
-         pad1$francisco rafael de castro/id=b1794-9-per8
-            ls$titulo/dom
-            ls$cargo/principal da santa igreja patriarcal
+            pad1$francisco rafael de castro/id=b1794-9-per8
+               ls$titulo/dom
+               ls$cargo/principal da santa igreja patriarcal
 
-         procurador-pad1$jose da silva do nascimento/id=b1794-9-per9
-            ls$titulo/doutor
-            ls$residencia/obidos
+            procurador-pad1$jose da silva do nascimento/id=b1794-9-per9
+               ls$titulo/doutor
+               ls$residencia/obidos
 
-         mad1$catarina de sousa/id=b1794-9-per10
-            ls$titulo/dona
-            rel$parentesco/mulher/luis pinto balsemao/b1794-9-referido
+            mad1$catarina de sousa/id=b1794-9-per10
+               ls$titulo/dona
+               rel$parentesco/mulher/luis pinto balsemao/b1794-9-referido
 
-         referido$luis pinto balsemao/id=b1794-9-referido
-            ls$cargo/secretario de estado
+            referido$luis pinto balsemao/id=b1794-9-referido
+               ls$cargo/secretario de estado
 
-         procurador-mad1$jose da silva e abreu/id=b1794-9-per11
-            ls$residencia/obidos
-            ls$cargo/juiz de fora de obidos
-            ls$titulo/doutor
+            procurador-mad1$jose da silva e abreu/id=b1794-9-per11
+               ls$residencia/obidos
+               ls$cargo/juiz de fora de obidos
+               ls$titulo/doutor
 
       bap$b1794-10/8/4/1794/fl.67v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -328,43 +328,43 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/usseira
             ls$datanasc/17940308
 
-         pn$filipe de freitas e paiva/id=b1794-10-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de santa maria
+            pn$filipe de freitas e paiva/id=b1794-10-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de santa maria
 
-         ppn$francisco de sousa/id=b1794-10-per3
-            ls$naturalidade/obidos
+               ppn$francisco de sousa/id=b1794-10-per3
+                  ls$naturalidade/obidos
 
-         mpn$maria de freitas/id=b1794-10-per4
-            ls$naturalidade/obidos
+               mpn$maria de freitas/id=b1794-10-per4
+                  ls$naturalidade/obidos
 
-         mn$maria margarida justiniana da serra/id=b1794-10-per5
-            ls$titulo/dona
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria margarida justiniana da serra/id=b1794-10-per5
+               ls$titulo/dona
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pmn$jose joaquim henriques/id=b1794-10-per6
-            ls$titulo/doutor
-            ls$locbaptismo/freguesia de sao pedro
+               pmn$jose joaquim henriques/id=b1794-10-per6
+                  ls$titulo/doutor
+                  ls$locbaptismo/freguesia de sao pedro
 
-         mmn$maria do carmo/id=b1794-10-per7
-            ls$residencia/obidos
-            ls$titulo/dona
-            ls$locbaptismo/freguesia de sao pedro
+               mmn$maria do carmo/id=b1794-10-per7
+                  ls$residencia/obidos
+                  ls$titulo/dona
+                  ls$locbaptismo/freguesia de sao pedro
 
-         pad1$joao antonio do rego cardoso/id=b1794-10-per8
-            ls$residencia/xea do sapo, termo do cadaval/obs=duvida na leitura da residencia
+            pad1$joao antonio do rego cardoso/id=b1794-10-per8
+               ls$residencia/xea do sapo, termo do cadaval/obs=duvida na leitura da residencia
 
-         procurador-pad1$raimundo nonato jose furtado%raimudo nonnato joze furtado/id=b1794-10-per9
-            ls$profissao/padre
+            procurador-pad1$raimundo nonato jose furtado%raimudo nonnato joze furtado/id=b1794-10-per9
+               ls$profissao/padre
 
-         mad1$maria antonia/id=b1794-10-per10
-            ls$residencia/obidos
+            mad1$maria antonia/id=b1794-10-per10
+               ls$residencia/obidos
 
-         procurador-mad1$pedro cordeiro de sequeira/id=b1794-10-per11
-            ls$residencia/obidos
+            procurador-mad1$pedro cordeiro de sequeira/id=b1794-10-per11
+               ls$residencia/obidos
 
       bap$b1794-11/11/5/1794/fl.67v.-68/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -381,45 +381,45 @@ kleio$gacto.str/prefix=spedro
                ls$profissao/parteira
                rel$sociabilidade/baptizou em necessidade/jose/b1794-11-n
 
-         pn$francisco januario/id=b1794-11-per3
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/igreja de sao pedro
-            ls$residencia/obidos
+            pn$francisco januario/id=b1794-11-per3
+               ls$locbaptismo/igreja de sao pedro
+               ls$loccasamento/igreja de sao pedro
+               ls$residencia/obidos
 
-         ppn$antonio francisco/id=b1794-11-per4
-            ls$naturalidade/torres vedras
-            ls$locbaptismo/torres vedras, freguesia de sao pedro da cadeira
-            ls$loccasamento/freguesia de sao pedro
+               ppn$antonio francisco/id=b1794-11-per4
+                  ls$naturalidade/torres vedras
+                  ls$locbaptismo/torres vedras, freguesia de sao pedro da cadeira
+                  ls$loccasamento/freguesia de sao pedro
 
-         mpn$antonia maria/id=b1794-11-per5
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mpn$antonia maria/id=b1794-11-per5
+                  ls$naturalidade/obidos
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         mn$maria da piedade/id=b1794-11-per6
-            ls$residencia/obidos
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/igreja de sao pedro
+            mn$maria da piedade/id=b1794-11-per6
+               ls$residencia/obidos
+               ls$locbaptismo/igreja de sao pedro
+               ls$loccasamento/igreja de sao pedro
 
-         pmn$teodoro correia/id=b1794-11-per7
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
+               pmn$teodoro correia/id=b1794-11-per7
+                  ls$naturalidade/obidos
+                  ls$locbaptismo/freguesia de sao pedro
 
-         mmn$maria rosa/id=b1794-11-per8
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao tiago
+               mmn$maria rosa/id=b1794-11-per8
+                  ls$naturalidade/obidos
+                  ls$locbaptismo/freguesia de sao tiago
 
-         pad1$pedro cordeiro de sequeira/id=b1794-11-per9
-            ls$residencia/obidos
+            pad1$pedro cordeiro de sequeira/id=b1794-11-per9
+               ls$residencia/obidos
 
-         mad1$dionisio antonia/id=b1794-11-per10
-            ls$residencia/obidos
+            mad1$dionisio antonia/id=b1794-11-per10
+               ls$residencia/obidos
 
-         mrmad1$manuel francisco/id=b1794-11-mrmad
-            ls$residencia/obidos
+               mrmad1$manuel francisco/id=b1794-11-mrmad
+                  ls$residencia/obidos
 
-         procurador-mad1$manuel farncisco/mesmo_que=b1794-11-mrmad/id=b1794-11-per11
-            ls$residencia/obidos
+            procurador-mad1$manuel farncisco/mesmo_que=b1794-11-mrmad/id=b1794-11-per11
+               ls$residencia/obidos
 
       bap$b1794-12/12/5/1794/fl.68/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -427,36 +427,36 @@ kleio$gacto.str/prefix=spedro
             ls$datanasc/17940428
             ls$residencia/pinhal
 
-         pn$antonio lourenco/id=b1794-12-per1
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/serra do bouro, freguesia da senhora dos martires
+            pn$antonio lourenco/id=b1794-12-per1
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/serra do bouro, freguesia da senhora dos martires
 
-         ppn$lourenco pereira/id=b1794-12-per2
-            ls$naturalidade/serra do bouro
+               ppn$lourenco pereira/id=b1794-12-per2
+                  ls$naturalidade/serra do bouro
 
-         mpn$monica maria/id=b1794-12-per3
-            ls$naturalidade/serra do bouro
+               mpn$monica maria/id=b1794-12-per3
+                  ls$naturalidade/serra do bouro
 
-         mn$maria teodora/id=b1794-12-per4
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria teodora/id=b1794-12-per4
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pmn$joaquim francisco/id=b1794-12-per5
-            ls$naturalidade/pinhal
+               pmn$joaquim francisco/id=b1794-12-per5
+                  ls$naturalidade/pinhal
 
-         mmn$teodora teresa/id=b1794-12-per6
-            ls$naturalidade/pinhal
+               mmn$teodora teresa/id=b1794-12-per6
+                  ls$naturalidade/pinhal
 
-         pad1$joao antonio/id=b1794-12-per7
-            rel$parentesco/tio/francisco/b1794-12-n
+            pad1$joao antonio/id=b1794-12-per7
+               rel$parentesco/tio/francisco/b1794-12-n
 
-         mad1$rosa maria/id=b1794-12-per8
-            ls$residencia/pinhal
+            mad1$rosa maria/id=b1794-12-per8
+               ls$residencia/pinhal
 
-         mrmad1$sebastiao jose/id=b1794-12-per9
-            ls$residencia/pinhal
+               mrmad1$sebastiao jose/id=b1794-12-per9
+                  ls$residencia/pinhal
 
       bap$b1794-13/12/6/1794/fl.68-68v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -464,36 +464,36 @@ kleio$gacto.str/prefix=spedro
             ls$datanasc/17940528
             ls$residencia/camarnaes
 
-         pn$francisco rodrigues/id=b1794-13-per1
-            ls$residencia/camarnaes
-            ls$locbaptismo/freguesia de sao joao do mocharro
-            ls$loccasamento/a dos negros, freguesia de santa maria madalena
+            pn$francisco rodrigues/id=b1794-13-per1
+               ls$residencia/camarnaes
+               ls$locbaptismo/freguesia de sao joao do mocharro
+               ls$loccasamento/a dos negros, freguesia de santa maria madalena
 
-         ppn$sebastiao rodrigues/id=b1794-13-per2
-            ls$residencia/a dos negros
+               ppn$sebastiao rodrigues/id=b1794-13-per2
+                  ls$residencia/a dos negros
 
-         mpn$brisida maria/id=b1794-13-per3
-            ls$residencia/a dos negros
+               mpn$brisida maria/id=b1794-13-per3
+                  ls$residencia/a dos negros
 
-         mn$brisida maria de oliveira/id=b1794-13-per4
-            ls$residencia/camarnaes
-            ls$locbaptismo/a dos negros, freguesia de santa maria madalena
-            ls$loccasamento/a dos negros, freguesia de santa maria madalena
+            mn$brisida maria de oliveira/id=b1794-13-per4
+               ls$residencia/camarnaes
+               ls$locbaptismo/a dos negros, freguesia de santa maria madalena
+               ls$loccasamento/a dos negros, freguesia de santa maria madalena
 
-         pmn$manuel pereira/id=b1794-13-per5
-            ls$residencia/casal do grilo, freguesia de a dos negros
+               pmn$manuel pereira/id=b1794-13-per5
+                  ls$residencia/casal do grilo, freguesia de a dos negros
 
-         mmn$maria de oliveira/id=b1794-13-per6
-            ls$residencia/casal do grilo, freguesia de a dos negros
+               mmn$maria de oliveira/id=b1794-13-per6
+                  ls$residencia/casal do grilo, freguesia de a dos negros
 
-         pad1$antonio rodrigues/id=b1794-13-per7
-            rel$parentesco/tio/joaquim/b1794-13-n
+            pad1$antonio rodrigues/id=b1794-13-per7
+               rel$parentesco/tio/joaquim/b1794-13-n
 
-         mad1$antonia maria/id=b1794-13-per8
-            ls$residencia/a dos negros
+            mad1$antonia maria/id=b1794-13-per8
+               ls$residencia/a dos negros
 
-         pmad1$antonio pereira/id=b1794-13-per9
-            ls$residencia/a dos negros
+               pmad1$antonio pereira/id=b1794-13-per9
+                  ls$residencia/a dos negros
 
       bap$b1794-14/12/10/1794/fl.68v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -501,35 +501,35 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/usseira
             ls$datanasc/17941001
 
-         pn$antonio gomes/id=b1794-14-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de santa maria
+            pn$antonio gomes/id=b1794-14-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de santa maria
 
-         ppn$manuel gomes/id=b1794-14-per3
-            ls$locbaptismo/igreja de santa maria
-            ls$loccasamento/igreja de santa maria
+               ppn$manuel gomes/id=b1794-14-per3
+                  ls$locbaptismo/igreja de santa maria
+                  ls$loccasamento/igreja de santa maria
 
-         mpn$joaquina teresa/id=b1794-14-per4
-            ls$locbaptismo/igreja de santa maria
-            ls$loccasamento/igreja de santa maria
+               mpn$joaquina teresa/id=b1794-14-per4
+                  ls$locbaptismo/igreja de santa maria
+                  ls$loccasamento/igreja de santa maria
 
-         mn$gertrudes maria/id=b1794-14-per5
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$gertrudes maria/id=b1794-14-per5
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pmn$antonio marques/id=b1794-14-per6
-            ls$residencia/usseira
+               pmn$antonio marques/id=b1794-14-per6
+                  ls$residencia/usseira
 
-         mmn$joana maria/id=b1794-14-per7
-            ls$residencia/usseira
+               mmn$joana maria/id=b1794-14-per7
+                  ls$residencia/usseira
 
-         pad1$jose inacio/id=b1794-14-per8
-            ls$residencia/usseira
+            pad1$jose inacio/id=b1794-14-per8
+               ls$residencia/usseira
 
-         mad1$ana joaquina/id=b1794-14-per9
-            ls$residencia/casal branco
+            mad1$ana joaquina/id=b1794-14-per9
+               ls$residencia/casal branco
 
       bap$b1794-15/15/10/1794/fl.69/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -537,39 +537,39 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/obidos
             ls$datanasc/17940928
 
-         pn$manuel antonio da costa/id=b1794-15-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao martinho, vila de triscainha/obs=termo de barcelos
-            ls$naturalidade/freguesia de sao martinho, vila de triscainha/obs=termo de barcelos
+            pn$manuel antonio da costa/id=b1794-15-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao martinho, vila de triscainha/obs=termo de barcelos
+               ls$naturalidade/freguesia de sao martinho, vila de triscainha/obs=termo de barcelos
 
-         ppn$jose lopes/id=b1794-15-per3
+               ppn$jose lopes/id=b1794-15-per3
 
-         mpn$joana maria/id=b1794-15-per4
+               mpn$joana maria/id=b1794-15-per4
 
-         mn$josefa joaquina/id=b1794-15-per5
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$josefa joaquina/id=b1794-15-per5
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pmn$antonio da costa/id=b1794-15-per6
-            ls$naturalidade/a dos negros
-            ls$locbaptismo/freguesia de santa maria madalena
-            ls$loccasamento/igreja de sao pedro
+               pmn$antonio da costa/id=b1794-15-per6
+                  ls$naturalidade/a dos negros
+                  ls$locbaptismo/freguesia de santa maria madalena
+                  ls$loccasamento/igreja de sao pedro
 
-         mmn$maria teresa/id=b1794-15-per7
-            ls$naturalidade/pinhal
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/igreja de sao pedro
+               mmn$maria teresa/id=b1794-15-per7
+                  ls$naturalidade/pinhal
+                  ls$locbaptismo/igreja de sao pedro
+                  ls$loccasamento/igreja de sao pedro
 
-         pad1$joaquim antonio de carvalho e campos/id=b1794-15-per8
-            ls$residencia/obidos
+            pad1$joaquim antonio de carvalho e campos/id=b1794-15-per8
+               ls$residencia/obidos
 
-         mad1$senhora da piedade/id=b1794-15-per9
+            mad1$senhora da piedade/id=b1794-15-per9
 
-         procurador-mad1$joaquim antonio de sequeira/obs=tocou com a coroa da senhora da piedade/id=b1794-15-per10
-            ls$cargo/tesoureiro de santa maria
-            ls$residencia/obidos
+            procurador-mad1$joaquim antonio de sequeira/obs=tocou com a coroa da senhora da piedade/id=b1794-15-per10
+               ls$cargo/tesoureiro de santa maria
+               ls$residencia/obidos
 
       bap$b1794-16/21/10/1794/fl.69-69v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -577,45 +577,45 @@ kleio$gacto.str/prefix=spedro
             ls$datanasc/17941006
             ls$residencia/obidos
 
-         pn$jose henriques da costa/id=b1794-16-per2
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$jose henriques da costa/id=b1794-16-per2
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$manuel henriques/id=b1794-16-per3
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/lisboa, freguesia de sao nicolau,
+               ppn$manuel henriques/id=b1794-16-per3
+                  ls$residencia/obidos
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/lisboa, freguesia de sao nicolau,
 
-         mpn$teresa de jesus/id=b1794-16-per4
-            ls$residencia/obidos
-            ls$locbaptismo/lisboa, freguesia de sao nicolau
-            ls$loccasamento/lisboa, freguesia de sao nicolau
+               mpn$teresa de jesus/id=b1794-16-per4
+                  ls$residencia/obidos
+                  ls$locbaptismo/lisboa, freguesia de sao nicolau
+                  ls$loccasamento/lisboa, freguesia de sao nicolau
 
-         mn$genoveva maria do rosario/id=b1794-16-per5
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$genoveva maria do rosario/id=b1794-16-per5
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$joao gomes da costa/id=b1794-16-per6
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               pmn$joao gomes da costa/id=b1794-16-per6
+                  ls$residencia/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         mmn$joaquina maria/id=b1794-16-per7
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mmn$joaquina maria/id=b1794-16-per7
+                  ls$residencia/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         pad1$jose craveiro da silva mattoso/id=b1794-16-pad
+            pad1$jose craveiro da silva mattoso/id=b1794-16-pad
 
-         mad1$antonia maria benedita de carvalho e melo/id=b1794-16-mad
-            ls$titulo/dona
-            rel$parentesco/filha/jose craveiro da silva mattoso/b1794-16-pad
+            mad1$antonia maria benedita de carvalho e melo/id=b1794-16-mad
+               ls$titulo/dona
+               rel$parentesco/filha/jose craveiro da silva mattoso/b1794-16-pad
 
-         procurador-mad1$francisco craveiro da silva mattoso/id=b1794-16-per8
-            rel$parentesco/tio/antonia maria benedita de carvalho e melo/b1794-16-mad
-            ls$profissao/padre
+            procurador-mad1$francisco craveiro da silva mattoso/id=b1794-16-per8
+               rel$parentesco/tio/antonia maria benedita de carvalho e melo/b1794-16-mad
+               ls$profissao/padre
 
       bap$b1794-17/26/10/1794/fl.69v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -632,35 +632,35 @@ kleio$gacto.str/prefix=spedro
                ls$profissao/parteira
                rel$sociabilidade/baptizou em necessidade/gertrudes/b1794-17-n
 
-         pn$francisco jose/id=b1794-17-per3
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$naturalidade/lisboa
-            ls$locbaptismo/freguesia de santa isabel
+            pn$francisco jose/id=b1794-17-per3
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$naturalidade/lisboa
+               ls$locbaptismo/freguesia de santa isabel
 
-         ppn$antonio jose/id=b1794-17-per4
-            ls$naturalidade/lisboa
+               ppn$antonio jose/id=b1794-17-per4
+                  ls$naturalidade/lisboa
 
-         mpn$maria teresa/id=b1794-17-per5
-            ls$naturalidade/lisboa
+               mpn$maria teresa/id=b1794-17-per5
+                  ls$naturalidade/lisboa
 
-         mn$mariana rosa/id=b1794-17-per6
-            ls$enjeitada/sim/obs=filha de pais incognitos
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/rolica
+            mn$mariana rosa/id=b1794-17-per6
+               ls$enjeitada/sim/obs=filha de pais incognitos
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/rolica
 
-         pmn$nome desconhecido/id=b1794-17-per7
+               pmn$nome desconhecido/id=b1794-17-per7
 
-         mmn$nome desconhecido/id=b1794-17-per8
+               mmn$nome desconhecido/id=b1794-17-per8
 
-         pad1$rodrigo teixeira de sampaio/id=b1794-17-per9
-            ls$cargo/beneficiado
+            pad1$rodrigo teixeira de sampaio/id=b1794-17-per9
+               ls$cargo/beneficiado
 
-         mad1$senhora de aboboriz/id=b1794-17-per10
+            mad1$senhora de aboboriz/id=b1794-17-per10
 
-         procurador-mad1$joaquim antonio de carvalho e campos/obs=tocou com a coroa da senhora de aboboriz/id=b1794-17-per11
-            ls$residencia/obidos
+            procurador-mad1$joaquim antonio de carvalho e campos/obs=tocou com a coroa da senhora de aboboriz/id=b1794-17-per11
+               ls$residencia/obidos
 
       bap$b1794-18/9/11/1794/fl.69v.-70/igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -668,43 +668,43 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/usseira
             ls$datanasc/17941124
 
-         pn$manuel gomes saramago/id=b1794-18-per2
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel gomes saramago/id=b1794-18-per2
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$joao gomes saramago/id=b1794-18-per3
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro do carvalhal
+               ppn$joao gomes saramago/id=b1794-18-per3
+                  ls$naturalidade/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro do carvalhal
 
-         mpn$maria ferreira/id=b1794-18-per4
-            ls$naturalidade/bairro do lobo
-            ls$locbaptismo/freguesia de sao pedro do carvalhal
-            ls$loccasamento/freguesia de sao pedro do carvalhal
+               mpn$maria ferreira/id=b1794-18-per4
+                  ls$naturalidade/bairro do lobo
+                  ls$locbaptismo/freguesia de sao pedro do carvalhal
+                  ls$loccasamento/freguesia de sao pedro do carvalhal
 
-         mn$eugenia maria/id=b1794-18-per5
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$eugenia maria/id=b1794-18-per5
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$manuel gomes/id=b1794-18-per6
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               pmn$manuel gomes/id=b1794-18-per6
+                  ls$residencia/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         mmn$maria baptista/id=b1794-18-per7
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mmn$maria baptista/id=b1794-18-per7
+                  ls$residencia/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         pad1$joao antonio vieira/id=b1794-18-per8
-            ls$profissao/mercador
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$joao antonio vieira/id=b1794-18-per8
+               ls$profissao/mercador
+               ls$residencia/obidos, freguesia de sao pedro
 
-         procurador-pad1$francisco de paula manzoni/id=b1794-18-per9
-            ls$cargo/sargento mor
-            ls$residencia/freguesia de sao pedro
+            procurador-pad1$francisco de paula manzoni/id=b1794-18-per9
+               ls$cargo/sargento mor
+               ls$residencia/freguesia de sao pedro
 
       bap$b1794-19/16/11/1794/fl.70-70v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -720,44 +720,44 @@ kleio$gacto.str/prefix=spedro
                ls$profissao/parteira
                rel$sociabilidade/baptizou em necessidade/joaquim/b1794-19-n
 
-         pn$antonio gomes crespim/id=b1794-19-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/rolica, freguesia da purificacao
-            ls$naturalidade/sao mamede
+            pn$antonio gomes crespim/id=b1794-19-per3
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/rolica, freguesia da purificacao
+               ls$naturalidade/sao mamede
 
-         ppn$crespim gomes/id=b1794-19-per4
-            ls$naturalidade/sao mamede da ventosa/obs=termo de torres vedras
-            ls$locbaptismo/freguesia de sao mamede da ventosa/obs=termo de torres vedras
-            ls$loccasamento/freguesia da rolica
+               ppn$crespim gomes/id=b1794-19-per4
+                  ls$naturalidade/sao mamede da ventosa/obs=termo de torres vedras
+                  ls$locbaptismo/freguesia de sao mamede da ventosa/obs=termo de torres vedras
+                  ls$loccasamento/freguesia da rolica
 
-         mpn$joana teresa/id=b1794-19-per5
-            ls$naturalidade/freguesia da rolica
-            ls$loccasamento/freguesia da rolica
-            ls$locbaptismo/freguesia da rolica
+               mpn$joana teresa/id=b1794-19-per5
+                  ls$naturalidade/freguesia da rolica
+                  ls$loccasamento/freguesia da rolica
+                  ls$locbaptismo/freguesia da rolica
 
-         mn$joaquina maria/id=b1794-19-per6
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$joaquina maria/id=b1794-19-per6
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pmn$manuel ferreira/id=b1794-19-per7
-            ls$alcunha/o prior
-            ls$locbaptismo/freguesia de sao pedro
-            ls$naturalidade/usseira
-            ls$loccasamento/freguesia de santa maria
+               pmn$manuel ferreira/id=b1794-19-per7
+                  ls$alcunha/o prior
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$naturalidade/usseira
+                  ls$loccasamento/freguesia de santa maria
 
-         mmn$quiteria da silva/id=b1794-19-per8
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
+               mmn$quiteria da silva/id=b1794-19-per8
+                  ls$locbaptismo/freguesia de santa maria
+                  ls$loccasamento/freguesia de santa maria
 
-         pad1$valentim gomes/id=b1794-19-per9
-            rel$parentesco/tio/joaquim/b1794-19-n
-            ls$naturalidade/sao mamede
+            pad1$valentim gomes/id=b1794-19-per9
+               rel$parentesco/tio/joaquim/b1794-19-n
+               ls$naturalidade/sao mamede
 
-         mad1$escolastica rosa/id=b1794-19-per10
-            rel$parentesco/tia/joaquim/b1794-19-n
-            ls$naturalidade/sao mamede
+            mad1$escolastica rosa/id=b1794-19-per10
+               rel$parentesco/tia/joaquim/b1794-19-n
+               ls$naturalidade/sao mamede
 
       bap$b1794-20/30/11/1794/fl.70v./igreja de sao pedro/joaquim jose de matos (cura, beneficiado)/obs=assina o cura, o beneficiado joaquim jose de matos
 
@@ -765,30 +765,30 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/pinhal
             ls$datanasc/17941121
 
-         pn$francisco gomes/id=b1794-20-per2
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$francisco gomes/id=b1794-20-per2
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         ppn$manuel gomes/id=b1794-20-per3
-            ls$residencia/pinhal
+               ppn$manuel gomes/id=b1794-20-per3
+                  ls$residencia/pinhal
 
-         mpn$antonia maria/id=b1794-20-per4
-            ls$residencia/pinhal
+               mpn$antonia maria/id=b1794-20-per4
+                  ls$residencia/pinhal
 
-         mn$margarida rosa/id=b1794-20-per5
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/alfazeirao, freguesia de sao joao baptista
+            mn$margarida rosa/id=b1794-20-per5
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/alfazeirao, freguesia de sao joao baptista
 
-         pmn$jose duarte/id=b1794-20-per6
-            ls$naturalidade/alfeizerao
+               pmn$jose duarte/id=b1794-20-per6
+                  ls$naturalidade/alfeizerao
 
-         mmn$maria clara/id=b1794-20-per7
-            ls$naturalidade/alfeizerao
+               mmn$maria clara/id=b1794-20-per7
+                  ls$naturalidade/alfeizerao
 
-         pad1$francisco da costa/id=b1794-20-per8
-            ls$residencia/pinhal
+            pad1$francisco da costa/id=b1794-20-per8
+               ls$residencia/pinhal
 
-         mad1$rosa maria de sao jose/id=b1794-20-per9
-            ls$residencia/pinhal
+            mad1$rosa maria de sao jose/id=b1794-20-per9
+               ls$residencia/pinhal

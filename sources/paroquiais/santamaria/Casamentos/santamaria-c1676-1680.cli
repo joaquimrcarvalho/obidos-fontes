@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$casamentos1676-1680/localizacao-a.d.l./freguesia de santa maria
 
       cas$c1676-1/17/2/1676/fl.99/igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos. o casamento realizado as 8 horas da manhao padre enumera as testemunhas e acrescenta "e muitas mais"/obs=assina jeronimo de matoscasamento realizado as 8 horas da manha, o padre enumera as testemunhas e acrescenta "e muitas mais"
@@ -6,18 +6,18 @@ kleio$gacto.str/prefix=stmaria
          noivo$joao dias/id=c1676-1-per1
             ls$locbaptismo/freguesia de santa maria
 
-         pnoivo$joao dias%j.o dias/id=c1676-1-per2
+            pnoivo$joao dias%j.o dias/id=c1676-1-per2
 
-         mnoivo$maria francisca/id=c1676-1-per3
+            mnoivo$maria francisca/id=c1676-1-per3
 
          noiva$isabel correia/id=c1676-1-per4
             ls$locbaptismo/freguesia de santa maria
 
-         pnoiva$pedro fernandes%p.o frz/id=c1676-1-per5
-            ls$residencia/obidos
+            pnoiva$pedro fernandes%p.o frz/id=c1676-1-per5
+               ls$residencia/obidos
 
-         mnoiva$maria correia/id=c1676-1-per6
-            ls$residencia/obidos
+            mnoiva$maria correia/id=c1676-1-per6
+               ls$residencia/obidos
 
          test$bento de oliveira/id=c1676-1-per7
             ls$cargo/tesoureiro
@@ -31,21 +31,21 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/igreja de santa maria
             ls$residencia/a da gorda
 
-         pnoivo$manuel luis/id=c1676-2-per2
-            ls$residencia/a da gorda
+            pnoivo$manuel luis/id=c1676-2-per2
+               ls$residencia/a da gorda
 
-         mnoivo$maria henriques/id=c1676-2-per3
-            ls$residencia/a da gorda
+            mnoivo$maria henriques/id=c1676-2-per3
+               ls$residencia/a da gorda
 
          noiva$maria da silva/id=c1676-2-per4
             ls$residencia/a da gorda
             ls$locbaptismo/igreja de santa maria
 
-         pnoiva$domingos antunes/id=c1676-2-per5
-            ls$residencia/a da gorda
+            pnoiva$domingos antunes/id=c1676-2-per5
+               ls$residencia/a da gorda
 
-         mnoiva$maria da silva/id=c1676-2-per6
-            ls$residencia/a da gorda
+            mnoiva$maria da silva/id=c1676-2-per6
+               ls$residencia/a da gorda
 
          test$bento de oliveira/id=c1676-2-per7
             ls$cargo/tesoureiro
@@ -60,22 +60,22 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de santa maria
             ls$residencia/a da gorda
 
-         pnoivo$diogo da silva%di.o da silva/id=c1676-3-per2
-            ls$residencia/a da gorda
+            pnoivo$diogo da silva%di.o da silva/id=c1676-3-per2
+               ls$residencia/a da gorda
 
-         mnoivo$maria henriques/id=c1676-3-per3
-            ls$residencia/a da gorda
-            ls$morta/antes
+            mnoivo$maria henriques/id=c1676-3-per3
+               ls$residencia/a da gorda
+               ls$morta/antes
 
          noiva$bernarda soares/id=c1676-3-per4
             ls$residencia/a da gorda
             ls$locbaptismo/freguesia de santa maria
 
-         pnoiva$amaro francisco/id=c1676-3-per5
-            ls$residencia/a da gorda
+            pnoiva$amaro francisco/id=c1676-3-per5
+               ls$residencia/a da gorda
 
-         mnoiva$isabel soares/id=c1676-3-per6
-            ls$residencia/a da gorda
+            mnoiva$isabel soares/id=c1676-3-per6
+               ls$residencia/a da gorda
 
          test$bento de oliveira/id=c1676-3-per7
             ls$cargo/tesoureiro
@@ -93,17 +93,17 @@ kleio$gacto.str/prefix=stmaria
             mulher1$francisca da silva/id=c1677-1-per1-per2
                ls$morta/antes
 
-         pnoivo$luis gomes/id=c1677-1-per3
+            pnoivo$luis gomes/id=c1677-1-per3
 
-         mnoivo$maria de lemos/id=c1677-1-per4
+            mnoivo$maria de lemos/id=c1677-1-per4
 
          noiva$maria leal/id=c1676-1-noiva
 
-         pnoiva$bras fernandes/id=c1677-1-per5
-            ls$residencia/casais
+            pnoiva$bras fernandes/id=c1677-1-per5
+               ls$residencia/casais
 
-         mnoiva$maria leal/id=c1677-1-per6
-            ls$residencia/casais
+            mnoiva$maria leal/id=c1677-1-per6
+               ls$residencia/casais
 
          test$pedro de matos/id=c1677-1-per7
             ls$profissao/padre
@@ -116,23 +116,23 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$manuel soares/id=c1677-2-per1
 
-         pnoivo$amaro francisco/id=c1677-2-per2
-            ls$residencia/a da gorda
+            pnoivo$amaro francisco/id=c1677-2-per2
+               ls$residencia/a da gorda
 
-         mnoivo$isabel soares/id=c1677-2-per3
-            ls$morta/antes
-            ls$residencia/a da gorda
+            mnoivo$isabel soares/id=c1677-2-per3
+               ls$morta/antes
+               ls$residencia/a da gorda
 
          noiva$maria marques/id=c1677-2-per4
 
-         pnoiva$pedro marques%p.o marques/id=c1677-2-per5
-            ls$residencia/torre
-            ls$freguesia/santo antonio de salir do mato
+            pnoiva$pedro marques%p.o marques/id=c1677-2-per5
+               ls$residencia/torre
+               ls$freguesia/santo antonio de salir do mato
 
-         mnoiva$antonia vicente/id=c1677-2-per6
-            ls$morta/antes
-            ls$residencia/torre
-            ls$freguesia/santo antonio de salir do mato
+            mnoiva$antonia vicente/id=c1677-2-per6
+               ls$morta/antes
+               ls$residencia/torre
+               ls$freguesia/santo antonio de salir do mato
 
          test$bento de oliveira/id=c1677-2-per7
             ls$cargo/tesoureiro
@@ -145,21 +145,21 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$francisco fernandes/id=c1678-1-per1
 
-         pnoivo$francisco fernandes/id=c1678-1-per2
-            ls$morto/antes
-            ls$residencia/gaeiras
+            pnoivo$francisco fernandes/id=c1678-1-per2
+               ls$morto/antes
+               ls$residencia/gaeiras
 
-         mnoivo$maria francisca/id=c1678-1-per3
-            ls$residencia/gaeiras
+            mnoivo$maria francisca/id=c1678-1-per3
+               ls$residencia/gaeiras
 
          noiva$maria rebelo/id=c1678-1-per4
 
-         pnoiva$joao rebelo%j.o rebelo/id=c1678-1-per5
-            ls$residencia/arrabalde
-            ls$residencia/gaeiras
+            pnoiva$joao rebelo%j.o rebelo/id=c1678-1-per5
+               ls$residencia/arrabalde
+               ls$residencia/gaeiras
 
-         mnoiva$francisca vicente/id=c1678-1-per6
-            ls$residencia/arrabalde
+            mnoiva$francisca vicente/id=c1678-1-per6
+               ls$residencia/arrabalde
 
          test$bento de oliveira/id=c1678-1-per7
             ls$cargo/tesoureiro
@@ -172,21 +172,21 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$joao mendes%j.o mendes/obs="conforme...mandado do prelado por ser de outro bispado o contraente"/id=c1678-2-per1
 
-         pnoivo$miguel j.o%miguel j.o/id=c1678-2-per2
-            ls$naturalidade/lourical
-            ls$bispado/coimbra
+            pnoivo$miguel j.o%miguel j.o/id=c1678-2-per2
+               ls$naturalidade/lourical
+               ls$bispado/coimbra
 
-         mnoivo$paula mendes/id=c1678-2-per3
-            ls$naturalidade/lourical
-            ls$bispado/coimbra
+            mnoivo$paula mendes/id=c1678-2-per3
+               ls$naturalidade/lourical
+               ls$bispado/coimbra
 
          noiva$maria luis/id=c1678-2-per4
 
-         pnoiva$manuel pires/id=c1678-2-per5
-            ls$residencia/a da gorda
+            pnoiva$manuel pires/id=c1678-2-per5
+               ls$residencia/a da gorda
 
-         mnoiva$mariana luis/id=c1678-2-per6
-            ls$residencia/a da gorda
+            mnoiva$mariana luis/id=c1678-2-per6
+               ls$residencia/a da gorda
 
          test$joao ferreira%j.o fr.ra/id=c1678-2-per7
             ls$assina/sim
@@ -206,10 +206,10 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$maria francisca/id=c1678-3-per1-per3
 
-         pnoiva$antonio fernandes/id=c1678-3-per1-per4
+            pnoiva$antonio fernandes/id=c1678-3-per1-per4
 
-         mnoiva$domingas francisca/id=c1678-3-per1-per5
-            ls$residencia/gaeiras
+            mnoiva$domingas francisca/id=c1678-3-per1-per5
+               ls$residencia/gaeiras
 
          test$bento de oliveira/id=c1678-3-per6
             ls$cargo/tesoureiro
@@ -224,21 +224,21 @@ kleio$gacto.str/prefix=stmaria
             ls$residencia/gaeiras
             ls$locbaptismo/freguesia de santa maria
 
-         pnoivo$joao ribeiro%j.o ribr.o/id=c1678-4-per2
-            ls$residencia/gaeiras
+            pnoivo$joao ribeiro%j.o ribr.o/id=c1678-4-per2
+               ls$residencia/gaeiras
 
-         mnoivo$domingas rodrigues/id=c1678-4-per3
-            ls$residencia/gaeiras
+            mnoivo$domingas rodrigues/id=c1678-4-per3
+               ls$residencia/gaeiras
 
          noiva$domingas gomes/id=c1678-4-per4
             ls$residencia/gaeiras
             ls$locbaptismo/freguesia de santa maria
 
-         pnoiva$manuel vaz/id=c1678-4-per5
-            ls$residencia/gaeiras
+            pnoiva$manuel vaz/id=c1678-4-per5
+               ls$residencia/gaeiras
 
-         mnoiva$maria joao/id=c1678-4-per6
-            ls$residencia/gaeiras
+            mnoiva$maria joao/id=c1678-4-per6
+               ls$residencia/gaeiras
 
          test$bento de oliveira/id=c1678-4-per7
             ls$assina/sim
@@ -251,15 +251,15 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$francisco vicente/id=c1679-1-per1
 
-         pnoivo$miguel vicente/id=c1679-1-per2
+            pnoivo$miguel vicente/id=c1679-1-per2
 
-         mnoivo$ana francisca/id=c1679-1-per3
+            mnoivo$ana francisca/id=c1679-1-per3
 
          noiva$margarida dos reis/id=c1679-1-per4
 
-         pnoiva$antonio rodrigues/id=c1679-1-per5
+            pnoiva$antonio rodrigues/id=c1679-1-per5
 
-         mnoiva$maria dos reis/id=c1679-1-per6
+            mnoiva$maria dos reis/id=c1679-1-per6
 
          test$bento de oliveira/id=c1679-1-per7
             ls$assina/sim
@@ -271,21 +271,21 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$manuel vieira/id=c1679-2-per1
 
-         pnoivo$manuel vieira/id=c1679-2-per2
-            ls$morto/antes
+            pnoivo$manuel vieira/id=c1679-2-per2
+               ls$morto/antes
 
-         mnoivo$maria cardoso/id=c1679-2-per3
-            ls$morta/antes
+            mnoivo$maria cardoso/id=c1679-2-per3
+               ls$morta/antes
 
          noiva$jeronima gomes/id=c1679-2-per4
 
-         pnoiva$antonio rodrigues/id=c1679-2-per5
-            ls$residencia/a dos negros
-            ls$freguesia/santa maria madalena
+            pnoiva$antonio rodrigues/id=c1679-2-per5
+               ls$residencia/a dos negros
+               ls$freguesia/santa maria madalena
 
-         mnoiva$catarina gomes%cn.a gomes/id=c1679-2-per6
-            ls$residencia/a dos negros
-            ls$freguesia/santa maria madalena
+            mnoiva$catarina gomes%cn.a gomes/id=c1679-2-per6
+               ls$residencia/a dos negros
+               ls$freguesia/santa maria madalena
 
          test$francisco de lemos/id=c1679-2-per7
             ls$assina/sim
@@ -306,8 +306,8 @@ kleio$gacto.str/prefix=stmaria
             ls$ec/v
             ls$residencia/obidos
 
-         marido1$domingos rodrigues/id=c1680-1-per4
-            ls$morto/antes
+            marido1$domingos rodrigues/id=c1680-1-per4
+               ls$morto/antes
 
          test$bento de oliveira/id=c1680-1-per5
             ls$assina/sim
@@ -319,25 +319,25 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$goncalo pinto/obs="houverao licenca do prelado por ser o contraente de fora do arcebispado"/id=c1680-2-per1
 
-         pnoivo$antonio pinto/id=c1680-2-per2
-            ls$residencia/concelho de resende
-            ls$freguesia/nossa senhora de carquere
-            ls$bispado/lamego
+            pnoivo$antonio pinto/id=c1680-2-per2
+               ls$residencia/concelho de resende
+               ls$freguesia/nossa senhora de carquere
+               ls$bispado/lamego
 
-         mnoivo$maria dias/id=c1680-2-per3
-            ls$residencia/concelho de resende
-            ls$freguesia/nossa senhora de carquere
-            ls$bispado/lamego
+            mnoivo$maria dias/id=c1680-2-per3
+               ls$residencia/concelho de resende
+               ls$freguesia/nossa senhora de carquere
+               ls$bispado/lamego
 
          noiva$domingas marques/id=c1680-2-per4
 
-         pnoiva$domingos dias/id=c1680-2-per5
-            ls$residencia/laranjeira
-            ls$freguesia/alvorninha
+            pnoiva$domingos dias/id=c1680-2-per5
+               ls$residencia/laranjeira
+               ls$freguesia/alvorninha
 
-         mnoiva$isabel marques/id=c1680-2-per6
-            ls$residencia/laranjeira
-            ls$freguesia/alvorninha
+            mnoiva$isabel marques/id=c1680-2-per6
+               ls$residencia/laranjeira
+               ls$freguesia/alvorninha
 
          test$bento de oliveira/id=c1680-2-per7
             ls$cargo/tesoureiro

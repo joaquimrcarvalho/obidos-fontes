@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=sp
+kleio$gacto.str/prefix=sp/translations=1
    fonte$baptismos1799-1800/localizacao-a.d.l./freguesia de sao pedro
 
       bap$b1799-1/6/1/1799/fl.111v./joao caetano da fonseca (padre, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
@@ -6,123 +6,123 @@ kleio$gacto.str/prefix=sp
          n$nome desconhecido/m/id=b1799-1-per1
             ls$datanasc/17981226
 
-         pn$jose da silva/id=b1799-1-pn
-            ls$residencia/obidos
+            pn$jose da silva/id=b1799-1-pn
+               ls$residencia/obidos
 
-         mn$luciana maria/id=b1799-1-mn
-            ls$residencia/obidos
+            mn$luciana maria/id=b1799-1-mn
+               ls$residencia/obidos
 
-         pad1$jose garcia botelho/id=b1799-1-per2
+            pad1$jose garcia botelho/id=b1799-1-per2
 
-         mad1$nossa senhora do carmo/id=b1799-1-per3
+            mad1$nossa senhora do carmo/id=b1799-1-per3
 
-         procurador-mad1$joaquim pedro da cruz/id=b1799-1-per4
-            rel$parentesco/cunhado/luciana maria/b1799-1-mn
-            rel$parentesco/cunhado/jose da silva/b1799-1-pn
+            procurador-mad1$joaquim pedro da cruz/id=b1799-1-per4
+               rel$parentesco/cunhado/luciana maria/b1799-1-mn
+               rel$parentesco/cunhado/jose da silva/b1799-1-pn
 
       bap$b1799-2/14/1/1799/fl.111v.-112/joao caetano da fonseca neves (padre, economo da igreja de sao pedro)/obs=assina o cura beneficiado joaquim jose de matos
 
          n$maria/f/id=b1799-2-per1
             ls$datanasc/17981215
 
-         pn$jose francisco alqueidao/id=b1799-2-per2
-            ls$residencia/obidos
+            pn$jose francisco alqueidao/id=b1799-2-per2
+               ls$residencia/obidos
 
-         mn$eufrasia maria/id=b1799-2-per3
-            ls$residencia/obidos
+            mn$eufrasia maria/id=b1799-2-per3
+               ls$residencia/obidos
 
-         pad1$francisco de assis/id=b1799-2-per4
+            pad1$francisco de assis/id=b1799-2-per4
 
-         ppad1$nome desconhecido/id=b1799-2-per5
-            ls$profissao/cabeleireiro
-            rel$profissional/cabeleireiro/manuel lobo/b1799-2-referido
+               ppad1$nome desconhecido/id=b1799-2-per5
+                  ls$profissao/cabeleireiro
+                  rel$profissional/cabeleireiro/manuel lobo/b1799-2-referido
 
-         referido$manuel lobo/id=b1799-2-referido
-            ls$titulo/dom
-            ls$residencia/obidos
+            referido$manuel lobo/id=b1799-2-referido
+               ls$titulo/dom
+               ls$residencia/obidos
 
-         mad1$maria bernarda/id=b1799-2-per6
-            ls$residencia/lisboa
+            mad1$maria bernarda/id=b1799-2-per6
+               ls$residencia/lisboa
 
-         procurador-mad1$manuel dos santos ferreira/id=b1799-2-per7
-            ls$cargo/tesoureiro da igreja de sao pedro
+            procurador-mad1$manuel dos santos ferreira/id=b1799-2-per7
+               ls$cargo/tesoureiro da igreja de sao pedro
 
       bap$b1799-3/29/1/1799/fl.112/joaquim jose de matos (cura, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
          n$antonio/m/id=b1799-3-n
             ls$enjeitado/sim/obs="exposto na noite antecedente á porta de rosalia do sacramento, viuva de jose francisco do lugar da sancheira grande"
 
-         pn$nome desconhecido/id=b1799-3-per1
+            pn$nome desconhecido/id=b1799-3-per1
 
-         mn$nome desconhecido/id=b1799-3-per2
+            mn$nome desconhecido/id=b1799-3-per2
 
-         referida$rosalia do sacramento/id=b1799-3-per3
-            ls$ec/v
-            ls$residencia/sancheira grande
-            rel$sociabilidade/achou crianca/antonio/b1799-3-n
+            referida$rosalia do sacramento/id=b1799-3-per3
+               ls$ec/v
+               ls$residencia/sancheira grande
+               rel$sociabilidade/achou crianca/antonio/b1799-3-n
 
-         referido$jose francisco/id=b1799-3-per4
-            ls$residencia/sancheira grande
-            ls$morto/antes
+            referido$jose francisco/id=b1799-3-per4
+               ls$residencia/sancheira grande
+               ls$morto/antes
 
-         pad1$manuel dos santos/id=b1799-3-per5
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos/id=b1799-3-per5
+               ls$cargo/tesoureiro da igreja de sao pedro
 
       bap$b1799-4/3/2/1799/fl.112/joaquim jose de matos (cura, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
          n$maria/f/id=b1799-4-per1
             ls$datanasc/17990126
 
-         pn$jose vicente/id=b1799-4-per2
-            ls$residencia/pinhal
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia de santa maria
+            pn$jose vicente/id=b1799-4-per2
+               ls$residencia/pinhal
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia de santa maria
 
-         ppn$vicente da silva/id=b1799-4-per3
-            ls$residencia/a da gorda
+               ppn$vicente da silva/id=b1799-4-per3
+                  ls$residencia/a da gorda
 
-         mpn$maria da encarnacao/id=b1799-4-per4
-            ls$residencia/a da gorda
+               mpn$maria da encarnacao/id=b1799-4-per4
+                  ls$residencia/a da gorda
 
-         mn$antonia maria/id=b1799-4-per5
-            ls$residencia/pinhal
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/igreja de sao pedro
+            mn$antonia maria/id=b1799-4-per5
+               ls$residencia/pinhal
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/igreja de sao pedro
 
-         pmn$jose pereira/id=b1799-4-per6
-            ls$residencia/pinhal
+               pmn$jose pereira/id=b1799-4-per6
+                  ls$residencia/pinhal
 
-         mmn$josefa maria/id=b1799-4-per7
-            ls$residencia/pinhal
+               mmn$josefa maria/id=b1799-4-per7
+                  ls$residencia/pinhal
 
-         pad1$antonio jose/id=b1799-4-per8
-            ls$residencia/a da gorda
+            pad1$antonio jose/id=b1799-4-per8
+               ls$residencia/a da gorda
 
-         mad1$maria do carmo/id=b1799-4-per9
-            ls$residencia/a da gorda
+            mad1$maria do carmo/id=b1799-4-per9
+               ls$residencia/a da gorda
 
       bap$b1799-5/5/2/1799/fl.112v./joaquim jose de matos (cura, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
          n$antonio/m/id=b1799-5-n
             ls$enjeitado/sim/obs="exposto na noite antecedente á porta de joze de souza do lugar da matoeira, deste termo, e o levou para criar por ordem do conselho maria roza, mulher do dito joze de souza, o qual foi padrinho"
 
-         pn$nome desconhecido/id=b1799-5-per1
+            pn$nome desconhecido/id=b1799-5-per1
 
-         mn$nome desconhecido/id=b1799-5-per2
+            mn$nome desconhecido/id=b1799-5-per2
 
-         referido$joaquim jose de matos/id=b1799-5-per3
-            ls$cargo/cura
-            ls$cargo/beneficiado
-            rel$sociabilidade/baptizou sub conditione/antonio/b1799-5-n
+            referido$joaquim jose de matos/id=b1799-5-per3
+               ls$cargo/cura
+               ls$cargo/beneficiado
+               rel$sociabilidade/baptizou sub conditione/antonio/b1799-5-n
 
-         pad1$jose de sousa/id=b1799-5-pad
-            rel$sociabilidade/achou a crianca/antonio/b1799-5-n
-            ls$residencia/matoeira
+            pad1$jose de sousa/id=b1799-5-pad
+               rel$sociabilidade/achou a crianca/antonio/b1799-5-n
+               ls$residencia/matoeira
 
-         referida$maria rosa/id=b1799-5-per4
-            ls$residencia/matoeira
-            rel$parentesco/mulher/jose de sousa/b1799-5-pad
-            rel$sociabilidade/ama/antonio/b1799-5-n
+            referida$maria rosa/id=b1799-5-per4
+               ls$residencia/matoeira
+               rel$parentesco/mulher/jose de sousa/b1799-5-pad
+               rel$sociabilidade/ama/antonio/b1799-5-n
 
       bap$b1799-6/21/2/1799/fl.112v./joaquim jose de matos (cura, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
@@ -130,42 +130,42 @@ kleio$gacto.str/prefix=sp
             ls$datanasc/17990203
             ls$residencia/obidos
 
-         pn$estevao ribeiro/id=b1799-6-per1
-            ls$residencia/obidos
+            pn$estevao ribeiro/id=b1799-6-per1
+               ls$residencia/obidos
 
-         mn$apolonia maria frazao/id=b1799-6-per2
-            ls$residencia/obidos
+            mn$apolonia maria frazao/id=b1799-6-per2
+               ls$residencia/obidos
 
-         pad1$jose luis fialho de mendonca/id=b1799-6-per3
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            pad1$jose luis fialho de mendonca/id=b1799-6-per3
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
-         mad1$ana doroteia frazao/id=b1799-6-per4
-            ls$residencia/obidos
-            rel$parentesco/tia/gertrudes/b1799-6-n
+            mad1$ana doroteia frazao/id=b1799-6-per4
+               ls$residencia/obidos
+               rel$parentesco/tia/gertrudes/b1799-6-n
 
-         procurador-mad1$joaquim jose soares/id=b1799-6-per5
-            ls$profissao/padre
-            ls$residencia/obidos
+            procurador-mad1$joaquim jose soares/id=b1799-6-per5
+               ls$profissao/padre
+               ls$residencia/obidos
 
       bap$b1799-7/3/3/1799/fl.112v./joaquim jose de matos (cura, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
          n$felicidade/f/id=b1799-7-per1
             ls$datanasc/17990221
 
-         pn$pedro antonio/id=b1799-7-per2
-            ls$residencia/obidos
+            pn$pedro antonio/id=b1799-7-per2
+               ls$residencia/obidos
 
-         mn$ana joaquina/id=b1799-7-per3
-            ls$residencia/obidos
+            mn$ana joaquina/id=b1799-7-per3
+               ls$residencia/obidos
 
-         pad1$antonio jose baptista/id=b1799-7-per4
+            pad1$antonio jose baptista/id=b1799-7-per4
 
-         mad1$maria do carmo jeronima malhao/id=b1799-7-per5
-            ls$titulo/dona
+            mad1$maria do carmo jeronima malhao/id=b1799-7-per5
+               ls$titulo/dona
 
-         procurador-mad1$jose henriques da costa/id=b1799-7-per6
-            ls$residencia/obidos
+            procurador-mad1$jose henriques da costa/id=b1799-7-per6
+               ls$residencia/obidos
 
       bap$b1799-8/3/3/1799/fl.113/joaquim jose de matos (cura, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
@@ -173,58 +173,58 @@ kleio$gacto.str/prefix=sp
             ls$residencia/obidos
             ls$datanasc/17990217
 
-         pn$joao antonio/id=b1799-8-per2
-            ls$residencia/obidos
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/freguesia de santa maria
+            pn$joao antonio/id=b1799-8-per2
+               ls$residencia/obidos
+               ls$locbaptismo/igreja de sao pedro
+               ls$loccasamento/freguesia de santa maria
 
-         ppn$joaquim francisco/id=b1799-8-per3
-            ls$loccasamento/freguesia de sao pedro
+               ppn$joaquim francisco/id=b1799-8-per3
+                  ls$loccasamento/freguesia de sao pedro
 
-         mpn$teodora maria/id=b1799-8-per4
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mpn$teodora maria/id=b1799-8-per4
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         mn$angelica rosa/id=b1799-8-per5
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$loccasamento/freguesia de santa maria
+            mn$angelica rosa/id=b1799-8-per5
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$loccasamento/freguesia de santa maria
 
-         pmn$francisco martins/id=b1799-8-per6
-            ls$residencia/obidos
+               pmn$francisco martins/id=b1799-8-per6
+                  ls$residencia/obidos
 
-         mmn$francisca joaquina/id=b1799-8-per7
-            ls$residencia/obidos
+               mmn$francisca joaquina/id=b1799-8-per7
+                  ls$residencia/obidos
 
-         pad1$joao caetano da fonseca neves/id=b1799-8-per8
-            ls$profissao/padre
+            pad1$joao caetano da fonseca neves/id=b1799-8-per8
+               ls$profissao/padre
 
-         mad1$senhora do rosario/id=b1799-8-per9
+            mad1$senhora do rosario/id=b1799-8-per9
 
-         procurador-mad1$joao caetano da fonseca/id=b1799-8-per10
-            ls$cargo/beneficiado/obs=tocou com a coroa da senhora do rosario
+            procurador-mad1$joao caetano da fonseca/id=b1799-8-per10
+               ls$cargo/beneficiado/obs=tocou com a coroa da senhora do rosario
 
       bap$b1799-9/6/4/1799/fl.113/joao caetano da fonseca (beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
          n$diogo/m/id=b1799-9-n
             ls$enjeitado/sim/obs="exposto aos vinte e nove de março, proximo passado á porta de dorothea pereira do lugar do paço, freguezia de sao bartholomeu, termo desta villa a qual o levou para criar"
 
-         pn$nome desconhecido/id=b1799-9-per1
+            pn$nome desconhecido/id=b1799-9-per1
 
-         mn$nome desconhecido/id=b1799-9-per2
+            mn$nome desconhecido/id=b1799-9-per2
 
-         referida$doroteia pereira/id=b1799-9-per3
-            ls$residencia/paco
-            ls$freguesia/sao bartolomeu
-            rel$sociabilidade/achou crianca/diogo/b1799-9-n
-            rel$sociabilidade/ama/diogo/b1799-9-n
+            referida$doroteia pereira/id=b1799-9-per3
+               ls$residencia/paco
+               ls$freguesia/sao bartolomeu
+               rel$sociabilidade/achou crianca/diogo/b1799-9-n
+               rel$sociabilidade/ama/diogo/b1799-9-n
 
-         pad1$manuel dos santos/id=b1799-9-per4
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos/id=b1799-9-per4
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         referido$joao caetano da fonseca/id=b1799-9-per5
-            ls$cargo/beneficiado
-            rel$sociabilidade/baptizou sub conditione/diogo/b1799-9-n
+            referido$joao caetano da fonseca/id=b1799-9-per5
+               ls$cargo/beneficiado
+               rel$sociabilidade/baptizou sub conditione/diogo/b1799-9-n
 
       bap$b1799-10/25/4/1799/fl.113v./joao caetano da fonseca (padre na igreja de sao pedro)/obs=assina o cura beneficiado joaquim jose de matos
 
@@ -232,24 +232,24 @@ kleio$gacto.str/prefix=sp
             ls$residencia/obidos
             ls$datanasc/17990409
 
-         pn$antonio francisco/id=b1799-10-per2
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia de santa maria
+            pn$antonio francisco/id=b1799-10-per2
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia de santa maria
 
-         mn$maria da piedade/id=b1799-10-per3
-            ls$residencia/obidos
-            ls$locbaptismo/igreja de sao pedro
-            ls$loccasamento/freguesia de santa maria
+            mn$maria da piedade/id=b1799-10-per3
+               ls$residencia/obidos
+               ls$locbaptismo/igreja de sao pedro
+               ls$loccasamento/freguesia de santa maria
 
-         pad1$jose soares monteiro/id=b1799-10-per4
-            ls$residencia/lisboa
+            pad1$jose soares monteiro/id=b1799-10-per4
+               ls$residencia/lisboa
 
-         procurador-pad1$joao antonio vieira/id=b1799-10-per5
+            procurador-pad1$joao antonio vieira/id=b1799-10-per5
 
-         mad1$matilde inacia da assuncao/id=b1799-10-per6
+            mad1$matilde inacia da assuncao/id=b1799-10-per6
 
-         procurador-mad1$joao maria nunes dos reis/id=b1799-10-per7
+            procurador-mad1$joao maria nunes dos reis/id=b1799-10-per7
 
       bap$b1799-11/5/5/1799/fl.113v./joaquim jose lourenco de carvalho (padre, cura)/obs=assina o cura beneficiado joaquim jose de matos
 
@@ -257,17 +257,17 @@ kleio$gacto.str/prefix=sp
             ls$residencia/casal do pinheiro
             ls$datanasc/17990426
 
-         pn$joaquim antonio/id=b1799-11-per2
-            ls$residencia/casal do pinheiro
+            pn$joaquim antonio/id=b1799-11-per2
+               ls$residencia/casal do pinheiro
 
-         mn$ana maria/id=b1799-11-per3
-            ls$residencia/casal do pinheiro
+            mn$ana maria/id=b1799-11-per3
+               ls$residencia/casal do pinheiro
 
-         pad1$manuel jose/id=b1799-11-per4
-            ls$residencia/tras do outeiro
+            pad1$manuel jose/id=b1799-11-per4
+               ls$residencia/tras do outeiro
 
-         mad1$gertrudes maria da piedade/id=b1799-11-per5
-            ls$residencia/casal da torre
+            mad1$gertrudes maria da piedade/id=b1799-11-per5
+               ls$residencia/casal da torre
 
       bap$b1799-12/9/6/1799/fl.113v.-114/joaquim jose de matos (cura, beneficiado)/obs=assina o cura beneficiado joaquim jose de matos
 
@@ -275,181 +275,181 @@ kleio$gacto.str/prefix=sp
             ls$datanasc/17990509
             ls$residencia/usseira
 
-         pn$manuel ferreira/id=b1799-12-per1
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel ferreira/id=b1799-12-per1
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$joaquina maria/id=b1799-12-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$joaquina maria/id=b1799-12-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$francisco ferreira/id=b1799-12-per3
-            ls$residencia/usseira
-            rel$parentesco/irmao/bebiana/b1799-12-n
+            pad1$francisco ferreira/id=b1799-12-per3
+               ls$residencia/usseira
+               rel$parentesco/irmao/bebiana/b1799-12-n
 
-         mad1$bebiana gomes da nazare/id=b1799-12-per4
-            ls$residencia/usseira
+            mad1$bebiana gomes da nazare/id=b1799-12-per4
+               ls$residencia/usseira
 
       bap$b1799-13/23/6/1799/fl.114/jose pereira da serra (padre, economo)/obs=assina o cura beneficiado joaquim jose de matos
 
          n$soledade/f/id=b1799-13-n
             ls$datanasc/17990520
 
-         pn$manuel marques/id=b1799-13-per1
-            ls$residencia/obidos
+            pn$manuel marques/id=b1799-13-per1
+               ls$residencia/obidos
 
-         mn$maria luzia/id=b1799-13-per2
-            ls$residencia/obidos
+            mn$maria luzia/id=b1799-13-per2
+               ls$residencia/obidos
 
-         pad1$joaquim moreira/id=b1799-13-per3
-            rel$parentesco/tio/soledade/b1799-13-n
+            pad1$joaquim moreira/id=b1799-13-per3
+               rel$parentesco/tio/soledade/b1799-13-n
 
-         mad1$luisa maria/id=b1799-13-per4
-            ls$residencia/casal da serra
-            ls$freguesia/santa maria
+            mad1$luisa maria/id=b1799-13-per4
+               ls$residencia/casal da serra
+               ls$freguesia/santa maria
 
-         referido$joaquim jose de matos/id=b1799-13-per5
-            ls$cargo/cura
-            rel$sociabilidade/baptizou em casa/soledade/b1799-13-n
-            rel$sociabilidade/baptizou em necessidade/soledade/b1799-13-n
+            referido$joaquim jose de matos/id=b1799-13-per5
+               ls$cargo/cura
+               rel$sociabilidade/baptizou em casa/soledade/b1799-13-n
+               rel$sociabilidade/baptizou em necessidade/soledade/b1799-13-n
 
       bap$b1799-14/29/7/1799/fl.114-114v./jose de barros de almeida (prior)/obs=assina o prior jose de barros de almeida
 
          n$gertrudes/f/id=b1799-14-per1
             ls$datanasc/17990602
 
-         pn$miguel da luz/id=b1799-14-per2
-            ls$profissao/alfaiate
-            ls$residencia/obidos
+            pn$miguel da luz/id=b1799-14-per2
+               ls$profissao/alfaiate
+               ls$residencia/obidos
 
-         ppn$manuel da luz/id=b1799-14-per3
-            ls$residencia/obidos
+               ppn$manuel da luz/id=b1799-14-per3
+                  ls$residencia/obidos
 
-         mpn$maria da luz/id=b1799-14-per4
-            ls$residencia/obidos
+               mpn$maria da luz/id=b1799-14-per4
+                  ls$residencia/obidos
 
-         mn$rosa margarida/id=b1799-14-per5
-            ls$residencia/obidos
+            mn$rosa margarida/id=b1799-14-per5
+               ls$residencia/obidos
 
-         pmn$joao correia/id=b1799-14-per6
-            ls$profissao/almocreve
-            ls$residencia/obidos
+               pmn$joao correia/id=b1799-14-per6
+                  ls$profissao/almocreve
+                  ls$residencia/obidos
 
-         mmn$francisca de jesus/id=b1799-14-per7
-            ls$residencia/obidos
+               mmn$francisca de jesus/id=b1799-14-per7
+                  ls$residencia/obidos
 
-         pad1$antonio baptista/id=b1799-14-per8
-            ls$profissao/boticario
-            ls$residencia/obidos
+            pad1$antonio baptista/id=b1799-14-per8
+               ls$profissao/boticario
+               ls$residencia/obidos
 
-         mad1$nossa senhora do rosario/id=b1799-14-per9
+            mad1$nossa senhora do rosario/id=b1799-14-per9
 
-         procurador-mad1$bartolomeu de barros/id=b1799-14-per10
-            ls$profissao/sapateiro
-            ls$residencia/obidos
+            procurador-mad1$bartolomeu de barros/id=b1799-14-per10
+               ls$profissao/sapateiro
+               ls$residencia/obidos
 
       bap$b1799-15/25/8/1799/fl.114v.-115/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1799-15-per1
             ls$datanasc/17990712
 
-         pn$gregorio gomes saramago/id=b1799-15-per2
-            ls$residencia/usseira
+            pn$gregorio gomes saramago/id=b1799-15-per2
+               ls$residencia/usseira
 
-         ppn$joao gomes saramago/id=b1799-15-per3
+               ppn$joao gomes saramago/id=b1799-15-per3
 
-         mpn$maria ferreira/id=b1799-15-per4
+               mpn$maria ferreira/id=b1799-15-per4
 
-         mn$gertrudes maria de jesus/id=b1799-15-per5
-            ls$residencia/usseira
+            mn$gertrudes maria de jesus/id=b1799-15-per5
+               ls$residencia/usseira
 
-         pmn$tome gomes saramago/id=b1799-15-per6
+               pmn$tome gomes saramago/id=b1799-15-per6
 
-         mmn$helena maria/id=b1799-15-per7
+               mmn$helena maria/id=b1799-15-per7
 
-         pad1$antonio jose baptista dos santos/id=b1799-15-per8
-            ls$profissao/boticario
-            ls$residencia/obidos
+            pad1$antonio jose baptista dos santos/id=b1799-15-per8
+               ls$profissao/boticario
+               ls$residencia/obidos
 
-         mad1$nossa senhora do rosario/id=b1799-15-per9
+            mad1$nossa senhora do rosario/id=b1799-15-per9
 
-         procurador-mad1$antonio gomes da helena/id=b1799-15-per10
-            ls$residencia/usseira/obs=tocou com a coroa de nossa senhora do rosario
+            procurador-mad1$antonio gomes da helena/id=b1799-15-per10
+               ls$residencia/usseira/obs=tocou com a coroa de nossa senhora do rosario
 
       bap$b1799-16/26/8/1799/fl.115-115v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1799-16-per1
             ls$datanasc/17990719
 
-         pn$manuel jose da silva rego/id=b1799-16-per2
-            ls$residencia/obidos
+            pn$manuel jose da silva rego/id=b1799-16-per2
+               ls$residencia/obidos
 
-         ppn$antonio pedro/id=b1799-16-per3
-            ls$freguesia/sao tiago
+               ppn$antonio pedro/id=b1799-16-per3
+                  ls$freguesia/sao tiago
 
-         mpn$felicia caetana/id=b1799-16-per4
-            ls$freguesia/santa maria
+               mpn$felicia caetana/id=b1799-16-per4
+                  ls$freguesia/santa maria
 
-         mn$margarida rosa/id=b1799-16-per5
-            ls$residencia/obidos
+            mn$margarida rosa/id=b1799-16-per5
+               ls$residencia/obidos
 
-         pmn$joao ribeiro/id=b1799-16-per6
-            ls$residencia/obidos
+               pmn$joao ribeiro/id=b1799-16-per6
+                  ls$residencia/obidos
 
-         mmn$maria eugenia/id=b1799-16-per7
-            ls$residencia/obidos
+               mmn$maria eugenia/id=b1799-16-per7
+                  ls$residencia/obidos
 
-         pad1$joao antonio vieira/id=b1799-16-per8
-            ls$profissao/mercador
-            ls$residencia/obidos
+            pad1$joao antonio vieira/id=b1799-16-per8
+               ls$profissao/mercador
+               ls$residencia/obidos
 
-         mad1$gertrudes do carmo/id=b1799-16-mad
-            ls$residencia/obidos
+            mad1$gertrudes do carmo/id=b1799-16-mad
+               ls$residencia/obidos
 
-         pmad1$jose antonio leal/id=b1799-16-per9
-            ls$residencia/obidos
+               pmad1$jose antonio leal/id=b1799-16-per9
+                  ls$residencia/obidos
 
-         procurador-mad1$francisco leal de matos/id=b1799-16-per10
-            rel$parentesco/irmao/gertrudes do carmo/b1799-16-mad
-            ls$residencia/obidos
+            procurador-mad1$francisco leal de matos/id=b1799-16-per10
+               rel$parentesco/irmao/gertrudes do carmo/b1799-16-mad
+               ls$residencia/obidos
 
       bap$b1799-17/9/7/1799/fl.115v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$teresa/f/id=b1799-17-n
             ls$datanasc/17990819
 
-         pn$bartolomeu de barros/id=b1799-17-per1
+            pn$bartolomeu de barros/id=b1799-17-per1
 
-         ppn$joao de barros/id=b1799-17-per2
-            ls$naturalidade/freguesia de santa maria madalena, braga
-            ls$locbaptismo/freguesia de santa maria madalena, braga
+               ppn$joao de barros/id=b1799-17-per2
+                  ls$naturalidade/freguesia de santa maria madalena, braga
+                  ls$locbaptismo/freguesia de santa maria madalena, braga
 
-         mpn$joana maria/id=b1799-17-per3
-            ls$naturalidade/freguesia de santa maria madalena, braga
-            ls$locbaptismo/freguesia de santa maria madalena, braga
+               mpn$joana maria/id=b1799-17-per3
+                  ls$naturalidade/freguesia de santa maria madalena, braga
+                  ls$locbaptismo/freguesia de santa maria madalena, braga
 
-         mn$maria rosa/id=b1799-17-per4
+            mn$maria rosa/id=b1799-17-per4
 
-         pmn$francisco madeira/id=b1799-17-per5
-            ls$freguesia/nossa senhora de aboboriz, amoreira
+               pmn$francisco madeira/id=b1799-17-per5
+                  ls$freguesia/nossa senhora de aboboriz, amoreira
 
-         mmn$rosa maria/id=b1799-17-per6
-            ls$freguesia/nossa senhora de aboboriz, amoreira
+               mmn$rosa maria/id=b1799-17-per6
+                  ls$freguesia/nossa senhora de aboboriz, amoreira
 
-         pad1$francisco craveiro da silva matoso/id=b1799-17-per7
-            ls$cargo/beneficiado
+            pad1$francisco craveiro da silva matoso/id=b1799-17-per7
+               ls$cargo/beneficiado
 
-         mad1$teresa angelica da silveira malhao/id=b1799-17-per8
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$teresa angelica da silveira malhao/id=b1799-17-per8
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         pmad1$agostinho gomes da silveira/id=b1799-17-per9
-            ls$titulo/doutor
-            ls$residencia/obidos
+               pmad1$agostinho gomes da silveira/id=b1799-17-per9
+                  ls$titulo/doutor
+                  ls$residencia/obidos
 
-         procurador-mad1$antonio garcia botelho da silveira/id=b1799-17-procurador-mad
-            ls$residencia/obidos
+            procurador-mad1$antonio garcia botelho da silveira/id=b1799-17-procurador-mad
+               ls$residencia/obidos
 
             referido$jose garcia botelho/id=b1799-17-procurador-mad-per10
                ls$residencia/obidos
@@ -464,166 +464,166 @@ kleio$gacto.str/prefix=sp
          n$antonio/m/id=b1799-18-per1
             ls$datanasc/17990812
 
-         pn$antonio crespim/id=b1799-18-per2
-            ls$residencia/usseira
+            pn$antonio crespim/id=b1799-18-per2
+               ls$residencia/usseira
 
-         ppn$crespim gomes/id=b1799-18-per3
-            ls$freguesia/ponte do rol
+               ppn$crespim gomes/id=b1799-18-per3
+                  ls$freguesia/ponte do rol
 
-         mpn$joana teresa/id=b1799-18-per4
-            ls$freguesia/nossa senhora da purificacao, rolica
+               mpn$joana teresa/id=b1799-18-per4
+                  ls$freguesia/nossa senhora da purificacao, rolica
 
-         mn$joaquina maria/id=b1799-18-per5
-            ls$residencia/usseira
+            mn$joaquina maria/id=b1799-18-per5
+               ls$residencia/usseira
 
-         pmn$manuel teixeira prio/id=b1799-18-per6
-            ls$residencia/usseira
+               pmn$manuel teixeira prio/id=b1799-18-per6
+                  ls$residencia/usseira
 
-         mmn$quiteria maria/id=b1799-18-per7
-            ls$naturalidade/fraldeu
-            ls$freguesia/santa maria
-            ls$residencia/usseira
+               mmn$quiteria maria/id=b1799-18-per7
+                  ls$naturalidade/fraldeu
+                  ls$freguesia/santa maria
+                  ls$residencia/usseira
 
-         pad1$jose ribeiro/id=b1799-18-per8
-            ls$naturalidade/fraldeu
+            pad1$jose ribeiro/id=b1799-18-per8
+               ls$naturalidade/fraldeu
 
-         mad1$maria inacia/id=b1799-18-per9
+            mad1$maria inacia/id=b1799-18-per9
 
-         pmad1$manuel gomes da helena/id=b1799-18-per10
+               pmad1$manuel gomes da helena/id=b1799-18-per10
 
       bap$b1799-19/8/9/1799/fl.116-116v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$joao/m/id=b1799-19-per1
             ls$datanasc/17990829
 
-         pn$jose gomes/id=b1799-19-per2
-            ls$residencia/casal de codorno
+            pn$jose gomes/id=b1799-19-per2
+               ls$residencia/casal de codorno
 
-         ppn$joaquim ferreira/id=b1799-19-per3
-            ls$naturalidade/casal branco
-            ls$freguesia/santa maria
+               ppn$joaquim ferreira/id=b1799-19-per3
+                  ls$naturalidade/casal branco
+                  ls$freguesia/santa maria
 
-         mpn$maria teresa/id=b1799-19-per4
-            ls$naturalidade/casal branco
-            ls$freguesia/santa maria
+               mpn$maria teresa/id=b1799-19-per4
+                  ls$naturalidade/casal branco
+                  ls$freguesia/santa maria
 
-         mn$maria de jesus/id=b1799-19-per5
-            ls$residencia/casal de codorno
+            mn$maria de jesus/id=b1799-19-per5
+               ls$residencia/casal de codorno
 
-         pmn$manuel gomes carvalho/id=b1799-19-per6
-            ls$residencia/a dos negros
-            ls$locbaptismo/freguesia de santa maria madalena, a dos negros
+               pmn$manuel gomes carvalho/id=b1799-19-per6
+                  ls$residencia/a dos negros
+                  ls$locbaptismo/freguesia de santa maria madalena, a dos negros
 
-         mmn$delfina rosa/id=b1799-19-per7
-            ls$residencia/a dos negros
-            ls$locbaptismo/freguesia de santa maria madalena, a dos negros
+               mmn$delfina rosa/id=b1799-19-per7
+                  ls$residencia/a dos negros
+                  ls$locbaptismo/freguesia de santa maria madalena, a dos negros
 
-         pad1$teodoro francisco/id=b1799-19-per8
-            ls$residencia/a dos negros
+            pad1$teodoro francisco/id=b1799-19-per8
+               ls$residencia/a dos negros
 
-         mad1$nossa senhora das dores/id=b1799-19-per9
+            mad1$nossa senhora das dores/id=b1799-19-per9
 
       bap$b1799-20/8/9/1799/fl.116v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$joao/m/id=b1799-20-per1
             ls$datanasc/17990823
 
-         pn$joao inacio/id=b1799-20-per2
-            ls$residencia/usseira
+            pn$joao inacio/id=b1799-20-per2
+               ls$residencia/usseira
 
-         mn$dionisia inacia gomes/id=b1799-20-per3
-            ls$residencia/usseira
+            mn$dionisia inacia gomes/id=b1799-20-per3
+               ls$residencia/usseira
 
-         pad1$joao maria nunes da silva reis/id=b1799-20-per4
-            ls$cargo/capitao
-            ls$residencia/obidos
+            pad1$joao maria nunes da silva reis/id=b1799-20-per4
+               ls$cargo/capitao
+               ls$residencia/obidos
 
-         mad1$nossa senhora do rosario/id=b1799-20-per5
+            mad1$nossa senhora do rosario/id=b1799-20-per5
 
-         procurador-mad1$joao caetano da fonseca neves/id=b1799-20-per6
-            ls$profissao/padre
+            procurador-mad1$joao caetano da fonseca neves/id=b1799-20-per6
+               ls$profissao/padre
 
       bap$b1799-21/8/9/1799/fl.116v.-117/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$antonio/m/id=b1799-21-per1
 
-         pn$francisco da costa/id=b1799-21-per2
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$francisco da costa/id=b1799-21-per2
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$jose da costa/id=b1799-21-per3
-            ls$naturalidade/pinhal
+               ppn$jose da costa/id=b1799-21-per3
+                  ls$naturalidade/pinhal
 
-         mpn$ana maria/id=b1799-21-per4
-            ls$naturalidade/pinhal
+               mpn$ana maria/id=b1799-21-per4
+                  ls$naturalidade/pinhal
 
-         mn$rosa maria/id=b1799-21-per5
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$rosa maria/id=b1799-21-per5
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$manuel gomes/id=b1799-21-per6
-            ls$naturalidade/pinhal
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               pmn$manuel gomes/id=b1799-21-per6
+                  ls$naturalidade/pinhal
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         mmn$antonia maria/id=b1799-21-per7
-            ls$naturalidade/pinhal
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mmn$antonia maria/id=b1799-21-per7
+                  ls$naturalidade/pinhal
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         pad1$antonio maria de brito/id=b1799-21-per8
-            ls$titulo/ilustrissimo
-            ls$residencia/obidos
+            pad1$antonio maria de brito/id=b1799-21-per8
+               ls$titulo/ilustrissimo
+               ls$residencia/obidos
 
-         procurador-pad1$joao caetano da fonseca/id=b1799-21-per9
-            ls$profissao/padre
-            ls$residencia/obidos
+            procurador-pad1$joao caetano da fonseca/id=b1799-21-per9
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad1$antonia leonor pereira pinto de ataide portugal/id=b1799-21-per10
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$antonia leonor pereira pinto de ataide portugal/id=b1799-21-per10
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         procurador-mad1$joao caetano da fonseca neves/id=b1799-21-per11
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            procurador-mad1$joao caetano da fonseca neves/id=b1799-21-per11
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
       bap$b1799-22/8/9/1799/fl.117-117v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$joaquina/f/id=b1799-22-per1
             ls$datanasc/17990821
 
-         pn$jose ferreira/id=b1799-22-per2
-            ls$naturalidade/freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
+            pn$jose ferreira/id=b1799-22-per2
+               ls$naturalidade/freguesia de santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         ppn$julio ferreira/id=b1799-22-per3
-            ls$naturalidade/freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
+               ppn$julio ferreira/id=b1799-22-per3
+                  ls$naturalidade/freguesia de santa maria
+                  ls$locbaptismo/freguesia de santa maria
 
-         mpn$maria joaquina/id=b1799-22-per4
-            ls$naturalidade/freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
+               mpn$maria joaquina/id=b1799-22-per4
+                  ls$naturalidade/freguesia de santa maria
+                  ls$locbaptismo/freguesia de santa maria
 
-         mn$joaquina maria/id=b1799-22-per5
-            ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
-            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+            mn$joaquina maria/id=b1799-22-per5
+               ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
+               ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
 
-         pmn$francisco da costa/id=b1799-22-per6
-            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
-            ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
+               pmn$francisco da costa/id=b1799-22-per6
+                  ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+                  ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
 
-         mmn$joaquina/id=b1799-22-per7
-            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
-            ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
+               mmn$joaquina/id=b1799-22-per7
+                  ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+                  ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
 
-         pad1$francisco dos santos/id=b1799-22-per8
-            ls$residencia/sobral da lagoa
-            ls$freguesia/sao joao do moncharro
+            pad1$francisco dos santos/id=b1799-22-per8
+               ls$residencia/sobral da lagoa
+               ls$freguesia/sao joao do moncharro
 
-         mad1$nossa senhora da piedade/id=b1799-22-per9
+            mad1$nossa senhora da piedade/id=b1799-22-per9
 
-         procurador-mad1$manuel gomes/id=b1799-22-per10
-            ls$freguesia/santa maria/obs=tocou com a reliquia de nossa senhora da piedade
+            procurador-mad1$manuel gomes/id=b1799-22-per10
+               ls$freguesia/santa maria/obs=tocou com a reliquia de nossa senhora da piedade
 
       bap$b1799-23/6/10/1799/fl.117v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -633,288 +633,288 @@ kleio$gacto.str/prefix=sp
             referido$nome desconhecido/id=b1799-23-n-per1
                rel$sociabilidade/baptizou em casa/anacleto/b1799-23-n
 
-         pn$nome desconhecido/id=b1799-23-per2
+            pn$nome desconhecido/id=b1799-23-per2
 
-         mn$nome desconhecido/id=b1799-23-per3
+            mn$nome desconhecido/id=b1799-23-per3
 
-         pad1$inacio antonio da silveira/id=b1799-23-per4
-            ls$residencia/freguesia de sao pedro
+            pad1$inacio antonio da silveira/id=b1799-23-per4
+               ls$residencia/freguesia de sao pedro
 
-         mad1$eugenia maria/id=b1799-23-per5
+            mad1$eugenia maria/id=b1799-23-per5
 
-         mrmad1$jose ribeiro/id=b1799-23-per6
-            ls$residencia/fanadia
+               mrmad1$jose ribeiro/id=b1799-23-per6
+                  ls$residencia/fanadia
 
-         referida$maria angelica vieira/id=b1799-23-referida
-            ls$residencia/tornada
-            rel$sociabilidade/achou a crianca/anacleto/b1799-23-n
+            referida$maria angelica vieira/id=b1799-23-referida
+               ls$residencia/tornada
+               rel$sociabilidade/achou a crianca/anacleto/b1799-23-n
 
-         referido$joao correia/id=b1799-23-per7
-            ls$residencia/tornada
-            rel$parentesco/marido/maria angelica vieira/b1799-23-referida
+            referido$joao correia/id=b1799-23-per7
+               ls$residencia/tornada
+               rel$parentesco/marido/maria angelica vieira/b1799-23-referida
 
-         referida$genoveva/id=b1799-23-per8
-            ls$residencia/obidos
-            rel$sociabilidade/ama/anacleto/b1799-23-n
+            referida$genoveva/id=b1799-23-per8
+               ls$residencia/obidos
+               rel$sociabilidade/ama/anacleto/b1799-23-n
 
       bap$b1799-24/6/10/1799/fl.117v.-118/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$candida/f/id=b1799-24-per1
             ls$enjeitada/sim/obs="exposta e lançada a porta da casa de antonio francisco e de sua molher anna maria do lugar do moledo freguesia do spirito santo no dia sinco do dito mez do presente anno de mil settecentos noventa e nove annos"
 
-         pn$nome desconhecido/id=b1799-24-per2
+            pn$nome desconhecido/id=b1799-24-per2
 
-         mn$nome desconhecido/id=b1799-24-per3
+            mn$nome desconhecido/id=b1799-24-per3
 
-         pad1$tomas jose de aguiar/id=b1799-24-per4
+            pad1$tomas jose de aguiar/id=b1799-24-per4
 
-         mad1$ana maria/id=b1799-24-per5
-            ls$residencia/moledo
-            ls$freguesia/espirito santo
+            mad1$ana maria/id=b1799-24-per5
+               ls$residencia/moledo
+               ls$freguesia/espirito santo
 
-         mrmad1$antonio francisco/id=b1799-24-per6
-            ls$residencia/moledo
-            ls$freguesia/espirito santo
+               mrmad1$antonio francisco/id=b1799-24-per6
+                  ls$residencia/moledo
+                  ls$freguesia/espirito santo
 
       bap$b1799-25/14/10/1799/fl.118/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria angelica do rosario/f/id=b1799-25-n
             ls$enjeitada/sim/obs="exposta a porta da casa de manoel gomes do lugar da dos ruivos freguesia do senhor bom jesuz do carvalhal em dia treze...trazia huma cedula que dezia: esta minina lhe porão per nome maria angelica do rosario, e quem a crear se lhe pagará a creação"
 
-         pn$nome desconhecido/id=b1799-25-per1
+            pn$nome desconhecido/id=b1799-25-per1
 
-         mn$nome desconhecido/id=b1799-25-per2
+            mn$nome desconhecido/id=b1799-25-per2
 
-         pad1$jose martins/id=b1799-25-per3
+            pad1$jose martins/id=b1799-25-per3
 
-         mad1$maria leonor/id=b1799-25-per4
+            mad1$maria leonor/id=b1799-25-per4
 
-         referido$manuel gomes/id=b1799-25-per5
-            ls$residencia/a dos ruivos
-            ls$freguesia/bom jesus do carvalhal
-            rel$sociabilidade/achou a crianca/maria/b1799-25-n
+            referido$manuel gomes/id=b1799-25-per5
+               ls$residencia/a dos ruivos
+               ls$freguesia/bom jesus do carvalhal
+               rel$sociabilidade/achou a crianca/maria/b1799-25-n
 
       bap$b1799-26/20/10/1799/fl.118-118v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1799-26-n
             ls$enjeitada/sim/obs="exposta a dezanove do dito mez do prezente anno de mil settecentos e noventa e nove a porta da casa de jozé d'horta e felicia maria sua mulher do lugar da delgada freguesia de nossa senhora da purificacao da rolica"
 
-         pn$nome desconhecido/id=b1799-26-per1
+            pn$nome desconhecido/id=b1799-26-per1
 
-         mn$nome desconhecido/id=b1799-26-per2
+            mn$nome desconhecido/id=b1799-26-per2
 
-         pad1$jose da horta/id=b1799-26-pad
-            ls$residencia/delgada
-            ls$freguesia/nossa senhora da purificacao, rolica
-            rel$sociabilidade/achou a crianca/maria/b1799-26-n
+            pad1$jose da horta/id=b1799-26-pad
+               ls$residencia/delgada
+               ls$freguesia/nossa senhora da purificacao, rolica
+               rel$sociabilidade/achou a crianca/maria/b1799-26-n
 
-         mad1$felicia maria/id=b1799-26-per3
-            ls$residencia/delgada
-            ls$freguesia/nossa senhora da purificacao, rolica
+            mad1$felicia maria/id=b1799-26-per3
+               ls$residencia/delgada
+               ls$freguesia/nossa senhora da purificacao, rolica
 
-         mrmad1$jose da horta/mesmo_que=b1799-26-pad/id=b1799-26-per4
+               mrmad1$jose da horta/mesmo_que=b1799-26-pad/id=b1799-26-per4
 
       bap$b1799-27/27/10/1799/fl.118v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1799-27-per1
             ls$datanasc/17991016
 
-         pn$manuel da costa farto/id=b1799-27-per2
-            ls$naturalidade/cotem
-            ls$freguesia/vidais
+            pn$manuel da costa farto/id=b1799-27-per2
+               ls$naturalidade/cotem
+               ls$freguesia/vidais
 
-         ppn$joao da costa/id=b1799-27-per3
-            ls$residencia/formigal
-            ls$freguesia/salir do mato
+               ppn$joao da costa/id=b1799-27-per3
+                  ls$residencia/formigal
+                  ls$freguesia/salir do mato
 
-         mpn$josefa farto/id=b1799-27-per4
-            ls$naturalidade/outeiro
-            ls$freguesia/vidais
+               mpn$josefa farto/id=b1799-27-per4
+                  ls$naturalidade/outeiro
+                  ls$freguesia/vidais
 
-         mn$luciana maria da conceicao/id=b1799-27-per5
-            ls$naturalidade/freguesia de sao gregorio
-            ls$locbaptismo/freguesia de sao gregorio
+            mn$luciana maria da conceicao/id=b1799-27-per5
+               ls$naturalidade/freguesia de sao gregorio
+               ls$locbaptismo/freguesia de sao gregorio
 
-         pmn$jacome da silva/id=b1799-27-per6
-            ls$naturalidade/sao gregorio
-            ls$freguesia/sao gregorio
+               pmn$jacome da silva/id=b1799-27-per6
+                  ls$naturalidade/sao gregorio
+                  ls$freguesia/sao gregorio
 
-         mmn$maria do o/id=b1799-27-per7
-            ls$naturalidade/sao gregorio
-            ls$freguesia/sao gregorio
+               mmn$maria do o/id=b1799-27-per7
+                  ls$naturalidade/sao gregorio
+                  ls$freguesia/sao gregorio
 
-         pad1$joao caetano da fonseca neves/id=b1799-27-per8
-            ls$cargo/prior
+            pad1$joao caetano da fonseca neves/id=b1799-27-per8
+               ls$cargo/prior
 
-         mad1$nossa senhora da piedade/id=b1799-27-per9
+            mad1$nossa senhora da piedade/id=b1799-27-per9
 
-         procurador-mad1$bruno jose freire/id=b1799-27-per10
-            ls$residencia/obidos
-            ls$profissao/padre
+            procurador-mad1$bruno jose freire/id=b1799-27-per10
+               ls$residencia/obidos
+               ls$profissao/padre
 
       bap$b1799-28/31/10/1799/fl.118v.-119/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$ana/f/id=b1799-28-per1
             ls$datanasc/17991021
 
-         pn$jose antonio pereira da costa/id=b1799-28-per2
+            pn$jose antonio pereira da costa/id=b1799-28-per2
 
-         ppn$manuel pereira da costa/id=b1799-28-per3
+               ppn$manuel pereira da costa/id=b1799-28-per3
 
-         mpn$joana baptista de lemos/id=b1799-28-per4
+               mpn$joana baptista de lemos/id=b1799-28-per4
 
-         mn$gertrudes rosa da conceicao furtado/id=b1799-28-per5
+            mn$gertrudes rosa da conceicao furtado/id=b1799-28-per5
 
-         pmn$antonio carvalho da costa/id=b1799-28-per6
+               pmn$antonio carvalho da costa/id=b1799-28-per6
 
-         mmn$maria teresa de sousa furtada/id=b1799-28-per7
+               mmn$maria teresa de sousa furtada/id=b1799-28-per7
 
-         pad1$sebastiao de solis da ?/obs=duvida na leitura do ultimo apelido/id=b1799-28-per8
-            ls$naturalidade/badajoz
-            ls$nacionalidade/espanha
+            pad1$sebastiao de solis da ?/obs=duvida na leitura do ultimo apelido/id=b1799-28-per8
+               ls$naturalidade/badajoz
+               ls$nacionalidade/espanha
 
-         mad1$ana vitoria/id=b1799-28-per9
+            mad1$ana vitoria/id=b1799-28-per9
 
-         procurador-mad1$joaquim antonio carvalho e campos/id=b1799-28-per10
+            procurador-mad1$joaquim antonio carvalho e campos/id=b1799-28-per10
 
       bap$b1799-29/3/11/1799/fl.119/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$antonio/m/id=b1799-29-n
             ls$datanasc/17991007
 
-         pn$placido das neves/id=b1799-29-per1
-            ls$naturalidade/usseira
+            pn$placido das neves/id=b1799-29-per1
+               ls$naturalidade/usseira
 
-         ppn$manuel das neves/id=b1799-29-per2
-            ls$residencia/usseira
+               ppn$manuel das neves/id=b1799-29-per2
+                  ls$residencia/usseira
 
-         mpn$maria inacia/id=b1799-29-per3
-            ls$residencia/usseira
+               mpn$maria inacia/id=b1799-29-per3
+                  ls$residencia/usseira
 
-         mn$bernardina maria/id=b1799-29-per4
-            ls$naturalidade/usseira
+            mn$bernardina maria/id=b1799-29-per4
+               ls$naturalidade/usseira
 
-         pmn$joaquim da silva/id=b1799-29-per5
-            ls$residencia/usseira
+               pmn$joaquim da silva/id=b1799-29-per5
+                  ls$residencia/usseira
 
-         mmn$antonia maria/id=b1799-29-per6
-            ls$residencia/usseira
+               mmn$antonia maria/id=b1799-29-per6
+                  ls$residencia/usseira
 
-         pad1$antonio das neves/id=b1799-29-per7
-            rel$parentesco/tio/antonio/b1799-29-n
+            pad1$antonio das neves/id=b1799-29-per7
+               rel$parentesco/tio/antonio/b1799-29-n
 
-         mad1$maria de jesus/id=b1799-29-per8
-            ls$residencia/usseira
+            mad1$maria de jesus/id=b1799-29-per8
+               ls$residencia/usseira
 
-         pmad1$antonio francisco/id=b1799-29-per9
-            ls$residencia/usseira
+               pmad1$antonio francisco/id=b1799-29-per9
+                  ls$residencia/usseira
 
       bap$b1799-30/13/11/1799/fl.119v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$leonor/f/id=b1799-30-per1
             ls$datanasc/17991024
 
-         pn$joaquim antonio henriques/id=b1799-30-per2
-            ls$residencia/obidos
+            pn$joaquim antonio henriques/id=b1799-30-per2
+               ls$residencia/obidos
 
-         ppn$caetano henriques/id=b1799-30-per3
-            ls$residencia/obidos
+               ppn$caetano henriques/id=b1799-30-per3
+                  ls$residencia/obidos
 
-         mpn$ines maria/id=b1799-30-per4
-            ls$residencia/obidos
+               mpn$ines maria/id=b1799-30-per4
+                  ls$residencia/obidos
 
-         mn$antonia margarida doroteia/id=b1799-30-per5
-            ls$residencia/obidos
+            mn$antonia margarida doroteia/id=b1799-30-per5
+               ls$residencia/obidos
 
-         pmn$joao correia/id=b1799-30-per6
-            ls$residencia/salgueiro
-            ls$freguesia/senhor bom jesus de sao pedro
+               pmn$joao correia/id=b1799-30-per6
+                  ls$residencia/salgueiro
+                  ls$freguesia/senhor bom jesus de sao pedro
 
-         mmn$joana maria/id=b1799-30-per7
-            ls$residencia/salgueiro
-            ls$freguesia/senhor bom jesus de sao pedro
+               mmn$joana maria/id=b1799-30-per7
+                  ls$residencia/salgueiro
+                  ls$freguesia/senhor bom jesus de sao pedro
 
-         pad1$joao caetano da fonseca neves/id=b1799-30-per8
-            ls$profissao/padre
+            pad1$joao caetano da fonseca neves/id=b1799-30-per8
+               ls$profissao/padre
 
-         mad1$nossa senhora/id=b1799-30-per9
+            mad1$nossa senhora/id=b1799-30-per9
 
-         procurador-mad1$jose henriques da costa/obs=tocou com a reliquia de nossa senhora/id=b1799-30-per10
+            procurador-mad1$jose henriques da costa/obs=tocou com a reliquia de nossa senhora/id=b1799-30-per10
 
-         mad2$clara maria de oliveira/id=b1799-30-per11
+            mad2$clara maria de oliveira/id=b1799-30-per11
 
       bap$b1799-31/16/11/1799/fl.119v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$gertrudes/f/id=b1799-31-n
             ls$enjeitada/sim/obs="exposta a porta da casa de belchior rodrigues e sua mulher aniceta maria do lugar do bombarral em o dia doze deste mez"
 
-         pn$nome desconhecido/id=b1799-31-per1
+            pn$nome desconhecido/id=b1799-31-per1
 
-         mn$nome desconhecido/id=b1799-31-per2
+            mn$nome desconhecido/id=b1799-31-per2
 
-         pad1$belchior rodrigues/id=b1799-31-per3
-            ls$residencia/bomnbarral
-            rel$sociabilidade/achou a crianca/gertrudes/b1799-31-n
-            rel$parentesco/marido/aniceta maria/b1799-31-mad
+            pad1$belchior rodrigues/id=b1799-31-per3
+               ls$residencia/bomnbarral
+               rel$sociabilidade/achou a crianca/gertrudes/b1799-31-n
+               rel$parentesco/marido/aniceta maria/b1799-31-mad
 
-         mad1$aniceta maria/id=b1799-31-mad
-            ls$residencia/bombarral
-            rel$sociabilidade/ama/gertrudes/b1799-31-n
+            mad1$aniceta maria/id=b1799-31-mad
+               ls$residencia/bombarral
+               rel$sociabilidade/ama/gertrudes/b1799-31-n
 
       bap$b1799-32/17/11/1799/fl.120/francisco xavier de matos (padre)/obs=assina o cura joao felix dos santos pais
 
          n$joao cristiano kraci/m/id=b1799-32-per1
             ls$residencia/obidos/obs="depois de ter adjurado os erros da religiao portestante lutherana instruido nos dogmas da religiao catholica romana de licenca minha baptizou e pos solemmente os santos oleos o padre francisco xavier de mattos ao cathecumeno joao christiano kraci, filho de gothofrego kraci e de joana de naneani naturais da cidade de falmuthe e elle natural da cidade de feiscte de baets lipsia, ou leipsique na alta saxonia. padrinho reverendo doutor vigario geral deste arcediagado jose de barros e almeida"
 
-         pn$godofredo kraci/id=b1799-32-per2
-            ls$naturalidade/feiscte de baets lipsia ou leipsique na alta saxonia
+            pn$godofredo kraci/id=b1799-32-per2
+               ls$naturalidade/feiscte de baets lipsia ou leipsique na alta saxonia
 
-         mn$joana de naneani/id=b1799-32-per3
-            ls$naturalidade/falmuthe
+            mn$joana de naneani/id=b1799-32-per3
+               ls$naturalidade/falmuthe
 
-         pad1$jose de barros almeida/id=b1799-32-per4
-            ls$titulo/reverendissimo
-            ls$titulo/doutor
-            ls$cargo/vigario geral deste arcediagado
+            pad1$jose de barros almeida/id=b1799-32-per4
+               ls$titulo/reverendissimo
+               ls$titulo/doutor
+               ls$cargo/vigario geral deste arcediagado
 
       bap$b1799-33/24/11/1799/fl.120-120v./joao caetano da fonseca (padre)/obs=assina o cura joao felix dos santos pais
 
          n$joao/m/id=b1799-33-n
 
-         pn$tiago francisco/id=b1799-33-per1
-            ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
-            ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
-            ls$naturalidade/usseira
-            ls$residencia/usseira
+            pn$tiago francisco/id=b1799-33-per1
+               ls$naturalidade/freguesia de nossa senhora da purificacao, rolica
+               ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
+               ls$naturalidade/usseira
+               ls$residencia/usseira
 
-         ppn$amador francisco/id=b1799-33-per2
-            ls$residencia/sao mamede
-            ls$freguesia/rolica
+               ppn$amador francisco/id=b1799-33-per2
+                  ls$residencia/sao mamede
+                  ls$freguesia/rolica
 
-         mpn$agostinha teresa/id=b1799-33-per3
-            ls$residencia/sao mamede
-            ls$freguesia/rolica
+               mpn$agostinha teresa/id=b1799-33-per3
+                  ls$residencia/sao mamede
+                  ls$freguesia/rolica
 
-         mn$vitorina gomes/id=b1799-33-per4
-            ls$residencia/usseira
+            mn$vitorina gomes/id=b1799-33-per4
+               ls$residencia/usseira
 
-         pmn$manuel gomes prezado/obs=duvida na leitura do ultimo apelido/id=b1799-33-per5
-            ls$residencia/usseira
+               pmn$manuel gomes prezado/obs=duvida na leitura do ultimo apelido/id=b1799-33-per5
+                  ls$residencia/usseira
 
-         mmn$margarida antonia/id=b1799-33-per6
-            ls$residencia/usseira
+               mmn$margarida antonia/id=b1799-33-per6
+                  ls$residencia/usseira
 
-         pad1$joao gomes/id=b1799-33-per7
-            ls$ec/s
-            rel$parentesco/tio/joao/b1799-33-n
+            pad1$joao gomes/id=b1799-33-per7
+               ls$ec/s
+               rel$parentesco/tio/joao/b1799-33-n
 
-         mad1$nossa senhora do rosario/id=b1799-33-per8
+            mad1$nossa senhora do rosario/id=b1799-33-per8
 
-         procuradora-mad1$angelica/id=b1799-33-per9
-            ls$ec/s
-            ls$residencia/usseira
-            rel$parentesco/filha/antonio luis/b1799-33-referido
-            rel$parentesco/filha/apolinaria maria/b1799-33-referida
+            procuradora-mad1$angelica/id=b1799-33-per9
+               ls$ec/s
+               ls$residencia/usseira
+               rel$parentesco/filha/antonio luis/b1799-33-referido
+               rel$parentesco/filha/apolinaria maria/b1799-33-referida
 
             referido$antonio luis/id=b1799-33-referido
                ls$residencia/usseira
@@ -927,79 +927,79 @@ kleio$gacto.str/prefix=sp
          n$andre/m/id=b1799-34-n
             ls$enjeitado/sim/obs="exposto a porta da casa de henrique joze trabalhador desta villa e freguesia de santa maria em a noite do dita antecedente"
 
-         pn$nome desconhecido/id=b1799-34-per1
+            pn$nome desconhecido/id=b1799-34-per1
 
-         mn$nome desconhecido/id=b1799-34-per2
+            mn$nome desconhecido/id=b1799-34-per2
 
-         pad1$manuel dos santos ferreira/id=b1799-34-per3
-            ls$cargo/tesoureiro da igreja de sao pedro
-            ls$profissao/padre
+            pad1$manuel dos santos ferreira/id=b1799-34-per3
+               ls$cargo/tesoureiro da igreja de sao pedro
+               ls$profissao/padre
 
-         referido$henrique jose/id=b1799-34-per4
-            ls$profissao/trabalhador
-            ls$residencia/obidos
-            ls$freguesia/santa maria
-            rel$sociabilidade/achou a crianca/andre/b1799-34-n
+            referido$henrique jose/id=b1799-34-per4
+               ls$profissao/trabalhador
+               ls$residencia/obidos
+               ls$freguesia/santa maria
+               rel$sociabilidade/achou a crianca/andre/b1799-34-n
 
       bap$b1799-35/8/12/1799/fl.120v.-121/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$antonio mariano/m/id=b1799-35-per1
             ls$datanasc/17991126
 
-         pn$antonio gomes/id=b1799-35-per2
-            ls$naturalidade/usseira
+            pn$antonio gomes/id=b1799-35-per2
+               ls$naturalidade/usseira
 
-         ppn$tome gomes/id=b1799-35-per3
-            ls$residencia/usseira
+               ppn$tome gomes/id=b1799-35-per3
+                  ls$residencia/usseira
 
-         mpn$helena maria/id=b1799-35-per4
-            ls$residencia/usseira
+               mpn$helena maria/id=b1799-35-per4
+                  ls$residencia/usseira
 
-         mn$josefa maria/id=b1799-35-per5
-            ls$naturalidade/a dos negros
+            mn$josefa maria/id=b1799-35-per5
+               ls$naturalidade/a dos negros
 
-         pmn$antonio luis/id=b1799-35-per6
-            ls$naturalidade/freguesia de santa maria madalena, a dos negros
+               pmn$antonio luis/id=b1799-35-per6
+                  ls$naturalidade/freguesia de santa maria madalena, a dos negros
 
-         mmn$francisca maria/id=b1799-35-per7
-            ls$naturalidade/freguesia de santa maria madalena, a dos negros
+               mmn$francisca maria/id=b1799-35-per7
+                  ls$naturalidade/freguesia de santa maria madalena, a dos negros
 
-         pad1$mariano antonio da costa freire/id=b1799-35-per8
-            ls$residencia/lisboa
+            pad1$mariano antonio da costa freire/id=b1799-35-per8
+               ls$residencia/lisboa
 
-         procurador-pad1$feliciano gomes da silveira malhao/id=b1799-35-per9
+            procurador-pad1$feliciano gomes da silveira malhao/id=b1799-35-per9
 
-         mad1$nossa senhora do rosario/id=b1799-35-per10
+            mad1$nossa senhora do rosario/id=b1799-35-per10
 
-         procurador-mad1$joao morato romo/obs=duvida na leitura dos apelidos/id=b1799-35-per11
-            ls$residencia/lisboa/obs=tocou com coroa de nossa senhora do rosario
+            procurador-mad1$joao morato romo/obs=duvida na leitura dos apelidos/id=b1799-35-per11
+               ls$residencia/lisboa/obs=tocou com coroa de nossa senhora do rosario
 
       bap$b1799-36/11/12/1799/fl.121-121v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1799-36-per1
             ls$datanasc/17991201
 
-         pn$joaquim jose coutinho e noronha/id=b1799-36-per2
-            ls$residencia/obidos
+            pn$joaquim jose coutinho e noronha/id=b1799-36-per2
+               ls$residencia/obidos
 
-         ppn$joao ribeiro de oliveira e noronha/id=b1799-36-per3
-            ls$naturalidade/freguesia da madalena, lisboa
+               ppn$joao ribeiro de oliveira e noronha/id=b1799-36-per3
+                  ls$naturalidade/freguesia da madalena, lisboa
 
-         mpn$inacia caetana xavier coutinho da silveira/id=b1799-36-per4
-            ls$naturalidade/freguesia de sao cristovao, lisboa
-            ls$titulo/dona
+               mpn$inacia caetana xavier coutinho da silveira/id=b1799-36-per4
+                  ls$naturalidade/freguesia de sao cristovao, lisboa
+                  ls$titulo/dona
 
-         mn$ana claudina angelica de noronha/id=b1799-36-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mn$ana claudina angelica de noronha/id=b1799-36-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         pmn$matias jose ? de almeida e mato/obs=duvidas na leitura dos apelidos/id=b1799-36-per6
-            ls$naturalidade/quinta de mato?
-            ls$freguesia/sao lucas de freiria
-            ls$arciprestado/torres vedas
+               pmn$matias jose ? de almeida e mato/obs=duvidas na leitura dos apelidos/id=b1799-36-per6
+                  ls$naturalidade/quinta de mato?
+                  ls$freguesia/sao lucas de freiria
+                  ls$arciprestado/torres vedas
 
-         mmn$alexandrina rosa ? e mato/obs=duvida na leitura dos apelidos/id=b1799-36-per7
-            ls$naturalidade/pinhal
+               mmn$alexandrina rosa ? e mato/obs=duvida na leitura dos apelidos/id=b1799-36-per7
+                  ls$naturalidade/pinhal
 
       bap$b1799-37/22/12/1799/fl.121v.-122/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1007,234 +1007,234 @@ kleio$gacto.str/prefix=sp
             ls$residencia/usseira
             ls$datanasc/18991213
 
-         pn$antonio rodrigues/id=b1799-37-per2
-            ls$residencia/usseira
-            ls$naturalidade/a da gorda do peral
-            ls$freguesia/sao simao da vermelha
-            ls$locbaptismo/freguesia de sao simao, vermelha
+            pn$antonio rodrigues/id=b1799-37-per2
+               ls$residencia/usseira
+               ls$naturalidade/a da gorda do peral
+               ls$freguesia/sao simao da vermelha
+               ls$locbaptismo/freguesia de sao simao, vermelha
 
-         ppn$domingos rodrigues/id=b1799-37-per3
-            ls$freguesia/sao simao, vermelha
+               ppn$domingos rodrigues/id=b1799-37-per3
+                  ls$freguesia/sao simao, vermelha
 
-         mpn$maria joaquina/id=b1799-37-per4
-            ls$freguesia/sao simao, vermelha
+               mpn$maria joaquina/id=b1799-37-per4
+                  ls$freguesia/sao simao, vermelha
 
-         mn$joaquina maria de jesus/id=b1799-37-per5
-            ls$naturalidade/usseira
+            mn$joaquina maria de jesus/id=b1799-37-per5
+               ls$naturalidade/usseira
 
-         pmn$diogo vieira/id=b1799-37-per6
-            ls$residencia/usseira
+               pmn$diogo vieira/id=b1799-37-per6
+                  ls$residencia/usseira
 
-         mmn$maria helena/id=b1799-37-per7
-            ls$residencia/usseira
+               mmn$maria helena/id=b1799-37-per7
+                  ls$residencia/usseira
 
-         pad1$antonio dias/id=b1799-37-per8
-            ls$residencia/usseira
+            pad1$antonio dias/id=b1799-37-per8
+               ls$residencia/usseira
 
-         mad1$nossa senhora do rosario/id=b1799-37-per9
+            mad1$nossa senhora do rosario/id=b1799-37-per9
 
-         procurador-mad1$jeronimo soeiro/obs=duvida na leitura do ultimo apelido/obs=tocou com a coroa de nossa senhora do rosario/id=b1799-37-per10
+            procurador-mad1$jeronimo soeiro/obs=duvida na leitura do ultimo apelido/obs=tocou com a coroa de nossa senhora do rosario/id=b1799-37-per10
 
       bap$b1799-38/22/12/1799/fl.122/jose de barros e almeida (reverendo, prior da igreja de sao pedro)/obs=assina o cura joao felix dos santos pais
 
          n$jose/m/id=b1799-38-n
             ls$enjeitado/sim/obs="exposto a porta da casa de maria joaquina soeiro? do lugar das gaeiras freguesia de santa maria no mesmo dia"
 
-         pn$nome desconhecido/id=b1799-38-per1
+            pn$nome desconhecido/id=b1799-38-per1
 
-         mn$nome desconhecido/id=b1799-38-per2
+            mn$nome desconhecido/id=b1799-38-per2
 
-         pad1$manuel dos santos ferreira/id=b1799-38-per3
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos ferreira/id=b1799-38-per3
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         mad1$maria joaquina soeiro/obs=duvida na leitura do apelido/id=b1799-38-per4
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
-            rel$sociabilidade/achou a crianca/jose/b199-38-n
+            mad1$maria joaquina soeiro/obs=duvida na leitura do apelido/id=b1799-38-per4
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
+               rel$sociabilidade/achou a crianca/jose/b199-38-n
 
       bap$b1799-39/26/12/1799/fl.122/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$vitoria/f/id=b1799-39-n
             ls$enjeitado/sim/obs="exposta a porta da casa de marcelino da silva e de feliciana maria do reguengo grande em o dia vinte e tres do dito mez"
 
-         pn$nome desconhecido/id=b1799-39-per1
+            pn$nome desconhecido/id=b1799-39-per1
 
-         mn$nome desconhecido/id=b1799-39-per2
+            mn$nome desconhecido/id=b1799-39-per2
 
-         pad1$manuel dos santos ferreira/id=b1799-39-per3
-            ls$cargo/tesoureiro da igreja de sao pedro
-            ls$profissao/padre
+            pad1$manuel dos santos ferreira/id=b1799-39-per3
+               ls$cargo/tesoureiro da igreja de sao pedro
+               ls$profissao/padre
 
-         referido$marcelino da silva/id=b1799-39-referido
-            ls$residencia/reguengo grande
-            rel$sociabilidade/achou a crianca/vitoria/b1799-39-n
+            referido$marcelino da silva/id=b1799-39-referido
+               ls$residencia/reguengo grande
+               rel$sociabilidade/achou a crianca/vitoria/b1799-39-n
 
-         referido$feliciana maria/id=b1799-39-per4
-            ls$residencia/reguengo grande
-            rel$parentesco/mulher/marcelino da silva/b1799-39-referido
+            referido$feliciana maria/id=b1799-39-per4
+               ls$residencia/reguengo grande
+               rel$parentesco/mulher/marcelino da silva/b1799-39-referido
 
       bap$b1799-40/29/12/1799/fl.122v./joao caetano da fonseca (padre)/obs=assina o cura joao felix dos santos pais
 
          n$jose/m/id=b1799-40-n
             ls$enjeitado/sim/obs="exposto a porta da casa de jose miguel e ana theresa do lugar de sao bartholomeu freguesia de sao lourenco dos galegos no dia vinte e tres do dito mez"
 
-         pn$nome desconhecido/id=b1799-40-per1
+            pn$nome desconhecido/id=b1799-40-per1
 
-         mn$nome desconhecido/id=b1799-40-per2
+            mn$nome desconhecido/id=b1799-40-per2
 
-         pad1$manuel dos santos ferreira/id=b1799-40-per3
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos ferreira/id=b1799-40-per3
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         mad1$francisca cecoli/id=b1799-40-per4
-            ls$residencia/obidos
-            ls$titulo/dona
+            mad1$francisca cecoli/id=b1799-40-per4
+               ls$residencia/obidos
+               ls$titulo/dona
 
-         referido$jose miguel/id=b1799-40-referido
-            ls$residencia/sao bartolomeu
-            ls$freguesia/sao lourenco dos galegos
-            rel$sociabilidade/achou a crianca/jose/b1799-40-n
+            referido$jose miguel/id=b1799-40-referido
+               ls$residencia/sao bartolomeu
+               ls$freguesia/sao lourenco dos galegos
+               rel$sociabilidade/achou a crianca/jose/b1799-40-n
 
-         referido$ana teresa/id=b1799-40-per5
-            ls$residencia/sao bartolomeu
-            ls$freguesia/sao lourenco dos galegos
-            rel$sociabilidade/mulher/jose miguel/b1799-40-referido
+            referido$ana teresa/id=b1799-40-per5
+               ls$residencia/sao bartolomeu
+               ls$freguesia/sao lourenco dos galegos
+               rel$sociabilidade/mulher/jose miguel/b1799-40-referido
 
       bap$b1800-1/11/1/1800/fl.122v.-123/joao caetano da fonseca (padre)/obs=assina o cura joao felix dos santos pais
 
          n$gregorio/m/id=b1800-1-n
             ls$datanasc/17991231
 
-         pn$domingos do couto/id=b1800-1-per1
-            ls$residencia/obidos
-            ls$freguesia/nossa senhora da vitoria, famalicao
+            pn$domingos do couto/id=b1800-1-per1
+               ls$residencia/obidos
+               ls$freguesia/nossa senhora da vitoria, famalicao
 
-         ppn$francisco jose/id=b1800-1-per2
-            ls$profissao/alfaiate
-            ls$naturalidade/famalicao
+               ppn$francisco jose/id=b1800-1-per2
+                  ls$profissao/alfaiate
+                  ls$naturalidade/famalicao
 
-         mpn$antonia de jesus/id=b1800-1-per3
-            ls$naturalidade/famalicao
+               mpn$antonia de jesus/id=b1800-1-per3
+                  ls$naturalidade/famalicao
 
-         mn$teresa da encarnacao/id=b1800-1-per4
-            ls$freguesia/nossa senhora da vitoria, famalicao
-            ls$residencia/obidos
+            mn$teresa da encarnacao/id=b1800-1-per4
+               ls$freguesia/nossa senhora da vitoria, famalicao
+               ls$residencia/obidos
 
-         pmn$francisco/id=b1800-1-per5
-            ls$profissao/carpinteiro
-            ls$naturalidade/cravide
+               pmn$francisco/id=b1800-1-per5
+                  ls$profissao/carpinteiro
+                  ls$naturalidade/cravide
 
-         mmn$maria lopes/id=b1800-1-per6
-            ls$naturalidade/cravide
+               mmn$maria lopes/id=b1800-1-per6
+                  ls$naturalidade/cravide
 
-         pad1$jose martins/id=b1800-1-per7
-            rel$parentesco/tio/gregorio/b1800-1-n
+            pad1$jose martins/id=b1800-1-per7
+               rel$parentesco/tio/gregorio/b1800-1-n
 
-         mad1$barbara dos santos/id=b1800-1-per8
-            ls$residencia/obidos
-            rel$parentesco/tia/gregorio/b1800-1-n
+            mad1$barbara dos santos/id=b1800-1-per8
+               ls$residencia/obidos
+               rel$parentesco/tia/gregorio/b1800-1-n
 
       bap$b1800-2/12/1/1800/fl.123/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$luis/m/id=b1800-2-per1
             ls$datanasc/17991227
 
-         pn$tomas correia/id=b1800-2-per2
-            ls$naturalidade/usseira
-            ls$residencia/usseira
+            pn$tomas correia/id=b1800-2-per2
+               ls$naturalidade/usseira
+               ls$residencia/usseira
 
-         ppn$matias henriques/id=b1800-2-per3
-            ls$naturalidade/usseira
+               ppn$matias henriques/id=b1800-2-per3
+                  ls$naturalidade/usseira
 
-         mpn$maria josefa do rosario/id=b1800-2-per4
-            ls$naturalidade/usseira
+               mpn$maria josefa do rosario/id=b1800-2-per4
+                  ls$naturalidade/usseira
 
-         mn$feliciana maria/id=b1800-2-per5
-            ls$naturalidade/usseira
-            ls$residencia/usseira
+            mn$feliciana maria/id=b1800-2-per5
+               ls$naturalidade/usseira
+               ls$residencia/usseira
 
-         pmn$diogo vieira/id=b1800-2-per6
-            ls$naturalidade/usseira
+               pmn$diogo vieira/id=b1800-2-per6
+                  ls$naturalidade/usseira
 
-         mmn$maria helena/id=b1800-2-per7
-            ls$naturalidade/usseira
+               mmn$maria helena/id=b1800-2-per7
+                  ls$naturalidade/usseira
 
-         pad1$luis manuel fialho de mendonca/id=b1800-2-per8
-            ls$residencia/obidos
+            pad1$luis manuel fialho de mendonca/id=b1800-2-per8
+               ls$residencia/obidos
 
-         mad1$nossa senhora do rosario/id=b1800-2-per9
+            mad1$nossa senhora do rosario/id=b1800-2-per9
 
       bap$b1800-3/15/1/1800/fl.123-123v./joao caetano da fonseca (padre)/obs=assina o cura joao felix dos santos pais
 
          n$manuel/m/id=b1800-3-n
             ls$enjeitado/sim/obs="exposto a porta da casa de cicilia ignacia viuva de valemtim jose do lugar das gaeiras freguesia de santa maria no dia treze do dito mez"
 
-         pn$nome desconhecido/id=b1800-3-per1
+            pn$nome desconhecido/id=b1800-3-per1
 
-         mn$nome desconhecido/id=b1800-3-per2
+            mn$nome desconhecido/id=b1800-3-per2
 
-         pad1$manuel dos santos ferreira/id=b1800-3-per3
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos ferreira/id=b1800-3-per3
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         mad1$mariana do espirito santo/id=b1800-3-per4
+            mad1$mariana do espirito santo/id=b1800-3-per4
 
-         referida$cecilia inacia/id=b1800-3-referida
-            ls$ec/v
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
-            rel$sociabilidade/achou a crianca/manuel/b1800-3-n
+            referida$cecilia inacia/id=b1800-3-referida
+               ls$ec/v
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
+               rel$sociabilidade/achou a crianca/manuel/b1800-3-n
 
-         referido$valentim jose/id=b1800-3-per5
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
-            ls$morto/antes
-            rel$parentesco/marido/cecilia inacia/b1800-3-referida
+            referido$valentim jose/id=b1800-3-per5
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
+               ls$morto/antes
+               rel$parentesco/marido/cecilia inacia/b1800-3-referida
 
       bap$b1800-4/27/1/1800/fl.123v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$semplicio/m/id=b1800-4-n
             ls$enjeitado/sim/obs="exposto em o dia antecedente a porta da casa de jose gonsalves e de maria das conceicao do lugar do barrio freguesia de sao joao desta vila"
 
-         pn$nome desconhecido/id=b1800-4-per1
+            pn$nome desconhecido/id=b1800-4-per1
 
-         mn$nome desconhecido/id=b1800-4-per2
+            mn$nome desconhecido/id=b1800-4-per2
 
-         pad1$luis moreira/id=b1800-4-per3
-            ls$residencia/obidos
+            pad1$luis moreira/id=b1800-4-per3
+               ls$residencia/obidos
 
-         mad1$maria da conceicao/id=b1800-4-per4
-            ls$residencia/barrio
-            ls$freguesia/sao joao
+            mad1$maria da conceicao/id=b1800-4-per4
+               ls$residencia/barrio
+               ls$freguesia/sao joao
 
-         mrmad1$jose goncalves/id=b1800-4-per5
-            ls$residencia/barrio
-            ls$freguesia/sao joao
-            rel$sociabilidade/achou a crianca/semplicio/b1800-4-n
+               mrmad1$jose goncalves/id=b1800-4-per5
+                  ls$residencia/barrio
+                  ls$freguesia/sao joao
+                  rel$sociabilidade/achou a crianca/semplicio/b1800-4-n
 
       bap$b1800-5/29/1/1800/fl.123v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$jose/m/id=b1800-5-n
             ls$enjeitado/sim/obs="exposto em o dia antecedente a porta da casa de francisco alves carpinteiro e de rosa maria dos casais de couto freguesia de nossa senhora dos anjos e lugar do couto"
 
-         pn$nome desconhecido/id=b1800-5-per1
+            pn$nome desconhecido/id=b1800-5-per1
 
-         mn$nome desconhecido/id=b1800-5-per2
+            mn$nome desconhecido/id=b1800-5-per2
 
-         pad1$francisco alves/id=b1800-5-per3
-            ls$profissao/carpinteiro
-            ls$residencia/casais do couto
-            ls$freguesia/nossa senhora dos anjos, couto
-            rel$sociabilidade/achou a crianca/jose/b1800-5-n
-            rel$parentesco/marido/rosa maria/b1800-5-mad
+            pad1$francisco alves/id=b1800-5-per3
+               ls$profissao/carpinteiro
+               ls$residencia/casais do couto
+               ls$freguesia/nossa senhora dos anjos, couto
+               rel$sociabilidade/achou a crianca/jose/b1800-5-n
+               rel$parentesco/marido/rosa maria/b1800-5-mad
 
-         mad1$rosa maria/id=b1800-5-mad
-            ls$residencia/casais do couto
-            ls$freguesia/nossa senhora dos anjos, couto
+            mad1$rosa maria/id=b1800-5-mad
+               ls$residencia/casais do couto
+               ls$freguesia/nossa senhora dos anjos, couto
 
-         referido$nome desconhecido/id=b1800-5-per4
-            rel$sociabilidade/baptizou sub conditione/jose/b1800-5-n
+            referido$nome desconhecido/id=b1800-5-per4
+               rel$sociabilidade/baptizou sub conditione/jose/b1800-5-n
 
       bap$b1800-6/2/2/1800/fl.124/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1242,67 +1242,67 @@ kleio$gacto.str/prefix=sp
             ls$residencia/usseira
             ls$datanasc/178000115
 
-         pn$jeronimo vieira/id=b1800-6-per2
-            ls$residencia/usseira
+            pn$jeronimo vieira/id=b1800-6-per2
+               ls$residencia/usseira
 
-         ppn$diogo vieira/id=b1800-6-per3
-            ls$residencia/usseira
+               ppn$diogo vieira/id=b1800-6-per3
+                  ls$residencia/usseira
 
-         mpn$maria helena/id=b1800-6-per4
-            ls$residencia/usseira
+               mpn$maria helena/id=b1800-6-per4
+                  ls$residencia/usseira
 
-         mn$matilde maria/id=b1800-6-per5
-            ls$residencia/usseira
+            mn$matilde maria/id=b1800-6-per5
+               ls$residencia/usseira
 
-         pmn$francisco das neves/id=b1800-6-per6
-            ls$residencia/usseira
+               pmn$francisco das neves/id=b1800-6-per6
+                  ls$residencia/usseira
 
-         mmn$josefa maria/id=b1800-6-per7
-            ls$residencia/usseira
+               mmn$josefa maria/id=b1800-6-per7
+                  ls$residencia/usseira
 
-         pad1$antonio correia/id=b1800-6-per8
+            pad1$antonio correia/id=b1800-6-per8
 
-         mad1$maria eugenia/id=b1800-6-per9
-            ls$residencia/usseira
+            mad1$maria eugenia/id=b1800-6-per9
+               ls$residencia/usseira
 
       bap$b1800-7/11/2/1800/fl.124/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$manuel/m/id=b1800-7-n
             ls$enjeitado/sim/obs="o exposto manoel lancado em o dia antecedente a porta da casa de jose francisco e de maria catharina do casal da figueira freguesia alternativa de sao joao e de sam tiago desta villa"
 
-         pn$nome desconhecido/id=b1800-7-per1
+            pn$nome desconhecido/id=b1800-7-per1
 
-         mn$nome desconhecido/id=b1800-7-per2
+            mn$nome desconhecido/id=b1800-7-per2
 
-         pad1$manuel dos santos ferreira/id=b1800-7-per3
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos ferreira/id=b1800-7-per3
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         mad1$maria catarina/id=b1800-7-per4
-            ls$residencia/casal da figueira
-            ls$freguesia/sao tiago e sao joao
+            mad1$maria catarina/id=b1800-7-per4
+               ls$residencia/casal da figueira
+               ls$freguesia/sao tiago e sao joao
 
-         mrmad1$jose francisco/id=b1800-7-per5
-            ls$residencia/casal da figueira
-            ls$freguesia/sao tiago e sao joao
-            rel$sociabilidade/achou a crianca/manuel/b1800-7-n
+               mrmad1$jose francisco/id=b1800-7-per5
+                  ls$residencia/casal da figueira
+                  ls$freguesia/sao tiago e sao joao
+                  rel$sociabilidade/achou a crianca/manuel/b1800-7-n
 
       bap$b1800-8/12/2/1800/fl.124v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$catarina/f/id=b1800-8-n
             ls$enjeitado/sim/obs="exposta em a noite do dia antecedente a porta da casa de manoel da fonseca e de catarina ignacia ambos do lugar da delgada. vinha em huma alcofa"
 
-         pn$nome desconhecido/id=b1800-8-per1
+            pn$nome desconhecido/id=b1800-8-per1
 
-         mn$nome desconhecido/id=b1800-8-per2
+            mn$nome desconhecido/id=b1800-8-per2
 
-         pad1$manuel da fonseca/id=b1800-8-pad
-            ls$residencia/delgada
-            rel$sociabilidade/achou a crianca/catarina/b1800-8-n
+            pad1$manuel da fonseca/id=b1800-8-pad
+               ls$residencia/delgada
+               rel$sociabilidade/achou a crianca/catarina/b1800-8-n
 
-         mad1$catarina inacia/id=b1800-8-per3
-            ls$residencia/delgada
-            rel$parentesco/mulher/manuel da fonseca/b1800-8-pad
+            mad1$catarina inacia/id=b1800-8-per3
+               ls$residencia/delgada
+               rel$parentesco/mulher/manuel da fonseca/b1800-8-pad
 
       bap$b1800-9/12/3/1800/fl.124v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1310,33 +1310,33 @@ kleio$gacto.str/prefix=sp
             ls$datanasc/18000220
             ls$residencia/usseira
 
-         pn$manuel correia/id=b1800-9-per2
-            ls$residencia/usseira
+            pn$manuel correia/id=b1800-9-per2
+               ls$residencia/usseira
 
-         ppn$jose correia/id=b1800-9-per3
-            ls$residencia/usseira
+               ppn$jose correia/id=b1800-9-per3
+                  ls$residencia/usseira
 
-         mpn$ines maria/id=b1800-9-per4
-            ls$residencia/usseira
+               mpn$ines maria/id=b1800-9-per4
+                  ls$residencia/usseira
 
-         mn$isabel marques/id=b1800-9-per5
-            ls$residencia/usseira
+            mn$isabel marques/id=b1800-9-per5
+               ls$residencia/usseira
 
-         pmn$joao marques paulino/id=b1800-9-per6
-            ls$freguesia/santo andre, cela
+               pmn$joao marques paulino/id=b1800-9-per6
+                  ls$freguesia/santo andre, cela
 
-         mmn$maria marques/id=b1800-9-per7
-            ls$naturalidade/sao sebastiao, maiorga
+               mmn$maria marques/id=b1800-9-per7
+                  ls$naturalidade/sao sebastiao, maiorga
 
-         pad1$carlos marques/id=b1800-9-per8
-            ls$residencia/barrio
-            ls$freguesia/cela
+            pad1$carlos marques/id=b1800-9-per8
+               ls$residencia/barrio
+               ls$freguesia/cela
 
-         mad1$maria da piedade/id=b1800-9-per9
+            mad1$maria da piedade/id=b1800-9-per9
 
-         pmad1$jose de amorim/id=b1800-9-per10
+               pmad1$jose de amorim/id=b1800-9-per10
 
-         procurador-mad1$manuel leucadio de amorim/id=b1800-9-per11
+            procurador-mad1$manuel leucadio de amorim/id=b1800-9-per11
 
       bap$b1800-10/9/3/1800/fl.125/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1344,156 +1344,156 @@ kleio$gacto.str/prefix=sp
             ls$residencia/usseira
             ls$datanasc/18000227
 
-         pn$andre da silva/id=b1800-10-per2
-            ls$residencia/usseira
+            pn$andre da silva/id=b1800-10-per2
+               ls$residencia/usseira
 
-         ppn$alexandre da silva/id=b1800-10-per3
+               ppn$alexandre da silva/id=b1800-10-per3
 
-         mpn$leonor josefa/id=b1800-10-per4
-            ls$freguesia/rolica
+               mpn$leonor josefa/id=b1800-10-per4
+                  ls$freguesia/rolica
 
-         mn$maria vitoria/id=b1800-10-per5
-            ls$residencia/usseira
+            mn$maria vitoria/id=b1800-10-per5
+               ls$residencia/usseira
 
-         pmn$antonio jose/id=b1800-10-per6
-            ls$naturalidade/sao mamede
-            ls$freguesia/rolica
+               pmn$antonio jose/id=b1800-10-per6
+                  ls$naturalidade/sao mamede
+                  ls$freguesia/rolica
 
-         mmn$vitoria maria/id=b1800-10-per7
-            ls$naturalidade/sao mamede
-            ls$freguesia/rolica
+               mmn$vitoria maria/id=b1800-10-per7
+                  ls$naturalidade/sao mamede
+                  ls$freguesia/rolica
 
-         pad1$manuel henriques/id=b1800-10-per8
-            ls$residencia/usseira
+            pad1$manuel henriques/id=b1800-10-per8
+               ls$residencia/usseira
 
-         mad1$nossa senhora da piedade/id=b1800-10-per9
+            mad1$nossa senhora da piedade/id=b1800-10-per9
 
-         procurador-mad1$joao henriques/id=b1800-10-per10
-            ls$residencia/usseira/obs=tocou com a coroa de nossa senhora da piedade
+            procurador-mad1$joao henriques/id=b1800-10-per10
+               ls$residencia/usseira/obs=tocou com a coroa de nossa senhora da piedade
 
       bap$b1800-11/10/3/1800/fl.125-125v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1800-11-per1
             ls$residencia/obidos
 
-         pn$jose teodoro/id=b1800-11-per2
-            ls$residencia/obidos
+            pn$jose teodoro/id=b1800-11-per2
+               ls$residencia/obidos
 
-         ppn$teodoro correia/id=b1800-11-per3
-            ls$residencia/obidos
+               ppn$teodoro correia/id=b1800-11-per3
+                  ls$residencia/obidos
 
-         mpn$maria rosa/id=b1800-11-per4
-            ls$residencia/obidos
+               mpn$maria rosa/id=b1800-11-per4
+                  ls$residencia/obidos
 
-         mn$ana joaquina/id=b1800-11-per5
-            ls$residencia/obidos
+            mn$ana joaquina/id=b1800-11-per5
+               ls$residencia/obidos
 
-         pmn$jose franco/id=b1800-11-per6
-            ls$naturalidade/arelho
-            ls$freguesia/sao joao
+               pmn$jose franco/id=b1800-11-per6
+                  ls$naturalidade/arelho
+                  ls$freguesia/sao joao
 
-         mmn$laurentina maria/id=b1800-11-per7
-            ls$naturalidade/arelho
-            ls$freguesia/sao joao
+               mmn$laurentina maria/id=b1800-11-per7
+                  ls$naturalidade/arelho
+                  ls$freguesia/sao joao
 
-         pad1$manuel leucadio de amorim/id=b1800-11-per8
+            pad1$manuel leucadio de amorim/id=b1800-11-per8
 
-         mad1$nossa senhora da piedade/id=b1800-11-per9
+            mad1$nossa senhora da piedade/id=b1800-11-per9
 
-         procurador-mad1$manuel dos santos ferreira/id=b1800-11-per10
-            ls$cargo/tesoureiro da igreja de sao pedro
-            ls$profissao/padre/obs=tocou com a coroa de nossa senhora da piedade
+            procurador-mad1$manuel dos santos ferreira/id=b1800-11-per10
+               ls$cargo/tesoureiro da igreja de sao pedro
+               ls$profissao/padre/obs=tocou com a coroa de nossa senhora da piedade
 
       bap$b1800-12/23/3/1800/fl.125v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$ana/f/id=b1800-12-per1
             ls$datanasc/18000308
 
-         pn$jose de faria/id=b1800-12-per2
-            ls$residencia/casal de alvito
+            pn$jose de faria/id=b1800-12-per2
+               ls$residencia/casal de alvito
 
-         ppn$jose de faria/id=b1800-12-per3
-            ls$naturalidade/freguesia de santa maria
+               ppn$jose de faria/id=b1800-12-per3
+                  ls$naturalidade/freguesia de santa maria
 
-         mpn$isabel henriques/id=b1800-12-per4
-            ls$naturalidade/freguesia de santa maria
+               mpn$isabel henriques/id=b1800-12-per4
+                  ls$naturalidade/freguesia de santa maria
 
-         mn$joana da conceicao/id=b1800-12-per5
-            ls$residencia/casal de alvito
+            mn$joana da conceicao/id=b1800-12-per5
+               ls$residencia/casal de alvito
 
-         pmn$jose jorge/id=b1800-12-per6
-            ls$naturalidade/casal do avenal
-            ls$freguesia/santa maria
+               pmn$jose jorge/id=b1800-12-per6
+                  ls$naturalidade/casal do avenal
+                  ls$freguesia/santa maria
 
-         mmn$maria joaquina/id=b1800-12-per7
-            ls$naturalidade/casal do avenal
-            ls$freguesia/santa maria
+               mmn$maria joaquina/id=b1800-12-per7
+                  ls$naturalidade/casal do avenal
+                  ls$freguesia/santa maria
 
-         pad1$antonio maria de brito/id=b1800-12-per8
-            ls$titulo/ilustrissimo
+            pad1$antonio maria de brito/id=b1800-12-per8
+               ls$titulo/ilustrissimo
 
-         procurador-pad1$joao caetano da fonseca/id=b1800-12-per9
-            ls$profissao/padre
+            procurador-pad1$joao caetano da fonseca/id=b1800-12-per9
+               ls$profissao/padre
 
-         mad1$antonia leonor pereira pinto de ataide portugal/id=b1800-12-per10
-            ls$titulo/dona
+            mad1$antonia leonor pereira pinto de ataide portugal/id=b1800-12-per10
+               ls$titulo/dona
 
-         procurador-mad1$joao caetano da fonseca neves/id=b1800-12-per11
-            ls$cargo/beneficiado
+            procurador-mad1$joao caetano da fonseca neves/id=b1800-12-per11
+               ls$cargo/beneficiado
 
       bap$b1800-13/23/3/1800/fl.125v.-126/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1800-13-per1
             ls$datanasc/18000303
 
-         pn$joao cardoso/id=b1800-13-per2
-            ls$residencia/obidos
+            pn$joao cardoso/id=b1800-13-per2
+               ls$residencia/obidos
 
-         ppn$manuel cardoso/id=b1800-13-per3
-            ls$naturalidade/freguesia de nossa senhora da piedade, vau
+               ppn$manuel cardoso/id=b1800-13-per3
+                  ls$naturalidade/freguesia de nossa senhora da piedade, vau
 
-         mpn$inacia maria/id=b1800-13-per4
-            ls$naturalidade/freguesia de nossa senhora da piedade, vau
+               mpn$inacia maria/id=b1800-13-per4
+                  ls$naturalidade/freguesia de nossa senhora da piedade, vau
 
-         mn$germana joaquina/id=b1800-13-per5
-            ls$residencia/obidos
+            mn$germana joaquina/id=b1800-13-per5
+               ls$residencia/obidos
 
-         pmn$jose antonio santareno/id=b1800-13-per6
-            ls$residencia/sancheira pequena
-            ls$freguesia/santa maria madalena, a dos negros
+               pmn$jose antonio santareno/id=b1800-13-per6
+                  ls$residencia/sancheira pequena
+                  ls$freguesia/santa maria madalena, a dos negros
 
-         mmn$josefa maria/id=b1800-13-per7
-            ls$residencia/sancheira pequena
-            ls$freguesia/santa maria madalena, a dos negros
+               mmn$josefa maria/id=b1800-13-per7
+                  ls$residencia/sancheira pequena
+                  ls$freguesia/santa maria madalena, a dos negros
 
-         pad1$luis manuel de mendonca fialho/id=b1800-13-per8
+            pad1$luis manuel de mendonca fialho/id=b1800-13-per8
 
-         mad1$senhora da piedade/id=b1800-13-per9
+            mad1$senhora da piedade/id=b1800-13-per9
 
-         procurador-mad1$jose joaquim/id=b1800-13-per10
-            ls$residencia/obidos/obs=tocou com a coroa da senhora da piedade
+            procurador-mad1$jose joaquim/id=b1800-13-per10
+               ls$residencia/obidos/obs=tocou com a coroa da senhora da piedade
 
       bap$b1800-14/29/3/1800/fl.126/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$joaquim/m/id=b1800-14-n
             ls$enjeitado/sim/obs="exposto a porat da casa de francisco marques e isabel maria do casal da carrasqueira freguesia de nossa senhora da piedade dos vidais em vinte e trez do dito mez"
 
-         pn$nome desconhecido/id=b1800-14-per1
+            pn$nome desconhecido/id=b1800-14-per1
 
-         mn$nome desconhecido/id=b1800-14-per2
+            mn$nome desconhecido/id=b1800-14-per2
 
-         pad1$joaquim antonio/id=b1800-14-per3
-            ls$cargo/juiz da vintena de vidais
+            pad1$joaquim antonio/id=b1800-14-per3
+               ls$cargo/juiz da vintena de vidais
 
-         referido$francisco marques/id=b1800-14-referido
-            ls$residencia/casal da carrasqueira
-            ls$freguesia/nossa senhora da piedade, vidais
-            rel$sociabilidade/achou a crianca/joaquim/b1800-14-n
+            referido$francisco marques/id=b1800-14-referido
+               ls$residencia/casal da carrasqueira
+               ls$freguesia/nossa senhora da piedade, vidais
+               rel$sociabilidade/achou a crianca/joaquim/b1800-14-n
 
-         referida$isabel maria/id=b1800-14-per4
-            ls$residencia/casal da carrasqueira
-            ls$freguesia/nossa senhora da piedade, vidais
-            rel$parentesco/mulher/francisco marques/b1800-14-referido
+            referida$isabel maria/id=b1800-14-per4
+               ls$residencia/casal da carrasqueira
+               ls$freguesia/nossa senhora da piedade, vidais
+               rel$parentesco/mulher/francisco marques/b1800-14-referido
 
       bap$b1800-15/30/3/1800/fl.126-126v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1501,117 +1501,117 @@ kleio$gacto.str/prefix=sp
             ls$datanasc/18000310
             ls$residencia/usseira
 
-         pn$manuel gomes saramago/id=b1800-15-per1
-            ls$residencia/usseira
+            pn$manuel gomes saramago/id=b1800-15-per1
+               ls$residencia/usseira
 
-         ppn$joao gomes saramago/id=b1800-15-per2
-            ls$residencia/usseira
+               ppn$joao gomes saramago/id=b1800-15-per2
+                  ls$residencia/usseira
 
-         mpn$maria ferreira/id=b1800-15-per3
-            ls$residencia/usseira
+               mpn$maria ferreira/id=b1800-15-per3
+                  ls$residencia/usseira
 
-         mn$eugenia maria/id=b1800-15-per4
-            ls$residencia/usseira
+            mn$eugenia maria/id=b1800-15-per4
+               ls$residencia/usseira
 
-         pmn$manuel gomes ferreira/id=b1800-15-per5
-            ls$residencia/usseira
+               pmn$manuel gomes ferreira/id=b1800-15-per5
+                  ls$residencia/usseira
 
-         mmn$maria baptista/id=b1800-15-per6
-            ls$residencia/usseira
+               mmn$maria baptista/id=b1800-15-per6
+                  ls$residencia/usseira
 
-         pad1$antonio leal/id=b1800-15-per7
-            ls$residencia/usseira
+            pad1$antonio leal/id=b1800-15-per7
+               ls$residencia/usseira
 
-         mad1$nossa senhora do rosario/id=b1800-15-per8
+            mad1$nossa senhora do rosario/id=b1800-15-per8
 
-         procurador-mad1$jose gomes saramago/id=b1800-15-per9
-            rel$parentesco/tio/eugenia/b1800-15-n
+            procurador-mad1$jose gomes saramago/id=b1800-15-per9
+               rel$parentesco/tio/eugenia/b1800-15-n
 
       bap$b1800-16/6/4/1800/fl.126v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$jose/m/id=b1800-16-n
             ls$enjeitado/sim/obs="exposto a porta da casa de antonio rosa e de maria josefa do lugar do barrio freguesia de sao joao de moxarro desta villa em o mesmo dia"
 
-         pn$nome desconhecido/id=b1800-16-per1
+            pn$nome desconhecido/id=b1800-16-per1
 
-         mn$nome desconhecido/id=b1800-16-per2
+            mn$nome desconhecido/id=b1800-16-per2
 
-         pad1$antonio jose gomes da costa/id=b1800-16-per3
-            ls$residencia/obidos
+            pad1$antonio jose gomes da costa/id=b1800-16-per3
+               ls$residencia/obidos
 
-         mad1$maria do espirito santo/id=b1800-16-per4
-            ls$residencia/sobral da lagoa
+            mad1$maria do espirito santo/id=b1800-16-per4
+               ls$residencia/sobral da lagoa
 
-         referido$antonio rosa/id=b1800-16-referido
-            ls$residencia/barrio
-            ls$freguesia/sao joao do mocharro
-            rel$sociabilidade/achou a crianca/jose/b1800-16-n
+            referido$antonio rosa/id=b1800-16-referido
+               ls$residencia/barrio
+               ls$freguesia/sao joao do mocharro
+               rel$sociabilidade/achou a crianca/jose/b1800-16-n
 
-         referida$maria josefa/id=b1800-16-per5
-            ls$residencia/barrio
-            ls$freguesia/sao joao do mocharro
-            rel$parentesco/mulher/antonio rosa/b1800-16-referido
+            referida$maria josefa/id=b1800-16-per5
+               ls$residencia/barrio
+               ls$freguesia/sao joao do mocharro
+               rel$parentesco/mulher/antonio rosa/b1800-16-referido
 
       bap$b1800-17/27/4/1800/fl.126v.-127/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1800-17-per1
             ls$datanasc/18000415
 
-         pn$severino gomes/id=b1800-17-per2
-            ls$residencia/obidos/obs=filho de pais incognitos
+            pn$severino gomes/id=b1800-17-per2
+               ls$residencia/obidos/obs=filho de pais incognitos
 
-         ppn$nome desconhecido/id=b1800-17-per3
+               ppn$nome desconhecido/id=b1800-17-per3
 
-         mpn$nome desconhecido/id=b1800-17-per4
+               mpn$nome desconhecido/id=b1800-17-per4
 
-         mn$maria da piedade/id=b1800-17-per5
-            ls$residencia/obidos
+            mn$maria da piedade/id=b1800-17-per5
+               ls$residencia/obidos
 
-         pmn$jose pereira/id=b1800-17-per6
+               pmn$jose pereira/id=b1800-17-per6
 
-         mmn$catarina maria/id=b1800-17-per7
+               mmn$catarina maria/id=b1800-17-per7
 
-         pad1$bruno jose freire/id=b1800-17-per8
-            ls$profissao/padre
+            pad1$bruno jose freire/id=b1800-17-per8
+               ls$profissao/padre
 
-         procurador-pad1$joao caetano da fonseca neves/id=b1800-17-per9
-            ls$profissao/padre
+            procurador-pad1$joao caetano da fonseca neves/id=b1800-17-per9
+               ls$profissao/padre
 
-         mad1$nossa senhora da piedade/id=b1800-17-per10
+            mad1$nossa senhora da piedade/id=b1800-17-per10
 
-         procurador-mad1$francisco manuel de amorim/obs=tocou com a coroa de nossa senhora da piedade/id=b1800-17-per11
+            procurador-mad1$francisco manuel de amorim/obs=tocou com a coroa de nossa senhora da piedade/id=b1800-17-per11
 
       bap$b1800-18/30/4/1800/fl.127/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$jose/m/id=b1800-18-per1
 
-         pn$bernardino de matos/id=b1800-18-per2
-            ls$residencia/pinhal
+            pn$bernardino de matos/id=b1800-18-per2
+               ls$residencia/pinhal
 
-         ppn$inacio henriques/id=b1800-18-per3
-            ls$residencia/pinhal
+               ppn$inacio henriques/id=b1800-18-per3
+                  ls$residencia/pinhal
 
-         mpn$josefa jacinta/id=b1800-18-per4
-            ls$residencia/pinhal
+               mpn$josefa jacinta/id=b1800-18-per4
+                  ls$residencia/pinhal
 
-         mn$ana maria/id=b1800-18-per5
-            ls$residencia/pinhal
+            mn$ana maria/id=b1800-18-per5
+               ls$residencia/pinhal
 
-         pmn$jose leal/id=b1800-18-per6
-            ls$freguesia/santa maria madalena, a dos negros
+               pmn$jose leal/id=b1800-18-per6
+                  ls$freguesia/santa maria madalena, a dos negros
 
-         mmn$maria de santa ana/id=b1800-18-per7
-            ls$freguesia/santa maria madalena, a dos negros
+               mmn$maria de santa ana/id=b1800-18-per7
+                  ls$freguesia/santa maria madalena, a dos negros
 
-         pad1$francisco xavier de matos/id=b1800-18-per8
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad1$francisco xavier de matos/id=b1800-18-per8
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad1$margarida barbara/id=b1800-18-per9
-            ls$residencia/lisboa
+            mad1$margarida barbara/id=b1800-18-per9
+               ls$residencia/lisboa
 
-         procurador-mad1$jacinto jose de matos/id=b1800-18-per10
-            ls$residencia/a dos negros
+            procurador-mad1$jacinto jose de matos/id=b1800-18-per10
+               ls$residencia/a dos negros
 
       bap$b1800-19/11/5/1800/fl.127-127v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1619,76 +1619,76 @@ kleio$gacto.str/prefix=sp
             ls$residencia/camarnaes
             ls$datanasc/178000501
 
-         pn$francisco de sousa/id=b1800-19-per2
-            ls$residencia/camarnaes
+            pn$francisco de sousa/id=b1800-19-per2
+               ls$residencia/camarnaes
 
-         ppn$manuel de sousa/id=b1800-19-per3
-            ls$freguesia/freguesia de nossa senhora de aboboriz, amoreira
+               ppn$manuel de sousa/id=b1800-19-per3
+                  ls$freguesia/freguesia de nossa senhora de aboboriz, amoreira
 
-         mpn$maria teresa/id=b1800-19-per4
-            ls$freguesia/freguesia de nossa senhora de aboboriz, amoreira
+               mpn$maria teresa/id=b1800-19-per4
+                  ls$freguesia/freguesia de nossa senhora de aboboriz, amoreira
 
-         mn$germana maria/id=b1800-19-per5
-            ls$residencia/camarnaes
+            mn$germana maria/id=b1800-19-per5
+               ls$residencia/camarnaes
 
-         pmn$jose inacio/id=b1800-19-per6
-            ls$residencia/catalaes
+               pmn$jose inacio/id=b1800-19-per6
+                  ls$residencia/catalaes
 
-         mmn$josefa maria/id=b1800-19-per7
-            ls$residencia/catalaes
+               mmn$josefa maria/id=b1800-19-per7
+                  ls$residencia/catalaes
 
-         pad1$antonio de sousa/id=b1800-19-per8
-            ls$residencia/a dos negros
+            pad1$antonio de sousa/id=b1800-19-per8
+               ls$residencia/a dos negros
 
-         mad1$nossa senhora da piedade/id=b1800-19-per9
+            mad1$nossa senhora da piedade/id=b1800-19-per9
 
       bap$b1800-20/18/5/1800/fl.127v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$joaquim/m/id=b1800-20-per1
             ls$residencia/obidos
 
-         pn$jose martins/id=b1800-20-per2
-            ls$residencia/obidos
+            pn$jose martins/id=b1800-20-per2
+               ls$residencia/obidos
 
-         ppn$antonio martins/id=b1800-20-per3
-            ls$residencia/obidos
+               ppn$antonio martins/id=b1800-20-per3
+                  ls$residencia/obidos
 
-         mpn$ana maria/id=b1800-20-per4
-            ls$residencia/obidos
+               mpn$ana maria/id=b1800-20-per4
+                  ls$residencia/obidos
 
-         mn$barbara dos santos/id=b1800-20-per5
-            ls$residencia/obidos
+            mn$barbara dos santos/id=b1800-20-per5
+               ls$residencia/obidos
 
-         pmn$francisco jose/id=b1800-20-per6
-            ls$profissao/alfaiate
-            ls$freguesia/nossa senhora da vitoria, famalicao
+               pmn$francisco jose/id=b1800-20-per6
+                  ls$profissao/alfaiate
+                  ls$freguesia/nossa senhora da vitoria, famalicao
 
-         mmn$antonia de jesus/id=b1800-20-per7
-            ls$freguesia/nossa senhora da vitoria, famalicao
+               mmn$antonia de jesus/id=b1800-20-per7
+                  ls$freguesia/nossa senhora da vitoria, famalicao
 
-         pad1$jose pereira/id=b1800-20-per8
-            ls$residencia/pinhal
+            pad1$jose pereira/id=b1800-20-per8
+               ls$residencia/pinhal
 
-         mad1$nossa senhora da piedade/id=b1800-20-per9
+            mad1$nossa senhora da piedade/id=b1800-20-per9
 
-         procurador-mad1$domingos do couto/id=b1800-20-per10
+            procurador-mad1$domingos do couto/id=b1800-20-per10
 
       bap$b1800-21/2/6/1800/fl.127v.-128/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$antonio/m/id=b1800-21-n
             ls$enjeitado/sim/obs="exposto no mesmo dia a porta da casa de francisco monteiro do lugar das gaeiras"
 
-         pn$nome desconhecido/id=b1800-21-per1
+            pn$nome desconhecido/id=b1800-21-per1
 
-         mn$nome desconhecido/id=b1800-21-per2
+            mn$nome desconhecido/id=b1800-21-per2
 
-         pad1$francisco dos santos/id=b1800-21-per3
-            ls$residencia/obidos
+            pad1$francisco dos santos/id=b1800-21-per3
+               ls$residencia/obidos
 
-         mad1$nossa senhora da piedade/id=b1800-21-per4
+            mad1$nossa senhora da piedade/id=b1800-21-per4
 
-         procurador-mad1$joaquim severo/id=b1800-21-per5
-            ls$cargo/sacristao da igreja de sao pedro
+            procurador-mad1$joaquim severo/id=b1800-21-per5
+               ls$cargo/sacristao da igreja de sao pedro
 
             referido$francisco monteiro/id=b1800-21-per5-per6
                ls$residencia/gaeiras
@@ -1700,78 +1700,78 @@ kleio$gacto.str/prefix=sp
             ls$residencia/obidos
             ls$datanasc/18000520
 
-         pn$francisco dos santos/id=b1800-22-per2
-            ls$residencia/obidos
+            pn$francisco dos santos/id=b1800-22-per2
+               ls$residencia/obidos
 
-         ppn$manuel francisco/id=b1800-22-per3
-            ls$naturalidade/meira
-            ls$bispado/leiria
+               ppn$manuel francisco/id=b1800-22-per3
+                  ls$naturalidade/meira
+                  ls$bispado/leiria
 
-         mpn$teresa de jesus/id=b1800-22-per4
-            ls$naturalidade/meira
-            ls$bispado/leiria
+               mpn$teresa de jesus/id=b1800-22-per4
+                  ls$naturalidade/meira
+                  ls$bispado/leiria
 
-         mn$rosa maria/id=b1800-22-per5
-            ls$residencia/obidos
+            mn$rosa maria/id=b1800-22-per5
+               ls$residencia/obidos
 
-         pmn$antonio de oliveira/id=b1800-22-per6
+               pmn$antonio de oliveira/id=b1800-22-per6
 
-         mmn$teresa de oliveira/id=b1800-22-per7
+               mmn$teresa de oliveira/id=b1800-22-per7
 
-         pad1$mateus goncalves dos santos/id=b1800-22-per8
-            ls$residencia/lisboa
+            pad1$mateus goncalves dos santos/id=b1800-22-per8
+               ls$residencia/lisboa
 
-         procurador-pad1$jose manuel de amorim/id=b1800-22-per9
+            procurador-pad1$jose manuel de amorim/id=b1800-22-per9
 
-         mad1$nossa senhora da piedade/id=b1800-22-per10
+            mad1$nossa senhora da piedade/id=b1800-22-per10
 
       bap$b1800-23/9/6/1800/fl.128-128v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$maria/f/id=b1800-23-n
             ls$enjeitada/sim/obs="exposta em o dia antecedente a porta da casa de fellipe de freitas desta villa"
 
-         pn$nome desconhecido/id=b1800-23-per1
+            pn$nome desconhecido/id=b1800-23-per1
 
-         mn$nome desconhecido/id=b1800-23-per2
+            mn$nome desconhecido/id=b1800-23-per2
 
-         pad1$manuel jose da silva rego/id=b1800-23-per3
+            pad1$manuel jose da silva rego/id=b1800-23-per3
 
-         mad1$genoveva maria/id=b1800-23-per4
-            ls$residencia/obidos
+            mad1$genoveva maria/id=b1800-23-per4
+               ls$residencia/obidos
 
-         referido$filipe de freitas/id=b1800-23-per5
-            ls$residencia/obidos
-            rel$sociabilidade/achou a crianca/maria/b1800-23-n
+            referido$filipe de freitas/id=b1800-23-per5
+               ls$residencia/obidos
+               rel$sociabilidade/achou a crianca/maria/b1800-23-n
 
       bap$b1800-24/29/6/1800/fl.128v./joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$matilde/f/id=b1800-24-per1
             ls$datanasc/18000617
 
-         pn$joaquim jose da costa/id=b1800-24-per2
-            ls$residencia/pinhal
+            pn$joaquim jose da costa/id=b1800-24-per2
+               ls$residencia/pinhal
 
-         ppn$jose da costa/id=b1800-24-per3
-            ls$residencia/pinhal
+               ppn$jose da costa/id=b1800-24-per3
+                  ls$residencia/pinhal
 
-         mpn$ana maria/id=b1800-24-per4
-            ls$residencia/pinhal
+               mpn$ana maria/id=b1800-24-per4
+                  ls$residencia/pinhal
 
-         mn$agostinha maria/id=b1800-24-per5
-            ls$residencia/pinhal
+            mn$agostinha maria/id=b1800-24-per5
+               ls$residencia/pinhal
 
-         pmn$jose da fonseca de brito/id=b1800-24-per6
-            ls$residencia/casal da charneca
-            ls$freguesia/sao joao
+               pmn$jose da fonseca de brito/id=b1800-24-per6
+                  ls$residencia/casal da charneca
+                  ls$freguesia/sao joao
 
-         mmn$maria/id=b1800-24-per7
-            ls$residencia/casal da charneca
-            ls$freguesia/sao joao
+               mmn$maria/id=b1800-24-per7
+                  ls$residencia/casal da charneca
+                  ls$freguesia/sao joao
 
-         pad1$joao pedro craveiro baptista/id=b1800-24-per8
-            ls$cargo/capitao
+            pad1$joao pedro craveiro baptista/id=b1800-24-per8
+               ls$cargo/capitao
 
-         mad1$nossa senhora do rosario/id=b1800-24-per9
+            mad1$nossa senhora do rosario/id=b1800-24-per9
 
       bap$b1800-25/6/7/1800/fl.128v.-129/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1779,37 +1779,37 @@ kleio$gacto.str/prefix=sp
             ls$datanasc/18000624
             ls$residencia/obidos
 
-         pn$joao agostinho/id=b1800-25-per2
-            ls$residencia/obidos
+            pn$joao agostinho/id=b1800-25-per2
+               ls$residencia/obidos
 
-         ppn$antonio jose/id=b1800-25-per3
-            ls$residencia/arelho
-            ls$freguesia/sao joao
+               ppn$antonio jose/id=b1800-25-per3
+                  ls$residencia/arelho
+                  ls$freguesia/sao joao
 
-         mpn$agostinha maria/id=b1800-25-per4
-            ls$residencia/arelho
-            ls$freguesia/sao joao
+               mpn$agostinha maria/id=b1800-25-per4
+                  ls$residencia/arelho
+                  ls$freguesia/sao joao
 
-         mn$francisca maria/id=b1800-25-per5
-            ls$residencia/obidos
+            mn$francisca maria/id=b1800-25-per5
+               ls$residencia/obidos
 
-         pmn$valeriano gomes/id=b1800-25-per6
-            ls$naturalidade/chao da parada
-            ls$freguesia/tornada
+               pmn$valeriano gomes/id=b1800-25-per6
+                  ls$naturalidade/chao da parada
+                  ls$freguesia/tornada
 
-         mmn$maria francisca/id=b1800-25-per7
-            ls$residencia/chao da parada
-            ls$freguesia/tornada
+               mmn$maria francisca/id=b1800-25-per7
+                  ls$residencia/chao da parada
+                  ls$freguesia/tornada
 
-         pad1$joao caetano da fonseca neves/id=b1800-25-per8
-            ls$profissao/padre
+            pad1$joao caetano da fonseca neves/id=b1800-25-per8
+               ls$profissao/padre
 
-         mad1$apolonia clara roberta de almeida/id=b1800-25-mad
+            mad1$apolonia clara roberta de almeida/id=b1800-25-mad
 
-         procurador-mad1$jose de almeida rebelo/id=b1800-25-per9
-            ls$profissao/padre
-            ls$residencia/obidos
-            rel$parentesco/irmao/apolonia clara roberta de almeida/b1800-25-mad
+            procurador-mad1$jose de almeida rebelo/id=b1800-25-per9
+               ls$profissao/padre
+               ls$residencia/obidos
+               rel$parentesco/irmao/apolonia clara roberta de almeida/b1800-25-mad
 
       bap$b1800-26/12/7/1800/fl.129/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
@@ -1817,41 +1817,41 @@ kleio$gacto.str/prefix=sp
             ls$residencia/pinhal
             ls$datanasc/1800
 
-         pn$antonio lourenco/id=b1800-26-per2
-            ls$residencia/pinhal
+            pn$antonio lourenco/id=b1800-26-per2
+               ls$residencia/pinhal
 
-         mn$maria teodora/id=b1800-26-per3
-            ls$residencia/pinhal
+            mn$maria teodora/id=b1800-26-per3
+               ls$residencia/pinhal
 
-         pad1$manuel dos santos ferreira/id=b1800-26-per4
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos ferreira/id=b1800-26-per4
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         mad1$ana josefa vieira sottomaior/id=b1800-26-per5
-            ls$residencia/obidos
+            mad1$ana josefa vieira sottomaior/id=b1800-26-per5
+               ls$residencia/obidos
 
       bap$b1800-27/16/7/1800/fl.129/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$francisco/m/id=b1800-27-n
             ls$enjeitado/sim/obs="exposto a porta da casa de maria roza viuva assistente nesta freguesia e villa de obidos no mesmo dia"
 
-         pn$nome desconhecido/id=b1800-27-per1
+            pn$nome desconhecido/id=b1800-27-per1
 
-         mn$nome desconhecido/id=b1800-27-per2
+            mn$nome desconhecido/id=b1800-27-per2
 
-         pad1$manuel dos santos ferreira/id=b1800-27-per3
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos ferreira/id=b1800-27-per3
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         mad1$maria teresa/id=b1800-27-per4
+            mad1$maria teresa/id=b1800-27-per4
 
-         mrmad1$julio ferreira/id=b1800-27-per5
-            ls$residencia/obidos
+               mrmad1$julio ferreira/id=b1800-27-per5
+                  ls$residencia/obidos
 
-         referida$maria rosa/id=b1800-27-per6
-            ls$ec/v
-            ls$residencia/obidos
-            rel$sociabilidade/achou a crianca/francisco/b1800-27-n
+            referida$maria rosa/id=b1800-27-per6
+               ls$ec/v
+               ls$residencia/obidos
+               rel$sociabilidade/achou a crianca/francisco/b1800-27-n
 
       bap$b1800-28/20/7/1800/fl.129v./joao caetano da fonseca neces (beneficiado)/obs=assina o cura joao felix dos santos pais
 
@@ -1859,90 +1859,90 @@ kleio$gacto.str/prefix=sp
             ls$residencia/usseira
             ls$datanasc/18000709
 
-         pn$antonio jose ferreira/id=b1800-28-per2
-            ls$residencia/usseira
+            pn$antonio jose ferreira/id=b1800-28-per2
+               ls$residencia/usseira
 
-         ppn$jose ferreira/id=b1800-28-per3
-            ls$naturalidade/salgueiro
-            ls$freguesia/senhor bom jesus de sao pedro
+               ppn$jose ferreira/id=b1800-28-per3
+                  ls$naturalidade/salgueiro
+                  ls$freguesia/senhor bom jesus de sao pedro
 
-         mpn$maria da conceicao/id=b1800-28-per4
-            ls$naturalidade/salgueiro
-            ls$freguesia/senhor bom jesus de sao pedro
+               mpn$maria da conceicao/id=b1800-28-per4
+                  ls$naturalidade/salgueiro
+                  ls$freguesia/senhor bom jesus de sao pedro
 
-         mn$maria ines/id=b1800-28-per5
-            ls$residencia/usseira
+            mn$maria ines/id=b1800-28-per5
+               ls$residencia/usseira
 
-         pmn$jose correia/id=b1800-28-per6
-            ls$residencia/usseira
+               pmn$jose correia/id=b1800-28-per6
+                  ls$residencia/usseira
 
-         mmn$ines maria/id=b1800-28-per7
-            ls$residencia/usseira
+               mmn$ines maria/id=b1800-28-per7
+                  ls$residencia/usseira
 
-         pad1$antonio moreira goes/id=b1800-28-per8
-            ls$residencia/obidos
+            pad1$antonio moreira goes/id=b1800-28-per8
+               ls$residencia/obidos
 
-         mad1$nossa senhora do rosario/id=b1800-28-per9
+            mad1$nossa senhora do rosario/id=b1800-28-per9
 
       bap$b1800-29/14/8/1800/fl.129v.-130/joaquim jose soares (padre)/obs=assina o cura joao felix dos santos pais
 
          n$maria amelia/f/id=b1800-29-n
             ls$datanasc/18000731
 
-         pn$jose leal franco de carvalho/id=b1800-29-per1
-            ls$residencia/obidos
+            pn$jose leal franco de carvalho/id=b1800-29-per1
+               ls$residencia/obidos
 
-         ppn$joaquim leal moreira/id=b1800-29-per2
-            ls$residencia/obidos
+               ppn$joaquim leal moreira/id=b1800-29-per2
+                  ls$residencia/obidos
 
-         mpn$maria da piedade franco de carvalho/id=b1800-29-per3
-            ls$residencia/obidos
+               mpn$maria da piedade franco de carvalho/id=b1800-29-per3
+                  ls$residencia/obidos
 
-         mn$mariana da conceicao dinis malhao/id=b1800-29-per4
-            ls$residencia/obidos
+            mn$mariana da conceicao dinis malhao/id=b1800-29-per4
+               ls$residencia/obidos
 
-         pmn$agostinho gomes da silveira/id=b1800-29-per5
-            ls$titulo/doutor
-            ls$residencia/obidos
+               pmn$agostinho gomes da silveira/id=b1800-29-per5
+                  ls$titulo/doutor
+                  ls$residencia/obidos
 
-         mmn$maria da conceicao dinis malhao/id=b1800-29-per6
-            ls$residencia/obidos
+               mmn$maria da conceicao dinis malhao/id=b1800-29-per6
+                  ls$residencia/obidos
 
-         pad1$antonio gomes da silva/id=b1800-29-per7
-            ls$titulo/frei
-            ls$cargo/freire da ordem de cristo
-            ls$ordem/cristo
+            pad1$antonio gomes da silva/id=b1800-29-per7
+               ls$titulo/frei
+               ls$cargo/freire da ordem de cristo
+               ls$ordem/cristo
 
-         mad1$nossa senhora da piedade/id=b1800-29-per8
+            mad1$nossa senhora da piedade/id=b1800-29-per8
 
-         procurador-mad1$antonio leal moreira/id=b1800-29-per9
-            rel$parentesco/tio/maria amelia/b1800-29-n
+            procurador-mad1$antonio leal moreira/id=b1800-29-per9
+               rel$parentesco/tio/maria amelia/b1800-29-n
 
       bap$b1800-30/26/9/1800/fl.130/joao felix dos santos pais (cura)/obs=assina o cura joao felix dos santos pais
 
          n$joao/m/id=b1800-30-n
             ls$enjeitado/sim/obs="exposto na noite do dia antecedente a porta da casa de jose gomes e anna ritta da freguesia de santa maria desta villa"
 
-         pn$nome desconhecido/id=b1800-30-per1
+            pn$nome desconhecido/id=b1800-30-per1
 
-         mn$nome desconhecido/id=b1800-30-per2
+            mn$nome desconhecido/id=b1800-30-per2
 
-         pad1$manuel dos santos ferreira/id=b1800-30-per3
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$manuel dos santos ferreira/id=b1800-30-per3
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         mad1$ana pinto/id=b1800-30-per4
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            mad1$ana pinto/id=b1800-30-per4
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         mrmad1$jose gomes/id=b1800-30-per5
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+               mrmad1$jose gomes/id=b1800-30-per5
+                  ls$residencia/obidos
+                  ls$freguesia/santa maria
 
-         referido$jose gomes/id=b1800-30-referido
-            ls$freguesia/santa maria
-            rel$sociabilidade/achou a crianca/joao/b1800-30-n
+            referido$jose gomes/id=b1800-30-referido
+               ls$freguesia/santa maria
+               rel$sociabilidade/achou a crianca/joao/b1800-30-n
 
-         referida$ana rita/id=b1800-30-per6
-            ls$freguesia/santa maria
-            rel$parentesco/mulher/jose gomes/b1800-30-referido
+            referida$ana rita/id=b1800-30-per6
+               ls$freguesia/santa maria
+               rel$parentesco/mulher/jose gomes/b1800-30-referido

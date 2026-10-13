@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=spedro
+kleio$gacto.str/prefix=spedro/translations=1
    fonte$casamentos1786-1787/localizacao-a.d.l./freguesia de sao pedro
 
       cas$c1786-1/22/2/1786/fl.4v.-5/igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o padre o beneficiado jose luis fialho de mendonca
@@ -7,20 +7,20 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/chaves, freguesia de nossa senhora da visitacao/obs=vila de alvorninha dos coutos de alcobaca
             ls$residencia/freguesia de sao pedro
 
-         pnoivo$hipolito francisco/id=c1786-1-per2
-            ls$morto/antes
+            pnoivo$hipolito francisco/id=c1786-1-per2
+               ls$morto/antes
 
-         mnoivo$josefa maria/id=c1786-1-per3
+            mnoivo$josefa maria/id=c1786-1-per3
 
          noiva$ana maria/id=c1786-1-per4
             ls$naturalidade/usseira
             ls$locbaptismo/freguesia de sao pedro
             ls$residencia/freguesia de sao pedro
 
-         pnoiva$manuel gomes/id=c1786-1-per5
+            pnoiva$manuel gomes/id=c1786-1-per5
 
-         mnoiva$inacia maria/id=c1786-1-per6
-            ls$morta/antes
+            mnoiva$inacia maria/id=c1786-1-per6
+               ls$morta/antes
 
          test$jose gomes lobo/id=c1786-1-per7
             ls$assina/mal
@@ -34,21 +34,21 @@ kleio$gacto.str/prefix=spedro
          noivo$jose gomes/id=c1786-2-per1
             ls$locbaptismo/freguesia de santa maria
 
-         pnoivo$jose gomes/id=c1786-2-per2
-            ls$residencia/ribeira de fraldeu
-            ls$freguesia/santa maria
+            pnoivo$jose gomes/id=c1786-2-per2
+               ls$residencia/ribeira de fraldeu
+               ls$freguesia/santa maria
 
-         mnoivo$maria gomes/id=c1786-2-per3
-            ls$residencia/ribeira de fraldeu
-            ls$freguesia/santa maria
+            mnoivo$maria gomes/id=c1786-2-per3
+               ls$residencia/ribeira de fraldeu
+               ls$freguesia/santa maria
 
          noiva$cecilia maria/id=c1786-2-per4
 
-         pnoiva$francisco de lemos/id=c1786-2-per5
-            ls$residencia/usseira
+            pnoiva$francisco de lemos/id=c1786-2-per5
+               ls$residencia/usseira
 
-         mnoiva$maria ferreira/id=c1786-2-per6
-            ls$residencia/usseira
+            mnoiva$maria ferreira/id=c1786-2-per6
+               ls$residencia/usseira
 
          test$jose gomes lobo/id=c1786-2-per7
             ls$residencia/usseira
@@ -66,18 +66,18 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de sao pedro
             rel$parentesco/consanguinidade de quarto grau/eugenia maria/c1786-3-noiva
 
-         pnoivo$jose gomes/id=c1786-3-per2
+            pnoivo$jose gomes/id=c1786-3-per2
 
-         mnoivo$maria ferreira/id=c1786-3-per3
+            mnoivo$maria ferreira/id=c1786-3-per3
 
          noiva$eugenia maria/id=c1786-3-noiva
             ls$naturalidade/usseira
             ls$residencia/usseira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$manuel gomes ferreira/id=c1786-3-per4
+            pnoiva$manuel gomes ferreira/id=c1786-3-per4
 
-         mnoiva$maria baptista dos santos/id=c1786-3-per5
+            mnoiva$maria baptista dos santos/id=c1786-3-per5
 
          test$antonio moreira chaves/id=c1786-3-per6
             ls$cargo/capitao
@@ -95,18 +95,18 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de quielhos
             ls$residencia/freguesia de sao pedro
 
-         pnoivo$verissimo da cunha/id=c1786-4-per2
+            pnoivo$verissimo da cunha/id=c1786-4-per2
 
-         mnoivo$florencia da costa/id=c1786-4-per3
+            mnoivo$florencia da costa/id=c1786-4-per3
 
          noiva$francisca maria/id=c1786-4-per4
             ls$naturalidade/cateloes
             ls$locbaptismo/freguesia de sao pedro
             ls$residencia/freguesia de sao pedro
 
-         pnoiva$jose inacio/id=c1786-4-per5
+            pnoiva$jose inacio/id=c1786-4-per5
 
-         mnoiva$josefa maria/id=c1786-4-per6
+            mnoiva$josefa maria/id=c1786-4-per6
 
          test$feliciano gomes da silveira/id=c1786-4-per7
             ls$cargo/tesoureiro da igreja de sao pedro
@@ -122,17 +122,17 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/casal da eira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoivo$joao henriques/id=c1786-5-per2
-            ls$morto/antes
+            pnoivo$joao henriques/id=c1786-5-per2
+               ls$morto/antes
 
-         mnoivo$josefa maria/id=c1786-5-per3
+            mnoivo$josefa maria/id=c1786-5-per3
 
          noiva$maria luisa/id=c1786-5-per4
             ls$naturalidade/a da gorda
 
-         pnoiva$pedro joao/id=c1786-5-per5
+            pnoiva$pedro joao/id=c1786-5-per5
 
-         mnoiva$teresa rita/id=c1786-5-per6
+            mnoiva$teresa rita/id=c1786-5-per6
 
          test$feleciano gomes da silveira/id=c1786-5-per7
             ls$cargo/tesoureiro da igreja de santa maria
@@ -148,17 +148,17 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/obidos
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoivo$luis pedro ferreira/id=c1786-6-per2
+            pnoivo$luis pedro ferreira/id=c1786-6-per2
 
-         mnoivo$ana joaquina do carmo/id=c1786-6-per3
+            mnoivo$ana joaquina do carmo/id=c1786-6-per3
 
          noiva$maria do carmo/id=c1786-6-per4
             ls$naturalidade/obidos
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$caetano jose/id=c1786-6-per5
+            pnoiva$caetano jose/id=c1786-6-per5
 
-         mnoiva$ines maria/id=c1786-6-per6
+            mnoiva$ines maria/id=c1786-6-per6
 
          test$manuel neves dos reis/id=c1786-6-per7
             ls$titulo/doutor
@@ -175,20 +175,20 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/lisboa, freguesia dos anjos
             ls$locbaptismo/lisboa, freguesia dos anjos
 
-         pnoivo$francisco de sousa/id=c1787-1-per2
-            ls$morto/antes
+            pnoivo$francisco de sousa/id=c1787-1-per2
+               ls$morto/antes
 
-         mnoivo$feliciana maria/id=c1787-1-per3
-            ls$morta/antes
+            mnoivo$feliciana maria/id=c1787-1-per3
+               ls$morta/antes
 
          noiva$ana joaquina/id=c1787-1-per4
             ls$naturalidade/obidos, freguesia de santa
             ls$locbaptismo/freguesia de santa maria
 
-         pnoiva$antonio henriques/id=c1787-1-per5
-            ls$morto/antes
+            pnoiva$antonio henriques/id=c1787-1-per5
+               ls$morto/antes
 
-         mnoiva$escolastica maria/id=c1787-1-per6
+            mnoiva$escolastica maria/id=c1787-1-per6
 
          test$joao monteiro malhao/id=c1787-1-per7
             ls$cargo/capitao
@@ -205,20 +205,20 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/caldas, freguesia de nossa senhora do populo
             ls$locbaptismo/freguesia de nossa senhora do populo
 
-         pnoivo$antonio luis/id=c1787-2-per2
-            ls$morto/antes
+            pnoivo$antonio luis/id=c1787-2-per2
+               ls$morto/antes
 
-         mnoivo$maria teresa/id=c1787-2-per3
+            mnoivo$maria teresa/id=c1787-2-per3
 
          noiva$angelica rosa/id=c1787-2-per4
             ls$naturalidade/tornada, freguesia de nossa senhora da anunciacao
             ls$locbaptismo/freguesia de nossa senhora da anunciacao
 
-         pnoiva$joaquim rodrigues/id=c1787-2-per5
-            ls$morto/antes
+            pnoiva$joaquim rodrigues/id=c1787-2-per5
+               ls$morto/antes
 
-         mnoiva$narcisa de jesus/id=c1787-2-per6
-            ls$morta/antes
+            mnoiva$narcisa de jesus/id=c1787-2-per6
+               ls$morta/antes
 
          test$joao caetano da fonseca/id=c1787-2-per7
             ls$cargo/beneficiado
@@ -236,17 +236,17 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/pragansa, freguesia de sao tome das lamas
             ls$locbaptismo/freguesia de sao tome das lamas
 
-         pnoivo$jose francisco/id=c1787-3-per2
+            pnoivo$jose francisco/id=c1787-3-per2
 
-         mnoivo$teresa moreira/id=c1787-3-per3
+            mnoivo$teresa moreira/id=c1787-3-per3
 
          noiva$catarina de sena/obs=foi dotada pela santa casa da misericordia de lisboa. teve despacho do vigario geral do arcediagado e dos parocos dos contraentes/id=c1787-3-per4
             ls$naturalidade/roxafortes, freguesia de sao tome de lamas
 
-         pnoiva$paulino de oliveira/id=c1787-3-per5
-            ls$morto/antes
+            pnoiva$paulino de oliveira/id=c1787-3-per5
+               ls$morto/antes
 
-         mnoiva$madalena maria/id=c1787-3-per6
+            mnoiva$madalena maria/id=c1787-3-per6
 
          test$manuel antonio da costa/id=c1787-3-per7
             ls$cargo/irmao da mesa da santa casa da misericordia de obidos

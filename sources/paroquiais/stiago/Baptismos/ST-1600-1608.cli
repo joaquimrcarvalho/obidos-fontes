@@ -1,1451 +1,1451 @@
-kleio$gacto.str/prefix=stiago
+kleio$gacto.str/prefix=stiago/translations=1
    fonte$baptismos 1600-1608/1600-1608/localizacao-a.d.l./freguesia de sao tiago de obidos
 
       bap$b1600-1/15/11/1600/fl.3./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$joao/m/id=b1600-1-per1
 
-         pn$gaspar antunes/id=b1600-1-per2
+            pn$gaspar antunes/id=b1600-1-per2
 
-         mn$? antunes/id=b1600-1-per3
+            mn$? antunes/id=b1600-1-per3
 
-         pad$joao delgado/id=b1600-1-per4
-            ls$profissao/padre
-            ls$cargo/vigario da igreja sao joao
+            pad$joao delgado/id=b1600-1-per4
+               ls$profissao/padre
+               ls$cargo/vigario da igreja sao joao
 
-         mad$margarida fernandes/id=b1600-1-per5
-            ls$residencia/arelho
+            mad$margarida fernandes/id=b1600-1-per5
+               ls$residencia/arelho
 
       bap$b1600-2/6/9/1600/fl.3./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$gaspar/m/id=b1600-2-per1
 
-         pn$gaspar alvares/id=b1600-2-per2
-            ls$residencia/cova/obs=duvidas na leitura
+            pn$gaspar alvares/id=b1600-2-per2
+               ls$residencia/cova/obs=duvidas na leitura
 
-         mn$francisca ursula/id=b1600-2-per3
+            mn$francisca ursula/id=b1600-2-per3
 
-         pad$simao de barros/id=b1600-2-per4
+            pad$simao de barros/id=b1600-2-per4
 
-         mad$domingas ?/id=b1600-2-per5
-            ls$residencia/arelho
+            mad$domingas ?/id=b1600-2-per5
+               ls$residencia/arelho
 
       bap$b1600-3/1/11/1600/fl.3v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1600-3-n
 
-         pn$antao fernandes/id=b1600-3-pn
+            pn$antao fernandes/id=b1600-3-pn
 
-         mn$isabel dias/id=b1600-3-mn
+            mn$isabel dias/id=b1600-3-mn
 
-         pad$francisco de lencastre/id=b1600-3-per1
-            ls$titulo/dom
+            pad$francisco de lencastre/id=b1600-3-per1
+               ls$titulo/dom
 
-         ppad$nome desconhecido/id=b1600-3-per2
-            ls$cargo/comendador mor de portugal
+               ppad$nome desconhecido/id=b1600-3-per2
+                  ls$cargo/comendador mor de portugal
 
-         pad2$gaspar ?/id=b1600-3-per3
+            pad2$gaspar ?/id=b1600-3-per3
 
-         mad$isabel de queiros/id=b1600-3-per4
+            mad$isabel de queiros/id=b1600-3-per4
 
       bap$b1600-4/1/11/1600/fl.3v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$domingas/f/id=b1600-4-per1
             rel$parentesco/irma gemea/maria/b1600-3-n
 
-         pn$antao fernandes/mesmo_que=b1600-3-pn/id=b1600-4-per2
+            pn$antao fernandes/mesmo_que=b1600-3-pn/id=b1600-4-per2
 
-         mn$isabel dias/mesmo_que=b1600-3-mn/id=b1600-4-per3
+            mn$isabel dias/mesmo_que=b1600-3-mn/id=b1600-4-per3
 
-         pad$afonso de lencastre/id=b1600-4-per4
-            ls$titulo/dom
+            pad$afonso de lencastre/id=b1600-4-per4
+               ls$titulo/dom
 
-         mad$isabel/id=b1600-4-per5
-            ls$titulo/dona
+            mad$isabel/id=b1600-4-per5
+               ls$titulo/dona
 
       bap$b1600-5/3/11/1600/fl.3v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$antonio/m/id=b1600-5-per1
 
-         pn$joao de eca/id=b1600-5-per2
-            ls$titulo/dom
+            pn$joao de eca/id=b1600-5-per2
+               ls$titulo/dom
 
-         mn$catarina/id=b1600-5-per3
-            ls$titulo/dona
+            mn$catarina/id=b1600-5-per3
+               ls$titulo/dona
 
-         pad$francisco de eca/id=b1600-5-per4
-            ls$titulo/dom
+            pad$francisco de eca/id=b1600-5-per4
+               ls$titulo/dom
 
-         mad$marta braz/id=b1600-5-per5
+            mad$marta braz/id=b1600-5-per5
 
       bap$b1600-6/27/11/1600/fl.4./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$manuel/m/id=b1600-6-per1
 
-         pn$diogo fernandes ganhoto/id=b1600-6-per2
+            pn$diogo fernandes ganhoto/id=b1600-6-per2
 
-         mn$maria manuel/id=b1600-6-per3
+            mn$maria manuel/id=b1600-6-per3
 
-         pad$jacome de carvalho/id=b1600-6-per4
+            pad$jacome de carvalho/id=b1600-6-per4
 
-         pad2$fernando de menezes/id=b1600-6-per5
-            ls$titulo/dom
+            pad2$fernando de menezes/id=b1600-6-per5
+               ls$titulo/dom
 
-         mad$catarina francisca/id=b1600-6-per6
-            ls$residencia/a da gorda
+            mad$catarina francisca/id=b1600-6-per6
+               ls$residencia/a da gorda
 
       bap$b1601-7/7/1/1601/fl.4./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$pedro/m/id=b1601-7-per1
 
-         pn$fernando alvares de barroso/id=b1601-7-per2
+            pn$fernando alvares de barroso/id=b1601-7-per2
 
-         mn$catarina alvares/id=b1601-7-per3
+            mn$catarina alvares/id=b1601-7-per3
 
-         pad$francisco braz/id=b1601-7-per4
+            pad$francisco braz/id=b1601-7-per4
 
-         mad$maria fernandes/id=b1601-7-per5
+            mad$maria fernandes/id=b1601-7-per5
 
       bap$b1601-8/2/3/1601/fl.4v./igreja de sao tiago/ (prior)/obs=assina marco virgilio (?)
 
          n$antonio/m/id=b1601-8-per1
 
-         pn$domingos luis/id=b1601-8-per2
+            pn$domingos luis/id=b1601-8-per2
 
-         mn$filipa gomes/id=b1601-8-per3
+            mn$filipa gomes/id=b1601-8-per3
 
-         pad$gaspar machado/id=b1601-8-per4
-            ls$residencia/sao tiago
+            pad$gaspar machado/id=b1601-8-per4
+               ls$residencia/sao tiago
 
-         mad$maria dias/id=b1601-8-per5
-            ls$residencia/sao tiago
+            mad$maria dias/id=b1601-8-per5
+               ls$residencia/sao tiago
 
       bap$b1601-9/8/3/1601/fl.4v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$luis/m/id=b1601-9-per1
 
-         pn$francisc/id=b1601-9-per2
+            pn$francisc/id=b1601-9-per2
 
-         mn$catarina coselha?/id=b1601-9-per3
+            mn$catarina coselha?/id=b1601-9-per3
 
-         pad$?/id=b1601-9-per4
+            pad$?/id=b1601-9-per4
 
-         mad$maria de freitas/id=b1601-9-per5
+            mad$maria de freitas/id=b1601-9-per5
 
       bap$b1601-10/18/3/1601/fl.4v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$domingos/m/id=b1601-10-per1
 
-         pn$diogo luis/id=b1601-10-per2
+            pn$diogo luis/id=b1601-10-per2
 
-         mn$? fernandes/id=b1601-10-per3
+            mn$? fernandes/id=b1601-10-per3
 
-         pad$jeronimo nunes/id=b1601-10-per4
+            pad$jeronimo nunes/id=b1601-10-per4
 
-         mad$ana da fonseca/id=b1601-10-per5
+            mad$ana da fonseca/id=b1601-10-per5
 
       bap$b1601-11/20/3/1601/fl.5./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1601-11-per1
 
-         pn$? da serra/id=b1601-11-per2
+            pn$? da serra/id=b1601-11-per2
 
-         mn$jeronima de freitas/id=b1601-11-per3
+            mn$jeronima de freitas/id=b1601-11-per3
 
-         pad$antonio da guia/id=b1601-11-per4
+            pad$antonio da guia/id=b1601-11-per4
 
-         pad2$clemente fialho/id=b1601-11-per5
+            pad2$clemente fialho/id=b1601-11-per5
 
       bap$b1601-12/23/4/1601/fl.5./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$jeronima/f/id=b1601-12-per1
 
-         pn$clemente fialho/id=b1601-12-per2
+            pn$clemente fialho/id=b1601-12-per2
 
-         mn$ana de freitas/id=b1601-12-per3
+            mn$ana de freitas/id=b1601-12-per3
 
-         pad$fialho do cadaval/id=b1601-12-per4
+            pad$fialho do cadaval/id=b1601-12-per4
 
-         pad2$bernardo da serra/id=b1601-12-per5
+            pad2$bernardo da serra/id=b1601-12-per5
 
       bap$b1601-13/1/5/1601/fl.5v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1601-13-per1
 
-         pn$simao valente/id=b1601-13-per2
-            ls$residencia/gaeira
+            pn$simao valente/id=b1601-13-per2
+               ls$residencia/gaeira
 
-         mn$ goncalves/id=b1601-13-per3
+            mn$ goncalves/id=b1601-13-per3
 
-         pad$antonio francisco paes braz/id=b1601-13-per4
+            pad$antonio francisco paes braz/id=b1601-13-per4
 
-         mad$guiomar luis/id=b1601-13-per5
+            mad$guiomar luis/id=b1601-13-per5
 
       bap$b1601-14/29/5/1601/fl.5v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1601-14-per1
 
-         pn$luis ?/obs=apelido ilegivel/id=b1601-14-per2
-            ls$residencia/quinta da barroca
+            pn$luis ?/obs=apelido ilegivel/id=b1601-14-per2
+               ls$residencia/quinta da barroca
 
-         mn$ines francisca/id=b1601-14-per3
+            mn$ines francisca/id=b1601-14-per3
 
-         pad$fernando luis/id=b1601-14-per4
-            ls$residencia/quinta da barroca
+            pad$fernando luis/id=b1601-14-per4
+               ls$residencia/quinta da barroca
 
-         mad$ana fernandes/id=b1601-14-per5
+            mad$ana fernandes/id=b1601-14-per5
 
       bap$b1601-15/25/7/1601/fl.6./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$diogo/m/id=b1601-15-per1
 
-         pn$antonio da silva/id=b1601-15-per2
+            pn$antonio da silva/id=b1601-15-per2
 
-         mn$rafaela de sampaio/id=b1601-15-per3
+            mn$rafaela de sampaio/id=b1601-15-per3
 
-         pad$joao de lencastre/id=b1601-15-per4
-            ls$titulo/dom
+            pad$joao de lencastre/id=b1601-15-per4
+               ls$titulo/dom
 
-         mad$isabel/id=b1601-15-per5
-            ls$titulo/dona
+            mad$isabel/id=b1601-15-per5
+               ls$titulo/dona
 
       bap$b1601-16/7/8/1601/fl.6./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$manuel/m/id=b1601-16-per1
 
-         pn$cristovao pico/id=b1601-16-pn
+            pn$cristovao pico/id=b1601-16-pn
 
-         mn$?/id=b1601-16-per2
-            ls$titulo/dona
+            mn$?/id=b1601-16-per2
+               ls$titulo/dona
 
-         mad$maria ?/obs=apelido ilegivel/id=b1601-16-per3
-            rel$parentesco/mae/cristovao pico/b1601-16-pn
+            mad$maria ?/obs=apelido ilegivel/id=b1601-16-per3
+               rel$parentesco/mae/cristovao pico/b1601-16-pn
 
       bap$b1601-17/19/8/1601/fl.6v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1601-17-per1
 
-         pn$antonio goncalves/id=b1601-17-per2
-            ls$residencia/gaeiras
+            pn$antonio goncalves/id=b1601-17-per2
+               ls$residencia/gaeiras
 
-         mn$simoa francisco/id=b1601-17-per3
+            mn$simoa francisco/id=b1601-17-per3
 
-         pad$bras fernandes/id=b1601-17-per4
+            pad$bras fernandes/id=b1601-17-per4
 
-         mad$ana sobrinha/id=b1601-17-per5
-            ls$residencia/barroca
+            mad$ana sobrinha/id=b1601-17-per5
+               ls$residencia/barroca
 
       bap$b1601-18/25/9/1601/fl.6v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$francisco/m/id=b1601-18-per1
 
-         pn$diogo lopes/id=b1601-18-per2
+            pn$diogo lopes/id=b1601-18-per2
 
-         mn$leonor lopes/id=b1601-18-per3
+            mn$leonor lopes/id=b1601-18-per3
 
-         pad$lopo de sequeira/id=b1601-18-per4
+            pad$lopo de sequeira/id=b1601-18-per4
 
-         mad$maria dinis/id=b1601-18-per5
+            mad$maria dinis/id=b1601-18-per5
 
       bap$b1601-19/27/11/1601/fl.7./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$francisco/m/id=b1601-19-per1
 
-         pn$jeronimo fernandes/id=b1601-19-per2
-            ls$residencia/gaeiras
-            ls$alcunha/o moco
+            pn$jeronimo fernandes/id=b1601-19-per2
+               ls$residencia/gaeiras
+               ls$alcunha/o moco
 
-         mn$graca antunes/id=b1601-19-per3
+            mn$graca antunes/id=b1601-19-per3
 
-         pad$antonio vaz/id=b1601-19-per4
-            ls$profissao/ferreiro
+            pad$antonio vaz/id=b1601-19-per4
+               ls$profissao/ferreiro
 
-         mad$graca fernandes/id=b1601-19-per5
+            mad$graca fernandes/id=b1601-19-per5
 
       bap$b1601-20/28/11/1601/fl.7./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$antonio/m/id=b1601-20-per1
 
-         pn$diogo luis/id=b1601-20-per2
-            ls$residencia/serra do couto
+            pn$diogo luis/id=b1601-20-per2
+               ls$residencia/serra do couto
 
-         mn$maria lopes/id=b1601-20-per3
+            mn$maria lopes/id=b1601-20-per3
 
-         pad$miguel pires/id=b1601-20-per4
-            ls$residencia/arelho
+            pad$miguel pires/id=b1601-20-per4
+               ls$residencia/arelho
 
-         mad$francisca fernanda/id=b1601-20-per5
-            ls$residencia/arelho
+            mad$francisca fernanda/id=b1601-20-per5
+               ls$residencia/arelho
 
       bap$b1601-21/9/12/1601/fl.7v./igreja de sao tiago/ (prior)/obs=assina diogo de avelar (?)
 
          n$andre/m/id=b1601-21-per1
 
-         pn$antonio fernandes/id=b1601-21-per2
-            ls$residencia/tras do outeiro
+            pn$antonio fernandes/id=b1601-21-per2
+               ls$residencia/tras do outeiro
 
-         mn$joana dias/id=b1601-21-per3
+            mn$joana dias/id=b1601-21-per3
 
-         pad$francisco de lencastre/id=b1601-21-per4
-            ls$titulo/dom
-            ls$residencia/obidos
+            pad$francisco de lencastre/id=b1601-21-per4
+               ls$titulo/dom
+               ls$residencia/obidos
 
-         mad$isabel rebelo/id=b1601-21-per5
-            ls$residencia/obidos
+            mad$isabel rebelo/id=b1601-21-per5
+               ls$residencia/obidos
 
       bap$b1601-22/22/12/1601/fl.7v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$inocencia/f/id=b1601-22-per1
 
-         pn$jeronimo duarte/id=b1601-22-per2
+            pn$jeronimo duarte/id=b1601-22-per2
 
-         mn$isabel alves/id=b1601-22-per3
+            mn$isabel alves/id=b1601-22-per3
 
-         pad$jacome de carvalho/id=b1601-22-per4
+            pad$jacome de carvalho/id=b1601-22-per4
 
-         mad$violante de freitas/id=b1601-22-per5
+            mad$violante de freitas/id=b1601-22-per5
 
       bap$b1602-23/2/2/1602/fl.7v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$diogo/m/id=b1602-23-per1
 
-         pn$diogo monteiro/id=b1602-23-per2
+            pn$diogo monteiro/id=b1602-23-per2
 
-         mn$maria das neves/id=b1602-23-per3
+            mn$maria das neves/id=b1602-23-per3
 
-         pad$dionisio alves/id=b1602-23-per4
+            pad$dionisio alves/id=b1602-23-per4
 
-         mad$?/obs=ilegivel/id=b1602-23-per5
+            mad$?/obs=ilegivel/id=b1602-23-per5
 
       bap$b1602-24/10/2/1602/fl.8./igreja de sao tiago/ (prior)/obs=assina marco ? (padre)
 
          n$luis/m/id=b1602-24-per1
 
-         pn$domingos fernandes/id=b1602-24-per2
-            ls$residencia/arelho
+            pn$domingos fernandes/id=b1602-24-per2
+               ls$residencia/arelho
 
-         mn$francisca fernandes/id=b1602-24-per3
+            mn$francisca fernandes/id=b1602-24-per3
 
-         pad$fernando de alves/id=b1602-24-per4
-            ls$residencia/barroca
+            pad$fernando de alves/id=b1602-24-per4
+               ls$residencia/barroca
 
-         pad2$francisco fernandes/id=b1602-24-per5
+            pad2$francisco fernandes/id=b1602-24-per5
 
       bap$b1602-25/12/2/1602/fl.8./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$marinho/m/id=b1602-25-per1
 
-         pn$manuel fernandes/id=b1602-25-per2
+            pn$manuel fernandes/id=b1602-25-per2
 
-         mn$isabel rodrigues/id=b1602-25-per3
+            mn$isabel rodrigues/id=b1602-25-per3
 
-         pad$dionisio fortes?/id=b1602-25-per4
+            pad$dionisio fortes?/id=b1602-25-per4
 
-         pad2$antonio da fonseca/id=b1602-25-per5
+            pad2$antonio da fonseca/id=b1602-25-per5
 
       bap$b1602-26/12/2/1602/fl.8./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$jose/m/id=b1602-26-per1
 
-         pn$jose monteiro/id=b1602-26-per2
+            pn$jose monteiro/id=b1602-26-per2
 
-         mn$maria jacome/id=b1602-26-per3
+            mn$maria jacome/id=b1602-26-per3
 
-         pad$manuel leitao/id=b1602-26-per4
+            pad$manuel leitao/id=b1602-26-per4
 
-         mad$antonia dias/id=b1602-26-per5
+            mad$antonia dias/id=b1602-26-per5
 
       bap$b1602-27/19/3/1602/fl.8v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$alvaro/m/id=b1602-27-per1
 
-         pn$alvaro goncalves/id=b1602-27-per2
-            ls$residencia/tras do outeiro
+            pn$alvaro goncalves/id=b1602-27-per2
+               ls$residencia/tras do outeiro
 
-         mn$maria batista/id=b1602-27-per3
+            mn$maria batista/id=b1602-27-per3
 
-         pad$francisco/id=b1602-27-per4
-            ls$titulo/dom
+            pad$francisco/id=b1602-27-per4
+               ls$titulo/dom
 
-         mad$joana jorge/id=b1602-27-per5
+            mad$joana jorge/id=b1602-27-per5
 
-         pmad$antonio jorge/id=b1602-27-per6
+               pmad$antonio jorge/id=b1602-27-per6
 
       bap$b1602-28/9/4/1602/fl.8v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$luis/m/id=b1602-28-per1
 
-         pn$inocencio luis/id=b1602-28-per2
-            ls$residencia/brougeira
+            pn$inocencio luis/id=b1602-28-per2
+               ls$residencia/brougeira
 
-         mn$maria dias/id=b1602-28-per3
+            mn$maria dias/id=b1602-28-per3
 
-         pad$antonio fernandes/id=b1602-28-per4
-            ls$residencia/tras do outeiro
+            pad$antonio fernandes/id=b1602-28-per4
+               ls$residencia/tras do outeiro
 
-         mad$joana fernandes/id=b1602-28-per5
-            ls$residencia/obidos
+            mad$joana fernandes/id=b1602-28-per5
+               ls$residencia/obidos
 
       bap$b1602-29/0/10/1602/fl.9./igreja de sao tiago/ (prior)/obs=assina padre salvador marques
 
          n$maria/f/id=b1602-29-per1
 
-         pn$gaspar dias/id=b1602-29-per2
-            ls$residencia/tras do outeiro
+            pn$gaspar dias/id=b1602-29-per2
+               ls$residencia/tras do outeiro
 
-         mn$maria antunes/id=b1602-29-per3
+            mn$maria antunes/id=b1602-29-per3
 
-         pad$joao delgado/id=b1602-29-per4
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad$joao delgado/id=b1602-29-per4
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad$nome desconhecido/id=b1602-29-per5
-            ls$residencia/obidos
+            mad$nome desconhecido/id=b1602-29-per5
+               ls$residencia/obidos
 
-         pmad$luis antunes/id=b1602-29-per6
+               pmad$luis antunes/id=b1602-29-per6
 
       bap$b1602-101/8/10/1602/fl.9./igreja de sao tiago/ (prior)/obs=assina padre luis andre
 
          n$miguel/m/id=b1602-101-per1
 
-         pn$francisco antunes/id=b1602-101-per2
-            ls$residencia/?
+            pn$francisco antunes/id=b1602-101-per2
+               ls$residencia/?
 
-         mn$joana rodrigues/id=b1602-101-per3
+            mn$joana rodrigues/id=b1602-101-per3
 
-         pad$domingos peres/id=b1602-101-per4
+            pad$domingos peres/id=b1602-101-per4
 
-         mad$maria rodrigues/id=b1602-101-per5
+            mad$maria rodrigues/id=b1602-101-per5
 
       bap$b1602-30/10/11/1602/fl.9./igreja de sao tiago/ (prior)/obs=assina padre luis andre
 
          n$domingas/f/id=b1602-30-per1
 
-         pn$gaspar alves/id=b1602-30-per2
-            ls$residencia/?
+            pn$gaspar alves/id=b1602-30-per2
+               ls$residencia/?
 
-         mn$maria antunes/id=b1602-30-per3
+            mn$maria antunes/id=b1602-30-per3
 
-         pad$manuel dias/id=b1602-30-per4
+            pad$manuel dias/id=b1602-30-per4
 
-         mad$domingas simoa/id=b1602-30-per5
+            mad$domingas simoa/id=b1602-30-per5
 
       bap$b1602-31/18/12/1602/fl.9v./igreja de sao tiago/ (prior)/obs=assina padre luis andre
 
          n$maria/f/id=b1602-31-per1
 
-         pn$pedro de sousa/id=b1602-31-per2
-            ls$residencia/sao tiago
+            pn$pedro de sousa/id=b1602-31-per2
+               ls$residencia/sao tiago
 
-         mn$joana martins/id=b1602-31-per3
+            mn$joana martins/id=b1602-31-per3
 
-         pad$antonio braz/id=b1602-31-per4
-            ls$residencia/caldas
+            pad$antonio braz/id=b1602-31-per4
+               ls$residencia/caldas
 
-         mad$maria martins/id=b1602-31-per5
-            ls$residencia/caldas
+            mad$maria martins/id=b1602-31-per5
+               ls$residencia/caldas
 
       bap$b1602-32/22/12/1602/fl.9v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$antonio/m/id=b1602-32-n
 
-         pn$joao moreira/id=b1602-32-pn
-            ls$residencia/quinta do senhor dom joao
+            pn$joao moreira/id=b1602-32-pn
+               ls$residencia/quinta do senhor dom joao
 
-         mn$adriana bernardes/id=b1602-32-mn
+            mn$adriana bernardes/id=b1602-32-mn
 
-         pad$joao/id=b1602-32-per1
-            ls$titulo/dom
-            ls$residencia/quinta do senhor dom joao
+            pad$joao/id=b1602-32-per1
+               ls$titulo/dom
+               ls$residencia/quinta do senhor dom joao
 
-         mad$maria ferreira/id=b1602-32-per2
+            mad$maria ferreira/id=b1602-32-per2
 
       bap$b1603-33/10/1/1603/fl.10./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$catarina/f/id=b1603-33-per1
 
-         pn$antonio luis/id=b1603-33-per2
-            ls$residencia/capeleira
+            pn$antonio luis/id=b1603-33-per2
+               ls$residencia/capeleira
 
-         mn$domingas violante/id=b1603-33-per3
+            mn$domingas violante/id=b1603-33-per3
 
-         pad$joao alves/id=b1603-33-per4
-            ls$residencia/geira?
+            pad$joao alves/id=b1603-33-per4
+               ls$residencia/geira?
 
-         mad$catarina luis/id=b1603-33-per5
+            mad$catarina luis/id=b1603-33-per5
 
       bap$b1603-34/18/3/1603/fl.10./igreja de sao tiago/ (prior)/obs=assina calisto moniz
 
          n$domingas/f/id=b1603-34-per1
 
-         pn$antonio rodrigues/id=b1603-34-per2
+            pn$antonio rodrigues/id=b1603-34-per2
 
-         mn$domingas rodrigues/id=b1603-34-per3
+            mn$domingas rodrigues/id=b1603-34-per3
 
-         pad$girao? da cruz/id=b1603-34-per4
-            ls$profissao/barbeiro
+            pad$girao? da cruz/id=b1603-34-per4
+               ls$profissao/barbeiro
 
-         mad$maria rosa/id=b1603-34-per5
-            ls$residencia/quinta de sao miguel
+            mad$maria rosa/id=b1603-34-per5
+               ls$residencia/quinta de sao miguel
 
-         mrmad$alvaro goncalves/id=b1603-34-per6
+               mrmad$alvaro goncalves/id=b1603-34-per6
 
       bap$b1603-35/10/3/1603/fl.10v./igreja de sao tiago/ (prior)/obs=assina padre luis andre
 
          n$manuel/m/id=b1603-35-per1
 
-         pn$domingos luis/id=b1603-35-per2
+            pn$domingos luis/id=b1603-35-per2
 
-         mn$filipa gomes/id=b1603-35-per3
+            mn$filipa gomes/id=b1603-35-per3
 
-         pad$jacome carvalho/id=b1603-35-per4
+            pad$jacome carvalho/id=b1603-35-per4
 
-         mad$beatriz dias/id=b1603-35-per5
+            mad$beatriz dias/id=b1603-35-per5
 
       bap$b1603-36/8/5/1603/fl.10v./igreja de sao tiago/ (prior)/obs=assina calisto moniz (beneficiado)
 
          n$felipe/m/id=b1603-36-per1
 
-         pn$fernando luis/id=b1603-36-per2
+            pn$fernando luis/id=b1603-36-per2
 
-         mn$maria alves/id=b1603-36-per3
+            mn$maria alves/id=b1603-36-per3
 
-         pad$tome de ?/id=b1603-36-per4
+            pad$tome de ?/id=b1603-36-per4
 
-         mad$maria fernandes/obs=refere que e mulher de um desconhecido miguel pires/id=b1603-36-per5
+            mad$maria fernandes/obs=refere que e mulher de um desconhecido miguel pires/id=b1603-36-per5
 
       bap$b1603-37/28/9/1603/fl.10v./igreja de sao tiago/ (prior)/obs=assina assina dom fernando de menezes (prior)
 
          n$antonio/m/id=b1603-37-per1
 
-         pn$damiao vicente/id=b1603-37-per2
+            pn$damiao vicente/id=b1603-37-per2
 
-         mn$apolonia goncalves/id=b1603-37-per3
+            mn$apolonia goncalves/id=b1603-37-per3
 
-         pad$henrique leal/id=b1603-37-per4
-            ls$residencia/gaeiras
+            pad$henrique leal/id=b1603-37-per4
+               ls$residencia/gaeiras
 
-         mad$marta luis/id=b1603-37-per5
-            ls$residencia/gaeiras
+            mad$marta luis/id=b1603-37-per5
+               ls$residencia/gaeiras
 
       bap$b1603-38/2/10/1603/fl.11./igreja de sao tiago/ (prior)/obs=assina assina dom fernando de menezes (prior)
 
          n$domingos/m/id=b1603-38-per1
 
-         pn$domingos dias/id=b1603-38-per2
+            pn$domingos dias/id=b1603-38-per2
 
-         mn$maria fernandes/id=b1603-38-per3
+            mn$maria fernandes/id=b1603-38-per3
 
-         pad$pedro lopo leitao/id=b1603-38-per4
+            pad$pedro lopo leitao/id=b1603-38-per4
 
-         mad$maria fernandes/id=b1603-38-per5
+            mad$maria fernandes/id=b1603-38-per5
 
       bap$b1603-39/10/10/1603/fl.11./igreja de sao tiago/ (prior)/obs=assina assina dom fernando de menezes (prior)
 
          n$ana/f/id=b1603-39-per1
 
-         pn$alvaro fernandes/id=b1603-39-per2
+            pn$alvaro fernandes/id=b1603-39-per2
 
-         mn$maria domingos/id=b1603-39-per3
+            mn$maria domingos/id=b1603-39-per3
 
-         pad$lopo de sequeira/id=b1603-39-per4
+            pad$lopo de sequeira/id=b1603-39-per4
 
-         mad$antonia jorgea?/id=b1603-39-per5
-            ls$residencia/carregalinho
+            mad$antonia jorgea?/id=b1603-39-per5
+               ls$residencia/carregalinho
 
       bap$b1604-40/8/2/1604/fl.11./igreja de sao tiago/ (prior)/obs=assina jose ?
 
          n$domingos/m/id=b1604-40-per1
 
-         pn$jeronimo fernandes/id=b1604-40-per2
-            ls$residencia/gaeiras
+            pn$jeronimo fernandes/id=b1604-40-per2
+               ls$residencia/gaeiras
 
-         mn$maria dias/id=b1604-40-per3
+            mn$maria dias/id=b1604-40-per3
 
-         pad$antonio vaz/id=b1604-40-per4
+            pad$antonio vaz/id=b1604-40-per4
 
-         mad$domingas francisca/id=b1604-40-per5
-            ls$residencia/gaeiras
+            mad$domingas francisca/id=b1604-40-per5
+               ls$residencia/gaeiras
 
       bap$b1604-41/22/2/1604/fl.11./igreja de sao tiago/ (prior)
 
          n$domingos/m/id=b1604-41-per1
 
-         pn$andre duarte/id=b1604-41-per2
-            ls$residencia/nadadouro
+            pn$andre duarte/id=b1604-41-per2
+               ls$residencia/nadadouro
 
-         mn$ana martins/id=b1604-41-per3
+            mn$ana martins/id=b1604-41-per3
 
-         pad$domingos fernandes/id=b1604-41-per4
+            pad$domingos fernandes/id=b1604-41-per4
 
-         mad$maria fernandes/id=b1604-41-per5
+            mad$maria fernandes/id=b1604-41-per5
 
       bap$b1604-42/7/3/1604/fl.11v./igreja de sao tiago/ (prior)/obs=assina assina dom fernando de menezes (prior)
 
          n$catarina/f/id=b1604-42-per1
 
-         pn$diogo luis/id=b1604-42-per2
-            ls$residencia/gaeira
+            pn$diogo luis/id=b1604-42-per2
+               ls$residencia/gaeira
 
-         mn$beatriz fernandes/obs=duvida na leitura do apelido/id=b1604-42-per3
+            mn$beatriz fernandes/obs=duvida na leitura do apelido/id=b1604-42-per3
 
-         pad$antonio vaz/id=b1604-42-per4
-            ls$residencia/gaeira
+            pad$antonio vaz/id=b1604-42-per4
+               ls$residencia/gaeira
 
       bap$b1604-43/17/3/1604/fl.11v./igreja de sao tiago/ (prior)/obs=assina padre simao francisco
 
          n$domingos/m/id=b1604-43-per1
 
-         pn$domingos gomes/id=b1604-43-per2
-            ls$residencia/casal da poca
+            pn$domingos gomes/id=b1604-43-per2
+               ls$residencia/casal da poca
 
-         mn$isabel dias/id=b1604-43-per3
+            mn$isabel dias/id=b1604-43-per3
 
-         pad$luis fernandes/id=b1604-43-per4
-            ls$residencia/alfosomel/obs=duvida na leitura do toponimo
+            pad$luis fernandes/id=b1604-43-per4
+               ls$residencia/alfosomel/obs=duvida na leitura do toponimo
 
-         mad$isabel fernandes/id=b1604-43-per5
-            ls$residencia/alfosomel/obs=duvida na leitura do toponimo
+            mad$isabel fernandes/id=b1604-43-per5
+               ls$residencia/alfosomel/obs=duvida na leitura do toponimo
 
       bap$b1604-44/3/5/1604/fl.12./igreja de sao tiago/ (prior)/obs=assina padre calisto vaz
 
          n$maria/f/id=b1604-44-per1
 
-         pn$fernando valente/id=b1604-44-per2
+            pn$fernando valente/id=b1604-44-per2
 
-         mn$antonia henriques/id=b1604-44-per3
+            mn$antonia henriques/id=b1604-44-per3
 
-         pad$antonio vaz/id=b1604-44-per4
-            ls$residencia/gaeiras
+            pad$antonio vaz/id=b1604-44-per4
+               ls$residencia/gaeiras
 
-         mad$catarina martinho/id=b1604-44-per5
-            ls$residencia/caldas
+            mad$catarina martinho/id=b1604-44-per5
+               ls$residencia/caldas
 
       bap$b1604-45/10/10/1604/fl.12./igreja de sao tiago/ (prior)/obs=assina duarte sobrinho
 
          n$francisco/m/id=b1604-45-per1
 
-         pn$antonio goncalves/id=b1604-45-per2
-            ls$residencia/gaeiras
+            pn$antonio goncalves/id=b1604-45-per2
+               ls$residencia/gaeiras
 
-         mn$simoa francisco/id=b1604-45-per3
+            mn$simoa francisco/id=b1604-45-per3
 
-         pad$braz fois/id=b1604-45-per4
-            ls$residencia/porto do fojo
+            pad$braz fois/id=b1604-45-per4
+               ls$residencia/porto do fojo
 
-         mad$isabel rodrigues/id=b1604-45-per5
-            ls$residencia/obidos
+            mad$isabel rodrigues/id=b1604-45-per5
+               ls$residencia/obidos
 
       bap$b1604-46/17/10/1604/fl.12./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$domingas/f/id=b1604-46-per1
 
-         pn$andre fernandes/id=b1604-46-per2
-            ls$residencia/gaeiras
+            pn$andre fernandes/id=b1604-46-per2
+               ls$residencia/gaeiras
 
-         mn$madalena gomes/id=b1604-46-per3
+            mn$madalena gomes/id=b1604-46-per3
 
-         pad$francisco rodrigues/id=b1604-46-per4
-            ls$residencia/gaeiras
+            pad$francisco rodrigues/id=b1604-46-per4
+               ls$residencia/gaeiras
 
-         mad$marta luisa/id=b1604-46-per5
-            ls$residencia/gaeiras
+            mad$marta luisa/id=b1604-46-per5
+               ls$residencia/gaeiras
 
       bap$b1604-47/21/10/1604/fl.12v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$domingos/m/id=b1604-47-per1
 
-         pn$jeronimo fernando/id=b1604-47-per2
-            ls$residencia/gaeiras
-            ls$alcunha/o moco
+            pn$jeronimo fernando/id=b1604-47-per2
+               ls$residencia/gaeiras
+               ls$alcunha/o moco
 
-         mn$gregoria antunes/id=b1604-47-per3
+            mn$gregoria antunes/id=b1604-47-per3
 
-         pad$francisco dias/id=b1604-47-per4
+            pad$francisco dias/id=b1604-47-per4
 
-         mad$ana alvares/id=b1604-47-per5
+            mad$ana alvares/id=b1604-47-per5
 
       bap$b1604-48/21/10/1604/fl.12v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$antonio/m/id=b1604-48-per1
 
-         pn$gaspar alvares/id=b1604-48-per2
-            ls$residencia/sobreiro
+            pn$gaspar alvares/id=b1604-48-per2
+               ls$residencia/sobreiro
 
-         mn$nome desconhecido/obs=o prior diz apenas a sua mai/id=b1604-48-per3
+            mn$nome desconhecido/obs=o prior diz apenas a sua mai/id=b1604-48-per3
 
-         pad$antonio alvares/id=b1604-48-per4
+            pad$antonio alvares/id=b1604-48-per4
 
-         mad$maria rodrigues/id=b1604-48-per5
+            mad$maria rodrigues/id=b1604-48-per5
 
       bap$b1604-49/5/12/1604/fl.12v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$domingas/f/id=b1604-49-per1
 
-         pn$pedro de sousa/id=b1604-49-per2
-            ls$residencia/caldas
+            pn$pedro de sousa/id=b1604-49-per2
+               ls$residencia/caldas
 
-         mn$joana martins/id=b1604-49-per3
+            mn$joana martins/id=b1604-49-per3
 
-         pad$bras ?/id=b1604-49-per4
+            pad$bras ?/id=b1604-49-per4
 
-         mad$maria martins/id=b1604-49-per5
-            ls$residencia/caldas
+            mad$maria martins/id=b1604-49-per5
+               ls$residencia/caldas
 
       bap$b1604-50/12/12/1604/fl.13./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$ambrosio/m/id=b1604-50-per1
 
-         pn$antonio martins/id=b1604-50-per2
+            pn$antonio martins/id=b1604-50-per2
 
-         mn$domingas valente/id=b1604-50-per3
+            mn$domingas valente/id=b1604-50-per3
 
-         pad$? nunes/id=b1604-50-per4
+            pad$? nunes/id=b1604-50-per4
 
-         mad$leonor de campos/id=b1604-50-per5
+            mad$leonor de campos/id=b1604-50-per5
 
       bap$b1605-51/14/1/1605/fl.13./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1605-51-per1
             rel$parentesco/irma/antonio/b1602-32-n
 
-         pn$joao moreira/mesmo_que=b1602-32-pn/id=b1605-51-per2
+            pn$joao moreira/mesmo_que=b1602-32-pn/id=b1605-51-per2
 
-         mn$adriana bernarda/mesmo_que=b1602-32-mn/id=b1605-51-per3
+            mn$adriana bernarda/mesmo_que=b1602-32-mn/id=b1605-51-per3
 
-         pad$domingos de sousa/id=b1605-51-per4
+            pad$domingos de sousa/id=b1605-51-per4
 
-         mad$francisca martins/id=b1605-51-per5
+            mad$francisca martins/id=b1605-51-per5
 
       bap$b1605-52/16/1/1605/fl.13./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$francisca/f/id=b1605-52-per1
 
-         pn$domingos fernandes/id=b1605-52-per2
-            ls$residencia/arelho
+            pn$domingos fernandes/id=b1605-52-per2
+               ls$residencia/arelho
 
-         mn$francisca ?/obs=apelido manchado/id=b1605-52-per3
+            mn$francisca ?/obs=apelido manchado/id=b1605-52-per3
 
-         pad$gaspar ?/id=b1605-52-per4
+            pad$gaspar ?/id=b1605-52-per4
 
-         mad$francisca luis/id=b1605-52-per5
-            ls$residencia/barroca
+            mad$francisca luis/id=b1605-52-per5
+               ls$residencia/barroca
 
       bap$b1605-53/16/2/1605/fl.13v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$apolonia/f/id=b1605-53-per1
 
-         pn$antonio fernandes/id=b1605-53-per2
-            ls$residencia/arelho
+            pn$antonio fernandes/id=b1605-53-per2
+               ls$residencia/arelho
 
-         mn$isabel dias/id=b1605-53-per3
+            mn$isabel dias/id=b1605-53-per3
 
-         pad$jeronimo da fonseca/id=b1605-53-per4
-            ls$profissao/padre
+            pad$jeronimo da fonseca/id=b1605-53-per4
+               ls$profissao/padre
 
-         mad$maria francisca luis/id=b1605-53-per5
+            mad$maria francisca luis/id=b1605-53-per5
 
       bap$b1605-54/10/3/1605/fl.13v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$gaspar/m/id=b1605-54-per1
 
-         pn$gaspar dias/id=b1605-54-per2
-            ls$residencia/tras do outeiro
+            pn$gaspar dias/id=b1605-54-per2
+               ls$residencia/tras do outeiro
 
-         mn$maria antunes/id=b1605-54-per3
+            mn$maria antunes/id=b1605-54-per3
 
-         pad$joao delgado/id=b1605-54-per4
-            ls$profissao/padre
-            ls$cargo/vigario da paroquia de sao joao de obidos
+            pad$joao delgado/id=b1605-54-per4
+               ls$profissao/padre
+               ls$cargo/vigario da paroquia de sao joao de obidos
 
-         mad$leonor soares/id=b1605-54-per5
+            mad$leonor soares/id=b1605-54-per5
 
       bap$b1605-55/18/3/1605/fl.13v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$francisco/m/id=b1605-55-per1
 
-         pn$damiao vicente/id=b1605-55-per2
-            ls$residencia/borogeira
+            pn$damiao vicente/id=b1605-55-per2
+               ls$residencia/borogeira
 
-         mn$apolonia goncalves/id=b1605-55-per3
+            mn$apolonia goncalves/id=b1605-55-per3
 
-         pad$francisco fernandes/id=b1605-55-francisco
-            ls$residencia/carregal
+            pad$francisco fernandes/id=b1605-55-francisco
+               ls$residencia/carregal
 
-         mad$marta rodrigues/id=b1605-55-per4
+            mad$marta rodrigues/id=b1605-55-per4
 
-         mrmad$francisco fernandes/mesmo_que=b1605-55-francisco/id=b1605-55-per5
+               mrmad$francisco fernandes/mesmo_que=b1605-55-francisco/id=b1605-55-per5
 
       bap$b1605-56/19/3/1605/fl.14./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$francisca/f/id=b1605-56-per1
 
-         pn$antonio luis/id=b1605-56-per2
+            pn$antonio luis/id=b1605-56-per2
 
-         mn$maria lopes/id=b1605-56-per3
+            mn$maria lopes/id=b1605-56-per3
 
-         pad$miguel pires/id=b1605-56-per4
+            pad$miguel pires/id=b1605-56-per4
 
-         mad$domingas luisa/id=b1605-56-per5
+            mad$domingas luisa/id=b1605-56-per5
 
       bap$b1605-57/21/3/1605/fl.14./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1605-57-per1
 
-         pn$domingos dias/id=b1605-57-per2
-            ls$residencia/calcada
+            pn$domingos dias/id=b1605-57-per2
+               ls$residencia/calcada
 
-         mn$maria fernandes/id=b1605-57-per3
+            mn$maria fernandes/id=b1605-57-per3
 
-         pad$domingos antunes bogalho/id=b1605-57-per4
-            ls$residencia/obidos
+            pad$domingos antunes bogalho/id=b1605-57-per4
+               ls$residencia/obidos
 
-         pad2$brites vieira/id=b1605-57-per5
-            ls$residencia/obidos
+            pad2$brites vieira/id=b1605-57-per5
+               ls$residencia/obidos
 
       bap$b1605-58/25/3/1605/fl.14./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$marta/f/id=b1605-58-per1
 
-         pn$antonio fernandes/id=b1605-58-per2
+            pn$antonio fernandes/id=b1605-58-per2
 
-         mn$joana dias/id=b1605-58-per3
+            mn$joana dias/id=b1605-58-per3
 
-         pad$domingos joao/id=b1605-58-per4
-            ls$residencia/torre
+            pad$domingos joao/id=b1605-58-per4
+               ls$residencia/torre
 
       bap$b1605-59/26/4/1605/fl.14./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$filipa/f/id=b1605-59-per1
             ls$titulo/dona
 
-         pn$joao de eca/id=b1605-59-per2
-            ls$titulo/dom
+            pn$joao de eca/id=b1605-59-per2
+               ls$titulo/dom
 
-         mn$catarina/id=b1605-59-per3
-            ls$titulo/dona
+            mn$catarina/id=b1605-59-per3
+               ls$titulo/dona
 
-         pad$domingo vaz de bernardes/id=b1605-59-per4
+            pad$domingo vaz de bernardes/id=b1605-59-per4
 
       bap$b1605-60/29/5/1605/fl.14./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1605-60-per1
 
-         pn$juliao francisco/id=b1605-60-per2
+            pn$juliao francisco/id=b1605-60-per2
 
-         mn$domingas luis/id=b1605-60-per3
+            mn$domingas luis/id=b1605-60-per3
 
-         pad$antonio braz/id=b1605-60-per4
-            ls$residencia/gaeiras
+            pad$antonio braz/id=b1605-60-per4
+               ls$residencia/gaeiras
 
-         mad$maria fernandes/id=b1605-60-per5
+            mad$maria fernandes/id=b1605-60-per5
 
       bap$b1605-61/5/6/1605/fl.14v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$francisco/m/id=b1605-61-per1
 
-         pn$francisco de sousa/id=b1605-61-per2
+            pn$francisco de sousa/id=b1605-61-per2
 
-         mn$maria fernandes/id=b1605-61-per3
+            mn$maria fernandes/id=b1605-61-per3
 
-         pad$pedro alves/id=b1605-61-per4
+            pad$pedro alves/id=b1605-61-per4
 
-         mad$domingas simoa/id=b1605-61-per5
+            mad$domingas simoa/id=b1605-61-per5
 
       bap$b1605-62/18/7/1605/fl.14v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1605-62-per1
 
-         pn$braz rodrigues/id=b1605-62-per2
+            pn$braz rodrigues/id=b1605-62-per2
 
-         mn$ines violante/id=b1605-62-per3
+            mn$ines violante/id=b1605-62-per3
 
-         pad$diogo gil/id=b1605-62-per4
-            ls$residencia/serra do bouro
+            pad$diogo gil/id=b1605-62-per4
+               ls$residencia/serra do bouro
 
-         mad$maria goncalves/id=b1605-62-per5
-            ls$residencia/casal de santa maria
+            mad$maria goncalves/id=b1605-62-per5
+               ls$residencia/casal de santa maria
 
       bap$b1605-63/5/10/1605/fl.14v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (capelao)
 
          n$antonio/m/id=b1605-63-per1
 
-         mn$isabel dias/id=b1605-63-per2
-            ls$ec/s
-            ls$residencia/gaeiras
+            mn$isabel dias/id=b1605-63-per2
+               ls$ec/s
+               ls$residencia/gaeiras
 
-         pad$fernando de menezes/id=b1605-63-per3
-            ls$profissao/padre
-            ls$titulo/dom
-            ls$cargo/prior
+            pad$fernando de menezes/id=b1605-63-per3
+               ls$profissao/padre
+               ls$titulo/dom
+               ls$cargo/prior
 
-         mad$catarina simoes/id=b1605-63-per4
-            ls$residencia/gaeiras
+            mad$catarina simoes/id=b1605-63-per4
+               ls$residencia/gaeiras
 
       bap$b1605-102/5/10/1605/fl.14v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (capelao)
 
          n$iria/f/id=b1605-102-per1
 
-         pn$jeronimo fernandes/id=b1605-102-per2
-            ls$residencia/gaeiras
+            pn$jeronimo fernandes/id=b1605-102-per2
+               ls$residencia/gaeiras
 
-         mn$maria dias/id=b1605-102-per3
+            mn$maria dias/id=b1605-102-per3
 
-         pad$francisco dias/id=b1605-102-per4
-            ls$residencia/gaeiras
+            pad$francisco dias/id=b1605-102-per4
+               ls$residencia/gaeiras
 
-         mad$maria francisca/id=b1605-102-per5
-            ls$residencia/obidos
+            mad$maria francisca/id=b1605-102-per5
+               ls$residencia/obidos
 
       bap$b1605-64/6/11/1605/fl.15./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (capelao)
 
          n$maria/f/id=b1605-64-per1
 
-         pn$nicolau duarte/id=b1605-64-per2
-            ls$residencia/gaeiras
+            pn$nicolau duarte/id=b1605-64-per2
+               ls$residencia/gaeiras
 
-         mn$joana pereira?/id=b1605-64-per3
+            mn$joana pereira?/id=b1605-64-per3
 
-         pad$diogo moniz/id=b1605-64-per4
-            ls$residencia/obidos
+            pad$diogo moniz/id=b1605-64-per4
+               ls$residencia/obidos
 
       bap$b1605-65/4/12/1605/fl.15./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$catarina/f/id=b1605-65-per1
 
-         pn$fernando diogo/id=b1605-65-per2
-            ls$residencia/gaeiras
+            pn$fernando diogo/id=b1605-65-per2
+               ls$residencia/gaeiras
 
-         mn$graca maria fernandes/id=b1605-65-per3
+            mn$graca maria fernandes/id=b1605-65-per3
 
-         pad$? nunes/obs=ilegivel porque sobreposto/id=b1605-65-per4
+            pad$? nunes/obs=ilegivel porque sobreposto/id=b1605-65-per4
 
-         mad$catarina neto/id=b1605-65-per5
+            mad$catarina neto/id=b1605-65-per5
 
       bap$b1605-66/21/12/1605/fl.15./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1605-66-per1
 
-         pn$francisco correia/id=b1605-66-per2
+            pn$francisco correia/id=b1605-66-per2
 
-         mn$antonia ribeiro/id=b1605-66-per3
+            mn$antonia ribeiro/id=b1605-66-per3
 
-         pad$diogo ribeiro/id=b1605-66-per4
+            pad$diogo ribeiro/id=b1605-66-per4
 
-         mad$domingas da silva/id=b1605-66-per5
+            mad$domingas da silva/id=b1605-66-per5
 
       bap$b1605-67/25/12/1605/fl.15v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$nataria/f/id=b1605-67-per1
 
-         pn$luis antonio/id=b1605-67-per2
+            pn$luis antonio/id=b1605-67-per2
 
-         mn$maria dias/id=b1605-67-per3
+            mn$maria dias/id=b1605-67-per3
 
-         pad$braz antunes/id=b1605-67-per4
-            ls$residencia/sao tiago
+            pad$braz antunes/id=b1605-67-per4
+               ls$residencia/sao tiago
 
-         mad$maria rodrigues/id=b1605-67-per5
-            ls$residencia/sao tiago
+            mad$maria rodrigues/id=b1605-67-per5
+               ls$residencia/sao tiago
 
       bap$b1606-68/22/1/1606/fl.15v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$graniel/m/obs=sic graniel nao grabiel nem daniel/id=b1606-68-per1
 
-         pn$alvaro goncalves/id=b1606-68-per2
+            pn$alvaro goncalves/id=b1606-68-per2
 
-         mn$maria bota/id=b1606-68-per3
+            mn$maria bota/id=b1606-68-per3
 
-         pad$gaspar dias/id=b1606-68-per4
+            pad$gaspar dias/id=b1606-68-per4
 
-         mad$violante luis/id=b1606-68-per5
+            mad$violante luis/id=b1606-68-per5
 
       bap$b1606-69/18/4/1606/fl.15v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$francisco/m/id=b1606-69-n
 
-         pn$fernando luis/id=b1606-69-pn
-            ls$residencia/barroca
+            pn$fernando luis/id=b1606-69-pn
+               ls$residencia/barroca
 
-         mn$catarina alves/id=b1606-69-mn
+            mn$catarina alves/id=b1606-69-mn
 
-         pad$pedro ?/id=b1606-69-per1
-            ls$residencia/obidos
+            pad$pedro ?/id=b1606-69-per1
+               ls$residencia/obidos
 
-         mad$catarina rodrigues/id=b1606-69-per2
+            mad$catarina rodrigues/id=b1606-69-per2
 
       bap$b1606-70/22/5/1606/fl.16./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$joao/m/id=b1606-70-per1
 
-         pn$joao moreira/id=b1606-70-per2
-            ls$residencia/quinta de dom joao
-            ls$profissao/caseiro
+            pn$joao moreira/id=b1606-70-per2
+               ls$residencia/quinta de dom joao
+               ls$profissao/caseiro
 
-         mn$adriana bernardes/id=b1606-70-per3
-            ls$profissao/caseira
+            mn$adriana bernardes/id=b1606-70-per3
+               ls$profissao/caseira
 
-         pad$antonio dias/id=b1606-70-per4
-            ls$residencia/quinta de dom joao
+            pad$antonio dias/id=b1606-70-per4
+               ls$residencia/quinta de dom joao
 
-         mad$maria correia rodrigues/id=b1606-70-per5
-            ls$residencia/quinta de dom joao
+            mad$maria correia rodrigues/id=b1606-70-per5
+               ls$residencia/quinta de dom joao
 
       bap$b1606-71/24/9/1606/fl.16./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$maria/f/id=b1606-71-per1
 
-         pn$domingos fernandes/id=b1606-71-per2
+            pn$domingos fernandes/id=b1606-71-per2
 
-         mn$domingas francisca/id=b1606-71-per3
+            mn$domingas francisca/id=b1606-71-per3
 
-         pad$andre martins/id=b1606-71-per4
-            ls$residencia/quinta do vale das flores
+            pad$andre martins/id=b1606-71-per4
+               ls$residencia/quinta do vale das flores
 
-         mad$violante gomes/id=b1606-71-per5
+            mad$violante gomes/id=b1606-71-per5
 
       bap$b1606-72/22/10/1606/fl.16./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$domingos/m/id=b1606-72-per1
 
-         pn$jeronimo duarte/id=b1606-72-per2
+            pn$jeronimo duarte/id=b1606-72-per2
 
-         mn$isabel alvares/id=b1606-72-per3
+            mn$isabel alvares/id=b1606-72-per3
 
-         pad$? francisco/id=b1606-72-per4
+            pad$? francisco/id=b1606-72-per4
 
-         mad$maria ferreira/id=b1606-72-per5
+            mad$maria ferreira/id=b1606-72-per5
 
       bap$b1606-73/24/10/1606/fl.16v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$lucas/m/id=b1606-73-per1
 
-         pn$luis fernandes/id=b1606-73-per2
-            ls$residencia/calcada
+            pn$luis fernandes/id=b1606-73-per2
+               ls$residencia/calcada
 
-         mn$luisa pereira/id=b1606-73-per3
+            mn$luisa pereira/id=b1606-73-per3
 
-         pad$luis vaz/id=b1606-73-per4
-            ls$residencia/obidos
+            pad$luis vaz/id=b1606-73-per4
+               ls$residencia/obidos
 
-         mad$maria jeronima/id=b1606-73-per5
-            ls$residencia/obidos
+            mad$maria jeronima/id=b1606-73-per5
+               ls$residencia/obidos
 
       bap$b1606-74/15/11/1606/fl.16v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao/obs=assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao assina jacome de carvalho (padre economo co adjutor) deverao faltar vários folios ao livro de baptizados pois ha um salto anormal do ano 1606 para o de 1607 sem justificacao
 
          n$baltazar/m/id=b1606-74-per1
 
-         pn$gaspar jorge/id=b1606-74-per2
+            pn$gaspar jorge/id=b1606-74-per2
 
-         mn$maria mendes/id=b1606-74-per3
+            mn$maria mendes/id=b1606-74-per3
 
-         pad$gabriel alves/id=b1606-74-per4
+            pad$gabriel alves/id=b1606-74-per4
 
-         mad$francisca fernandes/id=b1606-74-per5
+            mad$francisca fernandes/id=b1606-74-per5
 
       bap$b1607-75/22/11/1607/fl.17./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$maria/f/id=b1607-75-per1
 
-         pn$pedro francisco/id=b1607-75-per2
-            ls$residencia/gaeiras
+            pn$pedro francisco/id=b1607-75-per2
+               ls$residencia/gaeiras
 
-         mn$luisa antunes/id=b1607-75-per3
+            mn$luisa antunes/id=b1607-75-per3
 
-         pad$jorge ?/obs=ilegivel/id=b1607-75-per4
-            ls$residencia/obidos
+            pad$jorge ?/obs=ilegivel/id=b1607-75-per4
+               ls$residencia/obidos
 
-         mad$mecia fernandes/id=b1607-75-per5
-            ls$residencia/zambugeira
+            mad$mecia fernandes/id=b1607-75-per5
+               ls$residencia/zambugeira
 
       bap$b1607-76/25/11/1607/fl.17./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$antonio/m/id=b1607-76-per1
 
-         pn$diogo de braz vicente/id=b1607-76-per2
+            pn$diogo de braz vicente/id=b1607-76-per2
 
-         mn$catarina/id=b1607-76-per3
-            ls$titulo/dona
+            mn$catarina/id=b1607-76-per3
+               ls$titulo/dona
 
-         pad$antonio martins/id=b1607-76-per4
-            ls$residencia/zambugeira
+            pad$antonio martins/id=b1607-76-per4
+               ls$residencia/zambugeira
 
-         mad$isabel vaz/id=b1607-76-per5
-            ls$residencia/zambugeira
+            mad$isabel vaz/id=b1607-76-per5
+               ls$residencia/zambugeira
 
       bap$b1607-77/25/11/1607/fl.17./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$antonio/m/id=b1607-77-per1
 
-         pn$domingos fernandes/id=b1607-77-per2
-            ls$residencia/arelho
+            pn$domingos fernandes/id=b1607-77-per2
+               ls$residencia/arelho
 
-         mn$?/obs=ilegivel/id=b1607-77-per3
+            mn$?/obs=ilegivel/id=b1607-77-per3
 
-         pad$goncalo ?/obs=ilegivel/id=b1607-77-per4
-            ls$residencia/obidos
+            pad$goncalo ?/obs=ilegivel/id=b1607-77-per4
+               ls$residencia/obidos
 
-         mad$maria mendes/id=b1607-77-per5
+            mad$maria mendes/id=b1607-77-per5
 
       bap$b1607-78/25/11/1607/fl.17v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$antonio/m/id=b1607-78-per1
 
-         pn$antonio luis/id=b1607-78-per2
-            ls$residencia/azenha
+            pn$antonio luis/id=b1607-78-per2
+               ls$residencia/azenha
 
-         mn$francisca vicente/id=b1607-78-per3
+            mn$francisca vicente/id=b1607-78-per3
 
-         pad$alvaro fernandes/id=b1607-78-per4
-            ls$residencia/gaeiras
+            pad$alvaro fernandes/id=b1607-78-per4
+               ls$residencia/gaeiras
 
-         mad$antonia gomes/id=b1607-78-per5
+            mad$antonia gomes/id=b1607-78-per5
 
       bap$b1607-79/2/12/1607/fl.17v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$belchior/m/id=b1607-79-per1
 
-         pn$gaspar dias/id=b1607-79-per2
-            ls$residencia/tras do outeiro
+            pn$gaspar dias/id=b1607-79-per2
+               ls$residencia/tras do outeiro
 
-         mn$maria antunes/id=b1607-79-per3
+            mn$maria antunes/id=b1607-79-per3
 
-         pad$pedro fernandes/id=b1607-79-per4
-            ls$residencia/arelho
+            pad$pedro fernandes/id=b1607-79-per4
+               ls$residencia/arelho
 
-         mad$? gomes/id=b1607-79-per5
-            ls$residencia/obidos
+            mad$? gomes/id=b1607-79-per5
+               ls$residencia/obidos
 
       bap$b1607-80/5/12/1607/fl.17v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$domingas/f/id=b1607-80-per1
 
-         pn$domingos dias/id=b1607-80-per2
-            ls$residencia/codeas?
+            pn$domingos dias/id=b1607-80-per2
+               ls$residencia/codeas?
 
-         mn$maria fernandes/id=b1607-80-per3
+            mn$maria fernandes/id=b1607-80-per3
 
-         pad$diogo martins borralho/id=b1607-80-per4
+            pad$diogo martins borralho/id=b1607-80-per4
 
-         mad$? francisca/id=b1607-80-per5
-            ls$residencia/obidos
+            mad$? francisca/id=b1607-80-per5
+               ls$residencia/obidos
 
       bap$b1607-81/12/12/1607/fl.18./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$maria/f/id=b1607-81-per1
 
-         pn$jeronimo fernandes/id=b1607-81-per2
-            ls$residencia/gaeiras
-            ls$alcunha/o moco
+            pn$jeronimo fernandes/id=b1607-81-per2
+               ls$residencia/gaeiras
+               ls$alcunha/o moco
 
-         mn$gregoria antunes/id=b1607-81-per3
+            mn$gregoria antunes/id=b1607-81-per3
 
-         pad$antonio dias/id=b1607-81-per4
-            ls$residencia/moinho do lagar
+            pad$antonio dias/id=b1607-81-per4
+               ls$residencia/moinho do lagar
 
-         mad$catarina fernandes/id=b1607-81-per5
-            ls$residencia/gaeiras
+            mad$catarina fernandes/id=b1607-81-per5
+               ls$residencia/gaeiras
 
       bap$b1608-82/26/1/1608/fl.18./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$baltazar/m/id=b1608-82-per1
 
-         mn$violante/id=b1608-82-per2
-            ls$ec/s
-            ls$condicao/escrava
-            rel$profissional/escrava/nome desconhecido/b1608-82-pad
+            mn$violante/id=b1608-82-per2
+               ls$ec/s
+               ls$condicao/escrava
+               rel$profissional/escrava/nome desconhecido/b1608-82-pad
 
-         referido$nome desconhecido/id=b1608-82-pad
-            ls$cargo/comendador mor
+            referido$nome desconhecido/id=b1608-82-pad
+               ls$cargo/comendador mor
 
-         pad$joao monteiro/id=b1608-82-per3
+            pad$joao monteiro/id=b1608-82-per3
 
-         mad$joana lopes/id=b1608-82-per4
+            mad$joana lopes/id=b1608-82-per4
 
       bap$b1608-83/7/2/1608/fl.18v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$braz/m/id=b1608-83-per1
 
-         pn$alvaro goncalves/id=b1608-83-per2
+            pn$alvaro goncalves/id=b1608-83-per2
 
-         mn$maria bota/id=b1608-83-per3
+            mn$maria bota/id=b1608-83-per3
 
-         pad$bento francisco/id=b1608-83-per4
+            pad$bento francisco/id=b1608-83-per4
 
-         mad$antonia jorge/id=b1608-83-per5
+            mad$antonia jorge/id=b1608-83-per5
 
       bap$b1608-84/27/2/1608/fl.18v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$lourenco/m/id=b1608-84-per1
 
-         mn$nome desconhecido/id=b1608-84-per2
-            ls$condicao/escrava
-            rel$profissional/escrava/nome desconhecido/b1608-84-pad
+            mn$nome desconhecido/id=b1608-84-per2
+               ls$condicao/escrava
+               rel$profissional/escrava/nome desconhecido/b1608-84-pad
 
-         referido$nome desconhecido/id=b1608-84-pad
-            ls$cargo/comendador mor
+            referido$nome desconhecido/id=b1608-84-pad
+               ls$cargo/comendador mor
 
-         pad$alvaro zoato?/id=b1608-84-per3
+            pad$alvaro zoato?/id=b1608-84-per3
 
-         mad$maria/id=b1608-84-per4
-            ls$condicao/escrava
-            rel$profissional/escrava/nome desconhecido/b1608-84-pad
+            mad$maria/id=b1608-84-per4
+               ls$condicao/escrava
+               rel$profissional/escrava/nome desconhecido/b1608-84-pad
 
       bap$b1608-103/9/3/1608/fl.18v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$salvador/m/id=b1608-103-per1
 
-         pn$joao moreira/id=b1608-103-per2
-            ls$residencia/quinta do crucifixo
+            pn$joao moreira/id=b1608-103-per2
+               ls$residencia/quinta do crucifixo
 
-         mn$adriana bernardes/id=b1608-103-per3
+            mn$adriana bernardes/id=b1608-103-per3
 
-         pad$francisco luis/id=b1608-103-per4
-            ls$residencia/obidos
+            pad$francisco luis/id=b1608-103-per4
+               ls$residencia/obidos
 
-         mad$beatriz de almeida/id=b1608-103-per5
-            ls$residencia/quinta do crucifixo
+            mad$beatriz de almeida/id=b1608-103-per5
+               ls$residencia/quinta do crucifixo
 
       bap$b1608-85/12/3/1608/fl.18v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$joao/m/id=b1608-85-per1
 
-         pn$gaspar alvares/id=b1608-85-per2
-            ls$residencia/tras do outeiro
+            pn$gaspar alvares/id=b1608-85-per2
+               ls$residencia/tras do outeiro
 
-         mn$maria gomes/id=b1608-85-per3
+            mn$maria gomes/id=b1608-85-per3
 
-         pad$manuel dias/id=b1608-85-per4
-            ls$residencia/carregal
+            pad$manuel dias/id=b1608-85-per4
+               ls$residencia/carregal
 
-         mad$joana fernandes/id=b1608-85-per5
-            ls$residencia/gaeiras
+            mad$joana fernandes/id=b1608-85-per5
+               ls$residencia/gaeiras
 
       bap$b1608-86/17/3/1608/fl.19./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes
 
          n$isabel/f/id=b1608-86-per1
 
-         pn$antonio henriques/id=b1608-86-per2
-            ls$residencia/obidos
+            pn$antonio henriques/id=b1608-86-per2
+               ls$residencia/obidos
 
-         mn$branca nunes/id=b1608-86-per3
+            mn$branca nunes/id=b1608-86-per3
 
-         pad$jorge de lima marcarenhas/id=b1608-86-per4
-            ls$profissao/padre
-            ls$cargo/prior de santa maria de obidos
+            pad$jorge de lima marcarenhas/id=b1608-86-per4
+               ls$profissao/padre
+               ls$cargo/prior de santa maria de obidos
 
-         mad$isabel do quintal/id=b1608-86-per5
-            ls$residencia/obidos
+            mad$isabel do quintal/id=b1608-86-per5
+               ls$residencia/obidos
 
       bap$b1608-87/5/4/1608/fl.19./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$antonio/m/id=b1608-87-per1
 
-         pn$domingos joao/id=b1608-87-per2
-            ls$residencia/gaeiras
+            pn$domingos joao/id=b1608-87-per2
+               ls$residencia/gaeiras
 
-         mn$beatriz fernandes/id=b1608-87-per3
+            mn$beatriz fernandes/id=b1608-87-per3
 
-         pad$antonio dias/id=b1608-87-per4
-            ls$residencia/moinho do lagar
+            pad$antonio dias/id=b1608-87-per4
+               ls$residencia/moinho do lagar
 
-         mad$guiomar luis/id=b1608-87-per5
-            ls$residencia/bochardia
+            mad$guiomar luis/id=b1608-87-per5
+               ls$residencia/bochardia
 
       bap$b1608-88/5/4/1608/fl.19./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$manuel/m/id=b1608-88-per1
 
-         pn$joao martins/id=b1608-88-per2
-            ls$residencia/casa da figueira
+            pn$joao martins/id=b1608-88-per2
+               ls$residencia/casa da figueira
 
-         mn$nataria francisca/id=b1608-88-per3
+            mn$nataria francisca/id=b1608-88-per3
 
-         pad$calisto martins goncalo/id=b1608-88-per4
-            ls$profissao/padre
+            pad$calisto martins goncalo/id=b1608-88-per4
+               ls$profissao/padre
 
-         mad$maria pereira/id=b1608-88-per5
-            ls$residencia/obidos
+            mad$maria pereira/id=b1608-88-per5
+               ls$residencia/obidos
 
       bap$b1608-89/7/4/1608/fl.19./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$francisco/m/id=b1608-89-per1
 
-         pn$jeronimo fernandes/id=b1608-89-per2
+            pn$jeronimo fernandes/id=b1608-89-per2
 
-         mn$maria dias/id=b1608-89-per3
+            mn$maria dias/id=b1608-89-per3
 
-         pad$joao francisco/id=b1608-89-per4
-            ls$residencia/bochardia
+            pad$joao francisco/id=b1608-89-per4
+               ls$residencia/bochardia
 
-         mad$isabel/id=b1608-89-per5
-            ls$residencia/bochardia
+            mad$isabel/id=b1608-89-per5
+               ls$residencia/bochardia
 
-         pmad$antonio fernandes/id=b1608-89-per6
+               pmad$antonio fernandes/id=b1608-89-per6
 
       bap$b1608-90/25/5/1608/fl.19v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$joao/m/id=b1608-90-per1
 
-         pn$bernardo vicente/id=b1608-90-per2
-            ls$residencia/gaeiras
+            pn$bernardo vicente/id=b1608-90-per2
+               ls$residencia/gaeiras
 
-         mn$jeronima lopes/id=b1608-90-per3
+            mn$jeronima lopes/id=b1608-90-per3
 
-         pad$domingos francisco/id=b1608-90-pad
-            ls$residencia/obidos
+            pad$domingos francisco/id=b1608-90-pad
+               ls$residencia/obidos
 
-         mad$domingas duarte/id=b1608-90-per4
-            rel$parentesco/filha/domingos francisco/b1608-90-pad
+            mad$domingas duarte/id=b1608-90-per4
+               rel$parentesco/filha/domingos francisco/b1608-90-pad
 
       bap$b1608-91/28/5/1608/fl.19v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$maria/f/id=b1608-91-per1
 
-         pn$gregorio fernandes/id=b1608-91-per2
-            ls$residencia/casal de santa maria
+            pn$gregorio fernandes/id=b1608-91-per2
+               ls$residencia/casal de santa maria
 
-         mn$maria vaz/id=b1608-91-per3
+            mn$maria vaz/id=b1608-91-per3
 
-         pad$antonio lopes/id=b1608-91-per4
-            ls$residencia/a da gorda
+            pad$antonio lopes/id=b1608-91-per4
+               ls$residencia/a da gorda
 
-         mad$catarina domingas/id=b1608-91-per5
-            ls$residencia/quinta dos ?
+            mad$catarina domingas/id=b1608-91-per5
+               ls$residencia/quinta dos ?
 
       bap$b1608-92/2/7/1608/fl.19v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$arcangela/f/obs=sic/id=b1608-92-per1
             ls$titulo/dona
 
-         pn$luis figueira/id=b1608-92-per2
-            ls$residencia/gaeiras
+            pn$luis figueira/id=b1608-92-per2
+               ls$residencia/gaeiras
 
-         mn$joana/id=b1608-92-per3
-            ls$titulo/dona
+            mn$joana/id=b1608-92-per3
+               ls$titulo/dona
 
-         pad$joao lopes figueira/id=b1608-92-per4
+            pad$joao lopes figueira/id=b1608-92-per4
 
       bap$b1608-93/12/9/1608/fl.20./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$isabel/f/id=b1608-93-per1
 
-         pn$diogo joaquim fernandes/id=b1608-93-per2
-            ls$residencia/casal de diogo?
+            pn$diogo joaquim fernandes/id=b1608-93-per2
+               ls$residencia/casal de diogo?
 
-         mn$maria braz/id=b1608-93-per3
+            mn$maria braz/id=b1608-93-per3
 
-         pad$antao da luz/id=b1608-93-per4
-            ls$residencia/barroca
+            pad$antao da luz/id=b1608-93-per4
+               ls$residencia/barroca
 
-         mad$maria gomes/id=b1608-93-per5
-            ls$residencia/obidos
+            mad$maria gomes/id=b1608-93-per5
+               ls$residencia/obidos
 
       bap$b1608-94/15/9/1608/fl.20./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$filipa/f/id=b1608-94-per1
 
-         pn$diogo luis/id=b1608-94-per2
+            pn$diogo luis/id=b1608-94-per2
 
-         mn$maria lopes/id=b1608-94-per3
+            mn$maria lopes/id=b1608-94-per3
 
-         pad$miguel pires/id=b1608-94-per4
+            pad$miguel pires/id=b1608-94-per4
 
-         mad$francisca fernanda/id=b1608-94-per5
+            mad$francisca fernanda/id=b1608-94-per5
 
       bap$b1608-95/26/9/1608/fl.20./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$damiao/m/id=b1608-95-per1
 
-         pn$pedro ?/id=b1608-95-per2
-            ls$cargo/alcaide
+            pn$pedro ?/id=b1608-95-per2
+               ls$cargo/alcaide
 
-         mn$maria da rocha/id=b1608-95-per3
+            mn$maria da rocha/id=b1608-95-per3
 
-         pad$nome desconhecido/id=b1608-95-pad
-            ls$cargo/comendador mor
+            pad$nome desconhecido/id=b1608-95-pad
+               ls$cargo/comendador mor
 
-         mad$isabel/id=b1608-95-per4
-            ls$titulo/dona
-            rel$parentesco/sogra/nome desconhecido/b1608-95-pad
+            mad$isabel/id=b1608-95-per4
+               ls$titulo/dona
+               rel$parentesco/sogra/nome desconhecido/b1608-95-pad
 
       bap$b1608-96/14/10/1608/fl.20v./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$isabel/f/id=b1608-96-per1
 
-         pn$manuel fernandes/id=b1608-96-per2
-            ls$residencia/obidos
+            pn$manuel fernandes/id=b1608-96-per2
+               ls$residencia/obidos
 
-         mn$isabel gomes/id=b1608-96-per3
+            mn$isabel gomes/id=b1608-96-per3
 
-         pad$gaspar soares/id=b1608-96-per4
+            pad$gaspar soares/id=b1608-96-per4
 
-         mad$maria de seixas/id=b1608-96-per5
+            mad$maria de seixas/id=b1608-96-per5
 
       bap$b1608-97/8/11/1608/fl.20v./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$maria/f/id=b1608-97-per1
 
-         pn$fernando alves/id=b1608-97-per2
-            ls$residencia/barroca
+            pn$fernando alves/id=b1608-97-per2
+               ls$residencia/barroca
 
-         mn$catarina alve/id=b1608-97-per3
+            mn$catarina alve/id=b1608-97-per3
 
-         pad$francisco antonio/id=b1608-97-per4
-            ls$residencia/obidos
+            pad$francisco antonio/id=b1608-97-per4
+               ls$residencia/obidos
 
-         mad$isabel gomes/id=b1608-97-per5
-            ls$residencia/obidos
+            mad$isabel gomes/id=b1608-97-per5
+               ls$residencia/obidos
 
       bap$b1608-98/17/11/1608/fl.21./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$isabel/f/id=b1608-98-per1
 
-         pn$gabriel domingos/id=b1608-98-per2
+            pn$gabriel domingos/id=b1608-98-per2
 
-         mn$leonor ?/id=b1608-98-per3
+            mn$leonor ?/id=b1608-98-per3
 
-         pad$nome desconhecido/id=b1608-98-pad
-            ls$cargo/comendador mor
+            pad$nome desconhecido/id=b1608-98-pad
+               ls$cargo/comendador mor
 
-         mad$maria/id=b1608-98-per4
-            ls$titulo/dona
-            rel$parentesco/mulher/nome desconhecido/b1608-98-pad
+            mad$maria/id=b1608-98-per4
+               ls$titulo/dona
+               rel$parentesco/mulher/nome desconhecido/b1608-98-pad
 
       bap$b1608-99/19/11/1608/fl.21./igreja de sao tiago/ (prior)/obs=assina dom fernando de menezes (prior)
 
          n$maria/f/id=b1608-99-per1
 
-         pn$martinho pedro/id=b1608-99-per2
+            pn$martinho pedro/id=b1608-99-per2
 
-         mn$jeronima de sequeira/id=b1608-99-per3
+            mn$jeronima de sequeira/id=b1608-99-per3
 
-         pad$luis da serra/id=b1608-99-per4
+            pad$luis da serra/id=b1608-99-per4
 
-         mad$isabel fernando/id=b1608-99-per5
+            mad$isabel fernando/id=b1608-99-per5
 
       bap$b1608-100/22/11/1608/fl.21./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$maria/f/id=b1608-100-per1
 
-         pn$antonio luis/id=b1608-100-per2
+            pn$antonio luis/id=b1608-100-per2
 
-         mn$dominga vicente/id=b1608-100-per3
+            mn$dominga vicente/id=b1608-100-per3
 
-         pad$goncalo ferreira/id=b1608-100-per4
-            ls$profissao/padre
+            pad$goncalo ferreira/id=b1608-100-per4
+               ls$profissao/padre
 
-         mad$maria catarina/id=b1608-100-per5
+            mad$maria catarina/id=b1608-100-per5
 
       bap$b1608-104/22/11/1608/fl.21./igreja de sao tiago/ (prior)/obs=assina jacome de carvalho (padre economo co adjutor)
 
          n$maria/f/id=b1608-104-per1
 
-         pn$antonio luis/id=b1608-104-per2
+            pn$antonio luis/id=b1608-104-per2
 
-         mn$dominga vicente/id=b1608-104-per3
+            mn$dominga vicente/id=b1608-104-per3
 
-         pad$goncalo ferreira/id=b1608-104-per4
-            ls$profissao/padre
+            pad$goncalo ferreira/id=b1608-104-per4
+               ls$profissao/padre
 
-         mad$maria catarina/id=b1608-104-per5
+            mad$maria catarina/id=b1608-104-per5

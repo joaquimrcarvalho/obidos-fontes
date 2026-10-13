@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=spedro
+kleio$gacto.str/prefix=spedro/translations=1
    fonte$casamentos1790-1791/localizacao-a.d.l./freguesia de sao pedro
 
       cas$c1790-1/15/2/1790/fl.14/igreja de sao pedro/jose luis fialho de mendonca (padre, beneficiado)/obs=assina o cura o beneficiado jose luis fialho de mendonca
@@ -7,18 +7,18 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/delgada, freguesia de nossa senhora da purificacao da rolica
             ls$locbaptismo/rolica, freguesia de nossa senhora da purificacao
 
-         pnoivo$rafael da fonseca/id=c1790-1-per2
+            pnoivo$rafael da fonseca/id=c1790-1-per2
 
-         mnoivo$joana maria/id=c1790-1-per3
-            ls$morta/antes
+            mnoivo$joana maria/id=c1790-1-per3
+               ls$morta/antes
 
          noiva$maria inacia/id=c1790-1-per4
             ls$naturalidade/usseira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$manuel das neves/id=c1790-1-per5
+            pnoiva$manuel das neves/id=c1790-1-per5
 
-         mnoiva$maria inacia/id=c1790-1-per6
+            mnoiva$maria inacia/id=c1790-1-per6
 
          test$feliciano gomes da silveira/id=c1790-1-per7
             ls$cargo/tesoureiro da igreja de sao pedro
@@ -34,22 +34,22 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/usseira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoivo$manuel das neves/id=c1790-2-per2
-            ls$residencia/usseira
+            pnoivo$manuel das neves/id=c1790-2-per2
+               ls$residencia/usseira
 
-         mnoivo$maria inacia/id=c1790-2-per3
-            ls$residencia/usseira
+            mnoivo$maria inacia/id=c1790-2-per3
+               ls$residencia/usseira
 
          noiva$genoveva maria do rosario/obs=foi dotada pela santa casa da misericordia de lisboa/id=c1790-2-per4
             ls$residencia/usseira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$matias correia/id=c1790-2-per5
-            ls$morto/antes
-            ls$residencia/usseira
+            pnoiva$matias correia/id=c1790-2-per5
+               ls$morto/antes
+               ls$residencia/usseira
 
-         mnoiva$maria do rosario/id=c1790-2-per6
-            ls$residencia/usseira
+            mnoiva$maria do rosario/id=c1790-2-per6
+               ls$residencia/usseira
 
          test$francisco miguel da silveira andrade/id=c1790-2-per7
             ls$cargo/irmao da mesa da santa casa da misericordia de obidos
@@ -67,20 +67,20 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/freguesia de sao pedro
             rel$parentesco/consanguinidade de quarto grau/margarida ferreira/c1790-3-noiva
 
-         pnoivo$tome gomes/id=c1790-3-per2
-            ls$morto/antes
+            pnoivo$tome gomes/id=c1790-3-per2
+               ls$morto/antes
 
-         mnoivo$helena maria/id=c1790-3-per3
+            mnoivo$helena maria/id=c1790-3-per3
 
          noiva$margarida ferreira/id=c1790-3-noiva
             ls$residencia/usseira
             ls$naturalidade/freguesia de sao pedro
 
-         pnoiva$francisco de lemos/id=c1790-3-per4
-            ls$morto/antes
+            pnoiva$francisco de lemos/id=c1790-3-per4
+               ls$morto/antes
 
-         mnoiva$maria ferreira/id=c1790-3-per5
-            ls$residencia/usseira
+            mnoiva$maria ferreira/id=c1790-3-per5
+               ls$residencia/usseira
 
          test$feliciano gomes da silveira/id=c1790-3-per6
             ls$cargo/tesoureiro da igreja de sao pedro
@@ -96,19 +96,19 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de amor
             ls$residencia/quinta dos camarnaes, limite da freguesia de sao pedro
 
-         pnoivo$manuel francisco bahia/id=c1790-4-per2
-            ls$morto/antes
+            pnoivo$manuel francisco bahia/id=c1790-4-per2
+               ls$morto/antes
 
-         mnoivo$maria josefa/id=c1790-4-per3
+            mnoivo$maria josefa/id=c1790-4-per3
 
          noiva$maria teresa/id=c1790-4-per4
             ls$naturalidade/serra do bouro, freguesia de nossa senhora dos martires
             ls$locbaptismo/freguesia de nossa senhora dos martires
             ls$residencia/casais de camarnaes
 
-         pnoiva$manuel quaresma/id=c1790-4-per5
+            pnoiva$manuel quaresma/id=c1790-4-per5
 
-         mnoiva$teresa maria/id=c1790-4-per6
+            mnoiva$teresa maria/id=c1790-4-per6
 
          test$feliciano gomes da silveira/id=c1790-4-per7
             ls$cargo/tesoureiro da igreja de sao pedro
@@ -129,19 +129,19 @@ kleio$gacto.str/prefix=spedro
             ls$naturalidade/sao mamede, freguesia de nossa senhora da purificacao da rolica
             ls$locbaptismo/rolica, freguesia de nossa senhora da purificacao
 
-         pnoivo$francisco pereira/id=c1790-5-per2
+            pnoivo$francisco pereira/id=c1790-5-per2
 
-         mnoivo$margarida rosa/id=c1790-5-per3
+            mnoivo$margarida rosa/id=c1790-5-per3
 
          noiva$maria das neves/id=c1790-5-per4
             ls$naturalidade/usseira
             ls$residencia/usseira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$vicente das neves/id=c1790-5-per5
-            ls$morto/antes
+            pnoiva$vicente das neves/id=c1790-5-per5
+               ls$morto/antes
 
-         mnoiva$gertrudes maria/id=c1790-5-per6
+            mnoiva$gertrudes maria/id=c1790-5-per6
 
          test$inacio antonio da silveira/id=c1790-5-per7
             ls$cargo/sacristao da igreja de sao pedro/obs=o registo indica que foi sacristao da igreja de sao pedro
@@ -158,9 +158,9 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de nossa senhora da purificacao
             ls$residencia/usseira/obs="se tem dezobrigado muitos annos"
 
-         pnoivo$antonio martins/id=c1790-6-per2
+            pnoivo$antonio martins/id=c1790-6-per2
 
-         mnoivo$maria da silva/id=c1790-6-per3
+            mnoivo$maria da silva/id=c1790-6-per3
 
          noiva$micaela de jesus/id=c1790-6-per4
             ls$naturalidade/fraldeu
@@ -168,9 +168,9 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de santa maria
             ls$residencia/usseira/obs=assiste a muitos anos na usseira, freguesia de sao pedro, onde se tem desobrigado
 
-         pnoiva$manuel da silva/id=c1790-6-per5
+            pnoiva$manuel da silva/id=c1790-6-per5
 
-         mnoiva$maria de andrade/id=c1790-6-per6
+            mnoiva$maria de andrade/id=c1790-6-per6
 
          test$manuel jose gomes/id=c1790-6-per7
             ls$residencia/obidos
@@ -186,24 +186,24 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de sao pedro
             rel$parentesco/consanguinidade de quarto grau/inacia maria/c1791-1-noiva
 
-         pnoivo$matias henriques/id=c1791-1-per2
-            ls$morto/antes
+            pnoivo$matias henriques/id=c1791-1-per2
+               ls$morto/antes
 
-         mnoivo$maria do rosario/id=c1791-1-per3
-            ls$naturalidade/usseira
-            ls$residencia/usseira
+            mnoivo$maria do rosario/id=c1791-1-per3
+               ls$naturalidade/usseira
+               ls$residencia/usseira
 
          noiva$inacia maria/id=c1791-1-noiva
             ls$naturalidade/usseira
             ls$residencia/usseira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$antonio gomes ferreira/id=c1791-1-per4
-            ls$naturalidade/usseira
-            ls$residencia/usseira
+            pnoiva$antonio gomes ferreira/id=c1791-1-per4
+               ls$naturalidade/usseira
+               ls$residencia/usseira
 
-         mnoiva$ines maria/id=c1791-1-per5
-            ls$morta/antes
+            mnoiva$ines maria/id=c1791-1-per5
+               ls$morta/antes
 
          test$feliciano gomes da silveira/id=c1791-1-per6
             ls$cargo/tesoureiro da igreja de sao pedro
@@ -225,21 +225,21 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
             ls$residencia/usseira/obs=ha muitos anos que morava na usseira, freguesia de sao pedro
 
-         pnoivo$joao henriques/id=c1791-2-per2
-            ls$morto/antes
+            pnoivo$joao henriques/id=c1791-2-per2
+               ls$morto/antes
 
-         mnoivo$ana maria/id=c1791-2-per3
-            ls$morta/antes
+            mnoivo$ana maria/id=c1791-2-per3
+               ls$morta/antes
 
          noiva$angelica maria/id=c1791-2-per4
             ls$residencia/usseira
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$antonio luis/id=c1791-2-per5
-            ls$residencia/usseira
+            pnoiva$antonio luis/id=c1791-2-per5
+               ls$residencia/usseira
 
-         mnoiva$apolinaria maria/id=c1791-2-per6
-            ls$residencia/usseira
+            mnoiva$apolinaria maria/id=c1791-2-per6
+               ls$residencia/usseira
 
          test$jose antonio de azevedo/id=c1791-2-per7
             ls$cargo/beneficiado
@@ -256,11 +256,11 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/freguesia de sao pedro
             ls$residencia/obidos/obs=desobrigou-se na freguesia de sao pedro, nas duas quaresmas passadas
 
-         pnoivo$agostinho gomes da silveira/id=c1791-3-per2
-            ls$titulo/doutor
+            pnoivo$agostinho gomes da silveira/id=c1791-3-per2
+               ls$titulo/doutor
 
-         mnoivo$maria da conceicao dinis malhao/id=c1791-3-per3
-            ls$titulo/dona
+            mnoivo$maria da conceicao dinis malhao/id=c1791-3-per3
+               ls$titulo/dona
 
          noiva$josefa margarida de oliveira e gama/id=c1791-3-per4
             ls$titulo/dona
@@ -268,12 +268,12 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/rio de janeiro
             ls$residencia/obidos/obs=desobrigou-se na freguesia de sao pedro em varias quaresmas
 
-         pnoiva$miguel ribeiro da cruz/id=c1791-3-per5
-            ls$cargo/desembargador
-            ls$morto/antes
+            pnoiva$miguel ribeiro da cruz/id=c1791-3-per5
+               ls$cargo/desembargador
+               ls$morto/antes
 
-         mnoiva$maria casemira angelica de oliveira/id=c1791-3-per6
-            ls$titulo/dona
+            mnoiva$maria casemira angelica de oliveira/id=c1791-3-per6
+               ls$titulo/dona
 
          test$jose antonio carreira/id=c1791-3-per7
             ls$residencia/obidos
@@ -294,22 +294,22 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/lisboa, freguesia de santa isabel
             ls$residencia/obidos, freguesia de santa maria/obs=desobrigou-se na freguesia de santa maria, em obidos, durante varios anos
 
-         pnoivo$antonio feliciano manzoni/id=c1791-4-per2
-            ls$titulo/doutor
+            pnoivo$antonio feliciano manzoni/id=c1791-4-per2
+               ls$titulo/doutor
 
-         mnoivo$agostinha rosa da lisboa/id=c1791-4-per3
-            ls$titulo/dona
+            mnoivo$agostinha rosa da lisboa/id=c1791-4-per3
+               ls$titulo/dona
 
          noiva$ana eduarda joaquina malhao/id=c1791-4-per4
             ls$titulo/dona
 
-         pnoiva$joao monteiro malhao/id=c1791-4-per5
-            ls$titulo/doutor
+            pnoiva$joao monteiro malhao/id=c1791-4-per5
+               ls$titulo/doutor
 
-         mnoiva$josefa teresa do carmo/id=c1791-4-per6
-            ls$titulo/dona
-            ls$residencia/obidos/obs=tem-se desobrigado sempre na freguesia de sao pedro
-            ls$locbaptismo/freguesia de santa maria
+            mnoiva$josefa teresa do carmo/id=c1791-4-per6
+               ls$titulo/dona
+               ls$residencia/obidos/obs=tem-se desobrigado sempre na freguesia de sao pedro
+               ls$locbaptismo/freguesia de santa maria
 
          test$ricardo antonio manzoni/id=c1791-4-per7
             ls$cargo/beneficiado

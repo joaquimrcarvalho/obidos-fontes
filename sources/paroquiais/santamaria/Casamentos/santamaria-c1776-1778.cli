@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$casamentos1776-1778/localizacao-a.d.l./freguesia de santa maria
 
       cas$c1776-1/5/2/1776/fl.132/igreja de santa maria/jose luis fialho de mendonca (padre, beneficiado da igreja de santa maria)/obs=assina o paroco o beneficiado jose luis fialho de mendonca; o casamento realizou-se da 1 para as 2 da tarde
@@ -9,25 +9,25 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de nossa senhora da purificacao, coto
             ls$residencia/gaeiras/obs=desobrigou-se na freguesia de santa maria
 
-         pnoivo$joao francisco/id=c1776-1-per2
-            ls$morto/antes
-            ls$naturalidade/coto
-            ls$freguesia/nossa senhora da purificacao
+            pnoivo$joao francisco/id=c1776-1-per2
+               ls$morto/antes
+               ls$naturalidade/coto
+               ls$freguesia/nossa senhora da purificacao
 
-         mnoivo$maria antonia/id=c1776-1-per3
-            ls$morta/antes
-            ls$naturalidade/coto
-            ls$freguesia/nossa senhora da purificacao
+            mnoivo$maria antonia/id=c1776-1-per3
+               ls$morta/antes
+               ls$naturalidade/coto
+               ls$freguesia/nossa senhora da purificacao
 
          noiva$isidora teresa/id=c1776-1-per4
             ls$naturalidade/gaeiras
             ls$locbaptismo/freguesia de santa maria/obs=desobrigou-se na freguesia de santa maria
 
-         pnoiva$antonio luis/id=c1776-1-per5
-            ls$alcunha/o carmo
+            pnoiva$antonio luis/id=c1776-1-per5
+               ls$alcunha/o carmo
 
-         mnoiva$teresa mria/id=c1776-1-per6
-            ls$morta/antes
+            mnoiva$teresa mria/id=c1776-1-per6
+               ls$morta/antes
 
          test$joaquim antonio de sequeira/id=c1776-1-per7
             ls$cargo/tesoureiro da igreja de santa maria
@@ -50,32 +50,32 @@ kleio$gacto.str/prefix=stmaria
             ls$residencia/quinta da gracieira
             ls$freguesia/sao tiago/obs=desobrigou-se na freguesia de sao tiago
 
-         pnoivo$antonio simoes/id=c1776-2-per2
-            ls$morto/antes
-            ls$naturalidade/carvalhas
-            ls$residencia/carvalhas
-            ls$freguesia/nossa senhora da assuncao, senhorim/Obs=termo de vilar
-            ls$bispado/viseu
+            pnoivo$antonio simoes/id=c1776-2-per2
+               ls$morto/antes
+               ls$naturalidade/carvalhas
+               ls$residencia/carvalhas
+               ls$freguesia/nossa senhora da assuncao, senhorim/obs=termo de vilar
+               ls$bispado/viseu
 
-         mnoivo$isabel antunes/id=c1776-2-per3
-            ls$morta/antes
-            ls$naturalidade/carvalhas
-            ls$residencia/carvalhas
-            ls$freguesia/nossa senhora da assuncao, senhorim/obs=termo de vilar
-            ls$bispado/viseu
+            mnoivo$isabel antunes/id=c1776-2-per3
+               ls$morta/antes
+               ls$naturalidade/carvalhas
+               ls$residencia/carvalhas
+               ls$freguesia/nossa senhora da assuncao, senhorim/obs=termo de vilar
+               ls$bispado/viseu
 
          noiva$maria gomes/id=c1776-2-per4
             ls$naturalidade/ribeira de fraldeu
             ls$residencia/ribeira de fraldeu
             ls$locbaptismo/freguesia de santa maria/obs=desobrigou-se na freguesia de santa maria
 
-         pnoiva$jose gomes/id=c1776-2-per5
-            ls$naturalidade/ribeira de fraldeu
-            ls$residencia/ribeira de fraldeu
+            pnoiva$jose gomes/id=c1776-2-per5
+               ls$naturalidade/ribeira de fraldeu
+               ls$residencia/ribeira de fraldeu
 
-         mnoiva$maria gomes/id=c1776-2-per6
-            ls$naturalidade/ribeira de fraldeu
-            ls$residencia/ribeira de fraldeu
+            mnoiva$maria gomes/id=c1776-2-per6
+               ls$naturalidade/ribeira de fraldeu
+               ls$residencia/ribeira de fraldeu
 
          test$joaquim antonio de sequeira/id=c1776-2-per7
             ls$cargo/tesoureiro da igreja de santa maria
@@ -98,10 +98,10 @@ kleio$gacto.str/prefix=stmaria
             ls$residencia/rua direita
             ls$residencia/casa do capitao mor
 
-            referido$nome desconhecido/id=c1776-3-per1-per2
-               ls$cargo/capitao mor
-               ls$residencia/freguesia de santa maria
-               ls$residencia/obidos
+         referido$nome desconhecido/id=c1776-3-per1-per2
+            ls$cargo/capitao mor
+            ls$residencia/freguesia de santa maria
+            ls$residencia/obidos
 
          pnoivo$bernardo gomes/id=c1776-3-per3
 
@@ -114,9 +114,9 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de sao joao do mocharro
             ls$residencia/arrabalde
 
-         pnoiva$alberto francisco/id=c1776-3-per6
+            pnoiva$alberto francisco/id=c1776-3-per6
 
-         mnoiva$caetana maria/id=c1776-3-per7
+            mnoiva$caetana maria/id=c1776-3-per7
 
          test$joao caetano da fonseca/obs=duvida na leitura do apelido/id=c1776-3-per8
             ls$titulo/reverendo
@@ -147,9 +147,9 @@ kleio$gacto.str/prefix=stmaria
             ls$residencia/lisboa
             ls$freguesia/nossa senhora da lapa
 
-         pnoivo$alberto pinheiro/id=c1776-4-per2
+            pnoivo$alberto pinheiro/id=c1776-4-per2
 
-         mnoivo$maria daspera/id=c1776-4-per3
+            mnoivo$maria daspera/id=c1776-4-per3
 
          noiva$maria isabel/id=c1776-4-per4
             ls$ec/s
@@ -157,9 +157,9 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de santa maria
             ls$arcediagado/alcobaca
 
-         pnoiva$francisco dias/id=c1776-4-per5
+            pnoiva$francisco dias/id=c1776-4-per5
 
-         mnoiva$eulalia maria/id=c1776-4-per6
+            mnoiva$eulalia maria/id=c1776-4-per6
 
          test$joao de deus/id=c1776-4-per7
             ls$residencia/obidos
@@ -186,9 +186,9 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de santa maria
             ls$residencia/a da gorda
 
-         pnoivo$antonio luis/id=c1777-1-per2
+            pnoivo$antonio luis/id=c1777-1-per2
 
-         mnoivo$maria joaquina/id=c1777-1-per3
+            mnoivo$maria joaquina/id=c1777-1-per3
 
          noiva$teodora maria/id=c1777-1-per4
             ls$ec/s
@@ -197,9 +197,9 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
             ls$residencia/a da gorda
 
-         pnoiva$jose de oliveira/id=c1777-1-per5
+            pnoiva$jose de oliveira/id=c1777-1-per5
 
-         mnoiva$maria da assuncao/id=c1777-1-per6
+            mnoiva$maria da assuncao/id=c1777-1-per6
 
          test$joaquim antonio de sequeira/id=c1777-1-per7
             ls$cargo/tesoureiro da igreja de santa maria
@@ -219,9 +219,9 @@ kleio$gacto.str/prefix=stmaria
             ls$residencia/gaeiras
             ls$locbaptismo/freguesia de santo antonio
 
-         pnoivo$inacio henriques/id=c1777-2-per2
+            pnoivo$inacio henriques/id=c1777-2-per2
 
-         mnoivo$maria teresa/id=c1777-2-per3
+            mnoivo$maria teresa/id=c1777-2-per3
 
          noiva$maria joaquina de oliveira/id=c1777-2-per4
             ls$ec/s
@@ -229,9 +229,9 @@ kleio$gacto.str/prefix=stmaria
             ls$residencia/gaeiras
             ls$locbaptismo/freguesia de santa maria
 
-         pnoiva$mateus ferreira/id=c1777-2-per5
+            pnoiva$mateus ferreira/id=c1777-2-per5
 
-         mnoiva$mariana dos prazeres/id=c1777-2-per6
+            mnoiva$mariana dos prazeres/id=c1777-2-per6
 
          test$joaquim antonio de sequeira/id=c1777-2-per7
             ls$cargo/tesoureiro da igreja de santa maria
@@ -254,9 +254,9 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de sao tiago
             ls$residencia/a da gorda
 
-         pnoivo$antonio francisco/id=c1777-3-per2
+            pnoivo$antonio francisco/id=c1777-3-per2
 
-         mnoivo$maria antonia/id=c1777-3-per3
+            mnoivo$maria antonia/id=c1777-3-per3
 
          noiva$marcelina rosa/id=c1777-3-per4
             ls$ec/s
@@ -265,9 +265,9 @@ kleio$gacto.str/prefix=stmaria
             ls$residencia/a da gorda
             ls$locbaptismo/freguesia de nossa senhora da purificacao, rolica
 
-         pnoiva$jose pereira/id=c1777-3-per5
+            pnoiva$jose pereira/id=c1777-3-per5
 
-         mnoiva$rosa maria/id=c1777-3-per6
+            mnoiva$rosa maria/id=c1777-3-per6
 
          test$jose teodoro de matos/id=c1777-3-per7
             ls$residencia/a da gorda
@@ -286,20 +286,20 @@ kleio$gacto.str/prefix=stmaria
             ls$naturalidade/pinhal, termo de obidos
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoivo$manuel gomes/id=c1778-1-per2
+            pnoivo$manuel gomes/id=c1778-1-per2
 
-         mnoivo$antonia joaquina/id=c1778-1-per3
+            mnoivo$antonia joaquina/id=c1778-1-per3
 
          noiva$ana joaquina/id=c1778-1-per4
             ls$ec/s
             ls$naturalidade/freguesia de sao tiago
             ls$locbaptismo/freguesia de sao tiago
 
-         pnoiva$antonio da silva/id=c1778-1-per5
-            ls$residencia/obidos
+            pnoiva$antonio da silva/id=c1778-1-per5
+               ls$residencia/obidos
 
-         mnoiva$catarina antonia/id=c1778-1-per6
-            ls$residencia/obidos
+            mnoiva$catarina antonia/id=c1778-1-per6
+               ls$residencia/obidos
 
          test$gregorio jose de faria/id=c1778-1-per7
             ls$residencia/obidos
@@ -319,9 +319,9 @@ kleio$gacto.str/prefix=stmaria
             ls$freguesia/nossa senhora de aboboriz, amoreira
             ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
 
-         pnoivo$jose pereira/id=c1778-2-per2
+            pnoivo$jose pereira/id=c1778-2-per2
 
-         mnoivo$margarida antonia/id=c1778-2-per3
+            mnoivo$margarida antonia/id=c1778-2-per3
 
          noiva$francisca maria da conceicao/id=c1778-2-per4
             ls$ec/s
@@ -329,9 +329,9 @@ kleio$gacto.str/prefix=stmaria
             ls$locbaptismo/freguesia de sao pedro
             ls$residencia/quinta da granja
 
-         pnoiva$manuel martins/id=c1778-2-per5
+            pnoiva$manuel martins/id=c1778-2-per5
 
-         mnoiva$maria francisca/id=c1778-2-per6
+            mnoiva$maria francisca/id=c1778-2-per6
 
          test$manuel pereira/id=c1778-2-per7
             ls$assina/cruz
@@ -356,9 +356,9 @@ kleio$gacto.str/prefix=stmaria
             ls$ec/v
             ls$residencia/freguesia de santa maria
 
-         marido1$antonio henriques/id=c1778-3-per4
-            ls$morto/antes
-            ls$residencia/freguesia de santa maria
+            marido1$antonio henriques/id=c1778-3-per4
+               ls$morto/antes
+               ls$residencia/freguesia de santa maria
 
          test$valentim jose/id=c1778-3-per5
             ls$assina/sim
@@ -376,17 +376,17 @@ kleio$gacto.str/prefix=stmaria
             ls$naturalidade/freguesia de sao pedro
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoivo$francisco gomes/id=c1778-4-per2
+            pnoivo$francisco gomes/id=c1778-4-per2
 
-         mnoivo$brisida francisca/id=c1778-4-per3
+            mnoivo$brisida francisca/id=c1778-4-per3
 
          noiva$maria gomes/id=c1778-4-per4
             ls$naturalidade/moinho do redondo
             ls$locbaptismo/freguesia de santa maria
 
-         pnoiva$jose gomes/id=c1778-4-per5
+            pnoiva$jose gomes/id=c1778-4-per5
 
-         mnoiva$maria francisca/id=c1778-4-per6
+            mnoiva$maria francisca/id=c1778-4-per6
 
          referido$nome desconhecido/id=c1778-4-per7
             ls$cargo/vigario geral
@@ -398,9 +398,9 @@ kleio$gacto.str/prefix=stmaria
             ls$enjeitado/sim/obs=exposto na santa casa do hospital de lisboa
             ls$locbaptismo/freguesia de santa justa, lisboa
 
-         pnoivo$nome desconhecido/id=c1778-5-per2
+            pnoivo$nome desconhecido/id=c1778-5-per2
 
-         mnoivo$nome desconhecido/id=c1778-5-per3
+            mnoivo$nome desconhecido/id=c1778-5-per3
 
          noiva$maria do carmo/id=c1778-5-per4
             ls$ec/s
@@ -408,11 +408,11 @@ kleio$gacto.str/prefix=stmaria
             ls$freguesia/nossa senhora dos anjos
             ls$locbaptismo/freguesia de nossa senhora dos anjos/obs=veio para a vila de obidos com 1 ano de idade
 
-         pnoiva$joao henriques/id=c1778-5-per5
-            ls$residencia/obidos
+            pnoiva$joao henriques/id=c1778-5-per5
+               ls$residencia/obidos
 
-         mnoiva$angela maria/id=c1778-5-per6
-            ls$residencia/obidos
+            mnoiva$angela maria/id=c1778-5-per6
+               ls$residencia/obidos
 
          test$antonio jose ferreira/id=c1778-5-per7
             ls$profissao/barbeiro

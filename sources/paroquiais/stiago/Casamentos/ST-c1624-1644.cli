@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stiago
+kleio$gacto.str/prefix=stiago/translations=1
    fonte$casamentos1624-1644/localizacao-a.d.l./freguesia de sao tiago de obidos
 
       cas$c1624-1/31/12/1624/fl.100./igreja de sao tiago/joao pedroso (cura)/obs=assina joao pedroso (cura)
@@ -9,8 +9,8 @@ kleio$gacto.str/prefix=stiago
 
          noiva$marta das neves/id=c1624-1-per1-per2
 
-         pnoiva$joao alvares/id=c1624-1-per1-per3
-            ls$residencia/moinho no mocharro
+            pnoiva$joao alvares/id=c1624-1-per1-per3
+               ls$residencia/moinho no mocharro
 
          test$belchior dias/id=c1624-1-per4
             ls$profissao/padre
@@ -36,8 +36,8 @@ kleio$gacto.str/prefix=stiago
          noivo$cosme luis/id=c1625-3-cosme
             ls$naturalidade/lisboa
 
-            referido$antonio carvalho/id=c1625-3-cosme-per1
-               rel$sociabilidade/procurador/cosme luis/c1625-3-cosme
+         referido$antonio carvalho/id=c1625-3-cosme-per1
+            rel$sociabilidade/procurador/cosme luis/c1625-3-cosme
 
          noiva$antonia da mata/id=c1625-3-cosme-per2
             ls$residencia/gaeiras
@@ -87,12 +87,12 @@ kleio$gacto.str/prefix=stiago
          noivo$domingo dias/id=c1627-7-per1
             ls$naturalidade/carregal
 
-         pnoivo$estevao dias/id=c1627-7-per2
+            pnoivo$estevao dias/id=c1627-7-per2
 
          noiva$domingas antunes/id=c1627-7-per3
             ls$naturalidade/tras do outeiro
 
-         pnoiva$antonio fernandes/id=c1627-7-per4
+            pnoiva$antonio fernandes/id=c1627-7-per4
 
          test$joao da silva/id=c1627-7-per5
             ls$cargo/tesoureiro
@@ -142,18 +142,18 @@ kleio$gacto.str/prefix=stiago
          noivo$antonio fernandes/id=c1627-10-per1
             ls$naturalidade/caldas
 
-         pnoivo$domingo martins/id=c1627-10-per2
-            ls$residencia/caldas
+            pnoivo$domingo martins/id=c1627-10-per2
+               ls$residencia/caldas
 
-         mnoivo$ana fernandes/id=c1627-10-per3
+            mnoivo$ana fernandes/id=c1627-10-per3
 
          noiva$catarina henriques/id=c1627-10-per4
             ls$naturalidade/ribeira das caldas
 
-         pnoiva$pedro alves/id=c1627-10-per5
-            ls$residencia/ribeira das caldas
+            pnoiva$pedro alves/id=c1627-10-per5
+               ls$residencia/ribeira das caldas
 
-         mnoiva$ana henriques/id=c1627-10-per6
+            mnoiva$ana henriques/id=c1627-10-per6
 
          test$francisco da silva/id=c1627-10-per7
             ls$cargo/tesoureiro
@@ -216,18 +216,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$pedro fernandes/id=c1629-14-per1
 
-         pnoivo$diogo fernandes/id=c1629-14-per2
-            ls$residencia/casal do peixeiro
+            pnoivo$diogo fernandes/id=c1629-14-per2
+               ls$residencia/casal do peixeiro
 
-         mnoivo$beatriz lopes/id=c1629-14-per3
+            mnoivo$beatriz lopes/id=c1629-14-per3
 
          noiva$maria correia/id=c1629-14-per4
 
-         pnoiva$estevao correia/id=c1629-14-per5
-            ls$morto/antes
+            pnoiva$estevao correia/id=c1629-14-per5
+               ls$morto/antes
 
-         mnoiva$domingas dias/id=c1629-14-per6
-            ls$residencia/obidos
+            mnoiva$domingas dias/id=c1629-14-per6
+               ls$residencia/obidos
 
          test$pedro correia/id=c1629-14-per7
             ls$profissao/barbeiro
@@ -241,18 +241,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao antunes/id=c1629-15-per1
 
-         pnoivo$gaspar dias/id=c1629-15-per2
-            ls$morto/antes
+            pnoivo$gaspar dias/id=c1629-15-per2
+               ls$morto/antes
 
-         mnoivo$maria antunes/id=c1629-15-per3
-            ls$residencia/tras do outeiro
+            mnoivo$maria antunes/id=c1629-15-per3
+               ls$residencia/tras do outeiro
 
          noiva$maria fernandes/id=c1629-15-per4
 
-         pnoiva$domingos rodrigues/id=c1629-15-per5
-            ls$residencia/ribeira das caldas
+            pnoiva$domingos rodrigues/id=c1629-15-per5
+               ls$residencia/ribeira das caldas
 
-         mnoiva$maria fernandes/id=c1629-15-per6
+            mnoiva$maria fernandes/id=c1629-15-per6
 
          test$francisco da silva/id=c1629-15-per7
             ls$cargo/tesoureiro
@@ -267,17 +267,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$fernando da cruz/id=c1630-16-per1
 
-         pnoivo$fernando da cruz/id=c1630-16-per2
-            ls$residencia/barroca
+            pnoivo$fernando da cruz/id=c1630-16-per2
+               ls$residencia/barroca
 
-         mnoivo$catarina oliveira/id=c1630-16-per3
+            mnoivo$catarina oliveira/id=c1630-16-per3
 
          noiva$simoa martins/id=c1630-16-per4
 
-         pnoiva$francisco fernandes/id=c1630-16-per5
-            ls$residencia/carvalhal
+            pnoiva$francisco fernandes/id=c1630-16-per5
+               ls$residencia/carvalhal
 
-         mnoiva$maria dias/id=c1630-16-per6
+            mnoiva$maria dias/id=c1630-16-per6
 
          test$calisto martins/id=c1630-16-per7
             ls$profissao/padre
@@ -325,14 +325,14 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao alvares/id=c1630-19-per1
 
-         pnoivo$fernando alvares/id=c1630-19-per2
+            pnoivo$fernando alvares/id=c1630-19-per2
 
          noiva$luisa monteira/id=c1630-19-per3
 
-         pnoiva$domingos francisco/id=c1630-19-per4
-            ls$residencia/gaeiras de alem
+            pnoiva$domingos francisco/id=c1630-19-per4
+               ls$residencia/gaeiras de alem
 
-         mnoiva$maria luis/id=c1630-19-per5
+            mnoiva$maria luis/id=c1630-19-per5
 
          test$antonio francisco/id=c1630-19-velho
             ls$alcunha/o velho
@@ -348,14 +348,14 @@ kleio$gacto.str/prefix=stiago
 
          noivo$simao alvares/id=c1630-20-per1
 
-         pnoivo$pedro alvares/id=c1630-20-per2
+            pnoivo$pedro alvares/id=c1630-20-per2
 
          noiva$antonia antunes/id=c1630-20-per3
 
-         pnoiva$pedro fernandes/id=c1630-20-per4
-            ls$residencia/gaeiras de alem
+            pnoiva$pedro fernandes/id=c1630-20-per4
+               ls$residencia/gaeiras de alem
 
-         mnoiva$luisa antunes/id=c1630-20-per5
+            mnoiva$luisa antunes/id=c1630-20-per5
 
          test$domingo martinho borralho da cunha/id=c1630-20-per6
 
@@ -369,17 +369,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$salvador moreira/id=c1631-21-per1
 
-         pnoivo$joao moreira/id=c1631-21-per2
+            pnoivo$joao moreira/id=c1631-21-per2
 
-         mnoivo$adriana bernardes/id=c1631-21-per3
+            mnoivo$adriana bernardes/id=c1631-21-per3
 
          noiva$domingas da gama/id=c1631-21-per4
 
-         pnoiva$juliao francisco/id=c1631-21-fran
-            ls$cargo/alcaide/obs=de obidos
-            ls$residencia/castelo de obidos
+            pnoiva$juliao francisco/id=c1631-21-fran
+               ls$cargo/alcaide/obs=de obidos
+               ls$residencia/castelo de obidos
 
-         mnoiva$maria da gama/id=c1631-21-per5
+            mnoiva$maria da gama/id=c1631-21-per5
 
          test$juliao francisco/mesmo_que=c1631-21-fran/id=c1631-21-per6
 
@@ -399,8 +399,8 @@ kleio$gacto.str/prefix=stiago
          noiva$maria henriques/id=c1632-22-per1-per2
             ls$ec/v
 
-         pnoiva$leonardo vicente/id=c1632-22-vicente
-            ls$residencia/gaeiras de alem
+            pnoiva$leonardo vicente/id=c1632-22-vicente
+               ls$residencia/gaeiras de alem
 
          test$andre martins/id=c1632-22-per3
             ls$residencia/obidos
@@ -437,7 +437,7 @@ kleio$gacto.str/prefix=stiago
 
          noivo$francisco fernandes/id=c1632-24-per1
 
-         pnoivo$joao alvares/id=c1632-24-alva
+            pnoivo$joao alvares/id=c1632-24-alva
 
          noiva$beatriz goncalves/id=c1632-24-per2
             ls$naturalidade/tras do outeiro
@@ -456,17 +456,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$manuel joao/id=c1632-25-per1
 
-         pnoivo$mateus joao/id=c1632-25-per2
-            ls$residencia/marinheiros do termo de leiria
+            pnoivo$mateus joao/id=c1632-25-per2
+               ls$residencia/marinheiros do termo de leiria
 
-         mnoivo$leonor fernandes/id=c1632-25-per3
+            mnoivo$leonor fernandes/id=c1632-25-per3
 
          noiva$maria de freitas/id=c1632-25-per4
 
-         pnoiva$fernao vieira/id=c1632-25-per5
+            pnoiva$fernao vieira/id=c1632-25-per5
 
-         mnoiva$silvia de freitas/id=c1632-25-per6
-            ls$residencia/moinho do mocharro
+            mnoiva$silvia de freitas/id=c1632-25-per6
+               ls$residencia/moinho do mocharro
 
          test$domingos luis/id=c1632-25-per7
             ls$residencia/fraudeu
@@ -485,18 +485,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$baltasar francisco/id=c1633-26-per1
 
-         pnoivo$antonio francisco/id=c1633-26-per2
-            ls$residencia/gaeiras de alem
+            pnoivo$antonio francisco/id=c1633-26-per2
+               ls$residencia/gaeiras de alem
 
-         mnoivo$antonia vaz/id=c1633-26-per3
+            mnoivo$antonia vaz/id=c1633-26-per3
 
          noiva$catarina francisca/id=c1633-26-per4
 
-         pnoiva$sebastiao francisco/id=c1633-26-per5
-            ls$morto/antes
+            pnoiva$sebastiao francisco/id=c1633-26-per5
+               ls$morto/antes
 
-         mnoiva$luisa fernandes/id=c1633-26-per6
-            ls$residencia/gaeiras de alem
+            mnoiva$luisa fernandes/id=c1633-26-per6
+               ls$residencia/gaeiras de alem
 
          test$pedro da silva sanhudo/id=c1633-26-per7
 
@@ -524,18 +524,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$antonio miguel/id=c1634-28-per1
 
-         pnoivo$luis miguel/id=c1634-28-per2
+            pnoivo$luis miguel/id=c1634-28-per2
 
-         mnoivo$maria alvares/id=c1634-28-per3
-            ls$residencia/reguengo
+            mnoivo$maria alvares/id=c1634-28-per3
+               ls$residencia/reguengo
 
          noiva$maria de lencastre/id=c1634-28-per4
             ls$residencia/obidos
 
-         pnoiva$andre martins ferreira/id=c1634-28-per5
-            ls$residencia/lisboa
+            pnoiva$andre martins ferreira/id=c1634-28-per5
+               ls$residencia/lisboa
 
-         mnoiva$isabel henriques/id=c1634-28-per6
+            mnoiva$isabel henriques/id=c1634-28-per6
 
          test$joao ribeiro/id=c1634-28-per7
             ls$cargo/tesoureiro da igreja de sao tiago
@@ -550,19 +550,19 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao manuel/id=c1634-29-per1
 
-         pnoivo$manuel alvares/id=c1634-29-per2
-            ls$morto/antes
+            pnoivo$manuel alvares/id=c1634-29-per2
+               ls$morto/antes
 
-         mnoivo$maria jorge/id=c1634-29-per3
-            ls$residencia/fanadia
+            mnoivo$maria jorge/id=c1634-29-per3
+               ls$residencia/fanadia
 
          noiva$maria do couto/id=c1634-29-per4
 
-         pnoiva$diogo do couto/id=c1634-29-per5
-            ls$residencia/quinta doo jardim
+            pnoiva$diogo do couto/id=c1634-29-per5
+               ls$residencia/quinta doo jardim
 
-         mnoiva$maria fernandes/id=c1634-29-per6
-            ls$morta/antes
+            mnoiva$maria fernandes/id=c1634-29-per6
+               ls$morta/antes
 
          test$joao ribeiro/id=c1634-29-per7
             ls$cargo/tesoureiro da igreja de sao tiago
@@ -594,10 +594,10 @@ kleio$gacto.str/prefix=stiago
 
          noiva$maria antunes/id=c1635-31-per1-per2
 
-         pnoiva$pedro fernandes/id=c1635-31-per1-per3
-            ls$residencia/gaeiras de alem
+            pnoiva$pedro fernandes/id=c1635-31-per1-per3
+               ls$residencia/gaeiras de alem
 
-         mnoiva$luisa antunes/id=c1635-31-per1-per4
+            mnoiva$luisa antunes/id=c1635-31-per1-per4
 
          test$mateus pires/id=c1635-31-per5
 
@@ -613,10 +613,10 @@ kleio$gacto.str/prefix=stiago
 
          noiva$guiomar de freitas/id=c1635-32-per1-per2
 
-         pnoiva$fernando vicente/id=c1635-32-per1-per3
-            ls$residencia/moinho do mocharro
+            pnoiva$fernando vicente/id=c1635-32-per1-per3
+               ls$residencia/moinho do mocharro
 
-         mnoiva$iria de freitas/id=c1635-32-per1-per4
+            mnoiva$iria de freitas/id=c1635-32-per1-per4
 
          test$joao carvalho/id=c1635-32-per5
 
@@ -629,10 +629,10 @@ kleio$gacto.str/prefix=stiago
 
          noiva$maria lopes/id=c1636-33-per1-per2
 
-         pnoiva$jeronimo dias/id=c1636-33-per1-per3
-            ls$residencia/tras do outeiro
+            pnoiva$jeronimo dias/id=c1636-33-per1-per3
+               ls$residencia/tras do outeiro
 
-         mnoiva$maria lopes/id=c1636-33-per1-per4
+            mnoiva$maria lopes/id=c1636-33-per1-per4
 
          test$francisco jorge/id=c1636-33-per5
             ls$profissao/padre
@@ -652,20 +652,20 @@ kleio$gacto.str/prefix=stiago
 
          noivo$leonardo francisco/id=c1636-34-per1
 
-         pnoivo$luis fernandes/id=c1636-34-per2
-            ls$morto/antes
-            ls$residencia/chao de parada
+            pnoivo$luis fernandes/id=c1636-34-per2
+               ls$morto/antes
+               ls$residencia/chao de parada
 
-         mnoivo$isabel francisco/id=c1636-34-per3
-            ls$morta/antes
+            mnoivo$isabel francisco/id=c1636-34-per3
+               ls$morta/antes
 
          noiva$filipa henriques/id=c1636-34-per4
 
-         pnoiva$braz rodrigues/id=c1636-34-per5
-            ls$morto/antes
+            pnoiva$braz rodrigues/id=c1636-34-per5
+               ls$morto/antes
 
-         mnoiva$ines vicente/id=c1636-34-per6
-            ls$residencia/nadadouro
+            mnoiva$ines vicente/id=c1636-34-per6
+               ls$residencia/nadadouro
 
          test$fernando luis/id=c1636-34-per7
             ls$residencia/quinta da barroca
@@ -711,9 +711,9 @@ kleio$gacto.str/prefix=stiago
 
          noiva$nataria dias/id=c1637-36-per1-per2
 
-         pnoiva$luis afonso/id=c1637-36-per1-per3
-            ls$morto/antes
-            ls$residencia/casal da bochardia
+            pnoiva$luis afonso/id=c1637-36-per1-per3
+               ls$morto/antes
+               ls$residencia/casal da bochardia
 
          test$jeronimo fernandes de carvalho/id=c1637-36-car
             ls$residencia/tras do outeiro
@@ -753,11 +753,11 @@ kleio$gacto.str/prefix=stiago
          noiva$maria simoa/id=c1637-38-per1-per2
             ls$naturalidade/arelho
 
-         pnoiva$joao dias/id=c1637-38-per1-per3
-            ls$morto/antes
+            pnoiva$joao dias/id=c1637-38-per1-per3
+               ls$morto/antes
 
-         mnoiva$maria simoa/id=c1637-38-per1-per4
-            ls$residencia/arelho
+            mnoiva$maria simoa/id=c1637-38-per1-per4
+               ls$residencia/arelho
 
          test$manuel martins/id=c1637-38-per5
             ls$cargo/tesoureiro
@@ -771,17 +771,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$francisco fernandes/id=c1638-39a-per1
 
-         pnoivo$francisco fernandes/id=c1638-39a-per2
-            ls$residencia/tras do outeiro
+            pnoivo$francisco fernandes/id=c1638-39a-per2
+               ls$residencia/tras do outeiro
 
-         mnoivo$maria correia/id=c1638-39a-per3
+            mnoivo$maria correia/id=c1638-39a-per3
 
          noiva$maria luis/id=c1638-39a-per4
 
-         pnoiva$alvaro fernandes/id=c1638-39a-per5
-            ls$residencia/tras do outeiro
+            pnoiva$alvaro fernandes/id=c1638-39a-per5
+               ls$residencia/tras do outeiro
 
-         mnoiva$mecia luis/id=c1638-39a-per6
+            mnoiva$mecia luis/id=c1638-39a-per6
 
          test$manuel martins/id=c1638-39a-per7
             ls$cargo/tesoureiro
@@ -797,8 +797,8 @@ kleio$gacto.str/prefix=stiago
 
          noiva$maria da costa/id=c1638-39-per1-per2
 
-         pnoiva$vicente da costa/id=c1638-39-per1-per3
-            ls$residencia/ageiras de alem
+            pnoiva$vicente da costa/id=c1638-39-per1-per3
+               ls$residencia/ageiras de alem
 
          test$simao da horta/id=c1638-39-per4
             ls$cargo/beneficiado
@@ -849,15 +849,15 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao de oliveira/id=c1639-42-per1
 
-         pnoivo$luis de oliveira/id=c1639-42-oliv
-            ls$residencia/ribeira das caldas
+            pnoivo$luis de oliveira/id=c1639-42-oliv
+               ls$residencia/ribeira das caldas
 
          noiva$francisca martins/id=c1639-42-per2
 
-         pnoiva$mateus fernandes/id=c1639-42-per3
-            ls$residencia/casal da figueira
+            pnoiva$mateus fernandes/id=c1639-42-per3
+               ls$residencia/casal da figueira
 
-         mnoiva$isabel martins/id=c1639-42-per4
+            mnoiva$isabel martins/id=c1639-42-per4
 
          test$fernao gomes coelho/id=c1639-42-per5
             ls$residencia/obidos
@@ -895,18 +895,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao francisco/id=c1639-44-per1
 
-         pnoivo$gaspar jorge/id=c1639-44-per2
-            ls$profissao/lavrador
-            ls$residencia/quinta da gia, reguesia de sao tiago de obidos
+            pnoivo$gaspar jorge/id=c1639-44-per2
+               ls$profissao/lavrador
+               ls$residencia/quinta da gia, reguesia de sao tiago de obidos
 
          noiva$maria francisca/id=c1639-44-per3
 
-         pnoiva$joao martins/id=c1639-44-per4
-            ls$profissao/lavrador
-            ls$residencia/casal da figueira
+            pnoiva$joao martins/id=c1639-44-per4
+               ls$profissao/lavrador
+               ls$residencia/casal da figueira
 
-         mnoiva$nome nao mencionado/id=c1639-44-per5
-            ls$profissao/lavradora
+            mnoiva$nome nao mencionado/id=c1639-44-per5
+               ls$profissao/lavradora
 
          test$manuel gomes/id=c1639-44-per6
             ls$cargo/tesoureiro da igreja de sao tiago de obidos
@@ -926,11 +926,11 @@ kleio$gacto.str/prefix=stiago
 
          noiva$maria martins/id=c1640-45-mart
 
-         pnoiva$estevao martins/id=c1640-45-per1-per2
-            ls$morto/antes
+            pnoiva$estevao martins/id=c1640-45-per1-per2
+               ls$morto/antes
 
-         mnoiva$ines vicente/id=c1640-45-per1-per3
-            ls$residencia/casal da brogueira
+            mnoiva$ines vicente/id=c1640-45-per1-per3
+               ls$residencia/casal da brogueira
 
          test$manuel gomes/id=c1640-45-per4
             ls$cargo/tesoureiro da igreja de sao tiago de obidos
@@ -949,11 +949,11 @@ kleio$gacto.str/prefix=stiago
          noiva$maria francisca/id=c1640-46-per1-per2
             ls$residencia/gaeiras
 
-         pnoiva$francisco vicente/id=c1640-46-per1-per3
-            ls$morto/antes
+            pnoiva$francisco vicente/id=c1640-46-per1-per3
+               ls$morto/antes
 
-         mnoiva$isabel dias/id=c1640-46-per1-per4
-            ls$morta/antes
+            mnoiva$isabel dias/id=c1640-46-per1-per4
+               ls$morta/antes
 
          test$luis henriques/id=c1640-46-per5
 
@@ -968,17 +968,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao antunes/id=c1640-47-per1
 
-         pnoivo$sebastiao fernandes/id=c1640-47-per2
-            ls$residencia/a dos negros
+            pnoivo$sebastiao fernandes/id=c1640-47-per2
+               ls$residencia/a dos negros
 
-         mnoivo$margarida fernandes/id=c1640-47-per3
+            mnoivo$margarida fernandes/id=c1640-47-per3
 
          noiva$maria correia/id=c1640-47-per4
 
-         pnoiva$damiao vicente/id=c1640-47-dam
-            ls$residencia/casal da brogueira
+            pnoiva$damiao vicente/id=c1640-47-dam
+               ls$residencia/casal da brogueira
 
-         mnoiva$isabel correia/id=c1640-47-per5
+            mnoiva$isabel correia/id=c1640-47-per5
 
          test$damiao vicente/mesmo_que=c1640-47-dam/id=c1640-47-per6
 
@@ -992,17 +992,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$domingos de oliveira/id=c1640-48-per1
 
-         pnoivo$braz de oliveira/id=c1640-48-per2
-            ls$residencia/moinhos de gaspar freire de andrade, ribeira das caldas
+            pnoivo$braz de oliveira/id=c1640-48-per2
+               ls$residencia/moinhos de gaspar freire de andrade, ribeira das caldas
 
-         mnoivo$andreia luis/id=c1640-48-per3
+            mnoivo$andreia luis/id=c1640-48-per3
 
          noiva$filipa goncalves/id=c1640-48-per4
 
-         pnoiva$andre dias/id=c1640-48-per5
-            ls$residencia/tras do outeiro
+            pnoiva$andre dias/id=c1640-48-per5
+               ls$residencia/tras do outeiro
 
-         mnoiva$joana goncalves/id=c1640-48-per6
+            mnoiva$joana goncalves/id=c1640-48-per6
 
          test$braz goncalves/id=c1640-48-per7
             ls$residencia/obidos
@@ -1020,27 +1020,27 @@ kleio$gacto.str/prefix=stiago
 
          noiva$filipa luis/id=c1641-49-per1-per2
 
-         pnoiva$domingos luis/id=c1641-49-per1-per3
-            ls$residencia/casais do nadadouro
+            pnoiva$domingos luis/id=c1641-49-per1-per3
+               ls$residencia/casais do nadadouro
 
-         mnoiva$maria ?/obs=apelido riscado/id=c1641-49-per1-per4
-            ls$morta/antes
+            mnoiva$maria ?/obs=apelido riscado/id=c1641-49-per1-per4
+               ls$morta/antes
 
       cas$c1641-50/21/4/1641/fl.118./igreja de sao tiago/joao pedroso (cura)/obs=assina joao pedroso (cura)
 
          noivo$francisco joao/id=c1641-50-per1
 
-         pnoivo$francisco oliveira/id=c1641-50-per2
-            ls$residencia/ribeira das caldas
+            pnoivo$francisco oliveira/id=c1641-50-per2
+               ls$residencia/ribeira das caldas
 
-         mnoivo$maria joao/id=c1641-50-per3
+            mnoivo$maria joao/id=c1641-50-per3
 
          noiva$maria henriques/id=c1641-50-per4
 
-         pnoiva$pascoal henriques/id=c1641-50-per5
-            ls$residencia/ribeira das caldas
+            pnoiva$pascoal henriques/id=c1641-50-per5
+               ls$residencia/ribeira das caldas
 
-         mnoiva$catarina henriques/id=c1641-50-per6
+            mnoiva$catarina henriques/id=c1641-50-per6
 
          test$joao gomes monteiro/id=c1641-50-per7
             ls$residencia/caldas
@@ -1054,8 +1054,8 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao antunes/id=c1641-51-per1
 
-         pnoivo$antonio antunes/id=c1641-51-per2
-            ls$residencia/casal do rolado, termo da vila de alfeizerao
+            pnoivo$antonio antunes/id=c1641-51-per2
+               ls$residencia/casal do rolado, termo da vila de alfeizerao
 
          noiva$maria delgada/id=c1641-51-delg
 
@@ -1071,16 +1071,16 @@ kleio$gacto.str/prefix=stiago
 
          noivo$francisco alvares/id=c1641-52-per1
 
-         pnoivo$francisco alvares/id=c1641-52-per2
-            ls$morto/antes
-            ls$residencia/salir do mato
+            pnoivo$francisco alvares/id=c1641-52-per2
+               ls$morto/antes
+               ls$residencia/salir do mato
 
          noiva$maria henriques/id=c1641-52-per3
 
-         pnoiva$miguel vicente/id=c1641-52-per4
-            ls$residencia/caldas
+            pnoiva$miguel vicente/id=c1641-52-per4
+               ls$residencia/caldas
 
-         mnoiva$maria dias/id=c1641-52-per5
+            mnoiva$maria dias/id=c1641-52-per5
 
          test$manuel gomes/id=c1641-52-per6
             ls$cargo/tesoureiro
@@ -1098,17 +1098,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$mateus da fonseca/id=c1641-53-per1
 
-         pnoivo$mateus da fonseca/id=c1641-53-per2
-            ls$residencia/matas freguesia do lourical do bispado de coimbra
+            pnoivo$mateus da fonseca/id=c1641-53-per2
+               ls$residencia/matas freguesia do lourical do bispado de coimbra
 
-         mnoivo$maria horta/id=c1641-53-per3
+            mnoivo$maria horta/id=c1641-53-per3
 
          noiva$antonia henriques/id=c1641-53-per4
 
-         pnoiva$jorge henriques/id=c1641-53-per5
-            ls$residencia/casais do nadadouro
+            pnoiva$jorge henriques/id=c1641-53-per5
+               ls$residencia/casais do nadadouro
 
-         mnoiva$maria fernandes/id=c1641-53-per6
+            mnoiva$maria fernandes/id=c1641-53-per6
 
          test$manuel gomes/id=c1641-53-per7
             ls$cargo/tesoureiro
@@ -1123,17 +1123,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$antonio ferreira/id=c1642-54-per1
 
-         pnoivo$francisco dias/id=c1642-54-per2
-            ls$residencia/obidos
+            pnoivo$francisco dias/id=c1642-54-per2
+               ls$residencia/obidos
 
-         mnoivo$francisca gomes/id=c1642-54-per3
+            mnoivo$francisca gomes/id=c1642-54-per3
 
          noiva$natalia correia/id=c1642-54-per4
 
-         pnoiva$francisco fernandes salvador/id=c1642-54-per5
-            ls$residencia/tras do outeiro
+            pnoiva$francisco fernandes salvador/id=c1642-54-per5
+               ls$residencia/tras do outeiro
 
-         mnoiva$maria correia/id=c1642-54-per6
+            mnoiva$maria correia/id=c1642-54-per6
 
          test$antonio barreto/id=c1642-54-per7
             ls$cargo/almoxarife
@@ -1150,8 +1150,8 @@ kleio$gacto.str/prefix=stiago
 
          noiva$maria francisca/id=c1642-55-per1-per2
 
-         pnoiva$francisco ferreira/id=c1642-55-per1-per3
-            ls$residencia/quinta do jardim
+            pnoiva$francisco ferreira/id=c1642-55-per1-per3
+               ls$residencia/quinta do jardim
 
          test$manuel gomes/id=c1642-55-per4
             ls$cargo/tesoureiro
@@ -1170,8 +1170,8 @@ kleio$gacto.str/prefix=stiago
          noiva$maria joao/id=c1642-56-per1-per2
             ls$residencia/gaeiras de alem
 
-         pnoiva$domingos joao/id=c1642-56-per1-per3
-            ls$profissao/alfaiate
+            pnoiva$domingos joao/id=c1642-56-per1-per3
+               ls$profissao/alfaiate
 
          test$francisco velho costa/id=c1642-56-per4
             ls$residencia/obidos
@@ -1185,18 +1185,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$antonio vicente/id=c1642-57-per1
 
-         pnoivo$francisco vicente/id=c1642-57-per2
-            ls$morto/antes
+            pnoivo$francisco vicente/id=c1642-57-per2
+               ls$morto/antes
 
-         mnoivo$isabel dias/id=c1642-57-per3
-            ls$morta/antes
+            mnoivo$isabel dias/id=c1642-57-per3
+               ls$morta/antes
 
          noiva$joana gomes/id=c1642-57-per4
 
-         pnoiva$francisco rodrigues/id=c1642-57-per5
-            ls$residencia/obidos
+            pnoiva$francisco rodrigues/id=c1642-57-per5
+               ls$residencia/obidos
 
-         mnoiva$maria manuel/id=c1642-57-per6
+            mnoiva$maria manuel/id=c1642-57-per6
 
          test$andre martins/id=c1642-57-per7
             ls$residencia/obidos
@@ -1214,10 +1214,10 @@ kleio$gacto.str/prefix=stiago
 
          noiva$maria carvalha/id=c1643-58-per1-per2
 
-         pnoiva$antonio luis/id=c1643-58-per1-per3
-            ls$residencia/tras do outeiro
+            pnoiva$antonio luis/id=c1643-58-per1-per3
+               ls$residencia/tras do outeiro
 
-         mnoiva$madalena carvalha/id=c1643-58-per1-per4
+            mnoiva$madalena carvalha/id=c1643-58-per1-per4
 
          test$francisco fernandes/id=c1643-58-per5
 
@@ -1232,16 +1232,16 @@ kleio$gacto.str/prefix=stiago
          noivo$gaspar jorge/id=c1644-59-per1
             ls$residencia/obidos
 
-         pnoivo$gaspar jorge/id=c1644-59-gasp
-            ls$profissao/lavrador
-            ls$residencia/arelho
+            pnoivo$gaspar jorge/id=c1644-59-gasp
+               ls$profissao/lavrador
+               ls$residencia/arelho
 
          noiva$ana francisca/id=c1644-59-per2
             ls$residencia/casal da figueira
 
-         pnoiva$joao martins/id=c1644-59-per3
-            ls$profissao/lavrador
-            ls$residencia/casal da figueira
+            pnoiva$joao martins/id=c1644-59-per3
+               ls$profissao/lavrador
+               ls$residencia/casal da figueira
 
          test$gaspar jorge/mesmo_que=c1644-59-gasp/id=c1644-59-per4
 
@@ -1256,15 +1256,15 @@ kleio$gacto.str/prefix=stiago
          noivo$antonio martins/id=c1644-60-per1
             ls$naturalidade/chao de parada
 
-         pnoivo$antonio dias/id=c1644-60-per1-per2
+            pnoivo$antonio dias/id=c1644-60-per1-per2
 
-         mnoivo$catarina martins/id=c1644-60-per1-per3
+            mnoivo$catarina martins/id=c1644-60-per1-per3
 
          noiva$isabel gomes/id=c1644-60-per1-per4
 
-         pnoiva$clemente gomes/id=c1644-60-per1-per5
+            pnoiva$clemente gomes/id=c1644-60-per1-per5
 
-         mnoiva$maria francisca/id=c1644-60-per1-per6
+            mnoiva$maria francisca/id=c1644-60-per1-per6
 
          test$manuel gomes/id=c1644-60-per7
             ls$cargo/tesoureiro

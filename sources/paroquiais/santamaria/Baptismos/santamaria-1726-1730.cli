@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$baptismos1726-1730/localizacao-a.d.l./freguesia de santa maria de obidos
 
       bap$b1726-1/1/2/1726/fl.114/igreja de santa maria/antonio de mendonca (beneficiado)/obs=assina o cura jose de matos
@@ -6,416 +6,416 @@ kleio$gacto.str/prefix=stmaria
          n$francisco/m/id=b1726-1-per1
             ls$datanasc/17260125
 
-         pn$francisco antunes/id=b1726-1-per2
-            ls$residencia/arrabalde
+            pn$francisco antunes/id=b1726-1-per2
+               ls$residencia/arrabalde
 
-         mn$josefa maria/id=b1726-1-per3
-            ls$residencia/arrabalde
+            mn$josefa maria/id=b1726-1-per3
+               ls$residencia/arrabalde
 
-         pad1$sebastiao vieira/id=b1726-1-per4
+            pad1$sebastiao vieira/id=b1726-1-per4
 
-         mad1$maria antonia/id=b1726-1-per5
-            ls$residencia/obidos
+            mad1$maria antonia/id=b1726-1-per5
+               ls$residencia/obidos
 
       bap$b1726-2/6/2/1726/fl.114/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$antonio/m/id=b1726-2-per1
             ls$datanasc/17260230
 
-         pn$joao henriques/id=b1726-2-per2
-            ls$residencia/arrabalde
+            pn$joao henriques/id=b1726-2-per2
+               ls$residencia/arrabalde
 
-         mn$antonia maria/id=b1726-2-per3
-            ls$residencia/arrabalde
+            mn$antonia maria/id=b1726-2-per3
+               ls$residencia/arrabalde
 
-         pad1$verissimo da silva/id=b1726-2-per4
-            ls$freguesia/sao pedro
+            pad1$verissimo da silva/id=b1726-2-per4
+               ls$freguesia/sao pedro
 
-         mad1$maria teodora/id=b1726-2-mar
+            mad1$maria teodora/id=b1726-2-mar
 
-         procurador-mad1$teodoro ?/id=b1726-2-per5
-            rel$parentesco/irmao/maria teodora/b1726-2-mar
+            procurador-mad1$teodoro ?/id=b1726-2-per5
+               rel$parentesco/irmao/maria teodora/b1726-2-mar
 
       bap$b1726-3/24/3/1726/fl.114v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joaquim/m/id=b1726-3-per1
             ls$datanasc/17260316
 
-         pn$antonio ferreira/id=b1726-3-per2
-            ls$residencia/casais de alentejo
+            pn$antonio ferreira/id=b1726-3-per2
+               ls$residencia/casais de alentejo
 
-         mn$luisa maria/id=b1726-3-per3
-            ls$residencia/casais de alentejo
+            mn$luisa maria/id=b1726-3-per3
+               ls$residencia/casais de alentejo
 
-         pad1$adriao de lemos/id=b1726-3-per4
+            pad1$adriao de lemos/id=b1726-3-per4
 
-         mad1$pascoa maria/id=b1726-3-per5
-            ls$residencia/casais de alentejo
+            mad1$pascoa maria/id=b1726-3-per5
+               ls$residencia/casais de alentejo
 
       bap$b1726-4/26/3/1726/fl.114v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$caetana/f/id=b1726-4-per1
             ls$datanasc/17260314
 
-         pn$francisco correia/id=b1726-4-per2
-            ls$residencia/rua do poco
+            pn$francisco correia/id=b1726-4-per2
+               ls$residencia/rua do poco
 
-         mn$josefa da conceicao/id=b1726-4-per3
-            ls$residencia/rua do poco
+            mn$josefa da conceicao/id=b1726-4-per3
+               ls$residencia/rua do poco
 
-         pad1$caetano gomes de avelar/id=b1726-4-per4
-            ls$cargo/beneficiado
+            pad1$caetano gomes de avelar/id=b1726-4-per4
+               ls$cargo/beneficiado
 
-         mad1$maria antonia rosa de carvalho/id=b1726-4-maria
-            ls$titulo/dona
+            mad1$maria antonia rosa de carvalho/id=b1726-4-maria
+               ls$titulo/dona
 
-         procurador-mad1$antonio franco de carvalho/id=b1726-4-per5
-            rel$parentesco/irmao/maria antonia rosa de carvalho/b1726-4-maria
+            procurador-mad1$antonio franco de carvalho/id=b1726-4-per5
+               rel$parentesco/irmao/maria antonia rosa de carvalho/b1726-4-maria
 
       bap$b1726-5/24/3/1726/fl.114v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiao/m/id=b1726-5-seb
             ls$enjeitado/sim/obs="filho de pais imcognitos que foy achado em os cazais de coto e o cria maria henriques cazada com manuel antunes moradores no bairro"
 
-         pn$nome desconhecido/id=b1726-5-per1
+            pn$nome desconhecido/id=b1726-5-per1
 
-         mn$nome desconhecido/id=b1726-5-per2
+            mn$nome desconhecido/id=b1726-5-per2
 
-         pad1$sebastiao vieira/id=b1726-5-per3
-            ls$cargo/procurador do concelho
+            pad1$sebastiao vieira/id=b1726-5-per3
+               ls$cargo/procurador do concelho
 
-         referida$maria henriques/id=b1726-5-mar
-            ls$residencia/bairro
-            rel$sociabilidade/ama/sebastiao/b1726-5-seb
+            referida$maria henriques/id=b1726-5-mar
+               ls$residencia/bairro
+               rel$sociabilidade/ama/sebastiao/b1726-5-seb
 
-         referido$manuel antunes/id=b1726-5-per4
-            ls$residencia/bairro
-            rel$parentesco/marido/maria henriques/b1726-5-mar
+            referido$manuel antunes/id=b1726-5-per4
+               ls$residencia/bairro
+               rel$parentesco/marido/maria henriques/b1726-5-mar
 
       bap$b1726-6/5/5/1726/fl.115/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1726-6-per1
             ls$datanasc/17260421
 
-         pn$joao craveiro/id=b1726-6-per2
-            ls$residencia/arrabalde
+            pn$joao craveiro/id=b1726-6-per2
+               ls$residencia/arrabalde
 
-         mn$maria inacia/id=b1726-6-per3
-            ls$residencia/arrabalde
+            mn$maria inacia/id=b1726-6-per3
+               ls$residencia/arrabalde
 
-         pad1$antonio correia pimentel/id=b1726-6-ant
-            ls$titulo/licenciado
+            pad1$antonio correia pimentel/id=b1726-6-ant
+               ls$titulo/licenciado
 
-         mad1$maria de sao bernardo/id=b1726-6-per4
-            rel$parentesco/irma/antonio correia pimentel/b1726-6-ant
+            mad1$maria de sao bernardo/id=b1726-6-per4
+               rel$parentesco/irma/antonio correia pimentel/b1726-6-ant
 
       bap$b1726-7/30/5/1726/fl.115v./igreja de santa maria/aires de miranda henriques (reverendo, prior de sao pedro)/obs=assina o cura jose de matos
 
          n$ana/m/id=b1726-7-per1
 
-         pn$antonio pegado de resende/id=b1726-7-per2
-            ls$cargo/capitao mor
-            ls$residencia/obidos
+            pn$antonio pegado de resende/id=b1726-7-per2
+               ls$cargo/capitao mor
+               ls$residencia/obidos
 
-         mn$ursula gerarda de videira e brito/id=b1726-7-per3
-            ls$residencia/obidos
+            mn$ursula gerarda de videira e brito/id=b1726-7-per3
+               ls$residencia/obidos
 
-         pad1$tomas de almeida/id=b1726-7-per4
-            ls$titulo/ilustrissimo
-            ls$residencia/reverendo
-            ls$titulo/senhor
-            ls$cargo/patriarca de lisboa
+            pad1$tomas de almeida/id=b1726-7-per4
+               ls$titulo/ilustrissimo
+               ls$residencia/reverendo
+               ls$titulo/senhor
+               ls$cargo/patriarca de lisboa
 
-         procurador-pad1$antonio coelho de miranda/obs=duvida na leitura do apelido coelho/id=b1726-7-per5
-            ls$cargo/vigario geral de obidos
+            procurador-pad1$antonio coelho de miranda/obs=duvida na leitura do apelido coelho/id=b1726-7-per5
+               ls$cargo/vigario geral de obidos
 
-         mad1$teresa de videira/id=b1726-7-per6
-            ls$titulo/dona
-            ls$cargo/abadessa do convento de cos
+            mad1$teresa de videira/id=b1726-7-per6
+               ls$titulo/dona
+               ls$cargo/abadessa do convento de cos
 
-         procurador-mad1$luis ? da silveira/id=b1726-7-per7
-            ls$titulo/doutor
-            ls$cargo/juiz de fora
-            ls$residencia/obidos/obs="com licenca do reverendo doutor vigario geral desta vila"
+            procurador-mad1$luis ? da silveira/id=b1726-7-per7
+               ls$titulo/doutor
+               ls$cargo/juiz de fora
+               ls$residencia/obidos/obs="com licenca do reverendo doutor vigario geral desta vila"
 
       bap$b1726-8/3/6/1726/fl.115v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$luisa/f/id=b1726-8-per1
             ls$datanasc/17260528
 
-         pn$manuel pires/id=b1726-8-per2
-            ls$residencia/gaeiras
+            pn$manuel pires/id=b1726-8-per2
+               ls$residencia/gaeiras
 
-         mn$ana maria/id=b1726-8-per3
-            ls$residencia/gaeiras
+            mn$ana maria/id=b1726-8-per3
+               ls$residencia/gaeiras
 
-         pad1$manuel da costa peixoto/id=b1726-8-per4
-            ls$residencia/obidos
+            pad1$manuel da costa peixoto/id=b1726-8-per4
+               ls$residencia/obidos
 
-         mad1$luisa teresa/id=b1726-8-per5
-            ls$residencia/arrabalde
+            mad1$luisa teresa/id=b1726-8-per5
+               ls$residencia/arrabalde
 
-         pmad1$manuel gomes/id=b1726-8-per6
-            ls$residencia/arrabalde
+               pmad1$manuel gomes/id=b1726-8-per6
+                  ls$residencia/arrabalde
 
       bap$b1726-9/3/8/1726/fl.116/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$mariana/f/id=b1726-9-per1
             ls$datanasc/17260726
 
-         pn$manuel gomes/obs="desposados"/id=b1726-9-per2
+            pn$manuel gomes/obs="desposados"/id=b1726-9-per2
 
-         mn$antonia maria/obs="desposados"/id=b1726-9-per3
-            ls$residencia/obidos, postigo de cima
+            mn$antonia maria/obs="desposados"/id=b1726-9-per3
+               ls$residencia/obidos, postigo de cima
 
-         pad1$jose correia da serra/id=b1726-9-per4
+            pad1$jose correia da serra/id=b1726-9-per4
 
       bap$b1726-10/5/8/1726/fl.116/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$marta/f/id=b1726-10-per1
             ls$datanasc/17260729
 
-         pn$antonio gomes/id=b1726-10-per2
-            ls$residencia/casais de alentejo
+            pn$antonio gomes/id=b1726-10-per2
+               ls$residencia/casais de alentejo
 
-         mn$maria ferreira/id=b1726-10-per3
-            ls$residencia/casais de alentejo
+            mn$maria ferreira/id=b1726-10-per3
+               ls$residencia/casais de alentejo
 
-         pad1$leandro gomes henriques/id=b1726-10-lea
-            ls$titulo/doutor
+            pad1$leandro gomes henriques/id=b1726-10-lea
+               ls$titulo/doutor
 
-         mad1$josefa maria/id=b1726-10-per4
+            mad1$josefa maria/id=b1726-10-per4
 
-         mrmad1$leandro gomes henriques/mesmo_que=b1726-10-lea/id=b1726-10-per5
-            ls$titulo/doutor
+               mrmad1$leandro gomes henriques/mesmo_que=b1726-10-lea/id=b1726-10-per5
+                  ls$titulo/doutor
 
-         procurador-mad1$bernardo gomes henriques/id=b1726-10-per6
-            ls$cargo/capitao
+            procurador-mad1$bernardo gomes henriques/id=b1726-10-per6
+               ls$cargo/capitao
 
       bap$b1726-11/27/10/1726/fl.116v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$josefa/f/id=b1726-11-per1
 
-         pn$jose lopes/id=b1726-11-per2
-            ls$residencia/obidos
+            pn$jose lopes/id=b1726-11-per2
+               ls$residencia/obidos
 
-         mn$teresa de sao jose/id=b1726-11-per3
-            ls$residencia/obidos
+            mn$teresa de sao jose/id=b1726-11-per3
+               ls$residencia/obidos
 
-         pad1$gregorio antunes correia/id=b1726-11-per4
-            ls$residencia/obidos
+            pad1$gregorio antunes correia/id=b1726-11-per4
+               ls$residencia/obidos
 
       bap$b1726-12/6/11/1726/fl.116v./igreja de santa maria/sebastiao ferreira e silva (licenciado, economo da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1726-12-per1
             ls$datanasc/17261029
 
-         pn$francisco de sousa/id=b1726-12-per2
-            ls$residencia/rua nova
+            pn$francisco de sousa/id=b1726-12-per2
+               ls$residencia/rua nova
 
-         mn$maria de freitas/id=b1726-12-per3
-            ls$residencia/rua nova
+            mn$maria de freitas/id=b1726-12-per3
+               ls$residencia/rua nova
 
-         pad1$jose de matos/id=b1726-12-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
+            pad1$jose de matos/id=b1726-12-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
 
       bap$b1726-13/6/11/1726/fl.117/igreja de santa maria/sebastiao ferreira e silva (licenciado)/obs=assina o cura jose de matos
 
          n$jacinta/f/id=b1726-13-per1
 
-         pn$antonio da silva/id=b1726-13-per2
-            ls$profissao/ferrador
-            ls$residencia/arrabalde
+            pn$antonio da silva/id=b1726-13-per2
+               ls$profissao/ferrador
+               ls$residencia/arrabalde
 
-         mn$damiana teresa%damina thereza/id=b1726-13-per3
-            ls$residencia/arrabalde
+            mn$damiana teresa%damina thereza/id=b1726-13-per3
+               ls$residencia/arrabalde
 
-         pad1$jose da costa dinis/id=b1726-13-per4
-            ls$profissao/padre
-            ls$residencia/lisboa
+            pad1$jose da costa dinis/id=b1726-13-per4
+               ls$profissao/padre
+               ls$residencia/lisboa
 
-         procurador-pad1$joao ferreira/id=b1726-13-per5
-            ls$cargo/capitao
-            ls$residencia/obidos
+            procurador-pad1$joao ferreira/id=b1726-13-per5
+               ls$cargo/capitao
+               ls$residencia/obidos
 
-         mad1$francisca antonia/id=b1726-13-per6
-            ls$residencia/santa maria
+            mad1$francisca antonia/id=b1726-13-per6
+               ls$residencia/santa maria
 
-         pmad1$estevao correia malhao/id=b1726-13-est
-            ls$residencia/santa maria
+               pmad1$estevao correia malhao/id=b1726-13-est
+                  ls$residencia/santa maria
 
-         procurador-mad1$estevao correia malhao/mesmo_que=b1726-13-est/id=b1726-13-per7
-            ls$residencia/santa maria
+            procurador-mad1$estevao correia malhao/mesmo_que=b1726-13-est/id=b1726-13-per7
+               ls$residencia/santa maria
 
       bap$b1726-14/12/11/1726/fl.117/igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos
 
          n$ana/f/id=b1726-14-per1
             ls$datanasc/17261102
 
-         pn$manuel de faria/id=b1726-14-per2
-            ls$residencia/arrabalde
+            pn$manuel de faria/id=b1726-14-per2
+               ls$residencia/arrabalde
 
-         mn$rosa francisca/id=b1726-14-per3
-            ls$residencia/arrabalde
+            mn$rosa francisca/id=b1726-14-per3
+               ls$residencia/arrabalde
 
-         pad1$manuel antunes correia/id=b1726-14-per4
-            ls$residencia/obidos
+            pad1$manuel antunes correia/id=b1726-14-per4
+               ls$residencia/obidos
 
-         mad1$micaela da assuncao/id=b1726-14-per5
+            mad1$micaela da assuncao/id=b1726-14-per5
 
-         procurador-mad1$jose de sequeira/id=b1726-14-per6
-            ls$cargo/beneficiado da igreja de sao pedro
-            rel$parentesco/irmao/micaela da assuncao/b1726-14-per5
+            procurador-mad1$jose de sequeira/id=b1726-14-per6
+               ls$cargo/beneficiado da igreja de sao pedro
+               rel$parentesco/irmao/micaela da assuncao/b1726-14-per5
 
       bap$b1726-15/12/11/1726/fl.117v./igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos
 
          n$leonarda/f/id=b1726-15-per1
             ls$datanasc/17261104
 
-         pn$antonio ferreira/id=b1726-15-per2
-            ls$residencia/obidos
+            pn$antonio ferreira/id=b1726-15-per2
+               ls$residencia/obidos
 
-         mn$mariana da conceicao/id=b1726-15-per3
-            ls$residencia/obidos
+            mn$mariana da conceicao/id=b1726-15-per3
+               ls$residencia/obidos
 
-         pad1$jose gomes ferreira/id=b1726-15-per4
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao tiago
-            ls$residencia/obidos
+            pad1$jose gomes ferreira/id=b1726-15-per4
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao tiago
+               ls$residencia/obidos
 
-         mad1$maria do rosario/id=b1726-15-per5
-            ls$residencia/obidos
+            mad1$maria do rosario/id=b1726-15-per5
+               ls$residencia/obidos
 
       bap$b1726-16/16/12/1726/fl.117v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiao/m/id=b1726-16-seb
             ls$enjeitado/sim/obs="filho de pais imcognitos o qual foy achado em nossa senhora do emparo junto a touguia"
 
-         pn$nome desconhecido/id=b1726-16-per1
+            pn$nome desconhecido/id=b1726-16-per1
 
-         mn$nome desconhecido/id=b1726-16-per2
+            mn$nome desconhecido/id=b1726-16-per2
 
-         pad1$jose/id=b1726-16-per3
+            pad1$jose/id=b1726-16-per3
 
-         ppad1$sebastiao vieira/id=b1726-16-per4
-            ls$cargo/procurador do concelho
+               ppad1$sebastiao vieira/id=b1726-16-per4
+                  ls$cargo/procurador do concelho
 
-         referida$francisca maria/id=b1726-16-per5
-            ls$ec/s
-            ls$residencia/obidos, facho
-            rel$sociabilidade/ama/sebastiao/b1726-16-seb
+            referida$francisca maria/id=b1726-16-per5
+               ls$ec/s
+               ls$residencia/obidos, facho
+               rel$sociabilidade/ama/sebastiao/b1726-16-seb
 
       bap$b1726-17/22/12/1726/fl.118/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1726-17-per1
             ls$datanasc/17261214
 
-         pn$paulo ferreira/id=b1726-17-per2
-            ls$residencia/a da gorda
+            pn$paulo ferreira/id=b1726-17-per2
+               ls$residencia/a da gorda
 
-         mn$ana da silva/id=b1726-17-per3
-            ls$residencia/a da gorda
+            mn$ana da silva/id=b1726-17-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel mendes/id=b1726-17-per4
-            ls$residencia/obidos
+            pad1$manuel mendes/id=b1726-17-per4
+               ls$residencia/obidos
 
       bap$b1726-18/30/12/1726/fl.118/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jeronima/f/id=b1726-18-per1
             ls$datanasc/17261128
 
-         pn$joaquim manuel da costa/id=b1726-18-per2
-            ls$residencia/gaeiras
+            pn$joaquim manuel da costa/id=b1726-18-per2
+               ls$residencia/gaeiras
 
-         mn$lourenca maria de lacerda/id=b1726-18-per3
-            ls$titulo/dona
-            ls$residencia/gaeiras
+            mn$lourenca maria de lacerda/id=b1726-18-per3
+               ls$titulo/dona
+               ls$residencia/gaeiras
 
-         pad1$joao rodrigues pereira/id=b1726-18-joa
-            ls$titulo/doutor
-            ls$cargo/desembargador
+            pad1$joao rodrigues pereira/id=b1726-18-joa
+               ls$titulo/doutor
+               ls$cargo/desembargador
 
-         procurador-pad1$bras antunes correia/id=b1726-18-bras
-            ls$cargo/prior de sao joao
+            procurador-pad1$bras antunes correia/id=b1726-18-bras
+               ls$cargo/prior de sao joao
 
-         mad1$maria teresa de freitas graces/id=b1726-18-per4
-            ls$titulo/dona
+            mad1$maria teresa de freitas graces/id=b1726-18-per4
+               ls$titulo/dona
 
-         mrmad1$joao rodrigues pereira/mesmo_que=b1726-18-joa/id=b1726-18-per5
-            ls$titulo/doutor
-            ls$cargo/desembargador
+               mrmad1$joao rodrigues pereira/mesmo_que=b1726-18-joa/id=b1726-18-per5
+                  ls$titulo/doutor
+                  ls$cargo/desembargador
 
-         procurador-mad1$manuel antunes correia/id=b1726-18-per6
-            rel$parentesco/irmao/bras antunes correia/b1726-18-bras
+            procurador-mad1$manuel antunes correia/id=b1726-18-per6
+               rel$parentesco/irmao/bras antunes correia/b1726-18-bras
 
       bap$b1727-1/1/1/1727/fl.118v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1727-1-per1
             ls$datanasc/17261225
 
-         pn$manuel leal/id=b1727-1-per2
-            ls$residencia/a da gorda
+            pn$manuel leal/id=b1727-1-per2
+               ls$residencia/a da gorda
 
-         mn$teresa da conceicao/id=b1727-1-per3
-            ls$residencia/a da gorda
+            mn$teresa da conceicao/id=b1727-1-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel da silva/id=b1727-1-per4
-            ls$residencia/a da gorda
-            ls$ec/v
+            pad1$manuel da silva/id=b1727-1-per4
+               ls$residencia/a da gorda
+               ls$ec/v
 
-         mad1$maria henriques/id=b1727-1-per5
-            ls$residencia/a da gorda
-            ls$ec/s
+            mad1$maria henriques/id=b1727-1-per5
+               ls$residencia/a da gorda
+               ls$ec/s
 
       bap$b1727-2/6/1/1727/fl.118v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jacinta/f/id=b1727-2-per1
             ls$datanasc/17261226
 
-         pn$sebastiao da cruz/id=b1727-2-per2
-            ls$residencia/casal da reinalda
+            pn$sebastiao da cruz/id=b1727-2-per2
+               ls$residencia/casal da reinalda
 
-         mn$josefa maria/id=b1727-2-per3
-            ls$residencia/casal da reinalda
+            mn$josefa maria/id=b1727-2-per3
+               ls$residencia/casal da reinalda
 
-         pad1$miguel ribeiro/id=b1727-2-per4
-            ls$residencia/quinta das flores
+            pad1$miguel ribeiro/id=b1727-2-per4
+               ls$residencia/quinta das flores
 
-         mad1$josefa da encarnacao/id=b1727-2-per5
-            ls$residencia/obidos
+            mad1$josefa da encarnacao/id=b1727-2-per5
+               ls$residencia/obidos
 
       bap$b1727-3/12/1/1727/fl.119/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$ana/f/id=b1727-3-per1
             ls$datanasc/17270201
 
-         pn$jose pereira da costa/id=b1727-3-per2
-            ls$residencia/rua nova
+            pn$jose pereira da costa/id=b1727-3-per2
+               ls$residencia/rua nova
 
-         mn$maria da costa/id=b1727-3-per3
-            ls$residencia/rua nova
+            mn$maria da costa/id=b1727-3-per3
+               ls$residencia/rua nova
 
-         pad1$agostinho pereira/id=b1727-3-per4
-            ls$titulo/clerigo de ordens menores%clerigo in minoribus
-            ls$residencia/obidos
+            pad1$agostinho pereira/id=b1727-3-per4
+               ls$titulo/clerigo de ordens menores%clerigo in minoribus
+               ls$residencia/obidos
 
-         mad1$maria de sao bernardo/id=b1727-3-per5
-            ls$residencia/obidos
+            mad1$maria de sao bernardo/id=b1727-3-per5
+               ls$residencia/obidos
 
       bap$b1727-4/12/1/1727/fl.119/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$ana/f/id=b1727-4-per1
             ls$datanasc/17270104
 
-         pn$jose henriques/id=b1727-4-per2
-            ls$residencia/a da gorda
+            pn$jose henriques/id=b1727-4-per2
+               ls$residencia/a da gorda
 
-         mn$catarina soares/id=b1727-4-per3
-            ls$residencia/a da gorda
+            mn$catarina soares/id=b1727-4-per3
+               ls$residencia/a da gorda
 
-         pad1$caetano soares/id=b1727-4-per4
-            ls$residencia/lisboa
+            pad1$caetano soares/id=b1727-4-per4
+               ls$residencia/lisboa
 
       bap$b1727-5/2/2/1727/fl.119v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
@@ -423,100 +423,100 @@ kleio$gacto.str/prefix=stmaria
             ls$titulo/dom
             ls$datanasc/17270114
 
-         pn$manuel de sisneiros girao e vasconcelos/id=b1727-5-per2
-            ls$titulo/dom
+            pn$manuel de sisneiros girao e vasconcelos/id=b1727-5-per2
+               ls$titulo/dom
 
-         mn$antonia josefa freire silva e veles/id=b1727-5-per3
-            ls$residencia/obidos
+            mn$antonia josefa freire silva e veles/id=b1727-5-per3
+               ls$residencia/obidos
 
-         pad1$andre lopes de oliveira/id=b1727-5-per4
-            ls$profissao/padre
-            ls$residencia/lisboa
+            pad1$andre lopes de oliveira/id=b1727-5-per4
+               ls$profissao/padre
+               ls$residencia/lisboa
 
-         procurador-pad1$antonio pegado e resende/id=b1727-5-per5
-            ls$cargo/capitao mor
-            ls$residencia/obidos
+            procurador-pad1$antonio pegado e resende/id=b1727-5-per5
+               ls$cargo/capitao mor
+               ls$residencia/obidos
 
-         mad1$helena luisa de noronha/obs=duvida na leitura do nome helena/id=b1727-5-per6
+            mad1$helena luisa de noronha/obs=duvida na leitura do nome helena/id=b1727-5-per6
 
-         procurador-mad1$bras antunes correia/id=b1727-5-per7
-            ls$titulo/reverendo
-            ls$cargo/prior da igreja de sao joao
+            procurador-mad1$bras antunes correia/id=b1727-5-per7
+               ls$titulo/reverendo
+               ls$cargo/prior da igreja de sao joao
 
       bap$b1727-6/16/2/1727/fl.119v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiana/f/id=b1727-6-seb
             ls$enjeitada/sim/obs="filha de pais incognitos que foy achada nas gaeiras em os sete do dito mes de fevereiro e a cria jozepha da emcarnacao molher de francisco henriques do dito lugar das gaeiras"
 
-         pn$nome desconhecido/id=b1727-6-per1
+            pn$nome desconhecido/id=b1727-6-per1
 
-         mn$nome desconhecido/id=b1727-6-per2
+            mn$nome desconhecido/id=b1727-6-per2
 
-         pad1$manuel soares henriques/id=b1727-6-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares henriques/id=b1727-6-per3
+               ls$cargo/procurador do concelho
 
-         referida$josefa da encarnacao/id=b1727-6-josefa
-            ls$residencia/gaeiras
-            rel$sociabilidade/ama/sebastiana/b1727-6-seb
+            referida$josefa da encarnacao/id=b1727-6-josefa
+               ls$residencia/gaeiras
+               rel$sociabilidade/ama/sebastiana/b1727-6-seb
 
-         referido$francisco henriques/id=b1727-6-per4
-            ls$residencia/gaeiras
-            rel$parentesco/marido/josefa da encarnacao/b1727-6-josefa
+            referido$francisco henriques/id=b1727-6-per4
+               ls$residencia/gaeiras
+               rel$parentesco/marido/josefa da encarnacao/b1727-6-josefa
 
       bap$b1727-7/17/2/1727/fl.120/igreja de santa maria/sebastiao ferreira (licenciado, economo da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joana/f/id=b1727-7-per1
 
-         pn$joao martins/id=b1727-7-per2
-            ls$residencia/arrabalde
+            pn$joao martins/id=b1727-7-per2
+               ls$residencia/arrabalde
 
-         mn$maria tomasia/id=b1727-7-per3
-            ls$residencia/arrabalde
+            mn$maria tomasia/id=b1727-7-per3
+               ls$residencia/arrabalde
 
-         pad1$joao felix brito/id=b1727-7-per4
+            pad1$joao felix brito/id=b1727-7-per4
 
-         ppad1$antonio pegado e resende/id=b1727-7-per5
-            ls$cargo/capitao mor
+               ppad1$antonio pegado e resende/id=b1727-7-per5
+                  ls$cargo/capitao mor
 
       bap$b1727-8/24/2/1727/fl.120/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiana/f/id=b1727-8-seb
             ls$enjeitada/sim/obs="filha de pais incognitos a qual foi achada neste termo e a cria maria jozepha molher de manoel silvestre do cal da povoa"
 
-         pn$nome desconhecido/id=b1727-8-per1
+            pn$nome desconhecido/id=b1727-8-per1
 
-         mn$nome desconhecido/id=b1727-8-per2
+            mn$nome desconhecido/id=b1727-8-per2
 
-         pad1$manuel soares/id=b1727-8-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares/id=b1727-8-per3
+               ls$cargo/procurador do concelho
 
-         referida$maria josefa/id=b1727-8-josefa
-            ls$residencia/casal da povoa%cal da povoa
-            rel$sociabilidade/ama/sebastiana/b1727-8-seb
+            referida$maria josefa/id=b1727-8-josefa
+               ls$residencia/casal da povoa%cal da povoa
+               rel$sociabilidade/ama/sebastiana/b1727-8-seb
 
-         referido$manuel silvestre/id=b1727-8-per4
-            ls$residencia/cal da povoa%cal da povoa
-            rel$parentesco/marido/maria josefa/b1727-8-josefa
+            referido$manuel silvestre/id=b1727-8-per4
+               ls$residencia/cal da povoa%cal da povoa
+               rel$parentesco/marido/maria josefa/b1727-8-josefa
 
       bap$b1727-9/7/3/1727/fl.120v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joaquim/m/id=b1727-9-joaq
             ls$datanasc/17270211
 
-         pn$manuel lopes/id=b1727-9-man
-            ls$residencia/obidos, porta do vale
+            pn$manuel lopes/id=b1727-9-man
+               ls$residencia/obidos, porta do vale
 
-         mn$antonia maria/id=b1727-9-ant
-            ls$residencia/obidos, porta do vale
+            mn$antonia maria/id=b1727-9-ant
+               ls$residencia/obidos, porta do vale
 
-         pad1$nome desconhecido/id=b1727-9-per1
+            pad1$nome desconhecido/id=b1727-9-per1
 
-         mad1$nome desconhecido/id=b1727-9-per2
+            mad1$nome desconhecido/id=b1727-9-per2
 
-         referido$sebastiao ferreira e silva/id=b1727-9-per3
-            ls$titulo/licenciado
-            ls$cargo/economo da igreja de santa maria
-            rel$sociabilidade/baptizou em necessidade/joaquim/b1727-9-joaq
+            referido$sebastiao ferreira e silva/id=b1727-9-per3
+               ls$titulo/licenciado
+               ls$cargo/economo da igreja de santa maria
+               rel$sociabilidade/baptizou em necessidade/joaquim/b1727-9-joaq
 
       bap$b1727-10/7/3/1727/fl.120v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
@@ -524,569 +524,569 @@ kleio$gacto.str/prefix=stmaria
             rel$parentesco/irma gemea/joaquim/b1727-9-joaq
             ls$datanasc/17270211
 
-         pn$manuel lopes/mesmo_que=b1727-9-man/id=b1727-10-per1
-            ls$residencia/obidos, porta do vale
+            pn$manuel lopes/mesmo_que=b1727-9-man/id=b1727-10-per1
+               ls$residencia/obidos, porta do vale
 
-         mn$antonia maria/mesmo_que=b1727-9-ant/id=b1727-10-per2
-            ls$residencia/obidos, porta do vale
+            mn$antonia maria/mesmo_que=b1727-9-ant/id=b1727-10-per2
+               ls$residencia/obidos, porta do vale
 
-         pad1$nome desconhecido/id=b1727-10-per3
+            pad1$nome desconhecido/id=b1727-10-per3
 
-         mad1$nome desconhecido/id=b1727-10-per4
+            mad1$nome desconhecido/id=b1727-10-per4
 
-         referido$jose de matos/id=b1727-10-per5
-            ls$profissao/padre/obs=paroco que faz o registo
-            rel$sociabilidade/baptizou em necessidade/ana/b1727-10-ana
+            referido$jose de matos/id=b1727-10-per5
+               ls$profissao/padre/obs=paroco que faz o registo
+               rel$sociabilidade/baptizou em necessidade/ana/b1727-10-ana
 
       bap$b1727-11/8/3/1727/fl.120v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joao/m/id=b1727-11-per1
             ls$datanasc/17270302
 
-         pn$joao gomes/id=b1727-11-per2
-            ls$residencia/fraldeu
+            pn$joao gomes/id=b1727-11-per2
+               ls$residencia/fraldeu
 
-         mn$maria do espirito santo/id=b1727-11-per3
-            ls$residencia/fraldeu
+            mn$maria do espirito santo/id=b1727-11-per3
+               ls$residencia/fraldeu
 
-         pad1$joao ferreira/id=b1727-11-per4
-            ls$profissao/soldado
+            pad1$joao ferreira/id=b1727-11-per4
+               ls$profissao/soldado
 
-         mad1$juliana gomes/id=b1727-11-per5
-            ls$residencia/usseira
+            mad1$juliana gomes/id=b1727-11-per5
+               ls$residencia/usseira
 
       bap$b1727-12/20/3/1727/fl.121/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1727-12-per1
             ls$datanasc/17270314
 
-         pn$jose gomes/id=b1727-12-per2
-            ls$residencia/gaeiras
+            pn$jose gomes/id=b1727-12-per2
+               ls$residencia/gaeiras
 
-         mn$maria gomes/id=b1727-12-per3
-            ls$residencia/gaeiras
+            mn$maria gomes/id=b1727-12-per3
+               ls$residencia/gaeiras
 
-         pad1$tome da fonseca/id=b1727-12-per4
-            ls$residencia/obidos
-            ls$freguesia/sao pedro
+            pad1$tome da fonseca/id=b1727-12-per4
+               ls$residencia/obidos
+               ls$freguesia/sao pedro
 
-         mad1$antonia maria/id=b1727-12-per5
-            ls$residencia/gaeiras
+            mad1$antonia maria/id=b1727-12-per5
+               ls$residencia/gaeiras
 
-         mrmad1$joao da silva/id=b1727-12-per6
-            ls$residencia/gaeiras
+               mrmad1$joao da silva/id=b1727-12-per6
+                  ls$residencia/gaeiras
 
       bap$b1727-13/29/3/1727/fl.121/igreja de santa maria/sebastiao inacio figueira (padre, beneficiado da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joaquina/f/id=b1727-13-per1
             ls$datanasc/17270320
 
-         pn$estevao correia malhao/id=b1727-13-per2
-            ls$residencia/arrabalde
+            pn$estevao correia malhao/id=b1727-13-per2
+               ls$residencia/arrabalde
 
-         mn$catarina gerarda/id=b1727-13-per3
-            ls$residencia/arrabalde
+            mn$catarina gerarda/id=b1727-13-per3
+               ls$residencia/arrabalde
 
-         pad1$joao monteiro/id=b1727-13-per4
-            ls$cargo/beneficiado da se patriarcal de lisboa
+            pad1$joao monteiro/id=b1727-13-per4
+               ls$cargo/beneficiado da se patriarcal de lisboa
 
-         mad1$maria madalena teodora/id=b1727-13-per5
+            mad1$maria madalena teodora/id=b1727-13-per5
 
       bap$b1727-14/9/4/1727/fl.121v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$josefa/f/id=b1727-14-per1
             ls$datanasc/17270204
 
-         pn$luis rodrigues/id=b1727-14-per2
-            ls$residencia/rua do poco
+            pn$luis rodrigues/id=b1727-14-per2
+               ls$residencia/rua do poco
 
-         mn$maria teresa/id=b1727-14-per3
-            ls$residencia/rua do poco
+            mn$maria teresa/id=b1727-14-per3
+               ls$residencia/rua do poco
 
-         pad1$jose leonardo e seixas/id=b1727-14-leo
-            ls$residencia/obidos
-            ls$freguesia/sao pedro
+            pad1$jose leonardo e seixas/id=b1727-14-leo
+               ls$residencia/obidos
+               ls$freguesia/sao pedro
 
-         mad1$maria caetana freire%maria cahetana freire/id=b1727-14-per4
-            ls$residencia/obidos
-            ls$freguesia/sao pedro
+            mad1$maria caetana freire%maria cahetana freire/id=b1727-14-per4
+               ls$residencia/obidos
+               ls$freguesia/sao pedro
 
-         procurador-mad1$alexandre de seixas e vasconcelos/id=b1727-14-per5
-            ls$residencia/obidos
-            ls$freguesia/sao pedro
+            procurador-mad1$alexandre de seixas e vasconcelos/id=b1727-14-per5
+               ls$residencia/obidos
+               ls$freguesia/sao pedro
 
-         mrmad1$jose leonardo e seixas/mesmo_que=b1727-14-leo/id=b1727-14-per6
-            ls$residencia/obidos
-            ls$freguesia/sao pedro
+            mrmad1$jose leonardo e seixas/mesmo_que=b1727-14-leo/id=b1727-14-per6
+               ls$residencia/obidos
+               ls$freguesia/sao pedro
 
       bap$b1727-15/12/4/1727/fl.121v./igreja de santa maria/bras antunes correia (padre, prior da igreja de sao joao)/obs=assina o cura jose de matos
 
          n$ana/f/id=b1727-15-per1
             ls$datanasc/17270326
 
-         pn$manuel antunes correia/id=b1727-15-per2
-            ls$residencia/arrabalde, junto ao postigo
+            pn$manuel antunes correia/id=b1727-15-per2
+               ls$residencia/arrabalde, junto ao postigo
 
-         mn$luisa cardoso andrade/id=b1727-15-per3
-            ls$residencia/arrabalde, junto ao postigo
+            mn$luisa cardoso andrade/id=b1727-15-per3
+               ls$residencia/arrabalde, junto ao postigo
 
-         pad1$jose cardoso castelo/id=b1727-15-per4
-            ls$titulo/doutor
-            ls$cargo/corregedor de torres vedras
+            pad1$jose cardoso castelo/id=b1727-15-per4
+               ls$titulo/doutor
+               ls$cargo/corregedor de torres vedras
 
       bap$b1727-16/1/5/1727/fl.122/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$antonio/m/id=b1727-16-per1
             ls$datanasc/17270422
 
-         pn$manuel da silva/id=b1727-16-per2
-            ls$residencia/casal da serra
+            pn$manuel da silva/id=b1727-16-per2
+               ls$residencia/casal da serra
 
-         mn$faustina ferreira/id=b1727-16-per3
-            ls$residencia/casal da serra
+            mn$faustina ferreira/id=b1727-16-per3
+               ls$residencia/casal da serra
 
-         pad1$manuel barbosa neves/id=b1727-16-man
+            pad1$manuel barbosa neves/id=b1727-16-man
 
-         mad1$teresa maria figueira/id=b1727-16-per4
+            mad1$teresa maria figueira/id=b1727-16-per4
 
-         pmad1$manuel barbosa neves/mesmo_que=b1727-16-man/id=b1727-16-per5
+               pmad1$manuel barbosa neves/mesmo_que=b1727-16-man/id=b1727-16-per5
 
-         procurador-mad1$jose barbosa/id=b1727-16-per6
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria
+            procurador-mad1$jose barbosa/id=b1727-16-per6
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria
 
       bap$b1727-17/4/5/1727/fl.122/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$frutuoso/m/id=b1727-17-fru
             ls$datanasc/17270409/obs=baptizado em casa
 
-         pn$nome desconhecido/id=b1727-17-per1
+            pn$nome desconhecido/id=b1727-17-per1
 
-         mn$antonia/id=b1727-17-per2
-            ls$condicao/escrava
-            rel$profissional/escrava/antonio da costa chaves/b1727-17-cha
+            mn$antonia/id=b1727-17-per2
+               ls$condicao/escrava
+               rel$profissional/escrava/antonio da costa chaves/b1727-17-cha
 
-         referido$antonio da costa chaves/id=b1727-17-cha
-            ls$residencia/gaeiras
+            referido$antonio da costa chaves/id=b1727-17-cha
+               ls$residencia/gaeiras
 
-         pad1$manuel pereira/id=b1727-17-man
-            ls$residencia/gaeiras de alem
+            pad1$manuel pereira/id=b1727-17-man
+               ls$residencia/gaeiras de alem
 
-         mad1$maria da conceicao/id=b1727-17-per3
-            ls$residencia/gaeiras de alem
+            mad1$maria da conceicao/id=b1727-17-per3
+               ls$residencia/gaeiras de alem
 
-         mrmad1$manuel pereira/mesmo_que=b1727-17-man/id=b1727-17-per4
-            ls$residencia/gaeiras de alem
+               mrmad1$manuel pereira/mesmo_que=b1727-17-man/id=b1727-17-per4
+                  ls$residencia/gaeiras de alem
 
-         referido$nome desconhecido/id=b1727-17-per5
-            rel$sociabilidade/baptizou em necessidade/frutuoso/b1727-17-fru
+            referido$nome desconhecido/id=b1727-17-per5
+               rel$sociabilidade/baptizou em necessidade/frutuoso/b1727-17-fru
 
-         referido$jose de matos/id=b1727-17-per6
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
-            rel$sociabilidade/baptizou sub conditione/frutuoso/b1727-17-fru
+            referido$jose de matos/id=b1727-17-per6
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
+               rel$sociabilidade/baptizou sub conditione/frutuoso/b1727-17-fru
 
       bap$b1727-18/22/5/1727/fl.122v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiana/f/id=b1727-18-seb
             ls$enjeitada/sim/obs="filha de pais incognitos que foi achada a porta de jozeph pereira morador a porta do valle desta villa"
 
-         pn$nome desconhecido/id=b1727-18-per1
+            pn$nome desconhecido/id=b1727-18-per1
 
-         mn$nome desconhecido/id=b1727-18-per2
+            mn$nome desconhecido/id=b1727-18-per2
 
-         pad1$manuel soares/id=b1727-18-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares/id=b1727-18-per3
+               ls$cargo/procurador do concelho
 
-         referida$maria ferreira/id=b1727-18-maria
-            ls$residencia/bairro
-            rel$sociabilidade/ama/sebastiana/b1727-18-seb
+            referida$maria ferreira/id=b1727-18-maria
+               ls$residencia/bairro
+               rel$sociabilidade/ama/sebastiana/b1727-18-seb
 
-         referido$francisco joao/id=b1727-18-per4
-            ls$residencia/bairro
-            rel$parentesco/marido/maria ferreira/b1727-18-maria
+            referido$francisco joao/id=b1727-18-per4
+               ls$residencia/bairro
+               rel$parentesco/marido/maria ferreira/b1727-18-maria
 
-         referido$jose pereira/id=b1727-18-per5
-            ls$residencia/obidos
-            rel$sociabilidade/achou a crianca/sebastiana/b1727-18-seb
+            referido$jose pereira/id=b1727-18-per5
+               ls$residencia/obidos
+               rel$sociabilidade/achou a crianca/sebastiana/b1727-18-seb
 
       bap$b1727-19/16/6/1727/fl.122v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1727-19-per1
             ls$enjeitado/sim/obs="filho de pais incognitos, o qual foy achado no cazal do mosteiro junto as gaeiras e o cria jozepha da silva das gaeyras de nossa senhora dajuda"
 
-         pn$nome desconhecido/id=b1727-19-per2
+            pn$nome desconhecido/id=b1727-19-per2
 
-         mn$nome desconhecido/id=b1727-19-per3
+            mn$nome desconhecido/id=b1727-19-per3
 
-         pad1$manuel soares/id=b1727-19-per4
-            ls$cargo/procurador do concelho
+            pad1$manuel soares/id=b1727-19-per4
+               ls$cargo/procurador do concelho
 
-         referida$josefa da silva/id=b1727-19-per5
-            ls$residencia/gaeiras de nossa senhora de ajuda
+            referida$josefa da silva/id=b1727-19-per5
+               ls$residencia/gaeiras de nossa senhora de ajuda
 
       bap$b1727-20/22/6/1727/fl.123/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria de santo antonio/f/id=b1727-20-per1
             ls$datanasc/17270611
 
-         pn$francisco de lemos/id=b1727-20-per2
-            ls$residencia/a da gorda
+            pn$francisco de lemos/id=b1727-20-per2
+               ls$residencia/a da gorda
 
-         mn$mariana da silva/id=b1727-20-per3
-            ls$residencia/a da gorda
+            mn$mariana da silva/id=b1727-20-per3
+               ls$residencia/a da gorda
 
-         pad1$jose rodrigues de almeida/id=b1727-20-jose
-            ls$profissao/padre
-            ls$cargo/beneficiado de sao juliao de lisboa
-            ls$residencia/lisboa
+            pad1$jose rodrigues de almeida/id=b1727-20-jose
+               ls$profissao/padre
+               ls$cargo/beneficiado de sao juliao de lisboa
+               ls$residencia/lisboa
 
-         procurador-pad1$bernardo pedro/id=b1727-20-per4
-            ls$residencia/obidos
-            rel$parentesco/irmao/jose rodrigues de almeida/b1727-20-jose
+            procurador-pad1$bernardo pedro/id=b1727-20-per4
+               ls$residencia/obidos
+               rel$parentesco/irmao/jose rodrigues de almeida/b1727-20-jose
 
-         mad1$ana maria/id=b1727-20-per5
-            ls$residencia/quinta de santa iria
+            mad1$ana maria/id=b1727-20-per5
+               ls$residencia/quinta de santa iria
 
       bap$b1727-21/23/6/1727/fl.123/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$laurentina/f/id=b1727-21-per1
             ls$datanasc/17270603
 
-         pn$joao ferreira da serra/id=b1727-21-per2
-            ls$cargo/capitao
-            ls$residencia/arrabalde
+            pn$joao ferreira da serra/id=b1727-21-per2
+               ls$cargo/capitao
+               ls$residencia/arrabalde
 
-         mn$ines maria travacos/id=b1727-21-per3
-            ls$residencia/arrabalde
+            mn$ines maria travacos/id=b1727-21-per3
+               ls$residencia/arrabalde
 
-         pad1$francisco xavier de saldanha/id=b1727-21-per4
-            ls$residencia/lisboa
+            pad1$francisco xavier de saldanha/id=b1727-21-per4
+               ls$residencia/lisboa
 
-         procurador-pad1$lourenco correia/id=b1727-21-per5
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao joao
+            procurador-pad1$lourenco correia/id=b1727-21-per5
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao joao
 
-         mad1$maria joana da porta e lencastre%maria joanna da porta e alamcastro/id=b1727-21-per6
-            ls$titulo/dona
+            mad1$maria joana da porta e lencastre%maria joanna da porta e alamcastro/id=b1727-21-per6
+               ls$titulo/dona
 
-         mrmad1$antonio de saldanha da junqueira/id=b1727-21-per7
+               mrmad1$antonio de saldanha da junqueira/id=b1727-21-per7
 
-         procurador-mad1$bras antunes correia/id=b1727-21-per8
-            ls$cargo/prior da igreja de sao joao
-            ls$titulo/reverendo
+            procurador-mad1$bras antunes correia/id=b1727-21-per8
+               ls$cargo/prior da igreja de sao joao
+               ls$titulo/reverendo
 
       bap$b1727-22/29/6/1727/fl.123v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joaquim/m/id=b1727-22-per1
             ls$datanasc/17270619
 
-         pn$sebastiao henriques/id=b1727-22-per2
-            ls$residencia/arrabalde
+            pn$sebastiao henriques/id=b1727-22-per2
+               ls$residencia/arrabalde
 
-         mn$antonia dos santos/id=b1727-22-per3
-            ls$residencia/arrabalde
+            mn$antonia dos santos/id=b1727-22-per3
+               ls$residencia/arrabalde
 
-         pad1$estevao correia malhao/id=b1727-22-per4
-            ls$residencia/obidos
+            pad1$estevao correia malhao/id=b1727-22-per4
+               ls$residencia/obidos
 
-         mad1$maria do sacramento/id=b1727-22-per5
-            ls$residencia/recolhimento do valvo/obs=duvida na leitura do toponimo
+            mad1$maria do sacramento/id=b1727-22-per5
+               ls$residencia/recolhimento do valvo/obs=duvida na leitura do toponimo
 
-         procurador-mad1$antonio henriques/id=b1727-22-per6
-            ls$profissao/barbeiro
-            ls$residencia/obidos/obs=o livro foi visto em visitacao de 14 de julho de 1727
+            procurador-mad1$antonio henriques/id=b1727-22-per6
+               ls$profissao/barbeiro
+               ls$residencia/obidos/obs=o livro foi visto em visitacao de 14 de julho de 1727
 
       bap$b1727-23/12/8/1727/fl.123v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos. nota a margem:"veja se este asento no livro que principia na era de 1754 ...reformado como delle se vera ao f. 104v."
 
          n$sebastiana/f/id=b1727-23-seb
             ls$enjeitada/sim/obs="filha de pais incognitos a qual foy achada em nossa senhora do emparo e a cria antonia henriques molher de manoel ferreira do olho marinho"
 
-         pn$nome desconhecido/id=b1727-23-per1
+            pn$nome desconhecido/id=b1727-23-per1
 
-         mn$nome desconhecido/id=b1727-23-per2
+            mn$nome desconhecido/id=b1727-23-per2
 
-         pad1$manuel soares henriques/id=b1727-23-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares henriques/id=b1727-23-per3
+               ls$cargo/procurador do concelho
 
-         referida$antonia henriques/id=b1727-23-ant
-            ls$residencia/olho marinho
-            rel$sociabilidade/ama/sebastiana/b1727-23-seb
+            referida$antonia henriques/id=b1727-23-ant
+               ls$residencia/olho marinho
+               rel$sociabilidade/ama/sebastiana/b1727-23-seb
 
-         referido$manuel ferreira/id=b1727-23-per4
-            ls$residencia/olho marinho
-            rel$parentesco/marido/antonia henriques/b1727-23-ant
+            referido$manuel ferreira/id=b1727-23-per4
+               ls$residencia/olho marinho
+               rel$parentesco/marido/antonia henriques/b1727-23-ant
 
       bap$b1727-24/23/8/1727/fl.124/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiana/f/id=b1727-24-seb
             ls$enjeitada/sim/obs="filha de pais incognitos a qual foy achada nas gaeyras e a cria domingas simoa molher de domingos marques do dito lugar das gaeyras"
 
-         pn$nome desconhecido/id=b1727-24-per1
+            pn$nome desconhecido/id=b1727-24-per1
 
-         mn$nome desconhecido/id=b1727-24-per2
+            mn$nome desconhecido/id=b1727-24-per2
 
-         pad1$manuel soares henriques/id=b1727-24-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares henriques/id=b1727-24-per3
+               ls$cargo/procurador do concelho
 
-         referida$domingas simoa/id=b1727-24-dom
-            ls$residencia/gaeiras
-            rel$sociabilidade/ama/sebastiana/b1727-24-seb
+            referida$domingas simoa/id=b1727-24-dom
+               ls$residencia/gaeiras
+               rel$sociabilidade/ama/sebastiana/b1727-24-seb
 
-         referido$domingos marques/id=b1727-24-per4
-            ls$residencia/gaeiras
-            rel$parentesco/marido/domingas simoa/b1727-24-dom
+            referido$domingos marques/id=b1727-24-per4
+               ls$residencia/gaeiras
+               rel$parentesco/marido/domingas simoa/b1727-24-dom
 
       bap$b1727-25/29/9/1727/fl.124/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1727-25-manuel
             ls$enjeitado/sim/obs="filho de pais incognitos o qual foi achado em nossa senhora do emparo e o cria jozepha maria molher de joao manoel do lugar da useyra"
 
-         pn$nome desconhecido/id=b1727-25-per1
+            pn$nome desconhecido/id=b1727-25-per1
 
-         mn$nome desconhecido/id=b1727-25-per2
+            mn$nome desconhecido/id=b1727-25-per2
 
-         pad1$manuel soares/id=b1727-25-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares/id=b1727-25-per3
+               ls$cargo/procurador do concelho
 
-         referida$josefa maria/id=b1727-25-jose
-            ls$residencia/usseira
-            rel$sociabilidade/ama/manuel/b1727-25-manuel
+            referida$josefa maria/id=b1727-25-jose
+               ls$residencia/usseira
+               rel$sociabilidade/ama/manuel/b1727-25-manuel
 
-         referido$joao manuel/id=b1727-25-per4
-            ls$residencia/usseira
-            rel$parentesco/marido/josefa maria/b1727-25-jose
+            referido$joao manuel/id=b1727-25-per4
+               ls$residencia/usseira
+               rel$parentesco/marido/josefa maria/b1727-25-jose
 
       bap$b1727-26/29/9/1727/fl.124/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1727-26-manuel
             ls$enjeitado/sim/obs="filho de pais incognitos o qual foy achado no cazal do mostey, lemite das gaeyras o qual cria maria simoa do arelho"
 
-         pn$nome desconhecido/id=b1727-26-per1
+            pn$nome desconhecido/id=b1727-26-per1
 
-         mn$nome desconhecido/id=b1727-26-per2
+            mn$nome desconhecido/id=b1727-26-per2
 
-         pad1$nome desconhecido/id=b1727-26-per3
+            pad1$nome desconhecido/id=b1727-26-per3
 
-         referida$maria simoa/id=b1727-26-per4
-            ls$residencia/arelho
-            rel$sociabilidade/ama/manuel/b1727-26-manuel
+            referida$maria simoa/id=b1727-26-per4
+               ls$residencia/arelho
+               rel$sociabilidade/ama/manuel/b1727-26-manuel
 
       bap$b1727-27/13/10/1727/fl.124v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$caetana/f/id=b1727-27-per1
             ls$datanasc/17271006
 
-         pn$manuel leal/id=b1727-27-per2
-            ls$residencia/a da gorda
+            pn$manuel leal/id=b1727-27-per2
+               ls$residencia/a da gorda
 
-         mn$josefa maria/id=b1727-27-per3
-            ls$residencia/a da gorda
+            mn$josefa maria/id=b1727-27-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel soares/id=b1727-27-per4
-            ls$profissao/padre
-            ls$cargo/beneficiado da se patriarcal de lisboa
+            pad1$manuel soares/id=b1727-27-per4
+               ls$profissao/padre
+               ls$cargo/beneficiado da se patriarcal de lisboa
 
-         procurador-pad1$jose gomes pereira/id=b1727-27-per5
-            ls$residencia/obidos
+            procurador-pad1$jose gomes pereira/id=b1727-27-per5
+               ls$residencia/obidos
 
-         mad1$maria antonia/id=b1727-27-per6
-            ls$residencia/a da gorda
+            mad1$maria antonia/id=b1727-27-per6
+               ls$residencia/a da gorda
 
-         pmad1$diogo da silva/id=b1727-27-per7
-            ls$profissao/lavrador
-            ls$residencia/a da gorda
+               pmad1$diogo da silva/id=b1727-27-per7
+                  ls$profissao/lavrador
+                  ls$residencia/a da gorda
 
       bap$b1727-28/27/11/1727/fl.124v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiana/f/id=b1727-28-seb
             ls$enjeitada/sim/obs="filha de pais incognitos a qual foy achada a nossa senhora do emparo e a cria maria dasumcao molher de francisco vieyra da bemposta junto a cotem"
 
-         pn$nome desconhecido/id=b1727-28-per1
+            pn$nome desconhecido/id=b1727-28-per1
 
-         mn$nome desconhecido/id=b1727-28-per2
+            mn$nome desconhecido/id=b1727-28-per2
 
-         pad1$manuel soares/id=b1727-28-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares/id=b1727-28-per3
+               ls$cargo/procurador do concelho
 
-         referida$maria da assuncao/id=b1727-28-maria
-            ls$residencia/bemposta, junto a cotem
-            rel$sociabilidade/ama/sebastiana/b1727-28-seb
+            referida$maria da assuncao/id=b1727-28-maria
+               ls$residencia/bemposta, junto a cotem
+               rel$sociabilidade/ama/sebastiana/b1727-28-seb
 
-         referido$francisco vieira/id=b1727-28-per4
-            ls$residencia/bemposta, junto a cotem
-            rel$parentesco/marido/maria da assuncao/b1727-28-maria
+            referido$francisco vieira/id=b1727-28-per4
+               ls$residencia/bemposta, junto a cotem
+               rel$parentesco/marido/maria da assuncao/b1727-28-maria
 
       bap$b1727-29/10/12/1727/fl.124v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$francisco/m/id=b1727-29-per1
             ls$datanasc/17271203
 
-         pn$antonio barreto/id=b1727-29-per2
-            ls$residencia/moinho do lagar
+            pn$antonio barreto/id=b1727-29-per2
+               ls$residencia/moinho do lagar
 
-         mn$francisca pereira/id=b1727-29-per3
-            ls$residencia/moinho do lagar
+            mn$francisca pereira/id=b1727-29-per3
+               ls$residencia/moinho do lagar
 
-         pad1$manuel de sousa/id=b1727-29-manuel
-            ls$residencia/arrabalde
+            pad1$manuel de sousa/id=b1727-29-manuel
+               ls$residencia/arrabalde
 
-         mad1$josefa maria caetana/id=b1727-29-per4
-            ls$residencia/arrabalde
+            mad1$josefa maria caetana/id=b1727-29-per4
+               ls$residencia/arrabalde
 
-         mrmad1$manuel de sousa/mesmo_que=b1727-29-manuel/id=b1727-29-per5
-            ls$residencia/arrabalde
+               mrmad1$manuel de sousa/mesmo_que=b1727-29-manuel/id=b1727-29-per5
+                  ls$residencia/arrabalde
 
       bap$b1727-30/18/12/1727/fl.125/igreja de santa maria/pedro alves madeira (padre, cura da igreja de sao tiago)/obs=assina o cura jose de matos
 
          n$agueda maria%athega maria/f/id=b1727-30-per1
             ls$datanasc/17271212
 
-         pn$antonio henriques/id=b1727-30-per2
-            ls$residencia/gaeiras
+            pn$antonio henriques/id=b1727-30-per2
+               ls$residencia/gaeiras
 
-         mn$luisa maria/id=b1727-30-per3
-            ls$residencia/gaeiras
+            mn$luisa maria/id=b1727-30-per3
+               ls$residencia/gaeiras
 
-         pad1$silverio da silva/id=b1727-30-per4
-            ls$residencia/caldas
+            pad1$silverio da silva/id=b1727-30-per4
+               ls$residencia/caldas
 
-         mad1$agueda maria%athega maria/id=b1727-30-per5
-            ls$residencia/caldas
+            mad1$agueda maria%athega maria/id=b1727-30-per5
+               ls$residencia/caldas
 
-         pmad1$alexandre da silva/id=b1727-30-per6
-            ls$residencia/caldas
+               pmad1$alexandre da silva/id=b1727-30-per6
+                  ls$residencia/caldas
 
       bap$b1727-31/31/12/1727/fl.125/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$sebastiana/f/id=b1727-31-seb
             ls$enjeitada/sim/obs="filha de pais incognitos a qual foy achada em nossa senhora do amparo e a cria catharina ferreira molher de manoel correa da useyra"
 
-         pn$nome desconhecido/id=b1727-31-per1
+            pn$nome desconhecido/id=b1727-31-per1
 
-         mn$nome desconhecido/id=b1727-31-per2
+            mn$nome desconhecido/id=b1727-31-per2
 
-         pad1$manuel soares henriques/id=b1727-31-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares henriques/id=b1727-31-per3
+               ls$cargo/procurador do concelho
 
-         referida$catarina ferreira/id=b1727-31-cat
-            ls$residencia/usseira
-            rel$sociabilidade/ama/sebastiana/b1727-31-seb
+            referida$catarina ferreira/id=b1727-31-cat
+               ls$residencia/usseira
+               rel$sociabilidade/ama/sebastiana/b1727-31-seb
 
-         referido$manuel correia/id=b1727-31-per4
-            ls$residencia/usseira
-            rel$parentesco/marido/catarina ferreira/b1727-31-cat
+            referido$manuel correia/id=b1727-31-per4
+               ls$residencia/usseira
+               rel$parentesco/marido/catarina ferreira/b1727-31-cat
 
       bap$b1728-1/18/1/1728/fl.125/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$rita/f/id=b1728-1-rita
             ls$enjeitada/sim/obs="filha de pais incognitos a qual foy achada em nossa senhora do amparo junto ao olho marinho e a cria maria da comceycao molher de manoel francisco irmitois da mes(sic) irmida de nossa senhora do amparo"
 
-         pn$nome desconhecido/id=b1728-1-per1
+            pn$nome desconhecido/id=b1728-1-per1
 
-         mn$nome desconhecido/id=b1728-1-per2
+            mn$nome desconhecido/id=b1728-1-per2
 
-         pad1$manuel soares henriques/id=b1728-1-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares henriques/id=b1728-1-per3
+               ls$cargo/procurador do concelho
 
-         referida$maria da conceicao/id=b1728-1-maria
-            ls$residencia/nossa senhora do amparo, junto ao olho marinho
-            ls$cargo/ermitoa da ermida de nossa senhora do amparo
-            rel$sociabilidade/ama/rita/b1728-1-rita
+            referida$maria da conceicao/id=b1728-1-maria
+               ls$residencia/nossa senhora do amparo, junto ao olho marinho
+               ls$cargo/ermitoa da ermida de nossa senhora do amparo
+               rel$sociabilidade/ama/rita/b1728-1-rita
 
-         referido$manuel francisco/id=b1728-1-per4
-            ls$residencia/nossa senhora do amparo, junto ao olho marinho
-            ls$cargo/ermitao da ermida de nossa senhora do amparo
-            rel$parentesco/marido/maria da conceicao/b1728-1-maria/obs=segue-se um registo que ja tinha sido efectuado no folio 124v.
+            referido$manuel francisco/id=b1728-1-per4
+               ls$residencia/nossa senhora do amparo, junto ao olho marinho
+               ls$cargo/ermitao da ermida de nossa senhora do amparo
+               rel$parentesco/marido/maria da conceicao/b1728-1-maria/obs=segue-se um registo que ja tinha sido efectuado no folio 124v.
 
       bap$b1728-2/1/2/1728/fl.125v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$josefa da rosa/f/id=b1728-2-rosa
             ls$enjeitada/sim/obs="filha de pais imcognitos que foy achada no riguengo cham da parada e a cria maria antunes molher de manoel gomes do lugar das dos francos"
 
-         pn$nome desconhecido/id=b1728-2-per1
+            pn$nome desconhecido/id=b1728-2-per1
 
-         mn$nome desconhecido/id=b1728-2-per2
+            mn$nome desconhecido/id=b1728-2-per2
 
-         pad1$nome desconhecido/id=b1728-2-per3
+            pad1$nome desconhecido/id=b1728-2-per3
 
-         referida$maria antunes/id=b1728-2-maria
-            ls$residencia/a dos francos
-            rel$sociabilidade/ama/josefa da rosa/b1728-2-rosa
+            referida$maria antunes/id=b1728-2-maria
+               ls$residencia/a dos francos
+               rel$sociabilidade/ama/josefa da rosa/b1728-2-rosa
 
-         referido$manuel gomes/id=b1728-2-per4
-            ls$residencia/a dos francos
-            rel$parentesco/marido/maria antunes/b1728-2-maria
+            referido$manuel gomes/id=b1728-2-per4
+               ls$residencia/a dos francos
+               rel$parentesco/marido/maria antunes/b1728-2-maria
 
       bap$b1728-3/22/2/1728/fl.125v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1728-3-per1
             ls$datanasc/17280214
 
-         pn$gregorio da silva/id=b1728-3-per2
-            ls$residencia/a da gorda
+            pn$gregorio da silva/id=b1728-3-per2
+               ls$residencia/a da gorda
 
-         mn$maria antonia/id=b1728-3-per3
-            ls$residencia/a da gorda
+            mn$maria antonia/id=b1728-3-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel soares/id=b1728-3-per4
-            ls$profissao/padre
-            ls$cargo/beneficiado da se patriarcal de lisboa
+            pad1$manuel soares/id=b1728-3-per4
+               ls$profissao/padre
+               ls$cargo/beneficiado da se patriarcal de lisboa
 
-         procurador-pad1$manuel francisco/id=b1728-3-per5
-            ls$residencia/a da gorda
+            procurador-pad1$manuel francisco/id=b1728-3-per5
+               ls$residencia/a da gorda
 
-         mad1$maria da silva/id=b1728-3-per6
+            mad1$maria da silva/id=b1728-3-per6
 
-         procurador-mad1$jose henriques/id=b1728-3-per7
-            ls$alcunha/o frade
-            ls$residencia/a da gorda
+            procurador-mad1$jose henriques/id=b1728-3-per7
+               ls$alcunha/o frade
+               ls$residencia/a da gorda
 
       bap$b1728-4/1/3/1728/fl.126/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$timoteo/m/id=b1728-4-per1
             ls$datanasc/17280228
 
-         pn$joao henriques/id=b1728-4-per2
-            ls$residencia/arrabalde
+            pn$joao henriques/id=b1728-4-per2
+               ls$residencia/arrabalde
 
-         mn$antonia maria/id=b1728-4-per3
-            ls$residencia/arrabalde
+            mn$antonia maria/id=b1728-4-per3
+               ls$residencia/arrabalde
 
-         pad1$manuel de oliveira farto/id=b1728-4-per4
-            ls$residencia/obidos
+            pad1$manuel de oliveira farto/id=b1728-4-per4
+               ls$residencia/obidos
 
-         mad1$maria timotea caetana da serra/id=b1728-4-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$maria timotea caetana da serra/id=b1728-4-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         procurador-mad1$sebastiao inacio/id=b1728-4-per6
-            ls$profissao/padre
-            ls$residencia/obidos
-            ls$cargo/beneficiado da igreja de santa maria
+            procurador-mad1$sebastiao inacio/id=b1728-4-per6
+               ls$profissao/padre
+               ls$residencia/obidos
+               ls$cargo/beneficiado da igreja de santa maria
 
       bap$b1728-5/1/3/1728/fl.126/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$mariana/f/id=b1728-5-per1
             ls$datanasc/17280212
 
-         pn$jose da costa/id=b1728-5-per2
-            ls$residencia/gaeiras
+            pn$jose da costa/id=b1728-5-per2
+               ls$residencia/gaeiras
 
-         mn$maria do espirito santo/id=b1728-5-per3
-            ls$residencia/gaeiras
+            mn$maria do espirito santo/id=b1728-5-per3
+               ls$residencia/gaeiras
 
-         pad1$jose de almeida/id=b1728-5-per4
-            ls$residencia/quinta de vale de flores
+            pad1$jose de almeida/id=b1728-5-per4
+               ls$residencia/quinta de vale de flores
 
-         mad1$mariana da silva/id=b1728-5-per5
-            ls$residencia/gaeiras de alem
-            rel$parentesco/irma/antonio da silva/b1728-5-ant
+            mad1$mariana da silva/id=b1728-5-per5
+               ls$residencia/gaeiras de alem
+               rel$parentesco/irma/antonio da silva/b1728-5-ant
 
-         procurador-mad1$manuel soares/id=b1728-5-per6
-            ls$profissao/carpinteiro
-            ls$residencia/obidos
-            ls$freguesia/sao pedro
+            procurador-mad1$manuel soares/id=b1728-5-per6
+               ls$profissao/carpinteiro
+               ls$residencia/obidos
+               ls$freguesia/sao pedro
 
             referido$antonio da silva/id=b1728-5-ant
                ls$profissao/padre
@@ -1098,296 +1098,296 @@ kleio$gacto.str/prefix=stmaria
             ls$titulo/dona
             ls$datanasc/17280216
 
-         pn$manuel de sisneiros girao e vasconcelos%manoel de cesneyros gyrao e vasconcellos/id=b1728-6-per2
-            ls$titulo/dom
-            ls$residencia/obidos
+            pn$manuel de sisneiros girao e vasconcelos%manoel de cesneyros gyrao e vasconcellos/id=b1728-6-per2
+               ls$titulo/dom
+               ls$residencia/obidos
 
-         mn$antonia josefa freire da silva/id=b1728-6-per3
-            ls$titulo/dona
-            ls$residencia/obidos
+            mn$antonia josefa freire da silva/id=b1728-6-per3
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         pad1$tome de lemos e faria/id=b1728-6-per4
-            ls$residencia/vila nova de portimao%villa nova de portimao reyno do algarve
+            pad1$tome de lemos e faria/id=b1728-6-per4
+               ls$residencia/vila nova de portimao%villa nova de portimao reyno do algarve
 
-         procurador-pad1$antonio pegado e resende/id=b1728-6-per5
-            ls$cargo/capitao mor
-            ls$residencia/obidos
+            procurador-pad1$antonio pegado e resende/id=b1728-6-per5
+               ls$cargo/capitao mor
+               ls$residencia/obidos
 
       bap$b1728-7/27/3/1728/fl.126v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose joaquim/m/id=b1728-7-per1
             ls$datanasc/17280320
 
-         pn$manuel rodrigues/id=b1728-7-per2
-            ls$residencia/a da gorda
+            pn$manuel rodrigues/id=b1728-7-per2
+               ls$residencia/a da gorda
 
-         mn$maria luis/id=b1728-7-per3
-            ls$residencia/a da gorda
+            mn$maria luis/id=b1728-7-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel marques de figueiredo/id=b1728-7-per4
-            ls$residencia/obidos
+            pad1$manuel marques de figueiredo/id=b1728-7-per4
+               ls$residencia/obidos
 
-         mad1$marcelina da cunha dantas/id=b1728-7-per5
-            ls$residencia/obidos
+            mad1$marcelina da cunha dantas/id=b1728-7-per5
+               ls$residencia/obidos
 
-         mrmad1$vicente carvalho/id=b1728-7-vic
-            ls$residencia/obidos
+               mrmad1$vicente carvalho/id=b1728-7-vic
+                  ls$residencia/obidos
 
-         procurador-mad1$vicente carvalho/mesmo_que=b1728-7-vic/id=b1728-7-per6
-            ls$residencia/obidos
+            procurador-mad1$vicente carvalho/mesmo_que=b1728-7-vic/id=b1728-7-per6
+               ls$residencia/obidos
 
       bap$b1728-8/10/5/1728/fl.127/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$violante/f/id=b1728-8-per1
             ls$datanasc/17280426
 
-         pn$agostinho madeira/id=b1728-8-per2
-            ls$residencia/arrabalde
+            pn$agostinho madeira/id=b1728-8-per2
+               ls$residencia/arrabalde
 
-         mn$maria jose/id=b1728-8-per3
-            ls$residencia/arrabalde
+            mn$maria jose/id=b1728-8-per3
+               ls$residencia/arrabalde
 
-         pad1$jose de melo portugal sa e meneses/id=b1728-8-per4
-            ls$residencia/lisboa
+            pad1$jose de melo portugal sa e meneses/id=b1728-8-per4
+               ls$residencia/lisboa
 
-         procurador-pad1$jose leonardo e seixas/id=b1728-8-per5
-            ls$residencia/obidos
+            procurador-pad1$jose leonardo e seixas/id=b1728-8-per5
+               ls$residencia/obidos
 
-         mad1$violante josefa joaquina/id=b1728-8-per6
-            ls$titulo/dona
+            mad1$violante josefa joaquina/id=b1728-8-per6
+               ls$titulo/dona
 
-         pmad1$antonio gomes matoso/id=b1728-8-per7
+               pmad1$antonio gomes matoso/id=b1728-8-per7
 
-         procurador-mad1$antonio de mendonca/id=b1728-8-per8
-            ls$profissao/padre
-            ls$cargo/beneficiado da igreja de santa maria
-            ls$residencia/obidos
+            procurador-mad1$antonio de mendonca/id=b1728-8-per8
+               ls$profissao/padre
+               ls$cargo/beneficiado da igreja de santa maria
+               ls$residencia/obidos
 
       bap$b1728-9/20/6/1728/fl.127/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$antonia/f/id=b1728-9-per1
             ls$datanasc/17280613
 
-         pn$jose da silva/id=b1728-9-per2
-            ls$residencia/a da gorda
+            pn$jose da silva/id=b1728-9-per2
+               ls$residencia/a da gorda
 
-         mn$maria soares/id=b1728-9-per3
-            ls$residencia/a da gorda
+            mn$maria soares/id=b1728-9-per3
+               ls$residencia/a da gorda
 
-         pad1$jose henriques/id=b1728-9-per4
-            ls$alcunha/o frade
-            ls$residencia/a da gorda
+            pad1$jose henriques/id=b1728-9-per4
+               ls$alcunha/o frade
+               ls$residencia/a da gorda
 
-         mad1$maria teresa/id=b1728-9-per5
-            ls$residencia/a da gorda
+            mad1$maria teresa/id=b1728-9-per5
+               ls$residencia/a da gorda
 
-         mmad1$catarina soares/id=b1728-9-per6
-            ls$ec/v
-            ls$residencia/a da gorda
+               mmad1$catarina soares/id=b1728-9-per6
+                  ls$ec/v
+                  ls$residencia/a da gorda
 
       bap$b1728-10/10/7/1728/fl.127/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1728-10-per1
             ls$datanasc/17280701
 
-         pn$antonio rodrigues/id=b1728-10-per2
-            ls$residencia/fraldeu
+            pn$antonio rodrigues/id=b1728-10-per2
+               ls$residencia/fraldeu
 
-         mn$vicencia marques/id=b1728-10-per3
-            ls$residencia/fraldeu
+            mn$vicencia marques/id=b1728-10-per3
+               ls$residencia/fraldeu
 
-         pad1$antonio de macedo neto/id=b1728-10-per4
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad1$antonio de macedo neto/id=b1728-10-per4
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad1$jose maria/id=b1728-10-per5
-            ls$residencia/usseira
+            mad1$jose maria/id=b1728-10-per5
+               ls$residencia/usseira
 
-         mrmad1$domingos francisco/id=b1728-10-per6
-            ls$residencia/usseira
+               mrmad1$domingos francisco/id=b1728-10-per6
+                  ls$residencia/usseira
 
       bap$b1728-11/12/7/1728/fl.127v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jacinto/m/id=b1728-11-per1
             ls$datanasc/17280704
 
-         pn$joao leal/id=b1728-11-per2
-            ls$residencia/a da gorda
+            pn$joao leal/id=b1728-11-per2
+               ls$residencia/a da gorda
 
-         mn$ana maria/id=b1728-11-per3
-            ls$residencia/a da gorda
+            mn$ana maria/id=b1728-11-per3
+               ls$residencia/a da gorda
 
-         pad1$joao henriques da costa/id=b1728-11-per4
-            ls$residencia/obidos
+            pad1$joao henriques da costa/id=b1728-11-per4
+               ls$residencia/obidos
 
-         mad1$maria pereira/id=b1728-11-per5
-            ls$residencia/quinta da granja
+            mad1$maria pereira/id=b1728-11-per5
+               ls$residencia/quinta da granja
 
-         pmad1$manuel pereira/id=b1728-11-per6
-            ls$residencia/quinta da granja
+               pmad1$manuel pereira/id=b1728-11-per6
+                  ls$residencia/quinta da granja
 
       bap$b1728-12/8/8/1728/fl.127v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$domingos/m/id=b1728-12-per1
             ls$datanasc/17280802
 
-         pn$manuel ferreira/id=b1728-12-per2
-            ls$residencia/casais de alentejo
+            pn$manuel ferreira/id=b1728-12-per2
+               ls$residencia/casais de alentejo
 
-         mn$maria henriques/id=b1728-12-per3
-            ls$residencia/casais de alentejo
+            mn$maria henriques/id=b1728-12-per3
+               ls$residencia/casais de alentejo
 
-         pad1$silverio da silva/id=b1728-12-per4
-            ls$residencia/caldas
+            pad1$silverio da silva/id=b1728-12-per4
+               ls$residencia/caldas
 
-         procurador-pad1$paulo ferreira/id=b1728-12-per5
-            ls$residencia/a da gorda
+            procurador-pad1$paulo ferreira/id=b1728-12-per5
+               ls$residencia/a da gorda
 
-         mad1$josefa maria gomes/id=b1728-12-per6
+            mad1$josefa maria gomes/id=b1728-12-per6
 
-         mrmad1$leandro gomes henriques/id=b1728-12-per7
-            ls$titulo/licenciado
+               mrmad1$leandro gomes henriques/id=b1728-12-per7
+                  ls$titulo/licenciado
 
-         procurador-mad1$damiao duarte/id=b1728-12-per8
-            ls$residencia/sancheira grande
+            procurador-mad1$damiao duarte/id=b1728-12-per8
+               ls$residencia/sancheira grande
 
       bap$b1728-13/16/8/1728/fl.127v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1728-13-manuel
             ls$enjeitado/sim/obs="filho de pais imcognitos por ter cido baptizado...em caza de manoel soares procurador do comcelho o qual foi achado nos cazais de val covo freguesia do bombarral e o cria maria da motta molher de silvestre gomes da delgada freguesia da rolica"
 
-         pn$nome desconhecido/id=b1728-13-per1
+            pn$nome desconhecido/id=b1728-13-per1
 
-         mn$nome desconhecido/id=b1728-13-per2
+            mn$nome desconhecido/id=b1728-13-per2
 
-         pad1$manuel soares/id=b1728-13-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel soares/id=b1728-13-per3
+               ls$cargo/procurador do concelho
 
-         referida$maria da mota/id=b1728-13-maria
-            ls$residencia/delgada
-            ls$freguesia/rolica
-            rel$sociabilidade/ama/manuel/b1728-13-manuel
+            referida$maria da mota/id=b1728-13-maria
+               ls$residencia/delgada
+               ls$freguesia/rolica
+               rel$sociabilidade/ama/manuel/b1728-13-manuel
 
-         referido$silvestre gomes/id=b1728-13-per4
-            ls$residencia/delgada
-            ls$freguesia/rolica
-            rel$parentesco/marido/maria da mota/b1728-13-maria
+            referido$silvestre gomes/id=b1728-13-per4
+               ls$residencia/delgada
+               ls$freguesia/rolica
+               rel$parentesco/marido/maria da mota/b1728-13-maria
 
-         referido$jose de matos/id=b1728-13-per5
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
-            rel$sociabilidade/baptizou em necessidade/manuel/b1728-13-manuel
+            referido$jose de matos/id=b1728-13-per5
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
+               rel$sociabilidade/baptizou em necessidade/manuel/b1728-13-manuel
 
       bap$b1728-14/9/9/1728/fl.128/igreja de santa maria/sebastiao inacio (padre, beneficiado da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$rita/f/id=b1728-14-per1
             ls$datanasc/17280824
 
-         pn$joaquim manuel da costa/id=b1728-14-per2
-            ls$residencia/gaeiras de sao marcos
+            pn$joaquim manuel da costa/id=b1728-14-per2
+               ls$residencia/gaeiras de sao marcos
 
-         mn$lourenca maria teresa de lacerda/id=b1728-14-per3
-            ls$titulo/dona
-            ls$residencia/gaeiras de sao marcos
+            mn$lourenca maria teresa de lacerda/id=b1728-14-per3
+               ls$titulo/dona
+               ls$residencia/gaeiras de sao marcos
 
-         pad1$vasco martins de sousa/id=b1728-14-per4
-            ls$residencia/lisboa
+            pad1$vasco martins de sousa/id=b1728-14-per4
+               ls$residencia/lisboa
 
-         mad1$luisa rita de andrade/id=b1728-14-per5
-            ls$titulo/dona
+            mad1$luisa rita de andrade/id=b1728-14-per5
+               ls$titulo/dona
 
-         pmad1$manuel freire de andrade/id=b1728-14-manuel
-            ls$cargo/coronel
-            ls$residencia/peniche
+               pmad1$manuel freire de andrade/id=b1728-14-manuel
+                  ls$cargo/coronel
+                  ls$residencia/peniche
 
-         procurador-mad1$manuel freire de andrade/mesmo_que=b1728-14-manuel/id=b1728-14-per6
-            ls$cargo/coronel
-            ls$residencia/peniche
+            procurador-mad1$manuel freire de andrade/mesmo_que=b1728-14-manuel/id=b1728-14-per6
+               ls$cargo/coronel
+               ls$residencia/peniche
 
       bap$b1728-15/11/9/1728/fl.128/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$clara/f/id=b1728-15-per1
             ls$datanasc/1728
 
-         pn$jose da costa/id=b1728-15-per2
-            ls$residencia/gaeiras
+            pn$jose da costa/id=b1728-15-per2
+               ls$residencia/gaeiras
 
-         mn$antonia maria/id=b1728-15-per3
-            ls$residencia/gaeiras
+            mn$antonia maria/id=b1728-15-per3
+               ls$residencia/gaeiras
 
-         pad1$manuel nunes/id=b1728-15-per4
-            ls$profissao/ourives
-            ls$residencia/lisboa
+            pad1$manuel nunes/id=b1728-15-per4
+               ls$profissao/ourives
+               ls$residencia/lisboa
 
-         mad1$josefa maria de jesus/id=b1728-15-per5
-            ls$residencia/obidos
+            mad1$josefa maria de jesus/id=b1728-15-per5
+               ls$residencia/obidos
 
-         mrmad1$felix da silva/id=b1728-15-felix
-            ls$residencia/obidos
+               mrmad1$felix da silva/id=b1728-15-felix
+                  ls$residencia/obidos
 
-         procurador-mad1$felix da silva/mesmo_que=b1728-15-felix/id=b1728-15-per6
-            ls$residencia/obidos
+            procurador-mad1$felix da silva/mesmo_que=b1728-15-felix/id=b1728-15-per6
+               ls$residencia/obidos
 
       bap$b1728-16/14/9/1728/fl.128/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$rosa/f/id=b1728-16-per1
 
-         pn$antonio henriques/id=b1728-16-per2
-            ls$residencia/obidos
+            pn$antonio henriques/id=b1728-16-per2
+               ls$residencia/obidos
 
-         mn$brisida teresa/id=b1728-16-per3
-            ls$residencia/obidos
+            mn$brisida teresa/id=b1728-16-per3
+               ls$residencia/obidos
 
-         pad1$manuel de oliveira farto/id=b1728-16-per4
-            ls$residencia/obidos
+            pad1$manuel de oliveira farto/id=b1728-16-per4
+               ls$residencia/obidos
 
-         mad1$maria do sacramento/id=b1728-16-maria
-            ls$residencia/obidos
+            mad1$maria do sacramento/id=b1728-16-maria
+               ls$residencia/obidos
 
-         procurador-mad1$lourenco correia/id=b1728-16-per5
-            ls$residencia/obidos
-            ls$profissao/padre
-            rel$parentesco/irmao/maria do sacramento/b1728-16-maria
+            procurador-mad1$lourenco correia/id=b1728-16-per5
+               ls$residencia/obidos
+               ls$profissao/padre
+               rel$parentesco/irmao/maria do sacramento/b1728-16-maria
 
       bap$b1728-17/26/9/1728/fl.128v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$josefa/f/id=b1728-17-per1
             ls$datanasc/17280918
 
-         pn$antonio de oliveira/id=b1728-17-per2
-            ls$residencia/a da gorda
+            pn$antonio de oliveira/id=b1728-17-per2
+               ls$residencia/a da gorda
 
-         mn$antonia maria/id=b1728-17-per3
-            ls$residencia/a da gorda
+            mn$antonia maria/id=b1728-17-per3
+               ls$residencia/a da gorda
 
-         pad1$jose de matos/id=b1728-17-per4
-            ls$residencia/a da gorda
+            pad1$jose de matos/id=b1728-17-per4
+               ls$residencia/a da gorda
 
-         mad1$josefa maria/id=b1728-17-per5
-            ls$residencia/a da gorda
+            mad1$josefa maria/id=b1728-17-per5
+               ls$residencia/a da gorda
 
-         pmad1$andre luis/id=b1728-17-per6
-            ls$residencia/a da gorda
+               pmad1$andre luis/id=b1728-17-per6
+                  ls$residencia/a da gorda
 
       bap$b1728-18/29/9/1728/fl.128v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$josefa teresa/f/id=b1728-18-josefa/obs=foi baptizada em casa
 
-         pn$francisco de lemos/id=b1728-18-per1
-            ls$residencia/a da gorda
+            pn$francisco de lemos/id=b1728-18-per1
+               ls$residencia/a da gorda
 
-         mn$mariana da silva/id=b1728-18-per2
-            ls$residencia/a da gorda
+            mn$mariana da silva/id=b1728-18-per2
+               ls$residencia/a da gorda
 
-         pad1$francisco dos reis vieira/id=b1728-18-per3
-            ls$cargo/ajudante/obs=na praca de peniche
+            pad1$francisco dos reis vieira/id=b1728-18-per3
+               ls$cargo/ajudante/obs=na praca de peniche
 
-         mad1$maria de sao bernardo/id=b1728-18-per4
-            rel$parentesco/irma/jose correia pimentel/b1728-18-pim
-            ls$residencia/obidos
+            mad1$maria de sao bernardo/id=b1728-18-per4
+               rel$parentesco/irma/jose correia pimentel/b1728-18-pim
+               ls$residencia/obidos
 
-         procurador-mad1$jose correia pimentel/id=b1728-18-pim
-            ls$residencia/obidos
+            procurador-mad1$jose correia pimentel/id=b1728-18-pim
+               ls$residencia/obidos
 
             referido$agostinho de oliveira neves/id=b1728-18-pim-per5
                ls$profissao/padre
@@ -1399,198 +1399,198 @@ kleio$gacto.str/prefix=stmaria
          n$maria/f/id=b1728-19-per1
             ls$datanasc/17281024
 
-         pn$francisco antunes/id=b1728-19-per2
-            ls$residencia/arrabalde, junto a bica
+            pn$francisco antunes/id=b1728-19-per2
+               ls$residencia/arrabalde, junto a bica
 
-         mn$josefa maria/id=b1728-19-per3
-            ls$residencia/arrabalde, junto a bica
+            mn$josefa maria/id=b1728-19-per3
+               ls$residencia/arrabalde, junto a bica
 
-         pad1$filipe gomes/id=b1728-19-per4
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de santa maria
+            pad1$filipe gomes/id=b1728-19-per4
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de santa maria
 
       bap$b1728-20/31/10/1728/fl.129/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1728-20-per1
             ls$datanasc/17281022
 
-         pn$francisco soares/id=b1728-20-per2
-            ls$residencia/moinho de matatripas
+            pn$francisco soares/id=b1728-20-per2
+               ls$residencia/moinho de matatripas
 
-         mn$isabel maria/id=b1728-20-per3
-            ls$residencia/moinho de matatripas
+            mn$isabel maria/id=b1728-20-per3
+               ls$residencia/moinho de matatripas
 
-         pad1$verissimo da silva/id=b1728-20-verissimo
-            ls$residencia/obidos
+            pad1$verissimo da silva/id=b1728-20-verissimo
+               ls$residencia/obidos
 
-         mad1$antonia maria/id=b1728-20-per4
-            ls$residencia/obidos
-            rel$parentesco/irma/verissimo da silva/b1728-20-verissimo
+            mad1$antonia maria/id=b1728-20-per4
+               ls$residencia/obidos
+               rel$parentesco/irma/verissimo da silva/b1728-20-verissimo
 
       bap$b1728-21/1/11/1728/fl.129/igreja de santa maria/sebastiao inacio (beneficiado)/obs=assina o cura jose de matos
 
          n$tomas/m/id=b1728-21-per1
             ls$datanasc/17281025
 
-         pn$francisco correia/id=b1728-21-per2
-            ls$residencia/rua do poco
+            pn$francisco correia/id=b1728-21-per2
+               ls$residencia/rua do poco
 
-         mn$josefa da conceicao/id=b1728-21-per3
-            ls$residencia/rua do poco
+            mn$josefa da conceicao/id=b1728-21-per3
+               ls$residencia/rua do poco
 
-         pad1$caetano gomes/id=b1728-21-cae
-            ls$cargo/beneficiado da igreja de sao joao de mocharro
-            ls$residencia/obidos
+            pad1$caetano gomes/id=b1728-21-cae
+               ls$cargo/beneficiado da igreja de sao joao de mocharro
+               ls$residencia/obidos
 
-         procurador-pad1$tomas joao do avelar/id=b1728-21-per4
-            ls$residencia/obidos
-            rel$parentesco/irmao/caetano gomes/b1728-21-cae
+            procurador-pad1$tomas joao do avelar/id=b1728-21-per4
+               ls$residencia/obidos
+               rel$parentesco/irmao/caetano gomes/b1728-21-cae
 
-         mad1$maria rosa de carvalho/id=b1728-21-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$maria rosa de carvalho/id=b1728-21-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         procurador-mad1$francisco xavier de carvalho/id=b1728-21-carv
-            ls$residencia/obidos
-            rel$parentesco/filho/maria rosa de carvalho/b1728-21-carv
+            procurador-mad1$francisco xavier de carvalho/id=b1728-21-carv
+               ls$residencia/obidos
+               rel$parentesco/filho/maria rosa de carvalho/b1728-21-carv
 
       bap$b1728-22/30/11/1728/fl.129/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$cecilia/f/id=b1728-22-per1
             ls$datanasc/17281120
 
-         pn$inacio francisco/id=b1728-22-per2
-            ls$residencia/rua dos fornos
+            pn$inacio francisco/id=b1728-22-per2
+               ls$residencia/rua dos fornos
 
-         mn$luisa maria/id=b1728-22-per3
-            ls$residencia/rua dos fornos
+            mn$luisa maria/id=b1728-22-per3
+               ls$residencia/rua dos fornos
 
-         pad1$sebastiao inacio/id=b1728-22-ina
-            ls$profissao/padre
-            ls$cargo/beneficiado da igreja de santa maria
-            ls$residencia/obidos
+            pad1$sebastiao inacio/id=b1728-22-ina
+               ls$profissao/padre
+               ls$cargo/beneficiado da igreja de santa maria
+               ls$residencia/obidos
 
-         mad1$mariana inacia figueira/id=b1728-22-per4
-            ls$residencia/obidos
-            rel$parentesco/irma/sebastiao inacio/b1728-22-ina
+            mad1$mariana inacia figueira/id=b1728-22-per4
+               ls$residencia/obidos
+               rel$parentesco/irma/sebastiao inacio/b1728-22-ina
 
       bap$b1728-23/28/12/1728/fl.129v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1728-23-per1
             ls$datanasc/17281217
 
-         pn$joao craveiro/id=b1728-23-per2
-            ls$residencia/arrabalde
+            pn$joao craveiro/id=b1728-23-per2
+               ls$residencia/arrabalde
 
-         mn$maria inacia/id=b1728-23-per3
-            ls$residencia/arrabalde
+            mn$maria inacia/id=b1728-23-per3
+               ls$residencia/arrabalde
 
-         pad1$jose correia pimentel/id=b1728-23-jose
+            pad1$jose correia pimentel/id=b1728-23-jose
 
-         mad1$maria de sao bernardo/id=b1728-23-per4
-            rel$parentesco/irma/jose correia pimentel/b1728-23-jose
+            mad1$maria de sao bernardo/id=b1728-23-per4
+               rel$parentesco/irma/jose correia pimentel/b1728-23-jose
 
       bap$b1729-1/9/1/1729/fl.129v./igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos
 
          n$isidora/f/id=b1729-1-per1
             ls$datanasc/17290102
 
-         pn$manuel leal/id=b1729-1-per2
-            ls$residencia/a da gorda
+            pn$manuel leal/id=b1729-1-per2
+               ls$residencia/a da gorda
 
-         mn$teresa da conceicao/id=b1729-1-per3
-            ls$residencia/a da gorda
+            mn$teresa da conceicao/id=b1729-1-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel da fonseca/id=b1729-1-per4
-            ls$residencia/obidos
+            pad1$manuel da fonseca/id=b1729-1-per4
+               ls$residencia/obidos
 
       bap$b1729-2/16/1/1729/fl.129v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1729-2-per1
 
-         pn$joao da silva/id=b1729-2-per2
-            ls$residencia/gaeiras
+            pn$joao da silva/id=b1729-2-per2
+               ls$residencia/gaeiras
 
-         mn$antonia maria/id=b1729-2-per3
-            ls$residencia/gaeiras
+            mn$antonia maria/id=b1729-2-per3
+               ls$residencia/gaeiras
 
-         pad1$jose barbosa neves/id=b1729-2-per4
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria
+            pad1$jose barbosa neves/id=b1729-2-per4
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria
 
-         mad1$casemira joaquina de almeida/id=b1729-2-per5
+            mad1$casemira joaquina de almeida/id=b1729-2-per5
 
-         pmad1$sebastiao vieira delgado/id=b1729-2-per6
-            ls$residencia/obidos
+               pmad1$sebastiao vieira delgado/id=b1729-2-per6
+                  ls$residencia/obidos
 
       bap$b1729-3/18/2/1729/fl.130/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$helena da cruz/f/id=b1729-3-per1
             ls$enjeitada/sim/obs="filha de pais imcognitos a qual foi achada nos cazais da ruda lemitte do olho marinho e a cria joanna de almeyda molher de gaspar fernandes do bayro"
 
-         pn$nome desconhecido/id=b1729-3-per2
+            pn$nome desconhecido/id=b1729-3-per2
 
-         mn$nome desconhecido/id=b1729-3-per3
+            mn$nome desconhecido/id=b1729-3-per3
 
-         pad1$manuel de leao e almeida/id=b1729-3-leao
-            ls$cargo/procurador do concelho
+            pad1$manuel de leao e almeida/id=b1729-3-leao
+               ls$cargo/procurador do concelho
 
       bap$b1729-4/28/2/1729/fl.130/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jacinto/m/id=b1729-4-jac
             ls$enjeitado/sim/obs="achado a nossa senhora do emparo e o cria madalena da comceycao molher de jozeph da silva do lugar da useyra o qual he filho de pais imcognitos"
 
-         pn$nome desconhecido/id=b1729-4-per1
+            pn$nome desconhecido/id=b1729-4-per1
 
-         mn$nome desconhecido/id=b1729-4-per2
+            mn$nome desconhecido/id=b1729-4-per2
 
-         pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-4-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-4-per3
+               ls$cargo/procurador do concelho
 
-         referida$madalena da conceicao/id=b1729-4-mad
-            ls$residencia/usseira
-            rel$sociabilidade/ama/jacinto/b1729-4-jac
+            referida$madalena da conceicao/id=b1729-4-mad
+               ls$residencia/usseira
+               rel$sociabilidade/ama/jacinto/b1729-4-jac
 
-         referido$jose da silva/id=b1729-4-per4
-            ls$residencia/usseira
-            rel$parentesco/marido/madalena da conceicao/b1729-4-mad
+            referido$jose da silva/id=b1729-4-per4
+               ls$residencia/usseira
+               rel$parentesco/marido/madalena da conceicao/b1729-4-mad
 
       bap$b1729-5/3/4/1729/fl.130/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1729-5-per1
             ls$datanasc/17290326
 
-         pn$antonio joao/id=b1729-5-per2
-            ls$residencia/casal da reinalda
+            pn$antonio joao/id=b1729-5-per2
+               ls$residencia/casal da reinalda
 
-         mn$antonia gomes/id=b1729-5-per3
-            ls$residencia/casal da reinalda
+            mn$antonia gomes/id=b1729-5-per3
+               ls$residencia/casal da reinalda
 
-         pad1$verissimo da silva/id=b1729-5-per4
-            ls$residencia/obidos
+            pad1$verissimo da silva/id=b1729-5-per4
+               ls$residencia/obidos
 
-         mad1$maria gomes/id=b1729-5-per5
-            ls$residencia/casal da ramalheira
+            mad1$maria gomes/id=b1729-5-per5
+               ls$residencia/casal da ramalheira
 
       bap$b1729-6/16/4/1729/fl.130/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1729-6-maria
             ls$datanasc/17290406
 
-         pn$paulo ferreira/id=b1729-6-pau
-            ls$residencia/a da gorda
+            pn$paulo ferreira/id=b1729-6-pau
+               ls$residencia/a da gorda
 
-         mn$ana da silva/id=b1729-6-ana
-            ls$residencia/a da gorda
+            mn$ana da silva/id=b1729-6-ana
+               ls$residencia/a da gorda
 
-         pad1$caetano da silva/id=b1729-6-per1
-            ls$residencia/a da gorda
+            pad1$caetano da silva/id=b1729-6-per1
+               ls$residencia/a da gorda
 
-         ppad1$diogo da silva/id=b1729-6-per2
-            ls$residencia/a da gorda
+               ppad1$diogo da silva/id=b1729-6-per2
+                  ls$residencia/a da gorda
 
-         mad1$josefa de abreu/id=b1729-6-per3
-            ls$residencia/a da gorda
+            mad1$josefa de abreu/id=b1729-6-per3
+               ls$residencia/a da gorda
 
       bap$b1729-7/16/4/1729/fl.130v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos. apesar de aparecerem em registos distintos e sem qualquer advertencia para tal, as baptizadas sao irmas gemeas
 
@@ -1598,234 +1598,234 @@ kleio$gacto.str/prefix=stmaria
             ls$datanasc/17290406
             rel$parentesco/irma gemea/maria/b1729-6-maria
 
-         pn$paulo ferreira/mesmo_que=b1729-6-pau/id=b1729-7-per2
-            ls$residencia/a da gorda
+            pn$paulo ferreira/mesmo_que=b1729-6-pau/id=b1729-7-per2
+               ls$residencia/a da gorda
 
-         mn$ana da silva/mesmo_que=b1729-6-ana/id=b1729-7-per3
-            ls$residencia/a da gorda
+            mn$ana da silva/mesmo_que=b1729-6-ana/id=b1729-7-per3
+               ls$residencia/a da gorda
 
-         pad1$felix da silva/id=b1729-7-felix
-            ls$residencia/obidos
+            pad1$felix da silva/id=b1729-7-felix
+               ls$residencia/obidos
 
-         mad1$josefa maria/id=b1729-7-per4
-            ls$residencia/obidos
+            mad1$josefa maria/id=b1729-7-per4
+               ls$residencia/obidos
 
-         mrmad1$felix da silva/mesmo_que=b1729-7-felix/id=b1729-7-per5
-            ls$residencia/obidos
+               mrmad1$felix da silva/mesmo_que=b1729-7-felix/id=b1729-7-per5
+                  ls$residencia/obidos
 
       bap$b1729-8/30/4/1729/fl.130v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1729-8-maria
             ls$enjeitada/sim/obs="filha de pais imcognitos foy achada no sobral da parilham e a cria olaya pereira molher de alexandre goncalves moradores no sobral de parilham freguezia de sao pedro do carvalhal"
 
-         pn$nome desconhecido/id=b1729-8-per1
+            pn$nome desconhecido/id=b1729-8-per1
 
-         mn$nome desconhecido/id=b1729-8-per2
+            mn$nome desconhecido/id=b1729-8-per2
 
-         pad1$manuel de leao e almeida/id=b1729-8-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel de leao e almeida/id=b1729-8-per3
+               ls$cargo/procurador do concelho
 
-         mad1$olaia maria/id=b1729-8-per4
-            ls$residencia/sobral de parilha%sobral da parilham
-            ls$freguesia/sao pedro do carvalhal
-            rel$sociabilidade/ama/maria/b1729-8-maria
+            mad1$olaia maria/id=b1729-8-per4
+               ls$residencia/sobral de parilha%sobral da parilham
+               ls$freguesia/sao pedro do carvalhal
+               rel$sociabilidade/ama/maria/b1729-8-maria
 
-         mrmad1$alexandre goncalves/id=b1729-8-per5
-            ls$residencia/sobral de parilha%sobral da parilham
-            ls$freguesia/sao pedro do carvalhal
+               mrmad1$alexandre goncalves/id=b1729-8-per5
+                  ls$residencia/sobral de parilha%sobral da parilham
+                  ls$freguesia/sao pedro do carvalhal
 
       bap$b1729-9/24/4/1729/fl.130v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1729-9-maria
             ls$enjeitada/sim/obs="filha de pais imcognitos foy achada em o lugar de cotem e a cria margayda francisca molher de manoel francisco do dito lugar de cotem"
 
-         pn$nome desconhecido/id=b1729-9-per1
+            pn$nome desconhecido/id=b1729-9-per1
 
-         mn$nome desconhecido/id=b1729-9-per2
+            mn$nome desconhecido/id=b1729-9-per2
 
-         pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-9-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-9-per3
+               ls$cargo/procurador do concelho
 
-         referida$margarida francisca/id=b1729-9-margarida
-            ls$residencia/cotem
-            rel$sociabilidade/ama/maria/b1729-9-maria
+            referida$margarida francisca/id=b1729-9-margarida
+               ls$residencia/cotem
+               rel$sociabilidade/ama/maria/b1729-9-maria
 
-         referido$manuel francisco/id=b1729-9-per4
-            ls$residencia/cotem
-            rel$parentesco/marido/margarida francisca/b1729-9-margarida
+            referido$manuel francisco/id=b1729-9-per4
+               ls$residencia/cotem
+               rel$parentesco/marido/margarida francisca/b1729-9-margarida
 
       bap$b1729-10/29/4/1729/fl.131/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$rosa/f/id=b1729-10-per1
             ls$datanasc/17290423
 
-         pn$jose pereira da costa/id=b1729-10-per2
-            ls$residencia/rua da misericordia
+            pn$jose pereira da costa/id=b1729-10-per2
+               ls$residencia/rua da misericordia
 
-         mn$maria da costa/id=b1729-10-per3
-            ls$residencia/rua da misericordia
+            mn$maria da costa/id=b1729-10-per3
+               ls$residencia/rua da misericordia
 
-         pad1$francisco gomes figueira/id=b1729-10-per4
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad1$francisco gomes figueira/id=b1729-10-per4
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad1$maria antonia/id=b1729-10-per5
-            ls$residencia/obidos
+            mad1$maria antonia/id=b1729-10-per5
+               ls$residencia/obidos
 
-         mrmad1$manuel de leao/id=b1729-10-per6
-            ls$residencia/obidos
+               mrmad1$manuel de leao/id=b1729-10-per6
+                  ls$residencia/obidos
 
       bap$b1729-11/15/5/1729/fl.131/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joao/m/id=b1729-11-per1
             ls$datanasc/17290506
 
-         pn$francisco joao/id=b1729-11-per2
-            ls$residencia/fraldeu
+            pn$francisco joao/id=b1729-11-per2
+               ls$residencia/fraldeu
 
-         mn$maria josefa/id=b1729-11-per3
-            ls$residencia/fraldeu
+            mn$maria josefa/id=b1729-11-per3
+               ls$residencia/fraldeu
 
-         mad1$pascoa maria/id=b1729-11-per4
-            ls$residencia/casais
+            mad1$pascoa maria/id=b1729-11-per4
+               ls$residencia/casais
 
-         mrmad1$manuel vieira/id=b1729-11-per5
+               mrmad1$manuel vieira/id=b1729-11-per5
 
       bap$b1729-12/24/5/1729/fl.131/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$bernardo/m/id=b1729-12-per1
             ls$enjeitado/sim/obs="filho de pais imcognitos foi achado nas gaeyras e o cria maria correa molher de luis da cunha das gaeyras"
 
-         pn$nome desconhecido/id=b1729-12-per2
+            pn$nome desconhecido/id=b1729-12-per2
 
-         mn$nome desconhecido/id=b1729-12-per3
+            mn$nome desconhecido/id=b1729-12-per3
 
-         pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-12-per4
-            ls$cargo/procurador do concelho
+            pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-12-per4
+               ls$cargo/procurador do concelho
 
-         mad1$sebastiana maria/id=b1729-12-per5
-            ls$residencia/gaeiras
+            mad1$sebastiana maria/id=b1729-12-per5
+               ls$residencia/gaeiras
 
-         mmad1$antonia marques/id=b1729-12-per6
+               mmad1$antonia marques/id=b1729-12-per6
 
       bap$b1729-13/19/6/1729/fl.131/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$joaquim/m/id=b1729-13-per1
 
-         pn$antonio gomes/id=b1729-13-per2
-            ls$residencia/casais de alentejo
+            pn$antonio gomes/id=b1729-13-per2
+               ls$residencia/casais de alentejo
 
-         mn$maria ferreira/id=b1729-13-per3
-            ls$residencia/casais de alentejo
+            mn$maria ferreira/id=b1729-13-per3
+               ls$residencia/casais de alentejo
 
-         pad1$leandro gomes henriques/id=b1729-13-gomes
-            ls$titulo/doutor
+            pad1$leandro gomes henriques/id=b1729-13-gomes
+               ls$titulo/doutor
 
-         procurador-pad1$antonio gomes duarte/id=b1729-13-per4
-            rel$parentesco/sobrinho/leandro gomes henriques/b1729-13-gomes
+            procurador-pad1$antonio gomes duarte/id=b1729-13-per4
+               rel$parentesco/sobrinho/leandro gomes henriques/b1729-13-gomes
 
-         mad1$josefa maria gomes/id=b1729-13-per5
+            mad1$josefa maria gomes/id=b1729-13-per5
 
-         procurador-mad1$silverio gomes duarte/id=b1729-13-per6
+            procurador-mad1$silverio gomes duarte/id=b1729-13-per6
 
       bap$b1729-14/19/6/1729/fl.131v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$quiteria/f/id=b1729-14-per1
             ls$datanasc/17290610
 
-         pn$miguel da silva/id=b1729-14-per2
-            ls$residencia/quinta da navalha
+            pn$miguel da silva/id=b1729-14-per2
+               ls$residencia/quinta da navalha
 
-         mn$mariana da costa/id=b1729-14-per3
-            ls$residencia/quinta da navalha
+            mn$mariana da costa/id=b1729-14-per3
+               ls$residencia/quinta da navalha
 
-         pad1$andre de sousa/id=b1729-14-per4
-            ls$residencia/delgada
+            pad1$andre de sousa/id=b1729-14-per4
+               ls$residencia/delgada
 
-         mad1$inacia ferreira/id=b1729-14-per5
-            ls$residencia/usseira
+            mad1$inacia ferreira/id=b1729-14-per5
+               ls$residencia/usseira
 
-         pmad1$manuel gomes/id=b1729-14-per6
-            ls$alcunha/o saramago
-            ls$residencia/usseira
+               pmad1$manuel gomes/id=b1729-14-per6
+                  ls$alcunha/o saramago
+                  ls$residencia/usseira
 
       bap$b1729-15/26/6/1729/fl.131v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1729-15-per1
             ls$datanasc/17290620
 
-         pn$manuel lopes/id=b1729-15-per2
-            ls$residencia/obidos, porta do vale
+            pn$manuel lopes/id=b1729-15-per2
+               ls$residencia/obidos, porta do vale
 
-         mn$antonia maria/id=b1729-15-per3
-            ls$residencia/obidos, porta do vale
+            mn$antonia maria/id=b1729-15-per3
+               ls$residencia/obidos, porta do vale
 
-         pad1$jose do rego/id=b1729-15-per4
-            ls$residencia/obidos
+            pad1$jose do rego/id=b1729-15-per4
+               ls$residencia/obidos
 
-         mad1$maria da silva/id=b1729-15-per5
-            ls$residencia/obidos
+            mad1$maria da silva/id=b1729-15-per5
+               ls$residencia/obidos
 
-         pmad1$joao antunes/id=b1729-15-per6
-            ls$residencia/obidos
+               pmad1$joao antunes/id=b1729-15-per6
+                  ls$residencia/obidos
 
       bap$b1729-16/17/7/1729/fl.131v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1729-16-per1
             ls$datanasc/17290710
 
-         pn$joao francisco/id=b1729-16-per2
-            ls$residencia/gaeiras
+            pn$joao francisco/id=b1729-16-per2
+               ls$residencia/gaeiras
 
-         mn$maria henriques/id=b1729-16-per3
-            ls$residencia/gaeiras
+            mn$maria henriques/id=b1729-16-per3
+               ls$residencia/gaeiras
 
-         pad1$silvestre francisco/id=b1729-16-silv
-            ls$residencia/coto
-            ls$freguesia/coto
+            pad1$silvestre francisco/id=b1729-16-silv
+               ls$residencia/coto
+               ls$freguesia/coto
 
-         mad1$domingas henriques/id=b1729-16-per4
-            ls$residencia/coto
-            ls$freguesia/coto
+            mad1$domingas henriques/id=b1729-16-per4
+               ls$residencia/coto
+               ls$freguesia/coto
 
-         mrmad1$silvestre francisco/mesmo_que=b1729-16-silv/id=b1729-16-per5
-            ls$residencia/coto
-            ls$freguesia/coto
+               mrmad1$silvestre francisco/mesmo_que=b1729-16-silv/id=b1729-16-per5
+                  ls$residencia/coto
+                  ls$freguesia/coto
 
       bap$b1729-17/21/8/1729/fl.131v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$catarina/f/id=b1729-17-cat
             ls$datanasc/17290816/obs=foi baptizada em casa por necessidade por nascer fraca
 
-         pn$antonio ferreira/id=b1729-17-per1
-            ls$residencia/arrabalde
+            pn$antonio ferreira/id=b1729-17-per1
+               ls$residencia/arrabalde
 
-         mn$mariana da conceicao/id=b1729-17-per2
-            ls$residencia/arrabalde
+            mn$mariana da conceicao/id=b1729-17-per2
+               ls$residencia/arrabalde
 
-         pad1$jose gomes ferreira/id=b1729-17-per3
-            ls$profissao/padre
-            rel$sociabilidade/baptizou em necessidade/catarina/b1729-17-cat
+            pad1$jose gomes ferreira/id=b1729-17-per3
+               ls$profissao/padre
+               rel$sociabilidade/baptizou em necessidade/catarina/b1729-17-cat
 
       bap$b1729-18/24/8/1729/fl.132/igreja de santa maria/sebastiao inacio figueira (padre, beneficiado da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$ana jacinta/f/id=b1729-18-per1
             ls$datanasc/17290816
 
-         pn$sebastiao vieira/id=b1729-18-per2
-            ls$residencia/rua nova
+            pn$sebastiao vieira/id=b1729-18-per2
+               ls$residencia/rua nova
 
-         mn$joana maria/id=b1729-18-per3
-            ls$residencia/rua nova
+            mn$joana maria/id=b1729-18-per3
+               ls$residencia/rua nova
 
-         pad1$jose de matos/id=b1729-18-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa maria
+            pad1$jose de matos/id=b1729-18-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa maria
 
-         mad1$maria de sao bernardo/id=b1729-18-per5
-            rel$parentesco/irma/jose correia pimentel/b1729-18-jose
+            mad1$maria de sao bernardo/id=b1729-18-per5
+               rel$parentesco/irma/jose correia pimentel/b1729-18-jose
 
-         referido$jose correia pimentel/id=b1729-18-jose
+            referido$jose correia pimentel/id=b1729-18-jose
 
       bap$b1729-19/29/9/1729/fl.132/igreja de santa maria/luis de sisneiros (frei, religioso de santo agostinho)/obs=assina o cura jose de matos. "com licenca do reverendo doutor manoel gomes barretto que serve de vigario geral em absencia do muito reverendo doutor antonio coelho de miranda, baptizou de minha licensa e pos os sanctos oleos solenemente frei luis de cisneyros religiozo da ordem de santo agostinho"
 
@@ -1833,577 +1833,577 @@ kleio$gacto.str/prefix=stmaria
             ls$titulo/dona
             ls$datanasc/17290919
 
-         pn$manuel de sisneiros girao e vasconcelos/id=b1729-19-per2
-            ls$titulo/dom
-            ls$residencia/obidos, atras da igreja de santa maria
+            pn$manuel de sisneiros girao e vasconcelos/id=b1729-19-per2
+               ls$titulo/dom
+               ls$residencia/obidos, atras da igreja de santa maria
 
-         mn$antonia josefa freire e silva veles/id=b1729-19-per3
-            ls$titulo/dona
-            ls$residencia/obidos, atras da igreja de santa maria
+            mn$antonia josefa freire e silva veles/id=b1729-19-per3
+               ls$titulo/dona
+               ls$residencia/obidos, atras da igreja de santa maria
 
-         pad1$francisco freire da silva de andrade e sousa/id=b1729-19-per4
-            ls$residencia/castanheira
+            pad1$francisco freire da silva de andrade e sousa/id=b1729-19-per4
+               ls$residencia/castanheira
 
-         procurador-pad1$jose pacheco cabral/id=b1729-19-per5
-            ls$residencia/obidos
+            procurador-pad1$jose pacheco cabral/id=b1729-19-per5
+               ls$residencia/obidos
 
       bap$b1729-20/2/10/1729/fl.132/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$ana/f/id=b1729-20-per1
             ls$datanasc/17290926
 
-         pn$jose lopes/id=b1729-20-per2
-            ls$residencia/rua da serra
+            pn$jose lopes/id=b1729-20-per2
+               ls$residencia/rua da serra
 
-         mn$teresa de sao jose/id=b1729-20-per3
-            ls$residencia/rua da serra
+            mn$teresa de sao jose/id=b1729-20-per3
+               ls$residencia/rua da serra
 
-         pad1$bras antunes correia/id=b1729-20-bras
-            ls$profissao/padre
-            ls$cargo/prior da igreja de sao joao
+            pad1$bras antunes correia/id=b1729-20-bras
+               ls$profissao/padre
+               ls$cargo/prior da igreja de sao joao
 
-         mad1$maria do sacramento/id=b1729-20-maria
-            rel$parentesco/irma/bras antunes correia/b1729-20-bras
+            mad1$maria do sacramento/id=b1729-20-maria
+               rel$parentesco/irma/bras antunes correia/b1729-20-bras
 
-         procurador-mad1$lourenco correia da costa/id=b1729-20-per4
-            rel$parentesco/irmao/maria do sacramento/b1729-20-maria
+            procurador-mad1$lourenco correia da costa/id=b1729-20-per4
+               rel$parentesco/irmao/maria do sacramento/b1729-20-maria
 
       bap$b1729-21/16/10/1729/fl.132v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1729-21-per1
             ls$enjeitado/sim/obs="sub conditione por trazer hum escrito que desia estava baptizado a jozeph emgeitado o qual foy achado em sao bartolomeu e o cria luiza maria molher de ignacio francisco moradores na rua nova desta villa pella sobredita cauza o baptizey sub conditione e pus os santos oleos sollenemente"
 
-         pn$nome desconhecido/id=b1729-21-per2
+            pn$nome desconhecido/id=b1729-21-per2
 
-         mn$nome desconhecido/id=b1729-21-per3
+            mn$nome desconhecido/id=b1729-21-per3
 
-         pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-21-per4
-            ls$cargo/procurador do concelho
+            pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-21-per4
+               ls$cargo/procurador do concelho
 
-         referido$jose de matos/id=b1729-21-per5
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
-            rel$sociabilidade/baptizou sub conditione/jose/b1729-21-jose
+            referido$jose de matos/id=b1729-21-per5
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
+               rel$sociabilidade/baptizou sub conditione/jose/b1729-21-jose
 
       bap$b1729-22/6/11/1729/fl.132v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1729-22-per1
             ls$datanasc/17291029
 
-         pn$sebastiao da cruz/id=b1729-22-per2
-            ls$residencia/arrabalde
+            pn$sebastiao da cruz/id=b1729-22-per2
+               ls$residencia/arrabalde
 
-         mn$josefa maria/id=b1729-22-per3
-            ls$residencia/arrabalde
+            mn$josefa maria/id=b1729-22-per3
+               ls$residencia/arrabalde
 
-         pad1$manuel gomes clemente/id=b1729-22-per4
+            pad1$manuel gomes clemente/id=b1729-22-per4
 
-         mad1$maria josefa/id=b1729-22-per5
-            ls$residencia/obidos
+            mad1$maria josefa/id=b1729-22-per5
+               ls$residencia/obidos
 
       bap$b1729-23/13/11/1729/fl.132v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$feliciana/f/id=b1729-23-per1
 
-         pn$manuel de faria/id=b1729-23-per2
-            ls$residencia/arrabalde
+            pn$manuel de faria/id=b1729-23-per2
+               ls$residencia/arrabalde
 
-         mn$rosa francisca/id=b1729-23-per3
-            ls$residencia/arrabalde
+            mn$rosa francisca/id=b1729-23-per3
+               ls$residencia/arrabalde
 
-         pad1$luis francisco ferreira/id=b1729-23-per4
-            ls$titulo/doutor
-            ls$cargo/juiz de fora
-            ls$residencia/obidos
+            pad1$luis francisco ferreira/id=b1729-23-per4
+               ls$titulo/doutor
+               ls$cargo/juiz de fora
+               ls$residencia/obidos
 
-         procurador-pad1$manuel antunes/id=b1729-23-per5
-            ls$residencia/arrabalde
+            procurador-pad1$manuel antunes/id=b1729-23-per5
+               ls$residencia/arrabalde
 
-         mad1$maria do sacramento/id=b1729-23-maria
-            ls$residencia/arrabalde
+            mad1$maria do sacramento/id=b1729-23-maria
+               ls$residencia/arrabalde
 
-         procurador-mad1$pedro antunes correia/id=b1729-23-per6
-            ls$residencia/arrabalde
-            rel$parentesco/sobrinho/maria do sacramento/b1729-23-maria/obs=visto em visitacao em 20 de novembro de 1729.
+            procurador-mad1$pedro antunes correia/id=b1729-23-per6
+               ls$residencia/arrabalde
+               rel$parentesco/sobrinho/maria do sacramento/b1729-23-maria/obs=visto em visitacao em 20 de novembro de 1729.
 
       bap$b1729-24/4/12/1729/fl.133/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1729-24-jose
             ls$enjeitado/sim/obs="baptizey sub conditione por trazer hum escrito que dezia estava baptizado e pus os santos oleos a jozeph emgeytado o qual foy achado no lugar do poo e o cria domingas jeronima molher de luis gomes do dito lugar"
 
-         pn$nome desconhecido/id=b1729-24-per1
+            pn$nome desconhecido/id=b1729-24-per1
 
-         mn$nome desconhecido/id=b1729-24-per2
+            mn$nome desconhecido/id=b1729-24-per2
 
-         pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-24-per3
-            ls$cargo/procurador do concelho
+            pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1729-24-per3
+               ls$cargo/procurador do concelho
 
-         referido$jose de matos/id=b1729-24-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
-            rel$sociabilidade/baptizou sub conditione/jose/b1729-24-jose
+            referido$jose de matos/id=b1729-24-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
+               rel$sociabilidade/baptizou sub conditione/jose/b1729-24-jose
 
-         referida$domingas jeronima/id=b1729-24-dom
-            ls$residencia/po
-            rel$sociabilidade/ama/jose/b1729-24-jose
+            referida$domingas jeronima/id=b1729-24-dom
+               ls$residencia/po
+               rel$sociabilidade/ama/jose/b1729-24-jose
 
-         referido$luis gomes/id=b1729-24-per5
-            ls$residencia/po
-            rel$parentesco/marido/domingas jeronima/b1729-24-dom
+            referido$luis gomes/id=b1729-24-per5
+               ls$residencia/po
+               rel$parentesco/marido/domingas jeronima/b1729-24-dom
 
       bap$b1729-25/18/12/1729/fl.133/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1729-25-per1
             ls$datanasc/17291211
 
-         pn$manuel francisco/id=b1729-25-per2
-            ls$residencia/moinho do redondo
+            pn$manuel francisco/id=b1729-25-per2
+               ls$residencia/moinho do redondo
 
-         mn$mariana teresa/id=b1729-25-per3
-            ls$residencia/moinho do redondo
+            mn$mariana teresa/id=b1729-25-per3
+               ls$residencia/moinho do redondo
 
-         pad1$jose da costa/id=b1729-25-per4
-            ls$ec/s
-            ls$residencia/quinta de santa iria
+            pad1$jose da costa/id=b1729-25-per4
+               ls$ec/s
+               ls$residencia/quinta de santa iria
 
-         mad1$pascoa maria/id=b1729-25-pas
-            ls$residencia/casais de alentejo
+            mad1$pascoa maria/id=b1729-25-pas
+               ls$residencia/casais de alentejo
 
-         referido$manuel vieira/id=b1729-25-per5
-            ls$residencia/casais de alentejo
-            rel$parentesco/marido/pascoa maria/b1729-25-pas
+            referido$manuel vieira/id=b1729-25-per5
+               ls$residencia/casais de alentejo
+               rel$parentesco/marido/pascoa maria/b1729-25-pas
 
       bap$b1729-26/28/12/1729/fl.133/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$josefa/f/id=b1729-26-per1
             ls$datanasc/17291221
 
-         pn$manuel leal/id=b1729-26-per2
-            ls$residencia/a da gorda
+            pn$manuel leal/id=b1729-26-per2
+               ls$residencia/a da gorda
 
-         mn$josefa maria/id=b1729-26-per3
-            ls$residencia/a da gorda
+            mn$josefa maria/id=b1729-26-per3
+               ls$residencia/a da gorda
 
-         pad1$leandro gomes henriques/id=b1729-26-leandro
-            ls$titulo/licenciado
-            ls$residencia/obidos
+            pad1$leandro gomes henriques/id=b1729-26-leandro
+               ls$titulo/licenciado
+               ls$residencia/obidos
 
-         procurador-pad1$antonio gomes duarte/id=b1729-26-per4
-            ls$profissao/padre
-            rel$parentesco/sobrinho/leandro gomes henriques/b1729-26-leandro
+            procurador-pad1$antonio gomes duarte/id=b1729-26-per4
+               ls$profissao/padre
+               rel$parentesco/sobrinho/leandro gomes henriques/b1729-26-leandro
 
-         mad1$josefa maria/id=b1729-26-josefa
+            mad1$josefa maria/id=b1729-26-josefa
 
-         procurador-mad1$damiao duarte/id=b1729-26-per5
-            ls$residencia/sancheira
-            rel$parentesco/cunhado/josefa maria/b1729-26-josefa
+            procurador-mad1$damiao duarte/id=b1729-26-per5
+               ls$residencia/sancheira
+               rel$parentesco/cunhado/josefa maria/b1729-26-josefa
 
       bap$b1730-1/12/2/1730/fl.133v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$valentim/m/id=b1730-1-per1
             ls$datanasc/17300202
 
-         pn$jose henriques/id=b1730-1-per2
-            ls$residencia/arrabalde
+            pn$jose henriques/id=b1730-1-per2
+               ls$residencia/arrabalde
 
-         mn$luisa maria/id=b1730-1-per3
-            ls$residencia/arrabalde
+            mn$luisa maria/id=b1730-1-per3
+               ls$residencia/arrabalde
 
-         pad1$valentim mauricio e queiros/id=b1730-1-per4
-            ls$titulo/licenciado
+            pad1$valentim mauricio e queiros/id=b1730-1-per4
+               ls$titulo/licenciado
 
-         mad1$maria inacia/id=b1730-1-per5
-            ls$residencia/obidos
+            mad1$maria inacia/id=b1730-1-per5
+               ls$residencia/obidos
 
-         pmad1$antonio henriques/id=b1730-1-per6
-            ls$residencia/obidos
+               pmad1$antonio henriques/id=b1730-1-per6
+                  ls$residencia/obidos
 
       bap$b1730-2/21/2/1730/fl.133v./igreja de santa maria/lourenco pereira (padre, morador na quinta da granja)/obs=assina o cura jose de matos
 
          n$mariana/f/id=b1730-2-per1
 
-         pn$jose da costa/id=b1730-2-per2
-            ls$residencia/gaeiras
+            pn$jose da costa/id=b1730-2-per2
+               ls$residencia/gaeiras
 
-         mn$maria do espirito santo/id=b1730-2-per3
-            ls$residencia/gaeiras
+            mn$maria do espirito santo/id=b1730-2-per3
+               ls$residencia/gaeiras
 
-         pad1$jose de matos/id=b1730-2-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
+            pad1$jose de matos/id=b1730-2-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa maria/obs=paroco que faz o registo
 
-         mad1$maria da madalena/id=b1730-2-per5
-            ls$residencia/gaeiras
+            mad1$maria da madalena/id=b1730-2-per5
+               ls$residencia/gaeiras
 
       bap$b1730-3/27/2/1730/fl.133v./igreja de santa maria/jose de matos (padre, beneficiado da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$antonio/m/id=b1730-3-per1
 
-         pn$antonio barreto/id=b1730-3-per2
-            ls$residencia/moinho do lagar
+            pn$antonio barreto/id=b1730-3-per2
+               ls$residencia/moinho do lagar
 
-         mn$francisca pereira/id=b1730-3-per3
-            ls$residencia/moinho do lagar
+            mn$francisca pereira/id=b1730-3-per3
+               ls$residencia/moinho do lagar
 
-         pad1$manuel ferreira/id=b1730-3-per4
-            ls$residencia/casais de alentejo
+            pad1$manuel ferreira/id=b1730-3-per4
+               ls$residencia/casais de alentejo
 
-         mad1$josefa maria/id=b1730-3-per5
-            ls$residencia/arrabalde
+            mad1$josefa maria/id=b1730-3-per5
+               ls$residencia/arrabalde
 
-         mrmad1$manuel de sousa/id=b1730-3-per6
-            ls$residencia/arrabalde
+               mrmad1$manuel de sousa/id=b1730-3-per6
+                  ls$residencia/arrabalde
 
       bap$b1730-4/2/3/1730/fl.133v./igreja de santa maria/antonio de mendonca (padre, beneficiado da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1730-4-per1
 
-         pn$francisco henriques/id=b1730-4-per2
-            ls$residencia/a da gorda
+            pn$francisco henriques/id=b1730-4-per2
+               ls$residencia/a da gorda
 
-         mn$teresa maria/id=b1730-4-per3
-            ls$residencia/a da gorda
+            mn$teresa maria/id=b1730-4-per3
+               ls$residencia/a da gorda
 
-         pad1$francisco nogueira de valadares/id=b1730-4-per4
-            ls$residencia/obidos
+            pad1$francisco nogueira de valadares/id=b1730-4-per4
+               ls$residencia/obidos
 
-         mad1$joana maria/id=b1730-4-per5
-            ls$residencia/a da gorda
+            mad1$joana maria/id=b1730-4-per5
+               ls$residencia/a da gorda
 
-         pmad1$manuel francisco/id=b1730-4-per6
-            ls$residencia/a da gorda
+               pmad1$manuel francisco/id=b1730-4-per6
+                  ls$residencia/a da gorda
 
       bap$b1730-5/5/3/1730/fl.134/igreja de santa maria/antonio de mendona (padre, beneficiado da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria madalena/f/id=b1730-5-per1
 
-         pn$francisco de sousa/id=b1730-5-per2
-            ls$residencia/rua nova
+            pn$francisco de sousa/id=b1730-5-per2
+               ls$residencia/rua nova
 
-         mn$maria de freitas/id=b1730-5-per3
-            ls$residencia/rua nova
+            mn$maria de freitas/id=b1730-5-per3
+               ls$residencia/rua nova
 
-         pad1$sebastiao ferreira e silva/id=b1730-5-per4
-            ls$titulo/doutor
-            ls$cargo/economo da igreja de santa maria
+            pad1$sebastiao ferreira e silva/id=b1730-5-per4
+               ls$titulo/doutor
+               ls$cargo/economo da igreja de santa maria
 
-         mad1$maria madalena/id=b1730-5-per5
-            ls$residencia/obidos
+            mad1$maria madalena/id=b1730-5-per5
+               ls$residencia/obidos
 
-         procurador-mad1$antonio gomes matoso/id=b1730-5-per6
-            ls$residencia/obidos
+            procurador-mad1$antonio gomes matoso/id=b1730-5-per6
+               ls$residencia/obidos
 
       bap$b1730-6/19/3/1730/fl.134/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$julio/m/id=b1730-6-per1
             ls$datanasc/17290308
 
-         pn$manuel ferreira/id=b1730-6-per2
-            ls$residencia/casais de alentejo
+            pn$manuel ferreira/id=b1730-6-per2
+               ls$residencia/casais de alentejo
 
-         mn$maria henriques/id=b1730-6-per3
-            ls$residencia/casais de alentejo
+            mn$maria henriques/id=b1730-6-per3
+               ls$residencia/casais de alentejo
 
-         pad1$manuel vaz correia/id=b1730-6-per4
-            ls$residencia/peniche
+            pad1$manuel vaz correia/id=b1730-6-per4
+               ls$residencia/peniche
 
-         procurador-pad1$antonio monteiro/id=b1730-6-ant
-            ls$residencia/capeleira
+            procurador-pad1$antonio monteiro/id=b1730-6-ant
+               ls$residencia/capeleira
 
-         mad1$teresa eufrasia da conceicao/id=b1730-6-per5
-            ls$residencia/peniche
+            mad1$teresa eufrasia da conceicao/id=b1730-6-per5
+               ls$residencia/peniche
 
-         procuradora-mad1$antonia maria/id=b1730-6-per6
-            ls$residencia/capeleira
+            procuradora-mad1$antonia maria/id=b1730-6-per6
+               ls$residencia/capeleira
 
-         mrmad1$antonio monteiro/mesmo_que=b1730-6-ant/id=b1730-6-per7
-            ls$residencia/capeleira
+            mrmad1$antonio monteiro/mesmo_que=b1730-6-ant/id=b1730-6-per7
+               ls$residencia/capeleira
 
       bap$b1730-7/2/4/1730/fl.134/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1730-7-manuel
             ls$enjeitado/sim/obs="filho de pais imcognitos o qual foi achado no rebalde desta villa a porta de antonio ferreyra e o cria marianna da comceycao molher do dito antonio ferreira"
 
-         pn$nome desconhecido/id=b1730-7-per1
+            pn$nome desconhecido/id=b1730-7-per1
 
-         mn$nome desconhecido/id=b1730-7-per2
+            mn$nome desconhecido/id=b1730-7-per2
 
-         pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1730-7-per3
+            pad1$manuel de leao e almeida/mesmo_que=b1729-3-leao/id=b1730-7-per3
 
-         referida$mariana da conceicao/id=b1730-7-mari
-            ls$residencia/arrabalde
-            rel$sociabilidade/ama/manuel/b1730-7-manuel
+            referida$mariana da conceicao/id=b1730-7-mari
+               ls$residencia/arrabalde
+               rel$sociabilidade/ama/manuel/b1730-7-manuel
 
-         referido$antonio ferreira/id=b1730-7-per4
-            ls$residencia/arrabalde
-            rel$parentesco/marido/mariana da conceicao/b1730-7-mari
-            rel$sociabilidade/achou a crianca/manuel/b1730-7-manuel
+            referido$antonio ferreira/id=b1730-7-per4
+               ls$residencia/arrabalde
+               rel$parentesco/marido/mariana da conceicao/b1730-7-mari
+               rel$sociabilidade/achou a crianca/manuel/b1730-7-manuel
 
       bap$b1730-8/4/4/1730/fl.134v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1730-8-jose
             ls$datanasc/17300316
 
-         pn$antonio de almeida e seixas/id=b1730-8-per1
+            pn$antonio de almeida e seixas/id=b1730-8-per1
 
-         mn$antonia maria baraxa/id=b1730-8-per2
+            mn$antonia maria baraxa/id=b1730-8-per2
 
-         pad1$joao henriques de azevedo/id=b1730-8-per3
-            ls$titulo/dom
-            ls$residencia/rolica
+            pad1$joao henriques de azevedo/id=b1730-8-per3
+               ls$titulo/dom
+               ls$residencia/rolica
 
-         mad1$maria teresa da rosa/id=b1730-8-per4
-            ls$residencia/quinta do coronel bernardo freire
-            ls$residencia/rua direita, casa dos pais do baptizado
-            rel$parentesco/avo/jose/b1730-8-jose
+            mad1$maria teresa da rosa/id=b1730-8-per4
+               ls$residencia/quinta do coronel bernardo freire
+               ls$residencia/rua direita, casa dos pais do baptizado
+               rel$parentesco/avo/jose/b1730-8-jose
 
-         referido$bernardo freire/id=b1730-8-per5
-            ls$cargo/coronel
+            referido$bernardo freire/id=b1730-8-per5
+               ls$cargo/coronel
 
       bap$b1730-9/5/4/1730/fl.134v./igreja de santa maria/jose barbosa neves (padre, economo da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$manuel/m/id=b1730-9-manuel
             ls$datanasc/17300330
 
-         pn$luis fernandes/id=b1730-9-per1
-            ls$residencia/casais de alentejo
+            pn$luis fernandes/id=b1730-9-per1
+               ls$residencia/casais de alentejo
 
-         mn$josefa maria/id=b1730-9-per2
-            ls$residencia/casais de alentejo
+            mn$josefa maria/id=b1730-9-per2
+               ls$residencia/casais de alentejo
 
-         pad1$manuel leal henriques/id=b1730-9-per3
-            ls$profissao/padre
-            ls$cargo/cura da igreja de santa pedro
+            pad1$manuel leal henriques/id=b1730-9-per3
+               ls$profissao/padre
+               ls$cargo/cura da igreja de santa pedro
 
-         mad1$silvestra leal/id=b1730-9-per4
-            rel$parentesco/irma/manuel/b1730-9-manuel
+            mad1$silvestra leal/id=b1730-9-per4
+               rel$parentesco/irma/manuel/b1730-9-manuel
 
-         procurador-mad1$filipe gomes/id=b1730-9-per5
-            ls$profissao/padre
-            ls$cargo/tesoureiro da igreja de santa maria
+            procurador-mad1$filipe gomes/id=b1730-9-per5
+               ls$profissao/padre
+               ls$cargo/tesoureiro da igreja de santa maria
 
       bap$b1730-10/23/4/1730/fl.134v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$frutuoso/m/id=b1730-10-per1
             ls$datanasc/17300416
 
-         pn$gaspar antunes/id=b1730-10-per2
-            ls$residencia/obidos
+            pn$gaspar antunes/id=b1730-10-per2
+               ls$residencia/obidos
 
-         mn$maria da silva/id=b1730-10-per3
-            ls$residencia/obidos
+            mn$maria da silva/id=b1730-10-per3
+               ls$residencia/obidos
 
-         pad1$manuel gomes de gois/id=b1730-10-per4
-            ls$residencia/obidos
+            pad1$manuel gomes de gois/id=b1730-10-per4
+               ls$residencia/obidos
 
-         mad1$maria inacia/id=b1730-10-per5
-            ls$residencia/obidos
+            mad1$maria inacia/id=b1730-10-per5
+               ls$residencia/obidos
 
-         pmad1$manuel soares/id=b1730-10-per6
-            ls$residencia/obidos
-            ls$profissao/carpinteiro
+               pmad1$manuel soares/id=b1730-10-per6
+                  ls$residencia/obidos
+                  ls$profissao/carpinteiro
 
       bap$b1730-11/23/4/1730/fl.135/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$rita/f/id=b1730-11-per1
             ls$datanasc/17300413
 
-         pn$manuel antonio/id=b1730-11-per2
-            ls$profissao/alfaiate
-            ls$residencia/a da gorda
+            pn$manuel antonio/id=b1730-11-per2
+               ls$profissao/alfaiate
+               ls$residencia/a da gorda
 
-         mn$teresa de jesus/id=b1730-11-per3
-            ls$residencia/a da gorda
+            mn$teresa de jesus/id=b1730-11-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel luis/id=b1730-11-per4
-            ls$residencia/a da gorda
+            pad1$manuel luis/id=b1730-11-per4
+               ls$residencia/a da gorda
 
-         mad1$ana micaela/id=b1730-11-per5
-            ls$residencia/a da gorda
+            mad1$ana micaela/id=b1730-11-per5
+               ls$residencia/a da gorda
 
       bap$b1730-12/7/5/1730/fl.135/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$genoveva/f/id=b1730-12-per1
             ls$datanasc/17300501
 
-         pn$jose henriques/id=b1730-12-per2
-            ls$residencia/a da gorda
+            pn$jose henriques/id=b1730-12-per2
+               ls$residencia/a da gorda
 
-         mn$catarina soares/id=b1730-12-per3
-            ls$residencia/a da gorda
+            mn$catarina soares/id=b1730-12-per3
+               ls$residencia/a da gorda
 
-         pad1$caetano da silva/id=b1730-12-per4
+            pad1$caetano da silva/id=b1730-12-per4
 
-         ppad1$diogo da silva/id=b1730-12-per5
+               ppad1$diogo da silva/id=b1730-12-per5
 
-         mad1$helena da cruz/id=b1730-12-per6
-            ls$residencia/a da gorda
+            mad1$helena da cruz/id=b1730-12-per6
+               ls$residencia/a da gorda
 
-         pmad1$andre ribeiro/id=b1730-12-per7
-            ls$residencia/a da gorda
+               pmad1$andre ribeiro/id=b1730-12-per7
+                  ls$residencia/a da gorda
 
       bap$b1730-13/10/5/1730/fl.135/igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1730-13-per1
             ls$datanasc/17300502
 
-         pn$luis rodrigues/id=b1730-13-per2
-            ls$residencia/rua do poco, junto ao postigo
+            pn$luis rodrigues/id=b1730-13-per2
+               ls$residencia/rua do poco, junto ao postigo
 
-         mn$maria teresa/id=b1730-13-per3
-            ls$residencia/rua do poco, junto ao postigo
+            mn$maria teresa/id=b1730-13-per3
+               ls$residencia/rua do poco, junto ao postigo
 
-         pad1$jose leonardo e seixas/id=b1730-13-jose
+            pad1$jose leonardo e seixas/id=b1730-13-jose
 
-         mad1$maria caetana/id=b1730-13-per4
-            ls$titulo/dona
+            mad1$maria caetana/id=b1730-13-per4
+               ls$titulo/dona
 
-         procurador-mad1$alexandre de seixas/id=b1730-13-per5
-            rel$parentesco/irmao/jose leonardo e seixas/b1730-13-jose
+            procurador-mad1$alexandre de seixas/id=b1730-13-per5
+               rel$parentesco/irmao/jose leonardo e seixas/b1730-13-jose
 
       bap$b1730-14/28/5/1730/fl.135/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1730-14-jose/obs=baptizado em casa por nascer fraco
             ls$datanasc/17300516
 
-         pn$manuel de leao e almeida/id=b1730-14-per1
-            ls$residencia/rua nova
+            pn$manuel de leao e almeida/id=b1730-14-per1
+               ls$residencia/rua nova
 
-         mn$maria antonia/id=b1730-14-per2
-            ls$residencia/rua nova
+            mn$maria antonia/id=b1730-14-per2
+               ls$residencia/rua nova
 
-         pad1$manuel gomes de gois/id=b1730-14-per3
-            ls$profissao/cerieiro%cerieyro
-            ls$residencia/obidos
-            rel$sociabilidade/baptizou em necessidade/jose/b1730-14-jose
+            pad1$manuel gomes de gois/id=b1730-14-per3
+               ls$profissao/cerieiro%cerieyro
+               ls$residencia/obidos
+               rel$sociabilidade/baptizou em necessidade/jose/b1730-14-jose
 
       bap$b1730-15/13/8/1730/fl.135v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$jose/m/id=b1730-15-per1
             ls$datanasc/17300804
 
-         pn$francisco de lemos/id=b1730-15-per2
-            ls$residencia/a da gorda
+            pn$francisco de lemos/id=b1730-15-per2
+               ls$residencia/a da gorda
 
-         mn$mariana da silva/id=b1730-15-per3
-            ls$residencia/a da gorda
+            mn$mariana da silva/id=b1730-15-per3
+               ls$residencia/a da gorda
 
-         pad1$jose mergulhao de matos/id=b1730-15-per4
-            ls$profissao/padre
+            pad1$jose mergulhao de matos/id=b1730-15-per4
+               ls$profissao/padre
 
-         mad1$maria de sao bernardo/id=b1730-15-sao
+            mad1$maria de sao bernardo/id=b1730-15-sao
 
-         procurador-mad1$jose correia pimentel/id=b1730-15-per5
-            rel$parentesco/irmao/maria de sao bernardo/b1730-15-sao
+            procurador-mad1$jose correia pimentel/id=b1730-15-per5
+               rel$parentesco/irmao/maria de sao bernardo/b1730-15-sao
 
       bap$b1730-16/13/8/1730/fl.135v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1730-16-per1
             ls$titulo/dona
 
-         pn$joaquim manuel da costa/id=b1730-16-per2
-            ls$residencia/gaeiras
+            pn$joaquim manuel da costa/id=b1730-16-per2
+               ls$residencia/gaeiras
 
-         mn$lourenca maria teresa de lacerda/id=b1730-16-per3
-            ls$titulo/dona
-            ls$residencia/gaeiras
+            mn$lourenca maria teresa de lacerda/id=b1730-16-per3
+               ls$titulo/dona
+               ls$residencia/gaeiras
 
-         pad1$rui vaz de sequeira freire/id=b1730-16-per4
-            ls$residencia/lisboa
+            pad1$rui vaz de sequeira freire/id=b1730-16-per4
+               ls$residencia/lisboa
 
-         procurador-pad1$bras antunes correia/id=b1730-16-per5
-            ls$cargo/prior da igreja de sao joao
+            procurador-pad1$bras antunes correia/id=b1730-16-per5
+               ls$cargo/prior da igreja de sao joao
 
-         mad1$antonia maria xavier/id=b1730-16-per6
-            ls$titulo/dona
+            mad1$antonia maria xavier/id=b1730-16-per6
+               ls$titulo/dona
 
-         pmad1$antonio gomes matoso/id=b1730-16-per7
+               pmad1$antonio gomes matoso/id=b1730-16-per7
 
       bap$b1730-17/17/8/1730/fl.135v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$lourenca/f/id=b1730-17-lour
             ls$enjeitada/sim/obs="emgeitada a qual lourenca foi achada nesta villa a porta de manoel leal ferreiro em onze do dito mes de agosto e o cria maria antunes molher de manoel gomes da do franco de santo antonio"
 
-         pn$nome desconhecido/id=b1730-17-per1
+            pn$nome desconhecido/id=b1730-17-per1
 
-         mn$nome desconhecido/id=b1730-17-per2
+            mn$nome desconhecido/id=b1730-17-per2
 
-         pad1$paulo de sequeiro/id=b1730-17-per3
-            ls$cargo/tesoureiro da igreja de santa maria
+            pad1$paulo de sequeiro/id=b1730-17-per3
+               ls$cargo/tesoureiro da igreja de santa maria
 
-         referido$manuel leal ferreiro/id=b1730-17-per4
+            referido$manuel leal ferreiro/id=b1730-17-per4
 
-         referida$maria antunes/id=b1730-17-mar
-            ls$residencia/a do franco de santo antonio
-            rel$sociabilidade/ama/lourenca/b1730-17-lour
+            referida$maria antunes/id=b1730-17-mar
+               ls$residencia/a do franco de santo antonio
+               rel$sociabilidade/ama/lourenca/b1730-17-lour
 
-         referido$manuel gomes/id=b1730-17-per5
-            ls$residencia/a do franco de santo antonio
-            rel$parentesco/marido/maria antunes/b1730-17-mar
+            referido$manuel gomes/id=b1730-17-per5
+               ls$residencia/a do franco de santo antonio
+               rel$parentesco/marido/maria antunes/b1730-17-mar
 
-         referido$manuel leal/id=b1730-17-per6
-            ls$profissao/ferreiro
-            ls$residencia/obidos
-            rel$sociabilidade/achou a crianca/lourenca/b1730-17-lour
+            referido$manuel leal/id=b1730-17-per6
+               ls$profissao/ferreiro
+               ls$residencia/obidos
+               rel$sociabilidade/achou a crianca/lourenca/b1730-17-lour
 
       bap$b1730-18/3/9/1730/fl.135v./igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1730-18-per1
             ls$datanasc/1730
 
-         pn$francisco soares/id=b1730-18-per2
-            ls$profissao/carpinteiro
-            ls$residencia/moinhos de matatripas
+            pn$francisco soares/id=b1730-18-per2
+               ls$profissao/carpinteiro
+               ls$residencia/moinhos de matatripas
 
-         mn$isabel maria/id=b1730-18-per3
-            ls$residencia/moinho de matatripas
+            mn$isabel maria/id=b1730-18-per3
+               ls$residencia/moinho de matatripas
 
-         pad1$jose leonardo e seixas/id=b1730-18-per4
-            ls$residencia/obidos
+            pad1$jose leonardo e seixas/id=b1730-18-per4
+               ls$residencia/obidos
 
-         mad1$maria caetana e freire/id=b1730-18-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$maria caetana e freire/id=b1730-18-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         procurador-mad1$alexandre de seixas/id=b1730-18-per6
-            ls$residencia/obidos
+            procurador-mad1$alexandre de seixas/id=b1730-18-per6
+               ls$residencia/obidos
 
       bap$b1730-19/1/10/1730/fl.136/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$maria/f/id=b1730-19-per1
 
-         pn$estevao correia malhao/id=b1730-19-per2
-            ls$residencia/arrabalde
+            pn$estevao correia malhao/id=b1730-19-per2
+               ls$residencia/arrabalde
 
-         mn$catarina gerarda/id=b1730-19-per3
-            ls$residencia/arrabalde
+            mn$catarina gerarda/id=b1730-19-per3
+               ls$residencia/arrabalde
 
-         pad1$joao monteiro/id=b1730-19-per4
-            ls$cargo/beneficiado
-            ls$residencia/lisboa
+            pad1$joao monteiro/id=b1730-19-per4
+               ls$cargo/beneficiado
+               ls$residencia/lisboa
 
-         mpad2$sebastiao inacio figueira/id=b1730-19-per5
-            ls$cargo/beneficiado da igreja de santa maria
+            mpad2$sebastiao inacio figueira/id=b1730-19-per5
+               ls$cargo/beneficiado da igreja de santa maria
 
       bap$b1730-20/16/10/1730/fl.136/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$francisco/m/id=b1730-20-fran/obs=baptizado em casa por nascer fraco
             ls$datanasc/17301009
 
-         pn$manuel de arruda/id=b1730-20-per1
+            pn$manuel de arruda/id=b1730-20-per1
 
-         mn$anastasia feliciana clara/id=b1730-20-per2
+            mn$anastasia feliciana clara/id=b1730-20-per2
 
-         pad1$manuel antonio e sousa/id=b1730-20-sousa
-            ls$residencia/foz
+            pad1$manuel antonio e sousa/id=b1730-20-sousa
+               ls$residencia/foz
 
-         procurador-pad1$diogo de arruda/id=b1730-20-per3
-            ls$cargo/capitao
-            rel$parentesco/avo/manuel antonio e sousa/b1730-20-sousa
+            procurador-pad1$diogo de arruda/id=b1730-20-per3
+               ls$cargo/capitao
+               rel$parentesco/avo/manuel antonio e sousa/b1730-20-sousa
 
-         mad1$teresa maria de matos/id=b1730-20-per4
+            mad1$teresa maria de matos/id=b1730-20-per4
 
-         procurador-mad1$antonio jose de arruda/id=b1730-20-per5
+            procurador-mad1$antonio jose de arruda/id=b1730-20-per5
 
             referido$jose de matos/id=b1730-20-per5-per6
                ls$profissao/padre
@@ -2415,57 +2415,57 @@ kleio$gacto.str/prefix=stmaria
          n$maria/f/id=b1730-21-per1
             ls$datanasc/17301020
 
-         pn$manuel rodrigues/id=b1730-21-per2
-            ls$residencia/a da gorda
+            pn$manuel rodrigues/id=b1730-21-per2
+               ls$residencia/a da gorda
 
-         mn$maria de sao bernardo/id=b1730-21-per3
-            ls$residencia/a da gorda
+            mn$maria de sao bernardo/id=b1730-21-per3
+               ls$residencia/a da gorda
 
-         pad1$joao baptista togeiro/id=b1730-21-per4
-            ls$residencia/obidos
+            pad1$joao baptista togeiro/id=b1730-21-per4
+               ls$residencia/obidos
 
-         mad1$maria da silva/id=b1730-21-per5
-            ls$residencia/casais do pinheiro
+            mad1$maria da silva/id=b1730-21-per5
+               ls$residencia/casais do pinheiro
 
-         mrmad1$manuel luis/id=b1730-21-per6
-            ls$residencia/casais do pinheiro
+               mrmad1$manuel luis/id=b1730-21-per6
+                  ls$residencia/casais do pinheiro
 
       bap$b1730-22/22/11/1730/fl.136/igreja de santa maria/jose de matos (padre, cura da igreja de santa maria)/obs=assina o cura jose de matos
 
          n$josefa/f/id=b1730-22-per1
             ls$datanasc/17301115
 
-         pn$jose pereira/id=b1730-22-per2
-            ls$residencia/quinta da pomba, limite de a da gorda
+            pn$jose pereira/id=b1730-22-per2
+               ls$residencia/quinta da pomba, limite de a da gorda
 
-         mn$maria das neves/id=b1730-22-per3
-            ls$residencia/quinta da pomba, limite de a da gorda
+            mn$maria das neves/id=b1730-22-per3
+               ls$residencia/quinta da pomba, limite de a da gorda
 
-         pad1$jose de sequeira/id=b1730-22-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de sao pedro
-            ls$residencia/obidos
+            pad1$jose de sequeira/id=b1730-22-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de sao pedro
+               ls$residencia/obidos
 
-         mad1$josefa maria/id=b1730-22-per5
+            mad1$josefa maria/id=b1730-22-per5
 
-         pmad1$manuel henriques da gra/id=b1730-22-per6
+               pmad1$manuel henriques da gra/id=b1730-22-per6
 
       bap$b1730-23/10/12/1730/fl.136v./igreja de santa maria/manuel leal henriques (padre, cura da igreja de sao pedro)/obs=assina o cura jose de matos
 
          n$joaquim/m/id=b1730-23-per1
             ls$datanasc/17301205
 
-         pn$joao gomes/id=b1730-23-per2
-            ls$residencia/fraldeu
+            pn$joao gomes/id=b1730-23-per2
+               ls$residencia/fraldeu
 
-         mn$maria do espirito santo/id=b1730-23-per3
-            ls$residencia/fraldeu
+            mn$maria do espirito santo/id=b1730-23-per3
+               ls$residencia/fraldeu
 
-         pad1$miguel da silva/id=b1730-23-per4
-            ls$residencia/fraldeu
+            pad1$miguel da silva/id=b1730-23-per4
+               ls$residencia/fraldeu
 
-         mad1$josefa maria/id=b1730-23-per5
-            ls$residencia/obidos
+            mad1$josefa maria/id=b1730-23-per5
+               ls$residencia/obidos
 
-         mrmad1$manuel de lemos/id=b1730-23-per6
-            ls$residencia/obidos
+               mrmad1$manuel de lemos/id=b1730-23-per6
+                  ls$residencia/obidos

@@ -1,4 +1,4 @@
-kleio$gacto2.str/prefix=stmaria
+kleio$gacto2.str/prefix=stmaria/translations=1
    fonte$bap1792-1794/baptismos 1792-1794/obs=a partir de imagens digitalizadas
 
       bap$b1792-1/13/1/1792/fl.23v/igreja de santa maria de obidos/joao carlos da silva
@@ -6,72 +6,72 @@ kleio$gacto2.str/prefix=stmaria
          n$joaquim antonio/m/id=b1792-1-n
             ls$enjeitado/sim/obs=a porta de manuel alvares em 17920113. literal "trazia huma cedula em que dizia se havia chamar joaquim antonio que a seu tempo se procurara trazia huma fita roxa com riscas cor da palha e coeiros cor de vinho e que vinha por baptizar"
 
-         pn$nome desconhecido/id=b1792-1-per1
+            pn$nome desconhecido/id=b1792-1-per1
 
-         mn$nome desconhecido/id=b1792-1-per2
+            mn$nome desconhecido/id=b1792-1-per2
 
-         referido$manuel alvares/id=b1792-1-per3
-            ls$residencia/tornada
-            rel$sociabilidade/achou a crianca/joaquim antonio/b1792-1-n
+            referido$manuel alvares/id=b1792-1-per3
+               ls$residencia/tornada
+               rel$sociabilidade/achou a crianca/joaquim antonio/b1792-1-n
 
-         referida$ana quiteria/id=b1792-1-refa
-            rel$sociabilidade/ama/joaquim antonio/b1792-1-n
+            referida$ana quiteria/id=b1792-1-refa
+               rel$sociabilidade/ama/joaquim antonio/b1792-1-n
 
-         referido$joao cordeiro/id=b1792-1-per4
-            ls$residencia/foz
-            rel$parentesco/marido/ana quiteria/b1792-1-refa
+            referido$joao cordeiro/id=b1792-1-per4
+               ls$residencia/foz
+               rel$parentesco/marido/ana quiteria/b1792-1-refa
 
-         pad$joaquim claudio da silva freire/id=b1792-1-per5
-            ls$cargo/procurador do concelho
+            pad$joaquim claudio da silva freire/id=b1792-1-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-2/29/1/1792/fl.23v/igreja de santa maria de obidos/joao carlos da silva
 
          n$jose/m/id=b1792-2-per1
             ls$datanasc/17920114
 
-         pn$jose francisco/id=b1792-2-per2
-            ls$naturalidade/tras do outeiro, freguesia de sao tiago de obidos
-            ls$locbaptismo/freguesia de sao tiago de obidos
-            ls$loccasamento/freguesia de sao pedro de obidos
-            ls$residencia/obidos
+            pn$jose francisco/id=b1792-2-per2
+               ls$naturalidade/tras do outeiro, freguesia de sao tiago de obidos
+               ls$locbaptismo/freguesia de sao tiago de obidos
+               ls$loccasamento/freguesia de sao pedro de obidos
+               ls$residencia/obidos
 
-         mn$josefa maria/id=b1792-2-per3
-            ls$naturalidade/landal, freguesia de espirito santo
-            ls$locbaptismo/landal, freguesia do espirito santo
+            mn$josefa maria/id=b1792-2-per3
+               ls$naturalidade/landal, freguesia de espirito santo
+               ls$locbaptismo/landal, freguesia do espirito santo
 
-         pad$joao caetano da fonseca neves/id=b1792-2-per4
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad$joao caetano da fonseca neves/id=b1792-2-per4
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad$maria benedita soares veloso fialho de mendonca/id=b1792-2-n
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad$maria benedita soares veloso fialho de mendonca/id=b1792-2-n
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         procurador-mad$luis manuel fialho de mendonca/id=b1792-2-per5
-            ls$residencia/obidos
-            rel$parentesco/irmao/maria benedita soares veloso fialho de mendonca/b1792-2-n
+            procurador-mad$luis manuel fialho de mendonca/id=b1792-2-per5
+               ls$residencia/obidos
+               rel$parentesco/irmao/maria benedita soares veloso fialho de mendonca/b1792-2-n
 
       bap$b1792-3/2/2/1792/fl.23v-24/igreja de santa maria de obidos/joao carlos da silva
 
          n$maria/f/id=b1792-3-per1
             ls$datanasc/17920120
 
-         pn$manuel gomes/id=b1792-3-per2
-            ls$naturalidade/fraldeu, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/fraldeu
+            pn$manuel gomes/id=b1792-3-per2
+               ls$naturalidade/fraldeu, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/fraldeu
 
-         mn$luisa maria/id=b1792-3-per3
-            ls$naturalidade/peso, freguesia de santa catarina
-            ls$locbaptismo/freguesia de santa catarina/obs=coutos de alcobaca
+            mn$luisa maria/id=b1792-3-per3
+               ls$naturalidade/peso, freguesia de santa catarina
+               ls$locbaptismo/freguesia de santa catarina/obs=coutos de alcobaca
 
-         pad$manuel gomes/id=b1792-3-per4
-            ls$residencia/usseira
+            pad$manuel gomes/id=b1792-3-per4
+               ls$residencia/usseira
 
-         mad$cecilia maria/id=b1792-3-per5
-            ls$residencia/usseira
+            mad$cecilia maria/id=b1792-3-per5
+               ls$residencia/usseira
 
       bap$b1792-4/15/2/1792/fl.24/igreja de santa maria de obidos/joao carlos da silva
 
@@ -90,1300 +90,1300 @@ kleio$gacto2.str/prefix=stmaria
                ls$residencia/obidos
                rel$parentesco/marido/maria do nascimento/b1792-4-refa
 
-         pad$manuel caetano do avelar/id=b1792-4-per3
-            ls$cargo/procurador do concelho
+            pad$manuel caetano do avelar/id=b1792-4-per3
+               ls$cargo/procurador do concelho
 
       bap$b1792-5/2/3/1792/fl.24/igreja de santa maria de obidos/joao carlos da silva
 
          n$paulo/m/id=b1792-5-per1
             ls$datanasc/17920222
 
-         pn$joaquim claudio da silva freire/id=b1792-5-per2
-            ls$naturalidade/obidos, freguesia de sao pedro de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
-            ls$loccasamento/ermida de nossa senhora da graca/obs=anexa desta freguesia
-            ls$residencia/obidos
+            pn$joaquim claudio da silva freire/id=b1792-5-per2
+               ls$naturalidade/obidos, freguesia de sao pedro de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
+               ls$loccasamento/ermida de nossa senhora da graca/obs=anexa desta freguesia
+               ls$residencia/obidos
 
-         mn$maria rita do carmo e sequeira/id=b1792-5-per3
-            ls$titulo/dona
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$maria rita do carmo e sequeira/id=b1792-5-per3
+               ls$titulo/dona
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$paulo de sequeira henriques/id=b1792-5-per4
-            ls$titulo/reverendo
-            ls$cargo/beneficiado
-            ls$residencia/obidos
-            rel$parentesco/tio/jose joaquim de sequeira/b1792-5-pro
+            pad$paulo de sequeira henriques/id=b1792-5-per4
+               ls$titulo/reverendo
+               ls$cargo/beneficiado
+               ls$residencia/obidos
+               rel$parentesco/tio/jose joaquim de sequeira/b1792-5-pro
 
-         procurador-pad$jose joaquim de sequeira/id=b1792-5-pro
+            procurador-pad$jose joaquim de sequeira/id=b1792-5-pro
 
       bap$b1792-6/11/3/1792/fl.24/igreja de santa maria de obidos/joao carlos da silva
 
          n$gerarda/f/id=b1792-6-per1
             ls$datanasc/17920206
 
-         pn$jose martins/id=b1792-6-per2
-            ls$naturalidade/obidos, freguesia de sao pedro de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
-            ls$loccasamento/freguesia de sao pedro de obidos
-            ls$residencia/obidos
+            pn$jose martins/id=b1792-6-per2
+               ls$naturalidade/obidos, freguesia de sao pedro de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
+               ls$loccasamento/freguesia de sao pedro de obidos
+               ls$residencia/obidos
 
-         mn$barbara dos santos/id=b1792-6-per3
-            ls$naturalidade/famalicao, freguesia de nossa senhora da vitoria/obs=coutos de alcobaca
-            ls$locbaptismo/freguesia de nossa senhora da vitoria
+            mn$barbara dos santos/id=b1792-6-per3
+               ls$naturalidade/famalicao, freguesia de nossa senhora da vitoria/obs=coutos de alcobaca
+               ls$locbaptismo/freguesia de nossa senhora da vitoria
 
-         pad$joaquim de santa ana/id=b1792-6-per4
-            ls$residencia/obidos
+            pad$joaquim de santa ana/id=b1792-6-per4
+               ls$residencia/obidos
 
-         mad$gerarda joaquina/id=b1792-6-per5
+            mad$gerarda joaquina/id=b1792-6-per5
 
       bap$b1792-7/12/3/1792/fl.24v/igreja de santa maria de obidos/joao carlos da silva
 
          n$feliz/m/id=b1792-7-per1
             ls$datanasc/17920304
 
-         pn$lefiz jose sobral/id=b1792-7-per2
-            ls$naturalidade/lisboa, freguesia de nossa senhora da pena
-            ls$locbaptismo/lisboa, freguesia de nossa senhora da pena
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/freguesia de santa maria de obidos
+            pn$lefiz jose sobral/id=b1792-7-per2
+               ls$naturalidade/lisboa, freguesia de nossa senhora da pena
+               ls$locbaptismo/lisboa, freguesia de nossa senhora da pena
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/freguesia de santa maria de obidos
 
-         mn$gertrudes de santa rita/id=b1792-7-per3
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$gertrudes de santa rita/id=b1792-7-per3
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$jeronimo pedro fialho de mendonca/id=b1792-7-per4
-            ls$titulo/reverendo
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            pad$jeronimo pedro fialho de mendonca/id=b1792-7-per4
+               ls$titulo/reverendo
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
       bap$b1792-8/1/4/1792/fl.24v/igreja de santa maria de obidos/joao carlos da silva
 
          n$joaquim/m/id=b1792-8-per1
             ls$datanasc/17920315
 
-         pn$manuel de azevedo/id=b1792-8-per2
-            ls$naturalidade/baracais, freguesia de nossa senhora da purificacao da rolica
-            ls$locbaptismo/freguesia de nossa senhora da purificacao da rolica
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/quinta da granja
+            pn$manuel de azevedo/id=b1792-8-per2
+               ls$naturalidade/baracais, freguesia de nossa senhora da purificacao da rolica
+               ls$locbaptismo/freguesia de nossa senhora da purificacao da rolica
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/quinta da granja
 
-         mn$maria joana/id=b1792-8-per3
-            ls$naturalidade/a da gorda
-            ls$freguesia/santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$maria joana/id=b1792-8-per3
+               ls$naturalidade/a da gorda
+               ls$freguesia/santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$antonio luis/id=b1792-8-per4
-            ls$residencia/a da gorda
+            pad$antonio luis/id=b1792-8-per4
+               ls$residencia/a da gorda
 
-         mad$josefa maria/id=b1792-8-per5
-            ls$residencia/a da gorda
+            mad$josefa maria/id=b1792-8-per5
+               ls$residencia/a da gorda
 
       bap$b1792-9/20/4/1792/fl.24v/igreja de santa maria de obidos/joao carlos da silva
 
          n$jose/m/id=b1792-9-per1
             ls$datanasc/17920405
 
-         pn$estevao da costa/id=b1792-9-per2
-            ls$naturalidade/serra do bouro, freguesia de nossa senhora dos martires
-            ls$locbaptismo/freguesia de nossa senhora dos martires
-            ls$loccasamento/freguesia de sao pedro de obidos
-            ls$residencia/obidos
+            pn$estevao da costa/id=b1792-9-per2
+               ls$naturalidade/serra do bouro, freguesia de nossa senhora dos martires
+               ls$locbaptismo/freguesia de nossa senhora dos martires
+               ls$loccasamento/freguesia de sao pedro de obidos
+               ls$residencia/obidos
 
-         mn$ana joaquina/id=b1792-9-per3
-            ls$naturalidade/casal do pinheiro, freguesia de sao pedro de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
+            mn$ana joaquina/id=b1792-9-per3
+               ls$naturalidade/casal do pinheiro, freguesia de sao pedro de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
 
-         pad$joaquim soares/id=b1792-9-per4
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad$joaquim soares/id=b1792-9-per4
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
       bap$b1792-10/22/4/1792/fl.24v/igreja de santa maria de obidos/joao carlos da silva
 
          n$marcelino/m/id=b1792-10-n
             ls$enjeitado/sim/obs=a porta de domingos dos santos em 17920407
 
-         pn$nome desconhecido/id=b1792-10-per1
+            pn$nome desconhecido/id=b1792-10-per1
 
-         mn$nome desconhecido/id=b1792-10-per2
+            mn$nome desconhecido/id=b1792-10-per2
 
-         referido$domingos dos santos/id=b1792-10-per3
-            ls$residencia/barracal/obs=duvida.termo desta vila. em lateral esta escrito a dos negros
-            rel$sociabilidade/achou a crianca/marcelino/b1792-10-n
-            rel$parentesco/marido/ana maria/b1792-10-refa
+            referido$domingos dos santos/id=b1792-10-per3
+               ls$residencia/barracal/obs=duvida.termo desta vila. em lateral esta escrito a dos negros
+               rel$sociabilidade/achou a crianca/marcelino/b1792-10-n
+               rel$parentesco/marido/ana maria/b1792-10-refa
 
-         referida$ana maria/id=b1792-10-refa
-            rel$sociabilidade/ama/marcelino/b1792-10-n
+            referida$ana maria/id=b1792-10-refa
+               rel$sociabilidade/ama/marcelino/b1792-10-n
 
-         pad$manuel caetano de avelar/id=b1792-10-per4
-            ls$cargo/procurador do concelho
+            pad$manuel caetano de avelar/id=b1792-10-per4
+               ls$cargo/procurador do concelho
 
       bap$b1792-11/22/4/1792/fl.25/igreja de santa maria de obidos/joao carlos da silva
 
          n$galdina/f/id=b1792-11-n
             ls$enjeitada/sim/obs=a porta de antonio pereira em 17920418
 
-         pn$nome desconhecido/id=b1792-11-per1
+            pn$nome desconhecido/id=b1792-11-per1
 
-         mn$nome desconhecido/id=b1792-11-per2
+            mn$nome desconhecido/id=b1792-11-per2
 
-         referido$antonio pereira/id=b1792-11-per3
-            ls$residencia/sobral do perilhao
-            rel$sociabilidade/achou a crianca/galdina/b1792-11-n
-            rel$parentesco/marido/joana maria/b1792-11-refa
+            referido$antonio pereira/id=b1792-11-per3
+               ls$residencia/sobral do perilhao
+               rel$sociabilidade/achou a crianca/galdina/b1792-11-n
+               rel$parentesco/marido/joana maria/b1792-11-refa
 
-         referida$joana maria/id=b1792-11-refa
-            rel$sociabilidade/ama/galdina/b1792-11-n
+            referida$joana maria/id=b1792-11-refa
+               rel$sociabilidade/ama/galdina/b1792-11-n
 
-         pad$manuel caetano de avelar/id=b1792-11-per4
-            ls$cargo/procurador do concelho
+            pad$manuel caetano de avelar/id=b1792-11-per4
+               ls$cargo/procurador do concelho
 
       bap$b1792-12/22/4/1792/fl.25/igreja de santa maria de obidos/joao carlos da silva
 
          n$anselmo/m/id=b1792-12-n
             ls$enjeitado/sim/obs=a porta de francisco de matos em 17920422
 
-         pn$nome desconhecido/id=b1792-12-per1
+            pn$nome desconhecido/id=b1792-12-per1
 
-         mn$nome desconhecido/id=b1792-12-per2
+            mn$nome desconhecido/id=b1792-12-per2
 
-         referido$francisco de matos/id=b1792-12-per3
-            ls$profissao/sapateiro
-            ls$residencia/a dos negros
-            rel$sociabilidade/achou a crianca/anselmo/b1792-12-n
+            referido$francisco de matos/id=b1792-12-per3
+               ls$profissao/sapateiro
+               ls$residencia/a dos negros
+               rel$sociabilidade/achou a crianca/anselmo/b1792-12-n
 
-         referida$barbara dos santos/id=b1792-12-refa
-            rel$sociabilidade/ama/anselmo/b1792-12-n
+            referida$barbara dos santos/id=b1792-12-refa
+               rel$sociabilidade/ama/anselmo/b1792-12-n
 
-         referido$jose martins/id=b1792-12-per4
-            ls$alcunha/ponca/obs=duvida
-            ls$residencia/arrabalde
-            rel$parentesco/marido/barbara dos santos/b1792-12-refa
+            referido$jose martins/id=b1792-12-per4
+               ls$alcunha/ponca/obs=duvida
+               ls$residencia/arrabalde
+               rel$parentesco/marido/barbara dos santos/b1792-12-refa
 
-         pad$manuel caetano de avelar/id=b1792-12-per5
-            ls$cargo/procurador do concelho
+            pad$manuel caetano de avelar/id=b1792-12-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-13/20/5/1792/fl.25/igreja de santa maria de obidos/joao carlos da silva
 
          n$ana/f/id=b1792-13-per1
             ls$datanasc/17920504
 
-         pn$francisco gomes/id=b1792-13-per2
-            ls$naturalidade/ribeira das caldas, freguesia de sao tiago de obidos
-            ls$locbaptismo/freguesia de sao tiago de obidos
-            ls$loccasamento/caldas da rainha, nossa senhora do populo
-            ls$residencia/gaeiras de sao marcos
+            pn$francisco gomes/id=b1792-13-per2
+               ls$naturalidade/ribeira das caldas, freguesia de sao tiago de obidos
+               ls$locbaptismo/freguesia de sao tiago de obidos
+               ls$loccasamento/caldas da rainha, nossa senhora do populo
+               ls$residencia/gaeiras de sao marcos
 
-         mn$joaquina maria/id=b1792-13-per3
-            ls$naturalidade/casal branco, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$joaquina maria/id=b1792-13-per3
+               ls$naturalidade/casal branco, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$manuel inacio vieira/id=b1792-13-per4
-            ls$residencia/caldas da rainha
+            pad$manuel inacio vieira/id=b1792-13-per4
+               ls$residencia/caldas da rainha
 
-         mad$ana joaquina/id=b1792-13-mad
+            mad$ana joaquina/id=b1792-13-mad
 
-         procurador-pad$manuel rebelo/id=b1792-13-per5
-            ls$residencia/gaeiras
-            rel$parentesco/pai/ana joaquina/b1792-13-mad
+            procurador-pad$manuel rebelo/id=b1792-13-per5
+               ls$residencia/gaeiras
+               rel$parentesco/pai/ana joaquina/b1792-13-mad
 
       bap$b1792-14/24/6/1792/fl.25-25v/igreja de santa maria de obidos/joao carlos da silva
 
          n$joana/f/id=b1792-14-per1
             ls$datanasc/17920614
 
-         pn$antonio da costa/id=b1792-14-per2
-            ls$naturalidade/casal da bochardia, freguesia de sao tiago de obidos
-            ls$locbaptismo/freguesia de sao tiago de obidos
+            pn$antonio da costa/id=b1792-14-per2
+               ls$naturalidade/casal da bochardia, freguesia de sao tiago de obidos
+               ls$locbaptismo/freguesia de sao tiago de obidos
 
-         mn$maria do rosario/id=b1792-14-per3
-            ls$naturalidade/vermelha
-            ls$freguesia/sao simao
-            ls$residencia/casal da memoria
+            mn$maria do rosario/id=b1792-14-per3
+               ls$naturalidade/vermelha
+               ls$freguesia/sao simao
+               ls$residencia/casal da memoria
 
-         pad$roberto francisco/id=b1792-14-per4
-            ls$residencia/ribeira das caldas
+            pad$roberto francisco/id=b1792-14-per4
+               ls$residencia/ribeira das caldas
 
-         mad$vitoria teresa da costa/id=b1792-14-per5
-            ls$residencia/casal da figueira
+            mad$vitoria teresa da costa/id=b1792-14-per5
+               ls$residencia/casal da figueira
 
       bap$b1792-15/24/6/1792/fl.25v/igreja de santa maria de obidos/joao carlos da silva
 
          n$joana baptista/f/id=b1792-15-n
             ls$enjeitada/sim/obs=a porta de jose francisco alberto em 17920624
 
-         pn$nome desconhecido/id=b1792-15-per1
+            pn$nome desconhecido/id=b1792-15-per1
 
-         mn$nome desconhecido/id=b1792-15-per2
+            mn$nome desconhecido/id=b1792-15-per2
 
-         referido$jose francisco alberto/id=b1792-15-per3
-            ls$residencia/casal da figueira
-            rel$sociabilidade/achou a crianca/joana baptista/b1792-15-n
+            referido$jose francisco alberto/id=b1792-15-per3
+               ls$residencia/casal da figueira
+               rel$sociabilidade/achou a crianca/joana baptista/b1792-15-n
 
-         referida$maria lucia/id=b1792-15-refa
-            rel$sociabilidade/ama/joana baptista/b1792-15-n
+            referida$maria lucia/id=b1792-15-refa
+               rel$sociabilidade/ama/joana baptista/b1792-15-n
 
-         referido$joaquim manuel/id=b1792-15-per4
-            ls$residencia/usseira
-            rel$parentesco/marido/maria lucia/b1792-15-refa
+            referido$joaquim manuel/id=b1792-15-per4
+               ls$residencia/usseira
+               rel$parentesco/marido/maria lucia/b1792-15-refa
 
-         pad$manuel caetano do avelar/id=b1792-15-per5
-            ls$cargo/procurador do concelho
+            pad$manuel caetano do avelar/id=b1792-15-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-16/2/7/1792/fl.25v/igreja de santa maria de obidos/joao carlos da silva
 
          n$maria da visitacao/f/id=b1792-16-n
             ls$enjeitada/sim/obs=a porta de gregorio jose em 17920701
 
-         pn$nome desconhecido/id=b1792-16-per1
+            pn$nome desconhecido/id=b1792-16-per1
 
-         mn$nome desconhecido/id=b1792-16-per2
+            mn$nome desconhecido/id=b1792-16-per2
 
-         referido$gregorio jose/id=b1792-16-per3
-            ls$residencia/casal da figueira
-            rel$sociabilidade/achou a crianca/maria da visitacao/b1792-16-n
+            referido$gregorio jose/id=b1792-16-per3
+               ls$residencia/casal da figueira
+               rel$sociabilidade/achou a crianca/maria da visitacao/b1792-16-n
 
-         referida$maria do carmo/id=b1792-16-refa
-            rel$sociabilidade/ama/maria da visitacao/b1792-16-n
+            referida$maria do carmo/id=b1792-16-refa
+               rel$sociabilidade/ama/maria da visitacao/b1792-16-n
 
-         referido$jose antonio/id=b1792-16-per4
-            ls$cargo/alcaide/obs=de obidos
-            ls$residencia/obidos
-            rel$parentesco/marido/maria do carmo/b1792-16-refa
+            referido$jose antonio/id=b1792-16-per4
+               ls$cargo/alcaide/obs=de obidos
+               ls$residencia/obidos
+               rel$parentesco/marido/maria do carmo/b1792-16-refa
 
-         pad$manuel caetano do avelar/id=b1792-16-per5
-            ls$cargo/procurador do concelho
+            pad$manuel caetano do avelar/id=b1792-16-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-17/6/7/1792/fl.25v/igreja de santa maria de obidos/joao carlos da silva
 
          n$maria atanasia/f/id=b1792-17-n
             ls$enjeitada/sim/obs=a porta de vitoriano de sousa em 17920705
 
-         pn$nome desconhecido/id=b1792-17-per1
+            pn$nome desconhecido/id=b1792-17-per1
 
-         mn$nome desconhecido/id=b1792-17-per2
+            mn$nome desconhecido/id=b1792-17-per2
 
-         referido$vitoriano de sousa/id=b1792-17-per3
-            ls$residencia/cutem/obs=termo da vila
-            rel$sociabilidade/achou a crianca/maria atanasia/b1792-17-n
+            referido$vitoriano de sousa/id=b1792-17-per3
+               ls$residencia/cutem/obs=termo da vila
+               rel$sociabilidade/achou a crianca/maria atanasia/b1792-17-n
 
-         referida$josefa maria/id=b1792-17-refa
-            rel$sociabilidade/ama/maria atanasia/b1792-17-n/obs=levou a para criar no mesmo dia
+            referida$josefa maria/id=b1792-17-refa
+               rel$sociabilidade/ama/maria atanasia/b1792-17-n/obs=levou a para criar no mesmo dia
 
-         referido$nicolau de sousa/id=b1792-17-per4
-            ls$residencia/cutem
-            ls$residencia/obidos
-            rel$parentesco/marido/josefa maria/b1792-17-refa
+            referido$nicolau de sousa/id=b1792-17-per4
+               ls$residencia/cutem
+               ls$residencia/obidos
+               rel$parentesco/marido/josefa maria/b1792-17-refa
 
-         pad$manuel caetano do avelar/id=b1792-17-per5
-            ls$cargo/procurador do concelho
+            pad$manuel caetano do avelar/id=b1792-17-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-18/8/7/1792/fl.25v/igreja de santa maria de obidos/joao carlos da silva
 
          n$joaquina/f/id=b1792-18-per1
             ls$datanasc/17920613
 
-         pn$francisco gomes/id=b1792-18-per2
-            ls$naturalidade/casal do codorno, freguesia de sao pedro de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
-            ls$loccasamento/freguesia de sao pedro de obidos
-            ls$residencia/casais de alentejo
+            pn$francisco gomes/id=b1792-18-per2
+               ls$naturalidade/casal do codorno, freguesia de sao pedro de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
+               ls$loccasamento/freguesia de sao pedro de obidos
+               ls$residencia/casais de alentejo
 
-         mn$genoveva maria/id=b1792-18-per3
-            ls$naturalidade/casal do convento, freguesia de sao pedro de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
+            mn$genoveva maria/id=b1792-18-per3
+               ls$naturalidade/casal do convento, freguesia de sao pedro de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
 
-         pad$jose vicente/id=b1792-18-per4
-            ls$residencia/obidos
+            pad$jose vicente/id=b1792-18-per4
+               ls$residencia/obidos
 
-         mad$joaquina maria/id=b1792-18-per5
-            ls$residencia/fraldeu
+            mad$joaquina maria/id=b1792-18-per5
+               ls$residencia/fraldeu
 
       bap$b1792-19/2/8/1792/fl.26/igreja de santa maria de obidos/joao carlos da silva
 
          n$maria dos anjos/f/id=b1792-19-n
             ls$enjeitada/sim/obs=a porta de manuel vieira em 17920731
 
-         pn$nome desconhecido/id=b1792-19-per1
+            pn$nome desconhecido/id=b1792-19-per1
 
-         mn$nome desconhecido/id=b1792-19-per2
+            mn$nome desconhecido/id=b1792-19-per2
 
-         referido$manuel vieira/id=b1792-19-per3
-            ls$residencia/azambujeira/obs=termo da vila. escrito zambugeira
-            rel$sociabilidade/achou a crianca/maria dos anjos/b1792-19-n
+            referido$manuel vieira/id=b1792-19-per3
+               ls$residencia/azambujeira/obs=termo da vila. escrito zambugeira
+               rel$sociabilidade/achou a crianca/maria dos anjos/b1792-19-n
 
-         referida$francisca das chagas/id=b1792-19-refa
-            rel$sociabilidade/ama/maria dos anjos/b1792-19-n
+            referida$francisca das chagas/id=b1792-19-refa
+               rel$sociabilidade/ama/maria dos anjos/b1792-19-n
 
-         referido$antonio francisco/id=b1792-19-per4
-            ls$cargo/ermitao de nossa senhora do carmo desta obidos
-            rel$parentesco/marido/francisca das chagas/b1792-19-refa
+            referido$antonio francisco/id=b1792-19-per4
+               ls$cargo/ermitao de nossa senhora do carmo desta obidos
+               rel$parentesco/marido/francisca das chagas/b1792-19-refa
 
-         pad$manuel caetano do avelar/id=b1792-19-per5
-            ls$cargo/procurador do concelho
+            pad$manuel caetano do avelar/id=b1792-19-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-20/7/8/1792/fl.26/igreja de santa maria de obidos/joao carlos da silva
 
          n$joao/m/id=b1792-20-per1
             ls$datanasc/17920727
 
-         pn$joao monteiro/id=b1792-20-per2
-            ls$naturalidade/obidos. freguesia de sao pedro de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/arrabalde
+            pn$joao monteiro/id=b1792-20-per2
+               ls$naturalidade/obidos. freguesia de sao pedro de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/arrabalde
 
-         mn$ana joaquina/id=b1792-20-per3
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$ana joaquina/id=b1792-20-per3
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$joao antonio vieira/id=b1792-20-per4
-            ls$residencia/obidos
+            pad$joao antonio vieira/id=b1792-20-per4
+               ls$residencia/obidos
 
       bap$b1792-21/10/8/1792/fl.26/igreja de santa maria de obidos/joao carlos da silva
 
          n$josefa/f/id=b1792-21-per1
             ls$datanasc/17920728
 
-         pn$manuel luis/id=b1792-21-per2
-            ls$naturalidade/vieira, freguesia de nossa senhora da luz/obs=bispado de leiria
-            ls$locbaptismo/vieira, freguesia de nossa senhora da luz
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/arrabalde
+            pn$manuel luis/id=b1792-21-per2
+               ls$naturalidade/vieira, freguesia de nossa senhora da luz/obs=bispado de leiria
+               ls$locbaptismo/vieira, freguesia de nossa senhora da luz
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/arrabalde
 
-         mn$genoveva maria/id=b1792-21-per3
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$genoveva maria/id=b1792-21-per3
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$francisco xavier da costa/id=b1792-21-per4
-            ls$residencia/obidos
+            pad$francisco xavier da costa/id=b1792-21-per4
+               ls$residencia/obidos
 
-         mad$josefa felicia/id=b1792-21-per5
-            ls$residencia/obidos
+            mad$josefa felicia/id=b1792-21-per5
+               ls$residencia/obidos
 
-         procurador-mad$joaquim antonio de sequeira/id=b1792-21-per6
-            ls$residencia/obidos
+            procurador-mad$joaquim antonio de sequeira/id=b1792-21-per6
+               ls$residencia/obidos
 
       bap$b1792-22/12/8/1792/fl.26-26v/igreja de santa maria de obidos/joao carlos da silva
 
          n$ana/f/id=b1792-22-per1
             ls$datanasc/17920727
 
-         pn$joao francisco/id=b1792-22-per2
-            ls$naturalidade/coto, freguesia de nossa senhora dos anjos
-            ls$locbaptismo/coto, freguesia de nossa senhora dos anjos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/gaeiras de sao marcos
+            pn$joao francisco/id=b1792-22-per2
+               ls$naturalidade/coto, freguesia de nossa senhora dos anjos
+               ls$locbaptismo/coto, freguesia de nossa senhora dos anjos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/gaeiras de sao marcos
 
-         mad$isidora teresa/id=b1792-22-per3
-            ls$naturalidade/gaeiras de sao marcos
-            ls$freguesia/santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mad$isidora teresa/id=b1792-22-per3
+               ls$naturalidade/gaeiras de sao marcos
+               ls$freguesia/santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$roberto ferreira/id=b1792-22-per4
-            ls$naturalidade/gaeiras de sao marcos
+            pad$roberto ferreira/id=b1792-22-per4
+               ls$naturalidade/gaeiras de sao marcos
 
-         mad$maria joaquina/id=b1792-22-per5
-            ls$naturalidade/gaeiras de sao marcos
+            mad$maria joaquina/id=b1792-22-per5
+               ls$naturalidade/gaeiras de sao marcos
 
       bap$b1792-23/2/9/1792/fl.26v/igreja de santa maria de obidos/joao carlos da silva
 
          n$jose/m/id=b1792-23-n
             ls$enjeitado/sim/obs=a porta de jose antunes em 17920827
 
-         pn$nome desconhecido/id=b1792-23-per1
+            pn$nome desconhecido/id=b1792-23-per1
 
-         mn$nome desconhecido/id=b1792-23-per2
+            mn$nome desconhecido/id=b1792-23-per2
 
-         referido$jose antunes/id=b1792-23-per3
-            ls$residencia/casal das pedras/obs=serra do bouro
-            rel$sociabilidade/achou a crianca/jose/b1792-23-n
+            referido$jose antunes/id=b1792-23-per3
+               ls$residencia/casal das pedras/obs=serra do bouro
+               rel$sociabilidade/achou a crianca/jose/b1792-23-n
 
-         referida$francisca maria/id=b1792-23-refa
-            rel$sociabilidade/ama/jose/b1792-23-n
+            referida$francisca maria/id=b1792-23-refa
+               rel$sociabilidade/ama/jose/b1792-23-n
 
-         referido$jose da silva/id=b1792-23-per4
-            ls$residencia/casal das pedras/serra do bouro
-            rel$parentesco/marido/francisca maria/b1792-23-refa
+            referido$jose da silva/id=b1792-23-per4
+               ls$residencia/casal das pedras, serra do bouro
+               rel$parentesco/marido/francisca maria/b1792-23-refa
 
-         pad$joaquim maria do avelar/id=b1792-23-per5
-            ls$cargo/procurador do concelho
+            pad$joaquim maria do avelar/id=b1792-23-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-24/22/9/1792/fl.26v/igreja de santa maria de obidos/joao carlos da silva
 
          n$mateus/m/id=b1792-24-n
             ls$enjeitado/sim/obs=a porta de inacio francisco em 17920921
 
-         pn$nome desconhecido/id=b1792-24-per1
+            pn$nome desconhecido/id=b1792-24-per1
 
-         mn$nome desconhecido/id=b1792-24-per2
+            mn$nome desconhecido/id=b1792-24-per2
 
-         referido$inacio francisco/id=b1792-24-per3
-            ls$residencia/casal da boa vista/obs=no limite da fanadia
-            rel$sociabilidade/achou a crianca/mateus/b1792-24-n
+            referido$inacio francisco/id=b1792-24-per3
+               ls$residencia/casal da boa vista/obs=no limite da fanadia
+               rel$sociabilidade/achou a crianca/mateus/b1792-24-n
 
-         referida$maria joana/id=b1792-24-refa
-            rel$sociabilidade/ama/mateus/b1792-24-n
+            referida$maria joana/id=b1792-24-refa
+               rel$sociabilidade/ama/mateus/b1792-24-n
 
-         referido$manuel luis/id=b1792-24-per4
-            ls$residencia/fanadia
-            rel$parentesco/marido/maria joana/b1792-24-refa
+            referido$manuel luis/id=b1792-24-per4
+               ls$residencia/fanadia
+               rel$parentesco/marido/maria joana/b1792-24-refa
 
-         pad$manuel caetano do avelar/id=b1792-24-per5
-            ls$cargo/procurador do concelho
+            pad$manuel caetano do avelar/id=b1792-24-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-25/23/9/1792/fl.26v/igreja de santa maria de obidos/joao carlos da silva
 
          n$antonio/m/id=b1792-25-per1
             ls$datanasc/17920908
 
-         pn$jose da silva/id=b1792-25-per2
-            ls$naturalidade/gaeiras de sao marcos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$residencia/gaeiras de sao marcos
-            ls$loccasamento/freguesia de santa maria de obidos
+            pn$jose da silva/id=b1792-25-per2
+               ls$naturalidade/gaeiras de sao marcos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$residencia/gaeiras de sao marcos
+               ls$loccasamento/freguesia de santa maria de obidos
 
-         mn$ana joaquina/id=b1792-25-per3
-            ls$naturalidade/gaeiras de sao marcos
-            ls$freguesia/santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$ana joaquina/id=b1792-25-per3
+               ls$naturalidade/gaeiras de sao marcos
+               ls$freguesia/santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$gregorio da costa/id=b1792-25-per4
-            ls$residencia/pinhal
+            pad$gregorio da costa/id=b1792-25-per4
+               ls$residencia/pinhal
 
-         mad$maria rosa de matos/id=b1792-25-mad
+            mad$maria rosa de matos/id=b1792-25-mad
 
-         procurador-mad$inacio henriques/id=b1792-25-per5
-            rel$parentesco/pai/maria rosa de matos/b1792-25-mad
+            procurador-mad$inacio henriques/id=b1792-25-per5
+               rel$parentesco/pai/maria rosa de matos/b1792-25-mad
 
       bap$b1792-26/30/9/1792/fl.26v-27/igreja de santa maria de obidos/joao carlos da silva/obs=baptizou sub conditione por duvidar do baptismo por necessidade feito em casa
 
          n$maria/f/id=b1792-26-n
             ls$datanasc/17920915
 
-         pn$francisco da silva/id=b1792-26-per1
-            ls$naturalidade/casais de alentejo, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos madalena
-            ls$residencia/casais de alentejo
+            pn$francisco da silva/id=b1792-26-per1
+               ls$naturalidade/casais de alentejo, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos madalena
+               ls$residencia/casais de alentejo
 
-         mn$gertrudes teresa/id=b1792-26-per2
-            ls$naturalidade/a dos negros
+            mn$gertrudes teresa/id=b1792-26-per2
+               ls$naturalidade/a dos negros
 
-         pad$antonio da silva/id=b1792-26-per3
-            ls$residencia/casais de alentejo
+            pad$antonio da silva/id=b1792-26-per3
+               ls$residencia/casais de alentejo
 
-         mad$iria do rosario/id=b1792-26-per4
-            rel$parentesco/tia/maria/b1792-26-n
+            mad$iria do rosario/id=b1792-26-per4
+               rel$parentesco/tia/maria/b1792-26-n
 
       bap$b1792-27/27/10/1792/fl.27/igreja de santa maria de obidos/joao carlos da silva
 
          n$crispim/m/id=b1792-27-n
             ls$enjeitado/sim/obs=a porta de antonio francisco em 17921026
 
-         pn$nome desconhecido/id=b1792-27-per1
+            pn$nome desconhecido/id=b1792-27-per1
 
-         mn$nome desconhecido/id=b1792-27-per2
+            mn$nome desconhecido/id=b1792-27-per2
 
-         referido$antonio francisco/id=b1792-27-per3
-            ls$residencia/casal da memoria/obs=sitio do senhor da pedra
-            rel$sociabilidade/achou a crianca/crispim/b1792-27-n
+            referido$antonio francisco/id=b1792-27-per3
+               ls$residencia/casal da memoria/obs=sitio do senhor da pedra
+               rel$sociabilidade/achou a crianca/crispim/b1792-27-n
 
-         referida$ana jacinta/id=b1792-27-refa
-            rel$sociabilidade/ama/crispim/b1792-27-n
+            referida$ana jacinta/id=b1792-27-refa
+               rel$sociabilidade/ama/crispim/b1792-27-n
 
-         referido$jose de faria/id=b1792-27-per4
-            ls$residencia/foz
-            rel$parentesco/marido/ana jacinta/b1792-27-refa
+            referido$jose de faria/id=b1792-27-per4
+               ls$residencia/foz
+               rel$parentesco/marido/ana jacinta/b1792-27-refa
 
-         pad$manuel caetano do avelar/id=b1792-27-per5
-            ls$cargo/procurador do concelho
+            pad$manuel caetano do avelar/id=b1792-27-per5
+               ls$cargo/procurador do concelho
 
       bap$b1792-28/28/10/1792/fl.27/igreja de santa maria de obidos/joao carlos da silva
 
          n$josefa/f/id=b1792-28-n
             ls$datanasc/17921012
 
-         pn$domingos antunes/id=b1792-28-per1
-            ls$naturalidade/senhorim, freguesia de nossa senhora da ascensao/obs=bispado de viseu
-            ls$locbaptismo/sehorim, freguesia de nossa senhora da ascensao
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/fraldeu
+            pn$domingos antunes/id=b1792-28-per1
+               ls$naturalidade/senhorim, freguesia de nossa senhora da ascensao/obs=bispado de viseu
+               ls$locbaptismo/sehorim, freguesia de nossa senhora da ascensao
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/fraldeu
 
-         mn$maria joaquina/id=b1792-28-per2
-            ls$naturalidade/casais de alentejo, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$maria joaquina/id=b1792-28-per2
+               ls$naturalidade/casais de alentejo, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$francisco gomes/id=b1792-28-per3
-            ls$residencia/casal da gracieira
+            pad$francisco gomes/id=b1792-28-per3
+               ls$residencia/casal da gracieira
 
-         mad$barbara joaquina/id=b1792-28-per4
-            rel$parentesco/tia/josefa/b1792-28-n
+            mad$barbara joaquina/id=b1792-28-per4
+               rel$parentesco/tia/josefa/b1792-28-n
 
       bap$b1792-29/29/10/1792/fl.27/igreja de santa maria de obidos/joao carlos da silva
 
          n$crispiano/m/id=b1792-29-n
             ls$enjeitado/sim/obs=a porta de luis da silva em 17921024
 
-         pn$nome desconhecido/id=b1792-29-per1
+            pn$nome desconhecido/id=b1792-29-per1
 
-         mn$nome desconhecido/id=b1792-29-per2
+            mn$nome desconhecido/id=b1792-29-per2
 
-         referido$luis da silva/id=b1792-29-per3
-            ls$residencia/bombarral
-            rel$sociabilidade/achou a crianca/crispiano/b1792-29-n
-            rel$parentesco/marido/constancia maria/b1792-29-refa
+            referido$luis da silva/id=b1792-29-per3
+               ls$residencia/bombarral
+               rel$sociabilidade/achou a crianca/crispiano/b1792-29-n
+               rel$parentesco/marido/constancia maria/b1792-29-refa
 
-         referida$constancia maria/id=b1792-29-refa
-            rel$sociabilidade/ama/crispiano/b1792-29-n
+            referida$constancia maria/id=b1792-29-refa
+               rel$sociabilidade/ama/crispiano/b1792-29-n
 
-         pad$manuel caetano do avelar/id=b1792-29-per4
+            pad$manuel caetano do avelar/id=b1792-29-per4
 
       bap$b1792-30/11/11/1792/fl.27-27v/igreja de santa maria de obidos/joao carlos da silva
 
          n$maria/f/id=b1792-30-per1
             ls$datanasc/17921030
 
-         pn$cipriano luis/id=b1792-30-per2
-            ls$naturalidade/bolho, freguesia de sao mamede/obs=bispado de coimbra
-            ls$locbaptismo/bolho, freguesia de sao mamede
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/gaeiras de sao marcos
+            pn$cipriano luis/id=b1792-30-per2
+               ls$naturalidade/bolho, freguesia de sao mamede/obs=bispado de coimbra
+               ls$locbaptismo/bolho, freguesia de sao mamede
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/gaeiras de sao marcos
 
-         mn$lucia inacia/id=b1792-30-per3
-            ls$naturalidade/gaeiras de sao marcos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$lucia inacia/id=b1792-30-per3
+               ls$naturalidade/gaeiras de sao marcos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$bernardo jose pires/id=b1792-30-per4
-            ls$residencia/obidos
+            pad$bernardo jose pires/id=b1792-30-per4
+               ls$residencia/obidos
 
-         mad$micaela antonia/id=b1792-30-per5
-            ls$residencia/casal da bochardia
+            mad$micaela antonia/id=b1792-30-per5
+               ls$residencia/casal da bochardia
 
       bap$b1792-31/11/11/1792/fl.27v/igreja de santa maria de obidos/joao carlos da silva
 
          n$maria/f/id=b1792-31-per1
             ls$datanasc/17921102
 
-         pn$manuel luis/id=b1792-31-per2
-            ls$naturalidade/alvorninha, freguesia de nossa senhora da visitacao/obs=coutos de alcobaca
-            ls$locbaptismo/alvorninha,freguesia de nossa senhora da visitacao
-            ls$loccasamento/freguesia de sao tiago de obidos
-            ls$residencia/obidos
+            pn$manuel luis/id=b1792-31-per2
+               ls$naturalidade/alvorninha, freguesia de nossa senhora da visitacao/obs=coutos de alcobaca
+               ls$locbaptismo/alvorninha,freguesia de nossa senhora da visitacao
+               ls$loccasamento/freguesia de sao tiago de obidos
+               ls$residencia/obidos
 
-         mn$monica maria/id=b1792-31-per3
-            ls$naturalidade/andrinos, freguesia de nossa senhora do desterro/obs=bispado de leiria
-            ls$locbaptismo/freguesia de nossa senhora do desterro
+            mn$monica maria/id=b1792-31-per3
+               ls$naturalidade/andrinos, freguesia de nossa senhora do desterro/obs=bispado de leiria
+               ls$locbaptismo/freguesia de nossa senhora do desterro
 
-         pad$gregorio da costa/id=b1792-31-per4
-            ls$residencia/pinhal
+            pad$gregorio da costa/id=b1792-31-per4
+               ls$residencia/pinhal
 
-         mad$maria luisa/id=b1792-31-per5
-            ls$residencia/obidos
+            mad$maria luisa/id=b1792-31-per5
+               ls$residencia/obidos
 
       bap$b1792-32/11/11/1792/fl.27v/igreja de santa maria de obidos/joao carlos da silva
 
          n$severo/m/id=b1792-32-n
             ls$enjeitado/sim/obs=a porta de antonio francisco em 17921107
 
-         pn$nome desconhecido/id=b1792-32-per1
+            pn$nome desconhecido/id=b1792-32-per1
 
-         mn$nome desconhecido/id=b1792-32-per2
+            mn$nome desconhecido/id=b1792-32-per2
 
-         referido$antonio francisco/id=b1792-32-per3
-            ls$residencia/formigal
-            rel$sociabilidade/achou a crianca/severo/b1792-32-n
+            referido$antonio francisco/id=b1792-32-per3
+               ls$residencia/formigal
+               rel$sociabilidade/achou a crianca/severo/b1792-32-n
 
-         referida$monica maria/id=b1792-32-refa
-            rel$sociabilidade/ama/severo/b1792-32-n
+            referida$monica maria/id=b1792-32-refa
+               rel$sociabilidade/ama/severo/b1792-32-n
 
-         referido$jose francisco/id=b1792-32-per4
-            ls$alcunha/menino/obs=sera menino mesmo alcunha
-            ls$residencia/campo/obs=caldas da rainha
-            rel$parentesco/marido/monica maria/b1792-32-refa
+            referido$jose francisco/id=b1792-32-per4
+               ls$alcunha/menino/obs=sera menino mesmo alcunha
+               ls$residencia/campo/obs=caldas da rainha
+               rel$parentesco/marido/monica maria/b1792-32-refa
 
-         pad$joaquim maria do avelar/id=b1792-32-per5
-            ls$residencia/obidos
+            pad$joaquim maria do avelar/id=b1792-32-per5
+               ls$residencia/obidos
 
       bap$b1792-33/16/11/1792/fl.27v/igreja de santa maria de obidos/joao carlos da silva
 
          n$teodoro/m/id=b1792-33-n
             ls$enjeitado/sim/obs=a porta de antonio vicente em 17921109
 
-         pn$nome desconhecido/id=b1792-33-per1
+            pn$nome desconhecido/id=b1792-33-per1
 
-         mn$nome desconhecido/id=b1792-33-per2
+            mn$nome desconhecido/id=b1792-33-per2
 
-         referido$antonio vicente/id=b1792-33-per3
-            ls$residencia/sao bartolomeu
-            rel$sociabilidade/achou a crianca/teodoro/b1792-33-n
+            referido$antonio vicente/id=b1792-33-per3
+               ls$residencia/sao bartolomeu
+               rel$sociabilidade/achou a crianca/teodoro/b1792-33-n
 
-         referida$maria do rosario/id=b1792-33-refa
-            rel$sociabilidade/ama/teodoro/b1792-33-n
+            referida$maria do rosario/id=b1792-33-refa
+               rel$sociabilidade/ama/teodoro/b1792-33-n
 
-         referido$antonio jose/id=b1792-33-per4
-            ls$residencia/sobral da lagoa
-            rel$parentesco/marido/maria do rosario/b1792-33-refa
+            referido$antonio jose/id=b1792-33-per4
+               ls$residencia/sobral da lagoa
+               rel$parentesco/marido/maria do rosario/b1792-33-refa
 
-         pad$joaquim maria do avelar/id=b1792-33-per5
+            pad$joaquim maria do avelar/id=b1792-33-per5
 
-         ppad$manuel caetano do avelar/id=b1792-33-per6
-            ls$cargo/procurador do concelho
+               ppad$manuel caetano do avelar/id=b1792-33-per6
+                  ls$cargo/procurador do concelho
 
       bap$b1792-34/18/11/1792/fl.28/igreja de santa maria de obidos/joao carlos da silva
 
          n$jose/m/id=b1792-34-n
             ls$datanasc/17921109
 
-         pn$francisco monteiro/id=b1792-34-per1
-            ls$naturalidade/a da gorda
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/a da gorda
+            pn$francisco monteiro/id=b1792-34-per1
+               ls$naturalidade/a da gorda
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/a da gorda
 
-         mn$maria quiteria/id=b1792-34-per2
-            ls$naturalidade/a da gorda
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$maria quiteria/id=b1792-34-per2
+               ls$naturalidade/a da gorda
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         pad$jose monteiro henriques/id=b1792-34-per3
-            rel$parentesco/tio/jose/b1792-34-n
+            pad$jose monteiro henriques/id=b1792-34-per3
+               rel$parentesco/tio/jose/b1792-34-n
 
       bap$b1792-35/13/11/1792/fl.28/igreja de santa maria de obidos/joao carlos da silva/obs=data correcta
 
          n$justino/m/id=b1792-35-n
             ls$enjeitado/sim/obs=a porta de antonio da costa em 17921112
 
-         pn$nome desconhecido/id=b1792-35-per1
+            pn$nome desconhecido/id=b1792-35-per1
 
-         mn$nome desconhecido/id=b1792-35-per2
+            mn$nome desconhecido/id=b1792-35-per2
 
-         referido$antonio da costa/id=b1792-35-per3
-            ls$residencia/casal da memoria/obs=do senhor da pedra
-            rel$sociabilidade/achou a crianca/justino/b1792-35-n
+            referido$antonio da costa/id=b1792-35-per3
+               ls$residencia/casal da memoria/obs=do senhor da pedra
+               rel$sociabilidade/achou a crianca/justino/b1792-35-n
 
-         referida$ana joaquina/id=b1792-35-refa
-            rel$sociabilidade/ama/justino/b1792-35-n
+            referida$ana joaquina/id=b1792-35-refa
+               rel$sociabilidade/ama/justino/b1792-35-n
 
-         referido$francisco antonio/id=b1792-35-per4
-            ls$alcunha/o lavareda/obs= duvida se sera mesmo alcunha
-            ls$residencia/sao pedro de obidos
-            rel$parentesco/marido/ana joaquina/b1792-35-refa
+            referido$francisco antonio/id=b1792-35-per4
+               ls$alcunha/o lavareda/obs= duvida se sera mesmo alcunha
+               ls$residencia/sao pedro de obidos
+               rel$parentesco/marido/ana joaquina/b1792-35-refa
 
-         pad$joaquim maria do avelar/id=b1792-35-per5
+            pad$joaquim maria do avelar/id=b1792-35-per5
 
-         ppad$manuel caetano do avelar/id=b1792-35-per6
-            ls$cargo/procurador do concelho
+               ppad$manuel caetano do avelar/id=b1792-35-per6
+                  ls$cargo/procurador do concelho
 
       bap$b1792-36/30/12/1792/fl.28/igreja de santa maria de obidos/joao carlos da silva
 
          n$inacio/m/id=b1792-36-per1
             ls$datanasc/17921216
 
-         pn$antono pereira/id=b1792-36-per2
-            ls$naturalidade/a da gorda/obs=freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/a da gorda
+            pn$antono pereira/id=b1792-36-per2
+               ls$naturalidade/a da gorda/obs=freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/a da gorda
 
-         mn$maria de jesus moreira/id=b1792-36-per3
-            ls$naturalidade/sobral da lagoa, freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            mn$maria de jesus moreira/id=b1792-36-per3
+               ls$naturalidade/sobral da lagoa, freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         pad$antonio joaquim/id=b1792-36-per4
-            ls$residencia/a da gorda
+            pad$antonio joaquim/id=b1792-36-per4
+               ls$residencia/a da gorda
 
-         mad$maria de nazare/id=b1792-36-per5
-            ls$residencia/a da gorda
+            mad$maria de nazare/id=b1792-36-per5
+               ls$residencia/a da gorda
 
       bap$b1793-1a/2/1/1793/fl.28-28v/igreja de santa maria/joao carlos da silva
 
          n$joaquim/m/id=b1793-1a-per1
             ls$datanasc/17921220
 
-         pn$antonio joaquim furtado/id=b1793-1a-per2
-            ls$naturalidade/obidos,freguesia de sao tiago
-            ls$locbaptismo/freguesia de sao tiago
-            ls$loccasamento/freguesia de sao joao baptista
-            ls$residencia/obidos
+            pn$antonio joaquim furtado/id=b1793-1a-per2
+               ls$naturalidade/obidos,freguesia de sao tiago
+               ls$locbaptismo/freguesia de sao tiago
+               ls$loccasamento/freguesia de sao joao baptista
+               ls$residencia/obidos
 
-         mn$joaquina rosa moreira de gois/id=b1793-1a-per3
-            ls$naturalidade/cartaxo, freguesia de sao joao baptista
-            ls$locbaptismo/freguesia de sao joao baptista
+            mn$joaquina rosa moreira de gois/id=b1793-1a-per3
+               ls$naturalidade/cartaxo, freguesia de sao joao baptista
+               ls$locbaptismo/freguesia de sao joao baptista
 
-         pad$joaquim jose soares/id=b1793-1a-per4
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad$joaquim jose soares/id=b1793-1a-per4
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad$ana barbara soutomayor/id=b1793-1a-per5
-            ls$titulo/dona
+            mad$ana barbara soutomayor/id=b1793-1a-per5
+               ls$titulo/dona
 
-         procurador-mad$francisco manuel furtado/id=b1793-1a-per6
-            ls$titulo/reverendo
-            ls$profissao/padre
+            procurador-mad$francisco manuel furtado/id=b1793-1a-per6
+               ls$titulo/reverendo
+               ls$profissao/padre
 
       bap$b1793-2/6/1/1793/fl.28v/igreja de santa maria/joao carlos da silva
 
          n$ana/f/id=b1793-2-per1
             ls$datanasc/17921222
 
-         pn$joao agostinho/id=b1793-2-per2
-            ls$naturalidade/arelho
-            ls$freguesia/sao joao do moxarro
-            ls$locbaptismo/freguesia de sao joao do moxarro
-            ls$loccasamento/freguesia de nossa senhora da purificacao
-            ls$residencia/vila
+            pn$joao agostinho/id=b1793-2-per2
+               ls$naturalidade/arelho
+               ls$freguesia/sao joao do moxarro
+               ls$locbaptismo/freguesia de sao joao do moxarro
+               ls$loccasamento/freguesia de nossa senhora da purificacao
+               ls$residencia/vila
 
-         mn$francisca maria/id=b1793-2-per3
-            ls$naturalidade/chao de parada
-            ls$freguesia/nossa senhora da purificacao/tornada/obs=duvida. purificacao
-            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            mn$francisca maria/id=b1793-2-per3
+               ls$naturalidade/chao de parada
+               ls$freguesia/nossa senhora da purificacao, tornada/obs=duvida. purificacao
+               ls$locbaptismo/freguesia de nossa senhora da purificacao
 
-         pad$jose simoes/obs=duvida. simoes/id=b1793-2-per4
-            ls$residencia/rolica
+            pad$jose simoes/obs=duvida. simoes/id=b1793-2-per4
+               ls$residencia/rolica
 
-         mad$clara maria/id=b1793-2-per5
-            ls$residencia/chao de parada
+            mad$clara maria/id=b1793-2-per5
+               ls$residencia/chao de parada
 
-         procurador-pad$sebastiao de castro/id=b1793-2-per6
-            ls$residencia/vila
+            procurador-pad$sebastiao de castro/id=b1793-2-per6
+               ls$residencia/vila
 
       bap$b1793-3/13/1/1793/fl.28v/igreja de santa maria/joao carlos da silva
 
          n$francisco/m/id=b1793-3-per1
             ls$datanasc/17930102
 
-         pn$manuel joaquim/id=b1793-3-per2
-            ls$naturalidade/gaeiras
-            ls$freguesia/sao tiago
-            ls$locbaptismo/freguesia de sao tiago
-            ls$loccasamento/freguesia de sao joao do moxarro
-            ls$residencia/gaeiras
+            pn$manuel joaquim/id=b1793-3-per2
+               ls$naturalidade/gaeiras
+               ls$freguesia/sao tiago
+               ls$locbaptismo/freguesia de sao tiago
+               ls$loccasamento/freguesia de sao joao do moxarro
+               ls$residencia/gaeiras
 
-         mn$gertrudes maria/id=b1793-3-per3
-            ls$naturalidade/carregal
-            ls$freguesia/sao joao do moxarro
-            ls$locbaptismo/freguesia de sao joao do moxarro
+            mn$gertrudes maria/id=b1793-3-per3
+               ls$naturalidade/carregal
+               ls$freguesia/sao joao do moxarro
+               ls$locbaptismo/freguesia de sao joao do moxarro
 
-         pad$francisco de paula manzari/obs=duvida. manzari/id=b1793-3-per4
-            ls$residencia/vila
+            pad$francisco de paula manzari/obs=duvida. manzari/id=b1793-3-per4
+               ls$residencia/vila
 
       bap$b1793-4/22/1/1793/fl.28v/igreja de santa maria/joao carlos da silva
 
          n$jose/m/id=b1793-4-per1
             ls$datanasc/17930115
 
-         pn$francisco da cruz/id=b1793-4-per2
-            ls$naturalidade/mouta/obs=escrito mouta
-            ls$freguesia/nossa senhora da esperanca/obs=bispado de leiria
-            ls$locbaptismo/freguesia de nossa senhora da esperanca
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/casal das pocas
+            pn$francisco da cruz/id=b1793-4-per2
+               ls$naturalidade/mouta/obs=escrito mouta
+               ls$freguesia/nossa senhora da esperanca/obs=bispado de leiria
+               ls$locbaptismo/freguesia de nossa senhora da esperanca
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/casal das pocas
 
-         mn$isabel maria/id=b1793-4-per3
-            ls$naturalidade/gaeiras
-            ls$freguesia/sao tiago
-            ls$locbaptismo/freguesia de sao tiago
+            mn$isabel maria/id=b1793-4-per3
+               ls$naturalidade/gaeiras
+               ls$freguesia/sao tiago
+               ls$locbaptismo/freguesia de sao tiago
 
-         pad$jose de aguiar/id=b1793-4-per4
-            ls$residencia/caldas da rainha
+            pad$jose de aguiar/id=b1793-4-per4
+               ls$residencia/caldas da rainha
 
       bap$b1793-5/26/1/1793/fl.29/igreja de santa maria/joao carlos da silva
 
          n$paulo/m/id=b1793-5-n
             ls$enjeitado/sim/obs=a porta de joao francisco em 17930124
 
-         pn$nome desconhecido/id=b1793-5-per1
+            pn$nome desconhecido/id=b1793-5-per1
 
-         mn$nome desconhecido/id=b1793-5-per2
+            mn$nome desconhecido/id=b1793-5-per2
 
-         referido$joao francisco/id=b1793-5-per3
-            ls$residencia/baracais
-            rel$sociabilidade/exposto a sua porta/paulo/b1793-5-n
+            referido$joao francisco/id=b1793-5-per3
+               ls$residencia/baracais
+               rel$sociabilidade/exposto a sua porta/paulo/b1793-5-n
 
-         referida$isabel maria/id=b1793-5-refa
-            rel$sociabilidade/ama/paulo/b1793-5-n
+            referida$isabel maria/id=b1793-5-refa
+               rel$sociabilidade/ama/paulo/b1793-5-n
 
-         referido$joaquim de faria/id=b1793-5-per4
-            ls$residencia/casal da lapinha
+            referido$joaquim de faria/id=b1793-5-per4
+               ls$residencia/casal da lapinha
 
-         pad$joaquim maria do avelar/id=b1793-5-per5
-            ls$cargo/procurador/obs=nesta vila
+            pad$joaquim maria do avelar/id=b1793-5-per5
+               ls$cargo/procurador/obs=nesta vila
 
       bap$b1793-6/2/2/1793/fl.29/igreja de santa maria/joao carlos da silva/obs=baptizou em necessidade em casa
 
          n$maria/f/id=b1793-6-per1
 
-         pn$isidoro monteiro/id=b1793-6-per2
-            ls$naturalidade/dagorda
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/dagorda
+            pn$isidoro monteiro/id=b1793-6-per2
+               ls$naturalidade/dagorda
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/dagorda
 
-         mn$mariana genoveva/id=b1793-6-per3
-            ls$naturalidade/amoreira
-            ls$freguesia/nossa senhora da aboboris
-            ls$locbaptismo/freguesia de nossa senhora da aboboris
+            mn$mariana genoveva/id=b1793-6-per3
+               ls$naturalidade/amoreira
+               ls$freguesia/nossa senhora da aboboris
+               ls$locbaptismo/freguesia de nossa senhora da aboboris
 
-         pad$francisco soares/id=b1793-6-per4
-            ls$residencia/lisboa
+            pad$francisco soares/id=b1793-6-per4
+               ls$residencia/lisboa
 
-         procurador-pad$antonio soares/id=b1793-6-per5
-            ls$residencia/dagorda
+            procurador-pad$antonio soares/id=b1793-6-per5
+               ls$residencia/dagorda
 
       bap$b1793-7/10/2/1793/fl.29/igreja de santa maria/joao carlos da silva
 
          n$joao/m/id=b1793-7-per1
             ls$datanasc/17930120
 
-         pn$francisco jose/id=b1793-7-per2
-            ls$naturalidade/dagorda
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/vila
+            pn$francisco jose/id=b1793-7-per2
+               ls$naturalidade/dagorda
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/vila
 
-         mn$maria da conceicao/id=b1793-7-per3
-            ls$naturalidade/usseira
-            ls$freguesia/sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria da conceicao/id=b1793-7-per3
+               ls$naturalidade/usseira
+               ls$freguesia/sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad$joao leal/id=b1793-7-per4
-            ls$residencia/vila
+            pad$joao leal/id=b1793-7-per4
+               ls$residencia/vila
 
-         mad$maria vicencia/obs=duvida/id=b1793-7-per5
-            ls$residencia/vila
+            mad$maria vicencia/obs=duvida/id=b1793-7-per5
+               ls$residencia/vila
 
       bap$b1793-8/27/2/1793/fl.29v/igreja de santa maria/joao carlos da silva
 
          n$jose/m/id=b1793-8-per1
             ls$datanasc/17930220
 
-         pn$gregorio jose de castro/id=b1793-8-per2
-            ls$naturalidade/vila
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/vila/obs=no arrabalde
+            pn$gregorio jose de castro/id=b1793-8-per2
+               ls$naturalidade/vila
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/vila/obs=no arrabalde
 
-         mn$fulmina rosa/id=b1793-8-per3
-            ls$naturalidade/vila
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$fulmina rosa/id=b1793-8-per3
+               ls$naturalidade/vila
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad$jose correia/id=b1793-8-per4
-            ls$residencia/vila
+            pad$jose correia/id=b1793-8-per4
+               ls$residencia/vila
 
       bap$b1793-9/3/3/1793/fl.29v/igreja de santa maria/joao carlos da silva/obs=baptizou sub conditione
 
          n$manuel/m/id=b1793-9-n
             ls$enjeitado/sim/obs=a porta de manuel francisco em 177921126
 
-         pn$nome desconhecido/id=b1793-9-per1
+            pn$nome desconhecido/id=b1793-9-per1
 
-         mn$nome desconhecido/id=b1793-9-per2
+            mn$nome desconhecido/id=b1793-9-per2
 
-         referido$manuel francisco/id=b1793-9-per3
-            ls$residencia/campo/caldas da rainha
-            rel$sociabilidade/exposto a sua porta/manuel/b1793-9-n
-            rel$parentesco/marido/maria rosa/b1793-9-refa
+            referido$manuel francisco/id=b1793-9-per3
+               ls$residencia/campo, caldas da rainha
+               rel$sociabilidade/exposto a sua porta/manuel/b1793-9-n
+               rel$parentesco/marido/maria rosa/b1793-9-refa
 
-         referida$maria rosa/id=b1793-9-refa
-            rel$sociabilidade/ama/manuel/b1793-9-n
+            referida$maria rosa/id=b1793-9-refa
+               rel$sociabilidade/ama/manuel/b1793-9-n
 
-         pad$joaquim maria do avelar/id=b1793-9-per4
-            ls$residencia/vila
+            pad$joaquim maria do avelar/id=b1793-9-per4
+               ls$residencia/vila
 
       bap$b1793-10/10/3/1793/fl.29v/igreja de santa maria/joao carlos da silva
 
          n$maria/f/id=b1793-10-per1
             ls$datanasc/17930226
 
-         pn$antonio francisco/id=b1793-10-per2
-            ls$naturalidade/tornada
-            ls$freguesia/nossa senhora da anunciacao
-            ls$locbaptismo/freguesia de nossa senhora da anunciacao
-            ls$loccasamento/freguesia de sao pedro
-            ls$residencia/dagorda
+            pn$antonio francisco/id=b1793-10-per2
+               ls$naturalidade/tornada
+               ls$freguesia/nossa senhora da anunciacao
+               ls$locbaptismo/freguesia de nossa senhora da anunciacao
+               ls$loccasamento/freguesia de sao pedro
+               ls$residencia/dagorda
 
-         mn$maria inacia/id=b1793-10-per3
-            ls$naturalidade/vidais
-            ls$freguesia/nossa senhora da piedade
-            ls$locbaptismo/freguesia de nossa senhora da piedade
+            mn$maria inacia/id=b1793-10-per3
+               ls$naturalidade/vidais
+               ls$freguesia/nossa senhora da piedade
+               ls$locbaptismo/freguesia de nossa senhora da piedade
 
-         pad$francisco rodrigues/id=b1793-10-per4
-            ls$residencia/dagorda
+            pad$francisco rodrigues/id=b1793-10-per4
+               ls$residencia/dagorda
 
       bap$b1793-11/10/3/1793/fl.29v-30/igreja de santa maria/joao carlos da silva
 
          n$victoriano/m/id=b1793-11-per1
             ls$datanasc/17930227
 
-         pn$joao francisco/id=b1793-11-per2
-            ls$naturalidade/bombarral
-            ls$freguesia/sao salvador
-            ls$locbaptismo/freguesia de sao salvador
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/santa maria
+            pn$joao francisco/id=b1793-11-per2
+               ls$naturalidade/bombarral
+               ls$freguesia/sao salvador
+               ls$locbaptismo/freguesia de sao salvador
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/santa maria
 
-         mn$maria gertrudes/id=b1793-11-per3
-            ls$naturalidade/vila
-            ls$freguesia/santa maria
+            mn$maria gertrudes/id=b1793-11-per3
+               ls$naturalidade/vila
+               ls$freguesia/santa maria
 
-         pad$victoriano jose do rosario/id=b1793-11-per4
-            ls$residencia/vila
+            pad$victoriano jose do rosario/id=b1793-11-per4
+               ls$residencia/vila
 
       bap$b1793-12/17/3/1793/fl.30/igreja de santa maria/joao carlos da silva/obs=baptizou sub conditione
 
          n$luis/m/id=b1793-12-per1
             ls$datanasc/17930306
 
-         pn$tiago luis/id=b1793-12-per2
-            ls$naturalidade/amoreira
-            ls$freguesia/nossa senhora da aboboris
-            ls$locbaptismo/freguesia de nossa senhora da aboboris
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/quinta da granja
+            pn$tiago luis/id=b1793-12-per2
+               ls$naturalidade/amoreira
+               ls$freguesia/nossa senhora da aboboris
+               ls$locbaptismo/freguesia de nossa senhora da aboboris
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/quinta da granja
 
-         mn$ana cecilia/id=b1793-12-per3
-            ls$naturalidade/dagorda
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$ana cecilia/id=b1793-12-per3
+               ls$naturalidade/dagorda
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad$luis de melo da silva e sa/id=b1793-12-per4
-            ls$residencia/amoreira
+            pad$luis de melo da silva e sa/id=b1793-12-per4
+               ls$residencia/amoreira
 
-         procurador-pad$luis antonio de andrade/id=b1793-12-per5
-            ls$residencia/amoreira
+            procurador-pad$luis antonio de andrade/id=b1793-12-per5
+               ls$residencia/amoreira
 
       bap$b1793-13/14/4/1793/fl.30/igreja de santa maria/joao carlos da silva/obs=baptizou em necessidade em casa
 
          n$maria/f/id=b1793-13-per1
             ls$datanasc/17930316
 
-         pn$jose pinto/id=b1793-13-per2
-            ls$naturalidade/vila
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/santa maria
+            pn$jose pinto/id=b1793-13-per2
+               ls$naturalidade/vila
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/santa maria
 
-         mn$barbara joaquina/id=b1793-13-per3
-            ls$naturalidade/vila
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$barbara joaquina/id=b1793-13-per3
+               ls$naturalidade/vila
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad$jose luis carreira/id=b1793-13-per4
-            ls$residencia/lisboa
+            pad$jose luis carreira/id=b1793-13-per4
+               ls$residencia/lisboa
 
-         procurador-pad$antonio moreira de gois/id=b1793-13-per5
-            ls$residencia/vila
+            procurador-pad$antonio moreira de gois/id=b1793-13-per5
+               ls$residencia/vila
 
       bap$b1793-14/18/4/1793/fl.30/igreja de santa maria/joao carlos da silva
 
          n$jose/m/id=b1793-14-per1
             ls$datanasc/17920324
 
-         pn$tomas de aquino/id=b1793-14-per2
-            ls$naturalidade/vila
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/santa maria
+            pn$tomas de aquino/id=b1793-14-per2
+               ls$naturalidade/vila
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/santa maria
 
-         mn$maria de jesus/id=b1793-14-per3
-            ls$naturalidade/peniche
-            ls$freguesia/sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria de jesus/id=b1793-14-per3
+               ls$naturalidade/peniche
+               ls$freguesia/sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad$jeronimo crispiano nunes dos reis/id=b1793-14-per4
-            ls$residencia/vila
+            pad$jeronimo crispiano nunes dos reis/id=b1793-14-per4
+               ls$residencia/vila
 
       bap$b1793-15/21/4/1793/fl.30v/igreja de santa maria/joao carlos da silva
 
          n$antonio/m/id=b1793-15-per1
             ls$datanasc/17930412
 
-         pn$vitorino pereira/id=b1793-15-per2
-            ls$naturalidade/gaeiras de sao marcos
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/gaeiras
+            pn$vitorino pereira/id=b1793-15-per2
+               ls$naturalidade/gaeiras de sao marcos
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/gaeiras
 
-         mn$rita joaquina/id=b1793-15-per3
+            mn$rita joaquina/id=b1793-15-per3
 
-         pmn$nome desconhecido/id=b1793-15-per4
+               pmn$nome desconhecido/id=b1793-15-per4
 
-         mmn$nome desconhecido/id=b1793-15-per5
-            ls$locbaptismo/freguesia de santa justa/lisboa
+               mmn$nome desconhecido/id=b1793-15-per5
+                  ls$locbaptismo/freguesia de santa justa, lisboa
 
-         pad$manuel antonio/id=b1793-15-per6
-            ls$residencia/gaeiras
+            pad$manuel antonio/id=b1793-15-per6
+               ls$residencia/gaeiras
 
       bap$b1793-16/21/4/1793/fl.30v/igreja de santa maria/joao carlos da silva
 
          n$rita/f/id=b1793-16-per1
             ls$datanasc/17920408
 
-         pn$agostinho goncalves/id=b1793-16-per2
-            ls$naturalidade/casal do zambujeiro
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/casal do zambujeiro
+            pn$agostinho goncalves/id=b1793-16-per2
+               ls$naturalidade/casal do zambujeiro
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/casal do zambujeiro
 
-         mn$maria vicencia/id=b1793-16-per3
-            ls$naturalidade/lisboa
-            ls$freguesia/santa isabel rainha de portugal
-            ls$locbaptismo/freguesia de santa isabel rainha de portugal
+            mn$maria vicencia/id=b1793-16-per3
+               ls$naturalidade/lisboa
+               ls$freguesia/santa isabel rainha de portugal
+               ls$locbaptismo/freguesia de santa isabel rainha de portugal
 
-         pad$manuel francisco/id=b1793-16-per4
-            ls$residencia/gaeiras
+            pad$manuel francisco/id=b1793-16-per4
+               ls$residencia/gaeiras
 
       bap$b1793-17/28/4/1793/fl.30v/igreja de santa maria/joao carlos da silva
 
          n$anastacia/f/id=b1793-17-per1
             ls$datanasc/17930415
 
-         pn$valentim jose/id=b1793-17-per2
-            ls$naturalidade/carvalhal
-            ls$freguesia/bom jesus de sao pedro
-            ls$locbaptismo/freguesia de bom jesus de sao pedro
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/gaeiras de sao marcos
+            pn$valentim jose/id=b1793-17-per2
+               ls$naturalidade/carvalhal
+               ls$freguesia/bom jesus de sao pedro
+               ls$locbaptismo/freguesia de bom jesus de sao pedro
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/gaeiras de sao marcos
 
-         mn$cecilia inacia/id=b1793-17-per3
-            ls$naturalidade/gaeiras de sao marcos
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$cecilia inacia/id=b1793-17-per3
+               ls$naturalidade/gaeiras de sao marcos
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad$teotonio dos santos/id=b1793-17-per4
-            ls$residencia/gaeiras de sao marcos
+            pad$teotonio dos santos/id=b1793-17-per4
+               ls$residencia/gaeiras de sao marcos
 
       bap$b1793-18/19/5/1793/fl.30v-31/igreja de santa maria/joao carlos da silva
 
          n$antonio/m/id=b1793-18-n
             ls$datanasc/17930530
 
-         pn$antonio da silva/id=b1793-18-per1
-            ls$naturalidade/casais de alentejo
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/casais de alentejo
+            pn$antonio da silva/id=b1793-18-per1
+               ls$naturalidade/casais de alentejo
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/casais de alentejo
 
-         mn$maria joaquina/id=b1793-18-per2
-            ls$naturalidade/casais de alentejo
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$maria joaquina/id=b1793-18-per2
+               ls$naturalidade/casais de alentejo
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad$joaquim miguel/id=b1793-18-per3
-            ls$residencia/vila
+            pad$joaquim miguel/id=b1793-18-per3
+               ls$residencia/vila
 
-         mad$ana joaquina/id=b1793-18-per4
-            rel$parentesco/tia/antonio/b1793-18-n
+            mad$ana joaquina/id=b1793-18-per4
+               rel$parentesco/tia/antonio/b1793-18-n
 
       bap$b1793-19/1/6/1793/fl.31/igreja de santa maria/joao carlos da silva
 
          n$rufina/f/id=b1793-19-per1
             ls$datanasc/17930621
 
-         pn$jose henriques/id=b1793-19-per2
-            ls$naturalidade/dagorda
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/dagorda
+            pn$jose henriques/id=b1793-19-per2
+               ls$naturalidade/dagorda
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/dagorda
 
-         mn$josefa do desterro/id=b1793-19-per3
-            ls$naturalidade/quinta da granja
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$josefa do desterro/id=b1793-19-per3
+               ls$naturalidade/quinta da granja
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad$rafael antonio/id=b1793-19-per4
-            ls$residencia/dagorda
+            pad$rafael antonio/id=b1793-19-per4
+               ls$residencia/dagorda
 
-         mad$maria da piedade/id=b1793-19-per5
-            ls$residencia/dagorda
+            mad$maria da piedade/id=b1793-19-per5
+               ls$residencia/dagorda
 
       bap$b1793-20/9/6/1793/fl.31/igreja de santa maria/joao carlos da silva
 
          n$joaquina/f/id=b1793-20-per1
             ls$datanasc/17930519
 
-         pn$manuel marques/id=b1793-20-per2
-            ls$naturalidade/usseira
-            ls$freguesia/sao pedro
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/fraldeu
+            pn$manuel marques/id=b1793-20-per2
+               ls$naturalidade/usseira
+               ls$freguesia/sao pedro
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/fraldeu
 
-         mn$angelica maria/id=b1793-20-per3
-            ls$naturalidade/fraldeu
-            ls$freguesia/santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$angelica maria/id=b1793-20-per3
+               ls$naturalidade/fraldeu
+               ls$freguesia/santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad$francisco marques/id=b1793-20-per4
-            ls$residencia/usseira
+            pad$francisco marques/id=b1793-20-per4
+               ls$residencia/usseira
 
-         mad$joaquina maria/id=b1793-20-per5
-            ls$residencia/fraldeu
+            mad$joaquina maria/id=b1793-20-per5
+               ls$residencia/fraldeu
 
       bap$b1793-21/7/7/1793/fl.31-31v/igreja de santa maria/joaquim jose de matos/obs=paroco encomendado e beneficiado
 
          n$antonio/m/id=b1793-21-per1
             ls$datanasc/17930701
 
-         pn$caetano henriques/id=b1793-21-per2
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/dagorda/santa maria
+            pn$caetano henriques/id=b1793-21-per2
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/dagorda, santa maria
 
-         ppn$nome desconhecido/id=b1793-21-per3
+               ppn$nome desconhecido/id=b1793-21-per3
 
-         mpn$nome desconhecido/id=b1793-21-per4
+               mpn$nome desconhecido/id=b1793-21-per4
 
-         mn$quiteria do desterro/id=b1793-21-per5
-            ls$locbaptismo/freguesia de santa maria
+            mn$quiteria do desterro/id=b1793-21-per5
+               ls$locbaptismo/freguesia de santa maria
 
-         pmn$antonio pedro/id=b1793-21-per6
-            ls$locbaptismo/freguesia de santa maria
+               pmn$antonio pedro/id=b1793-21-per6
+                  ls$locbaptismo/freguesia de santa maria
 
-         mmn$catarina maria/id=b1793-21-per7
-            ls$locbaptismo/freguesia de sao joao de moxarro
+               mmn$catarina maria/id=b1793-21-per7
+                  ls$locbaptismo/freguesia de sao joao de moxarro
 
-         pad$antonio joaquim/id=b1793-21-per8
-            ls$residencia/dagorda
+            pad$antonio joaquim/id=b1793-21-per8
+               ls$residencia/dagorda
 
-         mad$senhora do desterro/id=b1793-21-per9
+            mad$senhora do desterro/id=b1793-21-per9
 
-         procurador-mad$francisco jose/obs=tocou com a coroa/id=b1793-21-per10
-            ls$residencia/dagorda
+            procurador-mad$francisco jose/obs=tocou com a coroa/id=b1793-21-per10
+               ls$residencia/dagorda
 
       bap$b1793-22/7/7/1793/fl.31v/igreja de santa maria/joaquim jose de matos/obs=paroco encomendado e beneficiado
 
          n$joao/m/id=b1793-22-per1
             ls$datanasc/17939624
 
-         pn$joao rodrigues/id=b1793-22-per2
-            ls$locbaptismo/freguesia de santa eufemia/cos/obs=vila. duvida. cos
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/gaeiras
+            pn$joao rodrigues/id=b1793-22-per2
+               ls$locbaptismo/freguesia de santa eufemia, cos/obs=vila. duvida. cos
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/gaeiras
 
-         mn$umbelina rosa/id=b1793-22-per3
-            ls$locbaptismo/freguesia de santa maria
+            mn$umbelina rosa/id=b1793-22-per3
+               ls$locbaptismo/freguesia de santa maria
 
-         ppn$jose rodrigues/id=b1793-22-per4
-            ls$naturalidade/cos/obs=vila. duvida
+            ppn$jose rodrigues/id=b1793-22-per4
+               ls$naturalidade/cos/obs=vila. duvida
 
-         mpn$joaquina maria/id=b1793-22-per5
-            ls$naturalidade/cos/obs=vila. duvida
+            mpn$joaquina maria/id=b1793-22-per5
+               ls$naturalidade/cos/obs=vila. duvida
 
-         pmn$antonio de oliveira/id=b1793-22-per6
-            ls$residencia/gaeiras
+            pmn$antonio de oliveira/id=b1793-22-per6
+               ls$residencia/gaeiras
 
-         mmn$silvestra joaquina/id=b1793-22-per7
+            mmn$silvestra joaquina/id=b1793-22-per7
 
-         pad$jose paulo de oliveira e fonseca/id=b1793-22-per8
+            pad$jose paulo de oliveira e fonseca/id=b1793-22-per8
 
-         mad$joaquina maria/id=b1793-22-per9
-            ls$residencia/gaeiras
+            mad$joaquina maria/id=b1793-22-per9
+               ls$residencia/gaeiras
 
       bap$b1793-23/14/8/1793/fl.31v-32/igreja de santa maria/joaquim jose de matos/obs=paroco encomendado e beneficiado
 
          n$joana/f/id=b1793-23-per1
             ls$datanasc/17930721
 
-         pn$jose gomes/id=b1793-23-per2
-            ls$residencia/vila
-            ls$freguesia/santa maria
+            pn$jose gomes/id=b1793-23-per2
+               ls$residencia/vila
+               ls$freguesia/santa maria
 
-         mn$maria josefa delfina/id=b1793-23-per3
+            mn$maria josefa delfina/id=b1793-23-per3
 
-         pad$antonio maria pacheco de brito pegado/id=b1793-23-per4
+            pad$antonio maria pacheco de brito pegado/id=b1793-23-per4
 
-         mad$joana rita de sao jose/id=b1793-23-per5
+            mad$joana rita de sao jose/id=b1793-23-per5
 
-         procurador-mad$joao caetano da fonseca neves/id=b1793-23-per6
-            ls$profissao/padre
+            procurador-mad$joao caetano da fonseca neves/id=b1793-23-per6
+               ls$profissao/padre
 
       bap$b1793-24/22/8/1793/fl.32/igreja de santa maria/joaquim jose de matos/obs=paroco encomendado e beneficiado
 
          n$ana/f/id=b1793-24-per1
             ls$datanasc/17930726
 
-         pn$joaquim dos reis/id=b1793-24-per2
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia da senhora da conceicao/cadaval
-            ls$residencia/vila
-            ls$freguesia/santa maria
+            pn$joaquim dos reis/id=b1793-24-per2
+               ls$locbaptismo/freguesia de santa maria
+               ls$loccasamento/freguesia da senhora da conceicao, cadaval
+               ls$residencia/vila
+               ls$freguesia/santa maria
 
-         mn$maria quiteria/id=b1793-24-per3
-            ls$locbaptismo/freguesia da senhora da purificacao/rolica
+            mn$maria quiteria/id=b1793-24-per3
+               ls$locbaptismo/freguesia da senhora da purificacao, rolica
 
-         ppn$antonio dos reis/id=b1793-24-per4
-            ls$residencia/vila
+            ppn$antonio dos reis/id=b1793-24-per4
+               ls$residencia/vila
 
-         mpn$antonia joaquina/id=b1793-24-per5
+            mpn$antonia joaquina/id=b1793-24-per5
 
-         pmn$jose francisco/id=b1793-24-per6
-            ls$residencia/cadaval
+            pmn$jose francisco/id=b1793-24-per6
+               ls$residencia/cadaval
 
-         mmn$quiteria maria/id=b1793-24-per7
+            mmn$quiteria maria/id=b1793-24-per7
 
-         pad$jose francisco/id=b1793-24-per8
-            ls$residencia/cadaval
+            pad$jose francisco/id=b1793-24-per8
+               ls$residencia/cadaval
 
-         mad$santa ana/id=b1793-24-per9
+            mad$santa ana/id=b1793-24-per9
 
-         procurador-mad$joaquim antonio de sequeira/id=b1793-24-per10
-            ls$cargo/tesoureiro/obs=da igreja de santa maria. tocou com a coroa
+            procurador-mad$joaquim antonio de sequeira/id=b1793-24-per10
+               ls$cargo/tesoureiro/obs=da igreja de santa maria. tocou com a coroa
 
       bap$b1793-25/23/8/1793/fl.32-32v/igreja de santa maria/joaquim jose de matos/obs=paroco encomendado e beneficiado
 
          n$maria/f/obs=em lateral esta escrito maria do carmo/id=b1793-25-per1
             ls$datanasc/17930716
 
-         pn$manuel caetano de avelar/id=b1793-25-per2
-            ls$residencia/vila
-            ls$freguesia/santa maria
+            pn$manuel caetano de avelar/id=b1793-25-per2
+               ls$residencia/vila
+               ls$freguesia/santa maria
 
-         mn$francisca rosa de avelar/id=b1793-25-per3
-            ls$titulo/dona
+            mn$francisca rosa de avelar/id=b1793-25-per3
+               ls$titulo/dona
 
-         pad$manuel caetano de sousa/id=b1793-25-per4
-            ls$cargo/tenente coronel da infantaria
+            pad$manuel caetano de sousa/id=b1793-25-per4
+               ls$cargo/tenente coronel da infantaria
 
-         mad$nossa senhora do carmo/id=b1793-25-per5
+            mad$nossa senhora do carmo/id=b1793-25-per5
 
-         procurador-mad$raimundo nonato jose furtado/obs=tocou com a coroa/id=b1793-25-per6
-            ls$profissao/padre/obs=desta vila
+            procurador-mad$raimundo nonato jose furtado/obs=tocou com a coroa/id=b1793-25-per6
+               ls$profissao/padre/obs=desta vila
 
-         procurador-pad$miguel barbosa neves/id=b1793-25-per7
-            ls$titulo/reverendo
-            ls$cargo/beneficiado
+            procurador-pad$miguel barbosa neves/id=b1793-25-per7
+               ls$titulo/reverendo
+               ls$cargo/beneficiado
 
       bap$b1793-26/26/10/1793/fl.32v/igreja de santa maria/joaquim jose de matos/obs= paroco encomendado e beneficiado. deu licenca a jose joaquim xavier tavares
 
          n$delfina/f/id=b1793-26-n
             ls$datanasc/17931013
 
-         pn$manuel correia/id=b1793-26-per1
-            ls$loccasamento/freguesia de sao pedro
-            ls$residencia/vila
-            ls$freguesia/santa maria
+            pn$manuel correia/id=b1793-26-per1
+               ls$loccasamento/freguesia de sao pedro
+               ls$residencia/vila
+               ls$freguesia/santa maria
 
-         mn$joana joaquina/id=b1793-26-per2
+            mn$joana joaquina/id=b1793-26-per2
 
-         pad$sebastiao de castro/id=b1793-26-per3
+            pad$sebastiao de castro/id=b1793-26-per3
 
-         mad$nossa senhora da nazare/id=b1793-26-per4
+            mad$nossa senhora da nazare/id=b1793-26-per4
 
-         procurador-mad$joao pereira/obs=tocou a coroa/id=b1793-26-per5
-            ls$cargo/tesoureiro/obs=da misericordia
+            procurador-mad$joao pereira/obs=tocou a coroa/id=b1793-26-per5
+               ls$cargo/tesoureiro/obs=da misericordia
 
             referido$jose joaquim xavier tavares/id=b1793-26-per5-per6
                ls$cargo/vigario
@@ -1394,181 +1394,181 @@ kleio$gacto2.str/prefix=stmaria
          n$antonio/m/id=b1793-27-per1
             ls$datanasc/17930923
 
-         pn$antonio da costa/id=b1793-27-per2
-            ls$residencia/casal da memoria do senhor
-            ls$freguesia/santa maria
+            pn$antonio da costa/id=b1793-27-per2
+               ls$residencia/casal da memoria do senhor
+               ls$freguesia/santa maria
 
-         mn$maria teresa/id=b1793-27-per3
+            mn$maria teresa/id=b1793-27-per3
 
-         pad$antonio francisco/id=b1793-27-per4
-            ls$residencia/vila
+            pad$antonio francisco/id=b1793-27-per4
+               ls$residencia/vila
 
-         mad$senhora da piedade/id=b1793-27-per5
+            mad$senhora da piedade/id=b1793-27-per5
 
-         procurador-mad$gregorio antonio/id=b1793-27-per6
-            ls$ec/v
-            ls$residencia/vila
+            procurador-mad$gregorio antonio/id=b1793-27-per6
+               ls$ec/v
+               ls$residencia/vila
 
       bap$b1793-28/10/11/1793/fl.33/igreja de santa maria/jose joaquim xavier tavares/obs=prior
 
          n$antonio/m/id=b1793-28-per1
             ls$datanasc/17931101
 
-         pn$lourenco rodrigues/id=b1793-28-per2
-            ls$loccasamento/freguesia de santa maria
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
+            pn$lourenco rodrigues/id=b1793-28-per2
+               ls$loccasamento/freguesia de santa maria
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
 
-         mn$violante maria/id=b1793-28-per3
+            mn$violante maria/id=b1793-28-per3
 
-         pad$camilo henriques/id=b1793-28-per4
-            ls$ec/s
-            ls$residencia/vila
+            pad$camilo henriques/id=b1793-28-per4
+               ls$ec/s
+               ls$residencia/vila
 
-         mad$maria rosa/id=b1793-28-per5
-            ls$residencia/gaeiras
+            mad$maria rosa/id=b1793-28-per5
+               ls$residencia/gaeiras
 
       bap$b1793-29/30/12/1793/fl.33-33v/igreja de santa maria/jose joaquim xavier tavares/obs=prior
 
          n$antonio/m/id=b1793-29-per1
             ls$datanasc/17931223
 
-         pn$joaquim claudio/id=b1793-29-per2
-            ls$residencia/vila
-            ls$freguesia/santa maria
+            pn$joaquim claudio/id=b1793-29-per2
+               ls$residencia/vila
+               ls$freguesia/santa maria
 
-         mn$maria rita do carmo e sequeira/id=b1793-29-per3
-            ls$titulo/dona
+            mn$maria rita do carmo e sequeira/id=b1793-29-per3
+               ls$titulo/dona
 
-         ppn$joao manuel da silva freire/id=b1793-29-per4
+            ppn$joao manuel da silva freire/id=b1793-29-per4
 
-         mpn$violante barbara de souto maior/id=b1793-29-per5
+            mpn$violante barbara de souto maior/id=b1793-29-per5
 
-         pmn$antonio moreira chaves/id=b1793-29-per6
-            ls$cargo/capitao
+            pmn$antonio moreira chaves/id=b1793-29-per6
+               ls$cargo/capitao
 
-         mmn$feliciana josefa da conceicao/id=b1793-29-per7
-            ls$titulo/dona
+            mmn$feliciana josefa da conceicao/id=b1793-29-per7
+               ls$titulo/dona
 
-         pad$caetano jose de proenca/id=b1793-29-per8
-            ls$residencia/caldas da rainha
+            pad$caetano jose de proenca/id=b1793-29-per8
+               ls$residencia/caldas da rainha
 
-         mad$santa ana/id=b1793-29-per9
+            mad$santa ana/id=b1793-29-per9
 
-         procurador-mad$joaquim jose soares/obs=tocou a coroa de santa ana/id=b1793-29-per10
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria
+            procurador-mad$joaquim jose soares/obs=tocou a coroa de santa ana/id=b1793-29-per10
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria
 
       bap$b1794-7/20/1/1794/fl.33v-34/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$antonio/m/id=b1794-7-per1
             ls$datanasc/17940114
 
-         pn$jose francisco/id=b1794-7-per2
-            ls$naturalidade/arelho, freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao tiago de obidos de obidos
-            ls$loccasamento/sao pedro de obidos
-            ls$residencia/obidos
+            pn$jose francisco/id=b1794-7-per2
+               ls$naturalidade/arelho, freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao tiago de obidos de obidos
+               ls$loccasamento/sao pedro de obidos
+               ls$residencia/obidos
 
-         mn$josefa maria/id=b1794-7-per3
-            ls$naturalidade/landal
-            ls$locbaptismo/freguesia do landal
+            mn$josefa maria/id=b1794-7-per3
+               ls$naturalidade/landal
+               ls$locbaptismo/freguesia do landal
 
-         ppn$jose francisco/id=b1794-7-per4
-            ls$naturalidade/tras do outeiro
+            ppn$jose francisco/id=b1794-7-per4
+               ls$naturalidade/tras do outeiro
 
-         mpn$antonia pereira/id=b1794-7-per5
-            ls$naturalidade/tras do outeiro
+            mpn$antonia pereira/id=b1794-7-per5
+               ls$naturalidade/tras do outeiro
 
-         pmn$francisco de almeida/id=b1794-7-per6
-            ls$naturalidade/landal
+            pmn$francisco de almeida/id=b1794-7-per6
+               ls$naturalidade/landal
 
-         mpn$guimar maria/id=b1794-7-per7
-            ls$naturalidade/landal
+            mpn$guimar maria/id=b1794-7-per7
+               ls$naturalidade/landal
 
-         pad$antonio de padua/id=b1794-7-per8
-            ls$cargo/beneficiado da igreja de sao tiago
-            ls$residencia/obidos
+            pad$antonio de padua/id=b1794-7-per8
+               ls$cargo/beneficiado da igreja de sao tiago
+               ls$residencia/obidos
 
-         mad$maria rita eufemia cotrim/id=b1794-7-mad
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad$maria rita eufemia cotrim/id=b1794-7-mad
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         procurador-mad$manuel de santa ana/id=b1794-7-per9
-            ls$titulo/frei
-            ls$profissao/religioso
-            ls$ordem/s. jeronimo/obs=do convento de vale benfeito
-            rel$parentesco/tio/maria rita eufemia cotrim/b1794-7-mad
+            procurador-mad$manuel de santa ana/id=b1794-7-per9
+               ls$titulo/frei
+               ls$profissao/religioso
+               ls$ordem/s. jeronimo/obs=do convento de vale benfeito
+               rel$parentesco/tio/maria rita eufemia cotrim/b1794-7-mad
 
       bap$b1794-8/26/1/1794/fl.34/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$francisca/f/id=b1794-8-n
             ls$datanasc/17940116
 
-         pn$jose rodrigues/id=b1794-8-per1
-            ls$naturalidade/cos
-            ls$locbaptismo/freguesia de cos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/gaeiras
+            pn$jose rodrigues/id=b1794-8-per1
+               ls$naturalidade/cos
+               ls$locbaptismo/freguesia de cos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/gaeiras
 
-         mn$teresa de jesus/id=b1794-8-per2
-            ls$naturalidade/gaeiras
-            ls$freguesia/santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$teresa de jesus/id=b1794-8-per2
+               ls$naturalidade/gaeiras
+               ls$freguesia/santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         ppn$jose rodrigues/id=b1794-8-per3
-            ls$residencia/cos
+            ppn$jose rodrigues/id=b1794-8-per3
+               ls$residencia/cos
 
-         mpn$joaquina maria/id=b1794-8-per4
+            mpn$joaquina maria/id=b1794-8-per4
 
-         pmn$manuel soares/id=b1794-8-per5
-            ls$residencia/gaeiras
+            pmn$manuel soares/id=b1794-8-per5
+               ls$residencia/gaeiras
 
-         mmn$rita maria/id=b1794-8-per6
+            mmn$rita maria/id=b1794-8-per6
 
-         pad$francisco soares/id=b1794-8-per7
-            rel$parentesco/tio/francisca/b1794-8-n
+            pad$francisco soares/id=b1794-8-per7
+               rel$parentesco/tio/francisca/b1794-8-n
 
-         mad$clara maria/id=b1794-8-per8
-            ls$residencia/avenal/caldas da rainha
+            mad$clara maria/id=b1794-8-per8
+               ls$residencia/avenal, caldas da rainha
 
-         referido$joaquim jose soares jeronimo/id=b1794-8-per9
-            ls$titulo/reverendo
-            ls$cargo/economo da igreja de santa maria
-            ls$profissao/padre
-            rel$sociabilidade/baptizou/francisca/b1794-8-n
+            referido$joaquim jose soares jeronimo/id=b1794-8-per9
+               ls$titulo/reverendo
+               ls$cargo/economo da igreja de santa maria
+               ls$profissao/padre
+               rel$sociabilidade/baptizou/francisca/b1794-8-n
 
       bap$b1794-9/9/2/1794/fl.34-34v/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$antonio/m/id=b1794-9-n
             ls$datanasc/17940128
 
-         pn$vitorino da costa/id=b1794-9-per1
-            ls$naturalidade/gaeiras, freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de sao pedro de obidos
+            pn$vitorino da costa/id=b1794-9-per1
+               ls$naturalidade/gaeiras, freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de sao pedro de obidos
 
-         mn$ana maria/id=b1794-9-per2
-            ls$naturalidade/gaeiras
+            mn$ana maria/id=b1794-9-per2
+               ls$naturalidade/gaeiras
 
-         ppn$valeriano da costa/id=b1794-9-per3
-            ls$naturalidade/gaeiras
+            ppn$valeriano da costa/id=b1794-9-per3
+               ls$naturalidade/gaeiras
 
-         mpn$sebastiana maria/id=b1794-9-per4
-            ls$naturalidade/gaeiras
+            mpn$sebastiana maria/id=b1794-9-per4
+               ls$naturalidade/gaeiras
 
-         pmn$sebastiao mendes/id=b1794-9-per5
-            ls$residencia/casal do convento/obs=duvida. naturalidade ou residencia
+            pmn$sebastiao mendes/id=b1794-9-per5
+               ls$residencia/casal do convento/obs=duvida. naturalidade ou residencia
 
-         mmn$maria ferreira/id=b1794-9-per6
+            mmn$maria ferreira/id=b1794-9-per6
 
-         pad$antonio henriques/id=b1794-9-per7
-            ls$residencia/casal da bochardia
+            pad$antonio henriques/id=b1794-9-per7
+               ls$residencia/casal da bochardia
 
-         mad$nossa senhora do rosario/id=b1794-9-per8
+            mad$nossa senhora do rosario/id=b1794-9-per8
 
-         procurador-mad$francisco de almeida/id=b1794-9-per9
-            ls$residencia/obidos
+            procurador-mad$francisco de almeida/id=b1794-9-per9
+               ls$residencia/obidos
 
             referido$joaquim jose soares jeronimo/id=b1794-9-per9-per10
                ls$titulo/reverendo
@@ -1581,32 +1581,32 @@ kleio$gacto2.str/prefix=stmaria
          n$maria/f/id=b1794-10-n
             ls$datanasc/17930121
 
-         pn$jose martins/id=b1794-10-per1
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao tiago de obidos
-            ls$residencia/obidos
+            pn$jose martins/id=b1794-10-per1
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao tiago de obidos
+               ls$residencia/obidos
 
-         mn$barbara dos santos/id=b1794-10-per2
-            ls$naturalidade/famalicao
+            mn$barbara dos santos/id=b1794-10-per2
+               ls$naturalidade/famalicao
 
-         ppn$antonio martins/id=b1794-10-per3
-            ls$residencia/obidos
+            ppn$antonio martins/id=b1794-10-per3
+               ls$residencia/obidos
 
-         mpn$ana maria/id=b1794-10-per4
+            mpn$ana maria/id=b1794-10-per4
 
-         pmn$francisco jose/id=b1794-10-per5
-            ls$residencia/famalicao
+            pmn$francisco jose/id=b1794-10-per5
+               ls$residencia/famalicao
 
-         mmn$antonia de jesus/id=b1794-10-per6
+            mmn$antonia de jesus/id=b1794-10-per6
 
-         pad$gregorio da costa/id=b1794-10-per7
-            ls$residencia/obidos
+            pad$gregorio da costa/id=b1794-10-per7
+               ls$residencia/obidos
 
-         mad$joana do carmo/id=b1794-10-per8
-            ls$residencia/cos/obs=vila
+            mad$joana do carmo/id=b1794-10-per8
+               ls$residencia/cos/obs=vila
 
-         procuradora-mad$maria joaquina/id=b1794-10-per9
-            ls$residencia/obidos
+            procuradora-mad$maria joaquina/id=b1794-10-per9
+               ls$residencia/obidos
 
             referido$joaquim jose soares/id=b1794-10-per9-per10
                ls$titulo/reverendo
@@ -1619,71 +1619,71 @@ kleio$gacto2.str/prefix=stmaria
          n$francisco/m/id=b1794-11-per1
             ls$datanasc/17940203
 
-         pn$manuel da silva/id=b1794-11-per2
-            ls$naturalidade/bispado de braga
+            pn$manuel da silva/id=b1794-11-per2
+               ls$naturalidade/bispado de braga
 
-         mn$rosa maria/id=b1794-11-per3
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/obidos
+            mn$rosa maria/id=b1794-11-per3
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/obidos
 
-         ppn$manuel da silva/id=b1794-11-per4
+            ppn$manuel da silva/id=b1794-11-per4
 
-         mpn$joana da silva/id=b1794-11-per5
+            mpn$joana da silva/id=b1794-11-per5
 
-         pmn$antonio henriques/id=b1794-11-per6
+            pmn$antonio henriques/id=b1794-11-per6
 
-         mmn$escolastica maria/id=b1794-11-per7
+            mmn$escolastica maria/id=b1794-11-per7
 
-         pad$tiago luis/id=b1794-11-per8
-            ls$residencia/quinta da granja
-            rel$parentesco/pai/gertrudes maria/b1794-11-mad
+            pad$tiago luis/id=b1794-11-per8
+               ls$residencia/quinta da granja
+               rel$parentesco/pai/gertrudes maria/b1794-11-mad
 
-         mad$gertrudes maria/id=b1794-11-mad
+            mad$gertrudes maria/id=b1794-11-mad
 
-         procurador-mad$joao francisco/id=b1794-11-per9
-            ls$residencia/sao mamede
+            procurador-mad$joao francisco/id=b1794-11-per9
+               ls$residencia/sao mamede
 
       bap$b1794-12/28/2/1794/fl.35-35v/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$jose/m/id=b1794-12-per1
             ls$datanasc/17940131
 
-         pn$antonio jose de seixas/id=b1794-12-per2
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
-            ls$loccasamento/vila verde da serra
-            ls$residencia/obidos
+            pn$antonio jose de seixas/id=b1794-12-per2
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
+               ls$loccasamento/vila verde da serra
+               ls$residencia/obidos
 
-         mn$francisca joaquina falaxa/id=b1794-12-per3
-            ls$titulo/dona
-            ls$naturalidade/obidos verde da serra
-            ls$locbaptismo/vila verde da serra
+            mn$francisca joaquina falaxa/id=b1794-12-per3
+               ls$titulo/dona
+               ls$naturalidade/obidos verde da serra
+               ls$locbaptismo/vila verde da serra
 
-         ppn$alexandre de seixas/id=b1794-12-per4
-            ls$residencia/obidos
+            ppn$alexandre de seixas/id=b1794-12-per4
+               ls$residencia/obidos
 
-         mpn$ana joaquina/id=b1794-12-per5
-            ls$titulo/dona
+            mpn$ana joaquina/id=b1794-12-per5
+               ls$titulo/dona
 
-         pmn$isidoro jose pereira/id=b1794-12-per6
-            ls$naturalidade/vila verde
+            pmn$isidoro jose pereira/id=b1794-12-per6
+               ls$naturalidade/vila verde
 
-         mmn$joaquina rita falaxa/id=b1794-12-per7
-            ls$naturalidade/setubal
+            mmn$joaquina rita falaxa/id=b1794-12-per7
+               ls$naturalidade/setubal
 
-         pad$manuel caetano de sousa/id=b1794-12-per8
-            ls$cargo/sargento mor de lisboa
+            pad$manuel caetano de sousa/id=b1794-12-per8
+               ls$cargo/sargento mor de lisboa
 
-         mad$maria do carmo teodora/id=b1794-12-per9
-            ls$titulo/dona
-            ls$residencia/lisboa
+            mad$maria do carmo teodora/id=b1794-12-per9
+               ls$titulo/dona
+               ls$residencia/lisboa
 
-         procurador-pad$francisco inacio furtado/id=b1794-12-per10
-            ls$residencia/obidos
+            procurador-pad$francisco inacio furtado/id=b1794-12-per10
+               ls$residencia/obidos
 
-         procurador-mad$inacio jose da serra furtado/id=b1794-12-per11
-            ls$residencia/obidos
+            procurador-mad$inacio jose da serra furtado/id=b1794-12-per11
+               ls$residencia/obidos
 
             referido$joaquim jose soares jeronimo/id=b1794-12-per11-per12
                ls$titulo/reverendo
@@ -1696,99 +1696,99 @@ kleio$gacto2.str/prefix=stmaria
          n$francisco/m/id=b1794-13-per1
             ls$datanasc/17940216
 
-         pn$joao manuel de seixas/id=b1794-13-per2
-            ls$naturalidade/alvorninha, freguesia de nossa senhora da visitacao
-            ls$locbaptismo/freguesia de nossa senhora da visitacao
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/obidos
+            pn$joao manuel de seixas/id=b1794-13-per2
+               ls$naturalidade/alvorninha, freguesia de nossa senhora da visitacao
+               ls$locbaptismo/freguesia de nossa senhora da visitacao
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/obidos
 
-         mn$maria barbara da conceicao da serra melo furtado/id=b1794-13-per3
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$maria barbara da conceicao da serra melo furtado/id=b1794-13-per3
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         ppn$alexandre de seixas/id=b1794-13-per4
-            ls$naturalidade/obidos
+            ppn$alexandre de seixas/id=b1794-13-per4
+               ls$naturalidade/obidos
 
-         mpn$ana joaquina/id=b1794-13-per5
-            ls$titulo/dona
-            ls$naturalidade/quinta das lagrimas
-            ls$freguesia/alvorninha
+            mpn$ana joaquina/id=b1794-13-per5
+               ls$titulo/dona
+               ls$naturalidade/quinta das lagrimas
+               ls$freguesia/alvorninha
 
-         pmn$francisco inacio furtado/id=b1794-13-per6
-            ls$naturalidade/obidos
+            pmn$francisco inacio furtado/id=b1794-13-per6
+               ls$naturalidade/obidos
 
-         mmn$joaquina ? serra/id=b1794-13-per7
-            ls$titulo/dona
-            ls$naturalidade/belas
+            mmn$joaquina ? serra/id=b1794-13-per7
+               ls$titulo/dona
+               ls$naturalidade/belas
 
-         pad$jose joaquim reynaud/id=b1794-13-per8
-            ls$titulo/doutor
-            ls$cargo/corregedor
+            pad$jose joaquim reynaud/id=b1794-13-per8
+               ls$titulo/doutor
+               ls$cargo/corregedor
 
-         mad$nossa senhora das merces/id=b1794-13-per9
+            mad$nossa senhora das merces/id=b1794-13-per9
 
-         procurador-mad$jose de matos/id=b1794-13-per10
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            procurador-mad$jose de matos/id=b1794-13-per10
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
       bap$b1794-14/28/2/1794/fl.35v-36/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$maria/f/id=b1794-14-n
             ls$enjeitada/sim/obs=a porta de antonio ferreira farexa em 17940217. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-14-per1
+            pn$nome desconhecido/id=b1794-14-per1
 
-         mn$nome desconhecido/id=b1794-14-per2
+            mn$nome desconhecido/id=b1794-14-per2
 
-         referido$antonio ferreira farexa/obs=duvida. tarexa/id=b1794-14-per3
-            ls$residencia/sao gregorio
-            rel$sociabilidade/achou a crianca/maria/b1794-14-n
-            rel$parentesco/marido/maria caetana/b1794-14-refa
+            referido$antonio ferreira farexa/obs=duvida. tarexa/id=b1794-14-per3
+               ls$residencia/sao gregorio
+               rel$sociabilidade/achou a crianca/maria/b1794-14-n
+               rel$parentesco/marido/maria caetana/b1794-14-refa
 
-         referida$maria caetana/id=b1794-14-refa
-            rel$sociabilidade/ama/maria/b1794-14-n
+            referida$maria caetana/id=b1794-14-refa
+               rel$sociabilidade/ama/maria/b1794-14-n
 
-         pad$joao manuel de seixas/id=b1794-14-per4
-            ls$cargo/procurador do concelho
+            pad$joao manuel de seixas/id=b1794-14-per4
+               ls$cargo/procurador do concelho
 
-         referido$joaquim jose soares jeronimo/id=b1794-14-per5
-            ls$profissao/padre
-            ls$cargo/economo da colegiada de santa maria de obidos
-            rel$sociabilidade/baptizou/maria/b1794-14-n
+            referido$joaquim jose soares jeronimo/id=b1794-14-per5
+               ls$profissao/padre
+               ls$cargo/economo da colegiada de santa maria de obidos
+               rel$sociabilidade/baptizou/maria/b1794-14-n
 
       bap$b1794-15/15/3/1794/fl.36/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$francisco/m/id=b1794-15-n
             ls$datanasc/17940305
 
-         pn$jose gomes martins/id=b1794-15-per1
-            ls$naturalidade/a da gorda/obs=freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos/obs=duvida. santa maria de obidos ou sao tiago
+            pn$jose gomes martins/id=b1794-15-per1
+               ls$naturalidade/a da gorda/obs=freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos/obs=duvida. santa maria de obidos ou sao tiago
 
-         mn$ana joaquina do carmo/id=b1794-15-per2
-            ls$naturalidade/a da gorda/obs=freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de sao tiago de obidos
+            mn$ana joaquina do carmo/id=b1794-15-per2
+               ls$naturalidade/a da gorda/obs=freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de sao tiago de obidos
 
-         ppn$jose gomes de caria/id=b1794-15-per3
+            ppn$jose gomes de caria/id=b1794-15-per3
 
-         mpn$engracia maria/id=b1794-15-per4
+            mpn$engracia maria/id=b1794-15-per4
 
-         pmn$jose francisco pinto/id=b1794-15-per5
+            pmn$jose francisco pinto/id=b1794-15-per5
 
-         mmn$maria jose/id=b1794-15-per6
+            mmn$maria jose/id=b1794-15-per6
 
-         pad$jeronimo teotonio de faria e sequeria/id=b1794-15-per7
-            ls$residencia/lisboa
+            pad$jeronimo teotonio de faria e sequeria/id=b1794-15-per7
+               ls$residencia/lisboa
 
-         mad$nossa senhora do rosario/id=b1794-15-per8
+            mad$nossa senhora do rosario/id=b1794-15-per8
 
-         procurador-pad$victoriano jose do rosario/id=b1794-15-per9
+            procurador-pad$victoriano jose do rosario/id=b1794-15-per9
 
-         procurador-mad$francisco xavier da costa/id=b1794-15-per10
-            ls$residencia/obidos
-            ls$residencia/obidos
+            procurador-mad$francisco xavier da costa/id=b1794-15-per10
+               ls$residencia/obidos
+               ls$residencia/obidos
 
             referido$joaquim jose soares jeronimo/id=b1794-15-per10-per11
                ls$profissao/padre
@@ -1800,82 +1800,82 @@ kleio$gacto2.str/prefix=stmaria
          n$maria/f/id=b1794-16-n
             ls$enjeitada/sim/obs=a porta de francisco ferreira em 17940312. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-16-per1
+            pn$nome desconhecido/id=b1794-16-per1
 
-         mn$nome desconhecido/id=b1794-16-per2
+            mn$nome desconhecido/id=b1794-16-per2
 
-         referido$francisco ferreira/id=b1794-16-per3
-            ls$residencia/paco/obs=duvida
-            rel$sociabilidade/achou a crianca/maria/fb1794-16-n
+            referido$francisco ferreira/id=b1794-16-per3
+               ls$residencia/paco/obs=duvida
+               rel$sociabilidade/achou a crianca/maria/fb1794-16-n
 
-         referida$leocadia maria/id=b1794-16-refa
-            rel$sociabilidade/ama/maria/b1794-16-n
+            referida$leocadia maria/id=b1794-16-refa
+               rel$sociabilidade/ama/maria/b1794-16-n
 
-         referido$joao jorge/id=b1794-16-per4
-            ls$residencia/delgada
-            rel$parentesco/marido/leocadia maria/b1794-16-refa
+            referido$joao jorge/id=b1794-16-per4
+               ls$residencia/delgada
+               rel$parentesco/marido/leocadia maria/b1794-16-refa
 
-         pad$joao manuel de seixas/id=b1794-16-per5
-            ls$cargo/procurador do concelho
-            ls$residencia/obidos
+            pad$joao manuel de seixas/id=b1794-16-per5
+               ls$cargo/procurador do concelho
+               ls$residencia/obidos
 
       bap$b1794-17/25/3/1794/fl.36v/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$gertrudes/f/id=b1794-17-n
             ls$enjeitada/sim/obs=a porta de antonio vicente em 17940322. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-17-per1
+            pn$nome desconhecido/id=b1794-17-per1
 
-         mn$nome desconhecido/id=b1794-17-per2
+            mn$nome desconhecido/id=b1794-17-per2
 
-         referido$antonio vicente/id=b1794-17-per3
-            ls$residencia/sao bartolomeu
-            rel$sociabilidade/achou a crianca/gertrudes/b1794-17-n
+            referido$antonio vicente/id=b1794-17-per3
+               ls$residencia/sao bartolomeu
+               rel$sociabilidade/achou a crianca/gertrudes/b1794-17-n
 
-         referida$catarina tomasia/id=b1794-17-refa
-            rel$sociabilidade/ama/gertrudes/b1794-17-n
+            referida$catarina tomasia/id=b1794-17-refa
+               rel$sociabilidade/ama/gertrudes/b1794-17-n
 
-         referido$jose rodrigues/id=b1794-17-per4
-            ls$residencia/geraldes
-            rel$parentesco/marido/catarina tomasia/b1794-17-refa
+            referido$jose rodrigues/id=b1794-17-per4
+               ls$residencia/geraldes
+               rel$parentesco/marido/catarina tomasia/b1794-17-refa
 
-         pad$joao manuel de seixas/id=b1794-17-per5
-            ls$cargo/procurador do concelho
+            pad$joao manuel de seixas/id=b1794-17-per5
+               ls$cargo/procurador do concelho
 
       bap$b1794-18/30/3/1794/fl.36v-37/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$maria/f/id=b1794-18-n
             ls$datanasc/17940319
 
-         pn$feliz jose sobral/id=b1794-18-per1
-            ls$naturalidade/lisboa, freguesia da pena
-            ls$locbaptismo/lisboa, freguesia da pena
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/obidos
+            pn$feliz jose sobral/id=b1794-18-per1
+               ls$naturalidade/lisboa, freguesia da pena
+               ls$locbaptismo/lisboa, freguesia da pena
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/obidos
 
-         mn$gertrudes de santa rita/id=b1794-18-per2
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$gertrudes de santa rita/id=b1794-18-per2
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         ppn$pedro caetano do rego/id=b1794-18-per3
-            ls$residencia/lisboa
+            ppn$pedro caetano do rego/id=b1794-18-per3
+               ls$residencia/lisboa
 
-         mpn$bernarda caetana do sobral/id=b1794-18-per4
+            mpn$bernarda caetana do sobral/id=b1794-18-per4
 
-         pmn$timoteo jorge de castro/id=b1794-18-per5
-            ls$residencia/obidos
+            pmn$timoteo jorge de castro/id=b1794-18-per5
+               ls$residencia/obidos
 
-         mmn$maria rosa/id=b1794-18-per6
+            mmn$maria rosa/id=b1794-18-per6
 
-         pad$joaquim francisco da costa ?/id=b1794-18-per7
-            ls$titulo/reverendo
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            pad$joaquim francisco da costa ?/id=b1794-18-per7
+               ls$titulo/reverendo
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
-         mad$nossa senhora da conceicao/id=b1794-18-per8
+            mad$nossa senhora da conceicao/id=b1794-18-per8
 
-         procurador-mad$jose antonio leal/id=b1794-18-per9
-            ls$residencia/obidos
+            procurador-mad$jose antonio leal/id=b1794-18-per9
+               ls$residencia/obidos
 
             referido$joaquim jose soares/id=b1794-18-per9-per10
                ls$profissao/padre
@@ -1898,574 +1898,575 @@ kleio$gacto2.str/prefix=stmaria
                ls$residencia/obidos
                rel$parentesco/marido/margarida rosa/b1974-19-refa
 
-         pad$joao manuel de seixas/id=b1794-19-per3
-            ls$cargo/procurador do concelho
+            pad$joao manuel de seixas/id=b1794-19-per3
+               ls$cargo/procurador do concelho
 
-         referido$joaquim jose soares/id=b1794-19-per4
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da colegiada de santa maria de obidos
-            rel$sociabilidade/baptizou/joao/b1794-19-n
+            referido$joaquim jose soares/id=b1794-19-per4
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da colegiada de santa maria de obidos
+               rel$sociabilidade/baptizou/joao/b1794-19-n
 
       bap$b1794-20/16/4/1794/fl.37v/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=paroco que assina
 
          n$bras/m/id=b1794-20-n
             ls$datanasc/17940410
 
-         pn$luis antonio/id=b1794-20-per1
-            ls$naturalidade/amoreira
-            ls$locbaptismo/amoreira
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/gaeiras
+            pn$luis antonio/id=b1794-20-per1
+               ls$naturalidade/amoreira
+               ls$locbaptismo/amoreira
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/gaeiras
 
-         mn$joaquina rosa/id=b1794-20-per2
-            ls$naturalidade/gaeiras, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$joaquina rosa/id=b1794-20-per2
+               ls$naturalidade/gaeiras, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         ppn$jose pereira de andrade/id=b1794-20-per3
-            ls$residencia/amoreira
+            ppn$jose pereira de andrade/id=b1794-20-per3
+               ls$residencia/amoreira
 
-         mpn$severina inacia/id=b1794-20-per4
+            mpn$severina inacia/id=b1794-20-per4
 
-         pmn$jose da silva/id=b1794-20-per5
-            ls$residencia/gaeiras
+            pmn$jose da silva/id=b1794-20-per5
+               ls$residencia/gaeiras
 
-         pad$bras manuel madeira/id=b1794-20-per6
+            pad$bras manuel madeira/id=b1794-20-per6
 
-         mad$nossa senhora/id=b1794-20-per7
+            mad$nossa senhora/id=b1794-20-per7
 
-         procuradora-mad$teresa de jesus/id=b1794-20-per8
-            ls$residencia/gaeiras
+            procuradora-mad$teresa de jesus/id=b1794-20-per8
+               ls$residencia/gaeiras
 
-         ppad$joao jose/id=b1794-20-per9
-            ls$residencia/quinta do freire
+            ppad$joao jose/id=b1794-20-per9
+               ls$residencia/quinta do freire
 
-         mmn$francisca maria/id=b1794-20-per10
+            mmn$francisca maria/id=b1794-20-per10
 
-         referido$joao de deus/id=b1794-20-per11
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/coadjutor da igreja de santa maria de obidos
-            rel$sociabilidade/baptizou/bras/b1794-20-n
+            referido$joao de deus/id=b1794-20-per11
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/coadjutor da igreja de santa maria de obidos
+               rel$sociabilidade/baptizou/bras/b1794-20-n
 
       bap$b1794-21/4/5/1794/fl.37v-38/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=paroco que assina
 
          n$luis/m/id=b1794-21-n
             ls$datanasc/17940420
 
-         pn$manuel gomes/id=b1794-21-per1
-            ls$naturalidade/salgueiro, freguesia do bom jesus de sao pedro do carvalhal
-            ls$locbaptismo/freguesia do bom jesus de sao pedro do carvalhal
-            ls$loccasamento/freguesia de sao pedro de obidos
-            ls$residencia/gaeiras
+            pn$manuel gomes/id=b1794-21-per1
+               ls$naturalidade/salgueiro, freguesia do bom jesus de sao pedro do carvalhal
+               ls$locbaptismo/freguesia do bom jesus de sao pedro do carvalhal
+               ls$loccasamento/freguesia de sao pedro de obidos
+               ls$residencia/gaeiras
 
-         mn$maria joaquina/id=b1794-21-per2
-            ls$naturalidade/casal do mendes
-            ls$freguesia/sao pedro de obidos
-            ls$locbaptismo/freguesia de sao pedro de obidos
+            mn$maria joaquina/id=b1794-21-per2
+               ls$naturalidade/casal do mendes
+               ls$freguesia/sao pedro de obidos
+               ls$locbaptismo/freguesia de sao pedro de obidos
 
-         ppn$joaquim gomes/id=b1794-21-per3
-            ls$residencia/fraldeu
+            ppn$joaquim gomes/id=b1794-21-per3
+               ls$residencia/fraldeu
 
-         mpn$francisca helena/id=b1794-21-per4
+            mpn$francisca helena/id=b1794-21-per4
 
-         pmn$jose de sousa/id=b1794-21-per5
-            ls$residencia/gaeiras
+            pmn$jose de sousa/id=b1794-21-per5
+               ls$residencia/gaeiras
 
-         mmn$ana maria/id=b1794-21-per6
+            mmn$ana maria/id=b1794-21-per6
 
-         pad$luis rodrigues/id=b1794-21-per7
-            ls$residencia/cos/obs=vila
+            pad$luis rodrigues/id=b1794-21-per7
+               ls$residencia/cos/obs=vila
 
-         mad$ana maria/id=b1794-21-per8
-            ls$residencia/gaeiras
+            mad$ana maria/id=b1794-21-per8
+               ls$residencia/gaeiras
 
-         referido$joaquim jose soares/id=b1794-21-per9
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da colegiada de santa maria de obidos
-            rel$sociabilidade/baptizou/luis/b1794-21-n
+            referido$joaquim jose soares/id=b1794-21-per9
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da colegiada de santa maria de obidos
+               rel$sociabilidade/baptizou/luis/b1794-21-n
 
       bap$b1794-22/11/5/1794/fl.38-38v/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$maria/f/id=b1794-22-per1
             ls$datanasc/17940414
 
-         pn$manuel luis/id=b1794-22-per2
-            ls$naturalidade/vieira, freguesia de nossa senhora da encarnacao/obs=bispado de leiria
-            ls$locbaptismo/freguesia de nossa senhora da encarnacao/obs=bispado de leiria
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/obidos
+            pn$manuel luis/id=b1794-22-per2
+               ls$naturalidade/vieira, freguesia de nossa senhora da encarnacao/obs=bispado de leiria
+               ls$locbaptismo/freguesia de nossa senhora da encarnacao/obs=bispado de leiria
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/obidos
 
-         mn$genoveva maria/id=b1794-22-per3
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$genoveva maria/id=b1794-22-per3
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         ppn$luis sepa/id=b1794-22-per4
-            ls$naturalidade/vieira
+            ppn$luis sepa/id=b1794-22-per4
+               ls$naturalidade/vieira
 
-         mpn$mariana domingues/id=b1794-22-per5
-            ls$naturalidade/vieira
+            mpn$mariana domingues/id=b1794-22-per5
+               ls$naturalidade/vieira
 
-         pmn$nome desconhecido/id=b1794-22-per6
+            pmn$nome desconhecido/id=b1794-22-per6
 
-         mmn$nome desconhecido/id=b1794-22-per7
+            mmn$nome desconhecido/id=b1794-22-per7
 
-         pad$joaquim jose soares/id=b1794-22-per8
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria de obidos
+            pad$joaquim jose soares/id=b1794-22-per8
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria de obidos
 
-         mad$nossa senhora do rosario/id=b1794-22-per9
+            mad$nossa senhora do rosario/id=b1794-22-per9
 
-         procurador-mad$joaquim francisco da costa gaco/id=b1794-22-per10
-            ls$titulo/reverendo
-            ls$cargo/beneficiado
-            ls$cargo/economo da igreja de santa maria de obidos
+            procurador-mad$joaquim francisco da costa gaco/id=b1794-22-per10
+               ls$titulo/reverendo
+               ls$cargo/beneficiado
+               ls$cargo/economo da igreja de santa maria de obidos
 
       bap$b1794-23/25/5/1794/fl.38v/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$casimira/f/id=b1794-23-n
             ls$enjeitada/sim/obs=a porta de goncalo em 17940519. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-23-per1
+            pn$nome desconhecido/id=b1794-23-per1
 
-         mn$nome desconhecido/id=b1794-23-per2
+            mn$nome desconhecido/id=b1794-23-per2
 
-         referido$goncalo/obs=cujo sobrenome se ignora/id=b1794-23-per3
-            ls$residencia/sao bartolomeu
-            rel$sociabilidade/achou a crianca/casimira/b1794-23-n
+            referido$goncalo/obs=cujo sobrenome se ignora/id=b1794-23-per3
+               ls$residencia/sao bartolomeu
+               rel$sociabilidade/achou a crianca/casimira/b1794-23-n
 
-         referida$maria da conceicao/id=b1794-23-refa
-            rel$sociabilidade/ama/casimira/b1794-23-n
+            referida$maria da conceicao/id=b1794-23-refa
+               rel$sociabilidade/ama/casimira/b1794-23-n
 
-         referido$jose henriques/obs=literal jose gomes digo henriques/id=b1794-23-per4
-            ls$residencia/moledo
+            referido$jose henriques/obs=literal jose gomes digo henriques/id=b1794-23-per4
+               ls$residencia/moledo
 
-         pad$joao manuel de seixas/id=b1794-23-per5
-            ls$cargo/procurador do concelho
+            pad$joao manuel de seixas/id=b1794-23-per5
+               ls$cargo/procurador do concelho
 
       bap$b1794-24/28/5/1794/fl.39/igreja de santa maria de obidos/joao de deus
 
          n$joana/f/id=b1794-24-n
             ls$enjeitada/sim/obs=a porta de jose luis em 17940528. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-24-per1
+            pn$nome desconhecido/id=b1794-24-per1
 
-         mn$nome desconhecido/id=b1794-24-per2
+            mn$nome desconhecido/id=b1794-24-per2
 
-         referido$jose luis/id=b1794-24-per3
-            ls$residencia/carregal
-            rel$sociabilidade/achou a crianca/joana/b1794-24-n
+            referido$jose luis/id=b1794-24-per3
+               ls$residencia/carregal
+               rel$sociabilidade/achou a crianca/joana/b1794-24-n
 
-         referida$antonia maria/id=b1794-24-refa/obs=duvida. antonia
-            rel$sociabilidade/ama/joana/b1794-24-n
+            referida$antonia maria/id=b1794-24-refa/obs=duvida. antonia
+               rel$sociabilidade/ama/joana/b1794-24-n
 
-         referido$manuel ribeiro/id=b1794-24-per4
-            ls$residencia/tras do outeiro
-            rel$parentesco/marido/antonia maria/b1794-24-refa
+            referido$manuel ribeiro/id=b1794-24-per4
+               ls$residencia/tras do outeiro
+               rel$parentesco/marido/antonia maria/b1794-24-refa
 
-         pad$joao manuel de seixas/id=b1794-24-per5
-            ls$cargo/procurador do concelho
+            pad$joao manuel de seixas/id=b1794-24-per5
+               ls$cargo/procurador do concelho
 
       bap$b1794-25/10/6/1794/fl.39/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$joao/m/id=b1794-25-n
             ls$enjeitado/sim/obs=a porta de dionisio antunes em 17940607. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-25-per1
+            pn$nome desconhecido/id=b1794-25-per1
 
-         mn$nome desconhecido/id=b1794-25-per2
+            mn$nome desconhecido/id=b1794-25-per2
 
-         referido$dionisio antunes/id=b1794-25-per3
-            ls$residencia/feteira
-            rel$sociabilidade/achou a crianca/joao/b1794-25-n
+            referido$dionisio antunes/id=b1794-25-per3
+               ls$residencia/feteira
+               rel$sociabilidade/achou a crianca/joao/b1794-25-n
 
-         referida$fortunata maria/id=b1794-25-refa
-            rel$sociabilidade/ama/joao/b1794-25-n
+            referida$fortunata maria/id=b1794-25-refa
+               rel$sociabilidade/ama/joao/b1794-25-n
 
-         referido$joaquim henriques/id=b1794-25-per4
-            ls$residencia/feteira
-            rel$parentesco/marido/fortunata maria/b1794-25-refa
+            referido$joaquim henriques/id=b1794-25-per4
+               ls$residencia/feteira
+               rel$parentesco/marido/fortunata maria/b1794-25-refa
 
-         pad$joaquim antonio de sequeira/id=b1794-25-per5
+            pad$joaquim antonio de sequeira/id=b1794-25-per5
 
-         referido$joao manuel de seixas/id=b1794-25-per6
-            ls$cargo/procurador do concelho
+            referido$joao manuel de seixas/id=b1794-25-per6
+               ls$cargo/procurador do concelho
 
       bap$b1794-26/15/6/1794/fl.39-39v/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$maria/f/id=b1794-26-per1
             ls$datanasc/17940605
 
-         pn$manuel joaquim/id=b1794-26-per2
-            ls$naturalidade/casal das cruzes, freguesia de sao tiago de obidos de obidos
-            ls$locbaptismo/freguesia de sao tiago de obidos de obidos
-            ls$loccasamento/freguesia de sao joao do mocharro
-            ls$residencia/gaeiras
+            pn$manuel joaquim/id=b1794-26-per2
+               ls$naturalidade/casal das cruzes, freguesia de sao tiago de obidos de obidos
+               ls$locbaptismo/freguesia de sao tiago de obidos de obidos
+               ls$loccasamento/freguesia de sao joao do mocharro
+               ls$residencia/gaeiras
 
-         mn$gertrudes maria/id=b1794-26-per3
-            ls$naturalidade/carregal, freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            mn$gertrudes maria/id=b1794-26-per3
+               ls$naturalidade/carregal, freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         ppn$joaquim manuel/id=b1794-26-per4
+            ppn$joaquim manuel/id=b1794-26-per4
 
-         mpn$ines maria/id=b1794-26-per5
+            mpn$ines maria/id=b1794-26-per5
 
-         pmn$manuel francisco/id=b1794-26-per6
+            pmn$manuel francisco/id=b1794-26-per6
 
-         mmn$maria antonia/id=b1794-26-per7
+            mmn$maria antonia/id=b1794-26-per7
 
-         pad$frutuoso inacio/id=b1794-26-per8
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/tras do outeiro
+            pad$frutuoso inacio/id=b1794-26-per8
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/tras do outeiro
 
-         mad$nossa senhora da ajuda/id=b1794-26-per9
+            mad$nossa senhora da ajuda/id=b1794-26-per9
 
-         procuradora-mad$antonia dos santos/id=b1794-26-per10
-            ls$residencia/gaeiras
+            procuradora-mad$antonia dos santos/id=b1794-26-per10
+               ls$residencia/gaeiras
 
       bap$b1794-27/23/6/1794/fl.39v-40/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=baptizou sub conditione
 
          n$joao/m/id=b1794-27-n
             ls$enjeitado/sim/obs=a porta de ana maria madalena em 17940622
 
-         pn$nome desconhecido/id=b1794-27-per1
+            pn$nome desconhecido/id=b1794-27-per1
 
-         mn$nome desconhecido/id=b1794-27-per2
+            mn$nome desconhecido/id=b1794-27-per2
 
-         referida$ana maria madalena/id=b1794-27-refa/obs=esta confessou ao padre ter baptizado o dito exposto porem pela sua confissao a ele nao estar instruida como se requer para o baptizar o baptizou sub conditione. achava se entao ana maria madalena na vila de caldas tomou contado dito exposto e mandou criar por barbara dos santos
-            ls$titulo/dona
-            ls$ec/v
-            rel$sociabilidade/achou a crianca/joao/b1794-27-n
+            referida$ana maria madalena/id=b1794-27-refa/obs=esta confessou ao padre ter baptizado o dito exposto porem pela sua confissao a ele nao estar instruida como se requer para o baptizar o baptizou sub conditione. achava se entao ana maria madalena na vila de caldas tomou contado dito exposto e mandou criar por barbara dos santos
+               ls$titulo/dona
+               ls$ec/v
+               rel$sociabilidade/achou a crianca/joao/b1794-27-n
 
-         referido$bernardo martins/id=b1794-27-per3
-            ls$residencia/lisboa
-            ls$morto/antes
-            rel$parentesco/marido/ana maria madalena/b1794-27-refa
+            referido$bernardo martins/id=b1794-27-per3
+               ls$residencia/lisboa
+               ls$morto/antes
+               rel$parentesco/marido/ana maria madalena/b1794-27-refa
 
-         referida$barbara dos santos/id=b1794-27-ama
-            rel$sociabilidade/ama/joao/b1794-27-n
+            referida$barbara dos santos/id=b1794-27-ama
+               rel$sociabilidade/ama/joao/b1794-27-n
 
-         referido$jose martins/id=b1794-27-per4
-            ls$residencia/obidos
-            rel$parentesco/marido/barbara dos santos/b1794-27-ama
+            referido$jose martins/id=b1794-27-per4
+               ls$residencia/obidos
+               rel$parentesco/marido/barbara dos santos/b1794-27-ama
 
-         pad$joaquim antonio de sequeira/id=b1794-27-per5
-            ls$cargo/tesoureiro/obs=da colegiada de santa maria de obidos
+            pad$joaquim antonio de sequeira/id=b1794-27-per5
+               ls$cargo/tesoureiro/obs=da colegiada de santa maria de obidos
 
-         mad$nossa senhora do rosario/id=b1794-27-per6
+            mad$nossa senhora do rosario/id=b1794-27-per6
 
-         procuradora-mad$ana maria madalena/mesmo_que=b1794-27-refa/id=b1794-27-per7
-            ls$titulo/dona
+            procuradora-mad$ana maria madalena/mesmo_que=b1794-27-refa/id=b1794-27-per7
+               ls$titulo/dona
 
       bap$b1794-28/27/6/1794/fl.40/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$joao/m/id=b1794-28-n
             ls$enjeitado/sim/obs=a porta de manuel luis em 17940626. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-28-per1
+            pn$nome desconhecido/id=b1794-28-per1
 
-         mn$nome desconhcido/id=b1794-28-per2
+            mn$nome desconhcido/id=b1794-28-per2
 
-         referido$manuel luis/id=b1794-28-per3
-            ls$residencia/obidos
-            rel$sociabilidade/achou a crianca/joao/b1794-28-n
-            rel$parentesco/marido/genoveva maria/b1794-28-refa
+            referido$manuel luis/id=b1794-28-per3
+               ls$residencia/obidos
+               rel$sociabilidade/achou a crianca/joao/b1794-28-n
+               rel$parentesco/marido/genoveva maria/b1794-28-refa
 
-         referida$genoveva maria/id=b1794-28-refa
-            rel$sociabilidade/ama/joao/b1794-28-n
+            referida$genoveva maria/id=b1794-28-refa
+               rel$sociabilidade/ama/joao/b1794-28-n
 
-         pad$joaquim jose de sequeira/id=b1794-28-per4
-            ls$cargo/tesoureiro da igreja de santa maria de obidos
+            pad$joaquim jose de sequeira/id=b1794-28-per4
+               ls$cargo/tesoureiro da igreja de santa maria de obidos
 
-         referido$joao manuel de seixas/id=b1794-28-per5
-            ls$cargo/procuradoro do concelho
+            referido$joao manuel de seixas/id=b1794-28-per5
+               ls$cargo/procuradoro do concelho
 
       bap$b1794-29/12/7/1794/fl.40-40v/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$maria/f/id=b1794-29-n
             ls$datanasc/17940703
 
-         pn$antonio rodrigues alves/id=b1794-29-per1
-            ls$naturalidade/arelho, freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
-            ls$loccasamento/freguesia do espirito santo
-            ls$residencia/obidos
+            pn$antonio rodrigues alves/id=b1794-29-per1
+               ls$naturalidade/arelho, freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
+               ls$loccasamento/freguesia do espirito santo
+               ls$residencia/obidos
 
-         mn$maria joaquina tomasia/id=b1794-29-per2
-            ls$naturalidade/landal
-            ls$freguesia/espirito santo
-            ls$locbaptismo/freguesia do espirito santo
+            mn$maria joaquina tomasia/id=b1794-29-per2
+               ls$naturalidade/landal
+               ls$freguesia/espirito santo
+               ls$locbaptismo/freguesia do espirito santo
 
-         ppn$crispiano rodrigues/id=b1794-29-per3
+            ppn$crispiano rodrigues/id=b1794-29-per3
 
-         mpn$maria joaquina/id=b1794-29-per4
+            mpn$maria joaquina/id=b1794-29-per4
 
-         pmn$antonio de oliveira/id=b1794-29-per5
+            pmn$antonio de oliveira/id=b1794-29-per5
 
-         mmn$tomasia maria/id=b1794-29-per6
+            mmn$tomasia maria/id=b1794-29-per6
 
-         pad$joao feliz de brito pegado/id=b1794-29-per7
-            ls$residencia/obidos
-            rel$parentesco/marido/maria isabel pacheco de vilhena e almeida/b1794-29-mad
+            pad$joao feliz de brito pegado/id=b1794-29-per7
+               ls$residencia/obidos
+               rel$parentesco/marido/maria isabel pacheco de vilhena e almeida/b1794-29-mad
 
-         mad$maria isabel pacheco de vilhena e almeida/id=b1794-29-mad
-            ls$titulo/dona
+            mad$maria isabel pacheco de vilhena e almeida/id=b1794-29-mad
+               ls$titulo/dona
 
-         referido$joaquim jose soares/id=b1794-29-per8
-            ls$profissao/padre
-            ls$cargo/economo/obs=da igreja de santa maria de obidos
-            rel$sociabilidade/baptizou/maria/b1794-29-n
+            referido$joaquim jose soares/id=b1794-29-per8
+               ls$profissao/padre
+               ls$cargo/economo/obs=da igreja de santa maria de obidos
+               rel$sociabilidade/baptizou/maria/b1794-29-n
 
       bap$b1794-30/13/7/1794/fl.40v-41/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$gertrudes/f/id=b1794-30-per1
             ls$datanasc/17940628
 
-         pn$manuel gomes/id=b1794-30-per2
-            ls$naturalidade/casais do fraldeu
-            ls$freguesia/santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/casais do fraldeu
+            pn$manuel gomes/id=b1794-30-per2
+               ls$naturalidade/casais do fraldeu
+               ls$freguesia/santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/casais do fraldeu
 
-         mn$luisa maria/id=b1794-30-per3
-            ls$naturalidade/peso, freguesia de santa catarina/obs=coutos de alcobaca
-            ls$locbaptismo/freguesia de santa catarina
+            mn$luisa maria/id=b1794-30-per3
+               ls$naturalidade/peso, freguesia de santa catarina/obs=coutos de alcobaca
+               ls$locbaptismo/freguesia de santa catarina
 
-         ppn$jose gomes/id=b1794-30-per4
+            ppn$jose gomes/id=b1794-30-per4
 
-         mpn$maria gomes/id=b1794-30-per5
+            mpn$maria gomes/id=b1794-30-per5
 
-         pmn$jose luis/id=b1794-30-per6
+            pmn$jose luis/id=b1794-30-per6
 
-         mmn$maria dos santos/id=b1794-30-per7
+            mmn$maria dos santos/id=b1794-30-per7
 
-         pad$gregorio gomes/id=b1794-30-per8
-            ls$residencia/usseira
+            pad$gregorio gomes/id=b1794-30-per8
+               ls$residencia/usseira
 
-         mad$nossa senhora do rosario/id=b1794-30-per9
+            mad$nossa senhora do rosario/id=b1794-30-per9
 
-         procuradora-mad$ana josefa/id=b1794-30-per10
-            ls$ec/s
-            ls$residencia/obidos
+            procuradora-mad$ana josefa/id=b1794-30-per10
+               ls$ec/s
+               ls$residencia/obidos
 
       bap$b1794-31/15/7/1794/fl.41/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$joao/m/id=b1794-31-n
             ls$enjeitado/sim/obs=a porta de jose gomes em 17940714. nao trouxe cedula alguma
 
-         pn$nome desconhecido/id=b1794-31-per1
+            pn$nome desconhecido/id=b1794-31-per1
 
-         mn$nome desconhecido/id=b1794-31-per2
+            mn$nome desconhecido/id=b1794-31-per2
 
-         referido$jose gomes/id=b1794-31-per3
-            ls$residencia/delgada
-            rel$sociabilidade/achou a crianca/joao/b1794-31-n
+            referido$jose gomes/id=b1794-31-per3
+               ls$residencia/delgada
+               rel$sociabilidade/achou a crianca/joao/b1794-31-n
 
-         referida$doroteia maria/id=b1794-31-refa
-            rel$sociabilidade/ama/joao/b1794-31-n
+            referida$doroteia maria/id=b1794-31-refa
+               rel$sociabilidade/ama/joao/b1794-31-n
 
-         referido$paulo carvalho/id=b1794-31-per4
-            ls$residencia/arelho
-            rel$parentesco/marido/doroteia maria/b1794-31-refa
+            referido$paulo carvalho/id=b1794-31-per4
+               ls$residencia/arelho
+               rel$parentesco/marido/doroteia maria/b1794-31-refa
 
-         pad$joaquim antonio de sequeira/id=b1794-31-per5
-            ls$cargo/tesoureiro da igreja de santa maria de obidos
+            pad$joaquim antonio de sequeira/id=b1794-31-per5
+               ls$cargo/tesoureiro da igreja de santa maria de obidos
 
-         referido$joao manuel de seixas/id=b1794-31-per6
-            ls$cargo/procurador do concelho
+            referido$joao manuel de seixas/id=b1794-31-per6
+               ls$cargo/procurador do concelho
 
       bap$b1794-32/16/7/1794/fl.41-41v/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$antonio/m/id=b1794-32-per1
             ls$datanasc/17940707
 
-         pn$manuel de azevedo/id=b1794-32-per2
-            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
-            ls$locbaptismo/rolica, freguesia de nossa senhora da purificacao
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/quinta da granja/obs=de malta
+            pn$manuel de azevedo/id=b1794-32-per2
+               ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+               ls$locbaptismo/rolica, freguesia de nossa senhora da purificacao
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/quinta da granja/obs=de malta
 
-         mn$maria joana/id=b1794-32-per3
-            ls$naturalidade/freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
+            mn$maria joana/id=b1794-32-per3
+               ls$naturalidade/freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
 
-         ppn$manuel de azevedo/id=b1794-32-per4
+            ppn$manuel de azevedo/id=b1794-32-per4
 
-         mpn$ana joaquina/id=b1794-32-per5
+            mpn$ana joaquina/id=b1794-32-per5
 
-         pmn$manuel da silva/id=b1794-32-per6
+            pmn$manuel da silva/id=b1794-32-per6
 
-         mmn$joana teresa/id=b1794-32-per7
+            mmn$joana teresa/id=b1794-32-per7
 
-         pad$antonio rodrigues/id=b1794-32-per8
-            ls$residencia/a da gorda
+            pad$antonio rodrigues/id=b1794-32-per8
+               ls$residencia/a da gorda
 
-         mad$josefa maria/id=b1794-32-per9
-            ls$residencia/a da gorda
+            mad$josefa maria/id=b1794-32-per9
+               ls$residencia/a da gorda
 
       bap$b1794-33/16/7/1794/fl.41v-42/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$jose/m/id=b1794-33-per1
             ls$datanasc/17940702
 
-         pn$isidoro monteiro/id=b1794-33-per2
-            ls$naturalidade/a da gorda
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/a da gorda
+            pn$isidoro monteiro/id=b1794-33-per2
+               ls$naturalidade/a da gorda
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/a da gorda
 
-         mn$mariana genoveva/id=b1794-33-per3
-            ls$naturalidade/amoreira, freguesia de nossa senhora da aboboriz
-            ls$locbaptismo/freguesia de nossa senhora da aboboriz
+            mn$mariana genoveva/id=b1794-33-per3
+               ls$naturalidade/amoreira, freguesia de nossa senhora da aboboriz
+               ls$locbaptismo/freguesia de nossa senhora da aboboriz
 
-         ppn$tome monteiro/id=b1794-33-per4
+            ppn$tome monteiro/id=b1794-33-per4
 
-         mpn$antonia joaquina/id=b1794-33-per5
+            mpn$antonia joaquina/id=b1794-33-per5
 
-         pmn$jose pereira/id=b1794-33-per6
+            pmn$jose pereira/id=b1794-33-per6
 
-         mmn$genoveva maria/id=b1794-33-per7
+            mmn$genoveva maria/id=b1794-33-per7
 
-         pad$jose monteiro/id=b1794-33-per8
-            ls$residencia/obidos
+            pad$jose monteiro/id=b1794-33-per8
+               ls$residencia/obidos
 
-         mad$nossa seonhora do desterro/id=b1794-33-per9
+            mad$nossa seonhora do desterro/id=b1794-33-per9
 
-         procurador-mad$felipe jose/id=b1794-33-per10
-            ls$residencia/a da gorda
+            procurador-mad$felipe jose/id=b1794-33-per10
+               ls$residencia/a da gorda
 
       bap$b1794-34/20/7/1794/fl.42/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$margarida/f/id=b1794-34-n
             ls$enjeitada/sim/obs=a porta de joao alves em 17940719
 
-         pn$nome desconhecido/id=b1794-34-per1
+            pn$nome desconhecido/id=b1794-34-per1
 
-         mn$nome desconhecido/id=b1794-34-per2
+            mn$nome desconhecido/id=b1794-34-per2
 
-         referido$joao alves/id=b1794-34-per3
-            ls$residencia/casais do coto
-            rel$sociabilidade/achou a crianca/margarida/b1794-34-n
-            rel$parentesco/marido/josefa maria/b1794-34-refa
+            referido$joao alves/id=b1794-34-per3
+               ls$residencia/casais do coto
+               rel$sociabilidade/achou a crianca/margarida/b1794-34-n
+               rel$parentesco/marido/josefa maria/b1794-34-refa
 
-         referida$josefa maria/id=b1794-34-refa
-            rel$sociabilidade/ama/margarida/b1794-34-n
+            referida$josefa maria/id=b1794-34-refa
+               rel$sociabilidade/ama/margarida/b1794-34-n
 
-         pad$joaquim antonio de sequeira/id=b1794-34-per4
-            ls$cargo/tesoureiro da igreja de santa maria de obidos
+            pad$joaquim antonio de sequeira/id=b1794-34-per4
+               ls$cargo/tesoureiro da igreja de santa maria de obidos
 
-         referido$joaquim jose soares/id=b1794-34-per5
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria de obidos
-            rel$sociabilidade/baptizou/margarida/b1794-34-n
+            referido$joaquim jose soares/id=b1794-34-per5
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria de obidos
+               rel$sociabilidade/baptizou/margarida/b1794-34-n
 
-         referido$joao manuel de seixas/id=b1794-34-per6
-            ls$cargo/procurador do concelho
+            referido$joao manuel de seixas/id=b1794-34-per6
+               ls$cargo/procurador do concelho
 
       bap$b1794-35/22/7/1794/fl.42-42v/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=baptizou sub conditione. trazia uma cedula que dizia que crianca vinha batizada e se chama maria mas nao dizia quem fez o baptismo
 
          n$maria/f/id=b1794-35-n
             ls$enjeitada/sim/obs=a porta de gregorio jose em 17940721
 
-         pn$nome desconhecido/id=b1794-35-per1
+            pn$nome desconhecido/id=b1794-35-per1
 
-         mn$nome desconhecido/id=b1794-35-per2
+            mn$nome desconhecido/id=b1794-35-per2
 
-         referido$gregorio jose/id=b1794-35-per3
-            ls$residencia/casal da figueira
-            rel$sociabilidade/achou a crianca/maria/b1794-35-n
+            referido$gregorio jose/id=b1794-35-per3
+               ls$residencia/casal da figueira
+               rel$sociabilidade/achou a crianca/maria/b1794-35-n
 
-         referida$ana rosa/id=b1794-35-refa
-            rel$sociabilidade/ama/maria/b1794-35-n
+            referida$ana rosa/id=b1794-35-refa
+               rel$sociabilidade/ama/maria/b1794-35-n
 
-         referido$jose carvalho/id=b1794-35-per4
-            ls$residencia/reguengo grande
-            rel$parentesco/marido/ana rosa/b1794-35-refa
+            referido$jose carvalho/id=b1794-35-per4
+               ls$residencia/reguengo grande
+               rel$parentesco/marido/ana rosa/b1794-35-refa
 
-         pad$joaquim antonio de sequeira/id=b1794-35-per5
-            ls$cargo/tesoureiro da igreja de santa maria de obidos
+            pad$joaquim antonio de sequeira/id=b1794-35-per5
+               ls$cargo/tesoureiro da igreja de santa maria de obidos
 
-         referido$joao manuel de seixas/id=b1794-35-per6
-            ls$cargo/procurador do concelho
+            referido$joao manuel de seixas/id=b1794-35-per6
+               ls$cargo/procurador do concelho
 
       bap$b1794-36/31/8/1794/fl.42v/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$joaquina/f/id=b1794-36-n
             ls$datanasc/17949816
 
-         pn$antonio joaquim furtado/id=b1794-36-per1
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao tiago de obidos de obidos
-            ls$loccasamento/cartaxo, freguesia de sao joao baptista
-            ls$residencia/obidos
+            pn$antonio joaquim furtado/id=b1794-36-per1
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao tiago de obidos de obidos
+               ls$loccasamento/cartaxo, freguesia de sao joao baptista
+               ls$residencia/obidos
 
-         mn$joaquina rosa/id=b1794-36-per2
-            ls$naturalidade/cartaxo, freguesia de sao joao baptista ls$locbaptismo/cartaxo, freguesia de sao joao baptista
+            mn$joaquina rosa/id=b1794-36-per2
+               ls$naturalidade/cartaxo, freguesia de sao joao baptista
+               ls$locbaptismo/cartaxo, freguesia de sao joao baptista
 
-         pad$joao caetano/id=b1794-36-per3
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad$joao caetano/id=b1794-36-per3
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad$nossa senhora da nazare/id=b1794-36-per4
+            mad$nossa senhora da nazare/id=b1794-36-per4
 
-         procurador-mad$jose jacinto da ajuda/obs=duvida. ajuda/id=b1794-36-per5
-            ls$residencia/obidos
+            procurador-mad$jose jacinto da ajuda/obs=duvida. ajuda/id=b1794-36-per5
+               ls$residencia/obidos
 
-         ppn$luis pedro furtado/id=b1794-36-per6
+            ppn$luis pedro furtado/id=b1794-36-per6
 
-         mpn$catarina maria da conceicao/id=b1794-36-per7
+            mpn$catarina maria da conceicao/id=b1794-36-per7
 
-         pmn$joao moreira/id=b1794-36-per8
+            pmn$joao moreira/id=b1794-36-per8
 
-         mmn$rosa maria de jesus/id=b1794-36-per9
+            mmn$rosa maria de jesus/id=b1794-36-per9
 
-         referido$joaquim jose soares/id=b1794-36-per10
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria de obidos
-            rel$sociabilidade/baptizou/joaquina/b1794-36-n
+            referido$joaquim jose soares/id=b1794-36-per10
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria de obidos
+               rel$sociabilidade/baptizou/joaquina/b1794-36-n
 
       bap$b1794-37/5/10/1794/fl.42v-43/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=baptizou sub conditione por achar a parteira com pouca instrucao
 
          n$joao/m/id=b1794-37-n
             ls$datanasc/17940914
 
-         pn$vicente ferreira/id=b1794-37-per1
-            ls$naturalidade/alcobertas, alcanede
-            ls$locbaptismo/alcanede
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/obidos
+            pn$vicente ferreira/id=b1794-37-per1
+               ls$naturalidade/alcobertas, alcanede
+               ls$locbaptismo/alcanede
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/obidos
 
-         mn$catarina rosa de jesus/id=b1794-37-per2
-            ls$naturalidade/alvorninha, freguesia de nossa senhora da purificacao
-            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            mn$catarina rosa de jesus/id=b1794-37-per2
+               ls$naturalidade/alvorninha, freguesia de nossa senhora da purificacao
+               ls$locbaptismo/freguesia de nossa senhora da purificacao
 
-         pad$joaquim jose soares/id=b1794-37-per3
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria de obidos
+            pad$joaquim jose soares/id=b1794-37-per3
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria de obidos
 
-         mad$nossa senhora do rosario/id=b1794-37-per4
+            mad$nossa senhora do rosario/id=b1794-37-per4
 
-         procurador-mad$manuel antonio/id=b1794-37-per5
-            ls$residencia/obidos
+            procurador-mad$manuel antonio/id=b1794-37-per5
+               ls$residencia/obidos
 
-         ppn$joao ferreira/id=b1794-37-per6
+            ppn$joao ferreira/id=b1794-37-per6
 
-         mpn$antonia rodrigues/id=b1794-37-per7
+            mpn$antonia rodrigues/id=b1794-37-per7
 
-         pmn$francisco xavier da fonseca/id=b1794-37-per8
+            pmn$francisco xavier da fonseca/id=b1794-37-per8
 
-         mmn$maria josefa policarpa/id=b1794-37-per9
+            mmn$maria josefa policarpa/id=b1794-37-per9
 
-         referida$maria inacia/id=b1794-37-refa
-            ls$residencia/obidos
-            ls$profissao/parteira
-            rel$sociabilidade/baptizou em necessidade/joao/b1794-37-n
+            referida$maria inacia/id=b1794-37-refa
+               ls$residencia/obidos
+               ls$profissao/parteira
+               rel$sociabilidade/baptizou em necessidade/joao/b1794-37-n
 
       bap$b1794-38/13/10/1794/fl.43v/igreja de santa maria de obidos/jose joaquim xavier tavares
 
@@ -2473,35 +2474,35 @@ kleio$gacto2.str/prefix=stmaria
             ls$datanasc/17940919
             ls$locnascimento/a da gorda
 
-         pn$alexandre jose nunes/id=b1794-38-per2
-            ls$naturalidade/lisboa, freguesia de sao vicente
-            ls$locbaptismo/misericordia/obs=lisboa?
-            ls$loccasamento/freguesia de sao salvador
-            ls$residencia/lisboa, freguesia de sao vicente
+            pn$alexandre jose nunes/id=b1794-38-per2
+               ls$naturalidade/lisboa, freguesia de sao vicente
+               ls$locbaptismo/misericordia/obs=lisboa?
+               ls$loccasamento/freguesia de sao salvador
+               ls$residencia/lisboa, freguesia de sao vicente
 
-         mn$gertrudes machado espirito santo/obs=duvida. machado/id=b1794-38-per3
-            ls$naturalidade/lisboa, freguesia de sao tome
-            ls$locbaptismo/freguesia de sao tome
+            mn$gertrudes machado espirito santo/obs=duvida. machado/id=b1794-38-per3
+               ls$naturalidade/lisboa, freguesia de sao tome
+               ls$locbaptismo/freguesia de sao tome
 
-         pad$jose antonio da silva/id=b1794-38-per4
-            ls$residencia/lisboa
+            pad$jose antonio da silva/id=b1794-38-per4
+               ls$residencia/lisboa
 
-         mad$ana joaquina do espirito santo/id=b1794-38-per5
-            ls$residencia/lisboa
+            mad$ana joaquina do espirito santo/id=b1794-38-per5
+               ls$residencia/lisboa
 
-         procurador-pad$jose leal/id=b1794-38-per6
-            ls$residencia/obidos
+            procurador-pad$jose leal/id=b1794-38-per6
+               ls$residencia/obidos
 
-         procurador-mad$joaquim alexandrino de abreu/id=b1794-38-per7
-            ls$residencia/lisboa
+            procurador-mad$joaquim alexandrino de abreu/id=b1794-38-per7
+               ls$residencia/lisboa
 
-         ppn$nome desconhecido/id=b1794-38-per8
+            ppn$nome desconhecido/id=b1794-38-per8
 
-         mpn$nome desconhecido/id=b1794-38-per9
+            mpn$nome desconhecido/id=b1794-38-per9
 
-         pmn$jose ribeiro de andrade/id=b1794-38-per10
+            pmn$jose ribeiro de andrade/id=b1794-38-per10
 
-         mmn$maria joaquina do espirito santo/id=b1794-38-per11
+            mmn$maria joaquina do espirito santo/id=b1794-38-per11
 
       bap$b1794-39/1/11/1794/fl.43v-44/igreja de santa maria de obidos/jose joaquim xavier tavares
 
@@ -2509,171 +2510,171 @@ kleio$gacto2.str/prefix=stmaria
             ls$datanasc/17941031
             ls$enjeitada/sim/obs=a porta de goncalo ribeiro. trazia uma cedula que dizia "anno de mil setecentos noventa e quatro. a menina que este acompanha ha de e chamar quintina de nazareth, nasceo en trinta e hum de outubro e ha de satisfazer quando de for buscar"
 
-         pn$nome desconhecido/id=b1794-39-per1
+            pn$nome desconhecido/id=b1794-39-per1
 
-         mn$nome desconhecido/id=b1794-39-per2
+            mn$nome desconhecido/id=b1794-39-per2
 
-         pad$joaquim antonio de sequeira/id=b1794-39-per3
-            ls$cargo/tesoureiro da igreja de santa maria de obidos
+            pad$joaquim antonio de sequeira/id=b1794-39-per3
+               ls$cargo/tesoureiro da igreja de santa maria de obidos
 
-         referido$goncalo ribeiro/id=b1794-39-per4
-            ls$residencia/bairro, freguesia de sao joao de mocharro
-            rel$sociabilidade/achou a crianca/quintina da nazare/b1794-39-n
+            referido$goncalo ribeiro/id=b1794-39-per4
+               ls$residencia/bairro, freguesia de sao joao de mocharro
+               rel$sociabilidade/achou a crianca/quintina da nazare/b1794-39-n
 
-         referida$catarina maria/id=b1794-39-refa
-            rel$sociabilidade/ama/quintina da nazare/b1794-39-n
+            referida$catarina maria/id=b1794-39-refa
+               rel$sociabilidade/ama/quintina da nazare/b1794-39-n
 
-         referido$jose rodrigues/id=b1794-39-per5
-            ls$residencia/bairro
-            rel$parentesco/marido/catarina maria/b1794-39-refa
+            referido$jose rodrigues/id=b1794-39-per5
+               ls$residencia/bairro
+               rel$parentesco/marido/catarina maria/b1794-39-refa
 
       bap$b1794-40/5/11/1794/fl.44/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$joao/m/id=b1794-40-n
             ls$enjeitado/sim/obs=a porta de cipriano luis em 17941105. nao trouxe cedula
 
-         pn$nome desconhecido/id=b1794-40-per1
+            pn$nome desconhecido/id=b1794-40-per1
 
-         mn$nome desconhecido/id=b1794-40-per2
+            mn$nome desconhecido/id=b1794-40-per2
 
-         pad$joaquim antonio de sequeira/id=b1794-40-per3
-            ls$cargo/tesoureiro da igreja de santa maria de obidos
+            pad$joaquim antonio de sequeira/id=b1794-40-per3
+               ls$cargo/tesoureiro da igreja de santa maria de obidos
 
-         referido$cipriano luis/id=b1794-40-per4
-            ls$residencia/gaeiras de sao marcos
-            rel$sociabilidade/achou a crianca/joao/b1794-40-n
+            referido$cipriano luis/id=b1794-40-per4
+               ls$residencia/gaeiras de sao marcos
+               rel$sociabilidade/achou a crianca/joao/b1794-40-n
 
-         referida$eufrasia maria/id=b1794-40-refa
-            rel$sociabilidade/ama/joao/b1794-40-n
+            referida$eufrasia maria/id=b1794-40-refa
+               rel$sociabilidade/ama/joao/b1794-40-n
 
-         referido$jose alqueidao/id=b1794-40-per5
-            ls$residencia/obidos
-            rel$parentesco/marido/eufrasia maria/b1794-40-refa
+            referido$jose alqueidao/id=b1794-40-per5
+               ls$residencia/obidos
+               rel$parentesco/marido/eufrasia maria/b1794-40-refa
 
       bap$b1794-41/9/11/1794/fl.44-44v/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=baptizou sub conditione
 
          n$jose/m/id=b1794-41-n
             ls$datanasc/17941028
 
-         pn$jeronimo rodrigues/id=b1794-41-per1
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$residencia/a da gorda
+            pn$jeronimo rodrigues/id=b1794-41-per1
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$residencia/a da gorda
 
-         mn$maria do carmo/id=b1794-41-per2
-            ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
-            ls$locbaptismo/freguesia de nossa senhora da purificacao
+            mn$maria do carmo/id=b1794-41-per2
+               ls$naturalidade/rolica, freguesia de nossa senhora da purificacao
+               ls$locbaptismo/freguesia de nossa senhora da purificacao
 
-         pad$roberto caetano pateta/id=b1794-41-per3
-            ls$cargo/beneficiado
-            ls$residencia/sao mamede
+            pad$roberto caetano pateta/id=b1794-41-per3
+               ls$cargo/beneficiado
+               ls$residencia/sao mamede
 
-         mad$margarida de jesus/id=b1794-41-per4
-            ls$residencia/oleira/vila
+            mad$margarida de jesus/id=b1794-41-per4
+               ls$residencia/oleira, vila
 
-         ppn$jose rodrigues/id=b1794-41-per5
+            ppn$jose rodrigues/id=b1794-41-per5
 
-         mpn$quiteria maria/id=b1794-41-per6
+            mpn$quiteria maria/id=b1794-41-per6
 
-         pmn$antonio pedro/id=b1794-41-per7
+            pmn$antonio pedro/id=b1794-41-per7
 
-         mmn$maria de sao jose/id=b1794-41-per8
+            mmn$maria de sao jose/id=b1794-41-per8
 
-         referido$eugenio de almeida/id=b1794-41-per9
-            ls$profissao/cirurgiao
-            ls$residencia/sao mamede
-            rel$sociabilidade/baptizou em necessidade/jose/b1794-41-n
+            referido$eugenio de almeida/id=b1794-41-per9
+               ls$profissao/cirurgiao
+               ls$residencia/sao mamede
+               rel$sociabilidade/baptizou em necessidade/jose/b1794-41-n
 
       bap$b1794-42/23/11/1794/fl.44v-45/igreja de santa maria de obidos/jose joaquim xavier tavares/obs=deu licenca a joaquim jose soares para celebrar o baptismo
 
          n$felipe/m/id=b1794-42-n
             ls$datanasc/17941112
 
-         pn$domingos antonio/id=b1794-42-per1
-            ls$naturalidade/carregal, freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
-            ls$loccasamento/freguesia de santa maria de obidos
-            ls$residencia/a da gorda
+            pn$domingos antonio/id=b1794-42-per1
+               ls$naturalidade/carregal, freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
+               ls$loccasamento/freguesia de santa maria de obidos
+               ls$residencia/a da gorda
 
-         mn$marcelina rosa/id=b1794-42-per2
-            ls$naturalidade/po, freguesia de nossa senhora da purificacao da rolica
-            ls$locbaptismo/freguesia de nossa senhora da purificacao da rolica
+            mn$marcelina rosa/id=b1794-42-per2
+               ls$naturalidade/po, freguesia de nossa senhora da purificacao da rolica
+               ls$locbaptismo/freguesia de nossa senhora da purificacao da rolica
 
-         pad$felipe jose/id=b1794-42-per3
-            ls$ec/s
-            ls$residencia/a da gorda
+            pad$felipe jose/id=b1794-42-per3
+               ls$ec/s
+               ls$residencia/a da gorda
 
-         mad$nossa senhora do desterro/id=b1794-42-per4
+            mad$nossa senhora do desterro/id=b1794-42-per4
 
-         procurador-mad$antonio joaquim/id=b1794-42-per5
-            ls$residencia/a da gorda
+            procurador-mad$antonio joaquim/id=b1794-42-per5
+               ls$residencia/a da gorda
 
-         ppn$antonio francisco/id=b1794-42-per6
+            ppn$antonio francisco/id=b1794-42-per6
 
-         mpn$maria antonia/id=b1794-42-per7
+            mpn$maria antonia/id=b1794-42-per7
 
-         pmn$jose pereira/id=b1794-42-per8
+            pmn$jose pereira/id=b1794-42-per8
 
-         mmn$rosa maria/id=b1794-42-per9
+            mmn$rosa maria/id=b1794-42-per9
 
-         referido$joaquim jose soares/id=b1794-42-per10
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria de obidos
-            rel$sociabilidade/baptizou/felipe/b1794-42-n
+            referido$joaquim jose soares/id=b1794-42-per10
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria de obidos
+               rel$sociabilidade/baptizou/felipe/b1794-42-n
 
       bap$b1794-43/26/11/1794/fl.45/igreja de santa maria de obidos/jose joaquim xavier tavares
 
          n$jose/m/id=b1794-43-per1
             ls$datanasc/17941120
 
-         pn$maximo jose/id=b1794-43-per2
-            ls$naturalidade/obidos, freguesia de santa maria de obidos
-            ls$locbaptismo/freguesia de santa maria de obidos
-            ls$loccasamento/freguesia de nossa senhora da anunciacao
-            ls$residencia/a da gorda
+            pn$maximo jose/id=b1794-43-per2
+               ls$naturalidade/obidos, freguesia de santa maria de obidos
+               ls$locbaptismo/freguesia de santa maria de obidos
+               ls$loccasamento/freguesia de nossa senhora da anunciacao
+               ls$residencia/a da gorda
 
-         mn$cassimira antonia/id=b1794-43-per3
-            ls$naturalidade/tornada, freguesia de nossa senhora da anunciacao
+            mn$cassimira antonia/id=b1794-43-per3
+               ls$naturalidade/tornada, freguesia de nossa senhora da anunciacao
 
-         pad$jose gregorio/id=b1794-43-per4
-            ls$ec/s
-            ls$residencia/a da gorda
+            pad$jose gregorio/id=b1794-43-per4
+               ls$ec/s
+               ls$residencia/a da gorda
 
-         mad$nossa senhora do desterro/id=b1794-43-per5
+            mad$nossa senhora do desterro/id=b1794-43-per5
 
-         procurador-mad$eusebio ferreira/id=b1794-43-per6
-            ls$residencia/a da gorda
+            procurador-mad$eusebio ferreira/id=b1794-43-per6
+               ls$residencia/a da gorda
 
-         ppn$jose pedro/id=b1794-43-per7
+            ppn$jose pedro/id=b1794-43-per7
 
-         mpn$maria dos prazeres/id=b1794-43-per8
+            mpn$maria dos prazeres/id=b1794-43-per8
 
-         pmn$elias do coto/id=b1794-43-per9
+            pmn$elias do coto/id=b1794-43-per9
 
-         mmn$maria dos ?/obs=nome riscado/id=b1794-43-per10
+            mmn$maria dos ?/obs=nome riscado/id=b1794-43-per10
 
       bap$b1794-44/28/11/1794/fl.45v./colegiada de santa maria de obidos/jose joaquim xavier tavares/obs=prior
 
          n$maria/f/id=b1794-44-per1
             ls$enjeitada/sim/17941128/obs=a porta de jose ribeiro do lugar do bairro
 
-         pad$joaquim antonio de sequeira/id=b1794-44-pad
-            ls$cargo/tesoureiro da colegiada da igreja de santa maria de obidos
+            pad$joaquim antonio de sequeira/id=b1794-44-pad
+               ls$cargo/tesoureiro da colegiada da igreja de santa maria de obidos
 
-         referida$maria antonia/id=b1794-44-ama
-            ls$profissao/ama
-            rel$sociabilidade/ama/maria/b1794-44-per1
+            referida$maria antonia/id=b1794-44-ama
+               ls$profissao/ama
+               rel$sociabilidade/ama/maria/b1794-44-per1
 
-         referido$vicente ferreira/id=b1794-44-per2
-            ls$residencia/obidos
-            rel$parentesco/marido/maria antonia/b1794-44-ama
+            referido$vicente ferreira/id=b1794-44-per2
+               ls$residencia/obidos
+               rel$parentesco/marido/maria antonia/b1794-44-ama
 
-         referido$jose ribeiro/id=b1794-44-per3
-            ls$residencia/bairro
-            rel$sociabilidade/achou a crianca/maria/b1794-44-per1
+            referido$jose ribeiro/id=b1794-44-per3
+               ls$residencia/bairro
+               rel$sociabilidade/achou a crianca/maria/b1794-44-per1
 
-         referido$joao manuel de seixas/id=b1794-44-jms
-            ls$cargo/procurador do concelho
+            referido$joao manuel de seixas/id=b1794-44-jms
+               ls$cargo/procurador do concelho
 
       bap$b1794-45/28/11/1794/fl.45v./colegiada de santa maria de obidos/jose joaquim xavier tavares/obs=prior
 
@@ -2681,107 +2682,107 @@ kleio$gacto2.str/prefix=stmaria
             ls$enjeitada/sim/17941128/obs=a porta de jose ribeiro do lugar do bairro
             rel$parentesco/irma gemea/maria/b1794-44-per1
 
-         pad$joaquim antonio de sequeira/id=b1794-45-per2
+            pad$joaquim antonio de sequeira/id=b1794-45-per2
 
-         referida$ana maria/id=b1794-45-ama
-            ls$profissao/ama
-            rel$sociabilidade/ama/maria/b1794-45-per1
+            referida$ana maria/id=b1794-45-ama
+               ls$profissao/ama
+               rel$sociabilidade/ama/maria/b1794-45-per1
 
-         referido$luis dos santos/id=b1794-45-per3
-            ls$freguesia/sobral
-            rel$parentesco/marido/ana maria/b1794-45-ama
+            referido$luis dos santos/id=b1794-45-per3
+               ls$freguesia/sobral
+               rel$parentesco/marido/ana maria/b1794-45-ama
 
-         referido$jose ribeiro/id=b1794-45-per4
-            ls$residencia/bairro
-            rel$sociabilidade/achou a crianca/maria/b1794-45-per1
+            referido$jose ribeiro/id=b1794-45-per4
+               ls$residencia/bairro
+               rel$sociabilidade/achou a crianca/maria/b1794-45-per1
 
-         referido$joao manuel de seixas/id=b1794-45-per5
+            referido$joao manuel de seixas/id=b1794-45-per5
 
       bap$b1794-46/29/11/1794/fl.45v-46./colegiada de santa maria de obidos/jose joaquim xavier tavares/obs=prior.
 
          n$joao/m/id=b1794-46-per1
             ls$enjeitado/sim/17941129/obs=a porta de manuel carvalho do reguengo do chao da parada
 
-         pad$joaquim antonio de sequeira/id=b1794-46-per2
+            pad$joaquim antonio de sequeira/id=b1794-46-per2
 
-         referida$ana joaquina pinta/id=b1794-46-ama
-            ls$profissao/ama
-            rel$sociabilidade/ama/joao/b1794-46-per1
+            referida$ana joaquina pinta/id=b1794-46-ama
+               ls$profissao/ama
+               rel$sociabilidade/ama/joao/b1794-46-per1
 
-         referido$jose gomes/id=b1794-46-per3
-            ls$residencia/obidos
-            rel$parentesco/marido/ana joaquina pinta/b1794-46-ama
+            referido$jose gomes/id=b1794-46-per3
+               ls$residencia/obidos
+               rel$parentesco/marido/ana joaquina pinta/b1794-46-ama
 
-         referido$joao manuel de seixas/id=b1794-46-per4
+            referido$joao manuel de seixas/id=b1794-46-per4
 
-         referido$manuel carvalho/id=b1794-46-per5
-            ls$freguesia/reguengo do chao da parada/obs=localidade que se situa perto de caldas da rainha
-            rel$sociabilidade/achou a crianca/joao/b1794-46-per1
+            referido$manuel carvalho/id=b1794-46-per5
+               ls$freguesia/reguengo do chao da parada/obs=localidade que se situa perto de caldas da rainha
+               rel$sociabilidade/achou a crianca/joao/b1794-46-per1
 
       bap$b1794-47/19/12/1794/fl.46./colegiada de santa maria de obidos/joaquim jose soares/obs=celebra com licenca do prior jose joaquim xavier tavares.
 
          n$joaquim/m/id=b1794-47-per1
             ls$enjeitado/sim/17941218/obs=a porta de antonio francisco
 
-         pad$joaquim antonio de sequeira/id=b1794-47-per2
+            pad$joaquim antonio de sequeira/id=b1794-47-per2
 
-         referida$maria do carmo/id=b1794-47-ama
-            ls$profissao/ama
-            ls$residencia/caldas da rainha
-            rel$sociabilidade/ama/joaquim/b1794-47-per1
+            referida$maria do carmo/id=b1794-47-ama
+               ls$profissao/ama
+               ls$residencia/caldas da rainha
+               rel$sociabilidade/ama/joaquim/b1794-47-per1
 
-         referido$antonio francisco/id=b1794-47-per3
-            rel$parentesco/marido/maria do carmo/b1794-47-ama
-            rel$sociabilidade/achou a crianca/joaquim/b1794-47-per1
+            referido$antonio francisco/id=b1794-47-per3
+               rel$parentesco/marido/maria do carmo/b1794-47-ama
+               rel$sociabilidade/achou a crianca/joaquim/b1794-47-per1
 
-         referido$joao manuel de seixas/id=b1794-47-per4
+            referido$joao manuel de seixas/id=b1794-47-per4
 
       bap$b1794-48/22/12/1794/fl.46-46v./colegiada de santa maria de obidos/jose joaquim xavier tavares/obs=prior.
 
          n$jacinto/m/id=b1794-48-per1
             ls$datanasc/17941205
 
-         pn$jose da silva/id=b1794-5-per2
-            ls$naturalidade/gaeiras
-            ls$locbaptismo/freguesia de santa maria de obidos de obidos
-            ls$loccasamento/freguesia de santa maria de obidos de obidos
+            pn$jose da silva/id=b1794-5-per2
+               ls$naturalidade/gaeiras
+               ls$locbaptismo/freguesia de santa maria de obidos de obidos
+               ls$loccasamento/freguesia de santa maria de obidos de obidos
 
-         ppn$joao da silva/id=b1794-48-per3
+               ppn$joao da silva/id=b1794-48-per3
 
-         mpn$maria henriques/id=b1794-48-per4
+               mpn$maria henriques/id=b1794-48-per4
 
-         mn$ana joaquina/id=b1794-48-per5
-            ls$naturalidade/gaeiras
-            ls$locbaptismo/freguesia de santa maria de obidos de obidos
-            ls$loccasamento/freguesia de santa maria de obidos de obidos
+            mn$ana joaquina/id=b1794-48-per5
+               ls$naturalidade/gaeiras
+               ls$locbaptismo/freguesia de santa maria de obidos de obidos
+               ls$loccasamento/freguesia de santa maria de obidos de obidos
 
-         pmn$antonio de oliveira/id=b1794-48-per6
+               pmn$antonio de oliveira/id=b1794-48-per6
 
-         mmn$silvestra joaquina/id=b1794-48-per7
+               mmn$silvestra joaquina/id=b1794-48-per7
 
-         pad$jacinto de oliveira/id=b1794-48-per8
-            ls$residencia/gaeiras
+            pad$jacinto de oliveira/id=b1794-48-per8
+               ls$residencia/gaeiras
 
-         mad$rosa maria/id=b1794-48-per9
-            ls$residencia/gaeiras
+            mad$rosa maria/id=b1794-48-per9
+               ls$residencia/gaeiras
 
-         pmad$jose de sousa/id=b1794-48-per10
+               pmad$jose de sousa/id=b1794-48-per10
 
       bap$b1794-49/31/12/1794/fl.46v./colegiada de santa maria de obidos/jose joaquim xavier tavares/obs=prior.
 
          n$joao/m/id=b1794-49-per1
             ls$enjeitado/sim/17941231/obs=a porta de antonio francisco
 
-         pad$joaquim antonio de sequeira/id=b1794-49-per2
+            pad$joaquim antonio de sequeira/id=b1794-49-per2
 
-         referida$francisca maria/id=b1794-49-ama
-            ls$profissao/ama
-            rel$sociabilidade/ama/joao/b1794-49-per1
+            referida$francisca maria/id=b1794-49-ama
+               ls$profissao/ama
+               rel$sociabilidade/ama/joao/b1794-49-per1
 
-         referido$antonio francisco/id=b1794-49-per3
-            ls$cargo/ermitao de nossa senhora do carmo
-            ls$residencia/obidos
-            rel$parentesco/marido/francisca maria/b1794-49-ama
-            rel$sociabilidade/achou a crianca/joao/b1794-49-per1
+            referido$antonio francisco/id=b1794-49-per3
+               ls$cargo/ermitao de nossa senhora do carmo
+               ls$residencia/obidos
+               rel$parentesco/marido/francisca maria/b1794-49-ama
+               rel$sociabilidade/achou a crianca/joao/b1794-49-per1
 
-         referido$joao manuel de seixas/id=b1794-49-per4
+            referido$joao manuel de seixas/id=b1794-49-per4

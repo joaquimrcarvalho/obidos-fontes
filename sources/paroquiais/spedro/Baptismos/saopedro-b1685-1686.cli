@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=spedro
+kleio$gacto.str/prefix=spedro/translations=1
    fonte$baptismos1685-1686/localizacao-a.d.l./freguesia de sao pedro de obidos
 
       bap$b1685-1/12/1/1685/fl.88v./igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
@@ -6,60 +6,60 @@ kleio$gacto.str/prefix=spedro
          n$francisco/m/id=b1685-1-per1
             ls$enjeitado/sim
 
-         pn$nome desconhecido/id=b1685-1-per2
+            pn$nome desconhecido/id=b1685-1-per2
 
-         mn$nome desconhecido/id=b1685-1-per3
+            mn$nome desconhecido/id=b1685-1-per3
 
-         pad1$francisco gomes/id=b1685-1-per4
-            ls$cargo/procurador do concelho
+            pad1$francisco gomes/id=b1685-1-per4
+               ls$cargo/procurador do concelho
 
-         mad1$luisa henriques/id=b1685-1-per5
-            rel$parentesco/filha/luis henriques/b1685-1-referido
+            mad1$luisa henriques/id=b1685-1-per5
+               rel$parentesco/filha/luis henriques/b1685-1-referido
 
-         referido$luis henriques/id=b1685-1-referido
+            referido$luis henriques/id=b1685-1-referido
 
       bap$b1685-2/17/1/1685/fl.88v./igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$francisco/m/id=b1685-2-per1
 
-         pn$manuel de oliveira/id=b1685-2-per2
-            ls$residencia/quinta de santa iria
+            pn$manuel de oliveira/id=b1685-2-per2
+               ls$residencia/quinta de santa iria
 
-         mn$natalia faria/id=b1685-2-per3
-            ls$residencia/quinta de santa iria
+            mn$natalia faria/id=b1685-2-per3
+               ls$residencia/quinta de santa iria
 
-         pad1$francisco freire/id=b1685-2-per4
+            pad1$francisco freire/id=b1685-2-per4
 
-         mad1$juliana pinheiro/id=b1685-2-per5
+            mad1$juliana pinheiro/id=b1685-2-per5
 
       bap$b1685-3/4/2/1685/fl.89/igreja de sao pedro/vicente machado fogaca (padre, beneficiado da igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$sebastiana/f/id=b1685-3-per1
 
-         pn$joao da silva/id=b1685-3-per2
+            pn$joao da silva/id=b1685-3-per2
 
-         mn$mariana de lemos/id=b1685-3-per3
+            mn$mariana de lemos/id=b1685-3-per3
 
-         pad1$manuel farto/id=b1685-3-pad
+            pad1$manuel farto/id=b1685-3-pad
 
-         mad1$antonia franca/id=b1685-3-per4
-            rel$parentesco/mulher/manuel farto/b1685-3-pad
+            mad1$antonia franca/id=b1685-3-per4
+               rel$parentesco/mulher/manuel farto/b1685-3-pad
 
       bap$b1685-4/6/2/1685/fl.89/igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$manuel/m/id=b1685-4-n
             ls$locbaptismo/em casa
 
-         pn$francisco goncalves/id=b1685-4-pn
+            pn$francisco goncalves/id=b1685-4-pn
 
-         mn$catarina da conceicao/id=b1685-4-mn
+            mn$catarina da conceicao/id=b1685-4-mn
 
-         mad1$brisida francisca/id=b1685-4-mad
+            mad1$brisida francisca/id=b1685-4-mad
 
-         pad1$manuel gomes/id=b1685-4-referido
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao pedro
-            rel$sociabilidade/baptizou em necessidade/manuel/b1685-4-n
+            pad1$manuel gomes/id=b1685-4-referido
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/manuel/b1685-4-n
 
       bap$b1685-4a/6/2/1685/fl.89/igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
@@ -67,742 +67,742 @@ kleio$gacto.str/prefix=spedro
             ls$locbaptismo/em casa
             rel$parentesco/irmao gemeo/manuel/b1685-4-n
 
-         pn$francisco goncalves/mesmo_que=b1685-4-pn/id=b1685-4a-per1
+            pn$francisco goncalves/mesmo_que=b1685-4-pn/id=b1685-4a-per1
 
-         mn$catarina da conceicao/mesmo_que=b1685-4-mn/id=b1685-4a-per2
+            mn$catarina da conceicao/mesmo_que=b1685-4-mn/id=b1685-4a-per2
 
-         mad1$brisida francisca/mesmo_que=b1685-4-mad/id=b1685-4a-per3
+            mad1$brisida francisca/mesmo_que=b1685-4-mad/id=b1685-4a-per3
 
-         pad1$manuel gomes/mesmo_que=b1685-4-referido/id=b1685-4a-per4
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao pedro
-            rel$sociabilidade/baptizou em necessidade/vicente/b1685-5-n
+            pad1$manuel gomes/mesmo_que=b1685-4-referido/id=b1685-4a-per4
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/vicente/b1685-5-n
 
       bap$b1685-5/9/2/1685/fl.89/igreja de sao pedro/jose tinoco vieira (padre, prior da igreja de sao pedro)/obs=assina joao tinoco vieira
 
          n$bras/m/id=b1685-5-per1
 
-         pn$francisco gomes/id=b1685-5-per2
+            pn$francisco gomes/id=b1685-5-per2
 
-         mn$isabel correia/id=b1685-5-per3
+            mn$isabel correia/id=b1685-5-per3
 
-         pad1$manuel de almeida/id=b1685-5-pad
-            ls$profissao/padre
-            ls$cargo/beneficiado da igreja de sao pedro
+            pad1$manuel de almeida/id=b1685-5-pad
+               ls$profissao/padre
+               ls$cargo/beneficiado da igreja de sao pedro
 
-         mad1$vicencia de almeida/id=b1685-5-per4
-            rel$parentesco/sobrinha/manuel de almeida/b1685-5-pad
+            mad1$vicencia de almeida/id=b1685-5-per4
+               rel$parentesco/sobrinha/manuel de almeida/b1685-5-pad
 
       bap$b1685-6/15/2/1685/fl.89v./igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$apolinario/m/id=b1685-6-per1
 
-         pn$manuel da silva/id=b1685-6-per2
-            ls$profissao/alfaiate
-            ls$residencia/freguesia de sao pedro
+            pn$manuel da silva/id=b1685-6-per2
+               ls$profissao/alfaiate
+               ls$residencia/freguesia de sao pedro
 
-         mn$maria dos santos/id=b1685-6-per3
-            ls$residencia/freguesia de sao pedro
+            mn$maria dos santos/id=b1685-6-per3
+               ls$residencia/freguesia de sao pedro
 
-         pad1$francisco soares monteiro/id=b1685-6-per4
-            ls$residencia/obidos
+            pad1$francisco soares monteiro/id=b1685-6-per4
+               ls$residencia/obidos
 
       bap$b1685-7/15/3/1685/fl.89v./igreja de sao pedro/vicente machado fogaca (beneficiado da igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$ana maria/f/id=b1685-7-per1
             ls$enjeitada/sim/obs="anna maria parentibus ignotis"
 
-         pn$nome desconhecido/id=b1685-7-per2
+            pn$nome desconhecido/id=b1685-7-per2
 
-         mn$nome desconhecido/id=b1685-7-per3
+            mn$nome desconhecido/id=b1685-7-per3
 
-         pad1$antonio soares de almeida/id=b1685-7-per4
+            pad1$antonio soares de almeida/id=b1685-7-per4
 
       bap$b1685-8/15/3/1685/fl.89v./igreja de sao pedro/vicente machado fogaca (beneficiado da igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$mariana/f/id=b1685-8-per1
             ls$enjeitada/sim/obs="mariana parentibus ignotis"
 
-         pn$nome desconhecido/id=b1685-8-per2
+            pn$nome desconhecido/id=b1685-8-per2
 
-         mn$nome desconhecido/id=b1685-8-per3
+            mn$nome desconhecido/id=b1685-8-per3
 
-         pad1$antonio soares de almeida/id=b1685-8-per4
+            pad1$antonio soares de almeida/id=b1685-8-per4
 
       bap$b1685-9/23/3/1685/fl.89v./igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$josefa joaquina/f/id=b1685-9-per1
 
-         pn$francisco soares de almeida/id=b1685-9-per2
+            pn$francisco soares de almeida/id=b1685-9-per2
 
-         mn$mariana correia/id=b1685-9-per3
+            mn$mariana correia/id=b1685-9-per3
 
-         pad1$joao gomes figueira/id=b1685-9-per4
-            ls$profissao/padre
+            pad1$joao gomes figueira/id=b1685-9-per4
+               ls$profissao/padre
 
       bap$b1685-10/28/3/1685/fl.90/igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$jose/m/id=b1685-10-per1
 
-         pn$manuel dos reis/id=b1685-10-per2
-            ls$residencia/caxinhas%cachinhas
+            pn$manuel dos reis/id=b1685-10-per2
+               ls$residencia/caxinhas%cachinhas
 
-         mn$isabel duarte/id=b1685-10-per3
-            ls$residencia/caxinhas%cachinhas
+            mn$isabel duarte/id=b1685-10-per3
+               ls$residencia/caxinhas%cachinhas
 
-         pad1$manuel dos santos correia/id=b1685-10-per4
+            pad1$manuel dos santos correia/id=b1685-10-per4
 
-         mad1$maria/id=b1685-10-per5
-            rel$parentesco/filha/luisa da mata/b1685-10-referida
+            mad1$maria/id=b1685-10-per5
+               rel$parentesco/filha/luisa da mata/b1685-10-referida
 
-         referida$luisa da mata/id=b1685-10-referida
+            referida$luisa da mata/id=b1685-10-referida
 
       bap$b1685-11/18/4/1685/fl.90/igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes. a margem diz: março.
 
          n$josefa maria do rosario/f/id=b1685-11-per1
 
-         pn$luis fernandes/id=b1685-11-per2
+            pn$luis fernandes/id=b1685-11-per2
 
-         mn$faustina gomes/id=b1685-11-per3
+            mn$faustina gomes/id=b1685-11-per3
 
-         pad1$diogo de arruda seixas/id=b1685-11-pad
+            pad1$diogo de arruda seixas/id=b1685-11-pad
 
-         mad1$leonor maria do rosario/id=b1685-11-per4
-            rel$parentesco/filha/diogo de arruda seixas/b1685-11-pad
+            mad1$leonor maria do rosario/id=b1685-11-per4
+               rel$parentesco/filha/diogo de arruda seixas/b1685-11-pad
 
       bap$b1685-12/16/5/1685/fl.90/igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$inacio/m/id=b1685-12-per1
             ls$enjeitado/sim/obs="ignacio parentibus ignotis"
 
-         pn$nome desconhecido/id=b1685-12-per2
+            pn$nome desconhecido/id=b1685-12-per2
 
-         mn$nome desconhecido/id=b1685-12-per3
+            mn$nome desconhecido/id=b1685-12-per3
 
-         pad1$francisco gomes/id=b1685-12-per4
-            ls$cargo/procurador do concelho
+            pad1$francisco gomes/id=b1685-12-per4
+               ls$cargo/procurador do concelho
 
       bap$b1685-13/17/5/1685/fl.90v./igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$joao baptista/m/id=b1685-13-per1
 
-         pn$francisco barbosa/id=b1685-13-per2
+            pn$francisco barbosa/id=b1685-13-per2
 
-         mn$isabel francisca do couto/id=b1685-13-per3
+            mn$isabel francisca do couto/id=b1685-13-per3
 
-         pad1$manuel farto/id=b1685-13-pad
+            pad1$manuel farto/id=b1685-13-pad
 
-         mad1$antonia franca/id=b1685-13-per4
-            rel$parentesco/mulher/manuel farto/b1685-13-pad
+            mad1$antonia franca/id=b1685-13-per4
+               rel$parentesco/mulher/manuel farto/b1685-13-pad
 
       bap$b1685-14/26/5/1685/fl.90v./igreja de sao pedro/francisco fernandes (padre na igreja de sao pedro)/obs=assina o padre francisco fernandes
 
          n$filipe/m/id=b1685-14-per1
             ls$enjeitado/sim/obs="phelipe parentibus ignotis"
 
-         pn$nome desconhecido/id=b1685-14-per2
+            pn$nome desconhecido/id=b1685-14-per2
 
-         mn$nome desconhecido/id=b1685-14-per3
+            mn$nome desconhecido/id=b1685-14-per3
 
-         pad1$francisco gomes/id=b1685-14-per4
-            ls$cargo/procurador do concelho
+            pad1$francisco gomes/id=b1685-14-per4
+               ls$cargo/procurador do concelho
 
       bap$b1685-15/25/7/1685/fl.90v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre jose ferreira
 
          n$joao/m/id=b1685-15-per1
             ls$enjeitado/sim/obs="joao parentibus ignotis"
 
-         pn$nome desconhecido/id=b1685-15-per2
+            pn$nome desconhecido/id=b1685-15-per2
 
-         mn$nome desconhecido/id=b1685-15-per3
+            mn$nome desconhecido/id=b1685-15-per3
 
-         pad1$francisco gomes/id=b1685-15-per4
-            ls$cargo/procurador do concelho
+            pad1$francisco gomes/id=b1685-15-per4
+               ls$cargo/procurador do concelho
 
       bap$b1685-16/12/8/1685/fl.90v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$jose/m/id=b1685-16-per1
 
-         pn$francisco da silva/id=b1685-16-per2
-            ls$residencia/obidos
+            pn$francisco da silva/id=b1685-16-per2
+               ls$residencia/obidos
 
-         mn$mariana vieira/id=b1685-16-per3
-            ls$residencia/obidos
+            mn$mariana vieira/id=b1685-16-per3
+               ls$residencia/obidos
 
-         pad1$jose gomes de avelar/id=b1685-16-per4
-            ls$residencia/obidos
+            pad1$jose gomes de avelar/id=b1685-16-per4
+               ls$residencia/obidos
 
-         mad1$juliana pinheiro/id=b1685-16-per5
-            ls$residencia/obidos
+            mad1$juliana pinheiro/id=b1685-16-per5
+               ls$residencia/obidos
 
       bap$b1685-17/15/8/1685/fl.91/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonio/m/id=b1685-17-per1
 
-         pn$manuel henriques/id=b1685-17-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$manuel henriques/id=b1685-17-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$maria da encarnacao/id=b1685-17-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$maria da encarnacao/id=b1685-17-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$manuel dos reis/id=b1685-17-per4
-            ls$profissao/padre
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$manuel dos reis/id=b1685-17-per4
+               ls$profissao/padre
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mad1$rosa maria de macedo/id=b1685-17-per5
-            ls$residencia/obidos, freguesia de sao pedro
+            mad1$rosa maria de macedo/id=b1685-17-per5
+               ls$residencia/obidos, freguesia de sao pedro
 
       bap$b1685-18/8/9/1685/fl.91/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$maria/f/id=b1685-18-per1
             ls$enjeitada/sim
 
-         pn$nome desconhecido/id=b1685-18-per2
+            pn$nome desconhecido/id=b1685-18-per2
 
-         mn$nome desconhecido/id=b1685-18-per3
+            mn$nome desconhecido/id=b1685-18-per3
 
-         pad1$francisco gomes/id=b1685-18-per4
-            ls$cargo/procurador do concelho
+            pad1$francisco gomes/id=b1685-18-per4
+               ls$cargo/procurador do concelho
 
       bap$b1685-19/15/9/1685/fl.91/igreja de sao pedro/vicente machado fogaca (padre)/obs=assina o padre cura jose ferreira
 
          n$antonio/m/id=b1685-19-n
 
-         pn$francisco soares de andrade/id=b1685-19-per1
+            pn$francisco soares de andrade/id=b1685-19-per1
 
-         mn$barbara henriques/id=b1685-19-per2
+            mn$barbara henriques/id=b1685-19-per2
 
-         pad1$joao barreto da silva/id=b1685-19-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$joao barreto da silva/id=b1685-19-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         referido$manuel de almeida/id=b1685-19-per4
-            ls$profissao/padre
-            ls$cargo/beneficiado da igreja de sao pedro
-            rel$sociabilidade/baptizou em necessidade/antonio/b1685-19-n
+            referido$manuel de almeida/id=b1685-19-per4
+               ls$profissao/padre
+               ls$cargo/beneficiado da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/antonio/b1685-19-n
 
       bap$b1685-20/23/10/1685/fl.91/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira. a margem diz que faleceu a 1 de janeiro de 686.
 
          n$alexandre/m/id=b1685-20-n
 
-         pn$manuel pinto da silva/id=b1685-20-per1
-            ls$residencia/obidos
+            pn$manuel pinto da silva/id=b1685-20-per1
+               ls$residencia/obidos
 
-         mn$vicencia gomes/id=b1685-20-per2
-            ls$residencia/obidos
+            mn$vicencia gomes/id=b1685-20-per2
+               ls$residencia/obidos
 
-         pad1$jose pacheco cabral/id=b1685-20-per3
-            ls$residencia/obidos
+            pad1$jose pacheco cabral/id=b1685-20-per3
+               ls$residencia/obidos
 
-         referido$jose ferreira/id=b1685-20-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de sao pedro
-            rel$sociabilidade/baptizou em necessidade/alexandre/b1685-20-n
+            referido$jose ferreira/id=b1685-20-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/alexandre/b1685-20-n
 
       bap$b1685-21/24/10/1685/fl.91v./igreja de sao pedro/manuel de almeida (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonio/m/id=b1685-21-per1
 
-         pn$cipriano henriques/id=b1685-21-per2
-            ls$residencia/casal do pinheiro
+            pn$cipriano henriques/id=b1685-21-per2
+               ls$residencia/casal do pinheiro
 
-         mn$maria das neves/id=b1685-21-per3
-            ls$residencia/casal do pinheiro
+            mn$maria das neves/id=b1685-21-per3
+               ls$residencia/casal do pinheiro
 
-         pad1$joao monteiro/id=b1685-21-per4
-            ls$residencia/obidos
+            pad1$joao monteiro/id=b1685-21-per4
+               ls$residencia/obidos
 
       bap$b1685-22/10/11/1685/fl.91v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$domingas/f/id=b1685-22-per1
 
-         pn$antonio martins/id=b1685-22-per2
-            ls$residencia/obidos
+            pn$antonio martins/id=b1685-22-per2
+               ls$residencia/obidos
 
-         mn$maria simoa/id=b1685-22-per3
-            ls$residencia/obidos
+            mn$maria simoa/id=b1685-22-per3
+               ls$residencia/obidos
 
-         pad1$manuel ferreira/id=b1685-22-per4
-            ls$residencia/obidos
+            pad1$manuel ferreira/id=b1685-22-per4
+               ls$residencia/obidos
 
-         mad1$domingas leitoa/id=b1685-22-per5
-            ls$residencia/obidos
+            mad1$domingas leitoa/id=b1685-22-per5
+               ls$residencia/obidos
 
       bap$b1685-23/14/11/1685/fl.91v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$leonor/f/id=b1685-23-per1
 
-         pn$sebastiao correia/id=b1685-23-per2
-            ls$residencia/obidos
+            pn$sebastiao correia/id=b1685-23-per2
+               ls$residencia/obidos
 
-         mn$maria henriques/id=b1685-23-per3
-            ls$residencia/obidos
+            mn$maria henriques/id=b1685-23-per3
+               ls$residencia/obidos
 
-         pad1$diogo de arruda/id=b1685-23-per4
-            ls$residencia/obidos
-            rel$parentesco/filho/leonor maria de arruda/b1685-23-referida
-            rel$parentesco/filho/manuel de oliveira/b1685-23-referido
+            pad1$diogo de arruda/id=b1685-23-per4
+               ls$residencia/obidos
+               rel$parentesco/filho/leonor maria de arruda/b1685-23-referida
+               rel$parentesco/filho/manuel de oliveira/b1685-23-referido
 
-         referida$leonor maria de arruda/id=b1685-23-referida
-            ls$residencia/obidos
+            referida$leonor maria de arruda/id=b1685-23-referida
+               ls$residencia/obidos
 
-         referido$manuel de oliveira/id=b1685-23-referido
-            ls$residencia/obidos
+            referido$manuel de oliveira/id=b1685-23-referido
+               ls$residencia/obidos
 
       bap$b1685-24/23/11/1685/fl.91v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$teresa/f/id=b1685-24-per1
 
-         pn$jose francisco/id=b1685-24-per2
-            ls$residencia/obidos
+            pn$jose francisco/id=b1685-24-per2
+               ls$residencia/obidos
 
-         mn$francisca cardoso/id=b1685-24-per3
-            ls$residencia/obidos
+            mn$francisca cardoso/id=b1685-24-per3
+               ls$residencia/obidos
 
-         pad1$antonio leitao sanhudo/id=b1685-24-per4
-            ls$residencia/obidos
+            pad1$antonio leitao sanhudo/id=b1685-24-per4
+               ls$residencia/obidos
 
-         mad1$maria coutinho/id=b1685-24-per5
-            ls$residencia/obidos
+            mad1$maria coutinho/id=b1685-24-per5
+               ls$residencia/obidos
 
       bap$b1685-25/24/11/1685/fl.91v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonia maria/f/id=b1685-25-per1
 
-         pn$sebastiao luis/id=b1685-25-per2
-            ls$residencia/obidos
+            pn$sebastiao luis/id=b1685-25-per2
+               ls$residencia/obidos
 
-         mn$maria de ramos/id=b1685-25-per3
-            ls$residencia/obidos
+            mn$maria de ramos/id=b1685-25-per3
+               ls$residencia/obidos
 
-         pad1$joao tinoco vieira/id=b1685-25-per4
-            ls$profissao/padre
-            ls$cargo/prior
-            ls$titulo/reverendo
-            ls$residencia/obidos
+            pad1$joao tinoco vieira/id=b1685-25-per4
+               ls$profissao/padre
+               ls$cargo/prior
+               ls$titulo/reverendo
+               ls$residencia/obidos
 
-         mad1$luisa de sequeira/id=b1685-25-per5
-            ls$residencia/obidos
-            rel$parentesco/filha/francisco soares de almeida/b1685-25-referido
+            mad1$luisa de sequeira/id=b1685-25-per5
+               ls$residencia/obidos
+               rel$parentesco/filha/francisco soares de almeida/b1685-25-referido
 
-         referido$francisco soares de almeida/id=b1685-25-referido
-            ls$residencia/obidos
+            referido$francisco soares de almeida/id=b1685-25-referido
+               ls$residencia/obidos
 
       bap$b1685-26/3/12/1685/fl.92/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$jose/m/id=b1685-26-per1
 
-         pn$francisco ferreira/id=b1685-26-per2
-            ls$residencia/obidos
+            pn$francisco ferreira/id=b1685-26-per2
+               ls$residencia/obidos
 
-         mn$catarina francisca/id=b1685-26-per3
-            ls$residencia/obidos
+            mn$catarina francisca/id=b1685-26-per3
+               ls$residencia/obidos
 
-         pad1$manuel de almeida/id=b1685-26-per4
-            ls$profissao/padre
-            ls$cargo/beneficiado da igreja de sao pedro
+            pad1$manuel de almeida/id=b1685-26-per4
+               ls$profissao/padre
+               ls$cargo/beneficiado da igreja de sao pedro
 
       bap$b1686-1/13/1/1686/fl.92/igreja de sao pedro/joao tinoco vieira (reverendo, doutor, prior da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$josefa/f/obs=a margem diz que faleceu a 29 de agosto de 1687./id=b1686-1-per1
 
-         pn$manuel de oliveira farto/id=b1686-1-per2
-            ls$residencia/obidos
+            pn$manuel de oliveira farto/id=b1686-1-per2
+               ls$residencia/obidos
 
-         mn$leonor do rosario maria/id=b1686-1-per3
-            ls$residencia/obidos
+            mn$leonor do rosario maria/id=b1686-1-per3
+               ls$residencia/obidos
 
-         pad1$joao barreto da silva/id=b1686-1-per4
-            ls$residencia/obidos
+            pad1$joao barreto da silva/id=b1686-1-per4
+               ls$residencia/obidos
 
       bap$b1686-2/20/1/1686/fl.92/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$sebastiao/m/id=b1686-2-per1
             ls$enjeitado/sim/obs=nao trazia nenhum escrito a dizer se estava ou nao baptizado
 
-         pn$nome desconhecido/id=b1686-2-per2
+            pn$nome desconhecido/id=b1686-2-per2
 
-         mn$nome desconhecido/id=b1686-2-per3
+            mn$nome desconhecido/id=b1686-2-per3
 
-         pad1$francisco gomes/id=b1686-2-per4
-            ls$cargo/procurador do concelho
+            pad1$francisco gomes/id=b1686-2-per4
+               ls$cargo/procurador do concelho
 
       bap$b1686-3/10/2/1686/fl.92/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$maria/f/id=b1686-3-per1
             ls$datamorte/16860804/obs=a margem diz que faleceu a 4 de agosto.
 
-         pn$antonio gomes/id=b1686-3-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$antonio gomes/id=b1686-3-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$iria ribeiro/id=b1686-3-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$iria ribeiro/id=b1686-3-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$antonio freire colaco/id=b1686-3-per4
-            ls$cargo/capitao mor da castanheira
+            pad1$antonio freire colaco/id=b1686-3-per4
+               ls$cargo/capitao mor da castanheira
 
       bap$b1686-4/10/2/1686/fl.92/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$mariana/f/id=b1686-4-n
 
-         pn$manuel henriques/id=b1686-4-per1
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$manuel henriques/id=b1686-4-per1
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$maria da silva/id=b1686-4-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$maria da silva/id=b1686-4-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         referido$manuel joao/id=b1686-4-per3
-            ls$profissao/padre
-            rel$sociabilidade/baptizou em necessidade/mariana/b1686-4-n
+            referido$manuel joao/id=b1686-4-per3
+               ls$profissao/padre
+               rel$sociabilidade/baptizou em necessidade/mariana/b1686-4-n
 
       bap$b1686-5/20/2/1686/fl.92v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonio/m/id=b1686-5-n
             ls$enjeitado/sim
 
-         pn$nome desconhecido/id=b1686-5-per1
+            pn$nome desconhecido/id=b1686-5-per1
 
-         mn$nome desconhecido/id=b1686-5-per2
+            mn$nome desconhecido/id=b1686-5-per2
 
-         referido$filipe de matos/id=b1686-5-per3
-            ls$profissao/padre
-            ls$cargo/economo da igreja de santa maria
-            rel$sociabilidade/baptizou em necessidade/antonio/b1686-5-n
+            referido$filipe de matos/id=b1686-5-per3
+               ls$profissao/padre
+               ls$cargo/economo da igreja de santa maria
+               rel$sociabilidade/baptizou em necessidade/antonio/b1686-5-n
 
       bap$b1686-6/24/2/1686/fl.92v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$juliana/f/id=b1686-6-per1
 
-         pn$pedro do couto/id=b1686-6-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$pedro do couto/id=b1686-6-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$maria goncalves/id=b1686-6-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$maria goncalves/id=b1686-6-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$joao vieira/id=b1686-6-per4
-            ls$residencia/obidos, em casa do reverendo prior
+            pad1$joao vieira/id=b1686-6-per4
+               ls$residencia/obidos, em casa do reverendo prior
 
-         mad1$domingas goncalves/id=b1686-6-per5
-            ls$residencia/obidos
+            mad1$domingas goncalves/id=b1686-6-per5
+               ls$residencia/obidos
 
-         referido$nome desconhecido/id=b1686-6-per6
-            ls$titulo/reverendo
-            ls$cargo/prior
-            ls$residencia/obidos
+            referido$nome desconhecido/id=b1686-6-per6
+               ls$titulo/reverendo
+               ls$cargo/prior
+               ls$residencia/obidos
 
       bap$b1686-7/7/3/1686/fl.92v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonia/f/id=b1686-7-n
             ls$locbaptismo/em casa
 
-         pn$manuel de faria/id=b1686-7-per1
-            ls$residencia/obidos
+            pn$manuel de faria/id=b1686-7-per1
+               ls$residencia/obidos
 
-         mn$antonia soares/id=b1686-7-per2
-            ls$residencia/obidos
+            mn$antonia soares/id=b1686-7-per2
+               ls$residencia/obidos
 
-         pad1$manuel farto/id=b1686-7-per3
-            ls$residencia/obidos
+            pad1$manuel farto/id=b1686-7-per3
+               ls$residencia/obidos
 
-         referido$jose ferreira/id=b1686-7-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de sao pedro
-            rel$sociabilidade/baptizou em necessidade/antonia/b1686-7-n
+            referido$jose ferreira/id=b1686-7-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/antonia/b1686-7-n
 
       bap$b1686-8/15/3/1686/fl.92v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$maria/f/id=b1686-8-per1
             ls$datamorte/16860410/obs=a margem diz que faleceu aos 10 de abril
 
-         pn$domingos ramos/id=b1686-8-per2
-            ls$residencia/obidos
+            pn$domingos ramos/id=b1686-8-per2
+               ls$residencia/obidos
 
-         mn$andresa correia/id=b1686-8-per3
-            ls$residencia/obidos
+            mn$andresa correia/id=b1686-8-per3
+               ls$residencia/obidos
 
-         pad1$manuel dos santos correia/id=b1686-8-per4
-            ls$residencia/obidos
+            pad1$manuel dos santos correia/id=b1686-8-per4
+               ls$residencia/obidos
 
-         mad1$maria correia/id=b1686-8-per5
-            ls$residencia/obidos
+            mad1$maria correia/id=b1686-8-per5
+               ls$residencia/obidos
 
       bap$b1686-9/19/3/1686/fl.93/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$jose/m/id=b1686-9-per1
 
-         pn$manuel ferreira/id=b1686-9-per2
-            ls$residencia/quinta nova, freguesia de sao pedro
+            pn$manuel ferreira/id=b1686-9-per2
+               ls$residencia/quinta nova, freguesia de sao pedro
 
-         mn$maria henriques/id=b1686-9-per3
-            ls$residencia/quinta nova, freguesia de sao pedro
+            mn$maria henriques/id=b1686-9-per3
+               ls$residencia/quinta nova, freguesia de sao pedro
 
-         pad1$manuel alvares de almeida/id=b1686-9-per4
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$manuel alvares de almeida/id=b1686-9-per4
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mad1$francisca vicente/id=b1686-9-per5
-            ls$residencia/obidos, freguesia de sao pedro
-            rel$parentesco/filha/antonio pinto/b1686-9-referido
+            mad1$francisca vicente/id=b1686-9-per5
+               ls$residencia/obidos, freguesia de sao pedro
+               rel$parentesco/filha/antonio pinto/b1686-9-referido
 
-         referido$antonio pinto/id=b1686-9-referido
-            ls$residencia/obidos
+            referido$antonio pinto/id=b1686-9-referido
+               ls$residencia/obidos
 
       bap$b1686-10/1/5/1686/fl.93/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$manuel/m/id=b1686-10-per1
 
-         pn$manuel lobo/id=b1686-10-per2
-            ls$residencia/pinhal, freguesia de sao pedro
+            pn$manuel lobo/id=b1686-10-per2
+               ls$residencia/pinhal, freguesia de sao pedro
 
-         mn$leonor francisca/id=b1686-10-per3
-            ls$residencia/pinhal, freguesia de sao pedro
+            mn$leonor francisca/id=b1686-10-per3
+               ls$residencia/pinhal, freguesia de sao pedro
 
-         pad1$manuel dias/id=b1686-10-per4
-            rel$parentesco/filho/maria lopes/b1686-10-referida
+            pad1$manuel dias/id=b1686-10-per4
+               rel$parentesco/filho/maria lopes/b1686-10-referida
 
-         mad1$natalia lopes/id=b1686-10-per5
-            rel$parentesco/filha/maria lopes/b1686-10-referida
+            mad1$natalia lopes/id=b1686-10-per5
+               rel$parentesco/filha/maria lopes/b1686-10-referida
 
-         referida$maria lopes/id=b1686-10-referida
-            ls$residencia/pinhal, freguesia de sao pedro
+            referida$maria lopes/id=b1686-10-referida
+               ls$residencia/pinhal, freguesia de sao pedro
 
       bap$b1686-11/10/5/1686/fl.93/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$helena/f/id=b1686-11-per1
 
-         pn$luis da silva/id=b1686-11-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$luis da silva/id=b1686-11-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$barbara monteiro/id=b1686-11-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$barbara monteiro/id=b1686-11-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$manuel marques/id=b1686-11-per4
-            ls$profissao/padre
-            ls$residencia/a da gorda
+            pad1$manuel marques/id=b1686-11-per4
+               ls$profissao/padre
+               ls$residencia/a da gorda
 
-         mad1$teresa de jesus/id=b1686-11-per5
-            rel$parentesco/mulher/domingos simoes da silva/b1686-11-referido
+            mad1$teresa de jesus/id=b1686-11-per5
+               rel$parentesco/mulher/domingos simoes da silva/b1686-11-referido
 
-         referido$domingos simoes da silva/id=b1686-11-referido
-            ls$residencia/obidos
+            referido$domingos simoes da silva/id=b1686-11-referido
+               ls$residencia/obidos
 
       bap$b1686-12/15/5/1686/fl.93v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$hipolita/f/id=b1686-12-per1
             ls$condicao/escrava
 
-         pn$nome desconhecido/id=b1686-12-per2
+            pn$nome desconhecido/id=b1686-12-per2
 
-         mn$vitoria/id=b1686-12-per3
-            ls$condicao/escrava
-            rel$profissional/escrava/domingos nogueira de araujo/b1686-12-referido
+            mn$vitoria/id=b1686-12-per3
+               ls$condicao/escrava
+               rel$profissional/escrava/domingos nogueira de araujo/b1686-12-referido
 
-         pad1$jose tavares/id=b1686-12-per4
-            ls$residencia/obidos
+            pad1$jose tavares/id=b1686-12-per4
+               ls$residencia/obidos
 
-         referido$domingos nogueira de araujo/id=b1686-12-referido
-            ls$residencia/lisboa
+            referido$domingos nogueira de araujo/id=b1686-12-referido
+               ls$residencia/lisboa
 
       bap$b1686-13/4/6/1686/fl.93v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonia/f/id=b1686-13-per1
 
-         pn$manuel luis/id=b1686-13-per2
-            ls$residencia/casal da boavista, freguesia de sao pedro
+            pn$manuel luis/id=b1686-13-per2
+               ls$residencia/casal da boavista, freguesia de sao pedro
 
-         mn$domingas simoa/id=b1686-13-per3
-            ls$residencia/casal da boavista, freguesia de sao pedro
+            mn$domingas simoa/id=b1686-13-per3
+               ls$residencia/casal da boavista, freguesia de sao pedro
 
-         pad1$jose pacheco cabral/id=b1686-13-per4
-            ls$residencia/obidos
+            pad1$jose pacheco cabral/id=b1686-13-per4
+               ls$residencia/obidos
 
       bap$b1686-14/13/6/1686/fl.93v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonia/f/id=b1686-14-per1
             ls$condicao/escrava
 
-         pn$goncalo/id=b1686-14-per2
-            ls$condicao/escravo
-            rel$profissional/escravo/manuel farto/b1686-14-referido
+            pn$goncalo/id=b1686-14-per2
+               ls$condicao/escravo
+               rel$profissional/escravo/manuel farto/b1686-14-referido
 
-         mn$rosa/id=b1686-14-per3
-            ls$condicao/escrava
-            ls$residencia/obidos, freguesia de sao pedro
-            rel$profissional/escrava/maria correia/b1686-14-referida
+            mn$rosa/id=b1686-14-per3
+               ls$condicao/escrava
+               ls$residencia/obidos, freguesia de sao pedro
+               rel$profissional/escrava/maria correia/b1686-14-referida
 
-         pad1$bartolomeu/obs=homem preto/id=b1686-14-per4
-            ls$condicao/escravo
-            rel$profissional/escravo/manuel dos santos correia/b1686-14-refer
+            pad1$bartolomeu/obs=homem preto/id=b1686-14-per4
+               ls$condicao/escravo
+               rel$profissional/escravo/manuel dos santos correia/b1686-14-refer
 
-         mad1$vicencia/id=b1686-14-per5
-            ls$condicao/escrava
-            rel$profissional/escrava/francisco de freitas/b1686-14-ref
+            mad1$vicencia/id=b1686-14-per5
+               ls$condicao/escrava
+               rel$profissional/escrava/francisco de freitas/b1686-14-ref
 
-         referida$maria correia/id=b1686-14-referida
-            ls$residencia/obidos
+            referida$maria correia/id=b1686-14-referida
+               ls$residencia/obidos
 
-         referido$manuel farto/id=b1686-14-referido
-            ls$residencia/obidos
+            referido$manuel farto/id=b1686-14-referido
+               ls$residencia/obidos
 
-         referido$manuel dos santos correia/id=b1686-14-refer
+            referido$manuel dos santos correia/id=b1686-14-refer
 
-         referido$francisco de freitas/id=b1686-14-ref
+            referido$francisco de freitas/id=b1686-14-ref
 
       bap$b1686-15/7/8/1686/fl.93v./igreja de sao pedro/joao tinoco vieira (doutor, prior da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$manuel/m/id=b1686-15-per1
 
-         pn$jose gomes/id=b1686-15-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$jose gomes/id=b1686-15-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$josefa maria de aiala/id=b1686-15-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$josefa maria de aiala/id=b1686-15-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$diogo/id=b1686-15-pad
-            ls$titulo/dom
-            ls$residencia/quinta da foz/obs=quinta propria
+            pad1$diogo/id=b1686-15-pad
+               ls$titulo/dom
+               ls$residencia/quinta da foz/obs=quinta propria
 
-         mad1$maria/id=b1686-15-per4
-            ls$titulo/dona
-            rel$parentesco/mulher/diogo/b1686-15-pad
-            ls$residencia/quinta da foz/obs=quinta propria
+            mad1$maria/id=b1686-15-per4
+               ls$titulo/dona
+               rel$parentesco/mulher/diogo/b1686-15-pad
+               ls$residencia/quinta da foz/obs=quinta propria
 
       bap$b1686-16/22/9/1686/fl.94/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$antonio/m/id=b1686-16-n
 
-         pn$domingos henriques/id=b1686-16-per1
-            ls$residencia/usseira, freguesia de sao pedro
+            pn$domingos henriques/id=b1686-16-per1
+               ls$residencia/usseira, freguesia de sao pedro
 
-         mn$maria gomes/id=b1686-16-per2
-            ls$residencia/usseira, freguesia de sao pedro
+            mn$maria gomes/id=b1686-16-per2
+               ls$residencia/usseira, freguesia de sao pedro
 
-         pad1$pedro da mota/id=b1686-16-per3
-            ls$residencia/usseira, freguesia de sao pedro
+            pad1$pedro da mota/id=b1686-16-per3
+               ls$residencia/usseira, freguesia de sao pedro
 
-         referido$nome desconhecido/id=b1686-16-per4
-            rel$sociabilidade/baptizou em necessidade/antonio/b1686-16-n
+            referido$nome desconhecido/id=b1686-16-per4
+               rel$sociabilidade/baptizou em necessidade/antonio/b1686-16-n
 
       bap$b1686-17/23/9/1686/fl.94/igreja de sao pedro/manuel de almeida (padre, beneficiado da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$jose/m/id=b1686-17-per1
 
-         pn$gaspar de almeida/id=b1686-17-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$gaspar de almeida/id=b1686-17-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$maria da silva/id=b1686-17-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$maria da silva/id=b1686-17-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$antao francisco/id=b1686-17-per4
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$antao francisco/id=b1686-17-per4
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mad1$maria ferreira/id=b1686-17-per5
-            ls$residencia/obidos
-            rel$parentesco/filha/domingos ferreira/b1686-17-referido
+            mad1$maria ferreira/id=b1686-17-per5
+               ls$residencia/obidos
+               rel$parentesco/filha/domingos ferreira/b1686-17-referido
 
-         referido$domingos ferreira/id=b1686-17-referido
-            ls$residencia/obidos
+            referido$domingos ferreira/id=b1686-17-referido
+               ls$residencia/obidos
 
       bap$b1686-18/29/9/1686/fl.94/igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$mateus/m/id=b1686-18-per1
 
-         pn$silvestre da silva/id=b1686-18-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$silvestre da silva/id=b1686-18-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$maria franca/id=b1686-18-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$maria franca/id=b1686-18-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$manuel de almeida/id=b1686-18-per4
-            ls$profissao/padre
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$manuel de almeida/id=b1686-18-per4
+               ls$profissao/padre
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mad1$maria ferreira/id=b1686-18-per5
-            ls$residencia/obidos, freguesia de sao pedro
+            mad1$maria ferreira/id=b1686-18-per5
+               ls$residencia/obidos, freguesia de sao pedro
 
       bap$b1686-19/7/10/1686/fl.94/igreja de sao pedro/manuel de almeida (padre, beneficiado da igreja de sao pedro)/obs=assina o padre cura jose ferreira. segue-se um registo que se encontra riscado porque foi registado a frente no devido lugar.
 
          n$micaela/f/id=b1686-19-per1
 
-         pn$joao luis/id=b1686-19-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$joao luis/id=b1686-19-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$isabel henriques/id=b1686-19-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$isabel henriques/id=b1686-19-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$joao tinoco vieira/id=b1686-19-per4
-            ls$titulo/doutor
-            ls$cargo/prior
+            pad1$joao tinoco vieira/id=b1686-19-per4
+               ls$titulo/doutor
+               ls$cargo/prior
 
       bap$b1686-20/16/10/1686/fl.94v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$francisco/m/id=b1686-20-n
             ls$condicao/escravo
 
-         pad1$jose coelho/id=b1686-20-per1
-            rel$parentesco/sobrinho/pedro correia salema/b1686-20-referido
+            pad1$jose coelho/id=b1686-20-per1
+               rel$parentesco/sobrinho/pedro correia salema/b1686-20-referido
 
-         referido$pedro correia salema/id=b1686-20-referido
+            referido$pedro correia salema/id=b1686-20-referido
 
-         referido$jose ferreira/id=b1686-20-per2
-            ls$profissao/padre
-            ls$cargo/cura da igreja de sao pedro
-            rel$sociabilidade/baptizou em necessidade/francisco/b1686-20-n
+            referido$jose ferreira/id=b1686-20-per2
+               ls$profissao/padre
+               ls$cargo/cura da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/francisco/b1686-20-n
 
       bap$b1686-21/7/11/1686/fl.94v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$manuel/m/id=b1686-21-per1
 
-         pn$joao henriques/id=b1686-21-per2
-            ls$residencia/pinhal, freguesia de sao pedro
+            pn$joao henriques/id=b1686-21-per2
+               ls$residencia/pinhal, freguesia de sao pedro
 
-         mn$maria antunes/id=b1686-21-per3
-            ls$residencia/pinhal, freguesia de sao pedro
+            mn$maria antunes/id=b1686-21-per3
+               ls$residencia/pinhal, freguesia de sao pedro
 
-         pad1$joao tinoco vieira/id=b1686-21-per4
-            ls$titulo/doutor
-            ls$cargo/prior da igreja de sao pedro
+            pad1$joao tinoco vieira/id=b1686-21-per4
+               ls$titulo/doutor
+               ls$cargo/prior da igreja de sao pedro
 
-         mad1$antonia de almeida/id=b1686-21-per5
-            ls$residencia/obidos
-            rel$parentesco/filha/antonio soares de almeida/b1686-21-referido
+            mad1$antonia de almeida/id=b1686-21-per5
+               ls$residencia/obidos
+               rel$parentesco/filha/antonio soares de almeida/b1686-21-referido
 
-         referido$antonio soares de almeida/id=b1686-21-referido
-            ls$residencia/obidos
+            referido$antonio soares de almeida/id=b1686-21-referido
+               ls$residencia/obidos
 
       bap$b1686-22/16/11/1686/fl.94v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$mariana/f/id=b1686-22-per1
 
-         pn$antonio goncalves/id=b1686-22-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$antonio goncalves/id=b1686-22-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$lourenca da silva/id=b1686-22-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$lourenca da silva/id=b1686-22-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$francisco da silva/id=b1686-22-pad
+            pad1$francisco da silva/id=b1686-22-pad
 
-         mad1$maria de faria/id=b1686-22-per4
-            rel$parentesco/mulher/francisco da silva/b1686-22-pad
+            mad1$maria de faria/id=b1686-22-per4
+               rel$parentesco/mulher/francisco da silva/b1686-22-pad
 
       bap$b1686-23/27/11/1686/fl.94v./igreja de sao pedro/jose ferreira (padre, cura da igreja de sao pedro)/obs=assina o padre cura jose ferreira
 
          n$josefa/f/id=b1686-23-n
             ls$condicao/escrava
 
-         pn$nome desconhecido/id=b1686-23-per1
+            pn$nome desconhecido/id=b1686-23-per1
 
-         mn$domingas/id=b1686-23-per2
-            ls$condicao/escrava
-            ls$residencia/obidos, freguesia de sao pedro
-            rel$profissional/escrava/luis coelho de andrade/b1686-23-referido
+            mn$domingas/id=b1686-23-per2
+               ls$condicao/escrava
+               ls$residencia/obidos, freguesia de sao pedro
+               rel$profissional/escrava/luis coelho de andrade/b1686-23-referido
 
-         pad1$francisco soares de andrade/id=b1686-23-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$francisco soares de andrade/id=b1686-23-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         referido$luis coelho de andrade/id=b1686-23-referido
-            ls$residencia/obidos, freguesia de sao pedro
+            referido$luis coelho de andrade/id=b1686-23-referido
+               ls$residencia/obidos, freguesia de sao pedro
 
-         referido$jose ferreira/id=b1686-23-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de sao pedro
-            ls$residencia/obidos, freguesia de sao pedro
-            rel$sociabilidade/baptizou em necessidade/josefa/b1686-23-n
+            referido$jose ferreira/id=b1686-23-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de sao pedro
+               ls$residencia/obidos, freguesia de sao pedro
+               rel$sociabilidade/baptizou em necessidade/josefa/b1686-23-n

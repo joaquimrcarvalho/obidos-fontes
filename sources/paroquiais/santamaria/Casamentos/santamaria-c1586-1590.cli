@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$casamentos1586-1590/localizacao-a.d.l./freguesia de santa maria
 
       cas$c1586-1/12/1/1586/fl.98-98v./igreja de santa maria/gaspar vicente (padre, cura, beneficiado da igreja de santa maria)/obs=assina gaspar vicente e enumera as testemunhas e acrescenta "estando muyto povo junto...e outros muitos"
@@ -18,11 +18,11 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$antonia dias/id=c1586-2-per1-per2
 
-         pnoiva$estevao dias/id=c1586-2-per1-per3
-            ls$residencia/a da gorda
+            pnoiva$estevao dias/id=c1586-2-per1-per3
+               ls$residencia/a da gorda
 
-         mnoiva$catarina alvares/id=c1586-2-per1-per4
-            ls$residencia/a da gorda
+            mnoiva$catarina alvares/id=c1586-2-per1-per4
+               ls$residencia/a da gorda
 
          test$jeronimo de avelar/id=c1586-2-per5
 
@@ -33,16 +33,16 @@ kleio$gacto.str/prefix=stmaria
          noivo$bartolomeu joao/id=c1586-3-per1
             ls$enjeitado/sim/obs="e nao saber natureza nem conhecer pai nem may"
 
-         pnoivo$nome desconhecido/id=c1586-3-per2
+            pnoivo$nome desconhecido/id=c1586-3-per2
 
-         mnoivo$nome desconhecido/id=c1586-3-per3
+            mnoivo$nome desconhecido/id=c1586-3-per3
 
          noiva$luisa fernandes/id=c1586-3-per4
 
-         pnoiva$luis fernandes/id=c1586-3-per5
-            ls$morto/antes
+            pnoiva$luis fernandes/id=c1586-3-per5
+               ls$morto/antes
 
-         mnoiva$gracia ribeiro/id=c1586-3-per6
+            mnoiva$gracia ribeiro/id=c1586-3-per6
 
          test$jose figueira/id=c1586-3-per7
 
@@ -58,7 +58,7 @@ kleio$gacto.str/prefix=stmaria
             ls$ec/v
             ls$residencia/moinhos de matatripas
 
-         marido1$simao alves/obs=duvida na leitura do apelido, ou e alves ou luis/id=c1587-100-per3
+            marido1$simao alves/obs=duvida na leitura do apelido, ou e alves ou luis/id=c1587-100-per3
 
          test$damiao dias/id=c1587-100-per4
             ls$profissao/padre
@@ -76,15 +76,15 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$antonio dias/id=c1587-1-per1
 
-         pnoivo$francisco martins/id=c1587-1-per2
+            pnoivo$francisco martins/id=c1587-1-per2
 
-         mnoivo$maria dias/id=c1587-1-per3
+            mnoivo$maria dias/id=c1587-1-per3
 
          noiva$isabel da fraga/id=c1587-1-per4
 
-         pnoiva$luis da fraga/id=c1587-1-per5
+            pnoiva$luis da fraga/id=c1587-1-per5
 
-         mnoiva$catarina ribeiro/id=c1587-1-per6
+            mnoiva$catarina ribeiro/id=c1587-1-per6
 
          test$gregrorio de freitas/id=c1587-1-per7
 
@@ -95,16 +95,16 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$gaspar luis/id=c1587-2-per1
 
-         pnoivo$simao fernandes/id=c1587-2-per2
-            ls$alcunha/o ruivo
+            pnoivo$simao fernandes/id=c1587-2-per2
+               ls$alcunha/o ruivo
 
-         mnoivo$nome desconhecido/id=c1587-2-per3
+            mnoivo$nome desconhecido/id=c1587-2-per3
 
          noiva$isabel ribeiro/id=c1587-2-per4
 
-         pnoiva$luis fernandes/id=c1587-2-per5
+            pnoiva$luis fernandes/id=c1587-2-per5
 
-         mnoiva$gracia ribeiro/id=c1587-2-per6
+            mnoiva$gracia ribeiro/id=c1587-2-per6
 
          test$manuel correia/id=c1587-2-per7
 
@@ -118,9 +118,9 @@ kleio$gacto.str/prefix=stmaria
          noiva$iria fernandes%eyria frz/id=c1587-3-per1-per2
             ls$residencia/gaeiras
 
-         pnoiva$nome desconhecido/id=c1587-3-per1-per3
+            pnoiva$nome desconhecido/id=c1587-3-per1-per3
 
-         mnoiva$nome desconhecido/id=c1587-3-per1-per4
+            mnoiva$nome desconhecido/id=c1587-3-per1-per4
 
          test$bernardim ribeiro/id=c1587-3-per5
 
@@ -132,17 +132,17 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$manuel luis/id=c1589-1-per1
 
-         pnoivo$gregorio manuel/id=c1589-1-per2
+            pnoivo$gregorio manuel/id=c1589-1-per2
 
-         mnoivo$domingas fernandes/id=c1589-1-per3
+            mnoivo$domingas fernandes/id=c1589-1-per3
 
          noiva$maria gaspar/id=c1589-1-per4
 
-         pnoiva$gaspar dias/id=c1589-1-per5
-            ls$residencia/fraldeu
+            pnoiva$gaspar dias/id=c1589-1-per5
+               ls$residencia/fraldeu
 
-         mnoiva$guiomar dias/id=c1589-1-per6
-            ls$residencia/fraldeu
+            mnoiva$guiomar dias/id=c1589-1-per6
+               ls$residencia/fraldeu
 
          test$gregorio de freitas/id=c1589-1-per7
 
@@ -157,12 +157,12 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$maria francisca/id=c1589-2-per1-per2
 
-         pnoiva$joao francisco/id=c1589-2-per1-per3
-            ls$morto/antes
-            ls$residencia/a da gorda
+            pnoiva$joao francisco/id=c1589-2-per1-per3
+               ls$morto/antes
+               ls$residencia/a da gorda
 
-         mnoiva$maria alvares/id=c1589-2-per1-per4
-            ls$residencia/a da gorda
+            mnoiva$maria alvares/id=c1589-2-per1-per4
+               ls$residencia/a da gorda
 
          test$antonio heitor/id=c1589-2-per5
 
@@ -175,22 +175,22 @@ kleio$gacto.str/prefix=stmaria
          noivo$joao alvares/id=c1589-3-per1
             ls$residencia/a da gorda
 
-         pnoivo$joao alvares%j.o alvrz/id=c1589-3-per2
-            ls$residencia/a da gorda
+            pnoivo$joao alvares%j.o alvrz/id=c1589-3-per2
+               ls$residencia/a da gorda
 
-         mnoivo$maria antunes/id=c1589-3-per3
-            ls$residencia/a da gorda
+            mnoivo$maria antunes/id=c1589-3-per3
+               ls$residencia/a da gorda
 
          noiva$maria dias/id=c1589-3-per4
             ls$residencia/a da gorda
 
-         pnoiva$antonio dias/id=c1589-3-per5
-            ls$morto/antes
-            ls$residencia/a da gorda
+            pnoiva$antonio dias/id=c1589-3-per5
+               ls$morto/antes
+               ls$residencia/a da gorda
 
-         mnoiva$isabel dias/id=c1589-3-per6
-            ls$residencia/a da gorda
-            ls$morta/antes
+            mnoiva$isabel dias/id=c1589-3-per6
+               ls$residencia/a da gorda
+               ls$morta/antes
 
          test$francisco da horta/id=c1589-3-per7
             ls$profissao/tabeliao%t.am
@@ -203,20 +203,20 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$antonio fernandes/id=c1589-4-per1
 
-         pnoivo$joao martins/id=c1589-4-per2
-            ls$morto/antes
-            ls$residencia/rolica
+            pnoivo$joao martins/id=c1589-4-per2
+               ls$morto/antes
+               ls$residencia/rolica
 
-         mnoivo$isabel fernandes/id=c1589-4-per3
-            ls$residencia/rolica
+            mnoivo$isabel fernandes/id=c1589-4-per3
+               ls$residencia/rolica
 
          noiva$maria fernandes/id=c1589-4-per4
 
-         pnoiva$baltazar dias/id=c1589-4-per5
-            ls$residencia/a da gorda
+            pnoiva$baltazar dias/id=c1589-4-per5
+               ls$residencia/a da gorda
 
-         mnoiva$catarina fernandes/id=c1589-4-per6
-            ls$residencia/a da gorda
+            mnoiva$catarina fernandes/id=c1589-4-per6
+               ls$residencia/a da gorda
 
          test$antao vicente/id=c1589-4-per7
 
@@ -249,8 +249,8 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$filipa jorge/id=c1590-2-per1-per2
 
-         pnoiva$jorge alvares/id=c1590-2-per1-per3
-            ls$residencia/arelho
+            pnoiva$jorge alvares/id=c1590-2-per1-per3
+               ls$residencia/arelho
 
          test$jose figueira/id=c1590-2-per4
 
@@ -262,7 +262,7 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$maria lopes/id=c1590-3-per1-per2
 
-         pnoiva$valentim fernandes/id=c1590-3-per1-per3
+            pnoiva$valentim fernandes/id=c1590-3-per1-per3
 
          test$paulo da serra/id=c1590-3-per4
 

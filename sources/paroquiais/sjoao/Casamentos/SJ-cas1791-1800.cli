@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=sjoao
+kleio$gacto.str/prefix=sjoao/translations=1
    fonte$casamentos1791-1800/localizacao-a.d.l./freguesia de sao joao
 
       cas$c1791-1/9/1/1791/fl.192-192v./igreja de sao joao baptista do mocharro/jose antonio de figueiredo monteiro (prior da igreja de sao joao)/obs=assina o prior jose antonio de figueiredo monteiro. o casamento realizou-se das 10 para as 11 horas da manha.
@@ -8,28 +8,28 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose joao/id=c1791-1-per2
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$jose joao/id=c1791-1-per2
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$quiteria maria/id=c1791-1-per3
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$quiteria maria/id=c1791-1-per3
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$maria da conceicao/id=c1791-1-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$florentino rodrigues/id=c1791-1-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$florentino rodrigues/id=c1791-1-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria rosa/id=c1791-1-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria rosa/id=c1791-1-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$manuel joao/id=c1791-1-per7
             ls$residencia/arelho
@@ -50,28 +50,28 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao pedro
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoivo$sebastiao goncalves/id=c1791-2-per2
-            ls$naturalidade/casal da torre
-            ls$residencia/casal da torre
-            ls$freguesia/sao pedro
+            pnoivo$sebastiao goncalves/id=c1791-2-per2
+               ls$naturalidade/casal da torre
+               ls$residencia/casal da torre
+               ls$freguesia/sao pedro
 
-         mnoivo$quiteria maria/id=c1791-2-per3
-            ls$naturalidade/casal da torre
-            ls$residencia/casal da torre
-            ls$freguesia/sao pedro
+            mnoivo$quiteria maria/id=c1791-2-per3
+               ls$naturalidade/casal da torre
+               ls$residencia/casal da torre
+               ls$freguesia/sao pedro
 
          noiva$maria da conceicao/id=c1791-2-per4
             ls$naturalidade/obidos
             ls$residencia/obidos
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel antunes/id=c1791-2-per5
-            ls$naturalidade/obidos
-            ls$residencia/obidos
+            pnoiva$manuel antunes/id=c1791-2-per5
+               ls$naturalidade/obidos
+               ls$residencia/obidos
 
-         mnoiva$antonia maria/id=c1791-2-per6
-            ls$naturalidade/obidos
-            ls$residencia/obidos
+            mnoiva$antonia maria/id=c1791-2-per6
+               ls$naturalidade/obidos
+               ls$residencia/obidos
 
          test$manuel henriques/id=c1791-2-per7
             ls$residencia/moinho da junqueira
@@ -89,26 +89,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$joao ferreira/id=c1792-1-per2
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$joao ferreira/id=c1792-1-per2
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$felizarda maria/id=c1792-1-per3
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$felizarda maria/id=c1792-1-per3
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$ana margarida/id=c1792-1-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jacinto jose/id=c1792-1-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$jacinto jose/id=c1792-1-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria eugenia/id=c1792-1-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria eugenia/id=c1792-1-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$antonio da silva/id=c1792-1-per7
             ls$residencia/tras do outeiro
@@ -125,20 +125,20 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose francisco/id=c1792-2-per2
-            ls$naturalidade/sobral
+            pnoivo$jose francisco/id=c1792-2-per2
+               ls$naturalidade/sobral
 
-         mnoivo$maria josefa/id=c1792-2-per3
-            ls$naturalidade/sobral
+            mnoivo$maria josefa/id=c1792-2-per3
+               ls$naturalidade/sobral
 
          noiva$maria de jesus/id=c1792-2-per4
             ls$naturalidade/sobral
 
-         pnoiva$joao lopes/id=c1792-2-per5
-            ls$naturalidade/sobral
+            pnoiva$joao lopes/id=c1792-2-per5
+               ls$naturalidade/sobral
 
-         mnoiva$maria do nascimento/id=c1792-2-per6
-            ls$naturalidade/sobral
+            mnoiva$maria do nascimento/id=c1792-2-per6
+               ls$naturalidade/sobral
 
          test$manuel francisco/id=c1792-2-per7
             ls$naturalidade/sobral
@@ -157,26 +157,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel jorge/id=c1793-1-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$manuel jorge/id=c1793-1-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$vicencia maria/id=c1793-1-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$vicencia maria/id=c1793-1-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$ana joaquina/id=c1793-1-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio dos reis/id=c1793-1-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$antonio dos reis/id=c1793-1-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$josefa maria/id=c1793-1-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$josefa maria/id=c1793-1-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$jose de matos/id=c1793-1-per7
             ls$titulo/reverendo
@@ -197,27 +197,27 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago
 
-         pnoivo$manuel dos santos/id=c1793-2-per2
-            ls$morto/antes
-            ls$naturalidade/casal da barrosa
-            ls$freguesia/sao tiago
+            pnoivo$manuel dos santos/id=c1793-2-per2
+               ls$morto/antes
+               ls$naturalidade/casal da barrosa
+               ls$freguesia/sao tiago
 
-         mnoivo$doroteia maria/id=c1793-2-per3
-            ls$naturalidade/casal da barrosa
-            ls$freguesia/sao tiago
+            mnoivo$doroteia maria/id=c1793-2-per3
+               ls$naturalidade/casal da barrosa
+               ls$freguesia/sao tiago
 
          noiva$ana maria/id=c1793-2-per4
             ls$residencia/carregal
             ls$naturalidade/carregal
 
-         pnoiva$manuel rodrigues/id=c1793-2-per5
-            ls$morto/antes
-            ls$residencia/carregal
-            ls$naturalidade/carregal
+            pnoiva$manuel rodrigues/id=c1793-2-per5
+               ls$morto/antes
+               ls$residencia/carregal
+               ls$naturalidade/carregal
 
-         mnoiva$maria eugenia/id=c1793-2-per6
-            ls$residencia/carregal
-            ls$naturalidade/carregal
+            mnoiva$maria eugenia/id=c1793-2-per6
+               ls$residencia/carregal
+               ls$naturalidade/carregal
 
          test$jeronimo pedro fialho de mendonca/id=c1793-2-per7
             ls$titulo/reverendo
@@ -238,26 +238,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/casal da figueira
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$joaquim manuel/id=c1793-3-per2
-            ls$naturalidade/casal da figueira
-            ls$residencia/casal da figueira
+            pnoivo$joaquim manuel/id=c1793-3-per2
+               ls$naturalidade/casal da figueira
+               ls$residencia/casal da figueira
 
-         mnoivo$josefa maria/id=c1793-3-per3
-            ls$naturalidade/casal da figueira
-            ls$residencia/casal da figueira
+            mnoivo$josefa maria/id=c1793-3-per3
+               ls$naturalidade/casal da figueira
+               ls$residencia/casal da figueira
 
          noiva$maria genoveva/id=c1793-3-per4
             ls$naturalidade/bairro
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose antunes/id=c1793-3-per5
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoiva$jose antunes/id=c1793-3-per5
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoiva$genoveva joaquina/id=c1793-3-per6
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoiva$genoveva joaquina/id=c1793-3-per6
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          test$joaquim jose da costa/id=c1793-3-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -273,21 +273,21 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             rel$parentesco/quarto grau de parentesco/rita joaquina/c1794-1-noiva/obs=os noivos foram despensados no consanguinidade de quarto grau
 
-         pnoivo$francisco luis/id=c1794-1-per2
-            ls$morto/antes
+            pnoivo$francisco luis/id=c1794-1-per2
+               ls$morto/antes
 
-         mnoivo$josefa maria/id=c1794-1-per3
+            mnoivo$josefa maria/id=c1794-1-per3
 
          noiva$rita joaquina/id=c1794-1-noiva
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose pereira/id=c1794-1-per4
-            ls$residencia/sobral
+            pnoiva$jose pereira/id=c1794-1-per4
+               ls$residencia/sobral
 
-         mnoiva$ana joaquina/id=c1794-1-per5
-            ls$residencia/sobral
-            ls$morta/antes
+            mnoiva$ana joaquina/id=c1794-1-per5
+               ls$residencia/sobral
+               ls$morta/antes
 
          test$joaquim gomes do rego/id=c1794-1-per6
             ls$titulo/reverendo
@@ -305,21 +305,21 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel francisco/id=c1794-2-per2
-            ls$residencia/arelho
+            pnoivo$manuel francisco/id=c1794-2-per2
+               ls$residencia/arelho
 
-         mnoivo$maria eugenia/id=c1794-2-per3
-            ls$residencia/arelho
+            mnoivo$maria eugenia/id=c1794-2-per3
+               ls$residencia/arelho
 
          noiva$teodora maria/id=c1794-2-per4
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$paulo henriques/id=c1794-2-per5
-            ls$residencia/arelho
+            pnoiva$paulo henriques/id=c1794-2-per5
+               ls$residencia/arelho
 
-         mnoiva$maria dos reis/id=c1794-2-per6
-            ls$residencia/arelho
+            mnoiva$maria dos reis/id=c1794-2-per6
+               ls$residencia/arelho
 
          test$joaquim jose da costa/id=c1794-2-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -337,20 +337,20 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel rodrigues/id=c1794-3-per2
-            ls$morto/antes
-            ls$naturalidade/carregal
+            pnoivo$manuel rodrigues/id=c1794-3-per2
+               ls$morto/antes
+               ls$naturalidade/carregal
 
-         mnoivo$maria eugenia/id=c1794-3-per3
-            ls$naturalidade/carregal
+            mnoivo$maria eugenia/id=c1794-3-per3
+               ls$naturalidade/carregal
 
          noiva$maria das neves/id=c1794-3-per4
             ls$ilegitima/sim/obs=filha de pai incognito
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$nome desconhecido/id=c1794-3-per5
+            pnoiva$nome desconhecido/id=c1794-3-per5
 
-         mnoiva$monica maria/id=c1794-3-per6
+            mnoiva$monica maria/id=c1794-3-per6
 
          test$manuel ferreira/id=c1794-3-per7
             ls$residencia/arelho
@@ -368,26 +368,26 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago
 
-         pnoivo$domingos francisco/id=c1794-4-per2
-            ls$naturalidade/casal do negrelho
-            ls$freguesia/sao tiago
+            pnoivo$domingos francisco/id=c1794-4-per2
+               ls$naturalidade/casal do negrelho
+               ls$freguesia/sao tiago
 
-         mnoivo$luisa maria/id=c1794-4-per3
-            ls$naturalidade/casal do negrelho
-            ls$freguesia/sao tiago
+            mnoivo$luisa maria/id=c1794-4-per3
+               ls$naturalidade/casal do negrelho
+               ls$freguesia/sao tiago
 
          noiva$ana maria/id=c1794-4-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$bernardo franco/id=c1794-4-per5
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$bernardo franco/id=c1794-4-per5
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$maria micaela/id=c1794-4-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$maria micaela/id=c1794-4-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$joaquim jose da costa/id=c1794-4-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -407,28 +407,28 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago
 
-         pnoivo$manuel dos santos/id=c1794-5-per2
-            ls$naturalidade/quinta da barrosa
-            ls$residencia/quinta da barrosa
-            ls$freguesia/sao tiago
+            pnoivo$manuel dos santos/id=c1794-5-per2
+               ls$naturalidade/quinta da barrosa
+               ls$residencia/quinta da barrosa
+               ls$freguesia/sao tiago
 
-         mnoivo$doroteia maria/id=c1794-5-per3
-            ls$naturalidade/quinta da barrosa
-            ls$residencia/quinta da barrosa
-            ls$freguesia/sao tiago
+            mnoivo$doroteia maria/id=c1794-5-per3
+               ls$naturalidade/quinta da barrosa
+               ls$residencia/quinta da barrosa
+               ls$freguesia/sao tiago
 
          noiva$feliciana maria/id=c1794-5-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose joao/id=c1794-5-per5
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$jose joao/id=c1794-5-per5
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$maria antonia/id=c1794-5-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$maria antonia/id=c1794-5-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$joaquim jose da costa/id=c1794-5-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -446,24 +446,24 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$francisco goncalves/id=c1794-6-per2
-            ls$morto/antes
-            ls$residencia/bairro
+            pnoivo$francisco goncalves/id=c1794-6-per2
+               ls$morto/antes
+               ls$residencia/bairro
 
-         mnoivo$maria rosa/id=c1794-6-per3
-            ls$morta/antes
-            ls$residencia/bairro
+            mnoivo$maria rosa/id=c1794-6-per3
+               ls$morta/antes
+               ls$residencia/bairro
 
          noiva$joaquina maria/id=c1794-6-per4
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel franco/id=c1794-6-per5
-            ls$morto/antes
-            ls$residencia/carregal
+            pnoiva$manuel franco/id=c1794-6-per5
+               ls$morto/antes
+               ls$residencia/carregal
 
-         mnoiva$maria josefa/id=c1794-6-per6
-            ls$residencia/carregal
+            mnoiva$maria josefa/id=c1794-6-per6
+               ls$residencia/carregal
 
          test$joaquim jose da costa/id=c1794-6-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -484,31 +484,31 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/nossa senhora da anunciacao, tornada
             ls$residencia/obidos
 
-         pnoivo$francisco joao/id=c1794-7-pnoivo
-            ls$morto/antes
-            ls$naturalidade/tornada
-            ls$residencia/tornada
-            ls$freguesia/nossa senhora da anunciacao, tornada
+            pnoivo$francisco joao/id=c1794-7-pnoivo
+               ls$morto/antes
+               ls$naturalidade/tornada
+               ls$residencia/tornada
+               ls$freguesia/nossa senhora da anunciacao, tornada
 
-         mnoivo$joana dos santos/id=c1794-7-mnoivo
-            ls$morta/antes
-            ls$naturalidade/tornada
-            ls$residencia/tornada
-            ls$freguesia/nossa senhora da anunciacao, tornada
+            mnoivo$joana dos santos/id=c1794-7-mnoivo
+               ls$morta/antes
+               ls$naturalidade/tornada
+               ls$residencia/tornada
+               ls$freguesia/nossa senhora da anunciacao, tornada
 
          noiva$feliciana maria do carmo/id=c1794-7-noiva
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose rodrigues/id=c1794-7-pnoiva
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$jose rodrigues/id=c1794-7-pnoiva
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$antonia maria/id=c1794-7-mnoiva
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$antonia maria/id=c1794-7-mnoiva
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
       cas$c1794-8/8/11/1794/fl.203v.-204/igreja de sao joao baptista do mocharro/jose antonio de figueiredo monteiro (prior da igreja de sao joao)/obs=assina o prior jose antonio de figueiredo monteiro. o casamento realizou-se das 4 para as 5 horas da tarde.
 
@@ -519,31 +519,31 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de nossa senhora da anunciacao, tornada
             ls$residencia/obidos
 
-         pnoivo$francisco joao/mesmo_que=c1794-7-pnoivo/id=c1794-8-per2
-            ls$morto/antes
-            ls$naturalidade/tornada
-            ls$residencia/tornada
-            ls$freguesia/nossa senhora da anunciacao, tornada
+            pnoivo$francisco joao/mesmo_que=c1794-7-pnoivo/id=c1794-8-per2
+               ls$morto/antes
+               ls$naturalidade/tornada
+               ls$residencia/tornada
+               ls$freguesia/nossa senhora da anunciacao, tornada
 
-         mnoivo$joana dos santos/mesmo_que=c1794-7-mnoivo/id=c1794-8-per3
-            ls$morta/antes
-            ls$naturalidade/tornada
-            ls$residencia/tornada
-            ls$freguesia/nossa senhora da anunciacao, tornada
+            mnoivo$joana dos santos/mesmo_que=c1794-7-mnoivo/id=c1794-8-per3
+               ls$morta/antes
+               ls$naturalidade/tornada
+               ls$residencia/tornada
+               ls$freguesia/nossa senhora da anunciacao, tornada
 
          noiva$feliciana maria do carmo/mesmo_que=c1794-7-noiva/id=c1794-8-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose rodrigues/mesmo_que=c1794-7-pnoiva/id=c1794-8-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$jose rodrigues/mesmo_que=c1794-7-pnoiva/id=c1794-8-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$antonia maria/mesmo_que=c1794-7-mnoiva/id=c1794-8-per6
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$antonia maria/mesmo_que=c1794-7-mnoiva/id=c1794-8-per6
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$jose joaquim reinaldo sampaio/id=c1794-8-per7
             ls$cargo/desembargador
@@ -568,28 +568,28 @@ kleio$gacto.str/prefix=sjoao
             mulher1$francisca rosa/id=c1795-1-per1-per2
                ls$morta/antes
 
-         pnoivo$francisco viana/id=c1795-1-per3
-            ls$naturalidade/nadadouro
-            ls$freguesia/sao tiago
+            pnoivo$francisco viana/id=c1795-1-per3
+               ls$naturalidade/nadadouro
+               ls$freguesia/sao tiago
 
-         mnoivo$mariana teresa/id=c1795-1-per4
-            ls$naturalidade/nadadouro
-            ls$freguesia/sao tiago
+            mnoivo$mariana teresa/id=c1795-1-per4
+               ls$naturalidade/nadadouro
+               ls$freguesia/sao tiago
 
          noiva$maria dos santos/id=c1795-1-per5
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$sebastiao da silva/id=c1795-1-per6
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$sebastiao da silva/id=c1795-1-per6
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria micaela/id=c1795-1-per7
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria micaela/id=c1795-1-per7
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$joaquim jose da costa/id=c1795-1-per8
             ls$cargo/tesoureiro da igreja de sao joao
@@ -607,26 +607,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$francisco rodrigues/id=c1795-2-per2
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoivo$francisco rodrigues/id=c1795-2-per2
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoivo$maria francisca/id=c1795-2-per3
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoivo$maria francisca/id=c1795-2-per3
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          noiva$madalena maria/id=c1795-2-per4
             ls$naturalidade/bairro
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio jose/id=c1795-2-per5
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoiva$antonio jose/id=c1795-2-per5
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoiva$antonia maria/id=c1795-2-per6
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoiva$antonia maria/id=c1795-2-per6
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          test$joaquim jose da costa/id=c1795-2-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -646,27 +646,27 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             rel$parentesco/consanguinidade de terceiro e quarto graus/maria das neves do carmo/c1795-3-noiva/obs=os noivos foram dispensados dos consanguinidade de terceiro e quarto graus
 
-         pnoivo$francisco antonio/id=c1795-3-per2
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$francisco antonio/id=c1795-3-per2
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$micaela maria/id=c1795-3-per3
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$micaela maria/id=c1795-3-per3
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$maria das neves do carmo/id=c1795-3-noiva
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel simoes/id=c1795-3-per4
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$manuel simoes/id=c1795-3-per4
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria das neves/id=c1795-3-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria das neves/id=c1795-3-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$manuel do nascimento/id=c1795-3-per6
             ls$residencia/arelho
@@ -683,26 +683,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose francisco granja/id=c1795-4-per2
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoivo$jose francisco granja/id=c1795-4-per2
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoivo$ana maria/id=c1795-4-per3
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoivo$ana maria/id=c1795-4-per3
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          noiva$maria teresa/id=c1795-4-per4
             ls$naturalidade/bairro
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1795-4-per5
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoiva$manuel francisco/id=c1795-4-per5
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoiva$teresa maria/id=c1795-4-per6
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoiva$teresa maria/id=c1795-4-per6
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          test$manuel francisco mariano/id=c1795-4-per7
             ls$residencia/tras do outeiro
@@ -720,23 +720,23 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose pereira/id=c1795-5-per2
-            ls$naturalidade/sobral da lagoa
+            pnoivo$jose pereira/id=c1795-5-per2
+               ls$naturalidade/sobral da lagoa
 
-         mnoivo$ana joaquina/id=c1795-5-per3
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
+            mnoivo$ana joaquina/id=c1795-5-per3
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
 
          noiva$custodia maria/id=c1795-5-per4
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose luis/id=c1795-5-per5
-            ls$naturalidade/sobral da lagoa
+            pnoiva$jose luis/id=c1795-5-per5
+               ls$naturalidade/sobral da lagoa
 
-         mnoiva$anastacia maria/id=c1795-5-per6
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
+            mnoiva$anastacia maria/id=c1795-5-per6
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
 
          test$bernardo henriques/id=c1795-5-per7
             ls$titulo/reverendo
@@ -757,22 +757,22 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$antonio dos reis/id=c1795-6-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$antonio dos reis/id=c1795-6-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$maria josefa/id=c1795-6-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$maria josefa/id=c1795-6-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$ana barbara/id=c1795-6-per4
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel leandro/id=c1795-6-per5
-            ls$naturalidade/arelho
+            pnoiva$manuel leandro/id=c1795-6-per5
+               ls$naturalidade/arelho
 
-         mnoiva$ana joaquina/id=c1795-6-per6
-            ls$naturalidade/sobral da lagoa
+            mnoiva$ana joaquina/id=c1795-6-per6
+               ls$naturalidade/sobral da lagoa
 
          test$jose dos santos/id=c1795-6-per7
             ls$residencia/sobral da lagoa
@@ -789,29 +789,29 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$sebastiao francisco/id=c1796-1-per2
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$sebastiao francisco/id=c1796-1-per2
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$josefa maria/id=c1796-1-per3
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$josefa maria/id=c1796-1-per3
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$jacinta joaquina/id=c1796-1-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$joao nunes/id=c1796-1-per5
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$joao nunes/id=c1796-1-per5
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$rosa maria/id=c1796-1-per6
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$rosa maria/id=c1796-1-per6
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$jose de matos/id=c1796-1-per7
             ls$titulo/reverendo
@@ -832,27 +832,27 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$crespiniano rodrigues/id=c1796-2-per2
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$crespiniano rodrigues/id=c1796-2-per2
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$maria joaquina/id=c1796-2-per3
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$maria joaquina/id=c1796-2-per3
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$maria de jesus/id=c1796-2-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$custodio jose/id=c1796-2-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$custodio jose/id=c1796-2-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$margarida rosa/id=c1796-2-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$margarida rosa/id=c1796-2-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$antonio rodrigues alvaro/id=c1796-2-per7
             ls$residencia/obidos
@@ -873,26 +873,26 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/carregal
             ls$residencia/carregal
 
-         pnoivo$bernardo gomes/id=c1796-3-per3
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoivo$bernardo gomes/id=c1796-3-per3
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoivo$joaquina maria/id=c1796-3-per4
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoivo$joaquina maria/id=c1796-3-per4
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          noiva$maria do carmo/id=c1796-3-per5
             ls$locbaptismo/freguesia de sao joao
             ls$naturalidade/carregal
             ls$residencia/carregal
 
-         pnoiva$antonio joao/id=c1796-3-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$antonio joao/id=c1796-3-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$maria joaquina/id=c1796-3-per7
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$maria joaquina/id=c1796-3-per7
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$jose dos santos/id=c1796-3-per8
             ls$residencia/quinta da galeota
@@ -911,19 +911,19 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago
 
-         pnoivo$jose dos santos/id=c1796-4-per2
+            pnoivo$jose dos santos/id=c1796-4-per2
 
-         mnoivo$maria teresa/id=c1796-4-per3
+            mnoivo$maria teresa/id=c1796-4-per3
 
          noiva$feliciana de jesus/id=c1796-4-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$sebastiao francisco/id=c1796-4-per5
-            ls$morto/antes
+            pnoiva$sebastiao francisco/id=c1796-4-per5
+               ls$morto/antes
 
-         mnoiva$josefa maria/id=c1796-4-per6
+            mnoiva$josefa maria/id=c1796-4-per6
 
          test$bernardo gomes/id=c1796-4-per7
             ls$residencia/carregal
@@ -941,23 +941,23 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao pedro
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoivo$jose pereira/id=c1796-5-per2
-            ls$naturalidade/casais do pinhal
-            ls$freguesia/sao pedro
+            pnoivo$jose pereira/id=c1796-5-per2
+               ls$naturalidade/casais do pinhal
+               ls$freguesia/sao pedro
 
-         mnoivo$josefa maria/id=c1796-5-per3
-            ls$naturalidade/casais do pinhal
-            ls$freguesia/sao pedro
+            mnoivo$josefa maria/id=c1796-5-per3
+               ls$naturalidade/casais do pinhal
+               ls$freguesia/sao pedro
 
          noiva$maria dos reis/id=c1796-5-per4
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao vicente, lisboa
 
-         pnoiva$antonio viana/id=c1796-5-per5
-            ls$residencia/arelho
+            pnoiva$antonio viana/id=c1796-5-per5
+               ls$residencia/arelho
 
-         mnoiva$candida maria/id=c1796-5-per6
-            ls$residencia/arelho
+            mnoiva$candida maria/id=c1796-5-per6
+               ls$residencia/arelho
 
          test$jose viana/id=c1796-5-per7
             ls$residencia/arelho
@@ -975,25 +975,25 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago
 
-         pnoivo$manuel francisco/id=c1796-6-per2
-            ls$naturalidade/tras do outeiro
-            ls$freguesia/sao tiago
+            pnoivo$manuel francisco/id=c1796-6-per2
+               ls$naturalidade/tras do outeiro
+               ls$freguesia/sao tiago
 
-         mnoivo$josefa maria/id=c1796-6-per3
-            ls$naturalidade/tras do outeiro
-            ls$freguesia/sao tiago
+            mnoivo$josefa maria/id=c1796-6-per3
+               ls$naturalidade/tras do outeiro
+               ls$freguesia/sao tiago
 
          noiva$rosa joaquina/id=c1796-6-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$joaquim joao/id=c1796-6-per5
-            ls$naturalidade/arelho
+            pnoiva$joaquim joao/id=c1796-6-per5
+               ls$naturalidade/arelho
 
-         mnoiva$josefa maria/id=c1796-6-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$josefa maria/id=c1796-6-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$francisco antonio/id=c1796-6-per7
             ls$residencia/tras do outeiro
@@ -1013,25 +1013,25 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/santa maria
             ls$locbaptismo/freguesia de santa maria
 
-         pnoivo$manuel francisco/id=c1797-1-per2
-            ls$morto/antes
-            ls$naturalidade/gaeiras
-            ls$freguesia/santa maria
+            pnoivo$manuel francisco/id=c1797-1-per2
+               ls$morto/antes
+               ls$naturalidade/gaeiras
+               ls$freguesia/santa maria
 
-         mnoivo$maria madalena/id=c1797-1-per3
-            ls$naturalidade/gaeiras
-            ls$freguesia/santa maria
+            mnoivo$maria madalena/id=c1797-1-per3
+               ls$naturalidade/gaeiras
+               ls$freguesia/santa maria
 
          noiva$marian do rosario/id=c1797-1-per4
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$francisco jose/id=c1797-1-per5
-            ls$morto/antes
-            ls$naturalidade/arelho
+            pnoiva$francisco jose/id=c1797-1-per5
+               ls$morto/antes
+               ls$naturalidade/arelho
 
-         mnoiva$ana joaquina/id=c1797-1-per6
-            ls$naturalidade/arelho
+            mnoiva$ana joaquina/id=c1797-1-per6
+               ls$naturalidade/arelho
 
          test$francisco capucho/id=c1797-1-per7
             ls$residencia/casal da vista alegre
@@ -1051,26 +1051,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose gomes da silva/id=c1797-2-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$jose gomes da silva/id=c1797-2-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$maria de sao jose/id=c1797-2-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$maria de sao jose/id=c1797-2-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$maria isabel/id=c1797-2-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel reis/id=c1797-2-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$manuel reis/id=c1797-2-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$isabel maria/id=c1797-2-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$isabel maria/id=c1797-2-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$antonio gomes do rego/id=c1797-2-per7
             ls$residencia/sobral da lagoa
@@ -1087,27 +1087,27 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago
 
-         pnoivo$joaquim manuel/id=c1797-3-per2
-            ls$naturalidade/casal da figueira
-            ls$freguesia/sao tiago
+            pnoivo$joaquim manuel/id=c1797-3-per2
+               ls$naturalidade/casal da figueira
+               ls$freguesia/sao tiago
 
-         mnoivo$josefa maria/id=c1797-3-per3
-            ls$naturalidade/casal da figueira
-            ls$freguesia/sao tiago
+            mnoivo$josefa maria/id=c1797-3-per3
+               ls$naturalidade/casal da figueira
+               ls$freguesia/sao tiago
 
          noiva$quiteria maria/id=c1797-3-per4
             ls$naturalidade/bairro
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel dos santos/id=c1797-3-per5
-            ls$morto/antes
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoiva$manuel dos santos/id=c1797-3-per5
+               ls$morto/antes
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoiva$ana joaquina/id=c1797-3-per6
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoiva$ana joaquina/id=c1797-3-per6
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          test$jose de matos/id=c1797-3-per7
             ls$profissao/padre
@@ -1128,28 +1128,28 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             rel$parentesco/quarto grau de parentesco/ana joaquina/c1797-4-noiva/obs=os noivos foram dispensados do consanguinidade de quarto grau
 
-         pnoivo$jose rodrigues/id=c1797-4-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$jose rodrigues/id=c1797-4-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$rosa maria/id=c1797-4-per3
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$rosa maria/id=c1797-4-per3
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$ana joaquina/id=c1797-4-noiva
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio luis/id=c1797-4-per4
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$antonio luis/id=c1797-4-per4
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$joana maria/id=c1797-4-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$joana maria/id=c1797-4-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$pedro antonio/id=c1797-4-per6
             ls$residencia/obidos
@@ -1171,14 +1171,14 @@ kleio$gacto.str/prefix=sjoao
             mulher1$ana joaquina/id=c1797-5-per1-per2
                ls$morta/antes
 
-         pnoivo$manuel do rego/id=c1797-5-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$manuel do rego/id=c1797-5-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$luisa maria/id=c1797-5-per4
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$luisa maria/id=c1797-5-per4
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$margarida rosa/id=c1797-5-per5
             ls$ec/viuva
@@ -1186,17 +1186,17 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         marido1$joaquim rodrigues/id=c1797-5-per6
-            ls$morto/antes
+            marido1$joaquim rodrigues/id=c1797-5-per6
+               ls$morto/antes
 
-         pnoiva$francisco luis nobre/id=c1797-5-per7
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$francisco luis nobre/id=c1797-5-per7
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$josefa maria/id=c1797-5-per8
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$josefa maria/id=c1797-5-per8
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$antonio da costa/id=c1797-5-per9
             ls$residencia/obidos
@@ -1214,26 +1214,26 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             rel$parentesco/consanguinidade de terceiro grau/maria do nascimento/c1797-6-noiva/obs=os noivos foream dispensados do consanguinidade de terceiro grau
 
-         pnoivo$domingos rodrigues/id=c1797-6-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$domingos rodrigues/id=c1797-6-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$ana maria/id=c1797-6-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$ana maria/id=c1797-6-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$maria do nascimento/id=c1797-6-noiva
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$francisco jose/id=c1797-6-per4
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$francisco jose/id=c1797-6-per4
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$ana maria/id=c1797-6-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$ana maria/id=c1797-6-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$jose henriques/id=c1797-6-per6
             ls$residencia/sobral da lagoa
@@ -1250,26 +1250,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel francisco/id=c1797-7-per2
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$manuel francisco/id=c1797-7-per2
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$maria eugenia/id=c1797-7-per3
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$maria eugenia/id=c1797-7-per3
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$francisca rosa/id=c1797-7-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio lopes/id=c1797-7-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$antonio lopes/id=c1797-7-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria joaquina/id=c1797-7-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria joaquina/id=c1797-7-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$manuel do nascimento/id=c1797-7-per7
             ls$residencia/arelho
@@ -1286,28 +1286,28 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose de oliveira/id=c1798-1-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$jose de oliveira/id=c1798-1-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$joana teresa/id=c1798-1-per3
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$joana teresa/id=c1798-1-per3
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$catarina da conceicao/id=c1798-1-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel soares/id=c1798-1-per5
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$manuel soares/id=c1798-1-per5
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$ana da conceicao/id=c1798-1-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$ana da conceicao/id=c1798-1-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$jose monteiro/id=c1798-1-per7
             ls$residencia/sobral da lagoa
@@ -1324,27 +1324,27 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia do bom jesus de sao pedro do carvalhal
             ls$residencia/carregal
 
-         pnoivo$manuel gomes/id=c1798-2-per2
-            ls$morto/antes
-            ls$naturalidade/salgueiro
-            ls$freguesia/bom jesus de sao pedro do carvalhal
+            pnoivo$manuel gomes/id=c1798-2-per2
+               ls$morto/antes
+               ls$naturalidade/salgueiro
+               ls$freguesia/bom jesus de sao pedro do carvalhal
 
-         mnoivo$escolastica maria/id=c1798-2-per3
-            ls$naturalidade/salgueiro
-            ls$freguesia/bom jesus de sao pedro do carvalhal
+            mnoivo$escolastica maria/id=c1798-2-per3
+               ls$naturalidade/salgueiro
+               ls$freguesia/bom jesus de sao pedro do carvalhal
 
          noiva$feliciana maria/id=c1798-2-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
 
-         pnoiva$estevao goncalves/id=c1798-2-per5
-            ls$morto/antes
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$estevao goncalves/id=c1798-2-per5
+               ls$morto/antes
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$josefa maria/id=c1798-2-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$josefa maria/id=c1798-2-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$joaquim jose da costa/id=c1798-2-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -1362,27 +1362,27 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose franco/id=c1798-3-per2
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoivo$jose franco/id=c1798-3-per2
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoivo$maria joaquina/id=c1798-3-per3
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoivo$maria joaquina/id=c1798-3-per3
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          noiva$maria feliciana dos reis/id=c1798-3-per4
             ls$naturalidade/bairro
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$filipe antonio/id=c1798-3-per5
-            ls$naturalidade/bairro
-            ls$residencia/carregal
+            pnoiva$filipe antonio/id=c1798-3-per5
+               ls$naturalidade/bairro
+               ls$residencia/carregal
 
-         mnoiva$feliciana maria dos reis/id=c1798-3-per6
-            ls$morta/antes
-            ls$naturalidade/bairro
-            ls$residencia/carregal
+            mnoiva$feliciana maria dos reis/id=c1798-3-per6
+               ls$morta/antes
+               ls$naturalidade/bairro
+               ls$residencia/carregal
 
          test$joaquim jose da costa/id=c1798-3-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -1405,27 +1405,27 @@ kleio$gacto.str/prefix=sjoao
             mulher1$maria teodora/id=c1798-4-per1-per2
                ls$morta/antes
 
-         pnoivo$lourenco gomes/id=c1798-4-per3
-            ls$morto/antes
+            pnoivo$lourenco gomes/id=c1798-4-per3
+               ls$morto/antes
 
-         mnoivo$ana maria/id=c1798-4-per4
+            mnoivo$ana maria/id=c1798-4-per4
 
          noiva$francisca de jesus/id=c1798-4-per5
             ls$ec/viuva
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         marido1$jose francisco jorge/id=c1798-4-per6
-            ls$morta/antes
-            ls$residencia/arelho
+            marido1$jose francisco jorge/id=c1798-4-per6
+               ls$morta/antes
+               ls$residencia/arelho
 
-         pnoiva$valeriano henriques/id=c1798-4-per7
-            ls$morto/antes
-            ls$residencia/arelho
+            pnoiva$valeriano henriques/id=c1798-4-per7
+               ls$morto/antes
+               ls$residencia/arelho
 
-         mnoiva$helena maria/id=c1798-4-per8
-            ls$morta/antes
-            ls$residencia/arelho
+            mnoiva$helena maria/id=c1798-4-per8
+               ls$morta/antes
+               ls$residencia/arelho
 
          test$roberto francisco/id=c1798-4-per9
             ls$residencia/ribeira das caldas
@@ -1442,32 +1442,32 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel dos santos/id=c1798-5-per2
-            ls$morto/antes
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            pnoivo$manuel dos santos/id=c1798-5-per2
+               ls$morto/antes
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
-         mnoivo$ana joaquina/id=c1798-5-per3
-            ls$naturalidade/bairro
-            ls$residencia/bairro
+            mnoivo$ana joaquina/id=c1798-5-per3
+               ls$naturalidade/bairro
+               ls$residencia/bairro
 
          noiva$ana joaquina/id=c1798-5-per4
             ls$naturalidade/ribeira das caldas
             ls$residencia/ribeira das caldas
             ls$freguesia/sao tiago
 
-         pnoiva$jose rodrigues/id=c1798-5-per5
-            ls$morto/antes
-            ls$naturalidade/ribeira das caldas
-            ls$residencia/ribeira das caldas
-            ls$freguesia/sao tiago
-            ls$locbaptismo/freguesia de sao tiago
+            pnoiva$jose rodrigues/id=c1798-5-per5
+               ls$morto/antes
+               ls$naturalidade/ribeira das caldas
+               ls$residencia/ribeira das caldas
+               ls$freguesia/sao tiago
+               ls$locbaptismo/freguesia de sao tiago
 
-         mnoiva$inacia maria/id=c1798-5-per6
-            ls$morta/antes
-            ls$naturalidade/ribeira das caldas
-            ls$residencia/ribeira das caldas
-            ls$freguesia/sao tiago
+            mnoiva$inacia maria/id=c1798-5-per6
+               ls$morta/antes
+               ls$naturalidade/ribeira das caldas
+               ls$residencia/ribeira das caldas
+               ls$freguesia/sao tiago
 
          test$jose rodrigues/id=c1798-5-per7
             ls$residencia/bairro
@@ -1487,26 +1487,26 @@ kleio$gacto.str/prefix=sjoao
             mulher1$sebastiana de santo agostinho/id=c1798-6-per1-per2
                ls$morta/antes
 
-         pnoivo$francisco martins/id=c1798-6-per3
-            ls$morto/antes
+            pnoivo$francisco martins/id=c1798-6-per3
+               ls$morto/antes
 
-         mnoivo$josefa de matos/id=c1798-6-per4
-            ls$morta/antes
+            mnoivo$josefa de matos/id=c1798-6-per4
+               ls$morta/antes
 
          noiva$maria de sao jose/id=c1798-6-noiva
             ls$naturalidade/casal da charneca
             ls$residencia/casal da charneca
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose da fonseca/id=c1798-6-per5
-            ls$morto/antes
-            ls$naturalidade/casal da charneca
-            ls$residencia/casal da charneca
+            pnoiva$jose da fonseca/id=c1798-6-per5
+               ls$morto/antes
+               ls$naturalidade/casal da charneca
+               ls$residencia/casal da charneca
 
-         mnoiva$brites maria/id=c1798-6-per6
-            ls$morta/antes
-            ls$naturalidade/casal da charneca
-            ls$residencia/casal da charneca
+            mnoiva$brites maria/id=c1798-6-per6
+               ls$morta/antes
+               ls$naturalidade/casal da charneca
+               ls$residencia/casal da charneca
 
          test$joaquim jose da costa/id=c1798-6-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -1525,26 +1525,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$joao francisco lopes/id=c1798-7-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$joao francisco lopes/id=c1798-7-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$ana maria do carmo/id=c1798-7-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$ana maria do carmo/id=c1798-7-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$barbara de jesus/id=c1798-7-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio dos reis/id=c1798-7-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$antonio dos reis/id=c1798-7-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$josefa maria/id=c1798-7-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$josefa maria/id=c1798-7-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$joaquim jose da costa/id=c1798-7-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -1563,26 +1563,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$antonio joao/id=c1798-8-per2
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoivo$antonio joao/id=c1798-8-per2
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoivo$maria joaquina/id=c1798-8-per3
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoivo$maria joaquina/id=c1798-8-per3
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          noiva$justa maria/id=c1798-8-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$florentino rodrigues/id=c1798-8-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$florentino rodrigues/id=c1798-8-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria rosa/id=c1798-8-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria rosa/id=c1798-8-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$manuel inacio/id=c1798-8-per7
             ls$residencia/carregal
@@ -1599,27 +1599,27 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$estevao goncalves/id=c1798-9-per2
-            ls$morto/antes
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoivo$estevao goncalves/id=c1798-9-per2
+               ls$morto/antes
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoivo$josefa maria/id=c1798-9-per3
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoivo$josefa maria/id=c1798-9-per3
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          noiva$ana joaquina/id=c1798-9-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$bernardo gomes/id=c1798-9-per5
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$bernardo gomes/id=c1798-9-per5
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$joaquina maria/id=c1798-9-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$joaquina maria/id=c1798-9-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$manuel inacio/id=c1798-9-per7
             ls$residencia/carregal
@@ -1636,28 +1636,28 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao pedro, peniche
             ls$locbaptismo/freguesia de sao pedro, peniche
 
-         pnoivo$manuel do nascimento/id=c1798-10-per2
-            ls$morto/antes
-            ls$residencia/peniche
-            ls$freguesia/sao pedro, peniche
+            pnoivo$manuel do nascimento/id=c1798-10-per2
+               ls$morto/antes
+               ls$residencia/peniche
+               ls$freguesia/sao pedro, peniche
 
-         mnoivo$maria franco/id=c1798-10-per3
-            ls$morta/antes
-            ls$residencia/peniche
-            ls$freguesia/sao pedro, peniche
+            mnoivo$maria franco/id=c1798-10-per3
+               ls$morta/antes
+               ls$residencia/peniche
+               ls$freguesia/sao pedro, peniche
 
          noiva$marioa angelica/id=c1798-10-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$joaquim jose ferreira/id=c1798-10-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$joaquim jose ferreira/id=c1798-10-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$rosa maria/id=c1798-10-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$rosa maria/id=c1798-10-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$francisco antonio/id=c1798-10-per7
             ls$residencia/peniche
@@ -1674,27 +1674,27 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose luis/id=c1798-11-per2
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$jose luis/id=c1798-11-per2
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$maria dos santos/id=c1798-11-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$maria dos santos/id=c1798-11-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$angelica maria/id=c1798-11-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$joaquim luis/id=c1798-11-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$joaquim luis/id=c1798-11-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$josefa maria/id=c1798-11-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$josefa maria/id=c1798-11-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$antonio gomes duque/id=c1798-11-per7
             ls$residencia/sobral da lagoa
@@ -1710,24 +1710,24 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jeronimo pinto/id=c1798-12-per2
-            ls$morto/antes
-            ls$residencia/arelho
+            pnoivo$jeronimo pinto/id=c1798-12-per2
+               ls$morto/antes
+               ls$residencia/arelho
 
-         mnoivo$maria do carmo/id=c1798-12-per3
-            ls$morta/antes
-            ls$residencia/arelho
+            mnoivo$maria do carmo/id=c1798-12-per3
+               ls$morta/antes
+               ls$residencia/arelho
 
          noiva$joana maria/id=c1798-12-per4
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel rodrigues/id=c1798-12-per5
-            ls$morto/antes
-            ls$residencia/carregal
+            pnoiva$manuel rodrigues/id=c1798-12-per5
+               ls$morto/antes
+               ls$residencia/carregal
 
-         mnoiva$maria eugenia/id=c1798-12-per6
-            ls$residencia/carregal
+            mnoiva$maria eugenia/id=c1798-12-per6
+               ls$residencia/carregal
 
          test$simao pinto/id=c1798-12-per7
             ls$residencia/pinhal
@@ -1746,28 +1746,28 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel soares/id=c1798-13-per2
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$manuel soares/id=c1798-13-per2
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$ana da conceicao/id=c1798-13-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$ana da conceicao/id=c1798-13-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$maria monica/id=c1798-13-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio francisco/id=c1798-13-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$antonio francisco/id=c1798-13-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$monica joaquina/id=c1798-13-per6
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$monica joaquina/id=c1798-13-per6
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$jose lopes do rego/id=c1798-13-per7
             ls$residencia/sobral da lagoa
@@ -1787,28 +1787,28 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             rel$parentesco/quarto grau de parentesco/maria doroteia/c1798-14-noiva/obs=os noivos foram dispensados do consanguinidade de quarto grau
 
-         pnoivo$jose dos reis/id=c1798-14-per2
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$jose dos reis/id=c1798-14-per2
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$ana maria/id=c1798-14-per3
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$ana maria/id=c1798-14-per3
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$maria doroteia/id=c1798-14-noiva
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio gomes/id=c1798-14-per4
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$antonio gomes/id=c1798-14-per4
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$maria de sao jose/id=c1798-14-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$maria de sao jose/id=c1798-14-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$jose dos reis/id=c1798-14-per6
             ls$residencia/obidos
@@ -1825,27 +1825,27 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$domingos monteiro/id=c1798-15-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$domingos monteiro/id=c1798-15-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$josefa maria/id=c1798-15-per3
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$josefa maria/id=c1798-15-per3
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$maria do carmo/id=c1798-15-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$joao francisco lopes/id=c1798-15-per5
-            ls$residencia/sobral da lagoa
-            ls$naturalidade/sobral da lagoa
+            pnoiva$joao francisco lopes/id=c1798-15-per5
+               ls$residencia/sobral da lagoa
+               ls$naturalidade/sobral da lagoa
 
-         mnoiva$ana maria do carmo/id=c1798-15-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$ana maria do carmo/id=c1798-15-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$jose joaquim monteiro/id=c1798-15-per7
             ls$assina/mal
@@ -1863,26 +1863,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel inacio/id=c1799-1-per2
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoivo$manuel inacio/id=c1799-1-per2
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoivo$maria josefa/id=c1799-1-per3
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoivo$maria josefa/id=c1799-1-per3
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          noiva$maria josefa/id=c1799-1-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose luis/id=c1799-1-per5
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$jose luis/id=c1799-1-per5
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$josefa leal/id=c1799-1-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$josefa leal/id=c1799-1-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$joao ferreira/id=c1799-1-per7
             ls$residencia/arelho
@@ -1901,29 +1901,29 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/quinta da barrosa
             ls$freguesia/sao tiago
 
-         pnoivo$manuel dos santos/id=c1799-2-per2
-            ls$morto/antes
-            ls$naturalidade/quinta da barrosa
-            ls$residencia/quinta da barrosa
-            ls$freguesia/sao tiago
+            pnoivo$manuel dos santos/id=c1799-2-per2
+               ls$morto/antes
+               ls$naturalidade/quinta da barrosa
+               ls$residencia/quinta da barrosa
+               ls$freguesia/sao tiago
 
-         mnoivo$doroteia maria/id=c1799-2-per3
-            ls$naturalidade/quinta da barrosa
-            ls$residencia/quinta da barrosa
-            ls$freguesia/sao tiago
+            mnoivo$doroteia maria/id=c1799-2-per3
+               ls$naturalidade/quinta da barrosa
+               ls$residencia/quinta da barrosa
+               ls$freguesia/sao tiago
 
          noiva$maria joaquina/id=c1799-2-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose joao/id=c1799-2-per5
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$jose joao/id=c1799-2-per5
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$maria antonia/id=c1799-2-per6
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$maria antonia/id=c1799-2-per6
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$manuel antonio da costa/id=c1799-2-per7
             ls$residencia/obidos
@@ -1942,27 +1942,27 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel vicente/id=c1799-3-per2
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$manuel vicente/id=c1799-3-per2
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$joana maria/id=c1799-3-per3
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$joana maria/id=c1799-3-per3
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$cecilia maria/id=c1799-3-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio viana/id=c1799-3-per5
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$antonio viana/id=c1799-3-per5
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$candida maria/id=c1799-3-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$candida maria/id=c1799-3-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$joao viana/id=c1799-3-per7
             ls$assina/cruz
@@ -1979,29 +1979,29 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$nicolau rodrigues/id=c1799-4-per2
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$nicolau rodrigues/id=c1799-4-per2
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$guiomar maria/id=c1799-4-per3
-            ls$morta/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$guiomar maria/id=c1799-4-per3
+               ls$morta/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$apolonia maria/id=c1799-4-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$bento do rego/id=c1799-4-per5
-            ls$morto/antes
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$bento do rego/id=c1799-4-per5
+               ls$morto/antes
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$josefa maria/id=c1799-4-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$josefa maria/id=c1799-4-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$joaquim jose da costa/id=c1799-4-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -2019,23 +2019,23 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$pascoal francisco/id=c1799-5-per2
-            ls$residencia/bairro
+            pnoivo$pascoal francisco/id=c1799-5-per2
+               ls$residencia/bairro
 
-         mnoivo$isabel maria/id=c1799-5-per3
-            ls$morta/antes
-            ls$residencia/bairro
+            mnoivo$isabel maria/id=c1799-5-per3
+               ls$morta/antes
+               ls$residencia/bairro
 
          noiva$gertrudes maria/id=c1799-5-per4
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1799-5-per5
-            ls$morto/antes
-            ls$residencia/bairro
+            pnoiva$manuel francisco/id=c1799-5-per5
+               ls$morto/antes
+               ls$residencia/bairro
 
-         mnoiva$teresa maria/id=c1799-5-per6
-            ls$residencia/bairro
+            mnoiva$teresa maria/id=c1799-5-per6
+               ls$residencia/bairro
 
          test$manuel antunes/id=c1799-5-per7
             ls$alcunha/o moco
@@ -2054,26 +2054,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$antonio dos reis/id=c1799-6-per2
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoivo$antonio dos reis/id=c1799-6-per2
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoivo$josefa maria/id=c1799-6-per3
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoivo$josefa maria/id=c1799-6-per3
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          noiva$maria de jesus/id=c1799-6-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel luis/id=c1799-6-per5
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            pnoiva$manuel luis/id=c1799-6-per5
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
-         mnoiva$maria da conceicao/id=c1799-6-per6
-            ls$naturalidade/sobral da lagoa
-            ls$residencia/sobral da lagoa
+            mnoiva$maria da conceicao/id=c1799-6-per6
+               ls$naturalidade/sobral da lagoa
+               ls$residencia/sobral da lagoa
 
          test$manuel jorge/id=c1799-6-per7
             ls$assina/sim
@@ -2094,32 +2094,32 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/pinhal
             ls$freguesia/sao pedro
 
-         pnoivo$jose da costa/id=c1799-7-per3
-            ls$morto/antes
-            ls$naturalidade/pinhal
-            ls$residencia/pinhal
-            ls$freguesia/sao pedro
+            pnoivo$jose da costa/id=c1799-7-per3
+               ls$morto/antes
+               ls$naturalidade/pinhal
+               ls$residencia/pinhal
+               ls$freguesia/sao pedro
 
-         mnoivo$ana maria/id=c1799-7-per4
-            ls$morta/antes
-            ls$naturalidade/pinhal
-            ls$residencia/pinhal
-            ls$freguesia/sao pedro
+            mnoivo$ana maria/id=c1799-7-per4
+               ls$morta/antes
+               ls$naturalidade/pinhal
+               ls$residencia/pinhal
+               ls$freguesia/sao pedro
 
          noiva$agostinha maria/id=c1799-7-per5
             ls$naturalidade/casal da charneca
             ls$residencia/casal da charneca
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$jose da fonseca/id=c1799-7-per6
-            ls$morto/antes
-            ls$naturalidade/casal da charneca
-            ls$residencia/casal da charneca
+            pnoiva$jose da fonseca/id=c1799-7-per6
+               ls$morto/antes
+               ls$naturalidade/casal da charneca
+               ls$residencia/casal da charneca
 
-         mnoiva$brites maria/id=c1799-7-per7
-            ls$morta/antes
-            ls$naturalidade/casal da charneca
-            ls$residencia/casal da charneca
+            mnoiva$brites maria/id=c1799-7-per7
+               ls$morta/antes
+               ls$naturalidade/casal da charneca
+               ls$residencia/casal da charneca
 
          test$jose de matos/id=c1799-7-per8
             ls$assina/sim
@@ -2136,15 +2136,15 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/casal da charneca
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$jose da fonseca/id=c1799-8-per2
-            ls$morto/antes
-            ls$naturalidade/casal da charneca
-            ls$residencia/casal da charneca
+            pnoivo$jose da fonseca/id=c1799-8-per2
+               ls$morto/antes
+               ls$naturalidade/casal da charneca
+               ls$residencia/casal da charneca
 
-         mnoivo$brites maria/id=c1799-8-per3
-            ls$morta/antes
-            ls$naturalidade/casal da charneca
-            ls$residencia/casal da charneca
+            mnoivo$brites maria/id=c1799-8-per3
+               ls$morta/antes
+               ls$naturalidade/casal da charneca
+               ls$residencia/casal da charneca
 
          noiva$barbara rosa/id=c1799-8-per4
             ls$naturalidade/pinhal
@@ -2152,17 +2152,17 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao pedro
             ls$locbaptismo/freguesia de sao pedro
 
-         pnoiva$jose da costa/id=c1799-8-per5
-            ls$morto/antes
-            ls$naturalidade/pinhal
-            ls$residencia/pinhal
-            ls$freguesia/sao pedro
+            pnoiva$jose da costa/id=c1799-8-per5
+               ls$morto/antes
+               ls$naturalidade/pinhal
+               ls$residencia/pinhal
+               ls$freguesia/sao pedro
 
-         mnoiva$ana maria/id=c1799-8-per6
-            ls$morta/antes
-            ls$naturalidade/pinhal
-            ls$residencia/pinhal
-            ls$freguesia/sao pedro
+            mnoiva$ana maria/id=c1799-8-per6
+               ls$morta/antes
+               ls$naturalidade/pinhal
+               ls$residencia/pinhal
+               ls$freguesia/sao pedro
 
          test$jose de matos/id=c1799-8-per7
             ls$residencia/sobral da lagoa
@@ -2180,26 +2180,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel joao/id=c1799-9-per2
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$manuel joao/id=c1799-9-per2
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$rosa maria/id=c1799-9-per3
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$rosa maria/id=c1799-9-per3
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$genoveva maria/id=c1799-9-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
 
-         pnoiva$manuel vicente/id=c1799-9-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$manuel vicente/id=c1799-9-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$joana maria/id=c1799-9-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$joana maria/id=c1799-9-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$bartolomeu de barros/id=c1799-9-per7
             ls$residencia/obidos
@@ -2218,30 +2218,30 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao sebastiao, termo de atouguia da baleia
             ls$locbaptismo/freguesia de sao sebastiao, termo de atouguia da baleia
 
-         pnoivo$jose dos santos/id=c1799-10-per2
-            ls$morto/antes
-            ls$residencia/serra d'el rei
-            ls$naturalidade/serra d'el rei
-            ls$freguesia/sao sebastiao
+            pnoivo$jose dos santos/id=c1799-10-per2
+               ls$morto/antes
+               ls$residencia/serra d'el rei
+               ls$naturalidade/serra d'el rei
+               ls$freguesia/sao sebastiao
 
-         mnoivo$rufina maria/id=c1799-10-per3
-            ls$residencia/serra d'el rei
-            ls$naturalidade/serra d'el rei
-            ls$freguesia/sao sebastiao
+            mnoivo$rufina maria/id=c1799-10-per3
+               ls$residencia/serra d'el rei
+               ls$naturalidade/serra d'el rei
+               ls$freguesia/sao sebastiao
 
          noiva$alexandrina de jesus/id=c1799-10-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$joao viana/id=c1799-10-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$joao viana/id=c1799-10-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria inacia/id=c1799-10-per6
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria inacia/id=c1799-10-per6
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$inacio antonio da silveira/id=c1799-10-per7
             ls$residencia/obidos
@@ -2258,28 +2258,28 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$crespiniano rodrigues/id=c1800-1-per2
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$crespiniano rodrigues/id=c1800-1-per2
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$maria joaquina/id=c1800-1-per3
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$maria joaquina/id=c1800-1-per3
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$maria de jesus/id=c1800-1-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel da cruz/obs=duvida na leitura do apelido/id=c1800-1-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$manuel da cruz/obs=duvida na leitura do apelido/id=c1800-1-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$maria catarina/id=c1800-1-per6
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$maria catarina/id=c1800-1-per6
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$manuel rodrigues/id=c1800-1-per7
             ls$residencia/arelho
@@ -2299,29 +2299,29 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao tiago
             rel$parentesco/consanguinidade de quarto grau/maria rosa/c1800-2-noiva/obs=os noivos foram dispensados no consanguinidade de quarto grau
 
-         pnoivo$jose dos santos/id=c1800-2-per2
-            ls$naturalidade/quinta da galeota
-            ls$residencia/quinta da galeota
-            ls$freguesia/sao tiago
+            pnoivo$jose dos santos/id=c1800-2-per2
+               ls$naturalidade/quinta da galeota
+               ls$residencia/quinta da galeota
+               ls$freguesia/sao tiago
 
-         mnoivo$maria teresa/id=c1800-2-per3
-            ls$naturalidade/quinta da galeota
-            ls$residencia/quinta da galeota
-            ls$freguesia/sao tiago
+            mnoivo$maria teresa/id=c1800-2-per3
+               ls$naturalidade/quinta da galeota
+               ls$residencia/quinta da galeota
+               ls$freguesia/sao tiago
 
          noiva$maria rosa/id=c1800-2-noiva
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel luis/id=c1800-2-per4
-            ls$morto/antes
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            pnoiva$manuel luis/id=c1800-2-per4
+               ls$morto/antes
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
-         mnoiva$rosa maria/id=c1800-2-per5
-            ls$naturalidade/carregal
-            ls$residencia/carregal
+            mnoiva$rosa maria/id=c1800-2-per5
+               ls$naturalidade/carregal
+               ls$residencia/carregal
 
          test$francisco martins/id=c1800-2-per6
             ls$residencia/campo
@@ -2339,29 +2339,29 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$antonio da silva/id=c1800-3-per2
-            ls$morto/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoivo$antonio da silva/id=c1800-3-per2
+               ls$morto/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoivo$maria viana/id=c1800-3-per3
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoivo$maria viana/id=c1800-3-per3
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          noiva$dionisia maria/id=c1800-3-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1800-3-per5
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            pnoiva$manuel francisco/id=c1800-3-per5
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
-         mnoiva$sebastiana maria/id=c1800-3-per6
-            ls$morta/antes
-            ls$naturalidade/arelho
-            ls$residencia/arelho
+            mnoiva$sebastiana maria/id=c1800-3-per6
+               ls$morta/antes
+               ls$naturalidade/arelho
+               ls$residencia/arelho
 
          test$francisco xavier de matos/id=c1800-3-per7
             ls$profissao/padre

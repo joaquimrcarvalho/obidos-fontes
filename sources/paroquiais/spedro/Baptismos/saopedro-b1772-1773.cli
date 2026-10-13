@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=spedro
+kleio$gacto.str/prefix=spedro/translations=1
    fonte$baptismos1772-1773/localizacao-a.d.l./freguesia de sao pedro
 
       bap$b1772-1/1/1/1772/fl.149v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
@@ -6,78 +6,78 @@ kleio$gacto.str/prefix=spedro
          n$rosa/f/id=b1772-1-per1
             ls$datanasc/17711224
 
-         pn$jose moreira/id=b1772-1-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao tiago
-            ls$locbaptismo/sao lourenco, cravide
-            ls$bispado/leiria
+            pn$jose moreira/id=b1772-1-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao tiago
+               ls$locbaptismo/sao lourenco, cravide
+               ls$bispado/leiria
 
-         mn$maria da encarnacao/id=b1772-1-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao tiago
-            ls$locbaptismo/igreja de sao pedro
+            mn$maria da encarnacao/id=b1772-1-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao tiago
+               ls$locbaptismo/igreja de sao pedro
 
-         pad1$manuel antonio da costa/id=b1772-1-per4
-            ls$residencia/obidos
+            pad1$manuel antonio da costa/id=b1772-1-per4
+               ls$residencia/obidos
 
-         mad1$rosa/id=b1772-1-per5
-            ls$residencia/obidos
-            rel$parentesco/filha/jose dos reis/b1772-1-referido
+            mad1$rosa/id=b1772-1-per5
+               ls$residencia/obidos
+               rel$parentesco/filha/jose dos reis/b1772-1-referido
 
-         referido$jose dos reis/id=b1772-1-referido
-            ls$residencia/obidos
+            referido$jose dos reis/id=b1772-1-referido
+               ls$residencia/obidos
 
       bap$b1772-2/16/1/1772/fl.149v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$manuel pedro/m/id=b1772-2-per1
             ls$datanasc/17720104
 
-         pn$manuel nunes dso reis/id=b1772-2-per2
-            ls$titulo/doutor
-            ls$loccasamento/ermida de monserrate, obidos
-            ls$locbaptismo/se de coimbra
+            pn$manuel nunes dso reis/id=b1772-2-per2
+               ls$titulo/doutor
+               ls$loccasamento/ermida de monserrate, obidos
+               ls$locbaptismo/se de coimbra
 
-         mn$teodora joaquina perpetua da piedade/id=b1772-2-per3
-            ls$titulo/dona
-            ls$loccasamento/ermida de monserrate, obidos
-            ls$locbaptismo/freguesia de sao pedro
+            mn$teodora joaquina perpetua da piedade/id=b1772-2-per3
+               ls$titulo/dona
+               ls$loccasamento/ermida de monserrate, obidos
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$pedro jose fialho de mendonca/id=b1772-2-per4
-            ls$cargo/monteiro mor
-            rel$parentesco/marido/maria delfina/b1772-2-mad
+            pad1$pedro jose fialho de mendonca/id=b1772-2-per4
+               ls$cargo/monteiro mor
+               rel$parentesco/marido/maria delfina/b1772-2-mad
 
-         mad1$maria delfina/id=b1772-2-mad
-            ls$residencia/obidos
-            ls$titulo/dona
+            mad1$maria delfina/id=b1772-2-mad
+               ls$residencia/obidos
+               ls$titulo/dona
 
       bap$b1772-3/19/1/1772/fl.150/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$francisco/m/id=b1772-3-per1
             ls$datanasc/17711229
 
-         pn$manuel ferreira/id=b1772-3-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel ferreira/id=b1772-3-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$joaquina maria/id=b1772-3-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$joaquina maria/id=b1772-3-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$francisco dos santos/id=b1772-3-per4
-            ls$residencia/pinhal
+            pad1$francisco dos santos/id=b1772-3-per4
+               ls$residencia/pinhal
 
-         mad1$teresa de jesus/id=b1772-3-per5
-            rel$parentesco/filha/antonio gomes/b1772-2-referido
-            ls$residencia/usseira
+            mad1$teresa de jesus/id=b1772-3-per5
+               rel$parentesco/filha/antonio gomes/b1772-2-referido
+               ls$residencia/usseira
 
-         referido$antonio gomes/id=b1772-3-referido
-            ls$residencia/usseira
+            referido$antonio gomes/id=b1772-3-referido
+               ls$residencia/usseira
 
-         procuradora-mad1$maria joaquina/id=b1772-3-per6
-            ls$residencia/usseira
-            rel$parentesco/filha/manuel ferreira/b1772-3-ref
+            procuradora-mad1$maria joaquina/id=b1772-3-per6
+               ls$residencia/usseira
+               rel$parentesco/filha/manuel ferreira/b1772-3-ref
 
             referido$manuel ferreira/id=b1772-3-ref
                ls$residencia/usseira
@@ -87,244 +87,244 @@ kleio$gacto.str/prefix=spedro
          n$ana/f/id=b1772-4-per1
             ls$datanasc/17720114
 
-         pn$joao francisco santana/id=b1772-4-per2
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia dos pousos
+            pn$joao francisco santana/id=b1772-4-per2
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia dos pousos
 
-         mn$josefa maria do nascimento/id=b1772-4-per3
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            mn$josefa maria do nascimento/id=b1772-4-per3
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         pad1$filipe henriques de sequeira/id=b1772-4-per4
+            pad1$filipe henriques de sequeira/id=b1772-4-per4
 
-         mad1$ana maria/id=b1772-4-per5
-            rel$parentesco/filha/jose lopes/b1772-4-referido
+            mad1$ana maria/id=b1772-4-per5
+               rel$parentesco/filha/jose lopes/b1772-4-referido
 
-         referido$jose lopes/id=b1772-4-referido
-            ls$residencia/arelho
+            referido$jose lopes/id=b1772-4-referido
+               ls$residencia/arelho
 
       bap$b1772-5/26/1/1772/fl.150/igreja de sao pedro/joao henriques (reverendo, padre)/obs=assina o cura carlos jose da serra
 
          n$damiao/m/id=b1772-5-per1
             ls$datanasc/17720116
 
-         pn$joaquim da silva/id=b1772-5-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$joaquim da silva/id=b1772-5-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$antonia maria/id=b1772-5-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$antonia maria/id=b1772-5-per3
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$andre da silva/id=b1772-5-per4
-            rel$parentesco/filho/francisco da silva/b1772-5-silva
+            pad1$andre da silva/id=b1772-5-per4
+               rel$parentesco/filho/francisco da silva/b1772-5-silva
 
-         referido$francisco da silva/id=b1772-5-silva
-            ls$morto/antes
+            referido$francisco da silva/id=b1772-5-silva
+               ls$morto/antes
 
-         mad1$joana maria/id=b1772-5-per5
-            ls$residencia/usseira
-            rel$parentesco/filha/francisco de lemos/b1772-5-referido
+            mad1$joana maria/id=b1772-5-per5
+               ls$residencia/usseira
+               rel$parentesco/filha/francisco de lemos/b1772-5-referido
 
-         referido$francisco de lemos/id=b1772-5-referido
-            ls$residencia/usseira
+            referido$francisco de lemos/id=b1772-5-referido
+               ls$residencia/usseira
 
       bap$b1772-6/23/2/1772/fl.150v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$antonio/m/id=b1772-6-per1
             ls$datanasc/17720210
 
-         pn$manuel dias/id=b1772-6-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel dias/id=b1772-6-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$maria antonia/id=b1772-6-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria antonia/id=b1772-6-per3
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$antonio da silva/id=b1772-6-per4
-            ls$titulo/clerigo de ordens menores/obs=clerigo in minoribus
-            rel$parentesco/filho/vicente da silva/b1772-6-referido
+            pad1$antonio da silva/id=b1772-6-per4
+               ls$titulo/clerigo de ordens menores/obs=clerigo in minoribus
+               rel$parentesco/filho/vicente da silva/b1772-6-referido
 
-         referido$vicente da silva/id=b1772-6-referido
-            ls$residencia/bombarral
+            referido$vicente da silva/id=b1772-6-referido
+               ls$residencia/bombarral
 
-         mad1$maria antonia/id=b1772-6-per5
-            ls$residencia/salgueiro
+            mad1$maria antonia/id=b1772-6-per5
+               ls$residencia/salgueiro
 
       bap$b1772-7/20/3/1772/fl.150v./igreja de sao pedro/antonio daniel da costa e azevedo (reverendo, prior)/obs=assina o cura carlos jose da serra
 
          n$maria/f/id=b1772-7-per1
 
-         pn$jose garcia botelho/id=b1772-7-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/cascais
+            pn$jose garcia botelho/id=b1772-7-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/cascais
 
-         mn$maria joaquina da silveira/id=b1772-7-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria joaquina da silveira/id=b1772-7-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$agostinho gomes da silveira/id=b1772-7-per4
-            ls$titulo/doutor
-            ls$residencia/obidos
+            pad1$agostinho gomes da silveira/id=b1772-7-per4
+               ls$titulo/doutor
+               ls$residencia/obidos
 
-         mad1$maria egifiaca freire da silveira/id=b1772-7-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$maria egifiaca freire da silveira/id=b1772-7-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         pmad1$joao freire gameiro/id=b1772-7-per6
-            ls$morto/antes
-            ls$residencia/obidos
+               pmad1$joao freire gameiro/id=b1772-7-per6
+                  ls$morto/antes
+                  ls$residencia/obidos
 
-         mmad1$maria feliciana da silveira/id=b1772-7-per7
-            ls$titulo/dona
-            ls$residencia/obidos
+               mmad1$maria feliciana da silveira/id=b1772-7-per7
+                  ls$titulo/dona
+                  ls$residencia/obidos
 
       bap$b1772-8/29/3/1772/fl.150v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$matilde%matildes/f/id=b1772-8-per1
             ls$datanasc/17720310
 
-         pn$francisco antonio/id=b1772-8-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$francisco antonio/id=b1772-8-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$josefa maria/id=b1772-8-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de santa maria
+            mn$josefa maria/id=b1772-8-per3
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de santa maria
 
-         pad1$joao pedro craveiro baptista/id=b1772-8-per4
-            ls$residencia/obidos
+            pad1$joao pedro craveiro baptista/id=b1772-8-per4
+               ls$residencia/obidos
 
-         mad1$eugenia maria/id=b1772-8-per5
-            rel$parentesco/filha/manuel gomes ferreira/b1772-8-referido
-            ls$residencia/usseira
+            mad1$eugenia maria/id=b1772-8-per5
+               rel$parentesco/filha/manuel gomes ferreira/b1772-8-referido
+               ls$residencia/usseira
 
-         referido$manuel gomes ferreira/id=b1772-8-referido
-            ls$residencia/usseira
+            referido$manuel gomes ferreira/id=b1772-8-referido
+               ls$residencia/usseira
 
       bap$b1772-9/30/3/1772/fl.151/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$teresa/f/id=b1772-9-per1
             ls$datanasc/17720322
 
-         pn$agostinho gomes da silveira/id=b1772-9-pn
-            ls$titulo/doutor
-            ls$residencia/obidos
+            pn$agostinho gomes da silveira/id=b1772-9-pn
+               ls$titulo/doutor
+               ls$residencia/obidos
 
-         mn$maria/id=b1772-9-per2
-            ls$titulo/dona
-            ls$residencia/obidos
+            mn$maria/id=b1772-9-per2
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         pad1$francisco/id=b1772-9-per3
-            rel$parentesco/filho/agostinho gomes da silveira/b1772-9-pn
+            pad1$francisco/id=b1772-9-per3
+               rel$parentesco/filho/agostinho gomes da silveira/b1772-9-pn
 
-         mad1$nossa senhora do carmo/id=b1772-9-per4
+            mad1$nossa senhora do carmo/id=b1772-9-per4
 
-         procurador-mad1$jose antonio carreira/id=b1772-9-per5
-            ls$residencia/obidos
-            ls$cargo/beneficiado/obs=tocou com prenda de nossa senhora do carmo
+            procurador-mad1$jose antonio carreira/id=b1772-9-per5
+               ls$residencia/obidos
+               ls$cargo/beneficiado/obs=tocou com prenda de nossa senhora do carmo
 
       bap$b1772-10/31/3/1772/fl.151/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$maria/f/id=b1772-10-per1
             ls$datanasc/17720315
 
-         pn$luis gomes/id=b1772-10-per2
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
+            pn$luis gomes/id=b1772-10-per2
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$joana teresa/id=b1772-10-per3
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao leonardo de atouguia
+            mn$joana teresa/id=b1772-10-per3
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao leonardo de atouguia
 
-         pad1$joao monteiro malhao/id=b1772-10-pad
-            ls$cargo/capitao
-            ls$residencia/obidos
+            pad1$joao monteiro malhao/id=b1772-10-pad
+               ls$cargo/capitao
+               ls$residencia/obidos
 
-         mad1$maria/id=b1772-10-per4
-            ls$titulo/dona
-            ls$residencia/obidos
-            rel$parentesco/filha/joao monteiro malhao/b1772-10-pad
+            mad1$maria/id=b1772-10-per4
+               ls$titulo/dona
+               ls$residencia/obidos
+               rel$parentesco/filha/joao monteiro malhao/b1772-10-pad
 
       bap$b1772-11/29/2/1772/fl.151/igreja de sao pedro/jose moreira chaves (reverendo, beneficiado)/obs=assina o cura carlos jose da serra
 
          n$maria/f/id=b1772-11-per1
             ls$datanasc/17720214
 
-         pn$antonio jose madeira/id=b1772-11-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/vila de peniche
+            pn$antonio jose madeira/id=b1772-11-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/vila de peniche
 
-         mn$josefa umbelina/id=b1772-11-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$josefa umbelina/id=b1772-11-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$agostinho gomes da silveira/id=b1772-11-per4
-            ls$titulo/doutor
+            pad1$agostinho gomes da silveira/id=b1772-11-per4
+               ls$titulo/doutor
 
-         mad1$maria da conceicao dinis/id=b1772-11-per5
-            ls$titulo/dona
+            mad1$maria da conceicao dinis/id=b1772-11-per5
+               ls$titulo/dona
 
       bap$b1772-12/5/4/1772/fl.151v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$antonio/m/id=b1772-12-per1
             ls$datanasc/17720323
 
-         pn$manuel da silva/id=b1772-12-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel da silva/id=b1772-12-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$teodora maria/id=b1772-12-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$teodora maria/id=b1772-12-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$antonio francisco/id=b1772-12-per4
-            ls$ec/s
-            ls$residencia/usseira
+            pad1$antonio francisco/id=b1772-12-per4
+               ls$ec/s
+               ls$residencia/usseira
 
-         mad1$clara maria de oliveira/id=b1772-12-per5
-            ls$residencia/obidos
-            rel$parentesco/mulher/jose marques/b1772-12-procura
+            mad1$clara maria de oliveira/id=b1772-12-per5
+               ls$residencia/obidos
+               rel$parentesco/mulher/jose marques/b1772-12-procura
 
-         procurador-mad1$jose marques/id=b1772-12-procura
-            ls$residencia/obidos
+            procurador-mad1$jose marques/id=b1772-12-procura
+               ls$residencia/obidos
 
       bap$b1772-13/5/4/1772/fl.151v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$maria/f/id=b1772-13-n
             ls$datanasc/17720320
 
-         pn$jose pereira/id=b1772-13-pn
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$jose pereira/id=b1772-13-pn
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$josefa maria/id=b1772-13-mn
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            mn$josefa maria/id=b1772-13-mn
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         pad1$eusebio ferreira/id=b1772-13-pad
-            ls$residencia/a da gorda
+            pad1$eusebio ferreira/id=b1772-13-pad
+               ls$residencia/a da gorda
 
-         mad1$antonia maria/id=b1772-13-mad
-            ls$residencia/pinhal
-            rel$parentesco/mulher/luis pedro/b1772-13-referido
+            mad1$antonia maria/id=b1772-13-mad
+               ls$residencia/pinhal
+               rel$parentesco/mulher/luis pedro/b1772-13-referido
 
-         referido$luis pedro/id=b1772-13-referido
-            ls$residencia/pinhal
+            referido$luis pedro/id=b1772-13-referido
+               ls$residencia/pinhal
 
       bap$b1772-13a/5/4/1772/fl.151v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
@@ -332,731 +332,731 @@ kleio$gacto.str/prefix=spedro
             rel$parentesco/irma gemea/maria/b1772-13-n
             ls$datanasc/17720320
 
-         pn$jose pereira/mesmo_que=b1772-13-pn/id=b1772-13a-per2
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$jose pereira/mesmo_que=b1772-13-pn/id=b1772-13a-per2
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$josefa maria/mesmo_que=b1772-13-mn/id=b1772-13a-per3
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            mn$josefa maria/mesmo_que=b1772-13-mn/id=b1772-13a-per3
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         pad1$eusebio ferreira/mesmo_que=b1772-13-pad/id=b1772-13a-per4
-            ls$residencia/a da gorda
+            pad1$eusebio ferreira/mesmo_que=b1772-13-pad/id=b1772-13a-per4
+               ls$residencia/a da gorda
 
-         mad1$antonia maria/mesmo_que=b1772-13-mad/id=b1772-13a-per5
-            ls$residencia/pinhal
-            rel$parentesco/mulher/luis pedro/b1772-13-referido
+            mad1$antonia maria/mesmo_que=b1772-13-mad/id=b1772-13a-per5
+               ls$residencia/pinhal
+               rel$parentesco/mulher/luis pedro/b1772-13-referido
 
-         referido$luis pedro/mesmo_que=b1772-13-referido/id=b1772-13a-per6
-            ls$residencia/pinhal
+            referido$luis pedro/mesmo_que=b1772-13-referido/id=b1772-13a-per6
+               ls$residencia/pinhal
 
       bap$b1772-14/3/5/1772/fl.151v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$brisida/f/id=b1772-14-per1
             ls$datanasc/17720418
 
-         pn$jose francisco/id=b1772-14-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$jose francisco/id=b1772-14-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$ana da silva/id=b1772-14-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$ana da silva/id=b1772-14-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$tomas pereira/id=b1772-14-per4
-            rel$parentesco/filho/francisco pereira/b1772-14-referido
-            ls$residencia/usseira
+            pad1$tomas pereira/id=b1772-14-per4
+               rel$parentesco/filho/francisco pereira/b1772-14-referido
+               ls$residencia/usseira
 
-         referido$francisco pereira/id=b1772-14-referido
-            ls$residencia/usseira
+            referido$francisco pereira/id=b1772-14-referido
+               ls$residencia/usseira
 
-         mad1$inacia maria/id=b1772-14-per5
-            ls$residencia/usseira
-            rel$parentesco/filha/antonio gomes ferreira/b1772-14-ref
+            mad1$inacia maria/id=b1772-14-per5
+               ls$residencia/usseira
+               rel$parentesco/filha/antonio gomes ferreira/b1772-14-ref
 
-         referido$antonio gomes ferreira/id=b1772-14-ref
-            ls$residencia/usseira
+            referido$antonio gomes ferreira/id=b1772-14-ref
+               ls$residencia/usseira
 
       bap$b1772-15/25/5/1772/fl.152/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$antonia da piedade/f/id=b1772-15-per1
             ls$datanasc/17720508
 
-         pn$custodio da rosa/id=b1772-15-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/colegiada de ourem
+            pn$custodio da rosa/id=b1772-15-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/colegiada de ourem
 
-         mn$mauricia maria/id=b1772-15-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia da rolica
+            mn$mauricia maria/id=b1772-15-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia da rolica
 
-         pad1$jose gomes/id=b1772-15-per4
-            rel$parentesco/filho/jose gomes/b1772-15-referido
+            pad1$jose gomes/id=b1772-15-per4
+               rel$parentesco/filho/jose gomes/b1772-15-referido
 
-         referido$jose gomes/id=b1772-15-referido
+            referido$jose gomes/id=b1772-15-referido
 
-         mad1$nossa senhora da piedade/id=b1772-15-per5
+            mad1$nossa senhora da piedade/id=b1772-15-per5
 
       bap$b1772-16/5/7/1772/fl.152/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joaquim/m/id=b1772-16-per1
             ls$datanasc/17720611
 
-         pn$teotonio gomes/id=b1772-16-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$teotonio gomes/id=b1772-16-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$maria do desterro/id=b1772-16-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria do desterro/id=b1772-16-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$tome vieira%thome viera/id=b1772-16-per4
-            ls$residencia/usseira
+            pad1$tome vieira%thome viera/id=b1772-16-per4
+               ls$residencia/usseira
 
-         mad1$nossa senhora do rosario/id=b1772-16-per5
+            mad1$nossa senhora do rosario/id=b1772-16-per5
 
-         procurador-mad1$antonio gomes ferreira/obs=tocou com prenda de nossa senhora do rosario/id=b1772-16-per6
+            procurador-mad1$antonio gomes ferreira/obs=tocou com prenda de nossa senhora do rosario/id=b1772-16-per6
 
       bap$b1772-17/11/7/1772/fl.152/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joao/m/id=b1772-17-per1
             ls$datanasc/17720622
 
-         pn$jose de almeida rebelo/id=b1772-17-per2
-            ls$residencia/obidos
-            ls$locbaptismo/se de viseu
-            ls$loccasamento/freguesia de santa isabel, lisboa
+            pn$jose de almeida rebelo/id=b1772-17-per2
+               ls$residencia/obidos
+               ls$locbaptismo/se de viseu
+               ls$loccasamento/freguesia de santa isabel, lisboa
 
-         mn$catarina antonia de pina/id=b1772-17-per3
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de santa isabel, lisboa
+            mn$catarina antonia de pina/id=b1772-17-per3
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de santa isabel, lisboa
 
-         pad1$manuel caetano freire/id=b1772-17-per4
-            ls$titulo/doutor
+            pad1$manuel caetano freire/id=b1772-17-per4
+               ls$titulo/doutor
 
-         mad1$nossa senhora da piedade/id=b1772-17-per5
+            mad1$nossa senhora da piedade/id=b1772-17-per5
 
       bap$b1772-18/30/7/1772/fl.152v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$rosa/f/id=b1772-18-per1
             ls$datanasc/17720710
 
-         pn$jose rodrigues/id=b1772-18-per2
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
+            pn$jose rodrigues/id=b1772-18-per2
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$ana joaquina/id=b1772-18-per3
-            ls$residencia/pinhal
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$ana joaquina/id=b1772-18-per3
+               ls$residencia/pinhal
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$joaquim jose soares/id=b1772-18-per4
-            ls$residencia/obidos
+            pad1$joaquim jose soares/id=b1772-18-per4
+               ls$residencia/obidos
 
-         mad1$rosa maria de sao jose/id=b1772-18-per5
+            mad1$rosa maria de sao jose/id=b1772-18-per5
 
-         mrmad1$sebastiao jose/id=b1772-18-per6
-            ls$residencia/pinhal
+               mrmad1$sebastiao jose/id=b1772-18-per6
+                  ls$residencia/pinhal
 
       bap$b1772-19/4/8/1772/fl.152v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$jose/m/id=b1772-19-per1
             ls$datanasc/17720724
 
-         pn$jose pereira dos santos/id=b1772-19-per2
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/barosa, freguesia de sao mateus/obs=leiria
-            ls$bispado/leiria
+            pn$jose pereira dos santos/id=b1772-19-per2
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/barosa, freguesia de sao mateus/obs=leiria
+               ls$bispado/leiria
 
-         mn$angela marcelina de jesus/id=b1772-19-per3
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia de santa maria
+            mn$angela marcelina de jesus/id=b1772-19-per3
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia de santa maria
 
-         pad1$jose pacheco cabral/id=b1772-19-pad
-            ls$residencia/barassais
-            ls$freguesia/rolica
+            pad1$jose pacheco cabral/id=b1772-19-pad
+               ls$residencia/barassais
+               ls$freguesia/rolica
 
-         mad1$maria luisa de lacerda/id=b1772-19-per4
-            rel$parentesco/avo/jose pacheco cabral/b1772-19-pad
-            ls$titulo/dona
-            ls$residencia/barassais, freguesia da rolica
+            mad1$maria luisa de lacerda/id=b1772-19-per4
+               rel$parentesco/avo/jose pacheco cabral/b1772-19-pad
+               ls$titulo/dona
+               ls$residencia/barassais, freguesia da rolica
 
       bap$b1772-20/22/8/1772/fl.152v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$januario/m/id=b1772-20-per1
             ls$datanasc/17720810
 
-         pn$teodoro jose/id=b1772-20-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/freguesia de sao pedro
+            pn$teodoro jose/id=b1772-20-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$maria rosa/id=b1772-20-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/freguesia de sao tiago
+            mn$maria rosa/id=b1772-20-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/freguesia de sao tiago
 
-         pad1$francisco dinis monteiro/id=b1772-20-per4
-            ls$residencia/obidos
-            rel$parentesco/marido/ana clara da fonseca/b1772-20-mad
+            pad1$francisco dinis monteiro/id=b1772-20-per4
+               ls$residencia/obidos
+               rel$parentesco/marido/ana clara da fonseca/b1772-20-mad
 
-         mad1$ana clara da fonseca/id=b1772-20-mad
-            ls$residencia/obidos
+            mad1$ana clara da fonseca/id=b1772-20-mad
+               ls$residencia/obidos
 
       bap$b1772-21/13/9/1772/fl.153/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$vitorina/f/id=b1772-21-per1
             ls$datanasc/17720829
 
-         pn$manuel gomes/id=b1772-21-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$manuel gomes/id=b1772-21-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$margarida antonia/id=b1772-21-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao bartolomeu do paul/obs=termo de alenquer
+            mn$margarida antonia/id=b1772-21-per3
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao bartolomeu do paul/obs=termo de alenquer
 
-         pad1$joao henriques de oliveira/id=b1772-21-per4
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad1$joao henriques de oliveira/id=b1772-21-per4
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad1$antonia maria/id=b1772-21-per5
-            rel$parentesco/filha/jose teixeira/b1772-21-referido
+            mad1$antonia maria/id=b1772-21-per5
+               rel$parentesco/filha/jose teixeira/b1772-21-referido
 
-         referido$jose teixeira/id=b1772-21-referido
-            ls$residencia/usseira
+            referido$jose teixeira/id=b1772-21-referido
+               ls$residencia/usseira
 
       bap$b1772-22/20/9/1772/fl.153/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joao/m/id=b1772-22-per1
             ls$datanasc/17720825
 
-         pn$manuel das neves/id=b1772-22-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel das neves/id=b1772-22-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$maria inacia/id=b1772-22-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria inacia/id=b1772-22-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$francisco de matos/id=b1772-22-per4
-            ls$residencia/pinhal
+            pad1$francisco de matos/id=b1772-22-per4
+               ls$residencia/pinhal
 
-         mad1$maria joaquina/id=b1772-22-per5
-            ls$residencia/obidos
+            mad1$maria joaquina/id=b1772-22-per5
+               ls$residencia/obidos
 
-         mrmad1$agostinho dos santos/id=b1772-22-per6
-            ls$residencia/obidos
+               mrmad1$agostinho dos santos/id=b1772-22-per6
+                  ls$residencia/obidos
 
       bap$b1772-23/23/9/1772/fl.153/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$jose/m/id=b1772-23-per1
             ls$datanasc/17720909
 
-         pn$jose da costa/id=b1772-23-per2
-            ls$residencia/obidos
-            ls$loccasamento/igreja de nossa senhora do carmo, obidos
-            ls$locbaptismo/fragosa, freguesia de santa maria
-            ls$arcebispado/braga
+            pn$jose da costa/id=b1772-23-per2
+               ls$residencia/obidos
+               ls$loccasamento/igreja de nossa senhora do carmo, obidos
+               ls$locbaptismo/fragosa, freguesia de santa maria
+               ls$arcebispado/braga
 
-         mn$maria de sao tiago/id=b1772-23-per3
-            ls$residencia/obidos
-            ls$loccasamento/igreja de nossa senhora do carmo, obidos
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            mn$maria de sao tiago/id=b1772-23-per3
+               ls$residencia/obidos
+               ls$loccasamento/igreja de nossa senhora do carmo, obidos
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pad1$jose moreira chaves/id=b1772-23-per4
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            pad1$jose moreira chaves/id=b1772-23-per4
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
-         procurador-pad1$paulo de sequeira henriques/id=b1772-23-per5
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            procurador-pad1$paulo de sequeira henriques/id=b1772-23-per5
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
-         mad1$nossa senhora da piedade/id=b1772-23-per6
+            mad1$nossa senhora da piedade/id=b1772-23-per6
 
-         procurador-mad1$antonio moreira/id=b1772-23-per7
-            ls$cargo/capitao
-            ls$residencia/obidos/obs=tocou com prenda de nossa senhora da piedade
+            procurador-mad1$antonio moreira/id=b1772-23-per7
+               ls$cargo/capitao
+               ls$residencia/obidos/obs=tocou com prenda de nossa senhora da piedade
 
       bap$b1772-24/28/11/1772/fl.153v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joana/f/id=b1772-24-per1
             ls$datanasc/17721116
 
-         pn$joao pedro de andrade/id=b1772-24-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$joao pedro de andrade/id=b1772-24-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$maria joaquina da silveira/id=b1772-24-per3
-            ls$titulo/dona
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria joaquina da silveira/id=b1772-24-per3
+               ls$titulo/dona
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$manuel baptista/id=b1772-24-pad
-            ls$profissao/padre
-            ls$titulo/reverendo
-            ls$cargo/abade na freguesia de santo andre da varzea da ovelha/obs=no bispado do porto
-            ls$residencia/obidos
+            pad1$manuel baptista/id=b1772-24-pad
+               ls$profissao/padre
+               ls$titulo/reverendo
+               ls$cargo/abade na freguesia de santo andre da varzea da ovelha/obs=no bispado do porto
+               ls$residencia/obidos
 
-         mad1$joana delfina/id=b1772-24-per4
-            ls$residencia/obidos
-            rel$parentesco/irma/manuel baptista/b1772-24-pad
+            mad1$joana delfina/id=b1772-24-per4
+               ls$residencia/obidos
+               rel$parentesco/irma/manuel baptista/b1772-24-pad
 
       bap$b1772-25/6/12/1772/fl.153v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$maria/f/id=b1772-25-per1
             ls$datanasc/17721122
 
-         pn$francisco da rocha/id=b1772-25-per2
-            ls$residencia/quinta nova
-            ls$loccasamento/freguesia da rolica
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+            pn$francisco da rocha/id=b1772-25-per2
+               ls$residencia/quinta nova
+               ls$loccasamento/freguesia da rolica
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         mn$maria luis/id=b1772-25-per3
-            ls$residencia/quinta nova
-            ls$loccasamento/freguesia da rolica
-            ls$locbaptismo/freguesia da rolica
+            mn$maria luis/id=b1772-25-per3
+               ls$residencia/quinta nova
+               ls$loccasamento/freguesia da rolica
+               ls$locbaptismo/freguesia da rolica
 
-         pad1$manuel de arruda/id=b1772-25-per4
-            ls$residencia/obidos
+            pad1$manuel de arruda/id=b1772-25-per4
+               ls$residencia/obidos
 
-         mad1$maria da conceicao/id=b1772-25-per5
-            ls$residencia/sao mamede
+            mad1$maria da conceicao/id=b1772-25-per5
+               ls$residencia/sao mamede
 
-         pmad1$manuel coutinho/id=b1772-25-per6
-            ls$residencia/sao mamede
+               pmad1$manuel coutinho/id=b1772-25-per6
+                  ls$residencia/sao mamede
 
-         procurador-mad1$manuel antunes/id=b1772-25-per7
-            ls$residencia/casal da vitoria, freguesia da rolica
+            procurador-mad1$manuel antunes/id=b1772-25-per7
+               ls$residencia/casal da vitoria, freguesia da rolica
 
       bap$b1772-26/22/12/1772/fl.153v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$tomas/m/id=b1772-26-per1
             ls$datanasc/17721205
 
-         pn$narciso jose rodrigues/id=b1772-26-per2
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$narciso jose rodrigues/id=b1772-26-per2
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$maria do carmo de sao jose/id=b1772-26-per3
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria do carmo de sao jose/id=b1772-26-per3
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$manuel caetano freire/id=b1772-26-per4
-            ls$titulo/doutor
+            pad1$manuel caetano freire/id=b1772-26-per4
+               ls$titulo/doutor
 
-         mad1$maria de sao tiago/id=b1772-26-per5
-            ls$residencia/obidos
+            mad1$maria de sao tiago/id=b1772-26-per5
+               ls$residencia/obidos
 
-         mrmad1$jose da costa/id=b1772-26-per6
-            ls$residencia/obidos
+               mrmad1$jose da costa/id=b1772-26-per6
+                  ls$residencia/obidos
 
       bap$b1772-27/22/11/1772/fl.154/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$francisco/m/id=b1772-27-n
             ls$datanasc/1772
 
-         pn$manuel gomes/id=b1772-27-per1
-            ls$residencia/pinhal
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel gomes/id=b1772-27-per1
+               ls$residencia/pinhal
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$antonia joaquina/id=b1772-27-per2
-            ls$residencia/pinhal
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$antonia joaquina/id=b1772-27-per2
+               ls$residencia/pinhal
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$manuel rodrigues/id=b1772-27-per3
-            ls$residencia/carregal
+            pad1$manuel rodrigues/id=b1772-27-per3
+               ls$residencia/carregal
 
-         mad1$rosa maria/id=b1772-27-per4
-            ls$residencia/pinhal
+            mad1$rosa maria/id=b1772-27-per4
+               ls$residencia/pinhal
 
-         mrmad1$sebastiao jose/id=b1772-27-per5
-            ls$residencia/pinhal
+               mrmad1$sebastiao jose/id=b1772-27-per5
+                  ls$residencia/pinhal
 
-         referido$carlos jose da serra/id=b1772-27-per6
-            ls$cargo/cura
-            rel$sociabilidade/baptizou sub conditione/francisco/b1772-27-n
+            referido$carlos jose da serra/id=b1772-27-per6
+               ls$cargo/cura
+               rel$sociabilidade/baptizou sub conditione/francisco/b1772-27-n
 
       bap$b1773-1/24/1/1773/fl.154/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$antonio/m/id=b1773-1-per1
             ls$datanasc/17730110
 
-         pn$manuel baptista/id=b1773-1-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$manuel baptista/id=b1773-1-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$ana maria/id=b1773-1-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            mn$ana maria/id=b1773-1-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         pad1$antonio maria bernardo pacheco de brito pegado/id=b1773-1-per4
+            pad1$antonio maria bernardo pacheco de brito pegado/id=b1773-1-per4
 
-         ppad1$joao felix de brito pegado/id=b1773-1-per5
-            ls$cargo/capitao mor
+               ppad1$joao felix de brito pegado/id=b1773-1-per5
+                  ls$cargo/capitao mor
 
       bap$b1773-2/22/2/1773/fl.154/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$caetano/m/id=b1773-2-per1
             ls$datanasc/17730207
 
-         pn$antonio jose ribeiro/id=b1773-2-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao tiago, lisboa
-            ls$locbaptismo/freguesia de sao nicolau, lisboa
+            pn$antonio jose ribeiro/id=b1773-2-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao tiago, lisboa
+               ls$locbaptismo/freguesia de sao nicolau, lisboa
 
-         mn$antonia rita da trindade/id=b1773-2-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao tiago, lisboa
-            ls$locbaptismo/freguesia de santa justa, lisboa
+            mn$antonia rita da trindade/id=b1773-2-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao tiago, lisboa
+               ls$locbaptismo/freguesia de santa justa, lisboa
 
-         pad1$caetano gomes da veiga/id=b1773-2-per4
-            ls$residencia/caldas
+            pad1$caetano gomes da veiga/id=b1773-2-per4
+               ls$residencia/caldas
 
-         mad1$clara maria de oliveira/id=b1773-2-per5
-            ls$residencia/obidos
+            mad1$clara maria de oliveira/id=b1773-2-per5
+               ls$residencia/obidos
 
-         mrmad1$jose marques/id=b1773-2-per6
-            ls$residencia/obidos
+               mrmad1$jose marques/id=b1773-2-per6
+                  ls$residencia/obidos
 
       bap$b1773-3/14/3/1773/fl.154v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joao/m/id=b1773-3-per1
             ls$datanasc/17730301
 
-         pn$vicente das neves/id=b1773-3-per2
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$vicente das neves/id=b1773-3-per2
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$gertrudes maria/id=b1773-3-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de sao pedro
-            ls$loccasamento/freguesia da madalena, lisboa
+            mn$gertrudes maria/id=b1773-3-per3
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de sao pedro
+               ls$loccasamento/freguesia da madalena, lisboa
 
-         pad1$joao/id=b1773-3-per4
+            pad1$joao/id=b1773-3-per4
 
-         ppad1$jose da silva/id=b1773-3-per5
-            ls$residencia/usseira
+               ppad1$jose da silva/id=b1773-3-per5
+                  ls$residencia/usseira
 
-         mad1$ana/id=b1773-3-per6
+            mad1$ana/id=b1773-3-per6
 
-         pmad1$manuel gomes/id=b1773-3-per7
-            ls$residencia/usseira
+               pmad1$manuel gomes/id=b1773-3-per7
+                  ls$residencia/usseira
 
       bap$b1773-4/24/2/1773/fl.154v./igreja de sao pedro/jose moreira chaves (reverendo, beneficiado)/obs=assina o cura carlos jose da serra
 
          n$ana/f/id=b1773-4-per1
             ls$datanasc/17730210
 
-         pn$isidoro correia/id=b1773-4-per2
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
+            pn$isidoro correia/id=b1773-4-per2
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$catarina rita/id=b1773-4-per3
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de santa maria
+            mn$catarina rita/id=b1773-4-per3
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de santa maria
 
-         pad1$manuel jose/id=b1773-4-pad
-            ls$cargo/meirinho
+            pad1$manuel jose/id=b1773-4-pad
+               ls$cargo/meirinho
 
-         mad1$ana inacia/id=b1773-4-per4
+            mad1$ana inacia/id=b1773-4-per4
 
-         mrmad1$manuel jose/mesmo_que=b1773-4-pad/id=b1773-4-per5
-            ls$cargo/meirinho
+               mrmad1$manuel jose/mesmo_que=b1773-4-pad/id=b1773-4-per5
+                  ls$cargo/meirinho
 
-         procurador-mad1$filipe de freitas/id=b1773-4-per6
-            ls$residencia/obidos
+            procurador-mad1$filipe de freitas/id=b1773-4-per6
+               ls$residencia/obidos
 
       bap$b1773-5/15/3/1773/fl.154v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$jose/m/id=b1773-5-per1
             ls$datanasc/17730303
 
-         pn$jose inacio/id=b1773-5-per2
-            ls$residencia/casais dos cateloes
+            pn$jose inacio/id=b1773-5-per2
+               ls$residencia/casais dos cateloes
 
-         mn$josefa maria/id=b1773-5-per3
-            ls$residencia/casais dos cateloes
+            mn$josefa maria/id=b1773-5-per3
+               ls$residencia/casais dos cateloes
 
-         pad1$jose moreira chaves/id=b1773-5-per4
-            ls$titulo/reverendo
-            ls$cargo/beneficiado
+            pad1$jose moreira chaves/id=b1773-5-per4
+               ls$titulo/reverendo
+               ls$cargo/beneficiado
 
-         mad1$joana inacia/id=b1773-5-per5
-            ls$residencia/casais dos cateloes
+            mad1$joana inacia/id=b1773-5-per5
+               ls$residencia/casais dos cateloes
 
       bap$b1773-6/18/3/1773/fl.155/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$jose leandro/m/id=b1773-6-per1
             ls$datanasc/17730227
 
-         pn$paulo jose da silva/id=b1773-6-per2
-            ls$residencia/obidos
-            ls$loccasamento/misericordia de lisboa
-            ls$locbaptismo/freguesia de sao gregorio
+            pn$paulo jose da silva/id=b1773-6-per2
+               ls$residencia/obidos
+               ls$loccasamento/misericordia de lisboa
+               ls$locbaptismo/freguesia de sao gregorio
 
-         mn$maria cecilia do carmo/id=b1773-6-per3
-            ls$residencia/obidos
-            ls$loccasamento/misericordia de lisboa
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria cecilia do carmo/id=b1773-6-per3
+               ls$residencia/obidos
+               ls$loccasamento/misericordia de lisboa
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$jose moreira/id=b1773-6-per4
-            ls$cargo/beneficiado
-            ls$titulo/reverendo
+            pad1$jose moreira/id=b1773-6-per4
+               ls$cargo/beneficiado
+               ls$titulo/reverendo
 
-         mad1$maria eugenia/id=b1773-6-per5
+            mad1$maria eugenia/id=b1773-6-per5
 
-         mrmad1$severino gomes da costa/id=b1773-6-per6
-            ls$residencia/obidos
+               mrmad1$severino gomes da costa/id=b1773-6-per6
+                  ls$residencia/obidos
 
       bap$b1773-7/3/4/1773/fl.155/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$dionisio/m/id=b1773-7-per1
             ls$datanasc/17730314
 
-         pn$manuel martins/id=b1773-7-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$manuel martins/id=b1773-7-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$maria antonia/id=b1773-7-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria antonia/id=b1773-7-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$manuel caetano de avelar/id=b1773-7-per4
-            ls$residencia/obidos
+            pad1$manuel caetano de avelar/id=b1773-7-per4
+               ls$residencia/obidos
 
-         mad1$dionisia antonia joaquina/id=b1773-7-per5
-            ls$residencia/obidos
+            mad1$dionisia antonia joaquina/id=b1773-7-per5
+               ls$residencia/obidos
 
       bap$b1773-8/25/4/1773/fl.155/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$anastacio/m/id=b1773-8-per1
             ls$datanasc/17730403
 
-         pn$manuel ferreira/id=b1773-8-per2
-            ls$alcunha/o prior
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/freguesia de sao pedro
+            pn$manuel ferreira/id=b1773-8-per2
+               ls$alcunha/o prior
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$maria/id=b1773-8-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$maria/id=b1773-8-per3
+               ls$residencia/usseira
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad1$manuel/id=b1773-8-per4
-            ls$residencia/usseira
+            pad1$manuel/id=b1773-8-per4
+               ls$residencia/usseira
 
-         ppad1$antonio gomes ferreira/id=b1773-8-per5
-            ls$residencia/usseira
+               ppad1$antonio gomes ferreira/id=b1773-8-per5
+                  ls$residencia/usseira
 
-         mad1$maria do rosario/id=b1773-8-per6
-            ls$residencia/usseira
+            mad1$maria do rosario/id=b1773-8-per6
+               ls$residencia/usseira
 
-         pmad1$manuel gomes/id=b1773-8-per7
-            ls$residencia/usseira
+               pmad1$manuel gomes/id=b1773-8-per7
+                  ls$residencia/usseira
 
       bap$b1773-9/21/5/1773/fl.155v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$doroteia/f/id=b1773-9-per1
             ls$datanasc/17730508
 
-         pn$jose da horta/id=b1773-9-per2
-            ls$loccasamento/peniche, freguesia de nossa senhora da conceicao
-            ls$locbaptismo/igreja de sao pedro
+            pn$jose da horta/id=b1773-9-per2
+               ls$loccasamento/peniche, freguesia de nossa senhora da conceicao
+               ls$locbaptismo/igreja de sao pedro
 
-         mn$maria rosa/id=b1773-9-per3
-            ls$loccasamento/peniche, freguesia de nossa senhora da conceicao
-            ls$locbaptismo/peniche, freguesia de nossa senhora da conceicao
+            mn$maria rosa/id=b1773-9-per3
+               ls$loccasamento/peniche, freguesia de nossa senhora da conceicao
+               ls$locbaptismo/peniche, freguesia de nossa senhora da conceicao
 
-         pad1$jose joaquim de seixas/id=b1773-9-per4
-            ls$residencia/obidos
+            pad1$jose joaquim de seixas/id=b1773-9-per4
+               ls$residencia/obidos
 
-         mad1$doroteia vitoria justiniana da silva/id=b1773-9-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$doroteia vitoria justiniana da silva/id=b1773-9-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
       bap$b1773-10/31/5/1773/fl.155v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$maria/f/id=b1773-10-per1
             ls$datanasc/17730520
 
-         pn$francisco martins/id=b1773-10-per2
-            ls$residencia/moderna
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia da serra do bouro
+            pn$francisco martins/id=b1773-10-per2
+               ls$residencia/moderna
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia da serra do bouro
 
-         mn$francisca joaquina/id=b1773-10-per3
-            ls$residencia/moderna
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de alpedris, leiria
-            ls$bispado/leiria
+            mn$francisca joaquina/id=b1773-10-per3
+               ls$residencia/moderna
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de alpedris, leiria
+               ls$bispado/leiria
 
-         pad1$joao caetano da fonseca/id=b1773-10-per4
-            ls$profissao/padre
+            pad1$joao caetano da fonseca/id=b1773-10-per4
+               ls$profissao/padre
 
-         mad1$maria luisa/id=b1773-10-mad
+            mad1$maria luisa/id=b1773-10-mad
 
-         procurador-mad1$jose luis de miranda/id=b1773-10-per5
-            ls$titulo/doutor
-            rel$parentesco/irmao/maria luisa/b1773-10-mad
+            procurador-mad1$jose luis de miranda/id=b1773-10-per5
+               ls$titulo/doutor
+               rel$parentesco/irmao/maria luisa/b1773-10-mad
 
       bap$b1773-11/3/7/1773/fl.155v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$constancia/f/id=b1773-11-per1
             ls$datanasc/17730625
 
-         pn$antonio da silva/id=b1773-11-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia dos vidais
+            pn$antonio da silva/id=b1773-11-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia dos vidais
 
-         mn$monica do espirito santo/id=b1773-11-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/a dos negros, freguesia de santa maria madalena
+            mn$monica do espirito santo/id=b1773-11-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/a dos negros, freguesia de santa maria madalena
 
-         pad1$severino gomes da costa/id=b1773-11-per4
-            ls$residencia/obidos
+            pad1$severino gomes da costa/id=b1773-11-per4
+               ls$residencia/obidos
 
-         mad1$josefa de matos/id=b1773-11-per5
-            ls$residencia/obidos
+            mad1$josefa de matos/id=b1773-11-per5
+               ls$residencia/obidos
 
-         procurador-mad1$francisco de matos/id=b1773-11-per6
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            procurador-mad1$francisco de matos/id=b1773-11-per6
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
       bap$b1773-12/4/7/1773/fl.156/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$maria luisa/f/id=b1773-12-per1
             ls$datanasc/17730624
 
-         pn$joao pedro craveiro/id=b1773-12-per2
-            ls$locbaptismo/freguesia de nossa senhora do populo
-            ls$loccasamento/freguesia da tornada
+            pn$joao pedro craveiro/id=b1773-12-per2
+               ls$locbaptismo/freguesia de nossa senhora do populo
+               ls$loccasamento/freguesia da tornada
 
-         mn$matilde vicencia%matildes vicencia/id=b1773-12-per3
-            ls$locbaptismo/roma
-            ls$loccasamento/freguesia da tornada
+            mn$matilde vicencia%matildes vicencia/id=b1773-12-per3
+               ls$locbaptismo/roma
+               ls$loccasamento/freguesia da tornada
 
-         pad1$joao baptista ceculi/id=b1773-12-per4
-            ls$residencia/lisboa
+            pad1$joao baptista ceculi/id=b1773-12-per4
+               ls$residencia/lisboa
 
-         mad1$nossa senhora/id=b1773-12-per5
+            mad1$nossa senhora/id=b1773-12-per5
 
       bap$b1773-13/7/7/1773/fl.156/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joao/m/id=b1773-13-per1
             ls$datanasc/17730623
 
-         pn$jose garcia botelho/id=b1773-13-per2
-            ls$residencia/obidos
-            ls$loccasamento/igreja de nossa senhora do carmo
-            ls$locbaptismo/freguesia da vila de cascais
+            pn$jose garcia botelho/id=b1773-13-per2
+               ls$residencia/obidos
+               ls$loccasamento/igreja de nossa senhora do carmo
+               ls$locbaptismo/freguesia da vila de cascais
 
-         mn$maria joaquina da silveira/id=b1773-13-per3
-            ls$residencia/obidos
-            ls$loccasamento/igreja de nossa senhora do carmo
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria joaquina da silveira/id=b1773-13-per3
+               ls$residencia/obidos
+               ls$loccasamento/igreja de nossa senhora do carmo
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$joaquim de barros de almeida/id=b1773-13-per4
-            ls$titulo/doutor
-            ls$residencia/obidos
+            pad1$joaquim de barros de almeida/id=b1773-13-per4
+               ls$titulo/doutor
+               ls$residencia/obidos
 
-         procurador-pad1$agostinho gomes da silveira/id=b1773-13-per5
-            ls$titulo/doutor
-            ls$residencia/obidos
+            procurador-pad1$agostinho gomes da silveira/id=b1773-13-per5
+               ls$titulo/doutor
+               ls$residencia/obidos
 
-         mad1$nossa senhora da piedade/id=b1773-13-per6
+            mad1$nossa senhora da piedade/id=b1773-13-per6
 
-         procurador-mad1$jose antonio carreira/id=b1773-13-per7
-            ls$cargo/beneficiado
-            ls$residencia/obidos/obs=tocou com a coroa de nossa senhora da piedade
+            procurador-mad1$jose antonio carreira/id=b1773-13-per7
+               ls$cargo/beneficiado
+               ls$residencia/obidos/obs=tocou com a coroa de nossa senhora da piedade
 
       bap$b1773-14/24/7/1773/fl.156/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$maria do carmo/f/id=b1773-14-per1
             ls$datanasc/17730715
 
-         pn$vicente da ascensao proenca/id=b1773-14-per2
-            ls$titulo/doutor
-            ls$loccasamento/igreja de nossa senhora do carmo
-            ls$naturalidade/adem
-            ls$arciprestado/castelo mendo
-            ls$bispado/viseu
-            ls$locbaptismo/freguesia de adem
+            pn$vicente da ascensao proenca/id=b1773-14-per2
+               ls$titulo/doutor
+               ls$loccasamento/igreja de nossa senhora do carmo
+               ls$naturalidade/adem
+               ls$arciprestado/castelo mendo
+               ls$bispado/viseu
+               ls$locbaptismo/freguesia de adem
 
-         mn$ana josefa teresa de lira sottomaior/id=b1773-14-per3
-            ls$loccasamento/igreja de nossa senhora do carmo
-            ls$locbaptismo/igreja de sao pedro
+            mn$ana josefa teresa de lira sottomaior/id=b1773-14-per3
+               ls$loccasamento/igreja de nossa senhora do carmo
+               ls$locbaptismo/igreja de sao pedro
 
-         pad1$farncisco pedro/id=b1773-14-per4
-            ls$residencia/obidos
+            pad1$farncisco pedro/id=b1773-14-per4
+               ls$residencia/obidos
 
-         procurador-pad1$joaquim antonio de sequeira/id=b1773-14-per5
+            procurador-pad1$joaquim antonio de sequeira/id=b1773-14-per5
 
-         mad1$nossa senhora do carmo/id=b1773-14-per6
+            mad1$nossa senhora do carmo/id=b1773-14-per6
 
-         procurador-mad1$joao henriques/id=b1773-14-per7
-            ls$profissao/padre/obs=tocou o padre joao henriques
+            procurador-mad1$joao henriques/id=b1773-14-per7
+               ls$profissao/padre/obs=tocou o padre joao henriques
 
       bap$b1773-15/4/9/1773/fl.156v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$maria/f/id=b1773-15-per1
             ls$datanasc/17730816
 
-         pn$jose bernardes/id=b1773-15-per2
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/freguesia de sao goncalo de aveiro
-            ls$bispado/coimbra
-            ls$residencia/obidos
+            pn$jose bernardes/id=b1773-15-per2
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/freguesia de sao goncalo de aveiro
+               ls$bispado/coimbra
+               ls$residencia/obidos
 
-         mn$maria isidora/id=b1773-15-per3
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$residencia/obidos
+            mn$maria isidora/id=b1773-15-per3
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/freguesia de santa maria
+               ls$residencia/obidos
 
-         pad1$antonio maria/id=b1773-15-per4
-            ls$residencia/obidos
+            pad1$antonio maria/id=b1773-15-per4
+               ls$residencia/obidos
 
-         ppad1$joao felix de brito pegado/id=b1773-15-felix
-            ls$cargo/capitao mor
+               ppad1$joao felix de brito pegado/id=b1773-15-felix
+                  ls$cargo/capitao mor
 
-         mad1$maria francisca/id=b1773-15-mad
-            ls$titulo/dona
+            mad1$maria francisca/id=b1773-15-mad
+               ls$titulo/dona
 
-         pmad1$joao felix de brito pegado/mesmo_que=b1773-15-felix/id=b1773-15-per5
-            ls$cargo/capitao mor
+               pmad1$joao felix de brito pegado/mesmo_que=b1773-15-felix/id=b1773-15-per5
+                  ls$cargo/capitao mor
 
-         procurador-mad1$joaquim maria/id=b1773-15-procura
-            rel$parentesco/irmao/maria francisca/b1773-15-mad
+            procurador-mad1$joaquim maria/id=b1773-15-procura
+               rel$parentesco/irmao/maria francisca/b1773-15-mad
 
             referido$joao felix de brito pegado/mesmo_que=b1773-15-felix/id=b1773-15-procura-per6
                ls$cargo/capitao mor
@@ -1067,44 +1067,44 @@ kleio$gacto.str/prefix=spedro
          n$manuel/m/id=b1773-16-per1
             ls$datanasc/17730816
 
-         pn$custodio da rosa/id=b1773-16-per2
-            ls$residencia/casal do beneficiado pedro antunes correia desta freguesia
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/se de ourem
+            pn$custodio da rosa/id=b1773-16-per2
+               ls$residencia/casal do beneficiado pedro antunes correia desta freguesia
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/se de ourem
 
-         mn$mauricia maria/id=b1773-16-per3
-            ls$residencia/casal do beneficiado pedro antunes correia desta freguesia
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia da rolica
+            mn$mauricia maria/id=b1773-16-per3
+               ls$residencia/casal do beneficiado pedro antunes correia desta freguesia
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia da rolica
 
-         pad1$manuel gomes/id=b1773-16-per4
+            pad1$manuel gomes/id=b1773-16-per4
 
-         ppad1$jose gomes/id=b1773-16-per5
+               ppad1$jose gomes/id=b1773-16-per5
 
-         mad1$nossa senhora da piedade/id=b1773-16-per6
+            mad1$nossa senhora da piedade/id=b1773-16-per6
 
       bap$b1773-17/10/10/1773/fl.156v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joao/m/id=b1773-17-per1
             ls$datanasc/1773
 
-         pn$manuel pereira/id=b1773-17-per2
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia de nossa senhora da mortificacao, alcanede
+            pn$manuel pereira/id=b1773-17-per2
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia de nossa senhora da mortificacao, alcanede
 
-         mn$catarina rosa/id=b1773-17-per3
-            ls$residencia/obidos
-            ls$loccasamento/igreja de sao pedro
-            ls$locbaptismo/freguesia da ponte do rol, termo de torres
+            mn$catarina rosa/id=b1773-17-per3
+               ls$residencia/obidos
+               ls$loccasamento/igreja de sao pedro
+               ls$locbaptismo/freguesia da ponte do rol, termo de torres
 
-         pad1$joao machado/id=b1773-17-per4
-            ls$residencia/obidos
+            pad1$joao machado/id=b1773-17-per4
+               ls$residencia/obidos
 
-         mad1$luisa joaquina do rosario/id=b1773-17-per5
+            mad1$luisa joaquina do rosario/id=b1773-17-per5
 
-         pmad1$joao henriques/id=b1773-17-per6
-            ls$freguesia/rolica
+               pmad1$joao henriques/id=b1773-17-per6
+                  ls$freguesia/rolica
 
       bap$b1773-18/10/10/1773/fl.157/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
@@ -1112,43 +1112,43 @@ kleio$gacto.str/prefix=spedro
             ls$residencia/pinhal
             ls$datanasc/17730927
 
-         pn$luis pedro/id=b1773-18-per2
-            ls$residencia/pinhal
-            ls$loccasamento/sao joao do mocharro
-            ls$locbaptismo/freguesia de sao pedro
+            pn$luis pedro/id=b1773-18-per2
+               ls$residencia/pinhal
+               ls$loccasamento/sao joao do mocharro
+               ls$locbaptismo/freguesia de sao pedro
 
-         mn$antonia maria/id=b1773-18-per3
-            ls$residencia/pinhal
-            ls$loccasamento/sao joao do mocharro
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            mn$antonia maria/id=b1773-18-per3
+               ls$residencia/pinhal
+               ls$loccasamento/sao joao do mocharro
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         pad1$francisco nunes ferreira/id=b1773-18-per4
-            ls$residencia/quinta da charneca
+            pad1$francisco nunes ferreira/id=b1773-18-per4
+               ls$residencia/quinta da charneca
 
-         mad1$nossa senhora da piedade/id=b1773-18-per5
+            mad1$nossa senhora da piedade/id=b1773-18-per5
 
       bap$b1773-19/11/10/1773/fl.157/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$joaquim/m/id=b1773-19-per1
             ls$datanasc/1773
 
-         pn$manuel ferreira/id=b1773-19-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/sao verissimo
-            ls$arciprestado/braga
+            pn$manuel ferreira/id=b1773-19-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/sao verissimo
+               ls$arciprestado/braga
 
-         mn$maria ferreira/id=b1773-19-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
+            mn$maria ferreira/id=b1773-19-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         pad1$jose antonio pereira da costa/id=b1773-19-per4
+            pad1$jose antonio pereira da costa/id=b1773-19-per4
 
-         mad1$josefa teodora do carmo/id=b1773-19-per5
+            mad1$josefa teodora do carmo/id=b1773-19-per5
 
-         pmad1$bras monteiro/id=b1773-19-per6
-            ls$residencia/obidos
+               pmad1$bras monteiro/id=b1773-19-per6
+                  ls$residencia/obidos
 
       bap$b1773-20/18/10/1773/fl.157/igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
@@ -1156,44 +1156,44 @@ kleio$gacto.str/prefix=spedro
             ls$datanasc/17731001
             ls$residencia/obidos
 
-         pn$manuel da luz/id=b1773-20-per2
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/lisboa, freguesia de santa catarina de monte sinai
+            pn$manuel da luz/id=b1773-20-per2
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/lisboa, freguesia de santa catarina de monte sinai
 
-         mn$maria antonia/id=b1773-20-per3
-            ls$residencia/obidos
-            ls$loccasamento/freguesia de sao pedro
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria antonia/id=b1773-20-per3
+               ls$residencia/obidos
+               ls$loccasamento/freguesia de sao pedro
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$maximo joaquim de almeida/id=b1773-20-per4
-            ls$profissao/padre
+            pad1$maximo joaquim de almeida/id=b1773-20-per4
+               ls$profissao/padre
 
-         mad1$joaquina teresa de jesus/id=b1773-20-per5
-            ls$naturalidade/gaeiras
-            ls$freguesia/santa maria
+            mad1$joaquina teresa de jesus/id=b1773-20-per5
+               ls$naturalidade/gaeiras
+               ls$freguesia/santa maria
 
       bap$b1773-21/22/11/1773/fl.157v./igreja de sao pedro/carlos jose da serra (cura)/obs=assina o cura carlos jose da serra
 
          n$vicencia/f/id=b1773-21-n
             ls$datanasc/17731020
 
-         pn$luis pedro ferreira/id=b1773-21-per1
-            ls$residencia/obidos
-            ls$loccasamento/santa casa da misericordia de obidos
-            ls$locbaptismo/freguesia de sao joao do mocharro
+            pn$luis pedro ferreira/id=b1773-21-per1
+               ls$residencia/obidos
+               ls$loccasamento/santa casa da misericordia de obidos
+               ls$locbaptismo/freguesia de sao joao do mocharro
 
-         mn$ana joaquina/id=b1773-21-per2
-            ls$residencia/obidos
-            ls$loccasamento/santa casa da misericordia de obidos
-            ls$locbaptismo/freguesia de santa maria
+            mn$ana joaquina/id=b1773-21-per2
+               ls$residencia/obidos
+               ls$loccasamento/santa casa da misericordia de obidos
+               ls$locbaptismo/freguesia de santa maria
 
-         pad1$antonio maria/id=b1773-21-per3
+            pad1$antonio maria/id=b1773-21-per3
 
-         mad1$nossa senhora do carmo/id=b1773-21-per4
+            mad1$nossa senhora do carmo/id=b1773-21-per4
 
-         procurador-mad1$joaquim maria/id=b1773-21-per5
-            rel$parentesco/filho/nome desconhecido/b1773-21-referido
+            procurador-mad1$joaquim maria/id=b1773-21-per5
+               rel$parentesco/filho/nome desconhecido/b1773-21-referido
 
             referido$nome desconhecido/id=b1773-21-referido
                ls$cargo/capitao mor
@@ -1207,21 +1207,21 @@ kleio$gacto.str/prefix=spedro
          n$antonio/m/id=b1773-22-per1
             ls$datanasc/17731106
 
-         pn$leandro gomes/id=b1773-22-per2
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$leandro gomes/id=b1773-22-per2
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$joana maria/id=b1773-22-per3
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$joana maria/id=b1773-22-per3
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$antonio jose/id=b1773-22-per4
-            ls$residencia/usseira
+            pad1$antonio jose/id=b1773-22-per4
+               ls$residencia/usseira
 
-         mad1$josefa teresa/id=b1773-22-per5
-            ls$residencia/pinhal
+            mad1$josefa teresa/id=b1773-22-per5
+               ls$residencia/pinhal
 
-         pmad1$antonio da costa/id=b1773-22-per6
-            ls$residencia/pinhal
+               pmad1$antonio da costa/id=b1773-22-per6
+                  ls$residencia/pinhal

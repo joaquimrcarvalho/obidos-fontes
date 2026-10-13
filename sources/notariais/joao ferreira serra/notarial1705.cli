@@ -143,7 +143,7 @@ kleio$gacto.str
 
             marido$manuel antunes/id=not1705-e3a-per6-per7
 
-         aforamento$um moinho com duas mos "alvaira e segem direita" com suas terras no lavradio das caldas/obs=mudar para arrendamento
+         aforamento$moinho/desc=um moinho com duas mos "alvaira e segem direita" com suas terras no lavradio das caldas/obs=mudar para arrendamento
             atr$localizacao/ribeira das caldas onde chamam as lajas
             atr$confrontacoes/o qual moinho parte do norte com o moinho do ?; do sul com fazenda da dita senhora e com as da sua irma
 
@@ -174,7 +174,7 @@ kleio$gacto.str
             atr$localizacao/no limite do lugar onde chamam o aloutinhal?
             atr$confrontacoes/parte do norte com a rigueira de agua; do sul com joao rodrigues "somiao"; do poente com maria rodrigues
 
-         garantia$uma tenda de ferreiro com todos os apetrechos necessarios a dita tenda
+         garantia$tenda de ferreiro% com todos os apetrechos necessarios a dita tenda
 
          test$diogo de arruda do avelar/m/id=not1705-e4-per4
             ls$residencia/obidos
@@ -251,7 +251,7 @@ kleio$gacto.str
          vendedor$francisco luis/id=not1705-e6-per7
             ls$profissao/alfaiate
             ls$residencia/amoreira
-            ls$assina/sim/obs=assina "francisco pinheireiro
+            ls$assina/sim/obs=assina "francisco pinheireiro"
 
             mulher$catarina monteiro/id=not1705-e6-per7-per8
                ls$residencia/amoreira
@@ -314,7 +314,7 @@ kleio$gacto.str
          aforamento$um pomarinho
             atr$localizacao/ao vale
             atr$confrontacoes/parte do norte com manuel vieira; do sul com fazenda do padre jose de avelar de a dos ruivos; do nascente com fazenda dos herdeiros de isabel dos reis; do poente com fazenda de manuel jorge do souselo
-            atr$renda/20 alqueires de trigo/pagos anualmente no dia de nossa senhora de agosto
+            atr$renda/20 alqueires de trigo/obs=pagos anualmente no dia de nossa senhora de agosto
 
          aforamento$uma morada de casas
             atr$localizacao/ao vale
@@ -329,7 +329,7 @@ kleio$gacto.str
          test$antonio ferreira/m/id=not1705-e7-per6
             ls$assina/sim
 
-      escritura$not1705-e8/18/1/1705/dinheiro a juro/fol=45v.-47/loc=amoreira, nas casas de morada do reverendo padre andre luis moreira/sumario=escritura de 100000 a razao de juro que deu o padre andre luis moreira do lugar da amoreira a joao moreno e sua mulher catarina gomes do lugar do barrocalvo
+      escritura$not1705-e8/18/1/1705/dinheiro a juro/fol=45v.-47/loc=amoreira#casas de morada do reverendo padre andre luis moreira/sumario=escritura de 100000 a razao de juro que deu o padre andre luis moreira do lugar da amoreira a joao moreno e sua mulher catarina gomes do lugar do barrocalvo
 
          credor$andre luis moreira/id=not1705-e8-per1
             ls$titulo/reverendo

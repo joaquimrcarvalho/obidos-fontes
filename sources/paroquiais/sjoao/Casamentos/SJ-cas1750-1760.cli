@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=sjoao
+kleio$gacto.str/prefix=sjoao/translations=1
    fonte$casamentos1750-1760/localizacao-a.d.l./freguesia de sao joao
 
       cas$c1750-1/24/3/1750/fl.43/ermida de sao sebastiao, sobral/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia.
@@ -7,19 +7,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$antonio marques leitao/id=c1750-1-per2
-            ls$cargo/alferes
-            ls$morto/antes
+            pnoivo$antonio marques leitao/id=c1750-1-per2
+               ls$cargo/alferes
+               ls$morto/antes
 
-         mnoivo$maria do rego moreira/id=c1750-1-per3
+            mnoivo$maria do rego moreira/id=c1750-1-per3
 
          noiva$teresa de jesus/id=c1750-1-per4
             ls$residencia/sobral
             ls$locbaptismo/freguesia de nossa senhora da ajuda, peniche/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$joao marques/id=c1750-1-per5
+            pnoiva$joao marques/id=c1750-1-per5
 
-         mnoiva$josefa franco/id=c1750-1-per6
+            mnoiva$josefa franco/id=c1750-1-per6
 
          test$paulo da silva leitao/id=c1750-1-per7
             ls$residencia/quinta da cumeeira
@@ -44,13 +44,13 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$sebastiao marques/id=c1750-2-per2
-            ls$morto/antes
-            ls$residencia/sobral
+            pnoivo$sebastiao marques/id=c1750-2-per2
+               ls$morto/antes
+               ls$residencia/sobral
 
-         mnoivo$isabel teresa/id=c1750-2-per3
-            ls$morta/antes
-            ls$residencia/sobral
+            mnoivo$isabel teresa/id=c1750-2-per3
+               ls$morta/antes
+               ls$residencia/sobral
 
          noiva$josefa maria/id=c1750-2-per4
             ls$residencia/foz
@@ -58,13 +58,13 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/nossa senhora dos martires, serra do bouro
             ls$locbaptismo/freguesia de nossa senhora dos martires, serra do bouro/obs=foi moradora na quinta da cumeira, freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel da silva/id=c1750-2-per5
-            ls$residencia/foz
-            ls$freguesia/nossa senhora dos martires, serra do bouro
+            pnoiva$manuel da silva/id=c1750-2-per5
+               ls$residencia/foz
+               ls$freguesia/nossa senhora dos martires, serra do bouro
 
-         mnoiva$eufrasia maria/id=c1750-2-per6
-            ls$residencia/foz
-            ls$freguesia/nossa senhora dos martires, serra do bouro
+            mnoiva$eufrasia maria/id=c1750-2-per6
+               ls$residencia/foz
+               ls$freguesia/nossa senhora dos martires, serra do bouro
 
          test$jose luis pereira/id=c1750-2-per7
             ls$profissao/padre
@@ -84,21 +84,21 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$antonio luis nobre/id=c1750-3-per2
-            ls$residencia/sobral
+            pnoivo$antonio luis nobre/id=c1750-3-per2
+               ls$residencia/sobral
 
-         mnoivo$maria dos reis/id=c1750-3-per3
-            ls$residencia/sobral
+            mnoivo$maria dos reis/id=c1750-3-per3
+               ls$residencia/sobral
 
          noiva$josefa maria/id=c1750-3-per4
             ls$naturalidade/freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora das neves, lisboa
 
-         pnoiva$jose luis/id=c1750-3-per5
-            ls$morto/antes
+            pnoiva$jose luis/id=c1750-3-per5
+               ls$morto/antes
 
-         mnoiva$joana maria/id=c1750-3-per6
+            mnoiva$joana maria/id=c1750-3-per6
 
          test$inocencio soares/id=c1750-3-per7
             ls$residencia/sobral
@@ -115,22 +115,22 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$naturalidade/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel dos santos/id=c1750-4-per2
-            ls$residencia/arelho
+            pnoivo$manuel dos santos/id=c1750-4-per2
+               ls$residencia/arelho
 
-         mnoivo$micaela dos santos/id=c1750-4-per3
-            ls$residencia/arelho
+            mnoivo$micaela dos santos/id=c1750-4-per3
+               ls$residencia/arelho
 
          noiva$antonia maria/id=c1750-4-per4
             ls$residencia/arelho
             ls$naturalidade/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel henriques/id=c1750-4-per5
-            ls$morto/antes
-            ls$residencia/arelho
+            pnoiva$manuel henriques/id=c1750-4-per5
+               ls$morto/antes
+               ls$residencia/arelho
 
-         mnoiva$maria luis/id=c1750-4-per6
-            ls$residencia/arelho
+            mnoiva$maria luis/id=c1750-4-per6
+               ls$residencia/arelho
 
          test$luis pedro furtado/id=c1750-4-per7
             ls$residencia/obidos
@@ -146,19 +146,19 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel luis/id=c1751-1-per2
+            pnoivo$manuel luis/id=c1751-1-per2
 
-         mnoivo$maria de sao jose/id=c1751-1-per3
+            mnoivo$maria de sao jose/id=c1751-1-per3
 
          noiva$antonia maria de oliveira/id=c1751-1-per4
             ls$naturalidade/sobral
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao/obs=a noiva foi dotada pela misericordia de lisboa e se receberam na vila de obidos na presenca dos irmaos da mesa que assinaram com as testemunhas
 
-         pnoiva$antonio de oliveira/id=c1751-1-per5
-            ls$morto/antes
+            pnoiva$antonio de oliveira/id=c1751-1-per5
+               ls$morto/antes
 
-         mnoiva$maria de jesus/id=c1751-1-per6
-            ls$ec/viuva
+            mnoiva$maria de jesus/id=c1751-1-per6
+               ls$ec/viuva
 
          test$antonio de macedo neto/id=c1751-1-per7
             ls$profissao/padre
@@ -188,19 +188,19 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$luis dos santos/id=c1751-2-per2
-            ls$morto/antes
+            pnoivo$luis dos santos/id=c1751-2-per2
+               ls$morto/antes
 
-         mnoivo$josefa maria/id=c1751-2-per3
+            mnoivo$josefa maria/id=c1751-2-per3
 
          noiva$maria henriques/id=c1751-2-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose joao/id=c1751-2-per5
+            pnoiva$jose joao/id=c1751-2-per5
 
-         mnoiva$maria henriques/id=c1751-2-per6
+            mnoiva$maria henriques/id=c1751-2-per6
 
          test$antonio laurentino de seixas/id=c1751-2-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -220,19 +220,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel henriques/id=c1751-3-per2
-            ls$morto/antes
+            pnoivo$manuel henriques/id=c1751-3-per2
+               ls$morto/antes
 
-         mnoivo$maria lopes/id=c1751-3-per3
+            mnoivo$maria lopes/id=c1751-3-per3
 
          noiva$helena maria/id=c1751-3-per4
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose joao/id=c1751-3-per5
+            pnoiva$jose joao/id=c1751-3-per5
 
-         mnoiva$maria henriques/id=c1751-3-per6
+            mnoiva$maria henriques/id=c1751-3-per6
 
          test$jose joao/id=c1751-3-per7
             ls$assina/sim
@@ -247,17 +247,17 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/casal da chopa, limite do arelho
             ls$naturalidade/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel franco/id=c1751-4-per2
+            pnoivo$manuel franco/id=c1751-4-per2
 
-         mnoivo$antonia ferreira/id=c1751-4-per3
+            mnoivo$antonia ferreira/id=c1751-4-per3
 
          noiva$maria antonia/id=c1751-4-per4
             ls$residencia/carregal
             ls$naturalidade/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel luis/id=c1751-4-per5
+            pnoiva$manuel luis/id=c1751-4-per5
 
-         mnoiva$antonia francisca/id=c1751-4-per6
+            mnoiva$antonia francisca/id=c1751-4-per6
 
          test$jose franco/obs=o paroco primeiro colocou o nome de jose franco mas na assinatura coloca o nome de manuel franco/id=c1751-4-per7
             ls$residencia/carregal
@@ -275,22 +275,22 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$pedro henriques/id=c1752-1-per2
+            pnoivo$pedro henriques/id=c1752-1-per2
 
-         mnoivo$brasia franco/id=c1752-1-per3
+            mnoivo$brasia franco/id=c1752-1-per3
 
          noiva$maria madalena/id=c1752-1-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$joao marques leal/id=c1752-1-per5
-            ls$morto/antes
-            ls$residencia/arelho
+            pnoiva$joao marques leal/id=c1752-1-per5
+               ls$morto/antes
+               ls$residencia/arelho
 
-         mnoiva$maria madalena/id=c1752-1-per6
-            ls$morta/antes
-            ls$residencia/arelho
+            mnoiva$maria madalena/id=c1752-1-per6
+               ls$morta/antes
+               ls$residencia/arelho
 
          test$manuel monteiro/id=c1752-1-per7
             ls$residencia/olho marinho
@@ -309,17 +309,17 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$amaro monteiro/id=c1752-2-per2
+            pnoivo$amaro monteiro/id=c1752-2-per2
 
-         mnoivo$maria marques/id=c1752-2-per3
+            mnoivo$maria marques/id=c1752-2-per3
 
          noiva$maria de jesus/id=c1752-2-per4
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos gomes/id=c1752-2-per5
+            pnoiva$domingos gomes/id=c1752-2-per5
 
-         mnoiva$isabel luis/id=c1752-2-per6
+            mnoiva$isabel luis/id=c1752-2-per6
 
          test$manuel monteiro/id=c1752-2-per7
             ls$residencia/sobral
@@ -336,19 +336,19 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$estevao goncalves/id=c1752-3-per2
+            pnoivo$estevao goncalves/id=c1752-3-per2
 
-         mnoivo$catarina maria/id=c1752-3-per3
+            mnoivo$catarina maria/id=c1752-3-per3
 
          noiva$maria rosa/id=c1752-3-per4
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose francisco/id=c1752-3-per5
-            ls$residencia/bairro
+            pnoiva$jose francisco/id=c1752-3-per5
+               ls$residencia/bairro
 
-         mnoiva$josefa maria/id=c1752-3-per6
-            ls$residencia/bairro
+            mnoiva$josefa maria/id=c1752-3-per6
+               ls$residencia/bairro
 
          test$antonio laurentino de seixas/id=c1752-3-test
             ls$assina/sim
@@ -367,22 +367,22 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao pedro
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$luis pereira/id=c1752-4-per2
-            ls$naturalidade/pinhal
-            ls$freguesia/sao pedro
+            pnoivo$luis pereira/id=c1752-4-per2
+               ls$naturalidade/pinhal
+               ls$freguesia/sao pedro
 
-         mnoivo$isabel teresa/id=c1752-4-per3
-            ls$naturalidade/pinhal
-            ls$freguesia/sao pedro
+            mnoivo$isabel teresa/id=c1752-4-per3
+               ls$naturalidade/pinhal
+               ls$freguesia/sao pedro
 
          noiva$isabel maria/id=c1752-4-per4
             ls$naturalidade/peniche
             ls$locbaptismo/freguesia de nossa senhora da conceicao, peniche
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos goncalves/id=c1752-4-per5
+            pnoiva$domingos goncalves/id=c1752-4-per5
 
-         mnoiva$sebastiana maria/id=c1752-4-per6
+            mnoiva$sebastiana maria/id=c1752-4-per6
 
          test$joao pedro/id=c1752-4-per7
             ls$residencia/pinhal
@@ -400,20 +400,20 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             rel$parentesco/consanguinidade de quarto grau/josefa maria/c1752-5-noiva/obs=os noivos foram despensados em consanguinidade de quarto grau
 
-         pnoivo$manuel luis/id=c1752-5-per2
+            pnoivo$manuel luis/id=c1752-5-per2
 
-         mnoivo$maria de sao jose/id=c1752-5-per3
+            mnoivo$maria de sao jose/id=c1752-5-per3
 
          noiva$josefa maria/id=c1752-5-noiva
             ls$naturalidade/freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel nunes/id=c1752-5-per4
-            ls$morto/antes
+            pnoiva$manuel nunes/id=c1752-5-per4
+               ls$morto/antes
 
-         mnoiva$pascoa marques/id=c1752-5-per5
-            ls$morta/antes
+            mnoiva$pascoa marques/id=c1752-5-per5
+               ls$morta/antes
 
          test$antonio laurentino de seixas/id=c1752-5-per6
             ls$cargo/tesoureiro da igreja de sao joao
@@ -431,19 +431,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$domingos dos reis/id=c1752-6-per2
+            pnoivo$domingos dos reis/id=c1752-6-per2
 
-         mnoivo$isabel maria/id=c1752-6-per3
+            mnoivo$isabel maria/id=c1752-6-per3
 
          noiva$ana maria/id=c1752-6-per4
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel jorge/id=c1752-6-per5
-            ls$morto/antes
+            pnoiva$manuel jorge/id=c1752-6-per5
+               ls$morto/antes
 
-         mnoiva$engracia maria/id=c1752-6-per6
+            mnoiva$engracia maria/id=c1752-6-per6
 
          test$agostinho luis/id=c1752-6-per7
             ls$assina/cruz
@@ -461,22 +461,22 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             rel$parentesco/consanguinidade de quarto grau/maria de sao jose/c1753-1-noiva/obs=os noivos foram despensados do consanguinidade de quarto grau
 
-         pnoivo$manuel marques/id=c1753-1-per2
-            ls$residencia/sobral
+            pnoivo$manuel marques/id=c1753-1-per2
+               ls$residencia/sobral
 
-         mnoivo$maria francisca/id=c1753-1-per3
-            ls$residencia/sobral
+            mnoivo$maria francisca/id=c1753-1-per3
+               ls$residencia/sobral
 
          noiva$maria de sao jose/id=c1753-1-noiva
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$antonio nunes/id=c1753-1-per4
-            ls$residencia/sobral
+            pnoiva$antonio nunes/id=c1753-1-per4
+               ls$residencia/sobral
 
-         mnoiva$antonia maria/id=c1753-1-per5
-            ls$residencia/sobral
+            mnoiva$antonia maria/id=c1753-1-per5
+               ls$residencia/sobral
 
          test$francisco luis/id=c1753-1-per6
             ls$assina/sim
@@ -492,18 +492,18 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/casal da charneca, limuite do sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$antonio da fonseca/id=c1753-2-per2
+            pnoivo$antonio da fonseca/id=c1753-2-per2
 
-         mnoivo$clara do rego/id=c1753-2-per3
+            mnoivo$clara do rego/id=c1753-2-per3
 
          noiva$brites maria/id=c1753-2-per4
             ls$naturalidade/casal da charneca, limite do sobral
             ls$residencia/casal da charneca, limuite do sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$joao rodrigues/id=c1753-2-per5
+            pnoiva$joao rodrigues/id=c1753-2-per5
 
-         mnoiva$antonia maria/id=c1753-2-per6
+            mnoiva$antonia maria/id=c1753-2-per6
 
          test$jose gomes do rego/id=c1753-2-per7
             ls$assina/sim
@@ -519,17 +519,17 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/arelho
             ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$pascoal da silva/id=c1753-3-per2
+            pnoivo$pascoal da silva/id=c1753-3-per2
 
-         mnoivo$josefa henriques/id=c1753-3-per3
+            mnoivo$josefa henriques/id=c1753-3-per3
 
          noiva$maria teresa/id=c1753-3-per4
             ls$naturalidade/arelho
             ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos da silva/id=c1753-3-per5
+            pnoiva$domingos da silva/id=c1753-3-per5
 
-         mnoiva$francisca goncalves/id=c1753-3-per6
+            mnoiva$francisca goncalves/id=c1753-3-per6
 
          test$francisco manuel de sisneiros girao/id=c1753-3-per7
             ls$titulo/dom
@@ -548,21 +548,21 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$jacinto rodrigues/id=c1753-4-per2
-            ls$residencia/arelho
+            pnoivo$jacinto rodrigues/id=c1753-4-per2
+               ls$residencia/arelho
 
-         mnoivo$maria ferreira/id=c1753-4-per3
-            ls$residencia/arelho
+            mnoivo$maria ferreira/id=c1753-4-per3
+               ls$residencia/arelho
 
          noiva$antonia maria/id=c1753-4-per4
             ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel henriques/id=c1753-4-per5
-            ls$morto/antes
-            ls$residencia/arelho
+            pnoiva$manuel henriques/id=c1753-4-per5
+               ls$morto/antes
+               ls$residencia/arelho
 
-         mnoiva$maria lopes/id=c1753-4-per6
-            ls$residencia/arelho
+            mnoiva$maria lopes/id=c1753-4-per6
+               ls$residencia/arelho
 
          test$paulo da silva leitao/id=c1753-4-per7
             ls$residencia/quinta da cumeira
@@ -581,25 +581,25 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/nossa senhora do populo
             ls$locbaptismo/freguesia de nossa senhora do populo/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora do populo
 
-         pnoivo$joao rodrigues/id=c1753-5-per2
-            ls$morto/antes
-            ls$residencia/caldas
-            ls$freguesia/nossa senhora do populo
+            pnoivo$joao rodrigues/id=c1753-5-per2
+               ls$morto/antes
+               ls$residencia/caldas
+               ls$freguesia/nossa senhora do populo
 
-         mnoivo$maria josefa/id=c1753-5-per3
-            ls$morta/antes
-            ls$residencia/caldas
-            ls$freguesia/nossa senhora do populo
+            mnoivo$maria josefa/id=c1753-5-per3
+               ls$morta/antes
+               ls$residencia/caldas
+               ls$freguesia/nossa senhora do populo
 
          noiva$maria rosa de sao jose/id=c1753-5-per4
             ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             ls$naturalidade/a da gorda
             ls$freguesia/santa maria
 
-         pnoiva$francisco henriques/id=c1753-5-per5
-            ls$morto/antes
+            pnoiva$francisco henriques/id=c1753-5-per5
+               ls$morto/antes
 
-         mnoiva$teresa maria/id=c1753-5-per6
+            mnoiva$teresa maria/id=c1753-5-per6
 
          test$manuel pereira da costa/id=c1753-5-per7
             ls$cargo/tesoureiro da igreja da misericordia
@@ -623,20 +623,20 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$jose marques/id=c1753-6-per2
+            pnoivo$jose marques/id=c1753-6-per2
 
-         mnoivo$maria josefa/id=c1753-6-per3
+            mnoivo$maria josefa/id=c1753-6-per3
 
          noiva$agostinha maria/id=c1753-6-per4
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos luis/id=c1753-6-per5
-            ls$morto/antes
+            pnoiva$domingos luis/id=c1753-6-per5
+               ls$morto/antes
 
-         mnoiva$isabel francisca/id=c1753-6-per6
-            ls$morta/antes
+            mnoiva$isabel francisca/id=c1753-6-per6
+               ls$morta/antes
 
          test$antonio laurentino de seixas/id=c1753-6-test
             ls$residencia/obidos
@@ -662,8 +662,8 @@ kleio$gacto.str/prefix=sjoao
             ls$ec/viuva
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         marido1$manuel jorge/id=c1753-7-per4
-            ls$morto/antes
+            marido1$manuel jorge/id=c1753-7-per4
+               ls$morto/antes
 
          test$jacinto pereira da costa/id=c1753-7-per5
             ls$profissao/padre
@@ -682,22 +682,22 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/santo andre, vila de cela, coutos de alcobaca
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel rodrigues/id=c1753-8-per2
-            ls$morto/antes
-            ls$residencia/alfaiate
-            ls$freguesia/santo andre, vila de cela, coutos de alcobaca
+            pnoivo$manuel rodrigues/id=c1753-8-per2
+               ls$morto/antes
+               ls$residencia/alfaiate
+               ls$freguesia/santo andre, vila de cela, coutos de alcobaca
 
-         mnoivo$catarina madeira/id=c1753-8-per3
-            ls$residencia/alfaiate
-            ls$freguesia/santo andre, vila de cela, coutos de alcobaca
+            mnoivo$catarina madeira/id=c1753-8-per3
+               ls$residencia/alfaiate
+               ls$freguesia/santo andre, vila de cela, coutos de alcobaca
 
          noiva$teodora maria/id=c1753-8-per4
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel franco/id=c1753-8-per5
+            pnoiva$manuel franco/id=c1753-8-per5
 
-         mnoiva$antonia francisca/id=c1753-8-per6
+            mnoiva$antonia francisca/id=c1753-8-per6
 
          test$antonio laurentino de seixas/id=c1753-8-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -720,17 +720,17 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/num dos casais da charneca, limite do sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$joao rodrigues/id=c1753-9-per2
+            pnoivo$joao rodrigues/id=c1753-9-per2
 
-         mnoivo$antonia maria/id=c1753-9-per3
+            mnoivo$antonia maria/id=c1753-9-per3
 
          noiva$rosa maria/id=c1753-9-per4
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1753-9-per5
+            pnoiva$manuel francisco/id=c1753-9-per5
 
-         mnoiva$josefa maria/id=c1753-9-per6
+            mnoiva$josefa maria/id=c1753-9-per6
 
          test$lourenco correia da costa/id=c1753-9-per7
             ls$profissao/padre
@@ -750,19 +750,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/bairro
             ls$locbaptismo/freguesia de santo andre, vila de cela, coutos de alcobaca/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel rodrigues/id=c1753-10-per2
-            ls$morto/antes
+            pnoivo$manuel rodrigues/id=c1753-10-per2
+               ls$morto/antes
 
-         mnoivo$catarina madeira/id=c1753-10-per3
+            mnoivo$catarina madeira/id=c1753-10-per3
 
          noiva$inacia maria/id=c1753-10-per4
             ls$naturalidade/bairro
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1753-10-per5
+            pnoiva$manuel francisco/id=c1753-10-per5
 
-         mnoiva$damiana francisca/id=c1753-10-per6
+            mnoiva$damiana francisca/id=c1753-10-per6
 
          test$joao antonio/id=c1753-10-per7
             ls$assina/sim
@@ -777,21 +777,21 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$domingos francisco/id=c1753-11-per2
-            ls$morto/antes
+            pnoivo$domingos francisco/id=c1753-11-per2
+               ls$morto/antes
 
-         mnoivo$josefa maria/id=c1753-11-per3
-            ls$ec/viuva
+            mnoivo$josefa maria/id=c1753-11-per3
+               ls$ec/viuva
 
          noiva$maria de sao joao/id=c1753-11-per4
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos luis/id=c1753-11-per5
-            ls$ec/viuvo
+            pnoiva$domingos luis/id=c1753-11-per5
+               ls$ec/viuvo
 
-         mnoiva$maria de sao jose/id=c1753-11-per6
-            ls$morta/antes
+            mnoiva$maria de sao jose/id=c1753-11-per6
+               ls$morta/antes
 
          test$jose franco de carvalho/id=c1753-11-per7
             ls$titulo/doutor
@@ -809,22 +809,22 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel rodrigues/id=c1753-12-per2
-            ls$residencia/sobral
-            ls$morto/antes
+            pnoivo$manuel rodrigues/id=c1753-12-per2
+               ls$residencia/sobral
+               ls$morto/antes
 
-         mnoivo$catarina leitoa/id=c1753-12-per3
-            ls$residencia/sobral
+            mnoivo$catarina leitoa/id=c1753-12-per3
+               ls$residencia/sobral
 
          noiva$maria do carmo/id=c1753-12-per4
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$tomas luis/id=c1753-12-per5
-            ls$residencia/sobral
+            pnoiva$tomas luis/id=c1753-12-per5
+               ls$residencia/sobral
 
-         mnoiva$maria das virtudes/id=c1753-12-per6
-            ls$residencia/sobral
+            mnoiva$maria das virtudes/id=c1753-12-per6
+               ls$residencia/sobral
 
          test$inocencio soares/id=c1753-12-per7
             ls$residencia/sobral
@@ -844,21 +844,21 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             rel$parentesco/consanguinidade de quarto grau/josefa maria/c1754-1-noiva/obs=foram despensados do consanguinidade de quarto grau
 
-         pnoivo$amaro monteiro/id=c1754-1-per2
-            ls$morto/antes
+            pnoivo$amaro monteiro/id=c1754-1-per2
+               ls$morto/antes
 
-         mnoivo$maria marques/id=c1754-1-per3
-            ls$morta/antes
+            mnoivo$maria marques/id=c1754-1-per3
+               ls$morta/antes
 
          noiva$josefa maria/id=c1754-1-noiva
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos luis/id=c1754-1-per4
+            pnoiva$domingos luis/id=c1754-1-per4
 
-         mnoiva$isabel francisca/id=c1754-1-per5
-            ls$morta/antes
+            mnoiva$isabel francisca/id=c1754-1-per5
+               ls$morta/antes
 
          test$jose joaquim de seixas/id=c1754-1-per6
             ls$residencia/obidos
@@ -877,21 +877,21 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao lourenco
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$francisco lopes/id=c1754-2-per2
+            pnoivo$francisco lopes/id=c1754-2-per2
 
-         mnoivo$maria da encarnacao/id=c1754-2-per3
-            ls$morta/antes
+            mnoivo$maria da encarnacao/id=c1754-2-per3
+               ls$morta/antes
 
          noiva$ana joaquina/id=c1754-2-per4
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$antonio marques/id=c1754-2-per5
-            ls$morto/antes
+            pnoiva$antonio marques/id=c1754-2-per5
+               ls$morto/antes
 
-         mnoiva$maria de sao jose/id=c1754-2-per6
-            ls$morta/antes
+            mnoiva$maria de sao jose/id=c1754-2-per6
+               ls$morta/antes
 
          test$antonio laurentino de seixas/id=c1754-2-test
             ls$cargo/tesoureiro da igreja de sao joao
@@ -911,19 +911,19 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             rel$parentesco/consanguinidade de terceiro e quarto graus/maria marques/c1754-3-noiva/obs=foram despensados dos consanguinidade de terceiro e quarto graus
 
-         pnoivo$manuel luis/id=c1754-3-per2
+            pnoivo$manuel luis/id=c1754-3-per2
 
-         mnoivo$maria de sao jose/id=c1754-3-per3
-            ls$morta/antes
+            mnoivo$maria de sao jose/id=c1754-3-per3
+               ls$morta/antes
 
          noiva$maria marques/id=c1754-3-noiva
             ls$residencia/sobral
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio marques/id=c1754-3-per4
+            pnoiva$antonio marques/id=c1754-3-per4
 
-         mnoiva$teresa gomes/id=c1754-3-per5
+            mnoiva$teresa gomes/id=c1754-3-per5
 
          test$joao henriques/id=c1754-3-per6
             ls$residencia/casal da eira
@@ -942,18 +942,18 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             rel$parentesco/consanguinidade de quarto grau/engracia maria/c1754-4-noiva/obs=foram despensados do consanguinidade de quarto grau
 
-         pnoivo$antonio luis nobre/id=c1754-4-per2
+            pnoivo$antonio luis nobre/id=c1754-4-per2
 
-         mnoivo$maria dos reis/id=c1754-4-per3
+            mnoivo$maria dos reis/id=c1754-4-per3
 
          noiva$engracia maria/id=c1754-4-noiva
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel lopes/id=c1754-4-per4
+            pnoiva$manuel lopes/id=c1754-4-per4
 
-         mnoiva$maria margarida/id=c1754-4-per5
+            mnoiva$maria margarida/id=c1754-4-per5
 
          test$antonio laurentino de seixas/id=c1754-4-per6
             ls$assina/sim
@@ -975,22 +975,22 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$jacinto rodrigues/id=c1754-5-per2
-            ls$residencia/arelho
+            pnoivo$jacinto rodrigues/id=c1754-5-per2
+               ls$residencia/arelho
 
-         mnoivo$maria ferreira/id=c1754-5-per3
-            ls$residencia/arelho
+            mnoivo$maria ferreira/id=c1754-5-per3
+               ls$residencia/arelho
 
          noiva$catarina maria/id=c1754-5-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel da silva/id=c1754-5-per5
-            ls$residencia/arelho
+            pnoiva$manuel da silva/id=c1754-5-per5
+               ls$residencia/arelho
 
-         mnoiva$francisca maria/id=c1754-5-per6
-            ls$residencia/arelho
+            mnoiva$francisca maria/id=c1754-5-per6
+               ls$residencia/arelho
 
          test$jose franco/id=c1754-5-per7
             ls$profissao/lavrador
@@ -1008,18 +1008,18 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel jorge/id=c1754-6-per2
-            ls$morto/antes
+            pnoivo$manuel jorge/id=c1754-6-per2
+               ls$morto/antes
 
-         mnoivo$engracia maria/id=c1754-6-per3
+            mnoivo$engracia maria/id=c1754-6-per3
 
          noiva$vicencia maria/id=c1754-6-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel jorge/id=c1754-6-per5
+            pnoiva$manuel jorge/id=c1754-6-per5
 
-         mnoiva$maria francisca/id=c1754-6-per6
+            mnoiva$maria francisca/id=c1754-6-per6
 
          test$teodoro jose travassos sottomaior/id=c1754-6-per7
             ls$residencia/reverendo
@@ -1037,26 +1037,26 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$domingos rodrigues/id=c1755-1-per2
-            ls$morto/antes
-            ls$residencia/sobral
+            pnoivo$domingos rodrigues/id=c1755-1-per2
+               ls$morto/antes
+               ls$residencia/sobral
 
-         mnoivo$maria gomes/id=c1755-1-per3
-            ls$alcunha/a andrade
-            ls$morta/antes
-            ls$residencia/sobral
+            mnoivo$maria gomes/id=c1755-1-per3
+               ls$alcunha/a andrade
+               ls$morta/antes
+               ls$residencia/sobral
 
          noiva$maria da conceicao/id=c1755-1-per4
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel pereira/id=c1755-1-per5
-            ls$morto/antes
-            ls$residencia/sobral
+            pnoiva$manuel pereira/id=c1755-1-per5
+               ls$morto/antes
+               ls$residencia/sobral
 
-         mnoiva$maria josefa/id=c1755-1-per6
-            ls$morta/antes
-            ls$residencia/sobral
+            mnoiva$maria josefa/id=c1755-1-per6
+               ls$morta/antes
+               ls$residencia/sobral
 
          test$francisco luis pereira/id=c1755-1-per7
             ls$residencia/sobral
@@ -1073,9 +1073,9 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de santa justa, lisboa
             ls$residencia/freguesia de santa justa, lisboa
 
-         pnoivo$gaspar fernandes/id=c1755-2-per2
+            pnoivo$gaspar fernandes/id=c1755-2-per2
 
-         mnoivo$joana de almeida/id=c1755-2-per3
+            mnoivo$joana de almeida/id=c1755-2-per3
 
          noiva$rosa maria/id=c1755-2-per4
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
@@ -1083,9 +1083,9 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao gregorio
             ls$locbaptismo/freguesia de sao gregorio
 
-         pnoiva$pedro henriques/id=c1755-2-per5
+            pnoiva$pedro henriques/id=c1755-2-per5
 
-         mnoiva$maria luisa/id=c1755-2-per6
+            mnoiva$maria luisa/id=c1755-2-per6
 
          test$joao antonio/id=c1755-2-per7
             ls$residencia/bairro
@@ -1102,24 +1102,24 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$antonio joao/id=c1755-3-per2
-            ls$morto/antes
-            ls$residencia/carregal
+            pnoivo$antonio joao/id=c1755-3-per2
+               ls$morto/antes
+               ls$residencia/carregal
 
-         mnoivo$maria rodrigues/id=c1755-3-per3
-            ls$residencia/carregal
+            mnoivo$maria rodrigues/id=c1755-3-per3
+               ls$residencia/carregal
 
          noiva$luisa maria/id=c1755-3-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose franco/id=c1755-3-per5
-            ls$residencia/carregal
+            pnoiva$jose franco/id=c1755-3-per5
+               ls$residencia/carregal
 
-         mnoiva$maria antunes/id=c1755-3-per6
-            ls$morta/antes
-            ls$residencia/carregal
+            mnoiva$maria antunes/id=c1755-3-per6
+               ls$morta/antes
+               ls$residencia/carregal
 
          test$antonio francisco/id=c1755-3-per7
             ls$residencia/carregal
@@ -1137,9 +1137,9 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/nossa senhora do populo
             ls$locbaptismo/freguesia de nossa senhora do populo
 
-         pnoivo$lino francisco/id=c1755-4-per2
+            pnoivo$lino francisco/id=c1755-4-per2
 
-         mnoivo$valentina henriques/id=c1755-4-per3
+            mnoivo$valentina henriques/id=c1755-4-per3
 
          noiva$madalena maria/id=c1755-4-per4
             ls$residencia/bairro
@@ -1147,11 +1147,11 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao pedro da cadeira, termo de torres vedras
             ls$locbaptismo/freguesia de sao pedro da cadeira, termo de torres vedras/obs=desobrigou-se durante algumas quaresmas na freguesia de sao joao e a quaresma passada na freguesia de santa maria
 
-         pnoiva$pedro henriques/id=c1755-4-per5
-            ls$residencia/bairro
+            pnoiva$pedro henriques/id=c1755-4-per5
+               ls$residencia/bairro
 
-         mnoiva$maria luisa/id=c1755-4-per6
-            ls$residencia/bairro
+            mnoiva$maria luisa/id=c1755-4-per6
+               ls$residencia/bairro
 
          test$joao marques/id=c1755-4-per7
             ls$residencia/caldas
@@ -1167,11 +1167,11 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$francisco joao/id=c1755-5-per2
-            ls$residencia/bairro
+            pnoivo$francisco joao/id=c1755-5-per2
+               ls$residencia/bairro
 
-         mnoivo$maria ferreira/id=c1755-5-per3
-            ls$residencia/bairro
+            mnoivo$maria ferreira/id=c1755-5-per3
+               ls$residencia/bairro
 
          noiva$teresa maria/id=c1755-5-per4
             ls$residencia/bairro
@@ -1179,12 +1179,12 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoiva$manuel antunes/id=c1755-5-per5
-            ls$morto/antes
-            ls$residencia/bairro
+            pnoiva$manuel antunes/id=c1755-5-per5
+               ls$morto/antes
+               ls$residencia/bairro
 
-         mnoiva$maria lopes/id=c1755-5-per6
-            ls$residencia/bairro
+            mnoiva$maria lopes/id=c1755-5-per6
+               ls$residencia/bairro
 
          test$antonio laurentino de seixas/id=c1755-5-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -1203,24 +1203,24 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel de oliveira/id=c1756-1-per2
-            ls$residencia/sobral
+            pnoivo$manuel de oliveira/id=c1756-1-per2
+               ls$residencia/sobral
 
-         mnoivo$brasia gomes/id=c1756-1-per3
-            ls$morta/antes
-            ls$residencia/sobral
+            mnoivo$brasia gomes/id=c1756-1-per3
+               ls$morta/antes
+               ls$residencia/sobral
 
          noiva$joana teresa/id=c1756-1-per4
             ls$residencia/sobral
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao/obs=a noiva foi dotada da santa casa da misericordia
 
-         pnoiva$tomas luis/id=c1756-1-per5
-            ls$morto/antes
-            ls$residencia/sobral
+            pnoiva$tomas luis/id=c1756-1-per5
+               ls$morto/antes
+               ls$residencia/sobral
 
-         mnoiva$maria das virtudes/id=c1756-1-per6
-            ls$residencia/sobral
+            mnoiva$maria das virtudes/id=c1756-1-per6
+               ls$residencia/sobral
 
          test$antonio moreira chaves/id=c1756-1-per7
             ls$cargo/capitao
@@ -1239,19 +1239,19 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$residencia/casal da brogueira/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$joao antunes/id=c1756-2-per2
-            ls$morto/antes
+            pnoivo$joao antunes/id=c1756-2-per2
+               ls$morto/antes
 
-         mnoivo$francisca maria/id=c1756-2-per3
+            mnoivo$francisca maria/id=c1756-2-per3
 
          noiva$sebastiana maria/id=c1756-2-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$pedro henriques/id=c1756-2-per5
+            pnoiva$pedro henriques/id=c1756-2-per5
 
-         mnoiva$brasia franca/id=c1756-2-per6
+            mnoiva$brasia franca/id=c1756-2-per6
 
          test$manuel francisco/id=c1756-2-per7
             ls$assina/cruz
@@ -1266,9 +1266,9 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/casal da figueira
             ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$francisco dias/id=c1756-3-per2
+            pnoivo$francisco dias/id=c1756-3-per2
 
-         mnoivo$maria francisca/id=c1756-3-per3
+            mnoivo$maria francisca/id=c1756-3-per3
 
          noiva$josefa maria/id=c1756-3-per4
             ls$naturalidade/casal do alfaiate
@@ -1276,14 +1276,14 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de santo andre, vila de cela, coutos de alcobaca
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel rodrigues/id=c1756-3-per5
-            ls$morto/antes
-            ls$residencia/casal do alfaiate
-            ls$freguesia/santo andre, vila de cela, coutos de alcobaca
+            pnoiva$manuel rodrigues/id=c1756-3-per5
+               ls$morto/antes
+               ls$residencia/casal do alfaiate
+               ls$freguesia/santo andre, vila de cela, coutos de alcobaca
 
-         mnoiva$catarina madeira/id=c1756-3-per6
-            ls$residencia/casal do alfaiate
-            ls$freguesia/santo andre, vila de cela, coutos de alcobaca
+            mnoiva$catarina madeira/id=c1756-3-per6
+               ls$residencia/casal do alfaiate
+               ls$freguesia/santo andre, vila de cela, coutos de alcobaca
 
          test$antonio da silva neves/id=c1756-3-per7
             ls$assina/sim
@@ -1300,23 +1300,23 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel lopes/id=c1756-4-per2
-            ls$residencia/sobral
+            pnoivo$manuel lopes/id=c1756-4-per2
+               ls$residencia/sobral
 
-         mnoivo$maria margarida/id=c1756-4-per3
-            ls$residencia/sobral
+            mnoivo$maria margarida/id=c1756-4-per3
+               ls$residencia/sobral
 
          noiva$ines maria/id=c1756-4-per4
             ls$residencia/sobral
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel luis/id=c1756-4-per5
-            ls$profissao/sapateiro
-            ls$residencia/sobral
+            pnoiva$manuel luis/id=c1756-4-per5
+               ls$profissao/sapateiro
+               ls$residencia/sobral
 
-         mnoiva$maria monteiro/id=c1756-4-per6
-            ls$residencia/sobral
+            mnoiva$maria monteiro/id=c1756-4-per6
+               ls$residencia/sobral
 
          test$pascoal francisco/id=c1756-4-per7
             ls$residencia/sobral
@@ -1340,9 +1340,9 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$antonio francisco/id=c1756-5-per4
+            pnoiva$antonio francisco/id=c1756-5-per4
 
-         mnoiva$josefa maria/id=c1756-5-per5
+            mnoiva$josefa maria/id=c1756-5-per5
 
          test$leandro gomes/id=c1756-5-per6
             ls$residencia/arelho
@@ -1358,18 +1358,18 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/vau
             ls$freguesia/nossa senhora de aboboriz, amoreira
 
-         pnoivo$sebastiao luis/id=c1756-6-per2
+            pnoivo$sebastiao luis/id=c1756-6-per2
 
-         mnoivo$maria dos santos/id=c1756-6-per3
+            mnoivo$maria dos santos/id=c1756-6-per3
 
          noiva$ana joaquina/id=c1756-6-per4
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
             ls$naturalidade/carregal/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$joao cordeiro/id=c1756-6-per5
+            pnoiva$joao cordeiro/id=c1756-6-per5
 
-         mnoiva$tomasia de jesus/id=c1756-6-per6
+            mnoiva$tomasia de jesus/id=c1756-6-per6
 
          test$manuel rodrigues/id=c1756-6-per7
             ls$residencia/carregal
@@ -1390,18 +1390,18 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia do senhor dos milagres
             ls$residencia/sobral da lagoa/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$antonio francisco/id=c1756-7-per2
+            pnoivo$antonio francisco/id=c1756-7-per2
 
-         mnoivo$isabel ferreira/id=c1756-7-per3
+            mnoivo$isabel ferreira/id=c1756-7-per3
 
          noiva$ana maria de jesus/id=c1756-7-per4
             ls$residencia/sobral
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose francisco/id=c1756-7-per5
+            pnoiva$jose francisco/id=c1756-7-per5
 
-         mnoiva$maria de jesus/id=c1756-7-per6
+            mnoiva$maria de jesus/id=c1756-7-per6
 
          test$luis diogo da silveira/id=c1756-7-per7
             ls$titulo/doutor
@@ -1421,19 +1421,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de santa maria
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$domingos rodrigues/id=c1756-8-per2
+            pnoivo$domingos rodrigues/id=c1756-8-per2
 
-         mnoivo$maria gomes/id=c1756-8-per3
-            ls$alcunha/a andrade
+            mnoivo$maria gomes/id=c1756-8-per3
+               ls$alcunha/a andrade
 
          noiva$ana maria/id=c1756-8-per4
             ls$naturalidade/sobral
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel pereira/id=c1756-8-per5
+            pnoiva$manuel pereira/id=c1756-8-per5
 
-         mnoiva$maria josefa/id=c1756-8-per6
+            mnoiva$maria josefa/id=c1756-8-per6
 
          test$manuel marques/id=c1756-8-per7
             ls$assina/sim
@@ -1449,18 +1449,18 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$alvaro rodrigues/id=c1756-9-per2
+            pnoivo$alvaro rodrigues/id=c1756-9-per2
 
-         mnoivo$inacia maria/id=c1756-9-per3
+            mnoivo$inacia maria/id=c1756-9-per3
 
          noiva$maria joaquina/id=c1756-9-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1756-9-per5
+            pnoiva$manuel francisco/id=c1756-9-per5
 
-         mnoiva$mariana do carmo/id=c1756-9-per6
+            mnoiva$mariana do carmo/id=c1756-9-per6
 
          test$felix da silva/id=c1756-9-per7
             ls$residencia/obidos
@@ -1478,29 +1478,29 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$antonio da fonseca/id=c1756-10-per2
-            ls$morto/antes
-            ls$residencia/sobral
-            ls$naturalidade/sobral
+            pnoivo$antonio da fonseca/id=c1756-10-per2
+               ls$morto/antes
+               ls$residencia/sobral
+               ls$naturalidade/sobral
 
-         mnoivo$clara maria/id=c1756-10-per3
-            ls$morta/antes
-            ls$residencia/sobral
-            ls$naturalidade/sobral
+            mnoivo$clara maria/id=c1756-10-per3
+               ls$morta/antes
+               ls$residencia/sobral
+               ls$naturalidade/sobral
 
          noiva$luzia maria/id=c1756-10-per4
             ls$residencia/sobral
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos francisco/id=c1756-10-per5
-            ls$morto/antes
-            ls$residencia/sobral
-            ls$naturalidade/sobral
+            pnoiva$domingos francisco/id=c1756-10-per5
+               ls$morto/antes
+               ls$residencia/sobral
+               ls$naturalidade/sobral
 
-         mnoiva$josefa maria/id=c1756-10-per6
-            ls$residencia/sobral
-            ls$naturalidade/sobral
+            mnoiva$josefa maria/id=c1756-10-per6
+               ls$residencia/sobral
+               ls$naturalidade/sobral
 
          test$manuel luis/id=c1756-10-per7
             ls$residencia/sobral
@@ -1517,21 +1517,21 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao leonardo, atouguia
             ls$locbaptismo/freguesia de sao leonardo, atouguia/obs=desobrigou-se a quaresma passada na freguesia de sao leonardo, atouguia
 
-         pnoivo$diogo da horta/id=c1756-11-per2
-            ls$morto/antes
+            pnoivo$diogo da horta/id=c1756-11-per2
+               ls$morto/antes
 
-         mnoivo$maria ferreira/id=c1756-11-per3
-            ls$morta/antes
+            mnoivo$maria ferreira/id=c1756-11-per3
+               ls$morta/antes
 
          noiva$mariana rosa/id=c1756-11-per4
             ls$naturalidade/bairro
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da ajuda, peniche
 
-         pnoiva$jose francisco/id=c1756-11-per5
-            ls$morto/antes
+            pnoiva$jose francisco/id=c1756-11-per5
+               ls$morto/antes
 
-         mnoiva$margarida maria/id=c1756-11-per6
+            mnoiva$margarida maria/id=c1756-11-per6
 
          test$jose francisco alcantara/id=c1756-11-per7
             ls$residencia/ribeira das caldas
@@ -1550,18 +1550,18 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/casal da figueira
             ls$freguesia/sao tiago
 
-         pnoivo$antonio de oliveira/id=c1756-12-per2
+            pnoivo$antonio de oliveira/id=c1756-12-per2
 
-         mnoivo$vitoria de faria/id=c1756-12-per3
+            mnoivo$vitoria de faria/id=c1756-12-per3
 
          noiva$rosa maria/id=c1756-12-per4
             ls$naturalidade/casal da figueira
             ls$residencia/casal da figueira
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoiva$francisco dias/id=c1756-12-per5
+            pnoiva$francisco dias/id=c1756-12-per5
 
-         mnoiva$maria francisca/id=c1756-12-per6
+            mnoiva$maria francisca/id=c1756-12-per6
 
          test$francisco martins/id=c1756-12-per7
             ls$residencia/casal da figueira
@@ -1578,20 +1578,20 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$jacinto rodrigues/id=c1757-1-per2
-            ls$morto/antes
+            pnoivo$jacinto rodrigues/id=c1757-1-per2
+               ls$morto/antes
 
-         mnoivo$maria ferreira/id=c1757-1-per3
+            mnoivo$maria ferreira/id=c1757-1-per3
 
          noiva$maria rosa/id=c1757-1-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel henriques/id=c1757-1-per5
-            ls$morto/antes
+            pnoiva$manuel henriques/id=c1757-1-per5
+               ls$morto/antes
 
-         mnoiva$maria lopes/id=c1757-1-per6
+            mnoiva$maria lopes/id=c1757-1-per6
 
          test$antonio laurentino de seixas/id=c1757-1-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -1611,10 +1611,10 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/bairro
 
-         pnoivo$manuel francisco/id=c1757-2-per2
-            ls$alcunha/o boa vida
+            pnoivo$manuel francisco/id=c1757-2-per2
+               ls$alcunha/o boa vida
 
-         mnoivo$damiana francisca/id=c1757-2-per3
+            mnoivo$damiana francisca/id=c1757-2-per3
 
          noiva$isabel teresa/id=c1757-2-per4
             ls$ec/viuva
@@ -1622,8 +1622,8 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/nossa senhora da conceicao
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         marido1$antonio de abreu/id=c1757-2-per5
-            ls$morto/antes
+            marido1$antonio de abreu/id=c1757-2-per5
+               ls$morto/antes
 
          test$manuel henriques/id=c1757-2-per6
             ls$residencia/bairro
@@ -1641,10 +1641,10 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             rel$parentesco/consanguinidade de quarto grau/ana maria/c1757-3-noiva/obs=os noivos foram despensados do consanguinidade de quarto grau
 
-         pnoivo$tomas luis/id=c1757-3-per2
-            ls$morto/antes
+            pnoivo$tomas luis/id=c1757-3-per2
+               ls$morto/antes
 
-         mnoivo$maria das virtudes/id=c1757-3-per3
+            mnoivo$maria das virtudes/id=c1757-3-per3
 
          noiva$ana maria/id=c1757-3-noiva
             ls$naturalidade/quinta da granja, limite de a da gorda
@@ -1652,10 +1652,10 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/santa maria/obs=desobrigou-se a quaresma passada na freguesia de santa maria
             ls$locbaptismo/freguesia de santa maria
 
-         pnoiva$andre antunes/id=c1757-3-per4
-            ls$morto/antes
+            pnoiva$andre antunes/id=c1757-3-per4
+               ls$morto/antes
 
-         mnoiva$maria lopes/id=c1757-3-per5
+            mnoiva$maria lopes/id=c1757-3-per5
 
          test$antonio correia manuel de aboim/id=c1757-3-per6
             ls$residencia/obidos
@@ -1677,20 +1677,20 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de santa maria da visitacao, alvorninha
             ls$residencia/praca de peniche/obs=desobrigou-se a quaresma passada em peniche
 
-         pnoivo$antonio rodrigues mariano/id=c1757-4-per2
+            pnoivo$antonio rodrigues mariano/id=c1757-4-per2
 
-         mnoivo$eva maria/id=c1757-4-per3
+            mnoivo$eva maria/id=c1757-4-per3
 
          noiva$josefa maria de sao jose/id=c1757-4-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos da silva/id=c1757-4-per5
-            ls$morto/antes
+            pnoiva$domingos da silva/id=c1757-4-per5
+               ls$morto/antes
 
-         mnoiva$clara maria/id=c1757-4-per6
-            ls$morta/antes
+            mnoiva$clara maria/id=c1757-4-per6
+               ls$morta/antes
 
          test$bernardo antonio/id=c1757-4-per7
             ls$residencia/tras do outeiro
@@ -1704,23 +1704,23 @@ kleio$gacto.str/prefix=sjoao
 
          noivo$antonio luis/id=c1757-5-per1
 
-         pnoivo$domingos luis/id=c1757-5-per2
-            ls$naturalidade/sobral
-            ls$residencia/sobral
-            ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se as quaresmas passadas na freguesia de sao joao
+            pnoivo$domingos luis/id=c1757-5-per2
+               ls$naturalidade/sobral
+               ls$residencia/sobral
+               ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se as quaresmas passadas na freguesia de sao joao
 
-         mnoivo$isabel francisca/id=c1757-5-per3
-            ls$morta/antes
+            mnoivo$isabel francisca/id=c1757-5-per3
+               ls$morta/antes
 
          noiva$joana maria/id=c1757-5-per4
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se as quaresmas passadas na freguesia de sao joao
 
-         pnoiva$manuel rodrigues/id=c1757-5-per5
-            ls$morto/antes
+            pnoiva$manuel rodrigues/id=c1757-5-per5
+               ls$morto/antes
 
-         mnoiva$catarina monteiro/id=c1757-5-per6
+            mnoiva$catarina monteiro/id=c1757-5-per6
 
          test$antonio laurentino de seixas/id=c1757-5-per7
             ls$assina/sim
@@ -1739,18 +1739,18 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se as quaresmas passadas na freguesia de sao joao
 
-         pnoivo$manuel nunes/id=c1757-6-per2
+            pnoivo$manuel nunes/id=c1757-6-per2
 
-         mnoivo$maria do espirito santo/id=c1757-6-per3
+            mnoivo$maria do espirito santo/id=c1757-6-per3
 
          noiva$paulina maria/id=c1757-6-per4
             ls$naturalidade/sobral da lagoa
             ls$residencia/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se as quaresmas passadas na freguesia de sao joao
 
-         pnoiva$francisco xavier/id=c1757-6-per5
+            pnoiva$francisco xavier/id=c1757-6-per5
 
-         mnoiva$josefa maria/id=c1757-6-per6
+            mnoiva$josefa maria/id=c1757-6-per6
 
          test$francisco de matos/id=c1757-6-per7
             ls$residencia/pinhal
@@ -1768,19 +1768,19 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/carregal/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$joao simoes/id=c1757-7-per2
-            ls$morto/antes
+            pnoivo$joao simoes/id=c1757-7-per2
+               ls$morto/antes
 
-         mnoivo$maria francisca/id=c1757-7-per3
+            mnoivo$maria francisca/id=c1757-7-per3
 
          noiva$maria das neves/id=c1757-7-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$francisco jorge/id=c1757-7-per5
+            pnoiva$francisco jorge/id=c1757-7-per5
 
-         mnoiva$catarina franca/id=c1757-7-per6
+            mnoiva$catarina franca/id=c1757-7-per6
 
          test$manuel viana/id=c1757-7-per7
             ls$residencia/arelho
@@ -1796,17 +1796,17 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/casal da chopa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel franco/id=c1757-8-per2
+            pnoivo$manuel franco/id=c1757-8-per2
 
-         mnoivo$antonia ferreira/id=c1757-8-per3
+            mnoivo$antonia ferreira/id=c1757-8-per3
 
          noiva$maria antunes/id=c1757-8-per4
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$antonio francisco/id=c1757-8-per5
+            pnoiva$antonio francisco/id=c1757-8-per5
 
-         mnoiva$maria antunes/id=c1757-8-per6
+            mnoiva$maria antunes/id=c1757-8-per6
 
          test$manuel viana/id=c1757-8-per7
             ls$assina/sim
@@ -1821,19 +1821,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/carregal
             ls$naturalidade/carregal/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$joao cordeiro/id=c1757-9-per2
+            pnoivo$joao cordeiro/id=c1757-9-per2
 
-         mnoivo$tomasia de jesus/id=c1757-9-per3
+            mnoivo$tomasia de jesus/id=c1757-9-per3
 
          noiva$ana do rosario/id=c1757-9-per4
             ls$residencia/arelho
             ls$naturalidade/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos da silva/id=c1757-9-per5
-            ls$morto/antes
+            pnoiva$domingos da silva/id=c1757-9-per5
+               ls$morto/antes
 
-         mnoiva$clara maria/id=c1757-9-per6
-            ls$morta/antes
+            mnoiva$clara maria/id=c1757-9-per6
+               ls$morta/antes
 
          test$manuel viana/id=c1757-9-per7
             ls$residencia/arelho
@@ -1849,19 +1849,19 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/freguesia de nossa senhora dos martires, serra do bouro
             ls$locbaptismo/freguesia de nossa senhora dos martires, serra do bouro/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora dos martires, serra do bouro
 
-         pnoivo$jose francisco/id=c1757-10-per2
+            pnoivo$jose francisco/id=c1757-10-per2
 
-         mnoivo$sebastiana maria/id=c1757-10-per3
+            mnoivo$sebastiana maria/id=c1757-10-per3
 
          noiva$joana maria/id=c1757-10-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$joao simoes/id=c1757-10-per5
-            ls$morto/antes
+            pnoiva$joao simoes/id=c1757-10-per5
+               ls$morto/antes
 
-         mnoiva$maria francisca/id=c1757-10-per6
+            mnoiva$maria francisca/id=c1757-10-per6
 
          test$jose francisco/id=c1757-10-per7
             ls$assina/sim
@@ -1877,19 +1877,19 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel marques/id=c1757-11-per2
+            pnoivo$manuel marques/id=c1757-11-per2
 
-         mnoivo$maria francisca/id=c1757-11-per3
+            mnoivo$maria francisca/id=c1757-11-per3
 
          noiva$josefa maria/id=c1757-11-per4
             ls$residencia/sobral da lagoa
             ls$naturalidade/sobral da lagoa
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$pascoal henriques/id=c1757-11-per5
+            pnoiva$pascoal henriques/id=c1757-11-per5
 
-         mnoiva$josefa pereira/id=c1757-11-per6
-            ls$morta/antes
+            mnoiva$josefa pereira/id=c1757-11-per6
+               ls$morta/antes
 
          test$jose francisco/id=c1757-11-per7
             ls$residencia/sobral
@@ -1906,19 +1906,19 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$jose joao/id=c1757-12-per2
+            pnoivo$jose joao/id=c1757-12-per2
 
-         mnoivo$maria henriques/id=c1757-12-per3
+            mnoivo$maria henriques/id=c1757-12-per3
 
          noiva$rosa maria/id=c1757-12-per4
             ls$residencia/arelho
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1757-12-per5
-            ls$morto/antes
+            pnoiva$manuel francisco/id=c1757-12-per5
+               ls$morto/antes
 
-         mnoiva$josefa da silva/id=c1757-12-per6
+            mnoiva$josefa da silva/id=c1757-12-per6
 
          test$manuel viana/id=c1757-12-per7
             ls$residencia/arelho
@@ -1943,8 +1943,8 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/arelho
             ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         marido1$jose antunes/id=c1758-1-per4
-            ls$morto/antes
+            marido1$jose antunes/id=c1758-1-per4
+               ls$morto/antes
 
          test$bernardo antonio/id=c1758-1-per5
             ls$residencia/tras do outeiro
@@ -1962,25 +1962,25 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/santo andre, vila de cela, coutos de alcobaca
             ls$locbaptismo/freguesia de santo andre, vila de cela, coutos de alcobaca
 
-         pnoivo$manuel rodrigues/id=c1758-2-per2
-            ls$morto/antes
-            ls$residencia/casal de jorge dias
-            ls$freguesia/santo andre, vila de cela, coutos de alcobaca
+            pnoivo$manuel rodrigues/id=c1758-2-per2
+               ls$morto/antes
+               ls$residencia/casal de jorge dias
+               ls$freguesia/santo andre, vila de cela, coutos de alcobaca
 
-         mnoivo$catarina madeira/id=c1758-2-per3
-            ls$residencia/casal de jorge dias
-            ls$freguesia/santo andre, vila de cela, coutos de alcobaca
+            mnoivo$catarina madeira/id=c1758-2-per3
+               ls$residencia/casal de jorge dias
+               ls$freguesia/santo andre, vila de cela, coutos de alcobaca
 
          noiva$maria francisca/id=c1758-2-per4
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se as quaresmas passadas na freguesia de sao joao
 
-         pnoiva$antonio francisco/id=c1758-2-per5
-            ls$morto/antes
-            ls$residencia/bairro
+            pnoiva$antonio francisco/id=c1758-2-per5
+               ls$morto/antes
+               ls$residencia/bairro
 
-         mnoiva$natalia francisca/id=c1758-2-per6
-            ls$residencia/bairro
+            mnoiva$natalia francisca/id=c1758-2-per6
+               ls$residencia/bairro
 
          test$jose rodrigues/id=c1758-2-per7
             ls$residencia/bairro
@@ -1998,9 +1998,9 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$francisco antunes/id=c1758-3-per2
+            pnoivo$francisco antunes/id=c1758-3-per2
 
-         mnoivo$sebastiana maria/id=c1758-3-per3
+            mnoivo$sebastiana maria/id=c1758-3-per3
 
          noiva$maria joaquina/id=c1758-3-per4
             ls$naturalidade/nadadouro
@@ -2008,10 +2008,10 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao tiago
             ls$residencia/casal da calcada/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoiva$manuel henriques/id=c1758-3-per5
-            ls$morto/antes
+            pnoiva$manuel henriques/id=c1758-3-per5
+               ls$morto/antes
 
-         mnoiva$antonia maria/id=c1758-3-per6
+            mnoiva$antonia maria/id=c1758-3-per6
 
          test$antonio laurentino de seixas/id=c1758-3-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -2029,19 +2029,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$joao luis/id=c1758-4-per2
-            ls$morto/antes
+            pnoivo$joao luis/id=c1758-4-per2
+               ls$morto/antes
 
-         mnoivo$teresa marques/id=c1758-4-per3
-            ls$morta/antes
+            mnoivo$teresa marques/id=c1758-4-per3
+               ls$morta/antes
 
          noiva$rita joaquina inacia/id=c1758-4-per4
             ls$residencia/sobral
             ls$locbaptismo/freguesia de santa maria/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel antonio/id=c1758-4-per5
+            pnoiva$manuel antonio/id=c1758-4-per5
 
-         mnoiva$teresa de jesus/id=c1758-4-per6
+            mnoiva$teresa de jesus/id=c1758-4-per6
 
          test$bernardo gomes henriques/id=c1758-4-per7
             ls$cargo/capitao
@@ -2060,20 +2060,20 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/freguesia de sao pedro
             ls$residencia/carvalhal/obs=desobrigou-se a quaresma passada na freguesia de sao pedro
 
-         pnoivo$jose gomes da costa/id=c1759-1-per2
-            ls$morto/antes
+            pnoivo$jose gomes da costa/id=c1759-1-per2
+               ls$morto/antes
 
-         mnoivo$antonia caetana/id=c1759-1-per3
+            mnoivo$antonia caetana/id=c1759-1-per3
 
          noiva$escolastica maria/id=c1759-1-per4
             ls$naturalidade/freguesia de sao joao
             ls$residencia/freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$valentim joao/id=c1759-1-per5
-            ls$morto/antes
+            pnoiva$valentim joao/id=c1759-1-per5
+               ls$morto/antes
 
-         mnoiva$catarina franco/id=c1759-1-per6
+            mnoiva$catarina franco/id=c1759-1-per6
 
          test$alexandre da silva/id=c1759-1-per7
             ls$residencia/casal dos curatos/obs=duvida na leitura do nome do casal
@@ -2092,17 +2092,17 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao tiago
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel antunes/id=c1759-2-per2
+            pnoivo$manuel antunes/id=c1759-2-per2
 
-         mnoivo$maria lopes/id=c1759-2-per3
+            mnoivo$maria lopes/id=c1759-2-per3
 
          noiva$genoveva joaquina/id=c1759-2-per4
             ls$naturalidade/bairro
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose francisco/id=c1759-2-per5
+            pnoiva$jose francisco/id=c1759-2-per5
 
-         mnoiva$josefa maria/id=c1759-2-per6
+            mnoiva$josefa maria/id=c1759-2-per6
 
          test$manuel francisco/id=c1759-2-per7
             ls$residencia/ribeira das caldas
@@ -2119,18 +2119,18 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/tras do outeiro
             ls$freguesia/sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$jose francisco/id=c1759-3-per2
+            pnoivo$jose francisco/id=c1759-3-per2
 
-         mnoivo$maria dos santos/id=c1759-3-per3
+            mnoivo$maria dos santos/id=c1759-3-per3
 
          noiva$francisca teresa/id=c1759-3-per4
             ls$naturalidade/freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel franco/id=c1759-3-per5
+            pnoiva$manuel franco/id=c1759-3-per5
 
-         mnoiva$antonia francisca/id=c1759-3-per6
+            mnoiva$antonia francisca/id=c1759-3-per6
 
          test$bernardo antonio/id=c1759-3-per7
             ls$residencia/tras do outeiro
@@ -2149,19 +2149,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel do rego/id=c1759-4-per2
+            pnoivo$manuel do rego/id=c1759-4-per2
 
-         mnoivo$inacia maria/id=c1759-4-per3
-            ls$morta/antes
+            mnoivo$inacia maria/id=c1759-4-per3
+               ls$morta/antes
 
          noiva$inacia maria/id=c1759-4-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$antonio francisco/id=c1759-4-per5
+            pnoiva$antonio francisco/id=c1759-4-per5
 
-         mnoiva$josefa maria/id=c1759-4-per6
+            mnoiva$josefa maria/id=c1759-4-per6
 
          test$jose rodrigues/id=c1759-4-per7
             ls$residencia/arelho
@@ -2178,24 +2178,24 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao tiago
             ls$residencia/tras do outeiro
 
-         pnoivo$antonio goncalves/id=c1759-5-per2
-            ls$morta/antes
-            ls$residencia/tras do outeiro
+            pnoivo$antonio goncalves/id=c1759-5-per2
+               ls$morta/antes
+               ls$residencia/tras do outeiro
 
-         mnoivo$rosa maria/id=c1759-5-per3
-            ls$morta/antes
-            ls$residencia/tras do outeiro
+            mnoivo$rosa maria/id=c1759-5-per3
+               ls$morta/antes
+               ls$residencia/tras do outeiro
 
          noiva$ana joaquina/id=c1759-5-per4
             ls$naturalidade/bairro
             ls$residencia/bairro
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel henriques/id=c1759-5-per5
-            ls$residencia/bairro
+            pnoiva$manuel henriques/id=c1759-5-per5
+               ls$residencia/bairro
 
-         mnoiva$maria da conceicao/id=c1759-5-per6
-            ls$residencia/bairro
+            mnoiva$maria da conceicao/id=c1759-5-per6
+               ls$residencia/bairro
 
          test$manuel ferreira/id=c1759-5-per7
             ls$residencia/tras do outeiro
@@ -2214,16 +2214,16 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$manuel nunes/id=c1759-6-per2
+            pnoivo$manuel nunes/id=c1759-6-per2
 
-         mnoivo$pascoa marques/id=c1759-6-per3
+            mnoivo$pascoa marques/id=c1759-6-per3
 
          noiva$rosa maria/id=c1759-6-per4
             ls$ec/viuva
             ls$residencia/arelho/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         marido1$leandro gomes/id=c1759-6-per5
-            ls$morto/antes
+            marido1$leandro gomes/id=c1759-6-per5
+               ls$morto/antes
 
          test$francisco gomes/id=c1759-6-per6
             ls$residencia/obidos
@@ -2240,21 +2240,21 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/freguesia de sao joao
             ls$residencia/carregal/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da conceicao, cadaval
 
-         pnoivo$jose rodrigues/id=c1759-7-per2
-            ls$residencia/carregal
+            pnoivo$jose rodrigues/id=c1759-7-per2
+               ls$residencia/carregal
 
-         mnoivo$josefa leal/id=c1759-7-per3
-            ls$residencia/carregal
+            mnoivo$josefa leal/id=c1759-7-per3
+               ls$residencia/carregal
 
          noiva$maria inacia/id=c1759-7-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel monteiro/id=c1759-7-per5
-            ls$morto/antes
+            pnoiva$manuel monteiro/id=c1759-7-per5
+               ls$morto/antes
 
-         mnoiva$domingas lopes/id=c1759-7-per6
+            mnoiva$domingas lopes/id=c1759-7-per6
 
          test$jose filipe dos reis/id=c1759-7-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -2273,20 +2273,20 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/carregal
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$antonio francisco/id=c1760-1-per2
-            ls$residencia/carregal
+            pnoivo$antonio francisco/id=c1760-1-per2
+               ls$residencia/carregal
 
-         mnoivo$maria antonia/id=c1760-1-per3
-            ls$residencia/carregal
+            mnoivo$maria antonia/id=c1760-1-per3
+               ls$residencia/carregal
 
          noiva$maria eugenia/id=c1760-1-per4
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$atanasio rodrigues/id=c1760-1-per5
+            pnoiva$atanasio rodrigues/id=c1760-1-per5
 
-         mnoiva$silvestra maria/id=c1760-1-per6
-            ls$morta/antes
+            mnoiva$silvestra maria/id=c1760-1-per6
+               ls$morta/antes
 
          test$jose filipe dos reis/id=c1760-1-per7
             ls$cargo/tesoureiro da igreja de sao joao
@@ -2305,21 +2305,21 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$pascoal da silva/id=c1760-2-per2
-            ls$morto/antes
+            pnoivo$pascoal da silva/id=c1760-2-per2
+               ls$morto/antes
 
-         mnoivo$josefa henriques/id=c1760-2-per3
-            ls$morta/antes
+            mnoivo$josefa henriques/id=c1760-2-per3
+               ls$morta/antes
 
          noiva$josefa maria/id=c1760-2-per4
             ls$residencia/carregal
             ls$naturalidade/carregal
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel luis/id=c1760-2-per5
+            pnoiva$manuel luis/id=c1760-2-per5
 
-         mnoiva$antonia francisca/id=c1760-2-per6
-            ls$morta/antes
+            mnoiva$antonia francisca/id=c1760-2-per6
+               ls$morta/antes
 
          test$jose da costa peixoto/id=c1760-2-per7
             ls$titulo/reverendo
@@ -2341,22 +2341,22 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$manuel francisco/id=c1760-3-per2
-            ls$residencia/ribeira das caldas
+            pnoivo$manuel francisco/id=c1760-3-per2
+               ls$residencia/ribeira das caldas
 
-         mnoivo$maria gomes/id=c1760-3-per3
-            ls$residencia/ribeira das caldas
+            mnoivo$maria gomes/id=c1760-3-per3
+               ls$residencia/ribeira das caldas
 
          noiva$josefa joaquina/id=c1760-3-per4
             ls$residencia/bairro
             ls$naturalidade/bairro/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel henriques/id=c1760-3-per5
-            ls$residencia/bairro
+            pnoiva$manuel henriques/id=c1760-3-per5
+               ls$residencia/bairro
 
-         mnoiva$maria da conceicao/id=c1760-3-per6
-            ls$residencia/bairro
+            mnoiva$maria da conceicao/id=c1760-3-per6
+               ls$residencia/bairro
 
          test$manuel joao/id=c1760-3-per7
             ls$residencia/carregal
@@ -2381,9 +2381,9 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose francisco/id=c1760-4-per4
+            pnoiva$jose francisco/id=c1760-4-per4
 
-         mnoiva$maria de jesus/id=c1760-4-per5
+            mnoiva$maria de jesus/id=c1760-4-per5
 
          test$antonio francisco/id=c1760-4-per6
             ls$residencia/casal da brogueira
@@ -2402,20 +2402,20 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             rel$parentesco/consanguinidade de quarto grau/helena maria/c1760-5-noiva/obs=os noivos foram despensados do consanguinidade de quarto grau
 
-         pnoivo$antonio luis/id=c1760-5-per2
-            ls$alcunha/o nobre
-            ls$morto/antes
+            pnoivo$antonio luis/id=c1760-5-per2
+               ls$alcunha/o nobre
+               ls$morto/antes
 
-         mnoivo$maria dos reis/id=c1760-5-per3
+            mnoivo$maria dos reis/id=c1760-5-per3
 
          noiva$helena maria/id=c1760-5-noiva
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel lopes/id=c1760-5-per4
+            pnoiva$manuel lopes/id=c1760-5-per4
 
-         mnoiva$maria margarida/id=c1760-5-per5
+            mnoiva$maria margarida/id=c1760-5-per5
 
          test$antonio lopes/id=c1760-5-per6
             ls$residencia/sobral
@@ -2431,19 +2431,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$joao francisco/id=c1760-6-per2
-            ls$morto/antes
+            pnoivo$joao francisco/id=c1760-6-per2
+               ls$morto/antes
 
-         mnoivo$luisa francisca/id=c1760-6-per3
+            mnoivo$luisa francisca/id=c1760-6-per3
 
          noiva$barbara do sacramento/id=c1760-6-per4
             ls$residencia/sobral
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1760-6-per5
+            pnoiva$manuel francisco/id=c1760-6-per5
 
-         mnoiva$doroteia maria/id=c1760-6-per6
+            mnoiva$doroteia maria/id=c1760-6-per6
 
          test$jose gomes do rego/id=c1760-6-per7
             ls$residencia/sobral

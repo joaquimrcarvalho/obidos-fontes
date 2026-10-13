@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$casamentos1576-1580/localizacao-a.d.l./freguesia de santa maria
 
       cas$c1576-1/5/2/1576/fl.59/ermida do espirito santo ("omde se agora celebram os officios divinos da obrigacam da ditta ygreja de sancta maria")/gaspar vicente/obs=assina gaspar vicente e enumera as testemunhas e acrescenta "e outros muitos"
@@ -9,9 +9,9 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$joana dias/id=c1576-1-per1-per2
 
-         pnoiva$antonio dias/id=c1576-1-per1-per3
+            pnoiva$antonio dias/id=c1576-1-per1-per3
 
-         mnoiva$isabel dias/id=c1576-1-per1-per4
+            mnoiva$isabel dias/id=c1576-1-per1-per4
 
          test$diogo fernandes monteiro/id=c1576-1-per5
 
@@ -27,10 +27,10 @@ kleio$gacto.str/prefix=stmaria
          noiva$maria fernandes/id=c1576-2-per1-per2
             ls$naturalidade/a da gorda
 
-         pnoiva$gaspar vicente/id=c1576-2-per1-per3
-            ls$morto/antes
+            pnoiva$gaspar vicente/id=c1576-2-per1-per3
+               ls$morto/antes
 
-         mnoiva$joana fernandes/id=c1576-2-per1-per4
+            mnoiva$joana fernandes/id=c1576-2-per1-per4
 
          test$diogo de freitas/id=c1576-2-per5
 
@@ -46,16 +46,16 @@ kleio$gacto.str/prefix=stmaria
          noivo$francisco dornelas/id=c1576-3-per1
             ls$residencia/obidos
 
-         mnoivo$ines fernandes/id=c1576-3-per2
-            ls$residencia/obidos
+            mnoivo$ines fernandes/id=c1576-3-per2
+               ls$residencia/obidos
 
          noiva$isabel lopes/id=c1576-3-per3
 
-         pnoiva$francisco lopes/id=c1576-3-per4
-            ls$naturalidade/cartaxo
+            pnoiva$francisco lopes/id=c1576-3-per4
+               ls$naturalidade/cartaxo
 
-         mnoiva$isabel fernandes/id=c1576-3-per5
-            ls$naturalidade/cartaxo
+            mnoiva$isabel fernandes/id=c1576-3-per5
+               ls$naturalidade/cartaxo
 
          test$manuel fernandes bulhao/id=c1576-3-per6
 
@@ -69,8 +69,8 @@ kleio$gacto.str/prefix=stmaria
          noiva$maria monteiro/id=c1577-1-per1-per2
             ls$residencia/a da gorda
 
-         pnoiva$diogo fernandes monteiro%di.o frz montr.o/id=c1577-1-per1-per3
-            ls$residencia/a da gorda
+            pnoiva$diogo fernandes monteiro%di.o frz montr.o/id=c1577-1-per1-per3
+               ls$residencia/a da gorda
 
          test$antonio alvares/id=c1577-1-per4
             ls$titulo/licenciado
@@ -83,15 +83,15 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$domingos lopes/id=c1577-2-per1
 
-         pnoivo$antonio machado/id=c1577-2-per2
-            ls$residencia/obidos
+            pnoivo$antonio machado/id=c1577-2-per2
+               ls$residencia/obidos
 
          noiva$maria henriques/id=c1577-2-per3
 
-         pnoiva$tome henriques/id=c1577-2-per4
+            pnoiva$tome henriques/id=c1577-2-per4
 
-         mnoiva$margarida antunes/id=c1577-2-per5
-            ls$morta/antes
+            mnoiva$margarida antunes/id=c1577-2-per5
+               ls$morta/antes
 
          test$jeronimo de avelar/id=c1577-2-per6
 
@@ -104,13 +104,13 @@ kleio$gacto.str/prefix=stmaria
          noivo$gaspar luis/id=c1577-3-per1
             ls$naturalidade/nadadouro
 
-         pnoivo$luis afonso%luis a.o/id=c1577-3-per2
-            ls$morto/antes
+            pnoivo$luis afonso%luis a.o/id=c1577-3-per2
+               ls$morto/antes
 
          noiva$leonor de lemos/id=c1577-3-per3
 
-         pnoiva$alvaro leal/id=c1577-3-per4
-            ls$morto/antes
+            pnoiva$alvaro leal/id=c1577-3-per4
+               ls$morto/antes
 
       cas$c1577-4/24/11/1577/fl.59v./igreja do espirito santo/gaspar vicente (cura)/obs=assina gaspar vicente inicia o registo dizendo "estando todo o povo junto e asy os irmaos da misericordia...e outros muytos" "o qual recebimento fiqua feito porque forao dotados na misericordia de lisboa e vinha o seu o mandado que fossem recebidos na misericordia de obidos"
 
@@ -158,7 +158,7 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$maria fernandes/id=c1578-2-per1-per2
 
-         pnoiva$fernao de alvares/id=c1578-2-per1-per3
+            pnoiva$fernao de alvares/id=c1578-2-per1-per3
 
          test$ascenso fernandes/id=c1578-2-per4
 
@@ -242,7 +242,7 @@ kleio$gacto.str/prefix=stmaria
             ls$condicao/escravo forro
             rel$profissional/escravo/maria garces/c1579-4-referida
 
-            referida$maria garces/id=c1579-4-referida
+         referida$maria garces/id=c1579-4-referida
 
          noiva$filipa farta/id=c1579-4-per1-per2
             ls$condicao/escrava
@@ -279,22 +279,22 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$pero fernandes%p.o frz/id=c1580-1-per1
 
-         pnoivo$antonio fernandes/id=c1580-1-per2
-            ls$profissao/pedreiro
+            pnoivo$antonio fernandes/id=c1580-1-per2
+               ls$profissao/pedreiro
 
-         mnoivo$maria lopes/id=c1580-1-per3
+            mnoivo$maria lopes/id=c1580-1-per3
 
          noiva$cecilia mendes/id=c1580-1-per4
 
-         pnoiva$andre mendes/id=c1580-1-per5
-            ls$morto/antes
-            ls$residencia/reguengo
-            ls$freguesia/cornaga
+            pnoiva$andre mendes/id=c1580-1-per5
+               ls$morto/antes
+               ls$residencia/reguengo
+               ls$freguesia/cornaga
 
-         mnoiva$catarina afonso/id=c1580-1-per6
-            ls$morta/antes
-            ls$residencia/reguengo
-            ls$freguesia/cornaga
+            mnoiva$catarina afonso/id=c1580-1-per6
+               ls$morta/antes
+               ls$residencia/reguengo
+               ls$freguesia/cornaga
 
          test$manuel correia botelho/id=c1580-1-per7
 
@@ -304,27 +304,27 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$manuel rodrigues/id=c1580-2-per1
 
-         pnoivo$rodrigo goncalves%r.o goncalvez/id=c1580-2-per2
-            ls$residencia/nabais
-            ls$freguesia/sao cosme
-            ls$bispado/coimbra
+            pnoivo$rodrigo goncalves%r.o goncalvez/id=c1580-2-per2
+               ls$residencia/nabais
+               ls$freguesia/sao cosme
+               ls$bispado/coimbra
 
-         mnoivo$maria fernandes/id=c1580-2-per3
-            ls$residencia/nabais
-            ls$freguesia/sao cosme
-            ls$bispado/coimbra
+            mnoivo$maria fernandes/id=c1580-2-per3
+               ls$residencia/nabais
+               ls$freguesia/sao cosme
+               ls$bispado/coimbra
 
          noiva$monquesa goncalves/obs=duvida na leitura do nome/id=c1580-2-per4
 
-         pnoiva$afonso goncalves%a.o glz/id=c1580-2-per5
-            ls$morto/antes
-            ls$residencia/ribeira de peniche
-            ls$freguesia/nossa senhora da ajuda
+            pnoiva$afonso goncalves%a.o glz/id=c1580-2-per5
+               ls$morto/antes
+               ls$residencia/ribeira de peniche
+               ls$freguesia/nossa senhora da ajuda
 
-         mnoiva$beatriz goncalves/id=c1580-2-per6
-            ls$morta/antes
-            ls$residencia/ribeira de peniche
-            ls$freguesia/nossa senhora da ajuda
+            mnoiva$beatriz goncalves/id=c1580-2-per6
+               ls$morta/antes
+               ls$residencia/ribeira de peniche
+               ls$freguesia/nossa senhora da ajuda
 
          referido$simao borges/id=c1580-2-per7
             ls$titulo/senhor
@@ -334,19 +334,19 @@ kleio$gacto.str/prefix=stmaria
 
          noivo$filipe dias/id=c1580-3-per1
 
-         pnoivo$bras dias/id=c1580-3-per2
-            ls$residencia/obidos
+            pnoivo$bras dias/id=c1580-3-per2
+               ls$residencia/obidos
 
-         mnoivo$maria fernandes/id=c1580-3-per3
-            ls$residencia/obidos
+            mnoivo$maria fernandes/id=c1580-3-per3
+               ls$residencia/obidos
 
          noiva$margarida ribeiro/id=c1580-3-per4
 
-         pnoiva$fernao ribeiro/id=c1580-3-per5
-            ls$residencia/freguesia de santa maria
+            pnoiva$fernao ribeiro/id=c1580-3-per5
+               ls$residencia/freguesia de santa maria
 
-         mnoiva$cecilia fernandes/id=c1580-3-per6
-            ls$residencia/freguesia de santa maria
+            mnoiva$cecilia fernandes/id=c1580-3-per6
+               ls$residencia/freguesia de santa maria
 
          test$jeronimo de avelar/id=c1580-3-per7
 
@@ -360,13 +360,13 @@ kleio$gacto.str/prefix=stmaria
             ls$condicao/escravo
             rel$profissional/escravo/francisco fernandes/c1580-4-referido/obs="imdio de nacam e avia muytos tempos que estava em portugal escravo que foy de francisco fernandez moradora nesta villa"
 
-            referido$francisco fernandes/id=c1580-4-referido
-               ls$residencia/obidos
+         referido$francisco fernandes/id=c1580-4-referido
+            ls$residencia/obidos
 
          noiva$isabel dornelas/id=c1580-4-per1-per2
 
-         mnoiva$ines fernandes/id=c1580-4-per1-per3
-            ls$residencia/freguesia de santa maria
+            mnoiva$ines fernandes/id=c1580-4-per1-per3
+               ls$residencia/freguesia de santa maria
 
          test$lopo vaz de melo/id=c1580-4-per4
             ls$residencia/obidos
@@ -384,8 +384,8 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$catarina fernandes/id=c1580-5-per1-per2
 
-         pnoiva$afonso fernandes/id=c1580-5-per1-per3
-            ls$residencia/a da gorda
+            pnoiva$afonso fernandes/id=c1580-5-per1-per3
+               ls$residencia/a da gorda
 
          test$bartolomeu francisco/id=c1580-5-per4
 

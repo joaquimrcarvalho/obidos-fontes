@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=sjoao
+kleio$gacto.str/prefix=sjoao/translations=1
    fonte$casamentos1738-1739/localizacao-a.d.l./freguesia de sao joao
 
       cas$c1738-1/15/1/1738/fl.88/igreja de sao joao baptista do mocharro/bras antunes correia (prior da igreja de sao joao)/obs=assina o prior bras antunes correia. o casamento foi realizado de manha
@@ -8,21 +8,21 @@ kleio$gacto.str/prefix=sjoao
             ls$profissao/soldado da praca de peniche
             rel$parentesco/consanguinidade de quarto grau/francisca maria rodrigues/c1738-1-noiva/obs=foram dispensados do consanguinidade de quarto grau
 
-         pnoivo$manuel luis/id=c1738-1-per2
-            ls$alcunha/o soldado
+            pnoivo$manuel luis/id=c1738-1-per2
+               ls$alcunha/o soldado
 
-         mnoivo$mariana henriques/id=c1738-1-per3
-            ls$morta/antes
+            mnoivo$mariana henriques/id=c1738-1-per3
+               ls$morta/antes
 
          noiva$francisca maria rodrigues/id=c1738-1-noiva
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos rodrigues/id=c1738-1-per4
-            ls$morto/antes
+            pnoiva$domingos rodrigues/id=c1738-1-per4
+               ls$morto/antes
 
-         mnoiva$maria gomes/id=c1738-1-per5
-            ls$alcunha/a andrade
+            mnoiva$maria gomes/id=c1738-1-per5
+               ls$alcunha/a andrade
 
          test$antonio soares/id=c1738-1-per6
             ls$profissao/padre
@@ -42,19 +42,19 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/freguesia de sao martinho, coutos de alcobaca
             ls$locbaptismo/freguesia de sao martinho, coutos de alcobaca/obs=desobrigou-se a quaresma passada na freguesia de sao martinho, coutos de alcobaca
 
-         pnoivo$domingos viana/id=c1738-2-per2
+            pnoivo$domingos viana/id=c1738-2-per2
 
-         mnoivo$isabel de avelar/id=c1738-2-per3
+            mnoivo$isabel de avelar/id=c1738-2-per3
 
          noiva$ana maria/id=c1738-2-per4
             ls$naturalidade/arelho
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1738-2-per5
-            ls$morto/antes
+            pnoiva$manuel francisco/id=c1738-2-per5
+               ls$morto/antes
 
-         mnoiva$isabel da silva/id=c1738-2-per6
+            mnoiva$isabel da silva/id=c1738-2-per6
 
          test$agostinho rodrigues/id=c1738-2-per7
             ls$assina/cruz
@@ -71,19 +71,19 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/nossa senhora de aboboriz, amoreira
             ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora de aboboriz, amoreira
 
-         pnoivo$antonio da silva/id=c1738-3-per2
+            pnoivo$antonio da silva/id=c1738-3-per2
 
-         mnoivo$maria de jesus/id=c1738-3-per3
+            mnoivo$maria de jesus/id=c1738-3-per3
 
          noiva$luisa maria/id=c1738-3-per4
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose monteiro/id=c1738-3-per5
-            ls$morto/antes
+            pnoiva$jose monteiro/id=c1738-3-per5
+               ls$morto/antes
 
-         mnoiva$maria fonseca/id=c1738-3-per6
-            ls$ec/viuva
+            mnoiva$maria fonseca/id=c1738-3-per6
+               ls$ec/viuva
 
          test$antonio soares/id=c1738-3-per7
             ls$profissao/padre
@@ -103,18 +103,18 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$domingos goncalves/id=c1738-4-per2
+            pnoivo$domingos goncalves/id=c1738-4-per2
 
-         mnoivo$antonia monteiro/id=c1738-4-per3
+            mnoivo$antonia monteiro/id=c1738-4-per3
 
          noiva$escolastica maria/id=c1738-4-per4
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$domingos gomes/id=c1738-4-per5
+            pnoiva$domingos gomes/id=c1738-4-per5
 
-         mnoiva$isabel do rego/id=c1738-4-per6
+            mnoiva$isabel do rego/id=c1738-4-per6
 
          test$antonio soares/id=c1738-4-per7
             ls$profissao/padre
@@ -135,11 +135,11 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$amaro francisco/id=c1738-5-per2
-            ls$morto/antes
+            pnoivo$amaro francisco/id=c1738-5-per2
+               ls$morto/antes
 
-         mnoivo$teresa maria/id=c1738-5-per3
-            ls$ec/viuva
+            mnoivo$teresa maria/id=c1738-5-per3
+               ls$ec/viuva
 
          noiva$josefa maria/id=c1738-5-per4
             ls$naturalidade/coutada
@@ -147,13 +147,13 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de sao pedro do cadeira, termo de torres vedras
             ls$residencia/carregal/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel antunes/id=c1738-5-per5
-            ls$residencia/coutada
-            ls$freguesia/sao pedro da cadeira, termo de torres vedras
+            pnoiva$manuel antunes/id=c1738-5-per5
+               ls$residencia/coutada
+               ls$freguesia/sao pedro da cadeira, termo de torres vedras
 
-         mnoiva$domingas francisca/id=c1738-5-per6
-            ls$residencia/coutada
-            ls$freguesia/sao pedro da cadeira, termo de torres vedras
+            mnoiva$domingas francisca/id=c1738-5-per6
+               ls$residencia/coutada
+               ls$freguesia/sao pedro da cadeira, termo de torres vedras
 
          test$antonio soares/id=c1738-5-per7
             ls$profissao/padre
@@ -171,19 +171,19 @@ kleio$gacto.str/prefix=sjoao
             ls$cargo/soldado do regimento de peniche
             ls$locbaptismo/freguesia de sao silvestre, a dos francos/obs=desobrigou-se a quaresma passada na freguesia de nossa senhora da ajuda, peniche
 
-         pnoivo$joao da fonseca/id=c1738-6-per2
+            pnoivo$joao da fonseca/id=c1738-6-per2
 
-         mnoivo$ana teresa/id=c1738-6-per3
+            mnoivo$ana teresa/id=c1738-6-per3
 
          noiva$mariana da conceicao/id=c1738-6-per4
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel de barros/id=c1738-6-per5
-            ls$morto/antes
+            pnoiva$manuel de barros/id=c1738-6-per5
+               ls$morto/antes
 
-         mnoiva$domingas henriques/id=c1738-6-per6
-            ls$morta/antes
+            mnoiva$domingas henriques/id=c1738-6-per6
+               ls$morta/antes
 
          test$jose correia manuel de aboim/id=c1738-6-per7
             ls$assina/sim
@@ -203,22 +203,22 @@ kleio$gacto.str/prefix=sjoao
             ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoivo$roque pereira/id=c1738-7-per2
-            ls$morto/antes
+            pnoivo$roque pereira/id=c1738-7-per2
+               ls$morto/antes
 
-         mnoivo$simoa ?teiro/id=c1738-7-per3
-            ls$morta/antes
+            mnoivo$simoa ?teiro/id=c1738-7-per3
+               ls$morta/antes
 
          noiva$teresa maria/id=c1738-7-per4
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$gaspar fernandes/id=c1738-7-per5
-            ls$morto/antes
+            pnoiva$gaspar fernandes/id=c1738-7-per5
+               ls$morto/antes
 
-         mnoiva$ana francisca/id=c1738-7-per6
-            ls$morta/antes
+            mnoiva$ana francisca/id=c1738-7-per6
+               ls$morta/antes
 
          test$antonio soares/id=c1738-7-per7
             ls$profissao/padre
@@ -238,18 +238,18 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/freguesia de nossa senhora de aboboriz, amoreira
             ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
 
-         pnoivo$manuel da cunha/id=c1738-8-per2
-            ls$morto/antes
+            pnoivo$manuel da cunha/id=c1738-8-per2
+               ls$morto/antes
 
-         mnoivo$antonia teixeira/id=c1738-8-per3
+            mnoivo$antonia teixeira/id=c1738-8-per3
 
          noiva$ursula maria/id=c1738-8-per4
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel simoes/id=c1738-8-per5
+            pnoiva$manuel simoes/id=c1738-8-per5
 
-         mnoiva$maria francisca/id=c1738-8-per6
+            mnoiva$maria francisca/id=c1738-8-per6
 
          test$antonio soares/id=c1738-8-per7
             ls$profissao/padre
@@ -268,19 +268,19 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/nossa senhora de aboboriz, amoreira
             ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
 
-         pnoivo$? ?/id=c1738-9-per2
+            pnoivo$? ?/id=c1738-9-per2
 
-         mnoivo$maria de jesus/id=c1738-9-per3
+            mnoivo$maria de jesus/id=c1738-9-per3
 
          noiva$josefa maria/id=c1738-9-per4
             ls$naturalidade/sobral
             ls$residencia/sobral
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$jose monteiro/id=c1738-9-per5
-            ls$morto/antes
+            pnoiva$jose monteiro/id=c1738-9-per5
+               ls$morto/antes
 
-         mnoiva$maria francisca/id=c1738-9-per6
+            mnoiva$maria francisca/id=c1738-9-per6
 
          test$antonio da fonseca/id=c1738-9-per7
             ls$titulo/reverendo
@@ -299,20 +299,20 @@ kleio$gacto.str/prefix=sjoao
             ls$freguesia/sao tiago
             ls$locbaptismo/freguesia de sao tiago/obs=desobrigou-se a quaresma passada na freguesia de sao tiago
 
-         pnoivo$? francisco/id=c1739-1-per2
-            ls$morto/antes
+            pnoivo$? francisco/id=c1739-1-per2
+               ls$morto/antes
 
-         mnoivo$teresa maria?/id=c1739-1-per3
-            ls$ec/viuva
+            mnoivo$teresa maria?/id=c1739-1-per3
+               ls$ec/viuva
 
          noiva$maria antonia/id=c1739-1-per4
             ls$naturalidade/carregal
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
 
-         pnoiva$antonio joao/id=c1739-1-per5
+            pnoiva$antonio joao/id=c1739-1-per5
 
-         mnoiva$maria rodrigues/id=c1739-1-per6
+            mnoiva$maria rodrigues/id=c1739-1-per6
 
          test$antonio soares/id=c1739-1-per7
             ls$cargo/tesoureiro daigreja de sao joao
@@ -336,19 +336,19 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/amoreira
             ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
 
-         pnoivo$manuel de oliveira/id=c1739-2-per2
+            pnoivo$manuel de oliveira/id=c1739-2-per2
 
-         mnoivo$? do espirito santo/id=c1739-2-per3
+            mnoivo$? do espirito santo/id=c1739-2-per3
 
          noiva$rosalia maria/id=c1739-2-per4
             ls$naturalidade/sobral
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/sobral/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$luis botelho/id=c1739-2-per5
-            ls$morto/antes
+            pnoiva$luis botelho/id=c1739-2-per5
+               ls$morto/antes
 
-         mnoiva$maria leitoa/id=c1739-2-per6
+            mnoiva$maria leitoa/id=c1739-2-per6
 
          test$francisco manuel de sisneiros vasconcelos girao/id=c1739-2-per7
             ls$titulo/dom
@@ -368,20 +368,20 @@ kleio$gacto.str/prefix=sjoao
             ls$cargo/soldado do regimento de peniche
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao pedro, peniche
 
-         pnoivo$francisco da silva/id=c1739-3-per2
-            ls$morto/antes
+            pnoivo$francisco da silva/id=c1739-3-per2
+               ls$morto/antes
 
-         mnoivo$maria luis/id=c1739-3-per3
-            ls$residencia/arelho
+            mnoivo$maria luis/id=c1739-3-per3
+               ls$residencia/arelho
 
          noiva$joaquina josefa/id=c1739-3-per4
             ls$naturalidade/casal da figueira
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/freguesia de sao joao
 
-         pnoiva$francisco ?/id=c1739-3-per5
+            pnoiva$francisco ?/id=c1739-3-per5
 
-         mnoiva$maria francisca/id=c1739-3-per6
+            mnoiva$maria francisca/id=c1739-3-per6
 
          test$lourenco correia da costa/id=c1739-3-per7
             ls$cargo/padre da igreja de sao joao
@@ -398,19 +398,19 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/nadadouro/obs=duvida na leitura da naturalidade
             ls$residencia/nadadouro/obs=duvida na leitura da residencia
 
-         pnoivo$antonio dos santos/id=c1739-4-per2
+            pnoivo$antonio dos santos/id=c1739-4-per2
 
-         mnoivo$maria ?/id=c1739-4-per3
+            mnoivo$maria ?/id=c1739-4-per3
 
          noiva$josefa maria/id=c1739-4-per4
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$? rodrigues/id=c1739-4-per5
-            ls$residencia/arelho
+            pnoiva$? rodrigues/id=c1739-4-per5
+               ls$residencia/arelho
 
-         mnoiva$maria ferreira/id=c1739-4-per6
-            ls$residencia/arelho
+            mnoiva$maria ferreira/id=c1739-4-per6
+               ls$residencia/arelho
 
          test$pedro antunes correia/id=c1739-4-per7
             ls$profissao/padre
@@ -436,9 +436,9 @@ kleio$gacto.str/prefix=sjoao
             ls$naturalidade/arelho
             ls$locbaptismo/freguesia de sao joao/obs=desobrigou-se a quaresma passada na freguesia de sao joao
 
-         pnoiva$manuel francisco/id=c1739-5-per4
+            pnoiva$manuel francisco/id=c1739-5-per4
 
-         mnoiva$teresa marques/id=c1739-5-per5
+            mnoiva$teresa marques/id=c1739-5-per5
 
          test$antonio soares/id=c1739-5-per6
             ls$profissao/padre
@@ -460,20 +460,20 @@ kleio$gacto.str/prefix=sjoao
             mulher1$?nia maria/id=c1739-6-per1-per2
                ls$morta/antes
 
-         pnoivo$pe?/id=c1739-6-per3
+            pnoivo$pe?/id=c1739-6-per3
 
-         mnoivo$francisca fanheira/id=c1739-6-per4
+            mnoivo$francisca fanheira/id=c1739-6-per4
 
          noiva$maria henriques/id=c1739-6-per5
             ls$residencia/carregal
             ls$locbaptismo/freguesia de sao joao
             ls$residencia/freguesia de sao joao
 
-         pnoiva$francisco goncalves/id=c1739-6-per6
-            ls$morto/antes
+            pnoiva$francisco goncalves/id=c1739-6-per6
+               ls$morto/antes
 
-         mnoiva$maria henriques/id=c1739-6-per7
-            ls$ec/viuva
+            mnoiva$maria henriques/id=c1739-6-per7
+               ls$ec/viuva
 
          test$antonio soares/id=c1739-6-per8
             ls$profissao/padre
@@ -492,11 +492,11 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         pnoivo$manuel franco/id=c1739-7-per2
-            ls$morto/antes
+            pnoivo$manuel franco/id=c1739-7-per2
+               ls$morto/antes
 
-         mnoivo$? ?/id=c1739-7-per3
-            ls$morta/antes
+            mnoivo$? ?/id=c1739-7-per3
+               ls$morta/antes
 
          noiva$damiana ?/id=c1739-7-per4
             ls$ec/viuva
@@ -504,8 +504,8 @@ kleio$gacto.str/prefix=sjoao
             ls$residencia/arelho
             ls$locbaptismo/freguesia de sao joao
 
-         marido1$leandro da silva/id=c1739-7-per5
-            ls$morto/antes
+            marido1$leandro da silva/id=c1739-7-per5
+               ls$morto/antes
 
          test$antonio soares/id=c1739-7-per6
             ls$profissao/padre

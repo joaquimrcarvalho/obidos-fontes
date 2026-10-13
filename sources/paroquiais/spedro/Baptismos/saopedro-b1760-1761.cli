@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=spedro
+kleio$gacto.str/prefix=spedro/translations=1
    fonte$baptismos1760-1761/localizacao-a.d.l./freguesia de sao pedro
 
       bap$b1760-1/1/1/1760/fl.59v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
@@ -6,1483 +6,1483 @@ kleio$gacto.str/prefix=spedro
          n$francisco/m/id=b1760-1-per1
             ls$datanasc/17591223
 
-         pn$antonio gomes/id=b1760-1-per2
-            ls$residencia/arrabalde
+            pn$antonio gomes/id=b1760-1-per2
+               ls$residencia/arrabalde
 
-         ppn$joao gomes/id=b1760-1-per3
-            ls$naturalidade/aguiar da beira, freguesia do santissimo sacramento
+               ppn$joao gomes/id=b1760-1-per3
+                  ls$naturalidade/aguiar da beira, freguesia do santissimo sacramento
 
-         mpn$maria gomes/id=b1760-1-per4
-            ls$naturalidade/aguiar da beira, freguesia do santissimo sacramento
+               mpn$maria gomes/id=b1760-1-per4
+                  ls$naturalidade/aguiar da beira, freguesia do santissimo sacramento
 
-         mn$ines maria/id=b1760-1-per5
-            ls$residencia/arrabalde
+            mn$ines maria/id=b1760-1-per5
+               ls$residencia/arrabalde
 
-         pmn$francisco da silva/id=b1760-1-per6
-            ls$naturalidade/alcobaca
+               pmn$francisco da silva/id=b1760-1-per6
+                  ls$naturalidade/alcobaca
 
-         mmn$benta gomes/id=b1760-1-per7
-            ls$naturalidade/alcobaca
+               mmn$benta gomes/id=b1760-1-per7
+                  ls$naturalidade/alcobaca
 
-         pad1$francisco dinis monteiro/id=b1760-1-per8
-            ls$residencia/obidos
+            pad1$francisco dinis monteiro/id=b1760-1-per8
+               ls$residencia/obidos
 
       bap$b1760-2/18/1/1760/fl.60/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$henrique/m/id=b1760-2-n
             ls$enjeitado/sim/obs="ingeitado do conselho desta vila...o qual foi achado aos quatorze do dito mes a porta de joao vicente dos cazaes da penhoa lemite do lugar da mouta, e o cria thareza maria molher de bernardino da sylva do lugar das gaeiras deste termo por ordem do concelho desta vila de que he procurador henrique da silva"
 
-         pn$nome desconhecido/id=b1760-2-per1
+            pn$nome desconhecido/id=b1760-2-per1
 
-         mn$nome desconhecido/id=b1760-2-per2
+            mn$nome desconhecido/id=b1760-2-per2
 
-         referido$joao vicente/id=b1760-2-per3
-            ls$residencia/casais da penhoa, limite do lugar da mouta
-            rel$sociabilidade/achou a crianca/henrique/b1760-2-n
+            referido$joao vicente/id=b1760-2-per3
+               ls$residencia/casais da penhoa, limite do lugar da mouta
+               rel$sociabilidade/achou a crianca/henrique/b1760-2-n
 
-         referida$teresa maria/id=b1760-2-referida
-            ls$residencia/gaeiras
-            rel$sociabilidade/ama/henrique/b1760-2-n
+            referida$teresa maria/id=b1760-2-referida
+               ls$residencia/gaeiras
+               rel$sociabilidade/ama/henrique/b1760-2-n
 
-         referido$bernardino da silva/id=b1760-2-per4
-            ls$residencia/gaeiras
-            rel$parentesco/marido/teresa maria/b1760-2-referida
+            referido$bernardino da silva/id=b1760-2-per4
+               ls$residencia/gaeiras
+               rel$parentesco/marido/teresa maria/b1760-2-referida
 
-         referido$henrique da silva/id=b1760-2-per5
-            ls$cargo/procurador do concelho
+            referido$henrique da silva/id=b1760-2-per5
+               ls$cargo/procurador do concelho
 
       bap$b1760-3/28/1/1760/fl.60-60v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$genoveva/f/id=b1760-3-per1
             ls$datanasc/17600121
 
-         pn$sebastiao da silva/id=b1760-3-per2
-            ls$naturalidade/marrazes, freguesia de sao tiago do arrabalde da ponte
-            ls$bispado/leiria
-            ls$locbaptismo/freguesia de sao tiago do arrabalde da ponte
-            ls$loccasamento/freguesia de sao pedro
+            pn$sebastiao da silva/id=b1760-3-per2
+               ls$naturalidade/marrazes, freguesia de sao tiago do arrabalde da ponte
+               ls$bispado/leiria
+               ls$locbaptismo/freguesia de sao tiago do arrabalde da ponte
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$manuel francisco/id=b1760-3-per3
-            ls$naturalidade/pinheiros, freguesia de sao tiago do arrabalde da ponte
-            ls$bispado/leiria
-            ls$loccasamento/freguesia de sao tiago do arrabalde da ponte
+               ppn$manuel francisco/id=b1760-3-per3
+                  ls$naturalidade/pinheiros, freguesia de sao tiago do arrabalde da ponte
+                  ls$bispado/leiria
+                  ls$loccasamento/freguesia de sao tiago do arrabalde da ponte
 
-         mpn$maria de oliveira/id=b1760-3-per4
-            ls$naturalidade/marrazes, freguesia de sao tiago do arrabalde da ponte
-            ls$bispado/leiria
-            ls$locbaptismo/freguesia de sao tiago do arrabalde da ponte
-            ls$loccasamento/freguesia de sao tiago do arrabalde da ponte
+               mpn$maria de oliveira/id=b1760-3-per4
+                  ls$naturalidade/marrazes, freguesia de sao tiago do arrabalde da ponte
+                  ls$bispado/leiria
+                  ls$locbaptismo/freguesia de sao tiago do arrabalde da ponte
+                  ls$loccasamento/freguesia de sao tiago do arrabalde da ponte
 
-         mn$maria ferreira/id=b1760-3-per5
-            ls$naturalidade/casal do mosteiro
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria ferreira/id=b1760-3-per5
+               ls$naturalidade/casal do mosteiro
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$sebastiao da silva/id=b1760-3-per6
-            ls$naturalidade/casal do mosteiro
-            ls$loccasamento/freguesia de sao sebastiao do vimeiro, coutos de alcobaca
+               pmn$sebastiao da silva/id=b1760-3-per6
+                  ls$naturalidade/casal do mosteiro
+                  ls$loccasamento/freguesia de sao sebastiao do vimeiro, coutos de alcobaca
 
-         mmn$maria ferreira/id=b1760-3-per7
-            ls$naturalidade/gaio
-            ls$freguesia/sao sebastiao do vimeiro, coutos de alcobaca
-            ls$locbaptismo/freguesia de sao sebastiao do vimeiro, coutos de alcobaca
-            ls$loccasamento/freguesia de sao sebastiao do vimeiro, coutos de alcobaca
+               mmn$maria ferreira/id=b1760-3-per7
+                  ls$naturalidade/gaio
+                  ls$freguesia/sao sebastiao do vimeiro, coutos de alcobaca
+                  ls$locbaptismo/freguesia de sao sebastiao do vimeiro, coutos de alcobaca
+                  ls$loccasamento/freguesia de sao sebastiao do vimeiro, coutos de alcobaca
 
-         pad1$antonio jose/id=b1760-3-per8
-            ls$residencia/gaeiras
+            pad1$antonio jose/id=b1760-3-per8
+               ls$residencia/gaeiras
 
-         mad1$maria dos santos/id=b1760-3-per9
-            ls$residencia/gaeiras
+            mad1$maria dos santos/id=b1760-3-per9
+               ls$residencia/gaeiras
 
       bap$b1760-4/17/2/1760/fl.60v./igreja de sao pedro/jose moreira (padre, cura, coadjutor da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$joao paulo/m/id=b1760-4-n
             ls$enjeitado/sim/obs="o qual foi achado a des do dito mes no lugar da delgada deste termo a porta de paulo de souza do dito lugar e se deu a criar a francisca maria molher de antonio nunes do dito lugar por ordem do concelho desta vila de que he procurador henrique da silva"
 
-         pn$nome desconhecido/id=b1760-4-per1
+            pn$nome desconhecido/id=b1760-4-per1
 
-         mn$nome desconhecido/id=b1760-4-per2
+            mn$nome desconhecido/id=b1760-4-per2
 
-         pad1$narciso jose/id=b1760-4-per3
-            ls$cargo/tesoureiro da igreja de sao pedro
-            ls$profissao/padre
+            pad1$narciso jose/id=b1760-4-per3
+               ls$cargo/tesoureiro da igreja de sao pedro
+               ls$profissao/padre
 
-         mad1$maria teresa/id=b1760-4-per4
-            ls$residencia/delgada
+            mad1$maria teresa/id=b1760-4-per4
+               ls$residencia/delgada
 
-         referido$paulo de sousa/id=b1760-4-per5
-            ls$residencia/delgada
-            rel$sociabilidade/achou a crianca/joao paulo/b1760-4-n
+            referido$paulo de sousa/id=b1760-4-per5
+               ls$residencia/delgada
+               rel$sociabilidade/achou a crianca/joao paulo/b1760-4-n
 
-         referida$francisca maria/id=b1760-4-referida
-            ls$residencia/delgada
-            rel$sociabilidade/ama/joao paulo/b1760-4-n
+            referida$francisca maria/id=b1760-4-referida
+               ls$residencia/delgada
+               rel$sociabilidade/ama/joao paulo/b1760-4-n
 
-         referido$antonio nunes/id=b1760-4-per6
-            ls$residencia/delgada
-            rel$parentesco/marido/francisca maria/b1760-4-referida
+            referido$antonio nunes/id=b1760-4-per6
+               ls$residencia/delgada
+               rel$parentesco/marido/francisca maria/b1760-4-referida
 
-         referido$henrique da silva/id=b1760-4-per7
-            ls$cargo/procurador do concelho
+            referido$henrique da silva/id=b1760-4-per7
+               ls$cargo/procurador do concelho
 
       bap$b1760-5/17/2/1760/fl.60v.-61/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$maria da conceicao/f/id=b1760-5-per1
             ls$datanasc/17600209
 
-         pn$antonio henriques/id=b1760-5-per2
-            ls$alcunha/o mouro
-            ls$naturalidade/obidos, freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
+            pn$antonio henriques/id=b1760-5-per2
+               ls$alcunha/o mouro
+               ls$naturalidade/obidos, freguesia de santa maria
+               ls$locbaptismo/freguesia de santa maria
 
-         ppn$joao henriques/id=b1760-5-per3
-            ls$alcunha/o mouro
-            ls$loccasamento/freguesia de santa maria
+               ppn$joao henriques/id=b1760-5-per3
+                  ls$alcunha/o mouro
+                  ls$loccasamento/freguesia de santa maria
 
-         mpn$antonia maria/id=b1760-5-per4
-            ls$loccasamento/freguesia de santa maria
+               mpn$antonia maria/id=b1760-5-per4
+                  ls$loccasamento/freguesia de santa maria
 
-         mn$escolastica maria/id=b1760-5-per5
-            ls$naturalidade/freguesia de nossa senhora dos anjos, coto
-            ls$locbaptismo/freguesia de nossa senhora dos anjos, coto
+            mn$escolastica maria/id=b1760-5-per5
+               ls$naturalidade/freguesia de nossa senhora dos anjos, coto
+               ls$locbaptismo/freguesia de nossa senhora dos anjos, coto
 
-         pmn$manuel luis/id=b1760-5-per6
-            ls$naturalidade/porto de mos
-            ls$bispado/leiria
-            ls$loccasamento/freguesia de nossa senhora dos anjos, coto
+               pmn$manuel luis/id=b1760-5-per6
+                  ls$naturalidade/porto de mos
+                  ls$bispado/leiria
+                  ls$loccasamento/freguesia de nossa senhora dos anjos, coto
 
-         mmn$maria teresa/id=b1760-5-per7
-            ls$naturalidade/freguesia de nossa senhora dos anjos, coto
-            ls$locbaptismo/freguesia de nossa senhora dos anjos, coto
-            ls$loccasamento/freguesia de nossa senhora dos anjos, coto
+               mmn$maria teresa/id=b1760-5-per7
+                  ls$naturalidade/freguesia de nossa senhora dos anjos, coto
+                  ls$locbaptismo/freguesia de nossa senhora dos anjos, coto
+                  ls$loccasamento/freguesia de nossa senhora dos anjos, coto
 
-         pad1$timoteo henriques/id=b1760-5-per8
-            ls$residencia/obidos
+            pad1$timoteo henriques/id=b1760-5-per8
+               ls$residencia/obidos
 
-         mad1$violante francisca/id=b1760-5-per9
+            mad1$violante francisca/id=b1760-5-per9
 
       bap$b1760-6/29/2/1760/fl.61/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$joana/f/id=b1760-6-n
             ls$enjeitada/sim/obs="a qual foi achada no lugar do olho marinho a porta do juis da ventena manuel gomes em os vinte, e seis do dito mes, e a cria a molher de francisco de matos do lugar da fanadia por ordem do concelho desta vila de que he procurador henrique da silva"
 
-         pn$nome desconhecido/id=b1760-6-per1
+            pn$nome desconhecido/id=b1760-6-per1
 
-         mn$nome desconhecido/id=b1760-6-per2
+            mn$nome desconhecido/id=b1760-6-per2
 
-         pad1$joao agostinho/id=b1760-6-per3
-            ls$cargo/sacristao da igreja de sao pedro
+            pad1$joao agostinho/id=b1760-6-per3
+               ls$cargo/sacristao da igreja de sao pedro
 
-         referido$manuel gomes/id=b1760-6-per4
-            ls$cargo/juiz da vintena
-            ls$residencia/olho marinho
-            rel$sociabilidade/achou a crianca/joana/b1760-6-n
+            referido$manuel gomes/id=b1760-6-per4
+               ls$cargo/juiz da vintena
+               ls$residencia/olho marinho
+               rel$sociabilidade/achou a crianca/joana/b1760-6-n
 
-         referida$nome desconhecido/id=b1760-6-referida
-            ls$residencia/fanadia
-            rel$sociabilidade/ama/joana/b1760-6-n
+            referida$nome desconhecido/id=b1760-6-referida
+               ls$residencia/fanadia
+               rel$sociabilidade/ama/joana/b1760-6-n
 
-         referido$francisco de matos/id=b1760-6-per5
-            ls$residencia/fanadia
-            rel$parentesco/marido/nome desconhecido/b1760-6-referida
+            referido$francisco de matos/id=b1760-6-per5
+               ls$residencia/fanadia
+               rel$parentesco/marido/nome desconhecido/b1760-6-referida
 
-         referido$henrique da silva/id=b1760-6-per6
-            ls$cargo/procurador do concelho
+            referido$henrique da silva/id=b1760-6-per6
+               ls$cargo/procurador do concelho
 
       bap$b1760-7/29/2/1760/fl.61v./igreja de sao pedro/jose moreira chaves (reverendo, padre, cura, coadjutor da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$ana micaela/f/id=b1760-7-per1
             ls$datanasc/17600130
 
-         pn$jeronimo correia/id=b1760-7-per2
-            ls$residencia/obidos
-            ls$locbaptismo/freguesia de sao pedro
+            pn$jeronimo correia/id=b1760-7-per2
+               ls$residencia/obidos
+               ls$locbaptismo/freguesia de sao pedro
 
-         ppn$jose martins/id=b1760-7-per3
-            ls$naturalidade/freguesia de sao pedro
-            ls$locbaptismo/igreja de sao pedro
+               ppn$jose martins/id=b1760-7-per3
+                  ls$naturalidade/freguesia de sao pedro
+                  ls$locbaptismo/igreja de sao pedro
 
-         mpn$maria do o/id=b1760-7-per4
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
+               mpn$maria do o/id=b1760-7-per4
+                  ls$naturalidade/obidos
+                  ls$locbaptismo/freguesia de sao pedro
 
-         mn$maria teresa/id=b1760-7-per5
-            ls$naturalidade/nadadouro, freguesia de sao tiago
-            ls$locbaptismo/freguesia de sao tiago
+            mn$maria teresa/id=b1760-7-per5
+               ls$naturalidade/nadadouro, freguesia de sao tiago
+               ls$locbaptismo/freguesia de sao tiago
 
-         pmn$francisco fernandes/id=b1760-7-per6
-            ls$naturalidade/nadadouro, freguesia de sao tiago
-            ls$locbaptismo/freguesia de sao tiago
-            ls$loccasamento/freguesia de sao tiago
+               pmn$francisco fernandes/id=b1760-7-per6
+                  ls$naturalidade/nadadouro, freguesia de sao tiago
+                  ls$locbaptismo/freguesia de sao tiago
+                  ls$loccasamento/freguesia de sao tiago
 
-         mmn$maria martins/id=b1760-7-per7
-            ls$naturalidade/nadadouro, freguesia de sao tiago
-            ls$locbaptismo/freguesia de sao tiago
-            ls$loccasamento/freguesia de sao tiago
+               mmn$maria martins/id=b1760-7-per7
+                  ls$naturalidade/nadadouro, freguesia de sao tiago
+                  ls$locbaptismo/freguesia de sao tiago
+                  ls$loccasamento/freguesia de sao tiago
 
-         pad1$manuel caetano freire/id=b1760-7-per8
-            ls$residencia/obidos
-            ls$titulo/doutor
+            pad1$manuel caetano freire/id=b1760-7-per8
+               ls$residencia/obidos
+               ls$titulo/doutor
 
-         mad1$maria isidora rosalina freire/id=b1760-7-mad
-            ls$titulo/dona
+            mad1$maria isidora rosalina freire/id=b1760-7-mad
+               ls$titulo/dona
 
-         procurador-mad1$jose leonardo de seixas/id=b1760-7-per9
-            rel$parentesco/pai/maria isidora rosalina freire/b1760-7-mad
+            procurador-mad1$jose leonardo de seixas/id=b1760-7-per9
+               rel$parentesco/pai/maria isidora rosalina freire/b1760-7-mad
 
       bap$b1760-8/2/3/1760/fl.61v.-62/igreja de sao pedro/jose moreira chaves (reverendo, padre, cura, coadjutor na igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$antonio/m/id=b1760-8-per1
             ls$datanasc/17600220
 
-         pn$francisco de lemos/id=b1760-8-per2
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$francisco de lemos/id=b1760-8-per2
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$manuel das neves/id=b1760-8-per3
-            ls$naturalidade/usseira
-            ls$loccasamento/freguesia de santa maria
+               ppn$manuel das neves/id=b1760-8-per3
+                  ls$naturalidade/usseira
+                  ls$loccasamento/freguesia de santa maria
 
-         mpn$teresa maria/id=b1760-8-per4
-            ls$naturalidade/casais de alentejo
-            ls$freguesia/santa maria
-            ls$loccasamento/freguesia de santa maria
+               mpn$teresa maria/id=b1760-8-per4
+                  ls$naturalidade/casais de alentejo
+                  ls$freguesia/santa maria
+                  ls$loccasamento/freguesia de santa maria
 
-         mn$maria ferreira/id=b1760-8-per5
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria ferreira/id=b1760-8-per5
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$joao ferreira/id=b1760-8-per6
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               pmn$joao ferreira/id=b1760-8-per6
+                  ls$residencia/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         mmn$maria gomes/id=b1760-8-per7
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mmn$maria gomes/id=b1760-8-per7
+                  ls$residencia/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         pad1$antonio das neves/id=b1760-8-per8
+            pad1$antonio das neves/id=b1760-8-per8
 
-         mad1$maria ferreira/id=b1760-8-per9
-            ls$residencia/usseira
+            mad1$maria ferreira/id=b1760-8-per9
+               ls$residencia/usseira
 
       bap$b1760-9/2/3/1760/fl.62-62v./igreja de sao pedro/jose moreira chaves (reverendo, padre, cura, coadjutor na igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$genoveva/f/id=b1760-9-per1
             ls$datanasc/17600220
 
-         pn$joao gomes/id=b1760-9-per2
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$joao gomes/id=b1760-9-per2
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$francisco gomes/id=b1760-9-per3
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
+               ppn$francisco gomes/id=b1760-9-per3
+                  ls$naturalidade/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
 
-         mpn$luisa gomes/id=b1760-9-per4
-            ls$naturalidade/delgada, freguesia de nossa senhora da purificacao da rolica
-            ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
+               mpn$luisa gomes/id=b1760-9-per4
+                  ls$naturalidade/delgada, freguesia de nossa senhora da purificacao da rolica
+                  ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
 
-         mn$joaquina maria/id=b1760-9-per5
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$joaquina maria/id=b1760-9-per5
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$lourenco vieira/id=b1760-9-per6
-            ls$naturalidade/rechafortes, freguesia de sao tome das lamas/obs=termo do cadaval
-            ls$locbaptismo/freguesia de sao tome das lamas, termo do cadaval
-            ls$loccasamento/freguesia de sao pedro
+               pmn$lourenco vieira/id=b1760-9-per6
+                  ls$naturalidade/rechafortes, freguesia de sao tome das lamas/obs=termo do cadaval
+                  ls$locbaptismo/freguesia de sao tome das lamas, termo do cadaval
+                  ls$loccasamento/freguesia de sao pedro
 
-         mmn$maria do nascimento/id=b1760-9-per7
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mmn$maria do nascimento/id=b1760-9-per7
+                  ls$naturalidade/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         pad1$joao lopes neves/id=b1760-9-per8
-            ls$residencia/obidos
+            pad1$joao lopes neves/id=b1760-9-per8
+               ls$residencia/obidos
 
       bap$b1760-10/10/3/1760/fl.62v./igreja de sao pedro/jose moreira chaves (reverendo, padre, cura, coadjutor na igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$josefa/f/id=b1760-10-per1
             ls$datanasc/17600111
 
-         pn$sebastiao da costa/id=b1760-10-per2
-            ls$enjeitado/sim
+            pn$sebastiao da costa/id=b1760-10-per2
+               ls$enjeitado/sim
 
-         ppn$nome desconhecido/id=b1760-10-per3
+               ppn$nome desconhecido/id=b1760-10-per3
 
-         mpn$nome desconhecido/id=b1760-10-per4
+               mpn$nome desconhecido/id=b1760-10-per4
 
-         mn$maria rosa/id=b1760-10-per5
+            mn$maria rosa/id=b1760-10-per5
 
-         pmn$jose lopes/id=b1760-10-per6
+               pmn$jose lopes/id=b1760-10-per6
 
-         mmn$teresa de sao jose/id=b1760-10-per7
+               mmn$teresa de sao jose/id=b1760-10-per7
 
-         pad1$francisco manuel de sisneiros girao/id=b1760-10-per8
-            ls$titulo/dom
-            ls$residencia/obidos
+            pad1$francisco manuel de sisneiros girao/id=b1760-10-per8
+               ls$titulo/dom
+               ls$residencia/obidos
 
       bap$b1760-11/11/3/1760/fl.62v.-63/igreja de sao pedro/francisco xavier de matos (reverendo, padre, cura na igreja de sao tiago)/obs=assina o cura valeriano gomes henriques
 
          n$ana/f/id=b1760-11-per1
             ls$datanasc/17600200/obs=nasceu no ultimo de fevereiro
 
-         pn$joao freire gameiro/id=b1760-11-per2
-            ls$naturalidade/lisboa
-            ls$locbaptismo/lisboa, freguesia de nossa senhora das merces
+            pn$joao freire gameiro/id=b1760-11-per2
+               ls$naturalidade/lisboa
+               ls$locbaptismo/lisboa, freguesia de nossa senhora das merces
 
-         ppn$domingos freire gameiro/id=b1760-11-per3
-            ls$naturalidade/lisboa
+               ppn$domingos freire gameiro/id=b1760-11-per3
+                  ls$naturalidade/lisboa
 
-         mpn$teresa isabel de sousa/id=b1760-11-per4
-            ls$titulo/dona
-            ls$naturalidade/lisboa
+               mpn$teresa isabel de sousa/id=b1760-11-per4
+                  ls$titulo/dona
+                  ls$naturalidade/lisboa
 
-         mn$maria do espirito santo soares da silveira/id=b1760-11-per5
-            ls$titulo/dona
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
+            mn$maria do espirito santo soares da silveira/id=b1760-11-per5
+               ls$titulo/dona
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao pedro
 
-         pmn$manuel soares henriques/id=b1760-11-per6
-            ls$naturalidade/a da gorda, freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de sao pedro
-            ls$residencia/obidos
+               pmn$manuel soares henriques/id=b1760-11-per6
+                  ls$naturalidade/a da gorda, freguesia de santa maria
+                  ls$locbaptismo/freguesia de santa maria
+                  ls$loccasamento/freguesia de sao pedro
+                  ls$residencia/obidos
 
-         mmn$sebastiana maria da silveira/id=b1760-11-per7
-            ls$titulo/dona
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
-            ls$residencia/obidos
+               mmn$sebastiana maria da silveira/id=b1760-11-per7
+                  ls$titulo/dona
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
+                  ls$residencia/obidos
 
-         pad1$feliciano da piedade/id=b1760-11-per8
-            ls$titulo/frei
-            ls$titulo/excelentissimo
-            ls$cargo/bispo de lamego
+            pad1$feliciano da piedade/id=b1760-11-per8
+               ls$titulo/frei
+               ls$titulo/excelentissimo
+               ls$cargo/bispo de lamego
 
-         procurador-pad1$agostinho gomes da silveira/id=b1760-11-per9
-            ls$titulo/doutor
+            procurador-pad1$agostinho gomes da silveira/id=b1760-11-per9
+               ls$titulo/doutor
 
       bap$b1760-12/20/4/1760/fl.63/igreja de sao pedro/jose moreira chaves (prior, encomendado)/obs=assina o prior encomendado
 
          n$jose/m/id=b1760-12-per1
             ls$datanasc/17600401
 
-         pn$antonio marques/id=b1760-12-per2
-            ls$residencia/usseira
+            pn$antonio marques/id=b1760-12-per2
+               ls$residencia/usseira
 
-         mn$joana teresa/id=b1760-12-per3
-            ls$residencia/usseira
+            mn$joana teresa/id=b1760-12-per3
+               ls$residencia/usseira
 
-         pad1$manuel pereira/id=b1760-12-per4
+            pad1$manuel pereira/id=b1760-12-per4
 
-         mad1$maria antonia/id=b1760-12-per5
-            ls$residencia/usseira
+            mad1$maria antonia/id=b1760-12-per5
+               ls$residencia/usseira
 
       bap$b1760-13/5/4/1760/fl.63v./igreja de sao pedro/jose moreira chaves (reverendo, padre, prior, encomendado da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$ana/f/id=b1760-13-per1
             ls$datanasc/17600325
 
-         pn$joaquim henriques/id=b1760-13-per2
-            ls$residencia/obidos
+            pn$joaquim henriques/id=b1760-13-per2
+               ls$residencia/obidos
 
-         ppn$joao henriques de oliveira/id=b1760-13-per3
+               ppn$joao henriques de oliveira/id=b1760-13-per3
 
-         mpn$engracia maria/id=b1760-13-per4
+               mpn$engracia maria/id=b1760-13-per4
 
-         mn$joana antonia/id=b1760-13-per5
-            ls$residencia/obidos
+            mn$joana antonia/id=b1760-13-per5
+               ls$residencia/obidos
 
-         pmn$manuel de seixas e vasconcelos/id=b1760-13-per6
+               pmn$manuel de seixas e vasconcelos/id=b1760-13-per6
 
-         mmn$maria de sao jose/id=b1760-13-per7
+               mmn$maria de sao jose/id=b1760-13-per7
 
-         pad1$manuel madeira camelo/id=b1760-13-per8
-            rel$parentesco/filho/antonio jose madeira/b1760-13-referido
+            pad1$manuel madeira camelo/id=b1760-13-per8
+               rel$parentesco/filho/antonio jose madeira/b1760-13-referido
 
-         referido$antonio jose madeira/id=b1760-13-referido
-            ls$cargo/capitao
+            referido$antonio jose madeira/id=b1760-13-referido
+               ls$cargo/capitao
 
       bap$b1760-14/23/4/1760/fl.63v.-64/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$ana/f/id=b1760-14-per1
             ls$datanasc/17600413
 
-         pn$inacio henriques/id=b1760-14-per2
-            ls$residencia/casais do pinhal
+            pn$inacio henriques/id=b1760-14-per2
+               ls$residencia/casais do pinhal
 
-         ppn$baltazar fernandes/id=b1760-14-per3
+               ppn$baltazar fernandes/id=b1760-14-per3
 
-         mpn$maria henriques/id=b1760-14-per4
+               mpn$maria henriques/id=b1760-14-per4
 
-         mn$josefa jacinta/id=b1760-14-per5
-            ls$residencia/casais do pinhal
+            mn$josefa jacinta/id=b1760-14-per5
+               ls$residencia/casais do pinhal
 
-         pmn$henrique monteiro/id=b1760-14-per6
+               pmn$henrique monteiro/id=b1760-14-per6
 
-         mmn$maria madalena/id=b1760-14-per7
+               mmn$maria madalena/id=b1760-14-per7
 
-         pad1$antonio jose madeira/mesmo_que=b1760-13-referido/id=b1760-14-per8
-            ls$cargo/capitao
+            pad1$antonio jose madeira/mesmo_que=b1760-13-referido/id=b1760-14-per8
+               ls$cargo/capitao
 
-         procurador-pad1$manuel pereira da silva/id=b1760-14-per9
-            ls$residencia/obidos
+            procurador-pad1$manuel pereira da silva/id=b1760-14-per9
+               ls$residencia/obidos
 
-         mad1$maria isidora rosalina freire/id=b1760-14-per10
-            ls$titulo/dona
+            mad1$maria isidora rosalina freire/id=b1760-14-per10
+               ls$titulo/dona
 
-         procurador-mad1$manuel caetano freire/id=b1760-14-per11
-            ls$titulo/doutor
-            ls$residencia/obidos
+            procurador-mad1$manuel caetano freire/id=b1760-14-per11
+               ls$titulo/doutor
+               ls$residencia/obidos
 
       bap$b1760-15/27/4/1760/fl.64/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$joaquina/f/id=b1760-15-per1
             ls$datanasc/17600418
 
-         pn$jose da silva/id=b1760-15-per2
-            ls$residencia/casal das avarelas
+            pn$jose da silva/id=b1760-15-per2
+               ls$residencia/casal das avarelas
 
-         ppn$manuel da silva/id=b1760-15-per3
-            ls$naturalidade/casal da serra
+               ppn$manuel da silva/id=b1760-15-per3
+                  ls$naturalidade/casal da serra
 
-         mpn$faustina ferreira/id=b1760-15-per4
-            ls$naturalidade/casal da serra
+               mpn$faustina ferreira/id=b1760-15-per4
+                  ls$naturalidade/casal da serra
 
-         mn$maria do nascimento/id=b1760-15-per5
-            ls$residencia/casal das avarelas
+            mn$maria do nascimento/id=b1760-15-per5
+               ls$residencia/casal das avarelas
 
-         pmn$manuel henriques/id=b1760-15-per6
-            ls$residencia/casal do azambujeiro
+               pmn$manuel henriques/id=b1760-15-per6
+                  ls$residencia/casal do azambujeiro
 
-         mmn$mariana da encarnacao/id=b1760-15-per7
-            ls$residencia/casal da margaida
+               mmn$mariana da encarnacao/id=b1760-15-per7
+                  ls$residencia/casal da margaida
 
-         pad1$agostinho goncalves/id=b1760-15-per8
+            pad1$agostinho goncalves/id=b1760-15-per8
 
-         mad1$ana joaquina/id=b1760-15-per9
-            ls$residencia/casal do azambujeiro
+            mad1$ana joaquina/id=b1760-15-per9
+               ls$residencia/casal do azambujeiro
 
       bap$b1760-16/18/5/1760/fl.64v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$tomas/m/id=b1760-16-per1
             ls$datanasc/17600425
 
-         pn$matias henriques/id=b1760-16-per2
-            ls$residencia/usseira
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$matias henriques/id=b1760-16-per2
+               ls$residencia/usseira
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$maria josefa/id=b1760-16-per3
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria josefa/id=b1760-16-per3
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$manuel caetano freire/id=b1760-16-per4
-            ls$titulo/doutor
-            ls$residencia/obidos
+            pad1$manuel caetano freire/id=b1760-16-per4
+               ls$titulo/doutor
+               ls$residencia/obidos
 
-         mad1$quiteria bernardina da silva/id=b1760-16-per5
-            ls$titulo/dona
+            mad1$quiteria bernardina da silva/id=b1760-16-per5
+               ls$titulo/dona
 
-         procurador-mad1$jose leonardo de seixas/id=b1760-16-per6
-            ls$residencia/obidos
+            procurador-mad1$jose leonardo de seixas/id=b1760-16-per6
+               ls$residencia/obidos
 
       bap$b1760-17/22/5/1760/fl.64v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$henrique/m/id=b1760-17-n
             ls$enjeitado/sim/obs="exposto aos dezanove do dito mes a porta de sebastiao da conta(sic) desta vila e freguesia e o cria maria roza molher do dito sebastiao da costa por ordem do concelho desta vila de que he procurador henrique da silva"
 
-         pn$nome desconhecido/id=b1760-17-per1
+            pn$nome desconhecido/id=b1760-17-per1
 
-         mn$nome desconhecido/id=b1760-17-per2
+            mn$nome desconhecido/id=b1760-17-per2
 
-         pad1$narciso jose rodrigues/id=b1760-17-per3
-            ls$cargo/tesoureiro da igreja de sao pedro
+            pad1$narciso jose rodrigues/id=b1760-17-per3
+               ls$cargo/tesoureiro da igreja de sao pedro
 
-         referido$sebastiao da costa/id=b1760-17-per4
-            ls$residencia/obidos
-            rel$parentesco/marido/maria rosa/b1760-17-referida
-            rel$sociabilidade/achou a crianca/henrique/b1760-17-n
+            referido$sebastiao da costa/id=b1760-17-per4
+               ls$residencia/obidos
+               rel$parentesco/marido/maria rosa/b1760-17-referida
+               rel$sociabilidade/achou a crianca/henrique/b1760-17-n
 
-         referida$maria rosa/id=b1760-17-referida
-            ls$residencia/obidos
-            rel$sociabilidade/ama/henrique/b1760-17-n
+            referida$maria rosa/id=b1760-17-referida
+               ls$residencia/obidos
+               rel$sociabilidade/ama/henrique/b1760-17-n
 
-         referido$henrique da silva/id=b1760-17-per5
-            ls$cargo/procurador do concelho
+            referido$henrique da silva/id=b1760-17-per5
+               ls$cargo/procurador do concelho
 
       bap$b1760-18/22/6/1760/fl.65/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$francisco/m/id=b1760-18-per1
             ls$datanasc/17600607
 
-         pn$joao ferreira/id=b1760-18-per2
-            ls$alcunha/o seleiro
-            ls$residencia/obidos
+            pn$joao ferreira/id=b1760-18-per2
+               ls$alcunha/o seleiro
+               ls$residencia/obidos
 
-         mn$mariana teresa/id=b1760-18-per3
-            ls$residencia/obidos
+            mn$mariana teresa/id=b1760-18-per3
+               ls$residencia/obidos
 
-         pad1$manuel francisco da cruz/id=b1760-18-per4
-            ls$residencia/obidos
+            pad1$manuel francisco da cruz/id=b1760-18-per4
+               ls$residencia/obidos
 
       bap$b1760-19/24/6/1760/fl.65/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$joao/m/id=b1760-19-per1
             ls$datanasc/17600514
 
-         pn$antonio da costa/id=b1760-19-per2
-            ls$residencia/usseira
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$antonio da costa/id=b1760-19-per2
+               ls$residencia/usseira
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$maria henriques/id=b1760-19-per3
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria henriques/id=b1760-19-per3
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$paulino jose de bastos/id=b1760-19-per4
-            ls$residencia/carregado
-            rel$parentesco/marido/francisca joaquina/b1760-19-mad
+            pad1$paulino jose de bastos/id=b1760-19-per4
+               ls$residencia/carregado
+               rel$parentesco/marido/francisca joaquina/b1760-19-mad
 
-         mad1$francisca joaquina/id=b1760-19-mad
+            mad1$francisca joaquina/id=b1760-19-mad
 
-         procurador-mad1$joao gomes/id=b1760-19-per5
-            ls$residencia/usseira
+            procurador-mad1$joao gomes/id=b1760-19-per5
+               ls$residencia/usseira
 
       bap$b1760-20/23/7/1760/fl.65v./igreja de sao pedro/jose moreira chaves (reverendo, padre, prior, encomendado na igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$antonio/m/id=b1760-20-per1
             ls$datanasc/17600710
 
-         pn$manuel nunes dos reis/id=b1760-20-per2
-            ls$titulo/doutor
-            ls$naturalidade/coimbra
-            ls$freguesia/se
-            ls$locbaptismo/freguesia da se, coimbra
+            pn$manuel nunes dos reis/id=b1760-20-per2
+               ls$titulo/doutor
+               ls$naturalidade/coimbra
+               ls$freguesia/se
+               ls$locbaptismo/freguesia da se, coimbra
 
-         mn$teodora joaquina perpetua da piedade/id=b1760-20-per3
-            ls$titulo/dona
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
+            mn$teodora joaquina perpetua da piedade/id=b1760-20-per3
+               ls$titulo/dona
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao pedro
 
-         pad1$antonio daniel da costa e azevedo/id=b1760-20-per4
-            ls$titulo/muito reverendo
-            ls$cargo/prior eleito da igreja de sao pedro
+            pad1$antonio daniel da costa e azevedo/id=b1760-20-per4
+               ls$titulo/muito reverendo
+               ls$cargo/prior eleito da igreja de sao pedro
 
-         procurador-pad1$joao pinto de miranda/id=b1760-20-per5
-            ls$cargo/beneficiado
+            procurador-pad1$joao pinto de miranda/id=b1760-20-per5
+               ls$cargo/beneficiado
 
-         mad1$francisca joana josefa de portugal/id=b1760-20-per6
-            ls$titulo/dona
-            ls$cargo/religiosa/obs=do convento de almoster
-            ls$residencia/convento de almoster
+            mad1$francisca joana josefa de portugal/id=b1760-20-per6
+               ls$titulo/dona
+               ls$cargo/religiosa/obs=do convento de almoster
+               ls$residencia/convento de almoster
 
-         procurador-mad1$luis pedro de couto/id=b1760-20-per7
-            ls$titulo/reverendo
-            ls$residencia/alvorninha
+            procurador-mad1$luis pedro de couto/id=b1760-20-per7
+               ls$titulo/reverendo
+               ls$residencia/alvorninha
 
       bap$b1760-21/3/8/1760/fl.65v.-66/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$ana/f/id=b1760-21-per1
             ls$datanasc/17600726
 
-         pn$felix soares/id=b1760-21-per2
-            ls$alcunha/o pouca roupa
-            ls$enjeitado/sim/obs=enjeitado do hospital real de todos os santos, lisboa
+            pn$felix soares/id=b1760-21-per2
+               ls$alcunha/o pouca roupa
+               ls$enjeitado/sim/obs=enjeitado do hospital real de todos os santos, lisboa
 
-         ppn$nome desconhecido/id=b1760-21-per3
+               ppn$nome desconhecido/id=b1760-21-per3
 
-         mpn$nome desconhecido/id=b1760-21-per4
+               mpn$nome desconhecido/id=b1760-21-per4
 
-         mn$maria antonia/id=b1760-21-per5
-            ls$naturalidade/obidos
-            ls$locbaptismo/igreja de santa maria
+            mn$maria antonia/id=b1760-21-per5
+               ls$naturalidade/obidos
+               ls$locbaptismo/igreja de santa maria
 
-         pad1$francisco dos santos/id=b1760-21-per6
-            ls$residencia/obidos, freguesia de sao pedro
+            pad1$francisco dos santos/id=b1760-21-per6
+               ls$residencia/obidos, freguesia de sao pedro
 
       bap$b1760-22/9/8/1760/fl.66/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$manuel/m/id=b1760-22-per1
             ls$datanasc/17600627
 
-         pn$joao baptista/id=b1760-22-per2
-            ls$profissao/alfaiate
-            ls$naturalidade/vermelha, termo do cadaval
-            ls$freguesia/sao simao
-            ls$locbaptismo/freguesia de sao simao
-            ls$loccasamento/freguesia de sao pedro
+            pn$joao baptista/id=b1760-22-per2
+               ls$profissao/alfaiate
+               ls$naturalidade/vermelha, termo do cadaval
+               ls$freguesia/sao simao
+               ls$locbaptismo/freguesia de sao simao
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$emerenciana teresa de jesus/id=b1760-22-per3
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$emerenciana teresa de jesus/id=b1760-22-per3
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$miguel barbosa/id=b1760-22-per4
-            ls$profissao/padre
-            ls$cargo/beneficiado da  igreja de santa maria
-            ls$residencia/obidos
+            pad1$miguel barbosa/id=b1760-22-per4
+               ls$profissao/padre
+               ls$cargo/beneficiado da igreja de santa maria
+               ls$residencia/obidos
 
       bap$b1760-23/10/8/1760/fl.66v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$joaquina/f/id=b1760-23-per1
             ls$datanasc/17600714
 
-         pn$tome gomes/id=b1760-23-per2
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$tome gomes/id=b1760-23-per2
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$helena maria/id=b1760-23-per3
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$helena maria/id=b1760-23-per3
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$jose de almeida rebelo/id=b1760-23-per4
-            ls$residencia/obidos
+            pad1$jose de almeida rebelo/id=b1760-23-per4
+               ls$residencia/obidos
 
-         mad1$maria teresa/id=b1760-23-per5
-            ls$residencia/sobral do perilhao
+            mad1$maria teresa/id=b1760-23-per5
+               ls$residencia/sobral do perilhao
 
       bap$b1760-24/24/8/1760/fl.66v.-67/igreja de sao pedro/jose moreira chaves (reverendo, padre, prior encomendado na igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$ana/f/id=b1760-24-per1
             ls$datanasc/17600812
 
-         pn$joao agostinho dos santos/id=b1760-24-per2
-            ls$naturalidade/carragosela, freguesia de nossa senhora da anunciacao
-            ls$bispado/coimbra
-            ls$locbaptismo/freguesia de nossa senhora da anunciacao
-            ls$loccasamento/freguesia de nossa senhora da gaiola
+            pn$joao agostinho dos santos/id=b1760-24-per2
+               ls$naturalidade/carragosela, freguesia de nossa senhora da anunciacao
+               ls$bispado/coimbra
+               ls$locbaptismo/freguesia de nossa senhora da anunciacao
+               ls$loccasamento/freguesia de nossa senhora da gaiola
 
-         ppn$joao agostinho/id=b1760-24-per3
-            ls$naturalidade/carragosela, freguesia de nossa senhora da anunciacao
-            ls$bispado/coimbra
+               ppn$joao agostinho/id=b1760-24-per3
+                  ls$naturalidade/carragosela, freguesia de nossa senhora da anunciacao
+                  ls$bispado/coimbra
 
-         mpn$maria pinheiro dos santos/id=b1760-24-per4
-            ls$naturalidade/carragosela, freguesia de nossa senhora da anunciacao
-            ls$bispado/coimbra
+               mpn$maria pinheiro dos santos/id=b1760-24-per4
+                  ls$naturalidade/carragosela, freguesia de nossa senhora da anunciacao
+                  ls$bispado/coimbra
 
-         mn$mariana de jesus/id=b1760-24-per5
-            ls$naturalidade/cortes, freguesia de nosse senhora da gaiola
-            ls$bispado/leiria
-            ls$locbaptismo/freguesia de nossa senhora da gaiola
-            ls$loccasamento/freguesia de nossa senhora da gaiola
+            mn$mariana de jesus/id=b1760-24-per5
+               ls$naturalidade/cortes, freguesia de nosse senhora da gaiola
+               ls$bispado/leiria
+               ls$locbaptismo/freguesia de nossa senhora da gaiola
+               ls$loccasamento/freguesia de nossa senhora da gaiola
 
-         pmn$francisco da cunha/id=b1760-24-per6
-            ls$naturalidade/souto
-            ls$freguesia/salvador
-            ls$bispado/leiria
-            ls$loccasamento/freguesia de nossa senhora da gaiola
+               pmn$francisco da cunha/id=b1760-24-per6
+                  ls$naturalidade/souto
+                  ls$freguesia/salvador
+                  ls$bispado/leiria
+                  ls$loccasamento/freguesia de nossa senhora da gaiola
 
-         mmn$maria da silva/id=b1760-24-per7
-            ls$naturalidade/cortes, freguesia de nosse senhora da gaiola
-            ls$bispado/leiria
-            ls$locbaptismo/freguesia de nossa senhora da gaiola
-            ls$loccasamento/freguesia de nossa senhora da gaiola
+               mmn$maria da silva/id=b1760-24-per7
+                  ls$naturalidade/cortes, freguesia de nosse senhora da gaiola
+                  ls$bispado/leiria
+                  ls$locbaptismo/freguesia de nossa senhora da gaiola
+                  ls$loccasamento/freguesia de nossa senhora da gaiola
 
-         pad1$jose henriques do avelar/id=b1760-24-per8
-            ls$cargo/beneficiado
+            pad1$jose henriques do avelar/id=b1760-24-per8
+               ls$cargo/beneficiado
 
-         procurador-pad1$bernardo gomes henriques/id=b1760-24-per9
-            ls$cargo/capitao
-            ls$residencia/obidos
+            procurador-pad1$bernardo gomes henriques/id=b1760-24-per9
+               ls$cargo/capitao
+               ls$residencia/obidos
 
-         mad1$maria cecilia/id=b1760-24-per10
+            mad1$maria cecilia/id=b1760-24-per10
 
-         procurador-mad1$jose da silva/id=b1760-24-per11
-            ls$residencia/obidos
+            procurador-mad1$jose da silva/id=b1760-24-per11
+               ls$residencia/obidos
 
       bap$b1760-25/10/8/1760/fl.67-67v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$maria clara/f/id=b1760-25-per1
             ls$datanasc/17600818
 
-         pn$joao pedro de andrade/id=b1760-25-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$joao pedro de andrade/id=b1760-25-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$maria joaquina da silveira/id=b1760-25-per3
-            ls$titulo/dona
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$maria joaquina da silveira/id=b1760-25-per3
+               ls$titulo/dona
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$simao da fonseca e sequeira/id=b1760-25-per4
-            ls$cargo/desembargador
+            pad1$simao da fonseca e sequeira/id=b1760-25-per4
+               ls$cargo/desembargador
 
-         procurador-pad1$paulo de sequeira henriques/id=b1760-25-per5
-            ls$cargo/beneficiado
+            procurador-pad1$paulo de sequeira henriques/id=b1760-25-per5
+               ls$cargo/beneficiado
 
       bap$b1760-26/23/9/1760/fl.67v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1760-26-per1
             ls$datanasc/17600813
 
-         pn$jose goncalves/id=b1760-26-per2
-            ls$residencia/pinhal
+            pn$jose goncalves/id=b1760-26-per2
+               ls$residencia/pinhal
 
-         mn$teresa joaquina/id=b1760-26-per3
-            ls$residencia/pinhal
+            mn$teresa joaquina/id=b1760-26-per3
+               ls$residencia/pinhal
 
-         pad1$joao gomes/id=b1760-26-per4
-            ls$profissao/carpinteiro
-            ls$residencia/pinhal
+            pad1$joao gomes/id=b1760-26-per4
+               ls$profissao/carpinteiro
+               ls$residencia/pinhal
 
       bap$b1760-27/25/9/1760/fl.68/igreja de sao pedro/jose moreira chaves (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$antonio/m/id=b1760-27-per1
             ls$datanasc/17600901
 
-         pn$antonio martins/id=b1760-27-per2
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de santa maria
+            pn$antonio martins/id=b1760-27-per2
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de santa maria
 
-         ppn$joao martins/id=b1760-27-per3
-            ls$naturalidade/ilha de sao miguel
-            ls$loccasamento/freguesia de santa maria
+               ppn$joao martins/id=b1760-27-per3
+                  ls$naturalidade/ilha de sao miguel
+                  ls$loccasamento/freguesia de santa maria
 
-         mpn$tomasia maria/id=b1760-27-per4
-            ls$naturalidade/almoster
-            ls$loccasamento/freguesia de santa maria
+               mpn$tomasia maria/id=b1760-27-per4
+                  ls$naturalidade/almoster
+                  ls$loccasamento/freguesia de santa maria
 
-         mn$ana maria/id=b1760-27-per5
-            ls$naturalidade/casais do nadadouro, freguesia de sao tiago
-            ls$locbaptismo/freguesia de sao tiago
+            mn$ana maria/id=b1760-27-per5
+               ls$naturalidade/casais do nadadouro, freguesia de sao tiago
+               ls$locbaptismo/freguesia de sao tiago
 
-         pmn$francisco fernandes/id=b1760-27-per6
-            ls$residencia/nadadouro, freguesia de sao tiago
-            ls$locbaptismo/freguesia de sao tiago
-            ls$loccasamento/freguesia de sao tiago
+               pmn$francisco fernandes/id=b1760-27-per6
+                  ls$residencia/nadadouro, freguesia de sao tiago
+                  ls$locbaptismo/freguesia de sao tiago
+                  ls$loccasamento/freguesia de sao tiago
 
-         mmn$maria martins/id=b1760-27-per7
-            ls$residencia/nadadouro, freguesia de sao tiago
-            ls$locbaptismo/freguesia de sao tiago
-            ls$loccasamento/freguesia de sao tiago
+               mmn$maria martins/id=b1760-27-per7
+                  ls$residencia/nadadouro, freguesia de sao tiago
+                  ls$locbaptismo/freguesia de sao tiago
+                  ls$loccasamento/freguesia de sao tiago
 
-         pad1$manuel leal/id=b1760-27-per8
-            ls$residencia/cadaval
-            ls$profissao/padre
+            pad1$manuel leal/id=b1760-27-per8
+               ls$residencia/cadaval
+               ls$profissao/padre
 
-         mad1$ana teresa/id=b1760-27-per9
-            ls$residencia/obidos
+            mad1$ana teresa/id=b1760-27-per9
+               ls$residencia/obidos
 
-         procurador-mad1$bonifacio jeronimo de melo/id=b1760-27-per10
-            ls$residencia/obidos
+            procurador-mad1$bonifacio jeronimo de melo/id=b1760-27-per10
+               ls$residencia/obidos
 
       bap$b1760-28/26/10/1760/fl.68v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$domingos/m/id=b1760-28-per1
             ls$datanasc/17601013
 
-         pn$antonio monteiro/id=b1760-28-per2
-            ls$naturalidade/cos
-            ls$locbaptismo/igreja de cos, coutos de alcobaca
-            ls$loccasamento/freguesia de sao pedro
+            pn$antonio monteiro/id=b1760-28-per2
+               ls$naturalidade/cos
+               ls$locbaptismo/igreja de cos, coutos de alcobaca
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$francisco monteiro/id=b1760-28-per3
-            ls$naturalidade/valado, freguesia da pederneira
-            ls$loccasamento/freguesia da pederneira
+               ppn$francisco monteiro/id=b1760-28-per3
+                  ls$naturalidade/valado, freguesia da pederneira
+                  ls$loccasamento/freguesia da pederneira
 
-         mpn$maria rodrigues/id=b1760-28-per4
-            ls$naturalidade/valado, freguesia da pederneira
-            ls$loccasamento/freguesia da pederneira
+               mpn$maria rodrigues/id=b1760-28-per4
+                  ls$naturalidade/valado, freguesia da pederneira
+                  ls$loccasamento/freguesia da pederneira
 
-         mn$pascoa maria/id=b1760-28-per5
-            ls$enjeitada/sim/obs=filha de pais incognitos
-            ls$naturalidade/amoreira, freguesia de nossa senhora de aboboriz
-            ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
-            ls$loccasamento/freguesia de sao pedro
+            mn$pascoa maria/id=b1760-28-per5
+               ls$enjeitada/sim/obs=filha de pais incognitos
+               ls$naturalidade/amoreira, freguesia de nossa senhora de aboboriz
+               ls$locbaptismo/freguesia de nossa senhora de aboboriz, amoreira
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$nome desconhecido/id=b1760-28-per6
+               pmn$nome desconhecido/id=b1760-28-per6
 
-         mmn$nome desconhecido/id=b1760-28-per7
+               mmn$nome desconhecido/id=b1760-28-per7
 
-         pad1$domingos joaquim pote/id=b1760-28-per8
-            ls$residencia/alfeizerao
+            pad1$domingos joaquim pote/id=b1760-28-per8
+               ls$residencia/alfeizerao
 
-         procurador-pad1$joao pedro de andrade/id=b1760-28-per9
-            ls$residencia/obidos
+            procurador-pad1$joao pedro de andrade/id=b1760-28-per9
+               ls$residencia/obidos
 
       bap$b1760-29/29/10/1760/fl.69/igreja de sao pedro/jose moreira chaves (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$francisco/m/id=b1760-29-per1
             ls$datanasc/17601016
 
-         pn$teodoro jose/id=b1760-29-per2
-            ls$residencia/obidos, freguesia de sao pedro
+            pn$teodoro jose/id=b1760-29-per2
+               ls$residencia/obidos, freguesia de sao pedro
 
-         mn$maria rosa/id=b1760-29-per3
-            ls$residencia/obidos, freguesia de sao pedro
+            mn$maria rosa/id=b1760-29-per3
+               ls$residencia/obidos, freguesia de sao pedro
 
-         pad1$francisco monteiro malhao/id=b1760-29-per4
+            pad1$francisco monteiro malhao/id=b1760-29-per4
 
-         mad1$ana clara da fonseca/id=b1760-29-per5
+            mad1$ana clara da fonseca/id=b1760-29-per5
 
-         procurador-mad1$maximo joaquim de almeida/id=b1760-29-per6
-            ls$profissao/padre
+            procurador-mad1$maximo joaquim de almeida/id=b1760-29-per6
+               ls$profissao/padre
 
       bap$b1760-30/29/10/1760/fl.69-69v./igreja de sao pedro/jose moreira chaves (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$antonio/m/id=b1760-30-per1
             ls$datanasc/17601004
 
-         pn$agostinho gomes da silveira/id=b1760-30-per2
-            ls$titulo/doutor
+            pn$agostinho gomes da silveira/id=b1760-30-per2
+               ls$titulo/doutor
 
-         mn$maria da conceicao/id=b1760-30-per3
-            ls$titulo/dona
-            ls$naturalidade/obidos
+            mn$maria da conceicao/id=b1760-30-per3
+               ls$titulo/dona
+               ls$naturalidade/obidos
 
-         pad1$antonio freire gameiro e sousa/id=b1760-30-per4
-            ls$residencia/lisboa
+            pad1$antonio freire gameiro e sousa/id=b1760-30-per4
+               ls$residencia/lisboa
 
       bap$b1760-31/9/11/1760/fl.69v./igreja de sao pedro/jose moreira chaves (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1760-31-per1
             ls$datanasc/17601026
 
-         pn$manuel gomes/id=b1760-31-per2
-            ls$residencia/usseira
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel gomes/id=b1760-31-per2
+               ls$residencia/usseira
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$jose gomes/id=b1760-31-per3
-            ls$residencia/usseira
-            ls$naturalidade/usseira
+               ppn$jose gomes/id=b1760-31-per3
+                  ls$residencia/usseira
+                  ls$naturalidade/usseira
 
-         mpn$maria josefa/id=b1760-31-per4
-            ls$residencia/usseira
-            ls$naturalidade/usseira
+               mpn$maria josefa/id=b1760-31-per4
+                  ls$residencia/usseira
+                  ls$naturalidade/usseira
 
-         mn$inacia maria/id=b1760-31-per5
-            ls$residencia/usseira
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$inacia maria/id=b1760-31-per5
+               ls$residencia/usseira
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$joao ferreira/id=b1760-31-per6
-            ls$residencia/usseira
-            ls$naturalidade/usseira
+               pmn$joao ferreira/id=b1760-31-per6
+                  ls$residencia/usseira
+                  ls$naturalidade/usseira
 
-         mmn$mariana gomes/id=b1760-31-per7
-            ls$residencia/usseira
-            ls$naturalidade/usseira
+               mmn$mariana gomes/id=b1760-31-per7
+                  ls$residencia/usseira
+                  ls$naturalidade/usseira
 
-         pad1$jose das nevas/id=b1760-31-per8
-            ls$residencia/usseira
+            pad1$jose das nevas/id=b1760-31-per8
+               ls$residencia/usseira
 
       bap$b1760-32/22/11/1760/fl.70/igreja de sao pedro/jose moreira chaves (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$jose/m/id=b1760-32-per1
             ls$datanasc/17601113
 
-         pn$jeronimo de figueiredo/id=b1760-32-per2
-            ls$naturalidade/parada, freguesia de sao miguel do outeiro
-            ls$bispado/viseu
-            ls$locbaptismo/freguesia de sao miguel do outeiro/obs=casaram nossa senhora freguesia de marvila, em santarem mas receberam as bencaos na igreja de sao pedro de obidos
+            pn$jeronimo de figueiredo/id=b1760-32-per2
+               ls$naturalidade/parada, freguesia de sao miguel do outeiro
+               ls$bispado/viseu
+               ls$locbaptismo/freguesia de sao miguel do outeiro/obs=casaram nossa senhora freguesia de marvila, em santarem mas receberam as bencaos na igreja de sao pedro de obidos
 
-         ppn$jose bras de figueiredo/id=b1760-32-per3
-            ls$naturalidade/freguesia de sao miguel do outeiro
-            ls$bispado/viseu
+               ppn$jose bras de figueiredo/id=b1760-32-per3
+                  ls$naturalidade/freguesia de sao miguel do outeiro
+                  ls$bispado/viseu
 
-         mpn$bernarda de figueiredo/id=b1760-32-per4
-            ls$naturalidade/freguesia desao miguel do outeiro
-            ls$bispado/viseu
+               mpn$bernarda de figueiredo/id=b1760-32-per4
+                  ls$naturalidade/freguesia desao miguel do outeiro
+                  ls$bispado/viseu
 
-         mn$ana joaquina/id=b1760-32-per5
-            ls$naturalidade/rio maior, freguesia de nossa senhora da conceicao
-            ls$locbaptismo/freguesia de nossa senhora da conceicao
-            ls$loccasamento/freguesia de marvila, santarem/obs=casaram nossa senhora freguesia de marvila, em santarem mas receberam as bencaos na igreja de sao pedro de obidos
+            mn$ana joaquina/id=b1760-32-per5
+               ls$naturalidade/rio maior, freguesia de nossa senhora da conceicao
+               ls$locbaptismo/freguesia de nossa senhora da conceicao
+               ls$loccasamento/freguesia de marvila, santarem/obs=casaram nossa senhora freguesia de marvila, em santarem mas receberam as bencaos na igreja de sao pedro de obidos
 
-         pmn$jose da costa/id=b1760-32-per6
-            ls$naturalidade/rio maior
+               pmn$jose da costa/id=b1760-32-per6
+                  ls$naturalidade/rio maior
 
-         mmn$maria da conceicao/id=b1760-32-per7
-            ls$morta/antes
-            ls$naturalidade/rio maior
+               mmn$maria da conceicao/id=b1760-32-per7
+                  ls$morta/antes
+                  ls$naturalidade/rio maior
 
-         pad1$joao felix de brito pegado/id=b1760-32-per8
-            ls$cargo/capitao mor
+            pad1$joao felix de brito pegado/id=b1760-32-per8
+               ls$cargo/capitao mor
 
       bap$b1760-33/30/11/1760/fl.70v./igreja de sao pedro/jose moreira chaves (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1760-33-per1
             ls$datanasc/17601114
 
-         pn$caetano jose/id=b1760-33-per2
-            ls$naturalidade/obidos
+            pn$caetano jose/id=b1760-33-per2
+               ls$naturalidade/obidos
 
-         mn$ines maria de santa ana/id=b1760-33-per3
-            ls$naturalidade/obidos
+            mn$ines maria de santa ana/id=b1760-33-per3
+               ls$naturalidade/obidos
 
-         pad1$raimundo donato/id=b1760-33-per4
-            rel$parentesco/filho/luis pedro furtado/b1760-33-referido
+            pad1$raimundo donato/id=b1760-33-per4
+               rel$parentesco/filho/luis pedro furtado/b1760-33-referido
 
-         referido$luis pedro furtado/id=b1760-33-referido
-            ls$residencia/obidos
+            referido$luis pedro furtado/id=b1760-33-referido
+               ls$residencia/obidos
 
       bap$b1760-34/18/12/1760/fl.70v.-71/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$lourenco/m/id=b1760-34-per1
             ls$datanasc/17601203
 
-         pn$joao gomes/id=b1760-34-per2
-            ls$residencia/usseira
+            pn$joao gomes/id=b1760-34-per2
+               ls$residencia/usseira
 
-         mn$maria ferreira/id=b1760-34-per3
-            ls$residencia/usseira
+            mn$maria ferreira/id=b1760-34-per3
+               ls$residencia/usseira
 
-         pad1$matias rodrigues/id=b1760-34-per4
-            ls$residencia/a da gorda
+            pad1$matias rodrigues/id=b1760-34-per4
+               ls$residencia/a da gorda
 
       bap$b1760-35/25/12/1760/fl.71/igreja de sao pedro/jose moreira chaves (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$vicencia de jesus/f/id=b1760-35-per1
             ls$datanasc/17601212
 
-         pn$diogo vieira/id=b1760-35-per2
-            ls$residencia/usseira
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$diogo vieira/id=b1760-35-per2
+               ls$residencia/usseira
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$maria helena/id=b1760-35-per3
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria helena/id=b1760-35-per3
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$tomas pereira/id=b1760-35-per4
-            ls$residencia/usseira
+            pad1$tomas pereira/id=b1760-35-per4
+               ls$residencia/usseira
 
-         mad1$antonia maria/id=b1760-35-per5
-            ls$residencia/casal do sobreiro, limite de a dos francos
+            mad1$antonia maria/id=b1760-35-per5
+               ls$residencia/casal do sobreiro, limite de a dos francos
 
       bap$b1761-1/4/1/1761/fl.71v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1761-1-per1
             ls$datanasc/17601213
 
-         pn$jose moreira/id=b1761-1-per2
-            ls$residencia/obidos
-            ls$naturalidade/cravide, freguesia de sao lourenco
-            ls$bispado/leiria
-            ls$locbaptismo/freguesia de sao lourenco
-            ls$loccasamento/freguesia de sao pedro
+            pn$jose moreira/id=b1761-1-per2
+               ls$residencia/obidos
+               ls$naturalidade/cravide, freguesia de sao lourenco
+               ls$bispado/leiria
+               ls$locbaptismo/freguesia de sao lourenco
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$manuel alves/id=b1761-1-per3
-            ls$residencia/cravide, freguesia de sao lourenco
-            ls$bispado/leiria
-            ls$locbaptismo/freguesia de sao lourenco
-            ls$loccasamento/freguesia de sao pedro
+               ppn$manuel alves/id=b1761-1-per3
+                  ls$residencia/cravide, freguesia de sao lourenco
+                  ls$bispado/leiria
+                  ls$locbaptismo/freguesia de sao lourenco
+                  ls$loccasamento/freguesia de sao pedro
 
-         mpn$maria moreira/id=b1761-1-per4
-            ls$residencia/cravide, freguesia de sao lourenco
-            ls$bispado/leiria
-            ls$locbaptismo/freguesia de sao lourenco
-            ls$loccasamento/freguesia de sao pedro
+               mpn$maria moreira/id=b1761-1-per4
+                  ls$residencia/cravide, freguesia de sao lourenco
+                  ls$bispado/leiria
+                  ls$locbaptismo/freguesia de sao lourenco
+                  ls$loccasamento/freguesia de sao pedro
 
-         mn$maria da encarnacao/id=b1761-1-per5
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria da encarnacao/id=b1761-1-per5
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$andre viana/id=b1761-1-per6
-            ls$naturalidade/faro
-            ls$locbaptismo/freguesia de sao pedro, faro
-            ls$loccasamento/igreja de santa maria
+               pmn$andre viana/id=b1761-1-per6
+                  ls$naturalidade/faro
+                  ls$locbaptismo/freguesia de sao pedro, faro
+                  ls$loccasamento/igreja de santa maria
 
-         mmn$josefa maria franca/id=b1761-1-per7
-            ls$naturalidade/carregal, freguesia de sao joao de moncharro
-            ls$locbaptismo/freguesia de sao joao
-            ls$loccasamento/igreja de santa maria
+               mmn$josefa maria franca/id=b1761-1-per7
+                  ls$naturalidade/carregal, freguesia de sao joao de moncharro
+                  ls$locbaptismo/freguesia de sao joao
+                  ls$loccasamento/igreja de santa maria
 
-         pad1$jose de almeida/id=b1761-1-per8
-            ls$residencia/alcobaca
+            pad1$jose de almeida/id=b1761-1-per8
+               ls$residencia/alcobaca
 
-         procurador-pad1$joaquim dos reis quintela/id=b1761-1-per9
+            procurador-pad1$joaquim dos reis quintela/id=b1761-1-per9
 
-         mad1$teresa maria de jesus/id=b1761-1-per10
-            ls$residencia/obidos
+            mad1$teresa maria de jesus/id=b1761-1-per10
+               ls$residencia/obidos
 
-         procurador-mad1$francisco pedro/id=b1761-1-per11
-            ls$residencia/obidos
+            procurador-mad1$francisco pedro/id=b1761-1-per11
+               ls$residencia/obidos
 
       bap$b1761-2/11/1/1761/fl.72/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$joao/m/id=b1761-2-per1
             ls$datanasc/17601227
 
-         pn$jose da costa/id=b1761-2-per2
-            ls$naturalidade/casais do pinhal
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$jose da costa/id=b1761-2-per2
+               ls$naturalidade/casais do pinhal
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$andre da costa/id=b1761-2-per3
+               ppn$andre da costa/id=b1761-2-per3
 
-         mpn$maria henrique/id=b1761-2-per4
+               mpn$maria henrique/id=b1761-2-per4
 
-         mn$ana maria/id=b1761-2-per5
-            ls$naturalidade/casais do pinhal
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$ana maria/id=b1761-2-per5
+               ls$naturalidade/casais do pinhal
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$henrique monteiro/id=b1761-2-per6
+               pmn$henrique monteiro/id=b1761-2-per6
 
-         mmn$maria madalena/id=b1761-2-per7
+               mmn$maria madalena/id=b1761-2-per7
 
-         pad1$francisco de matos/id=b1761-2-per8
-            ls$residencia/pinhal
+            pad1$francisco de matos/id=b1761-2-per8
+               ls$residencia/pinhal
 
       bap$b1761-3/18/1/1761/fl.72v./igreja de sao pedro/joao henriques de oliveira (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1761-3-per1
             ls$datanasc/17601225
 
-         pn$felix correia/id=b1761-3-per2
-            ls$residencia/obidos
+            pn$felix correia/id=b1761-3-per2
+               ls$residencia/obidos
 
-         ppn$jose correia/id=b1761-3-per3
+               ppn$jose correia/id=b1761-3-per3
 
-         mpn$maria josefa/id=b1761-3-per4
+               mpn$maria josefa/id=b1761-3-per4
 
-         mn$maria josefa/id=b1761-3-per5
-            ls$residencia/obidos
+            mn$maria josefa/id=b1761-3-per5
+               ls$residencia/obidos
 
-         pmn$joao manuel/id=b1761-3-per6
+               pmn$joao manuel/id=b1761-3-per6
 
-         mmn$josefa maria/id=b1761-3-per7
+               mmn$josefa maria/id=b1761-3-per7
 
-         pad1$joao baptista pereira/id=b1761-3-per8
-            rel$parentesco/filho/manuel pereira da costa/b1761-3-referido
-            ls$residencia/obidos
+            pad1$joao baptista pereira/id=b1761-3-per8
+               rel$parentesco/filho/manuel pereira da costa/b1761-3-referido
+               ls$residencia/obidos
 
-         referido$manuel pereira da costa/id=b1761-3-referido
-            ls$residencia/obidos
+            referido$manuel pereira da costa/id=b1761-3-referido
+               ls$residencia/obidos
 
-         mad1$antonia da assuncao/id=b1761-3-per9
-            ls$residencia/obidos
+            mad1$antonia da assuncao/id=b1761-3-per9
+               ls$residencia/obidos
 
       bap$b1761-4/18/1/1761/fl.73/em casa/joao henriques de oliveira (padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$ana/f/id=b1761-4-n
             ls$datanasc/17610114/obs="e nao levou os santos oleos por nao poder hir a igreja e falecer desta molestia"
 
-         pn$manuel ferreira/id=b1761-4-per1
-            ls$residencia/obidos
+            pn$manuel ferreira/id=b1761-4-per1
+               ls$residencia/obidos
 
-         mn$maria ferreira/id=b1761-4-per2
-            ls$residencia/obidos
+            mn$maria ferreira/id=b1761-4-per2
+               ls$residencia/obidos
 
-         referido$joao henriques de oliveira/id=b1761-4-per3
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao pedro
-            rel$sociabilidade/baptizou em necessidade/ana/b1761-4-n
+            referido$joao henriques de oliveira/id=b1761-4-per3
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao pedro
+               rel$sociabilidade/baptizou em necessidade/ana/b1761-4-n
 
       bap$b1761-5/26/1/1761/fl.73-73v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques. o livro foi visto em visitacao de 10 de fevereiro de 1761.
 
          n$jose/m/id=b1761-5-per1
             ls$datanasc/17610113
 
-         pn$manuel ferreira/id=b1761-5-per2
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel ferreira/id=b1761-5-per2
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$joao ferreira/id=b1761-5-per3
-            ls$residencia/usseira
+               ppn$joao ferreira/id=b1761-5-per3
+                  ls$residencia/usseira
 
-         mpn$maria gomes/id=b1761-5-per4
-            ls$residencia/usseira
+               mpn$maria gomes/id=b1761-5-per4
+                  ls$residencia/usseira
 
-         mn$quiteria da silva/id=b1761-5-per5
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$quiteria da silva/id=b1761-5-per5
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$miguel da silva/id=b1761-5-per6
-            ls$residencia/fraldeu
-            ls$freguesia/santa maria
+               pmn$miguel da silva/id=b1761-5-per6
+                  ls$residencia/fraldeu
+                  ls$freguesia/santa maria
 
-         mmn$mariana gomes/id=b1761-5-per7
-            ls$residencia/fraldeu
-            ls$freguesia/santa maria
+               mmn$mariana gomes/id=b1761-5-per7
+                  ls$residencia/fraldeu
+                  ls$freguesia/santa maria
 
-         pad1$jose soares de almeida/id=b1761-5-per8
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao pedro de obidos
+            pad1$jose soares de almeida/id=b1761-5-per8
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao pedro de obidos
 
-         mad1$maria do desterro/id=b1761-5-per9
-            ls$residencia/usseira
+            mad1$maria do desterro/id=b1761-5-per9
+               ls$residencia/usseira
 
       bap$b1761-6/8/2/1761/fl.73v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$jose/m/id=b1761-6-per1
             ls$datanasc/17610201
 
-         pn$antonio monteiro/id=b1761-6-per2
-            ls$residencia/casais do pinhal
-            ls$naturalidade/bairro, freguesia de sao joao
-            ls$locbaptismo/freguesia de sao joao
-            ls$loccasamento/igreja de sao pedro
+            pn$antonio monteiro/id=b1761-6-per2
+               ls$residencia/casais do pinhal
+               ls$naturalidade/bairro, freguesia de sao joao
+               ls$locbaptismo/freguesia de sao joao
+               ls$loccasamento/igreja de sao pedro
 
-         mn$maria teresa/id=b1761-6-per3
-            ls$naturalidade/casal do azambujeiro, freguesia de sao tiago
-            ls$loccasamento/igreja de sao pedro
+            mn$maria teresa/id=b1761-6-per3
+               ls$naturalidade/casal do azambujeiro, freguesia de sao tiago
+               ls$loccasamento/igreja de sao pedro
 
-         pad1$jose pereira/id=b1761-6-per4
-            ls$residencia/casal da calcada
+            pad1$jose pereira/id=b1761-6-per4
+               ls$residencia/casal da calcada
 
-         mad1$catarina maria/id=b1761-6-per5
-            ls$residencia/pinhal
+            mad1$catarina maria/id=b1761-6-per5
+               ls$residencia/pinhal
 
       bap$b1761-7/14/2/1761/fl.74/igreja de sao pedro/jose moreira chaves (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$joaquim/m/id=b1761-7-n
             ls$datanasc/17610204
 
-         pn$jose gomes/id=b1761-7-per1
-            ls$residencia/obidos
+            pn$jose gomes/id=b1761-7-per1
+               ls$residencia/obidos
 
-         mn$catarina de sena/id=b1761-7-per2
-            ls$residencia/obidos
+            mn$catarina de sena/id=b1761-7-per2
+               ls$residencia/obidos
 
-         pad1$manuel baptista da cruz/id=b1761-7-per3
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            pad1$manuel baptista da cruz/id=b1761-7-per3
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
-         mad1$teodora da piedade/id=b1761-7-per4
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$teodora da piedade/id=b1761-7-per4
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         referido$jose moreira chaves/id=b1761-7-per5
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao pedro de obidos
-            rel$sociabilidade/baptizou em necessidade/joaquim/b1761-7-n
+            referido$jose moreira chaves/id=b1761-7-per5
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao pedro de obidos
+               rel$sociabilidade/baptizou em necessidade/joaquim/b1761-7-n
 
       bap$b1761-8/22/2/1761/fl.74-74v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$jose/m/id=b1761-8-per1
             ls$datanasc/17610204
 
-         pn$manuel das neves/id=b1761-8-per2
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel das neves/id=b1761-8-per2
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$antonio das neves/id=b1761-8-per3
-            ls$residencia/usseira
-            ls$loccasamento/freguesia do bom jesus do carvalhal
+               ppn$antonio das neves/id=b1761-8-per3
+                  ls$residencia/usseira
+                  ls$loccasamento/freguesia do bom jesus do carvalhal
 
-         mpn$teresa ferreira/id=b1761-8-per4
-            ls$naturalidade/bairro do lobo, freguesia do bom jesus do carvalhal
-            ls$loccasamento/freguesia do bom jesus do carvalhal
+               mpn$teresa ferreira/id=b1761-8-per4
+                  ls$naturalidade/bairro do lobo, freguesia do bom jesus do carvalhal
+                  ls$loccasamento/freguesia do bom jesus do carvalhal
 
-         mn$maria inacia/id=b1761-8-per5
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria inacia/id=b1761-8-per5
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$manuel gomes/id=b1761-8-per6
-            ls$naturalidade/fraldeu, freguesia de santa maria
-            ls$locbaptismo/freguesia de santa maria
-            ls$loccasamento/freguesia de sao pedro
+               pmn$manuel gomes/id=b1761-8-per6
+                  ls$naturalidade/fraldeu, freguesia de santa maria
+                  ls$locbaptismo/freguesia de santa maria
+                  ls$loccasamento/freguesia de sao pedro
 
-         mmn$inacia maria/id=b1761-8-per7
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mmn$inacia maria/id=b1761-8-per7
+                  ls$residencia/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         pad1$jose das neves/id=b1761-8-per8
-            ls$residencia/usseira
+            pad1$jose das neves/id=b1761-8-per8
+               ls$residencia/usseira
 
-         mad1$maria ferreira/id=b1761-8-per9
+            mad1$maria ferreira/id=b1761-8-per9
 
       bap$b1761-9/28/2/1761/fl.74v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1761-9-per1
             ls$datanasc/17610211
 
-         pn$manuel antonio de seixas/id=b1761-9-per2
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
+            pn$manuel antonio de seixas/id=b1761-9-per2
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de nossa senhora da purificacao, rolica
 
-         ppn$manuel de seixas e vasconcelos/id=b1761-9-per3
-            ls$residencia/obidos
+               ppn$manuel de seixas e vasconcelos/id=b1761-9-per3
+                  ls$residencia/obidos
 
-         mpn$maria de sao jose/id=b1761-9-per4
-            ls$residencia/obidos
+               mpn$maria de sao jose/id=b1761-9-per4
+                  ls$residencia/obidos
 
-         mn$teresa casimira de mendonca/id=b1761-9-per5
-            ls$titulo/dona
-            ls$naturalidade/columbeira, freguesia de nossa senhora da purificacao da rolica
-            ls$locbaptismo/freguesia de nossa senhora da purificacao da rolica
-            ls$loccasamento/freguesia de nossa senhora da purificacao da rolica
+            mn$teresa casimira de mendonca/id=b1761-9-per5
+               ls$titulo/dona
+               ls$naturalidade/columbeira, freguesia de nossa senhora da purificacao da rolica
+               ls$locbaptismo/freguesia de nossa senhora da purificacao da rolica
+               ls$loccasamento/freguesia de nossa senhora da purificacao da rolica
 
-         pmn$manuel tavares/id=b1761-9-per6
-            ls$naturalidade/columbeira
+               pmn$manuel tavares/id=b1761-9-per6
+                  ls$naturalidade/columbeira
 
-         mmn$joana/id=b1761-9-per7
-            ls$titulo/dona
-            ls$naturalidade/columbeira
+               mmn$joana/id=b1761-9-per7
+                  ls$titulo/dona
+                  ls$naturalidade/columbeira
 
-         pad1$jose moreira chaves/id=b1761-9-per8
-            ls$profissao/padre
-            ls$cargo/economo da igreja de sao pedro de obidos
+            pad1$jose moreira chaves/id=b1761-9-per8
+               ls$profissao/padre
+               ls$cargo/economo da igreja de sao pedro de obidos
 
       bap$b1761-10/1/3/1761/fl.75/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$jose/m/id=b1761-10-per1
             ls$datanasc/17610219
 
-         pn$jeronimo henriques/id=b1761-10-per2
-            ls$naturalidade/casais do pinhal
+            pn$jeronimo henriques/id=b1761-10-per2
+               ls$naturalidade/casais do pinhal
 
-         mn$pascoa maria/id=b1761-10-per3
+            mn$pascoa maria/id=b1761-10-per3
 
-         pad1$joaquim ribeiro da gama/id=b1761-10-per4
-            ls$residencia/obidos
+            pad1$joaquim ribeiro da gama/id=b1761-10-per4
+               ls$residencia/obidos
 
-         procurador-pad1$pedro jose racher/id=b1761-10-per5
+            procurador-pad1$pedro jose racher/id=b1761-10-per5
 
-         mad1$josefa joaquina do carmo/id=b1761-10-mad
+            mad1$josefa joaquina do carmo/id=b1761-10-mad
 
-         procurador-mad1$antonio jose carreira/id=b1761-10-per6
-            rel$parentesco/irmao/josefa joaquina do carmo/b1761-10-mad
+            procurador-mad1$antonio jose carreira/id=b1761-10-per6
+               rel$parentesco/irmao/josefa joaquina do carmo/b1761-10-mad
 
       bap$b1761-11/23/4/1761/fl.75/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$teresa/f/id=b1761-11-per1
             ls$datanasc/17610404
 
-         pn$jose de almeida rebelo/id=b1761-11-per2
-            ls$residencia/obidos
+            pn$jose de almeida rebelo/id=b1761-11-per2
+               ls$residencia/obidos
 
-         mn$catarina antonia de pina/id=b1761-11-per3
-            ls$residencia/obidos
+            mn$catarina antonia de pina/id=b1761-11-per3
+               ls$residencia/obidos
 
-         pad1$bras antunes correia/id=b1761-11-per4
-            ls$cargo/prior de sao joao
-            ls$residencia/obidos
+            pad1$bras antunes correia/id=b1761-11-per4
+               ls$cargo/prior de sao joao
+               ls$residencia/obidos
 
-         mad1$delfina rosa margarida/id=b1761-11-mad
-            ls$residencia/obidos
-            rel$parentesco/filha/manuel de faria/b1761-11-referido
+            mad1$delfina rosa margarida/id=b1761-11-mad
+               ls$residencia/obidos
+               rel$parentesco/filha/manuel de faria/b1761-11-referido
 
-         referido$manuel de faria/id=b1761-11-referido
-            ls$residencia/obidos
+            referido$manuel de faria/id=b1761-11-referido
+               ls$residencia/obidos
 
-         procurador-mad1$felix jose de faria/id=b1761-11-per5
-            ls$residencia/obidos
-            ls$profissao/padre
-            rel$parentesco/irmao/delfina rosa margarida/b1761-11-mad
+            procurador-mad1$felix jose de faria/id=b1761-11-per5
+               ls$residencia/obidos
+               ls$profissao/padre
+               rel$parentesco/irmao/delfina rosa margarida/b1761-11-mad
 
       bap$b1761-12/5/5/1761/fl.75v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$ana/f/id=b1761-12-per1
             ls$datanasc/17610402
 
-         pn$henrique da silva/id=b1761-12-per2
-            ls$residencia/obidos
+            pn$henrique da silva/id=b1761-12-per2
+               ls$residencia/obidos
 
-         ppn$antonio henriques/id=b1761-12-per3
+               ppn$antonio henriques/id=b1761-12-per3
 
-         mpn$brisida teresa/id=b1761-12-per4
+               mpn$brisida teresa/id=b1761-12-per4
 
-         mn$joaquina maria/id=b1761-12-per5
-            ls$enjeitada/sim/obs=filha de pais incognitos
-            ls$residencia/obidos
+            mn$joaquina maria/id=b1761-12-per5
+               ls$enjeitada/sim/obs=filha de pais incognitos
+               ls$residencia/obidos
 
-         pmn$nome desconhecido/id=b1761-12-per6
-            ls$cargo/beneficiado
+               pmn$nome desconhecido/id=b1761-12-per6
+                  ls$cargo/beneficiado
 
-         mmn$nome desconhecido/id=b1761-12-per7
+               mmn$nome desconhecido/id=b1761-12-per7
 
-         pad1$antonio correia manuel/id=b1761-12-per8
+            pad1$antonio correia manuel/id=b1761-12-per8
 
-         mad1$ana catarina vitoria da silva/id=b1761-12-per9
-            ls$titulo/dona
+            mad1$ana catarina vitoria da silva/id=b1761-12-per9
+               ls$titulo/dona
 
-         procurador-mad1$joao henriques de oliveira/id=b1761-12-per10
-            ls$profissao/padre
+            procurador-mad1$joao henriques de oliveira/id=b1761-12-per10
+               ls$profissao/padre
 
       bap$b1761-13/7/5/1761/fl.75v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$antonio jose/m/id=b1761-13-per1
             ls$datanasc/17610417
 
-         pn$manuel gomes/id=b1761-13-per2
-            ls$naturalidade/casais do pinhal
-            ls$residencia/casais do pinhal
+            pn$manuel gomes/id=b1761-13-per2
+               ls$naturalidade/casais do pinhal
+               ls$residencia/casais do pinhal
 
-         mn$antonia joaquina/id=b1761-13-per3
-            ls$naturalidade/casais do pinhal
-            ls$residencia/casais do pinhal
+            mn$antonia joaquina/id=b1761-13-per3
+               ls$naturalidade/casais do pinhal
+               ls$residencia/casais do pinhal
 
-         pad1$jose gomes/id=b1761-13-per4
-            ls$residencia/casais do pinhal
+            pad1$jose gomes/id=b1761-13-per4
+               ls$residencia/casais do pinhal
 
-         mad1$pascoa maria/id=b1761-13-per5
-            ls$residencia/casais do pinhal
+            mad1$pascoa maria/id=b1761-13-per5
+               ls$residencia/casais do pinhal
 
       bap$b1761-14/11/5/1761/fl.76/igreja de sao pedro/joao henriques (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1761-14-per1
             ls$datanasc/17610428
 
-         pn$francisco de matos/id=b1761-14-per2
-            ls$residencia/pinhal
+            pn$francisco de matos/id=b1761-14-per2
+               ls$residencia/pinhal
 
-         mn$ana joaquina de sao bernardo/id=b1761-14-per3
-            ls$residencia/pinhal
+            mn$ana joaquina de sao bernardo/id=b1761-14-per3
+               ls$residencia/pinhal
 
-         pad1$francisco xavier de matos/id=b1761-14-per4
-            ls$profissao/padre
-            ls$cargo/cura da igreja de sao tiago de obidos
+            pad1$francisco xavier de matos/id=b1761-14-per4
+               ls$profissao/padre
+               ls$cargo/cura da igreja de sao tiago de obidos
 
-         mad1$teresa josefa de jesus/id=b1761-14-per5
+            mad1$teresa josefa de jesus/id=b1761-14-per5
 
-         procurador-mad1$filipe gomes leal/id=b1761-14-per6
-            ls$profissao/padre
-            ls$residencia/obidos
+            procurador-mad1$filipe gomes leal/id=b1761-14-per6
+               ls$profissao/padre
+               ls$residencia/obidos
 
       bap$b1761-15/23/5/1761/fl.76-76v./igreja de sao pedro/jose moreira chaves (reverendo, padre)/obs=assina o cura valeriano gomes henriques
 
          n$paulo isidoro/m/id=b1761-15-per1
             ls$datanasc/17610515
 
-         pn$antonio da silva/id=b1761-15-per2
-            ls$residencia/obidos
+            pn$antonio da silva/id=b1761-15-per2
+               ls$residencia/obidos
 
-         mn$monica do espirito santo/id=b1761-15-per3
-            ls$residencia/obidos
+            mn$monica do espirito santo/id=b1761-15-per3
+               ls$residencia/obidos
 
-         pad1$paulo de sequeira henriques/id=b1761-15-per4
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            pad1$paulo de sequeira henriques/id=b1761-15-per4
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
       bap$b1761-16/27/5/1761/fl.76v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$francisco/m/id=b1761-16-per1
             ls$datanasc/17610517
 
-         pn$luis pedro/id=b1761-16-per2
-            ls$profissao/carpinteiro
+            pn$luis pedro/id=b1761-16-per2
+               ls$profissao/carpinteiro
 
-         mn$ana joaquina/id=b1761-16-per3
-            ls$naturalidade/freguesia de sao pedro
+            mn$ana joaquina/id=b1761-16-per3
+               ls$naturalidade/freguesia de sao pedro
 
-         pad1$francisco antonio de sequeira/id=b1761-16-per4
-            ls$residencia/obidos
+            pad1$francisco antonio de sequeira/id=b1761-16-per4
+               ls$residencia/obidos
 
       bap$b1761-17/9/8/1761/fl.77/igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$jose/m/id=b1761-17-per1
             ls$datanasc/17610718
 
-         pn$manuel pereira/id=b1761-17-per2
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$manuel pereira/id=b1761-17-per2
+               ls$naturalidade/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         ppn$antonio pereira/id=b1761-17-per3
-            ls$locbaptismo/igreja de nossa senhora da purificacao da rolica
-            ls$loccasamento/freguesia de sao pedro
+               ppn$antonio pereira/id=b1761-17-per3
+                  ls$locbaptismo/igreja de nossa senhora da purificacao da rolica
+                  ls$loccasamento/freguesia de sao pedro
 
-         mpn$maria das neves/id=b1761-17-per4
-            ls$naturalidade/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+               mpn$maria das neves/id=b1761-17-per4
+                  ls$naturalidade/usseira
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/freguesia de sao pedro
 
-         mn$maria de sao jose/id=b1761-17-per5
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$maria de sao jose/id=b1761-17-per5
+               ls$naturalidade/obidos
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pmn$manuel henriques/id=b1761-17-per6
-            ls$naturalidade/obidos
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/lisboa, freguesia de sao nicolau
+               pmn$manuel henriques/id=b1761-17-per6
+                  ls$naturalidade/obidos
+                  ls$locbaptismo/freguesia de sao pedro
+                  ls$loccasamento/lisboa, freguesia de sao nicolau
 
-         mmn$teresa de jesus/id=b1761-17-per7
-            ls$locbaptismo/lisboa, freguesia de sao nicolau
-            ls$loccasamento/lisboa, freguesia de sao nicolau
+               mmn$teresa de jesus/id=b1761-17-per7
+                  ls$locbaptismo/lisboa, freguesia de sao nicolau
+                  ls$loccasamento/lisboa, freguesia de sao nicolau
 
-         pad1$antonio de macedo neto/id=b1761-17-per8
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad1$antonio de macedo neto/id=b1761-17-per8
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad1$ana clara de pina/id=b1761-17-per9
-            ls$residencia/obidos
+            mad1$ana clara de pina/id=b1761-17-per9
+               ls$residencia/obidos
 
-         procurador-mad1$pedro de almeida rebelo/id=b1761-17-per10
-            ls$residencia/obidos
+            procurador-mad1$pedro de almeida rebelo/id=b1761-17-per10
+               ls$residencia/obidos
 
       bap$b1761-18/29/8/1761/fl.77v./igreja de sao pedro/antonio daniel da costa e azevedo (muito reverendo, prior)/obs=assina o cura valeriano gomes henriques
 
          n$joao/m/id=b1761-18-per1
             ls$datanasc/17610821
 
-         pn$joao manuel da silva freire/id=b1761-18-per2
-            ls$residencia/obidos
+            pn$joao manuel da silva freire/id=b1761-18-per2
+               ls$residencia/obidos
 
-         mn$violante barbara eugenia sottomaior/id=b1761-18-per3
-            ls$titulo/dona
-            ls$residencia/obidos
+            mn$violante barbara eugenia sottomaior/id=b1761-18-per3
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         pad1$domingos jose da cunha de los rios/id=b1761-18-per4
-            ls$residencia/santarem
+            pad1$domingos jose da cunha de los rios/id=b1761-18-per4
+               ls$residencia/santarem
 
-         procurador-pad1$teodoro jose travassos/id=b1761-18-per5
-            ls$titulo/reverendo
-            ls$profissao/padre
+            procurador-pad1$teodoro jose travassos/id=b1761-18-per5
+               ls$titulo/reverendo
+               ls$profissao/padre
 
-         mad1$josefa severiana de los rios da cunha/id=b1761-18-per6
-            ls$residencia/santarem
-            ls$titulo/dona
+            mad1$josefa severiana de los rios da cunha/id=b1761-18-per6
+               ls$residencia/santarem
+               ls$titulo/dona
 
-         procurador-mad1$antonio de macedo neto/id=b1761-18-per7
-            ls$titulo/reverendo
-            ls$profissao/padre
-            ls$residencia/obidos
+            procurador-mad1$antonio de macedo neto/id=b1761-18-per7
+               ls$titulo/reverendo
+               ls$profissao/padre
+               ls$residencia/obidos
 
       bap$b1761-19/1/9/1761/fl.78/igreja de sao pedro/joao henriques de oliveira (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$maria/f/id=b1761-19-per1
             ls$datanasc/17610821
 
-         pn$joao henriques/id=b1761-19-per2
-            ls$residencia/casal da eira
+            pn$joao henriques/id=b1761-19-per2
+               ls$residencia/casal da eira
 
-         mn$josefa maria/id=b1761-19-per3
-            ls$residencia/casal da eira
+            mn$josefa maria/id=b1761-19-per3
+               ls$residencia/casal da eira
 
-         pad1$matias rodrigues/id=b1761-19-per4
+            pad1$matias rodrigues/id=b1761-19-per4
 
-         mad1$maria monteiro/id=b1761-19-per5
-            ls$residencia/a da gorda
+            mad1$maria monteiro/id=b1761-19-per5
+               ls$residencia/a da gorda
 
       bap$b1761-20/21/10/1761/fl.78v./igreja de sao pedro/jose moreira chaves (reverendo, padre)/obs=assina o cura valeriano gomes henriques
 
@@ -1490,90 +1490,90 @@ kleio$gacto.str/prefix=spedro
             ls$datanasc/17611021
             ls$datamorte/17611021
 
-         pn$francisco felix/id=b1761-20-per2
-            ls$naturalidade/obidos
+            pn$francisco felix/id=b1761-20-per2
+               ls$naturalidade/obidos
 
-         ppn$jose martins%joze martines/id=b1761-20-per3
-            ls$morto/antes
-            ls$naturalidade/obidos
+               ppn$jose martins%joze martines/id=b1761-20-per3
+                  ls$morto/antes
+                  ls$naturalidade/obidos
 
-         mpn$maria do o/id=b1761-20-per4
-            ls$morta/antes
-            ls$naturalidade/obidos
+               mpn$maria do o/id=b1761-20-per4
+                  ls$morta/antes
+                  ls$naturalidade/obidos
 
-         mn$maria joaquina/id=b1761-20-per5
-            ls$naturalidade/quinta da capeleira
+            mn$maria joaquina/id=b1761-20-per5
+               ls$naturalidade/quinta da capeleira
 
-         pmn$antonio monteiro/id=b1761-20-per6
-            ls$residencia/quinta da capeleira
+               pmn$antonio monteiro/id=b1761-20-per6
+                  ls$residencia/quinta da capeleira
 
-         mmn$antonia maria/id=b1761-20-per7
-            ls$residencia/quinta da capeleira
+               mmn$antonia maria/id=b1761-20-per7
+                  ls$residencia/quinta da capeleira
 
       bap$b1761-21/1/11/1761/fl.79/igreja de sao pedro/joao henriques de oliveira (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$joao/m/id=b1761-21-per1
             ls$datanasc/17611021
 
-         pn$antonio gomes ferreira/id=b1761-21-per2
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            pn$antonio gomes ferreira/id=b1761-21-per2
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         mn$ines maria/id=b1761-21-per3
-            ls$naturalidade/usseira
-            ls$residencia/usseira
-            ls$locbaptismo/freguesia de sao pedro
-            ls$loccasamento/freguesia de sao pedro
+            mn$ines maria/id=b1761-21-per3
+               ls$naturalidade/usseira
+               ls$residencia/usseira
+               ls$locbaptismo/freguesia de sao pedro
+               ls$loccasamento/freguesia de sao pedro
 
-         pad1$miguel barbosa neves/id=b1761-21-per4
-            ls$cargo/beneficiado
-            ls$residencia/obidos
+            pad1$miguel barbosa neves/id=b1761-21-per4
+               ls$cargo/beneficiado
+               ls$residencia/obidos
 
-         mad1$feliciana josefa rosa de faria/id=b1761-21-per5
-            ls$titulo/dona
+            mad1$feliciana josefa rosa de faria/id=b1761-21-per5
+               ls$titulo/dona
 
-         procurador-mad1$felix jose de faria/id=b1761-21-per6
-            ls$profissao/padre
+            procurador-mad1$felix jose de faria/id=b1761-21-per6
+               ls$profissao/padre
 
       bap$b1761-22/4/11/1761/fl.79-79v./igreja de sao pedro/jose moreira chaves (reverendo, padre, economo da igreja de sao pedro)/obs=assina o cura valeriano gomes henriques
 
          n$jose fortunato/m/id=b1761-22-per1
             ls$datanasc/17611024
 
-         pn$antonio jose madeira/id=b1761-22-per2
-            ls$residencia/obidos
+            pn$antonio jose madeira/id=b1761-22-per2
+               ls$residencia/obidos
 
-         mn$josefa umbelina de sao bernardo/id=b1761-22-per3
-            ls$residencia/obidos
+            mn$josefa umbelina de sao bernardo/id=b1761-22-per3
+               ls$residencia/obidos
 
-         pad1$manuel madeira camelo de andrade/id=b1761-22-per4
-            rel$parentesco/filha/antonio jose madeira/b1761-22-referido
+            pad1$manuel madeira camelo de andrade/id=b1761-22-per4
+               rel$parentesco/filha/antonio jose madeira/b1761-22-referido
 
-         mad1$maria teodora da encarnacao/id=b1761-22-per5
-            rel$parentesco/filha/antonio jose madeira/b1761-22-referido
+            mad1$maria teodora da encarnacao/id=b1761-22-per5
+               rel$parentesco/filha/antonio jose madeira/b1761-22-referido
 
-         referido$antonio jose madeira/id=b1761-22-referido
-            ls$cargo/capitao
+            referido$antonio jose madeira/id=b1761-22-referido
+               ls$cargo/capitao
 
-         procurador-mad1$manuel nunes dos reis/id=b1761-22-per6
-            ls$titulo/doutor
-            ls$profissao/medico
+            procurador-mad1$manuel nunes dos reis/id=b1761-22-per6
+               ls$titulo/doutor
+               ls$profissao/medico
 
       bap$b1761-23/13/12/1761/fl.79v./igreja de sao pedro/valeriano gomes henriques (cura)/obs=assina o cura valeriano gomes henriques
 
          n$jose/m/id=b1761-23-per1
             ls$datanasc/17611120
 
-         pn$sebastiao da silva/id=b1761-23-per2
-            ls$residencia/casal dos capuchos
+            pn$sebastiao da silva/id=b1761-23-per2
+               ls$residencia/casal dos capuchos
 
-         mn$maria ferreira/id=b1761-23-per3
-            ls$residencia/casal dos capuchos
+            mn$maria ferreira/id=b1761-23-per3
+               ls$residencia/casal dos capuchos
 
-         pad1$manuel francisco/id=b1761-23-per4
-            ls$residencia/moinho do lagar
+            pad1$manuel francisco/id=b1761-23-per4
+               ls$residencia/moinho do lagar
 
-         mad1$josefa maria/id=b1761-23-per5
-            ls$residencia/casal do codorno
+            mad1$josefa maria/id=b1761-23-per5
+               ls$residencia/casal do codorno

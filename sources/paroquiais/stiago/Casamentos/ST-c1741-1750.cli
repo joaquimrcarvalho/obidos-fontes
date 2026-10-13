@@ -1,22 +1,22 @@
-kleio$gacto.str/prefix=stiago
+kleio$gacto.str/prefix=stiago/translations=1
    fonte$casamentos1741-1750/localizacao-a.d.l./freguesia de sao tiago de obidos
 
       cas$c1741-1/8/1/1741/fl.81./igreja de sao tiago/jose de matos(cura)/obs=assina jose de matos (cura)
 
          noivo$joao francisco/id=c1741-1-per1
 
-         pnoivo$manuel jorge/id=c1741-1-per2
-            ls$morto/antes
-            ls$residencia/arelho
+            pnoivo$manuel jorge/id=c1741-1-per2
+               ls$morto/antes
+               ls$residencia/arelho
 
-         mnoivo$francisca maria/id=c1741-1-per3
+            mnoivo$francisca maria/id=c1741-1-per3
 
          noiva$josefa leal/id=c1741-1-per4
             ls$ec/v/obs=refere ser viuva de jose rodrigues
             ls$residencia/quinta da galeota
 
-         marido1$jose rodrigues/id=c1741-1-per5
-            ls$morto/antes
+            marido1$jose rodrigues/id=c1741-1-per5
+               ls$morto/antes
 
          test$manuel baptista da cruz/id=c1741-1-per6
 
@@ -24,18 +24,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$jose gomes/id=c1741-2-per1
 
-         pnoivo$manuel gomes/id=c1741-2-per2
-            ls$alcunha/o saramago
-            ls$residencia/lugar de useira freguesia de sao pedro de obidos
+            pnoivo$manuel gomes/id=c1741-2-per2
+               ls$alcunha/o saramago
+               ls$residencia/lugar de useira freguesia de sao pedro de obidos
 
-         mnoivo$domingas ferreira/id=c1741-2-per3
+            mnoivo$domingas ferreira/id=c1741-2-per3
 
          noiva$maria gomes/id=c1741-2-per4
 
-         pnoiva$manuel gomes/id=c1741-2-per5
-            ls$residencia/moinho do fraldeu freguesia de santa maria de obidos
+            pnoiva$manuel gomes/id=c1741-2-per5
+               ls$residencia/moinho do fraldeu freguesia de santa maria de obidos
 
-         mnoiva$maria da costa/id=c1741-2-per6
+            mnoiva$maria da costa/id=c1741-2-per6
 
          test$joao de deus/id=c1741-2-per7
             ls$cargo/tesoureiro da igreja de sao tiago de obidos
@@ -48,21 +48,21 @@ kleio$gacto.str/prefix=stiago
 
          noivo$jose henriques/id=c1741-3-per1
 
-         pnoivo$pascoal henriques/id=c1741-3-per2
-            ls$residencia/sobral da lagoa
+            pnoivo$pascoal henriques/id=c1741-3-per2
+               ls$residencia/sobral da lagoa
 
-         mnoivo$antonia francisca/id=c1741-3-per3
+            mnoivo$antonia francisca/id=c1741-3-per3
 
          noiva$antonia maria dos santos/id=c1741-3-per4
             ls$ec/v/obs=refere ser viuva de manuel henriques
 
-         marido1$manuel henriques/id=c1741-3-per5
-            ls$morto/antes
+            marido1$manuel henriques/id=c1741-3-per5
+               ls$morto/antes
 
-         pnoiva$antonio dos santos/id=c1741-3-per6
-            ls$residencia/casal do touguio
+            pnoiva$antonio dos santos/id=c1741-3-per6
+               ls$residencia/casal do touguio
 
-         mnoiva$maria francisca/id=c1741-3-per7
+            mnoiva$maria francisca/id=c1741-3-per7
 
          test$francisco rodrigues da serra/id=c1741-3-per8
             ls$residencia/obidos
@@ -74,18 +74,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joao ribeiro/id=c1742-4-per1
 
-         pnoivo$joao ribeiro/id=c1742-4-per2
-            ls$residencia/lugar de ameais, freguesia de nossa senhora da visitacao da vila de alvorninha
+            pnoivo$joao ribeiro/id=c1742-4-per2
+               ls$residencia/lugar de ameais, freguesia de nossa senhora da visitacao da vila de alvorninha
 
-         mnoivo$madalena vicente/id=c1742-4-per3
+            mnoivo$madalena vicente/id=c1742-4-per3
 
          noiva$rosa maria/id=c1742-4-per4
 
-         pnoiva$manuel coelho/id=c1742-4-per5
-            ls$morto/antes
-            ls$residencia/lugar de ameais, freguesia de nossa senhora da visitacao da vila
+            pnoiva$manuel coelho/id=c1742-4-per5
+               ls$morto/antes
+               ls$residencia/lugar de ameais, freguesia de nossa senhora da visitacao da vila
 
-         mnoiva$sebastiana francisca/id=c1742-4-per6
+            mnoiva$sebastiana francisca/id=c1742-4-per6
 
          test$frutuoso inacio furtado/id=c1742-4-per7
             ls$cargo/escrivao
@@ -101,23 +101,23 @@ kleio$gacto.str/prefix=stiago
          noivo$joao ferreira/id=c1742-5-per1
             ls$naturalidade/vila de maiorca
 
-         pnoivo$joao francisco/id=c1742-5-per2
-            ls$residencia/lugar de casalinho
+            pnoivo$joao francisco/id=c1742-5-per2
+               ls$residencia/lugar de casalinho
 
-         mnoivo$antonia ferreira/id=c1742-5-per3
+            mnoivo$antonia ferreira/id=c1742-5-per3
 
          noiva$maria coelha/id=c1742-5-per4
             ls$ec/v/obs=refere ser viuva de manuel de barros
             ls$residencia/vila de maiorca
 
-         marido1$manuel de barros/id=c1742-5-per5
-            ls$morto/antes
+            marido1$manuel de barros/id=c1742-5-per5
+               ls$morto/antes
 
-         pnoiva$domingos francisco/id=c1742-5-per6
-            ls$morto/antes
-            ls$residencia/alcobaca
+            pnoiva$domingos francisco/id=c1742-5-per6
+               ls$morto/antes
+               ls$residencia/alcobaca
 
-         mnoiva$josefa pereira/id=c1742-5-per7
+            mnoiva$josefa pereira/id=c1742-5-per7
 
          test$luis pedro furtado/id=c1742-5-per8
             ls$cargo/escrivao do auditorio eclesiastico de obidos
@@ -133,17 +133,17 @@ kleio$gacto.str/prefix=stiago
          noivo$cesar da cruz cunha/obs=duvida na leitura do nome/id=c1742-6-per1
             ls$naturalidade/gaeiras
 
-         pnoivo$luis da cunha/id=c1742-6-per2
-            ls$morto/antes
-            ls$residencia/lugar de casalinho
+            pnoivo$luis da cunha/id=c1742-6-per2
+               ls$morto/antes
+               ls$residencia/lugar de casalinho
 
-         mnoivo$maria correia/id=c1742-6-per3
+            mnoivo$maria correia/id=c1742-6-per3
 
          noiva$maria inacia/id=c1742-6-per4
 
-         pnoiva$agostinho francisco/obs=nao se refere o nome da mae da noiva/id=c1742-6-per5
-            ls$morto/antes
-            ls$residencia/casal da bochardia
+            pnoiva$agostinho francisco/obs=nao se refere o nome da mae da noiva/id=c1742-6-per5
+               ls$morto/antes
+               ls$residencia/casal da bochardia
 
          test$miguel barbosa neves/id=c1742-6-per6
             ls$profissao/padre
@@ -156,18 +156,18 @@ kleio$gacto.str/prefix=stiago
          noivo$domingos henriques/id=c1743-7-per1
             ls$residencia/casal do negrelho
 
-         pnoivo$manuel henriques/id=c1743-7-per2
-            ls$residencia/casal do negrelho
+            pnoivo$manuel henriques/id=c1743-7-per2
+               ls$residencia/casal do negrelho
 
-         mnoivo$catarina da conceicao/id=c1743-7-per3
-            ls$morta/antes
+            mnoivo$catarina da conceicao/id=c1743-7-per3
+               ls$morta/antes
 
          noiva$maria da conceicao/id=c1743-7-per4
 
-         pnoiva$jose da costa/id=c1743-7-per5
-            ls$residencia/casal de santa maria
+            pnoiva$jose da costa/id=c1743-7-per5
+               ls$residencia/casal de santa maria
 
-         mnoiva$francisca lopes/id=c1743-7-per6
+            mnoiva$francisca lopes/id=c1743-7-per6
 
          test$manuel barbosa neves/id=c1743-7-per7
             ls$residencia/obidos
@@ -184,18 +184,18 @@ kleio$gacto.str/prefix=stiago
             mulher1$maria madalena/id=c1743-8-per1-per2
                ls$morta/antes
 
-         pnoivo$manuel francisco/id=c1743-8-per3
-            ls$residencia/sobral da lagoa
+            pnoivo$manuel francisco/id=c1743-8-per3
+               ls$residencia/sobral da lagoa
 
-         mnoivo$vitoria luis/id=c1743-8-per4
+            mnoivo$vitoria luis/id=c1743-8-per4
 
          noiva$teresa maria/id=c1743-8-per5
 
-         pnoiva$jose monteiro/id=c1743-8-per6
-            ls$morto/antes
-            ls$residencia/casal do negrelho
+            pnoiva$jose monteiro/id=c1743-8-per6
+               ls$morto/antes
+               ls$residencia/casal do negrelho
 
-         mnoiva$domingas da horta/id=c1743-8-per7
+            mnoiva$domingas da horta/id=c1743-8-per7
 
          test$manuel henriques/id=c1743-8-per8
             ls$residencia/casal do negrelho
@@ -211,19 +211,19 @@ kleio$gacto.str/prefix=stiago
             mulher1$brigida henriques/id=c1743-9-per1-per2
                ls$morta/antes
 
-         pnoivo$pedro do couto/id=c1743-9-per3
-            ls$morto/antes
-            ls$residencia/serra do bouro
+            pnoivo$pedro do couto/id=c1743-9-per3
+               ls$morto/antes
+               ls$residencia/serra do bouro
 
-         mnoivo$maria de oliveira/id=c1743-9-per4
-            ls$morta/antes
+            mnoivo$maria de oliveira/id=c1743-9-per4
+               ls$morta/antes
 
          noiva$teresa maria/id=c1743-9-per5
 
-         pnoiva$sebastiao ferreira/id=c1743-9-per6
-            ls$residencia/casais do nadadouro
+            pnoiva$sebastiao ferreira/id=c1743-9-per6
+               ls$residencia/casais do nadadouro
 
-         mnoiva$maria do rosario/id=c1743-9-per7
+            mnoiva$maria do rosario/id=c1743-9-per7
 
          test$joaquim jose/id=c1743-9-per8
             ls$residencia/obidos
@@ -235,17 +235,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$francisco viana/id=c1743-10-per1
 
-         pnoivo$jose lopes/id=c1743-10-per2
-            ls$residencia/arelho
+            pnoivo$jose lopes/id=c1743-10-per2
+               ls$residencia/arelho
 
-         mnoivo$maria simoa/id=c1743-10-per3
+            mnoivo$maria simoa/id=c1743-10-per3
 
          noiva$mariana teresa/id=c1743-10-per4
 
-         pnoiva$pedro francisco/id=c1743-10-per5
-            ls$residencia/nadadouro
+            pnoiva$pedro francisco/id=c1743-10-per5
+               ls$residencia/nadadouro
 
-         mnoiva$teresa maria/id=c1743-10-per6
+            mnoiva$teresa maria/id=c1743-10-per6
 
          test$joaquim jose/id=c1743-10-per7
             ls$residencia/obidos
@@ -259,19 +259,19 @@ kleio$gacto.str/prefix=stiago
             ls$residencia/a dos negros
             rel$parentesco/consanguinidade de terceiro grau/teresa maria de jesus/c1743-11-noiva
 
-         pnoivo$joao antunes de campos/id=c1743-11-per2
-            ls$residencia/gaeiras
+            pnoivo$joao antunes de campos/id=c1743-11-per2
+               ls$residencia/gaeiras
 
-         mnoivo$joana maria/id=c1743-11-per3
+            mnoivo$joana maria/id=c1743-11-per3
 
          noiva$teresa maria de jesus/id=c1743-11-noiva
             ls$residencia/obidos
 
-         pnoiva$francisco soares/id=c1743-11-per4
-            ls$morto/antes
-            ls$residencia/gaeiras
+            pnoiva$francisco soares/id=c1743-11-per4
+               ls$morto/antes
+               ls$residencia/gaeiras
 
-         mnoiva$maria francisca/id=c1743-11-per5
+            mnoiva$maria francisca/id=c1743-11-per5
 
          test$frutuoso inacio furtado/id=c1743-11-per6
             ls$residencia/obidos
@@ -286,17 +286,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$estevao correia/id=c1743-12-per1
 
-         pnoivo$francisco correia/id=c1743-12-per2
-            ls$residencia/obidos
+            pnoivo$francisco correia/id=c1743-12-per2
+               ls$residencia/obidos
 
-         mnoivo$josefa da conceicao/id=c1743-12-per3
+            mnoivo$josefa da conceicao/id=c1743-12-per3
 
          noiva$maria oliveira/id=c1743-12-per4
 
-         pnoiva$manuel teixeira/id=c1743-12-per5
-            ls$residencia/a dos negros
+            pnoiva$manuel teixeira/id=c1743-12-per5
+               ls$residencia/a dos negros
 
-         mnoiva$mariana de oliveira/id=c1743-12-per6
+            mnoiva$mariana de oliveira/id=c1743-12-per6
 
          test$manuel barbosa neves/id=c1743-12-per7
             ls$residencia/obidos
@@ -309,19 +309,19 @@ kleio$gacto.str/prefix=stiago
          noivo$antonio pereira/id=c1743-13-per1
             ls$preso/sim/obs=refere estar preso no aljube de obidos
 
-         pnoivo$antonio pereira/id=c1743-13-per2
-            ls$residencia/pederneira
+            pnoivo$antonio pereira/id=c1743-13-per2
+               ls$residencia/pederneira
 
-         mnoivo$maria coelho/id=c1743-13-per3
+            mnoivo$maria coelho/id=c1743-13-per3
 
          noiva$catarina jorge/id=c1743-13-per4
 
-         pnoiva$domingos carvalho/id=c1743-13-per5
-            ls$morto/antes
-            ls$residencia/lugar de ataifa? de baixo, freguesia de sao vicente da vila de aljubarrota
+            pnoiva$domingos carvalho/id=c1743-13-per5
+               ls$morto/antes
+               ls$residencia/lugar de ataifa? de baixo, freguesia de sao vicente da vila de aljubarrota
 
-         mnoiva$maria jorge/id=c1743-13-per6
-            ls$morta/antes
+            mnoiva$maria jorge/id=c1743-13-per6
+               ls$morta/antes
 
          test$frutuoso inacio furtado/id=c1743-13-per7
             ls$cargo/escrivao da camara eclesiastica de obidos
@@ -335,17 +335,17 @@ kleio$gacto.str/prefix=stiago
          noivo$joaquim rodrigues/id=c1743-14-per1
             rel$parentesco/consanguinidade de quarto grau/rosa maria/c1743-14-per4
 
-         pnoivo$manuel rodrigues/id=c1743-14-per2
-            ls$residencia/columbeira
+            pnoivo$manuel rodrigues/id=c1743-14-per2
+               ls$residencia/columbeira
 
-         mnoivo$maria francisca/id=c1743-14-per3
+            mnoivo$maria francisca/id=c1743-14-per3
 
          noiva$rosa maria/id=c1743-14-per4
 
-         pnoiva$manuel antunes/id=c1743-14-per5
-            ls$residencia/columbeira
+            pnoiva$manuel antunes/id=c1743-14-per5
+               ls$residencia/columbeira
 
-         mnoiva$maria gomes/id=c1743-14-per6
+            mnoiva$maria gomes/id=c1743-14-per6
 
          test$frutuoso inacio furtado/id=c1743-14-per7
             ls$cargo/escrivao da camara eclesiastica de obidos
@@ -358,17 +358,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$silverio da silva/id=c1743-15-per1
 
-         pnoivo$tome da silva/id=c1743-15-per2
-            ls$residencia/casal da teresa no limite dos barracais, freguesia de nossa senhora da purificacao do lugar da rolica
+            pnoivo$tome da silva/id=c1743-15-per2
+               ls$residencia/casal da teresa no limite dos barracais, freguesia de nossa senhora da purificacao do lugar da rolica
 
-         mnoivo$serafina monteira/id=c1743-15-per3
+            mnoivo$serafina monteira/id=c1743-15-per3
 
          noiva$maria do rosario/id=c1743-15-per4
 
-         pnoiva$domingos francisco/id=c1743-15-per5
-            ls$residencia/casal dos carpim?, freguesia de sao salvador no limite do bombarral
+            pnoiva$domingos francisco/id=c1743-15-per5
+               ls$residencia/casal dos carpim?, freguesia de sao salvador no limite do bombarral
 
-         mnoiva$maria soares/id=c1743-15-per6
+            mnoiva$maria soares/id=c1743-15-per6
 
          test$joao de deus/id=c1743-15-per7
             ls$cargo/tesoureiro da igreja de sao tiago de obidos
@@ -394,17 +394,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$joaquim luis/id=c1744-16-per1
 
-         pnoivo$andre luis/id=c1744-16-per2
-            ls$residencia/gaeiras de sao marcos
+            pnoivo$andre luis/id=c1744-16-per2
+               ls$residencia/gaeiras de sao marcos
 
-         mnoivo$domingas ferreira/id=c1744-16-per3
+            mnoivo$domingas ferreira/id=c1744-16-per3
 
          noiva$teresa francisca/id=c1744-16-per4
 
-         pnoiva$miguel francisco/id=c1744-16-per5
-            ls$residencia/freguesia de nossa senhora do rosario do lugar de marinha grande
+            pnoiva$miguel francisco/id=c1744-16-per5
+               ls$residencia/freguesia de nossa senhora do rosario do lugar de marinha grande
 
-         mnoiva$maria lopes/id=c1744-16-per6
+            mnoiva$maria lopes/id=c1744-16-per6
 
          test$joao de deus/id=c1744-16-per7
             ls$cargo/tesoureiro da igreja de sao tiago de obidos
@@ -418,22 +418,22 @@ kleio$gacto.str/prefix=stiago
             ls$preso/sim/obs=refere estar preso no aljube de obidos
             ls$residencia/quinta de valbom da vila de cela
 
-         pnoivo$manuel de cristo/id=c1744-17-per2
-            ls$morto/antes
-            ls$residencia/vila de alcobaca
+            pnoivo$manuel de cristo/id=c1744-17-per2
+               ls$morto/antes
+               ls$residencia/vila de alcobaca
 
-         mnoivo$josefa de sousa/id=c1744-17-per3
+            mnoivo$josefa de sousa/id=c1744-17-per3
 
          noiva$micaela maria/id=c1744-17-per4
             ls$ec/v/obs=refere ser viuva de caetano rodrigues
 
-         marido1$caetano rodirgues/id=c1744-17-per5
-            ls$morto/antes
+            marido1$caetano rodirgues/id=c1744-17-per5
+               ls$morto/antes
 
-         pnoiva$antonio da costa/id=c1744-17-per6
-            ls$residencia/casal da carreira da vila de cela
+            pnoiva$antonio da costa/id=c1744-17-per6
+               ls$residencia/casal da carreira da vila de cela
 
-         mnoiva$bernarda marques/id=c1744-17-per7
+            mnoiva$bernarda marques/id=c1744-17-per7
 
          test$joao de deus/id=c1744-17-per8
             ls$cargo/tesoureiro da igreja de sao tiago de obidos
@@ -447,17 +447,17 @@ kleio$gacto.str/prefix=stiago
          noivo$caetano francisco/id=c1744-18-per1
             ls$preso/sim/obs=refere estar preso no aljube de obidos
 
-         pnoivo$alexandre francisco/id=c1744-18-per2
-            ls$residencia/casal da raposeira
+            pnoivo$alexandre francisco/id=c1744-18-per2
+               ls$residencia/casal da raposeira
 
-         mnoivo$maria da anunciacao/id=c1744-18-per3
+            mnoivo$maria da anunciacao/id=c1744-18-per3
 
          noiva$arcangela de sao pedro/obs=sic/id=c1744-18-per4
 
-         pnoiva$francisco rodrigues/id=c1744-18-per5
-            ls$residencia/freguesia de sao joao da ribeira do termo da vila de santarem
+            pnoiva$francisco rodrigues/id=c1744-18-per5
+               ls$residencia/freguesia de sao joao da ribeira do termo da vila de santarem
 
-         mnoiva$domingas das neves/id=c1744-18-per6
+            mnoiva$domingas das neves/id=c1744-18-per6
 
          test$joao de deus/id=c1744-18-per7
             ls$cargo/tesoureiro da igreja de sao tiago de obidos
@@ -470,19 +470,19 @@ kleio$gacto.str/prefix=stiago
 
          noivo$manuel francisco/id=c1744-19-per1
 
-         pnoivo$manuel francisco/id=c1744-19-per2
-            ls$residencia/gaeiras de nossa senhora da ajuda
+            pnoivo$manuel francisco/id=c1744-19-per2
+               ls$residencia/gaeiras de nossa senhora da ajuda
 
-         mnoivo$josefa maria/id=c1744-19-per3
+            mnoivo$josefa maria/id=c1744-19-per3
 
          noiva$maria antonia/id=c1744-19-per4
             ls$ec/v
             ls$naturalidade/freguesia de sao martinho dos coutos de alcobaca
             ls$residencia/gaeiras de nossa senhora da ajuda
 
-         marido1$agostinho rodrigues/id=c1744-19-per5
-            ls$residencia/arelho
-            ls$morto/antes
+            marido1$agostinho rodrigues/id=c1744-19-per5
+               ls$residencia/arelho
+               ls$morto/antes
 
          test$francisco manuel de barros/id=c1744-19-per6
             ls$cargo/beneficiado
@@ -496,10 +496,10 @@ kleio$gacto.str/prefix=stiago
 
          noivo$manuel da mota/id=c1744-20-per1
 
-         pnoivo$antonio da mota/id=c1744-20-per2
-            ls$residencia/obidos
+            pnoivo$antonio da mota/id=c1744-20-per2
+               ls$residencia/obidos
 
-         mnoivo$antonia da silva/id=c1744-20-per3
+            mnoivo$antonia da silva/id=c1744-20-per3
 
          noiva$joana baptista/id=c1744-20-per4
             ls$enjeitada/sim
@@ -517,18 +517,18 @@ kleio$gacto.str/prefix=stiago
          noivo$antonio pereira/id=c1744-21-per1
             ls$residencia/lugar da vermelha termo da vila do cadaval
 
-         pnoivo$luis pereira/id=c1744-21-per2
-            ls$residencia/sobral do perilhao do lugar do carvalhal
+            pnoivo$luis pereira/id=c1744-21-per2
+               ls$residencia/sobral do perilhao do lugar do carvalhal
 
-         mnoivo$maria de azevedo/id=c1744-21-per3
+            mnoivo$maria de azevedo/id=c1744-21-per3
 
          noiva$antonia de oliveira/id=c1744-21-per4
             ls$residencia/casa de antonio dos santos, obidos/obs=refere ter residido em lisboa
 
-         pnoiva$antonio joao/id=c1744-21-per5
-            ls$residencia/casal das caxinas, freguesia de sao pedro de obidos
+            pnoiva$antonio joao/id=c1744-21-per5
+               ls$residencia/casal das caxinas, freguesia de sao pedro de obidos
 
-         mnoiva$francisca de oliveira/id=c1744-21-per6
+            mnoiva$francisca de oliveira/id=c1744-21-per6
 
          test$jose barbosa neves/id=c1744-21-per7
 
@@ -542,20 +542,20 @@ kleio$gacto.str/prefix=stiago
             ls$residencia/tras do outeiro
             rel$parentesco/consanguinidade de terceiro e quarto graus/luisa maria/c1744-22-noiva
 
-         pnoivo$jose goncalves/id=c1744-22-per2
-            ls$morto/antes
-            ls$residencia/tras do outeiro
+            pnoivo$jose goncalves/id=c1744-22-per2
+               ls$morto/antes
+               ls$residencia/tras do outeiro
 
-         mnoivo$maria do rosario/id=c1744-22-per3
+            mnoivo$maria do rosario/id=c1744-22-per3
 
          noiva$luisa maria/id=c1744-22-noiva
             ls$residencia/tras do outeiro
 
-         pnoiva$manuel leal/id=c1744-22-per4
-            ls$morto/antes
-            ls$residencia/tras do outeiro
+            pnoiva$manuel leal/id=c1744-22-per4
+               ls$morto/antes
+               ls$residencia/tras do outeiro
 
-         mnoiva$isabel antunes/id=c1744-22-per5
+            mnoiva$isabel antunes/id=c1744-22-per5
 
          test$joaquim jose/id=c1744-22-per6
             ls$residencia/obidos
@@ -568,18 +568,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$jose francisco/id=c1744-23-per1
 
-         pnoivo$manuel de sousa/id=c1744-23-per2
-            ls$residencia/vila de cela dos coutos de alcobaca
+            pnoivo$manuel de sousa/id=c1744-23-per2
+               ls$residencia/vila de cela dos coutos de alcobaca
 
-         mnoivo$maria franca/id=c1744-23-per3
+            mnoivo$maria franca/id=c1744-23-per3
 
          noiva$clemencia maria/id=c1744-23-per4
             ls$residencia/vila de cela dos coutos de alcobaca
 
-         pnoiva$joao lopes/id=c1744-23-per5
-            ls$residencia/lamarosa freguesia de nossa senhora do o termo de torres novas
+            pnoiva$joao lopes/id=c1744-23-per5
+               ls$residencia/lamarosa freguesia de nossa senhora do o termo de torres novas
 
-         mnoiva$clara ferreira/id=c1744-23-per6
+            mnoiva$clara ferreira/id=c1744-23-per6
 
          test$manuel gomes/id=c1744-23-per7
 
@@ -593,18 +593,18 @@ kleio$gacto.str/prefix=stiago
             ls$preso/sim/obs=refere estar preso no aljube de obidos
             ls$residencia/casal de sao roque limite do lugar do vau, freguesia de nossa senhora da aboboriz do lugar da amoreira
 
-         pnoivo$manuel martins/id=c1744-24-per2
-            ls$residencia/casal de sao roque limite do lugar do vau, freguesia de nossa senhora da aboboriz do lugar da amoreira
+            pnoivo$manuel martins/id=c1744-24-per2
+               ls$residencia/casal de sao roque limite do lugar do vau, freguesia de nossa senhora da aboboriz do lugar da amoreira
 
-         mnoivo$teresa de jesus/id=c1744-24-per3
+            mnoivo$teresa de jesus/id=c1744-24-per3
 
          noiva$vicencia maria/id=c1744-24-per4
             ls$residencia/vau
 
-         pnoiva$gabriel monteiro/id=c1744-24-per5
-            ls$residencia/vau
+            pnoiva$gabriel monteiro/id=c1744-24-per5
+               ls$residencia/vau
 
-         mnoiva$isabel soares/id=c1744-24-per6
+            mnoiva$isabel soares/id=c1744-24-per6
 
          test$jose da costa peixoto/id=c1744-24-per7
             ls$cargo/tesoureiro da freguesia de santa maria de obidos
@@ -621,10 +621,10 @@ kleio$gacto.str/prefix=stiago
          noiva$ursula maria/id=c1744-25-per1-per2
             ls$residencia/sao mamede
 
-         pnoiva$manuel francisco/id=c1744-25-per1-per3
-            ls$residencia/freguesia de nossa senhora da anunciacao da vila de alvorninha
+            pnoiva$manuel francisco/id=c1744-25-per1-per3
+               ls$residencia/freguesia de nossa senhora da anunciacao da vila de alvorninha
 
-         mnoiva$josefa maria/id=c1744-25-per1-per4
+            mnoiva$josefa maria/id=c1744-25-per1-per4
 
          test$miguel alves delgado/id=c1744-25-per5
             ls$cargo/meirinho geral
@@ -645,9 +645,9 @@ kleio$gacto.str/prefix=stiago
             ls$ec/v/obs=refere ser viuva de manuel dos santos
             ls$residencia/quinta da boa vista/obs=refere ter vivido com o anterior marido na vila das caldas
 
-         marido1$manuel dos santos/id=c1744-26-per3
-            ls$morto/antes
-            ls$residencia/vila das caldas
+            marido1$manuel dos santos/id=c1744-26-per3
+               ls$morto/antes
+               ls$residencia/vila das caldas
 
          test$sebastiao da costa peixoto/id=c1744-26-per4
             ls$residencia/obidos
@@ -660,17 +660,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$matias henriques/id=c1745-27-per1
 
-         pnoivo$joao henriques/id=c1745-27-per2
-            ls$residencia/tornada
+            pnoivo$joao henriques/id=c1745-27-per2
+               ls$residencia/tornada
 
-         mnoivo$mariana ferreira/id=c1745-27-per3
+            mnoivo$mariana ferreira/id=c1745-27-per3
 
          noiva$antonia da nazare/id=c1745-27-per4
 
-         pnoiva$jose rodrigues pinheiro/id=c1745-27-per5
-            ls$residencia/tornada
+            pnoiva$jose rodrigues pinheiro/id=c1745-27-per5
+               ls$residencia/tornada
 
-         mnoiva$eugenia de nazare/id=c1745-27-per6
+            mnoiva$eugenia de nazare/id=c1745-27-per6
 
          test$frutuoso inacio furtado/id=c1745-27-per7
             ls$cargo/escrivao da camara do juizo eclesiastico de obidos
@@ -683,18 +683,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$bernardo anastacio/id=c1745-28-per1
 
-         pnoivo$jose monteiro/id=c1745-28-per2
-            ls$morto/antes
-            ls$residencia/caldas
+            pnoivo$jose monteiro/id=c1745-28-per2
+               ls$morto/antes
+               ls$residencia/caldas
 
-         mnoivo$ana maria/id=c1745-28-per3
+            mnoivo$ana maria/id=c1745-28-per3
 
          noiva$maria da graca/id=c1745-28-per4
 
-         pnoiva$antonio pereira/id=c1745-28-per5
-            ls$residencia/caldas
+            pnoiva$antonio pereira/id=c1745-28-per5
+               ls$residencia/caldas
 
-         mnoiva$maria da costa/id=c1745-28-per6
+            mnoiva$maria da costa/id=c1745-28-per6
 
          test$alexandre caetano avelar/id=c1745-28-per7
             ls$titulo/doutor
@@ -724,17 +724,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$bernardo jose de sequeira/id=c1745-30-per1
 
-         pnoivo$francisco alves/id=c1745-30-per2
-            ls$residencia/obidos
+            pnoivo$francisco alves/id=c1745-30-per2
+               ls$residencia/obidos
 
-         mnoivo$ana de sequeira/id=c1745-30-per3
+            mnoivo$ana de sequeira/id=c1745-30-per3
 
          noiva$teodora maria da silva/id=c1745-30-per4
             ls$ec/v/obs=refere ser viuva de antonio jose
             ls$residencia/alcobaca
 
-         marido1$antonio jose/id=c1745-30-per5
-            ls$morto/antes
+            marido1$antonio jose/id=c1745-30-per5
+               ls$morto/antes
 
          test$frutuoso inacio furtado/id=c1745-30-per6
 
@@ -746,18 +746,18 @@ kleio$gacto.str/prefix=stiago
 
          noivo$manuel da costa/id=c1745-31-per1
 
-         pnoivo$jose da costa/id=c1745-31-per2
-            ls$residencia/casal de santa maria
+            pnoivo$jose da costa/id=c1745-31-per2
+               ls$residencia/casal de santa maria
 
-         mnoivo$francisca lopes/id=c1745-31-per3
+            mnoivo$francisca lopes/id=c1745-31-per3
 
          noiva$antonia maria/id=c1745-31-per4
 
-         pnoiva$manuel cordeiro/id=c1745-31-per5
-            ls$morto/antes
-            ls$residencia/casais do nadadouro
+            pnoiva$manuel cordeiro/id=c1745-31-per5
+               ls$morto/antes
+               ls$residencia/casais do nadadouro
 
-         mnoiva$domingas do couto/id=c1745-31-per6
+            mnoiva$domingas do couto/id=c1745-31-per6
 
          test$joao lopes/id=c1745-31-per7
             ls$residencia/obidos
@@ -772,17 +772,17 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/alvorninha
             ls$residencia/alvorninha
 
-         pnoivo$antonio correia/id=c1745-32-per2
-            ls$residencia/alvorninha
+            pnoivo$antonio correia/id=c1745-32-per2
+               ls$residencia/alvorninha
 
-         mnoivo$bernarda do couto/id=c1745-32-per3
+            mnoivo$bernarda do couto/id=c1745-32-per3
 
          noiva$antonia maria/id=c1745-32-per4
 
-         pnoiva$joao de sousa/id=c1745-32-per5
-            ls$residencia/lugar de mosteiros, freguesia de nossa senhora da piedade do lugar de vidais
+            pnoiva$joao de sousa/id=c1745-32-per5
+               ls$residencia/lugar de mosteiros, freguesia de nossa senhora da piedade do lugar de vidais
 
-         mnoiva$isabel marques/id=c1745-32-per6
+            mnoiva$isabel marques/id=c1745-32-per6
 
          test$luis pedro furtado/id=c1745-32-per7
             ls$cargo/escrivao do juizo eclesiastico de obidos
@@ -795,17 +795,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$manuel francisco/id=c1745-33-per1
 
-         pnoivo$mateus francisco/id=c1745-33-per2
-            ls$residencia/freguesia de nossa senhora da benedita
+            pnoivo$mateus francisco/id=c1745-33-per2
+               ls$residencia/freguesia de nossa senhora da benedita
 
-         mnoivo$benedita marques/id=c1745-33-per3
+            mnoivo$benedita marques/id=c1745-33-per3
 
          noiva$maria joana/id=c1745-33-per4
 
-         pnoiva$manuel luis/id=c1745-33-per5
-            ls$residencia/casal da estrada, freguesia de nossa senhora da benedita
+            pnoiva$manuel luis/id=c1745-33-per5
+               ls$residencia/casal da estrada, freguesia de nossa senhora da benedita
 
-         mnoiva$joana maria/id=c1745-33-per6
+            mnoiva$joana maria/id=c1745-33-per6
 
          test$estevao manuel de leao/id=c1745-33-per7
             ls$residencia/obidos
@@ -819,18 +819,18 @@ kleio$gacto.str/prefix=stiago
          noivo$joaquim dos santos/id=c1745-34-per1
             ls$residencia/casal do rego, freguesia de sao tiago de obidos
 
-         pnoivo$vicente dias/id=c1745-34-per2
-            ls$residencia/tras do outeiro
+            pnoivo$vicente dias/id=c1745-34-per2
+               ls$residencia/tras do outeiro
 
-         mnoivo$iria dos santos/id=c1745-34-per3
+            mnoivo$iria dos santos/id=c1745-34-per3
 
          noiva$maria teresa/id=c1745-34-per4
 
-         pnoiva$francisco henriques/id=c1745-34-per5
-            ls$morto/antes
-            ls$residencia/casal da zambugeira
+            pnoiva$francisco henriques/id=c1745-34-per5
+               ls$morto/antes
+               ls$residencia/casal da zambugeira
 
-         mnoiva$maria teresa/id=c1745-34-per6
+            mnoiva$maria teresa/id=c1745-34-per6
 
          test$filipe gomes leal/id=c1745-34-per7
             ls$profissao/padre
@@ -843,17 +843,17 @@ kleio$gacto.str/prefix=stiago
 
          noivo$manuel soares/id=c1745-35-per1
 
-         pnoivo$jose monteiro/id=c1745-35-per2
-            ls$residencia/quinta da boavista
+            pnoivo$jose monteiro/id=c1745-35-per2
+               ls$residencia/quinta da boavista
 
-         mnoivo$antonia maria/id=c1745-35-per3
+            mnoivo$antonia maria/id=c1745-35-per3
 
          noiva$quiteria maria/id=c1745-35-per4
 
-         pnoiva$agostinho francisco/id=c1745-35-per5
-            ls$residencia/bochardia
+            pnoiva$agostinho francisco/id=c1745-35-per5
+               ls$residencia/bochardia
 
-         mnoiva$josefa francisca/id=c1745-35-per6
+            mnoiva$josefa francisca/id=c1745-35-per6
 
          test$manuel barbosa neves/id=c1745-35-per7
 
@@ -880,17 +880,17 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/caldas
             ls$residencia/caldas
 
-         pnoivo$manuel luis/id=c1746-37-per2
-            ls$residencia/caldas
+            pnoivo$manuel luis/id=c1746-37-per2
+               ls$residencia/caldas
 
-         mnoivo$teresa francisca/id=c1746-37-per3
+            mnoivo$teresa francisca/id=c1746-37-per3
 
          noiva$teresa francisca/id=c1746-37-per4
 
-         pnoiva$lino francisco/id=c1746-37-per5
-            ls$residencia/caldas
+            pnoiva$lino francisco/id=c1746-37-per5
+               ls$residencia/caldas
 
-         mnoiva$valentina henriques/id=c1746-37-per6
+            mnoiva$valentina henriques/id=c1746-37-per6
 
          test$manuel baptista da cruz/id=c1746-37-per7
             ls$cargo/beneficiado
@@ -904,17 +904,17 @@ kleio$gacto.str/prefix=stiago
          noivo$vicente antunes ferreira/id=c1746-38-per1
             ls$naturalidade/lisboa
 
-         pnoivo$domingos antunes/id=c1746-38-per2
-            ls$morto/antes
+            pnoivo$domingos antunes/id=c1746-38-per2
+               ls$morto/antes
 
-         mnoivo$clara francisca/id=c1746-38-per3
+            mnoivo$clara francisca/id=c1746-38-per3
 
          noiva$iria teresa/id=c1746-38-per4
             ls$naturalidade/camarate
 
-         pnoiva$manuel rodrigues/id=c1746-38-per5
+            pnoiva$manuel rodrigues/id=c1746-38-per5
 
-         mnoiva$maria madalena/id=c1746-38-per6
+            mnoiva$maria madalena/id=c1746-38-per6
 
          test$manuel baptista da cruz/id=c1746-38-per7
             ls$cargo/beneficiado
@@ -928,17 +928,17 @@ kleio$gacto.str/prefix=stiago
          noivo$joao lourenco/id=c1746-39-per1
             ls$residencia/freguesia da benedita dos coutos de alcobaca
 
-         pnoivo$manuel lourenco/id=c1746-39-per2
-            ls$morto/antes
+            pnoivo$manuel lourenco/id=c1746-39-per2
+               ls$morto/antes
 
-         mnoivo$domingas do nascimento/id=c1746-39-per3
+            mnoivo$domingas do nascimento/id=c1746-39-per3
 
          noiva$maria do couto/id=c1746-39-per4
             ls$residencia/freguesia da benedita dos coutos de alcobaca
 
-         pnoiva$manuel fernandes/id=c1746-39-per5
+            pnoiva$manuel fernandes/id=c1746-39-per5
 
-         mnoiva$maria do couto/id=c1746-39-per6
+            mnoiva$maria do couto/id=c1746-39-per6
 
          test$luis pedro furtado/id=c1746-39-per7
             ls$cargo/oficial da junta eclesiastica de obidos
@@ -952,17 +952,17 @@ kleio$gacto.str/prefix=stiago
          noivo$caetano jose henriques/id=c1746-40-per1
             ls$naturalidade/lisboa
 
-         pnoivo$manuel henriques/id=c1746-40-per2
+            pnoivo$manuel henriques/id=c1746-40-per2
 
-         mnoivo$teresa de jesus/id=c1746-40-per3
+            mnoivo$teresa de jesus/id=c1746-40-per3
 
          noiva$ines maria de santa ana/id=c1746-40-per4
             ls$naturalidade/obidos
 
-         pnoiva$francisco monteiro/id=c1746-40-per5
-            ls$morto/antes
+            pnoiva$francisco monteiro/id=c1746-40-per5
+               ls$morto/antes
 
-         mnoiva$tomasia maria/id=c1746-40-per6
+            mnoiva$tomasia maria/id=c1746-40-per6
 
          test$antonio dos santos/id=c1746-40-per7
             ls$residencia/obidos
@@ -976,18 +976,18 @@ kleio$gacto.str/prefix=stiago
          noivo$leandro gomes/id=c1746-41-per1
             ls$naturalidade/bombarral
 
-         pnoivo$francisco de abreu/id=c1746-41-per2
-            ls$residencia/casal da mata no limite do lugar do bombarral
+            pnoivo$francisco de abreu/id=c1746-41-per2
+               ls$residencia/casal da mata no limite do lugar do bombarral
 
-         mnoivo$antonia maria/id=c1746-41-per3
+            mnoivo$antonia maria/id=c1746-41-per3
 
          noiva$margarida teresa/id=c1746-41-per4
             ls$naturalidade/freguesia de sao silvestre do lugar de a dos francos
 
-         pnoiva$custodio da costa/id=c1746-41-per5
-            ls$residencia/columbeira, rolica
+            pnoiva$custodio da costa/id=c1746-41-per5
+               ls$residencia/columbeira, rolica
 
-         mnoiva$catarina maria/id=c1746-41-per6
+            mnoiva$catarina maria/id=c1746-41-per6
 
          test$manuel baptista da cruz/id=c1746-41-per7
             ls$cargo/beneficiado da igreja de sao tiago de obidos
@@ -1002,17 +1002,17 @@ kleio$gacto.str/prefix=stiago
          noivo$manuel ribeiro/id=c1746-42-per1
             ls$naturalidade/freguesia de sao gregorio do termo da vila de obidos
 
-         pnoivo$manuel ribeiro/id=c1746-42-per2
+            pnoivo$manuel ribeiro/id=c1746-42-per2
 
-         mnoivo$antonia maria/id=c1746-42-per3
+            mnoivo$antonia maria/id=c1746-42-per3
 
          noiva$luisa maria ribeira/id=c1746-42-per4
             ls$naturalidade/vidais
 
-         pnoiva$bento de oliveira/id=c1746-42-per5
-            ls$residencia/vidais
+            pnoiva$bento de oliveira/id=c1746-42-per5
+               ls$residencia/vidais
 
-         mnoiva$antonia ribeira/id=c1746-42-per6
+            mnoiva$antonia ribeira/id=c1746-42-per6
 
          test$frutuoso inacio furtado/id=c1746-42-per7
 
@@ -1024,21 +1024,21 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/arelho
             ls$residencia/arelho
 
-         pnoivo$jose francisco/id=c1747-43-per2
-            ls$morto/antes
+            pnoivo$jose francisco/id=c1747-43-per2
+               ls$morto/antes
 
-         mnoivo$maria da silva/id=c1747-43-per3
-            ls$morta/antes
+            mnoivo$maria da silva/id=c1747-43-per3
+               ls$morta/antes
 
          noiva$antonia maria/id=c1747-43-per4
             ls$naturalidade/tras do outeiro
             ls$residencia/tras do outeiro
 
-         pnoiva$pedro dias/id=c1747-43-per5
-            ls$morto/antes
-            ls$residencia/vidais
+            pnoiva$pedro dias/id=c1747-43-per5
+               ls$morto/antes
+               ls$residencia/vidais
 
-         mnoiva$maria pereira/id=c1747-43-per6
+            mnoiva$maria pereira/id=c1747-43-per6
 
          test$manuel peres da costa/id=c1747-43-per7
             ls$residencia/obidos
@@ -1053,18 +1053,18 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/casal de caxinas
             ls$residencia/obidos
 
-         pnoivo$antonio joao/id=c1747-44-per2
+            pnoivo$antonio joao/id=c1747-44-per2
 
-         mnoivo$francisca oliveira/id=c1747-44-per3
+            mnoivo$francisca oliveira/id=c1747-44-per3
 
          noiva$antonia maria/id=c1747-44-per4
             ls$naturalidade/tras do outeiro
             ls$residencia/tras do outeiro
 
-         pnoiva$estevao goncalves/id=c1747-44-per5
-            ls$residencia/vidais
+            pnoiva$estevao goncalves/id=c1747-44-per5
+               ls$residencia/vidais
 
-         mnoiva$catarina maria/id=c1747-44-per6
+            mnoiva$catarina maria/id=c1747-44-per6
 
          test$estevao correia melo/id=c1747-44-per7
             ls$residencia/obidos
@@ -1080,17 +1080,17 @@ kleio$gacto.str/prefix=stiago
             ls$residencia/freguesia de santa eufemia da vila de cos
             rel$parentesco/consanguinidade de quarto grau/antonia isabel/c1747-45-per4
 
-         pnoivo$jose francisco/id=c1747-45-per2
+            pnoivo$jose francisco/id=c1747-45-per2
 
-         mnoivo$pascoa rodrigues/id=c1747-45-per3
+            mnoivo$pascoa rodrigues/id=c1747-45-per3
 
          noiva$antonia isabel/id=c1747-45-per4
             ls$naturalidade/freguesia de santa eufemia de cos
             ls$residencia/freguesia de santa eufemia de cos
 
-         pnoiva$manuel rodrigues/id=c1747-45-per5
+            pnoiva$manuel rodrigues/id=c1747-45-per5
 
-         mnoiva$isabel rodrigues/id=c1747-45-per6
+            mnoiva$isabel rodrigues/id=c1747-45-per6
 
          test$luis pedro furtado/id=c1747-45-per7
             ls$cargo/escrivao do juizo eclesiastico de obidos
@@ -1105,18 +1105,18 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/sao miguel das colmeias
             ls$residencia/sao miguel das colmeias
 
-         pnoivo$manuel dias/id=c1747-46-per2
+            pnoivo$manuel dias/id=c1747-46-per2
 
-         mnoivo$isabel francisca/id=c1747-46-per3
-            ls$morta/antes
+            mnoivo$isabel francisca/id=c1747-46-per3
+               ls$morta/antes
 
          noiva$maria soares/id=c1747-46-per4
             ls$naturalidade/casais dos carpinteiros, bombarral
             ls$residencia/casais dos carpinteiros, bombarral
 
-         pnoiva$luis francisco/id=c1747-46-per5
+            pnoiva$luis francisco/id=c1747-46-per5
 
-         mnoiva$maria soares/id=c1747-46-per6
+            mnoiva$maria soares/id=c1747-46-per6
 
          test$frutuoso inacio furtado/id=c1747-46-per7
             ls$cargo/escrivao do juizo eclesiastico de obidos
@@ -1131,19 +1131,19 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/casal dos capuxos, freguesia de sao pedro de obidos
             ls$residencia/casal dos capuxos, freguesia de sao pedro de obidos
 
-         pnoivo$luis mendes/id=c1747-47-per2
-            ls$morto/antes
+            pnoivo$luis mendes/id=c1747-47-per2
+               ls$morto/antes
 
-         mnoivo$luisa maria/id=c1747-47-per3
-            ls$morta/antes
+            mnoivo$luisa maria/id=c1747-47-per3
+               ls$morta/antes
 
          noiva$maria antonia de sao pedro/id=c1747-47-per4
             ls$naturalidade/cerca de obidos
             ls$residencia/cerca de obidos
 
-         pnoiva$francisco gomes/id=c1747-47-per5
+            pnoiva$francisco gomes/id=c1747-47-per5
 
-         mnoiva$antonia maria/id=c1747-47-per6
+            mnoiva$antonia maria/id=c1747-47-per6
 
          test$leandro jose da arruda/id=c1747-47-per7
             ls$residencia/obidos
@@ -1159,17 +1159,17 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/tras do outeiro
             ls$residencia/tras do outeiro
 
-         pnoivo$domingos joao/id=c1747-48-per2
+            pnoivo$domingos joao/id=c1747-48-per2
 
-         mnoivo$josefa maria/id=c1747-48-per3
+            mnoivo$josefa maria/id=c1747-48-per3
 
          noiva$maria josefa/id=c1747-48-per4
             ls$naturalidade/tras do outeiro
             ls$residencia/tras do outeiro
 
-         pnoiva$miguel antunes/id=c1747-48-per5
+            pnoiva$miguel antunes/id=c1747-48-per5
 
-         mnoiva$josefa ferreira/id=c1747-48-per6
+            mnoiva$josefa ferreira/id=c1747-48-per6
 
          test$manuel leal/id=c1747-48-per7
             ls$residencia/tras do outeiro
@@ -1185,17 +1185,17 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/tras do outeiro
             ls$residencia/tras do outeiro
 
-         pnoivo$manuel goncalves/id=c1748-49-per2
+            pnoivo$manuel goncalves/id=c1748-49-per2
 
-         mnoivo$domingas ferreira/id=c1748-49-per3
+            mnoivo$domingas ferreira/id=c1748-49-per3
 
          noiva$teresa maria/id=c1748-49-per4
             ls$naturalidade/casal da barroqueira
             ls$residencia/casal da barroqueira
 
-         pnoiva$joao antunes/id=c1748-49-per5
+            pnoiva$joao antunes/id=c1748-49-per5
 
-         mnoiva$francisca maria/id=c1748-49-per6
+            mnoiva$francisca maria/id=c1748-49-per6
 
          test$jorge leal/id=c1748-49-per7
 
@@ -1210,17 +1210,17 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/lugar do sobral do perilhao, freguesia de sao pedro do lugar do carvalhal
             ls$residencia/lugar do sobral do perilhao, freguesia de sao pedro do lugar do carvalhal
 
-         pnoivo$manuel dias/id=c1748-50-per2
+            pnoivo$manuel dias/id=c1748-50-per2
 
-         mnoivo$maria da encarncacao/id=c1748-50-per3
+            mnoivo$maria da encarncacao/id=c1748-50-per3
 
          noiva$teresa maria/id=c1748-50-per4
             ls$naturalidade/lugar do sobral do perilhao freguesia de sao pedro do lugar do carvalhal
             ls$residencia/lugar do sobral do perilhao freguesia de sao pedro do lugar do carvalhal
 
-         pnoiva$joao da costa/id=c1748-50-per5
+            pnoiva$joao da costa/id=c1748-50-per5
 
-         mnoiva$margarida vieira/id=c1748-50-per6
+            mnoiva$margarida vieira/id=c1748-50-per6
 
          test$manuel baptista da cruz/id=c1748-50-per7
 
@@ -1235,17 +1235,17 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/obidos
             ls$residencia/obidos
 
-         pnoivo$manuel dos reis/id=c1748-51-per2
+            pnoivo$manuel dos reis/id=c1748-51-per2
 
-         mnoivo$maria teresa/id=c1748-51-per3
+            mnoivo$maria teresa/id=c1748-51-per3
 
          noiva$luisa maria/id=c1748-51-per4
             ls$naturalidade/casal do outeiro
             ls$residencia/casal do outeiro
 
-         pnoiva$manuel vicente/id=c1748-51-per5
+            pnoiva$manuel vicente/id=c1748-51-per5
 
-         mnoiva$maria josefa/id=c1748-51-per6
+            mnoiva$maria josefa/id=c1748-51-per6
 
          test$joao de deus/id=c1748-51-per7
             ls$profissao/padre
@@ -1258,17 +1258,17 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/lugar do campo, freguesia de nossa senhora da anunciacao do lugar da tornada
             ls$residencia/lugar do campo, freguesia de nossa senhora da anunciacao do lugar da tornada
 
-         pnoivo$inacio fernandes/id=c1748-52-per2
+            pnoivo$inacio fernandes/id=c1748-52-per2
 
-         mnoivo$francisca ribeira/id=c1748-52-per3
+            mnoivo$francisca ribeira/id=c1748-52-per3
 
          noiva$teresa maria/id=c1748-52-per4
             ls$naturalidade/obidos
             ls$residencia/obidos
 
-         pnoiva$francisco fernandes/id=c1748-52-per5
+            pnoiva$francisco fernandes/id=c1748-52-per5
 
-         mnoiva$maria martins/id=c1748-52-per6
+            mnoiva$maria martins/id=c1748-52-per6
 
          test$manuel antonio/id=c1748-52-ant
 
@@ -1304,18 +1304,18 @@ kleio$gacto.str/prefix=stiago
          noivo$antonio soares/id=c1748-54-per1
             ls$residencia/quinta da boavista
 
-         pnoivo$jose monteiro/id=c1748-54-per2
+            pnoivo$jose monteiro/id=c1748-54-per2
 
-         mnoivo$antonia maria/id=c1748-54-per3
+            mnoivo$antonia maria/id=c1748-54-per3
 
          noiva$inacia maria/id=c1748-54-per3-per4
             ls$naturalidade/gaeiras de nossa senhora da ajuda
             ls$residencia/gaeiras de nossa senhora da ajuda
 
-         pnoiva$francisco henriques/id=c1748-54-per3-per5
-            ls$morto/antes
+            pnoiva$francisco henriques/id=c1748-54-per3-per5
+               ls$morto/antes
 
-         mnoiva$josefa da encarnacao/id=c1748-54-per3-per6
+            mnoiva$josefa da encarnacao/id=c1748-54-per3-per6
 
          test$eusebio gomes da veiga/id=c1748-54-per7
             ls$residencia/caldas
@@ -1328,18 +1328,18 @@ kleio$gacto.str/prefix=stiago
          noivo$bernardo antonio/id=c1748-55-per1
             ls$naturalidade/lugar da columbeira freguesia de nossa senhora da purificacao do lugar da rolica
 
-         pnoivo$frutuoso gomes/obs=duvida na leitura do nome/id=c1748-55-per2
-            ls$morto/antes
+            pnoivo$frutuoso gomes/obs=duvida na leitura do nome/id=c1748-55-per2
+               ls$morto/antes
 
-         mnoivo$antonia maria/id=c1748-55-per3
+            mnoivo$antonia maria/id=c1748-55-per3
 
          noiva$josefa maria/id=c1748-55-per3-per4
             ls$naturalidade/lugar da columbeira, freguesia de nossa senhora da purificacao do lugar da rolica
             ls$residencia/lugar da columbeira, freguesia de nossa senhora da purificacao do lugar da rolica
 
-         pnoiva$manuel duarte/id=c1748-55-per3-per5
+            pnoiva$manuel duarte/id=c1748-55-per3-per5
 
-         mnoiva$angela maria/id=c1748-55-per3-per6
+            mnoiva$angela maria/id=c1748-55-per3-per6
 
          test$frutuoso inacio furtado/id=c1748-55-per7
             ls$cargo/escrivao do juizo eclesiastico de obidos
@@ -1351,18 +1351,18 @@ kleio$gacto.str/prefix=stiago
          noivo$jeronimo henriques/id=c1748-56-per1
             ls$naturalidade/serra do bouro
 
-         pnoivo$braz domingues/id=c1748-56-braz
+            pnoivo$braz domingues/id=c1748-56-braz
 
-         mnoivo$pascoa maria/id=c1748-56-per2
+            mnoivo$pascoa maria/id=c1748-56-per2
 
          noiva$luisa da conceicao/id=c1748-56-per2-per3
             ls$naturalidade/lugar de giraldos, freguesia de sao leonardo da vila de atouguia da baleia
             ls$residencia/lugar da columbeira, freguesia de nossa senhora da purificacao do lugar da rolica
 
-         pnoiva$domingos fernandes/id=c1748-56-per2-per4
+            pnoiva$domingos fernandes/id=c1748-56-per2-per4
 
-         mnoiva$maria ferreira/id=c1748-56-per2-per5
-            ls$morta/antes
+            mnoiva$maria ferreira/id=c1748-56-per2-per5
+               ls$morta/antes
 
          test$antonio de azevedo/id=c1748-56-per6
             ls$profissao/padre
@@ -1376,16 +1376,16 @@ kleio$gacto.str/prefix=stiago
          noivo$teodosio marques/id=c1748-57-per1
             ls$naturalidade/freguesia de santa maria dos anjos da vila de pederneira
 
-         pnoivo$dionizio marques/id=c1748-57-per2
+            pnoivo$dionizio marques/id=c1748-57-per2
 
-         mnoivo$catarina oliveira/id=c1748-57-per3
+            mnoivo$catarina oliveira/id=c1748-57-per3
 
          noiva$josefa do nascimento/id=c1748-57-per3-per4
             ls$naturalidade/freguesia de santa maria dos anjos da vila de pederneira
 
-         pnoiva$jose goncalves/id=c1748-57-per3-per5
+            pnoiva$jose goncalves/id=c1748-57-per3-per5
 
-         mnoiva$joana de barros/id=c1748-57-per3-per6
+            mnoiva$joana de barros/id=c1748-57-per3-per6
 
          test$francisco da silva matoso/id=c1748-57-per7
             ls$residencia/obidos
@@ -1398,18 +1398,18 @@ kleio$gacto.str/prefix=stiago
          noivo$jorge francisco/id=c1749-58-per1
             ls$naturalidade/ribeira das caldas
 
-         pnoivo$pedro francisco/id=c1749-58-per2
+            pnoivo$pedro francisco/id=c1749-58-per2
 
-         mnoivo$maria de oliveira/id=c1749-58-per3
+            mnoivo$maria de oliveira/id=c1749-58-per3
 
          noiva$maria ferreira/id=c1749-58-per3-per4
             ls$naturalidade/tras do outeiro
 
-         pnoiva$manuel goncalves/id=c1749-58-per3-per5
-            ls$morto/antes
+            pnoiva$manuel goncalves/id=c1749-58-per3-per5
+               ls$morto/antes
 
-         mnoiva$domingas ferreira/id=c1749-58-per3-per6
-            ls$morta/antes
+            mnoiva$domingas ferreira/id=c1749-58-per3-per6
+               ls$morta/antes
 
          test$antonio oliveira/id=c1749-58-per7
             ls$residencia/caldas
@@ -1422,16 +1422,16 @@ kleio$gacto.str/prefix=stiago
          noivo$pedro da cunha/id=c1749-59-per1
             ls$naturalidade/lugar de coimbrao, freguesia de sao leonardo da vila de atouguia da baleia
 
-         pnoivo$jose da cunha/id=c1749-59-per2
+            pnoivo$jose da cunha/id=c1749-59-per2
 
-         mnoivo$maria ferreira/id=c1749-59-per3
+            mnoivo$maria ferreira/id=c1749-59-per3
 
          noiva$barbosa maria/id=c1749-59-per3-per4
             ls$naturalidade/tras do outeiro
 
-         pnoiva$manuel marques/id=c1749-59-per3-per5
+            pnoiva$manuel marques/id=c1749-59-per3-per5
 
-         mnoiva$helena maria/id=c1749-59-per3-per6
+            mnoiva$helena maria/id=c1749-59-per3-per6
 
          test$antonio macedo neto/id=c1749-59-per7
             ls$profissao/padre
@@ -1446,16 +1446,16 @@ kleio$gacto.str/prefix=stiago
          noivo$bartolomeu da silva/id=c1749-60-per1
             ls$naturalidade/freguesia de nossa senhora da anunciacao da vila da lourinha
 
-         pnoivo$manuel pereira/obs=duvida na leitura do apelido/id=c1749-60-per2
+            pnoivo$manuel pereira/obs=duvida na leitura do apelido/id=c1749-60-per2
 
-         mnoivo$micaela da silva/id=c1749-60-per3
+            mnoivo$micaela da silva/id=c1749-60-per3
 
          noiva$antonia maria/id=c1749-60-per3-per4
             ls$naturalidade/freguesia de sao domingos do lugar de reguengo grande no limite do concelho de obidos
 
-         pnoiva$antonio lourenco/id=c1749-60-per3-per5
+            pnoiva$antonio lourenco/id=c1749-60-per3-per5
 
-         mnoiva$angela francisca/id=c1749-60-per3-per6
+            mnoiva$angela francisca/id=c1749-60-per3-per6
 
          test$joao de deus/id=c1749-60-per7
             ls$profissao/padre
@@ -1469,17 +1469,17 @@ kleio$gacto.str/prefix=stiago
          noivo$domingos francisco/id=c1749-61-per1
             ls$naturalidade/casais do alentejo
 
-         pnoivo$manuel ferreira/id=c1749-61-per2
+            pnoivo$manuel ferreira/id=c1749-61-per2
 
-         mnoivo$maria henriques/id=c1749-61-per3
+            mnoivo$maria henriques/id=c1749-61-per3
 
          noiva$maria gomes/id=c1749-61-per3-per4
             ls$naturalidade/quinta da gracieira
             ls$residencia/quinta da gracieira
 
-         pnoiva$joao gomes/id=c1749-61-per3-per5
+            pnoiva$joao gomes/id=c1749-61-per3-per5
 
-         mnoiva$joana da silva/id=c1749-61-per3-per6
+            mnoiva$joana da silva/id=c1749-61-per3-per6
 
          test$felix da silva/id=c1749-61-per7
             ls$profissao/sapateiro
@@ -1495,19 +1495,19 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/lugar da delgada, freguesia de nossa senhora da purificacao do lugar da rolica
             ls$residencia/sobral do perilhao, freguesia de sao pedro do carvalhal
 
-         pnoivo$pedro gomes/obs=nao faz referencia a mae do noivo/id=c1750-62-per2
+            pnoivo$pedro gomes/obs=nao faz referencia a mae do noivo/id=c1750-62-per2
 
          noiva$maria teresa/id=c1750-62-per3
             ls$ec/v/obs=refere ser viuva de miguel luis
             ls$naturalidade/sobral do perilhao, freguesia de sao pedro do carvalhal
             ls$residencia/sobral do perilhao, freguesia de sao pedro do carvalhal
 
-         marido1$miguel luis/id=c1750-62-per4
-            ls$morto/antes
+            marido1$miguel luis/id=c1750-62-per4
+               ls$morto/antes
 
-         pnoiva$filipe da costa/id=c1750-62-per5
+            pnoiva$filipe da costa/id=c1750-62-per5
 
-         mnoiva$teresa maria/id=c1750-62-per6
+            mnoiva$teresa maria/id=c1750-62-per6
 
          test$frutuoso inacio furtado/id=c1750-62-per7
             ls$cargo/escrivao do juizo eclesiastico de obidos
@@ -1521,19 +1521,19 @@ kleio$gacto.str/prefix=stiago
             ls$naturalidade/barrocal no termo de obidos
             ls$residencia/barrocal no termo de obidos
 
-         pnoivo$manuel macedo/id=c1750-63-per2
-            ls$morto/antes
+            pnoivo$manuel macedo/id=c1750-63-per2
+               ls$morto/antes
 
-         mnoivo$juliana da fonseca/id=c1750-63-per3
+            mnoivo$juliana da fonseca/id=c1750-63-per3
 
          noiva$julia leal/id=c1750-63-per4
             ls$naturalidade/barrocal no termo de obidos
             ls$residencia/barrocal no termo de obidos
 
-         pnoiva$manuel francisco/id=c1750-63-per5
-            ls$morto/antes
+            pnoiva$manuel francisco/id=c1750-63-per5
+               ls$morto/antes
 
-         mnoiva$marta leal/id=c1750-63-per6
+            mnoiva$marta leal/id=c1750-63-per6
 
          test$luis pedro furtado/id=c1750-63-per7
             ls$cargo/escrivao do juizo eclesiastico de obidos
@@ -1546,17 +1546,17 @@ kleio$gacto.str/prefix=stiago
          noivo$domingos duarte/id=c1750-64-per1
             ls$residencia/freguesia de santa maria da vila de alvorninha
 
-         pnoivo$vicente duarte/id=c1750-64-per2
+            pnoivo$vicente duarte/id=c1750-64-per2
 
-         mnoivo$catarina ribeira/id=c1750-64-per3
+            mnoivo$catarina ribeira/id=c1750-64-per3
 
          noiva$quiteria maria/id=c1750-64-per4
             ls$naturalidade/freguesia de nossa senhora das merces/obs=sem mais informacao ou detalhes
 
-         pnoiva$manuel lopes/id=c1750-64-per5
-            ls$morto/antes
+            pnoiva$manuel lopes/id=c1750-64-per5
+               ls$morto/antes
 
-         mnoiva$maria antunes/id=c1750-64-per6
+            mnoiva$maria antunes/id=c1750-64-per6
 
          test$luis pedro furtado/id=c1750-64-per7
             ls$cargo/escrivao do juizo eclesiastico de obidos
@@ -1571,18 +1571,18 @@ kleio$gacto.str/prefix=stiago
             ls$residencia/casal da serra, freguesia de santa maria de obidos
             rel$parentesco/consanguinidade de quarto grau/maria joaquina de santo antonio/c1750-65-noiva
 
-         pnoivo$antonio da silva/id=c1750-65-per2
+            pnoivo$antonio da silva/id=c1750-65-per2
 
-         mnoivo$faustinha ferreira/id=c1750-65-per3
+            mnoivo$faustinha ferreira/id=c1750-65-per3
 
          noiva$maria joaquina de santo antonio/id=c1750-65-noiva
             ls$naturalidade/a da gorda
             ls$residencia/quinta de sao bento
 
-         pnoiva$francisco de lemos/id=c1750-65-per4
+            pnoiva$francisco de lemos/id=c1750-65-per4
 
-         mnoiva$mariana da silva/id=c1750-65-per5
-            ls$morta/antes
+            mnoiva$mariana da silva/id=c1750-65-per5
+               ls$morta/antes
 
          test$antonio nunes gouveia/id=c1750-65-per6
 
@@ -1595,17 +1595,17 @@ kleio$gacto.str/prefix=stiago
          noivo$joaquim francisco da rocha/id=c1751-66-per1
             ls$residencia/casal da serra freguesia de santa maria de obidos
 
-         pnoivo$manuel francisco/id=c1751-66-per2
+            pnoivo$manuel francisco/id=c1751-66-per2
 
-         mnoivo$jose henriques/id=c1751-66-per3
+            mnoivo$jose henriques/id=c1751-66-per3
 
          noiva$rosa maria/id=c1751-66-per4
             ls$ec/v/obs=refere ser viuva de antonio goncalves
             ls$naturalidade/obidos
             ls$residencia/tras do outeiro
 
-         marido1$antonio goncalves/id=c1751-66-per5
-            ls$morto/antes
+            marido1$antonio goncalves/id=c1751-66-per5
+               ls$morto/antes
 
          test$joao de deus/id=c1751-66-per6
             ls$profissao/padre

@@ -20,7 +20,7 @@ kleio$gacto.str
             atr$localizacao/amoreira
             atr$confrontacoes/parte do norte com joao monteiro; a sul com casas de antonio gomes; do poente com a rua
 
-         garantia$uns currais com uma loja, onde chamam os currais, do lugar da amoreira
+         garantia$currais#uns currais com uma loja, onde chamam os currais, do lugar da amoreira
             atr$confrontacoes/parte do norte com a rua, do sul com casas de miguel da cunha
 
          test$diogo de arruda avelar/id=not1704-e1-per4
@@ -117,7 +117,7 @@ kleio$gacto.str
             mulher$catarina jorge/id=not1704-e4-per1-per2
                ls$residencia/mouta
 
-         divida$50000 reis/a razao de juro "a seis e quarto per sento"/id=not1704-e4-obj1
+         divida$50000 reis/"a seis e quarto per sento"/id=not1704-e4-obj1
 
          garantia$uma terra
             atr$localizacao/onde chamam o vale, limite do lugar da mouta
@@ -127,7 +127,7 @@ kleio$gacto.str
             atr$localizacao/onde chamam os burinheiros
             atr$confrontacoes/parte do norte com joao quaresma; do poente e do sul com joana gomes do lugar da mouta, de alcunha, a formiga
 
-         garantia$uma loja terrea nova que serve de tenda de ferreiro com todos os apetrechos a ela necessarios com seu chao, a roda ermitico
+         garantia$loja#uma loja terrea nova que serve de tenda de ferreiro com todos os apetrechos a ela necessarios com seu chao, a roda ermitico
             atr$localizacao/mouta
             atr$confrontacoes/parte do norte, sul, nascente e poente com a rua
 
@@ -250,7 +250,7 @@ kleio$gacto.str
                ls$morto/antes
                rel$parentesco/marido/apolonia de lemos/not1704-e8-referida
 
-         aforamento$um casal chamado avenal aonde morava a dita antonia maria e a sua mae
+         aforamento$casal/desc=um casal chamado avenal aonde morava a dita antonia maria e a sua mae
             atr$localizacao/limite do lugar de a dos negros
             atr$foro/3 alqueires e meio de trigo/obs=dia de nossa senhora de agosto
 
@@ -342,7 +342,7 @@ kleio$gacto.str
 
          divida$41000 reis/a razao de juro/obs=comprometem-se a pagar anualmente 2050 reis/id=not1704-e11-obj1
 
-         garantia$casa de azinhaga morada de casas terreas que sao sinco com o dito lugar
+         garantia$casa/desc=casa de azinhaga morada de casas terreas que sao sinco com o dito lugar
             atr$localizacao/cotem
             atr$confrontacoes/parte do norte com herdeiros de damaso luis e com gabriel marques; do sul com fazenda de francisco luis
 
@@ -555,7 +555,7 @@ kleio$gacto.str
          test$diogo de arruda do avelar/m/id=not1704-e15a-per3
             ls$assina/sim
 
-      escritura$not1704-e16/3/12/1704/aforamento/fol=25v.-27/loc=quinta das lagrimas, termo de obidos, nas casas de morada de dionisio de seixas/sumario=escritura de arrendamento que fizeram ana de seixas e luisa de seixas da quinta das lagrimas a bartolomeu dias do pinhal
+      escritura$not1704-e16/3/12/1704/aforamento/fol=25v.-27/loc=quinta das lagrimas, termo de obidos#casas de morada de dionisio de seixas/sumario=escritura de arrendamento que fizeram ana de seixas e luisa de seixas da quinta das lagrimas a bartolomeu dias do pinhal
 
          senhoria$ana de seixas/id=not1704-e16-senhoria
             ls$residencia/quinta das lagrimas
@@ -649,7 +649,7 @@ kleio$gacto.str
 
          aforamento$um talho de vinha com suas arvores
             atr$localizacao/em frente da cancela da dita serrada
-            atr$renda/20000 reis em cada ano/paga anualmente no dia de natal
+            atr$renda/20000 reis em cada ano/obs=paga anualmente no dia de natal
 
          test$diogo de arruda do avelar/m/id=not1704-e19-per4
             ls$assina/sim/obs=assinou como testemunha e a rogo da foreira maria da costa
@@ -676,7 +676,7 @@ kleio$gacto.str
 
          divida$20000 reis/a razao de juro/obs=a pagar 1245 reis cada ano/id=not1704-e20-obj1
 
-         garantia$um assentamento de casas com seu forno e serrado mistico tudo com as ditas casas
+         garantia$casas/desc=um assentamento de casas com seu forno e serrado mistico tudo com as ditas casas
             atr$localizacao/no lugar do landal
             atr$confrontacoes/partem da banda do norte com francisco de andrade; do sul com o dito francisco de andrade; do poente com o dito manuel machado
 
@@ -691,7 +691,7 @@ kleio$gacto.str
             ls$profissao/lavrador
             ls$residencia/gaeiras
 
-      escritura$not1704-e21/26/12/1704/compra/fol=32-33v./loc=a dos negros, nas casas de morada do reverendo padre francisco de matos/sumario=escritura de compra que fez o reverendo padre cura francisco de matos do lugar de a dos negros a isabel francisca do dito lugar
+      escritura$not1704-e21/26/12/1704/compra/fol=32-33v./loc=a dos negros#nas casas de morada do reverendo padre francisco de matos/sumario=escritura de compra que fez o reverendo padre cura francisco de matos do lugar de a dos negros a isabel francisca do dito lugar
 
          comprador$francisco de matos/id=not1704-e21-per1
             ls$cargo/reverendo
@@ -732,7 +732,7 @@ kleio$gacto.str
          donatario$pedro correia/id=not1704-e22-per2
             ls$residencia/a da gorda
 
-         bem$uma escritura de 60000 reis dados a razao de juro que lhe pagava antonio de sousa e sua mulher antonia da silva, moradores no lugar dos barassais
+         bem$escritura de divida/desc=uma escritura de 60000 reis dados a razao de juro que lhe pagava antonio de sousa e sua mulher antonia da silva, moradores no lugar dos barassais
 
          bem$umas casas
             atr$localizacao/bombarral, na rua direita
@@ -741,25 +741,25 @@ kleio$gacto.str
 
          bem$uma cama de roupa com 10000 reis
 
-         bem$uma metade de ? bois com 12000 reis: uma metade na mao de vicente jorge do casal do estorninho com 6000 reis e a outra metade na mao de francisco faria da delgada
+         bem$metade de bois/desc=uma metade de ? bois com 12000 reis: uma metade na mao de vicente jorge do casal do estorninho com 6000 reis e a outra metade na mao de francisco faria da delgada
 
-         bem$2000 reis que se achavam num quarto de boi que lhe devia o mesmo vicente jorge do casal do estorninho
+         bem$divida/desc=2000 reis que se achavam num quarto de boi que lhe devia o mesmo vicente jorge do casal do estorninho
 
-         bem$3000 reis que lhe deve de reditos dos ditos 60000 reis antonio de sousa dos barassais
+         bem$divida/desc=3000 reis que lhe deve de reditos dos ditos 60000 reis antonio de sousa dos barassais
 
-         bem$2000 reis que lhe deve de emprestimo manuel antunes sapateiro do bombarral
+         bem$divida/desc=2000 reis que lhe deve de emprestimo manuel antunes sapateiro do bombarral
 
-         bem$2250 reis que lhe deve um moleiro de alcunha o reixequita procedidas de uma espingarda que lhe vendera
+         bem$divida/desc=2250 reis que lhe deve um moleiro de alcunha o reixequita procedidas de uma espingarda que lhe vendera
 
-         bem$750 reis que lhe deve de emprestimo manuel antunes do bombarral
+         bem$divida/desc=750 reis que lhe deve de emprestimo manuel antunes do bombarral
 
-         bem$3000 reis que lhe deve antonio gomes morador no casal da verdegilhade uma jumenta que lhe vendera
+         bem$divida/desc=3000 reis que lhe deve antonio gomes morador no casal da verdegilhade uma jumenta que lhe vendera
 
-         bem$uma tenda de espingardeiro que consta de todas as ferramentas necessarias a dita tenda e ferro que nela se achar que constara de dez a quinze pouco mais ou menos tudo avaliado em 63500 reis
+         bem$tenda/desc=uma tenda de espingardeiro que consta de todas as ferramentas necessarias a dita tenda e ferro que nela se achar que constara de dez a quinze pouco mais ou menos tudo avaliado em 63500 reis
 
          bem$18750 reis em azeite
 
-         bem$5000 reis que lhe deve manuel colaco moleiro do moinho de vento procedidos de ferros que lhe vendeu fiado
+         bem$divida/desc=5000 reis que lhe deve manuel colaco moleiro do moinho de vento procedidos de ferros que lhe vendeu fiado
 
          bem$5000 reis que lhe deve manuel de sousa dos barassais
 

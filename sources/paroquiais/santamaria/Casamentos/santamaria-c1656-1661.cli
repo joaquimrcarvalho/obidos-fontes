@@ -1,4 +1,4 @@
-kleio$gacto2.str/prefix=stmaria
+kleio$gacto2.str/prefix=stmaria/translations=1
    fonte$casamentos1656-1660/localizacao-a.d.l./freguesia de santa maria
 
       cas$c1656-1/13/2/1656/fl.79v./igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas"
@@ -117,19 +117,19 @@ kleio$gacto2.str/prefix=stmaria
 
          noivo$joao da mota%j.o da motta/id=c1657-3-per1
 
-         pnoivo$andre nunes/id=c1657-3-per2
-            ls$residencia/moledo
+            pnoivo$andre nunes/id=c1657-3-per2
+               ls$residencia/moledo
 
-         mnoivo$filipa gomes/id=c1657-3-per3
-            ls$residencia/moledo
+            mnoivo$filipa gomes/id=c1657-3-per3
+               ls$residencia/moledo
 
          noiva$maria vieira/id=c1657-3-per4
 
-         pnoiva$antonio rodrigues/id=c1657-3-per5
-            ls$residencia/obidos
+            pnoiva$antonio rodrigues/id=c1657-3-per5
+               ls$residencia/obidos
 
-         mnoiva$maria francisca/id=c1657-3-per6
-            ls$residencia/obidos
+            mnoiva$maria francisca/id=c1657-3-per6
+               ls$residencia/obidos
 
          test$alvaro de avelar baracho/id=c1657-3-per7
             ls$residencia/obidos
@@ -140,23 +140,23 @@ kleio$gacto2.str/prefix=stmaria
          test$francisco joao/id=c1657-3-per9
             ls$residencia/obidos
 
-      cas$c1657-4/1/12/1657/fl.80v./igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas dos mesmos cazais
+      cas$c1657-4/1/12/1657/fl.80v./igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas dos mesmos cazais"
 
          noivo$manuel ribeiro/id=c1657-4-per1
 
-         pnoivo$jeronimo ribeiro/id=c1657-4-per2
-            ls$residencia/cadaval
+            pnoivo$jeronimo ribeiro/id=c1657-4-per2
+               ls$residencia/cadaval
 
-         mnoivo$simoa rodrigues/id=c1657-4-per3
-            ls$residencia/cadaval
+            mnoivo$simoa rodrigues/id=c1657-4-per3
+               ls$residencia/cadaval
 
          noiva$maria rodrigues/id=c1657-4-per4
 
-         pnoiva$domingos goncalves/id=c1657-4-per5
-            ls$residencia/casais de alentejo
+            pnoiva$domingos goncalves/id=c1657-4-per5
+               ls$residencia/casais de alentejo
 
-         mnoiva$brites rodrigues%britis roiz/id=c1657-4-per6
-            ls$residencia/casais de alentejo
+            mnoiva$brites rodrigues%britis roiz/id=c1657-4-per6
+               ls$residencia/casais de alentejo
 
          test$francisco luis/id=c1657-4-per7
 
@@ -169,18 +169,18 @@ kleio$gacto2.str/prefix=stmaria
          noivo$paulo ferreira/id=c1658-1-per1
             rel$parentesco/consanguinidade deterceiro grau/filipa de coimbra/c1658-1-noiva
 
-         pnoivo$manuel das neves/id=c1658-1-per2
-            ls$residencia/a da gorda
+            pnoivo$manuel das neves/id=c1658-1-per2
+               ls$residencia/a da gorda
 
-         mnoivo$agueda henriques/id=c1658-1-per3
-            ls$residencia/a da gorda
+            mnoivo$agueda henriques/id=c1658-1-per3
+               ls$residencia/a da gorda
 
          noiva$filipa de coimbra/id=c1658-1-noiva
 
-         pnoiva$filipe de coimbra/id=c1658-1-per4
-            ls$morto/antes
+            pnoiva$filipe de coimbra/id=c1658-1-per4
+               ls$morto/antes
 
-         mnoiva$antonia nunes/id=c1658-1-per5
+            mnoiva$antonia nunes/id=c1658-1-per5
 
          test$andre luis/id=c1658-1-per6
             ls$profissao/padre
@@ -198,19 +198,19 @@ kleio$gacto2.str/prefix=stmaria
 
          noivo$manuel gomes/id=c1658-2-per1
 
-         pnoivo$joao gomes%j.o gomes/id=c1658-2-per2
-            ls$residencia/barrocalvo
+            pnoivo$joao gomes%j.o gomes/id=c1658-2-per2
+               ls$residencia/barrocalvo
 
-         mnoivo$maria francisca/id=c1658-2-per3
-            ls$residencia/barrocalvo
+            mnoivo$maria francisca/id=c1658-2-per3
+               ls$residencia/barrocalvo
 
          noiva$sebastiana francisca/id=c1658-2-per4
 
-         pnoiva$joao francisco%j.o fr.co/id=c1658-2-per5
-            ls$residencia/arrabalde
+            pnoiva$joao francisco%j.o fr.co/id=c1658-2-per5
+               ls$residencia/arrabalde
 
-         mnoiva$maria dias/id=c1658-2-per6
-            ls$residencia/arrabalde
+            mnoiva$maria dias/id=c1658-2-per6
+               ls$residencia/arrabalde
 
          test$antonio soares de almeida/id=c1658-2-per7
             ls$residencia/obidos
@@ -226,24 +226,24 @@ kleio$gacto2.str/prefix=stmaria
          noivo$antonio de barros ribeiro/id=c1658-3-per1
             rel$parentesco/consanguinidade de segundo e terceiro graus/maria de seixas/c1658-3-noiva
 
-         pnoivo$gaspar de barros ribeiro/id=c1658-3-per2
-            ls$residencia/alenquer
-            ls$freguesia/sao pedro
+            pnoivo$gaspar de barros ribeiro/id=c1658-3-per2
+               ls$residencia/alenquer
+               ls$freguesia/sao pedro
 
-         mnoivo$luisa de almeida/id=c1658-3-per3
-            ls$titulo/dona
-            ls$residencia/alenquer
-            ls$freguesia/sao pedro
+            mnoivo$luisa de almeida/id=c1658-3-per3
+               ls$titulo/dona
+               ls$residencia/alenquer
+               ls$freguesia/sao pedro
 
          noiva$maria de seixas/id=c1658-3-noiva
             ls$titulo/dona
 
-         pnoiva$miguel barros ribeiro/id=c1658-3-per4
-            ls$residencia/obidos
+            pnoiva$miguel barros ribeiro/id=c1658-3-per4
+               ls$residencia/obidos
 
-         mnoiva$francisca de seixas/id=c1658-3-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mnoiva$francisca de seixas/id=c1658-3-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
          test$antonio correia manuel/id=c1658-3-per6
 
@@ -256,19 +256,19 @@ kleio$gacto2.str/prefix=stmaria
 
          noivo$manuel carvalho/id=c1658-4-per1
 
-         pnoivo$luis carvalho/id=c1658-4-per2
-            ls$residencia/alcobaca
+            pnoivo$luis carvalho/id=c1658-4-per2
+               ls$residencia/alcobaca
 
-         mnoivo$maria da risa/obs=duvida na leitura do apelido/id=c1658-4-per3
-            ls$residencia/alcobaca
+            mnoivo$maria da risa/obs=duvida na leitura do apelido/id=c1658-4-per3
+               ls$residencia/alcobaca
 
          noiva$maria henriques/id=c1658-4-per4
 
-         pnoiva$manuel henriques/id=c1658-4-per5
-            ls$naturalidade/obidos
+            pnoiva$manuel henriques/id=c1658-4-per5
+               ls$naturalidade/obidos
 
-         mnoiva$barbara francisca/id=c1658-4-per6
-            ls$naturalidade/obidos
+            mnoiva$barbara francisca/id=c1658-4-per6
+               ls$naturalidade/obidos
 
          test$antonio correia manuel/id=c1658-4-per7
 
@@ -277,23 +277,23 @@ kleio$gacto2.str/prefix=stmaria
 
          test$francisco correia manuel/id=c1658-4-per9
 
-      cas$c1659-1/19/3/1659/fl.81/igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas", recebeu antonio dayalla por procuracam de joao pereira da costa..."
+      cas$c1659-1/19/3/1659/fl.81/igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas", recebeu antonio dayalla por procuracam de joao pereira da costa...
 
          noivo$jose pereira da costa/id=c1659-1-per1
 
-         pnoivo$antonio ferreira/id=c1659-1-per2
-            ls$residencia/porto
+            pnoivo$antonio ferreira/id=c1659-1-per2
+               ls$residencia/porto
 
-         mnoivo$maria da costa/id=c1659-1-per3
-            ls$residencia/porto
+            mnoivo$maria da costa/id=c1659-1-per3
+               ls$residencia/porto
 
          noiva$antonia da ayala/id=c1659-1-per4
             ls$titulo/dona
 
-         pnoiva$baltazar gomes figueira/id=c1659-1-per5
+            pnoiva$baltazar gomes figueira/id=c1659-1-per5
 
-         mnoiva$catarina da ayala/id=c1659-1-per6
-            ls$titulo/dona
+            mnoiva$catarina da ayala/id=c1659-1-per6
+               ls$titulo/dona
 
          test$manuel henriques/id=c1659-1-per7
             ls$titulo/licenciado
@@ -315,8 +315,8 @@ kleio$gacto2.str/prefix=stmaria
          noiva$margarida correia/id=c1659-2-per1-per2
             ls$residencia/arrabalde
 
-         pnoiva$joao francisco%j.o fr.co/id=c1659-2-per1-per3
-            ls$residencia/arrabalde
+            pnoiva$joao francisco%j.o fr.co/id=c1659-2-per1-per3
+               ls$residencia/arrabalde
 
          test$francisco correia manuel/id=c1659-2-per4
 
@@ -328,19 +328,19 @@ kleio$gacto2.str/prefix=stmaria
 
          noivo$andre monteiro/id=c1659-3-per1
 
-         pnoivo$matias monteiro/id=c1659-3-per2
-            ls$residencia/moinhos de fraldeu
+            pnoivo$matias monteiro/id=c1659-3-per2
+               ls$residencia/moinhos de fraldeu
 
-         mnoivo$brites velha/id=c1659-3-per3
-            ls$residencia/moinhos de fraldeu
+            mnoivo$brites velha/id=c1659-3-per3
+               ls$residencia/moinhos de fraldeu
 
          noiva$joana vicente%j.na v.te/id=c1659-3-per4
 
-         pnoiva$ambrosio vicente/obs=duvida na leitura do nome/id=c1659-3-per5
-            ls$residencia/casal do coto
+            pnoiva$ambrosio vicente/obs=duvida na leitura do nome/id=c1659-3-per5
+               ls$residencia/casal do coto
 
-         mnoiva$maria fernandes/id=c1659-3-per6
-            ls$residencia/casal do coto
+            mnoiva$maria fernandes/id=c1659-3-per6
+               ls$residencia/casal do coto
 
          test$manuel de matos/id=c1659-3-per7
             ls$residencia/obidos
@@ -352,7 +352,7 @@ kleio$gacto2.str/prefix=stmaria
             ls$profissao/padre
             ls$residencia/obidos
 
-      cas$c1659-4/28/9/1659/fl.81v./ermida de sao marcos das gaeiras/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas", tendo licenca para se receberem na irmida do provisor e alvara de cazamento por ser de outro bispado". o livro foi visto em visitacao
+      cas$c1659-4/28/9/1659/fl.81v./ermida de sao marcos das gaeiras/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas", tendo licenca para se receberem na irmida do provisor e alvara de cazamento por ser de outro bispado. o livro foi visto em visitacao
 
          noivo$manuel simoes/id=c1659-4-per1
             ls$bispado/coimbra
@@ -467,7 +467,7 @@ kleio$gacto2.str/prefix=stmaria
 
          test$jose de avelar/id=c1660-4-per5
 
-      cas$c1660-5/25/8/1660/fl.82/igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas""
+      cas$c1660-5/25/8/1660/fl.82/igreja de santa maria/jeronimo de matos (cura da igreja de santa maria)/obs=assina jeronimo de matos e enumera as testemunhas e acrescenta "e outras muitas"
 
          noivo$joao martins%j.o miz/id=c1660-5-per1
 

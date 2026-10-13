@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$casamentos1571-1575/localizacao-a.d.l./freguesia de santa maria
 
       cas$c1571-1/25/2/1571/fl.55v./igreja de santa maria/goncalo fernandes (cura na igreja de santa maria)/obs=assina goncalo fernandes e enumera as testemunhas e acrescenta "e outros muitos"
@@ -321,8 +321,8 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$isabel fernandes/id=c1574-1-per1-per2
 
-         pnoiva$diogo fernandes/id=c1574-1-per1-per3
-            ls$residencia/granja
+            pnoiva$diogo fernandes/id=c1574-1-per1-per3
+               ls$residencia/granja
 
          referido$afonso fernandes/id=c1574-1-per1-per4
             ls$profissao/padre/obs="por nam sair impedimento aqui nem na igreja do dito lugar como me constou per certidam do padre afonso fernandez"
@@ -411,11 +411,11 @@ kleio$gacto.str/prefix=stmaria
          noiva$francisca rodrigues/id=c1575-1-per1-per2
             ls$confissao/crista velha
 
-         pnoiva$pero rodrigues%p.o roiz/id=c1575-1-per1-per3
-            ls$confissao/cristao velho
+            pnoiva$pero rodrigues%p.o roiz/id=c1575-1-per1-per3
+               ls$confissao/cristao velho
 
-         mnoiva$natalia silvestre/id=c1575-1-per1-per4
-            ls$confissao/crista velha
+            mnoiva$natalia silvestre/id=c1575-1-per1-per4
+               ls$confissao/crista velha
 
          referido$antonio pires de bulhao/obs="por nam sair nhum impedimento assi as minhas amoestacoens, como as suas, como me constou per sertidam do senhor provisor deste arcebispado antonio pirez de bulham em que me mandava que hos recebesse nam saindo impedimento as minhas amoestacoens, a qual foy feitas aos XVI de maio do dito anno de 1575"/id=c1575-1-per1-per5
             ls$titulo/senhor
@@ -429,7 +429,7 @@ kleio$gacto.str/prefix=stmaria
 
          test$pedro alvares/id=c1575-1-per9
 
-      cas$c1575-2/17/7/1575/fl.58/igreja do espirito santo/goncalo fernandes (cura na igreja de santa maria)/obs=assina goncalo fernandes e enumera as testemunhas e acrescenta "e outros muitos moradores na dita villa""por nao lhe sair outro impedimento mais que serem parentes ambos no quarto grao e porque destes impedimentos ouverao despensacao so seressimo cardeal inffante os recebi" ouverao despensacao so seressimo cardeal inffante os recebi"
+      cas$c1575-2/17/7/1575/fl.58/igreja do espirito santo/goncalo fernandes (cura na igreja de santa maria)/obs=assina goncalo fernandes e enumera as testemunhas e acrescenta "e outros muitos moradores na dita villa""por nao lhe sair outro impedimento mais que serem parentes ambos no quarto grao e porque destes impedimentos ouverao despensacao so seressimo cardeal inffante os recebi" ouverao despensacao so seressimo cardeal inffante os recebi
 
          noivo$antonio vicente/id=c1575-2-per1
             ls$naturalidade/a da gorda
@@ -439,11 +439,11 @@ kleio$gacto.str/prefix=stmaria
             ls$naturalidade/sobral da lagoa
             ls$confissao/crista velha
 
-         pnoiva$gaspar dias/id=c1575-2-per1-per3
-            ls$confissao/cristao velho
+            pnoiva$gaspar dias/id=c1575-2-per1-per3
+               ls$confissao/cristao velho
 
-         mnoiva$maria henriques/id=c1575-2-per1-per4
-            ls$confissao/crista velha
+            mnoiva$maria henriques/id=c1575-2-per1-per4
+               ls$confissao/crista velha
 
          test$antonio de aguiar/id=c1575-2-per5
             ls$cargo/beneficiado das igrejas de obidos
@@ -463,11 +463,11 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$maria dias/id=c1575-3-per1-per2
 
-         pnoiva$joao dias/id=c1575-3-per1-per3
-            ls$residencia/moinho da ribeira
+            pnoiva$joao dias/id=c1575-3-per1-per3
+               ls$residencia/moinho da ribeira
 
-         mnoiva$antonia dias/id=c1575-3-per1-per4
-            ls$residencia/moinho da ribeira
+            mnoiva$antonia dias/id=c1575-3-per1-per4
+               ls$residencia/moinho da ribeira
 
          referido$antonio pires de bulhao/id=c1575-3-per1-per5
             ls$cargo/provisor

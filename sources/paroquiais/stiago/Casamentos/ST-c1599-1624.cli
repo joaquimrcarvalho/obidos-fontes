@@ -1,11 +1,11 @@
-kleio$gacto.str/prefix=stiago
+kleio$gacto.str/prefix=stiago/translations=1
    fonte$casamentos1599-1624/localizacao-a.d.l./freguesia de sao tiago de obidos
 
       cas$c1599-1/31/12/1599/fl.46./igreja de sao tiago/dom fernando de menezes (prior)/obs=assina dom fernando de menezes nao se referem testemunhas assina dom fernando de menezes nao se referem testemunhas
 
          noivo$francisco fernandes/id=c1599-1-per1
 
-         pnoivo$pedro martins/id=c1599-1-per2
+            pnoivo$pedro martins/id=c1599-1-per2
 
          noiva$domingas simoa/id=c1599-1-per3
 
@@ -13,19 +13,19 @@ kleio$gacto.str/prefix=stiago
 
          noivo$antonio da silva/id=c1600-2-per1
 
-         pnoivo$tristao dias/obs=duvida na leitura do primeiro nome/id=c1600-2-per2
-            ls$morto/antes
+            pnoivo$tristao dias/obs=duvida na leitura do primeiro nome/id=c1600-2-per2
+               ls$morto/antes
 
-         mnoivo$isabel maria/id=c1600-2-per3
-            ls$morta/antes
+            mnoivo$isabel maria/id=c1600-2-per3
+               ls$morta/antes
 
          noiva$rafaela de sampaio/id=c1600-2-per4
 
-         pnoiva$antonio de sampaio/id=c1600-2-per5
-            ls$morto/antes
-            ls$residencia/freguesia de sao tiago de obidos
+            pnoiva$antonio de sampaio/id=c1600-2-per5
+               ls$morto/antes
+               ls$residencia/freguesia de sao tiago de obidos
 
-         mnoiva$maria de gusmao delgada/id=c1600-2-per6
+            mnoiva$maria de gusmao delgada/id=c1600-2-per6
 
          test$joao paulo da serra/id=c1600-2-per7
             ls$titulo/dom
@@ -94,10 +94,10 @@ kleio$gacto.str/prefix=stiago
 
          noiva$leonor antunes/id=c1601-6-per1-per2
 
-         pnoiva$braz antunes/id=c1601-6-per1-per3
+            pnoiva$braz antunes/id=c1601-6-per1-per3
 
-         mnoiva$maria alves/id=c1601-6-per1-per4
-            ls$residencia/freguesia de sao tiago de obidos
+            mnoiva$maria alves/id=c1601-6-per1-per4
+               ls$residencia/freguesia de sao tiago de obidos
 
          test$manuel luis/id=c1601-6-per5
             ls$residencia/obidos
@@ -110,17 +110,17 @@ kleio$gacto.str/prefix=stiago
          noivo$antonio fernandes/id=c1601-7-per1
             ls$residencia/gaeiras
 
-         pnoivo$antonio alves/id=c1601-7-per2
-            ls$residencia/gaeiras
+            pnoivo$antonio alves/id=c1601-7-per2
+               ls$residencia/gaeiras
 
-         mnoivo$maria jorge/id=c1601-7-per3
+            mnoivo$maria jorge/id=c1601-7-per3
 
          noiva$domingas francisca/id=c1601-7-per4
 
-         pnoiva$domingos francisco/id=c1601-7-per5
-            ls$residencia/gaeiras
+            pnoiva$domingos francisco/id=c1601-7-per5
+               ls$residencia/gaeiras
 
-         mnoiva$maria luis/id=c1601-7-per6
+            mnoiva$maria luis/id=c1601-7-per6
 
          test$antonio dias/id=c1601-7-per7
             ls$residencia/gaeiras
@@ -144,10 +144,10 @@ kleio$gacto.str/prefix=stiago
 
          noiva$beatriz fernandes/id=c1607-9-per1-per2
 
-         pnoiva$vicente martins/id=c1607-9-per1-per3
-            ls$residencia/casal do touguio
+            pnoiva$vicente martins/id=c1607-9-per1-per3
+               ls$residencia/casal do touguio
 
-         mnoiva$maria dias/id=c1607-9-per1-per4
+            mnoiva$maria dias/id=c1607-9-per1-per4
 
          test$antonio da silva/id=c1607-9-per5
             ls$cargo/alcaide
@@ -278,8 +278,8 @@ kleio$gacto.str/prefix=stiago
 
          noiva$joana goncalves/id=c1611-20-per1-per2
 
-         pnoiva$alvaro goncalves/id=c1611-20-per1-per3
-            ls$residencia/tras do outeiro
+            pnoiva$alvaro goncalves/id=c1611-20-per1-per3
+               ls$residencia/tras do outeiro
 
          test$gaspar dias/id=c1611-20-per4
 
@@ -291,7 +291,7 @@ kleio$gacto.str/prefix=stiago
 
          noiva$domingas antunes/id=c1611-21-per1-per2
 
-         pnoiva$alvaro goncalves/id=c1611-21-per1-per3
+            pnoiva$alvaro goncalves/id=c1611-21-per1-per3
 
          test$antonio da silva/id=c1611-21-per4
 

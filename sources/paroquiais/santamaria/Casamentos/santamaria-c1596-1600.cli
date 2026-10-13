@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$casamentos1596-1600/localizacao-a.d.l./freguesia de santa maria
 
       cas$c1596-1/3/6/1596/fl.104/igreja de santa maria/gaspar vicente (padre, cura, beneficiado da igreja de santa maria)/obs=assina gaspar vicente. enumera as testemunhas e acrescenta "e outros"
@@ -48,8 +48,8 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$margarida fernandes/id=c1596-5-per2
 
-         pnoiva$fernao vaz/id=c1596-5-per3
-            ls$residencia/gaeiras
+            pnoiva$fernao vaz/id=c1596-5-per3
+               ls$residencia/gaeiras
 
          test$sebastiao dias%bastiao dias/id=c1596-5-per4
             ls$residencia/quinta
@@ -240,7 +240,7 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$maria jorge/id=c1600-2-per2
 
-         pnoiva$antonio pimenta/id=c1600-2-per3
+            pnoiva$antonio pimenta/id=c1600-2-per3
 
          test$leonardo de abreu/id=c1600-2-per4
 
@@ -265,7 +265,7 @@ kleio$gacto.str/prefix=stmaria
 
          noiva$isabel fernandes/id=c1600-4-per2
 
-         pnoiva$joao martins/id=c1600-4-per3
+            pnoiva$joao martins/id=c1600-4-per3
 
          test$dionisio fortes/id=c1600-4-per4
 

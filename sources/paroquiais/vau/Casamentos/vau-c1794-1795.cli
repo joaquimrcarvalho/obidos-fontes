@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=vau
+kleio$gacto.str/prefix=vau/translations=1
    fonte$casamentos1794-1795/localizacao-a.d.l./freguesia de nossa senhora da piedade, vau
 
       cas$c1794-1/4/2/1794/fl.29/igreja de nossa senhora da piedade, vau/francisco jose rodrigues da costa (padre)/obs=assina paroco francisco jose rodrigues da costa. o casamento realizou-se de tarde.
@@ -6,18 +6,18 @@ kleio$gacto.str/prefix=vau
          noivo$antonio monteiro/id=c1794-1-noivo
             ls$naturalidade/vau
 
-         pnoivo$antonio monteiro/id=c1794-1-per1
+            pnoivo$antonio monteiro/id=c1794-1-per1
 
-         mnoivo$rosa maria/id=c1794-1-per2
+            mnoivo$rosa maria/id=c1794-1-per2
 
          noiva$joaquina rosa/id=c1794-1-per3
             ls$naturalidade/freguesia de nossa senhora da vitoria, famalicao, termo da pederneira
             ls$locbaptismo/freguesia de nossa senhora da vitoria, famalicao, termo da pederneira
             ls$residencia/vau, freguesia de nossa senhora da piedade/obs=veio pequena, ha muitos anos com os seus pais para esta freguesia
 
-         pnoiva$simao dos santos/id=c1794-1-per4
+            pnoiva$simao dos santos/id=c1794-1-per4
 
-         mnoiva$rosalia maria/id=c1794-1-per5
+            mnoiva$rosalia maria/id=c1794-1-per5
 
          test$jose monteiro/id=c1794-1-per6
             rel$parentesco/irmao/antonio monteiro/c1794-1-noivo
@@ -32,27 +32,27 @@ kleio$gacto.str/prefix=vau
          noivo$jose antonio/id=c1794-2-per1
             ls$naturalidade/freguesia de nossa senhora da piedade
 
-         pnoivo$antonio soares/id=c1794-2-per2
-            ls$cargo/tenente
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$loccasamento/freguesia de nossa senhora da piedade
+            pnoivo$antonio soares/id=c1794-2-per2
+               ls$cargo/tenente
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$loccasamento/freguesia de nossa senhora da piedade
 
-         mnoivo$luisa maria/id=c1794-2-per3
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$loccasamento/freguesia de nossa senhora da piedade
+            mnoivo$luisa maria/id=c1794-2-per3
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$loccasamento/freguesia de nossa senhora da piedade
 
          noiva$maria da conceicao/id=c1794-2-per4
             ls$locbaptismo/freguesia de santa maria de almoster
 
-         pnoiva$manuel da silva/id=c1794-2-per5
-            ls$residencia/casal da ferraria., freguesia de nossa senhora da piedade
-            ls$naturalidade/freguesia de santa maria de almoster
-            ls$loccasamento/freguesia de santa maria de almoster
+            pnoiva$manuel da silva/id=c1794-2-per5
+               ls$residencia/casal da ferraria., freguesia de nossa senhora da piedade
+               ls$naturalidade/freguesia de santa maria de almoster
+               ls$loccasamento/freguesia de santa maria de almoster
 
-         mnoiva$marta maria/id=c1794-2-per6
-            ls$residencia/casal da ferraria, freguesia de nossa senhora da piedade
-            ls$naturalidade/freguesia de santa maria de almoster
-            ls$loccasamento/freguesia de santa maria de almoster
+            mnoiva$marta maria/id=c1794-2-per6
+               ls$residencia/casal da ferraria, freguesia de nossa senhora da piedade
+               ls$naturalidade/freguesia de santa maria de almoster
+               ls$loccasamento/freguesia de santa maria de almoster
 
          test$jose francisco louro/id=c1794-2-per7
             ls$assina/sim
@@ -66,21 +66,21 @@ kleio$gacto.str/prefix=vau
             ls$naturalidade/freguesia de nossa senhora da piedade
             ls$residencia/freguesia de nossa senhora da piedade
 
-         pnoivo$jeronimo da silva/id=c1794-3-per2
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$residencia/freguesia de nossa senhora da piedade
+            pnoivo$jeronimo da silva/id=c1794-3-per2
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$residencia/freguesia de nossa senhora da piedade
 
-         mnoivo$micaela maria/id=c1794-3-per3
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$residencia/freguesia de nossa senhora da piedade
+            mnoivo$micaela maria/id=c1794-3-per3
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$residencia/freguesia de nossa senhora da piedade
 
          noiva$josefa maria/id=c1794-3-per4
             ls$ec/v
             ls$naturalidade/freguesia de nossa senhora da piedade
             ls$residencia/freguesia de nossa senhora da piedade
 
-         marido1$joao bras/id=c1794-3-per5
-            ls$morto/antes
+            marido1$joao bras/id=c1794-3-per5
+               ls$morto/antes
 
          test$jose dos santos/id=c1794-3-per6
             ls$residencia/vau
@@ -96,25 +96,25 @@ kleio$gacto.str/prefix=vau
             ls$naturalidade/freguesia de nossa senhora da piedade
             ls$residencia/freguesia de nossa senhora da piedade
 
-         pnoivo$jorge da horta/id=c1795-1-per2
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$residencia/freguesia de nossa senhora da piedade
+            pnoivo$jorge da horta/id=c1795-1-per2
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$residencia/freguesia de nossa senhora da piedade
 
-         mnoivo$joaquina rosa/id=c1795-1-per3
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$residencia/freguesia de nossa senhora da piedade
+            mnoivo$joaquina rosa/id=c1795-1-per3
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$residencia/freguesia de nossa senhora da piedade
 
          noiva$rosa maria/id=c1795-1-per4
             ls$naturalidade/freguesia de nossa senhora da piedade
             ls$residencia/freguesia de nossa senhora da piedade
 
-         pnoiva$vicente soares/id=c1795-1-per5
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$residencia/freguesia de nossa senhora da piedade
+            pnoiva$vicente soares/id=c1795-1-per5
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$residencia/freguesia de nossa senhora da piedade
 
-         mnoiva$josefa maria/id=c1795-1-per6
-            ls$naturalidade/freguesia de nossa senhora da piedade
-            ls$residencia/freguesia de nossa senhora da piedade
+            mnoiva$josefa maria/id=c1795-1-per6
+               ls$naturalidade/freguesia de nossa senhora da piedade
+               ls$residencia/freguesia de nossa senhora da piedade
 
          test$jeronimo luis/id=c1795-1-per7
             ls$assina/cruz

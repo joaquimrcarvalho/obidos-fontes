@@ -1,4 +1,4 @@
-kleio$gacto.str/prefix=vau
+kleio$gacto.str/prefix=vau/translations=1
    fonte$casamentos1761-1765/localizacao-a.d.l./freguesia de nossa senhora da piedade, vau
 
       cas$c1761-1/29/1/1761/fl.9/igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. o casamento realizou-se de manha.
@@ -8,26 +8,26 @@ kleio$gacto.str/prefix=vau
             ls$residencia/vau
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoivo$manuel da horta/id=c1761-1-per2
-            ls$morto/antes
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+            pnoivo$manuel da horta/id=c1761-1-per2
+               ls$morto/antes
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
 
-         mnoivo$joana maria/id=c1761-1-per3
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+            mnoivo$joana maria/id=c1761-1-per3
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
 
          noiva$joaquina rosa/id=c1761-1-per4
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoiva$jose henriques/id=c1761-1-per5
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+            pnoiva$jose henriques/id=c1761-1-per5
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
 
-         mnoiva$josefa maria soares/id=c1761-1-per6
-            ls$morta/antes
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+            mnoiva$josefa maria soares/id=c1761-1-per6
+               ls$morta/antes
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
 
          test$verissimo martins bahia/obs=padrinho de casamento/id=c1761-1-per7
             ls$cargo/capitao
@@ -48,36 +48,36 @@ kleio$gacto.str/prefix=vau
          referido$joao de torres/obs=assina a rogo da madrinha/id=c1761-1-per11
             ls$profissao/padre
 
-      cas$c1761-2/30/8/1761/fl.9v./igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. a margem: "separey estes cazados aos 8 de dezembro de 1761, por impedimento de consanguinidade que me constou por declaracao de inocencio soares morador no logar do sobral filho natural deste logar do vao, e a muitos annos acistente no dito logar, dice serem os bisavos irmaos, e os casados 4.os graos, e asim fiz esta declaracao. dia, mes, era ut supra. torres pereira ribeiro. debaixo do registo: "estes separados forao dispensados como se ve do assento a folha 10 nas costas". numa folha avulsa cozida a este livro a seguir a folha 10, segue uma dispensa apostolica de jeronimo luis e de luisa maria do vau.
+      cas$c1761-2/30/8/1761/fl.9v./igreja de nossa senhora da piedade, vau/joao de torres pereira ribeiro (padre)/obs=assina paroco o padre joao de torres pereira ribeiro. a margem: "separey estes cazados aos 8 de dezembro de 1761, por impedimento de consanguinidade que me constou por declaracao de inocencio soares morador no logar do sobral filho natural deste logar do vao, e a muitos annos acistente no dito logar, dice serem os bisavos irmaos, e os casados 4.os graos, e asim fiz esta declaracao. dia, mes, era ut supra. torres pereira ribeiro." debaixo do registo: "estes separados forao dispensados como se ve do assento a folha 10 nas costas". numa folha avulsa cozida a este livro a seguir a folha 10, segue uma dispensa apostolica de jeronimo luis e de luisa maria do vau.
 
          noivo$jeronimo luis/id=c1761-2-noivo
             rel$parentesco/consanguinidade de quarto grau/luisa maria/c1761-2-noiva
             ls$naturalidade/vau
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoivo$jose luis/id=c1761-2-pnoivo
-            ls$naturalidade/vau
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+            pnoivo$jose luis/id=c1761-2-pnoivo
+               ls$naturalidade/vau
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
 
-         mnoivo$joana maria/id=c1761-2-mnoivo
-            ls$naturalidade/vau
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
+            mnoivo$joana maria/id=c1761-2-mnoivo
+               ls$naturalidade/vau
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/amoreira, freguesia de nossa senhora de aboboriz
 
          noiva$luisa maria/id=c1761-2-noiva
             ls$naturalidade/vau
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoiva$pedro ferreira/id=c1761-2-pnoiva
-            ls$naturalidade/vau
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/obidos, igreja de sao tiago
+            pnoiva$pedro ferreira/id=c1761-2-pnoiva
+               ls$naturalidade/vau
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/obidos, igreja de sao tiago
 
-         mnoiva$teresa maria/id=c1761-2-mnoiva
-            ls$naturalidade/vau
-            ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
-            ls$loccasamento/obidos, igreja de sao tiago
+            mnoiva$teresa maria/id=c1761-2-mnoiva
+               ls$naturalidade/vau
+               ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
+               ls$loccasamento/obidos, igreja de sao tiago
 
          test$rodrigo luis alves/obs=padrinho do casamento/id=c1761-2-per1
             ls$profissao/padre
@@ -107,18 +107,18 @@ kleio$gacto.str/prefix=vau
          noivo$jeronimo da silva/id=c1762-1-per1
             ls$naturalidade/monte mendo, freguesia de sao leonardo da atouguia da baleia
 
-         pnoivo$antonio cosme/id=c1762-1-per2
+            pnoivo$antonio cosme/id=c1762-1-per2
 
-         mnoivo$joana delgada/id=c1762-1-per3
+            mnoivo$joana delgada/id=c1762-1-per3
 
          noiva$micaela maria/id=c1762-1-per4
             ls$naturalidade/freguesia de nossa senhora da piedade
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoiva$luis vicente/id=c1762-1-per5
-            ls$naturalidade/serra da pescaria, freguesia de famalicao/obs=coutos de alcobaca
+            pnoiva$luis vicente/id=c1762-1-per5
+               ls$naturalidade/serra da pescaria, freguesia de famalicao/obs=coutos de alcobaca
 
-         mnoiva$maria do o/id=c1762-1-per6
+            mnoiva$maria do o/id=c1762-1-per6
 
          test$bento das neves madail/obs=duvida na leitura do apelido/id=c1762-1-per7
             ls$assina/sim
@@ -169,16 +169,16 @@ kleio$gacto.str/prefix=vau
             ls$residencia/moinho da ferraria, freguesia de nossa senhora da piedade
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoivo$pascoal lopes/id=c1764-1-per2
+            pnoivo$pascoal lopes/id=c1764-1-per2
 
-         mnoivo$maria francisca/id=c1764-1-per3
+            mnoivo$maria francisca/id=c1764-1-per3
 
          noiva$maria antonia/id=c1764-1-per4
             ls$naturalidade/serra do bouro
 
-         pnoiva$joaquim da fonseca/id=c1764-1-per5
+            pnoiva$joaquim da fonseca/id=c1764-1-per5
 
-         mnoiva$antonia maria/id=c1764-1-per6
+            mnoiva$antonia maria/id=c1764-1-per6
 
          test$jose morinho/id=c1764-1-per7
             ls$naturalidade/amoreira
@@ -205,19 +205,19 @@ kleio$gacto.str/prefix=vau
          noivo$jose francisco louro/id=c1764-2-per1
             ls$naturalidade/sobral da lagoa, freguesia de sao joao do mocharro
 
-         pnoivo$manuel francisco louro%manoel francisco louyo/id=c1764-2-per2
+            pnoivo$manuel francisco louro%manoel francisco louyo/id=c1764-2-per2
 
-         mnoivo$josefa maria/id=c1764-2-per3
+            mnoivo$josefa maria/id=c1764-2-per3
 
          noiva$rosa maria barbara/id=c1764-2-per4
             ls$ec/v
             ls$naturalidade/vau, freguesia de nossa senhora da piedade
 
-         pnoiva$jose goncalves/id=c1764-2-per5
-            ls$morto/antes
+            pnoiva$jose goncalves/id=c1764-2-per5
+               ls$morto/antes
 
-         mnoiva$maria luisa/id=c1764-2-per6
-            ls$morta/antes
+            mnoiva$maria luisa/id=c1764-2-per6
+               ls$morta/antes
 
          test$antonio martins/id=c1764-2-per7
             ls$assina/cruz
@@ -242,18 +242,18 @@ kleio$gacto.str/prefix=vau
             ls$naturalidade/vau
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoivo$rodrigo alves/id=c1765-1-per2
-            ls$morto/antes
+            pnoivo$rodrigo alves/id=c1765-1-per2
+               ls$morto/antes
 
-         mnoivo$maria luisa/id=c1765-1-per3
-            ls$morta/antes
+            mnoivo$maria luisa/id=c1765-1-per3
+               ls$morta/antes
 
          noiva$maria rosa/id=c1765-1-per4
             ls$locbaptismo/amoreira, freguesia de nossa senhora de aboboriz
 
-         pnoiva$francisco henriques/id=c1765-1-per5
+            pnoiva$francisco henriques/id=c1765-1-per5
 
-         mnoiva$rosa maria/id=c1765-1-per6
+            mnoiva$rosa maria/id=c1765-1-per6
 
          test$jeronimo da silva/id=c1765-1-per7
             ls$assina/mal

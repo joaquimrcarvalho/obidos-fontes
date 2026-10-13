@@ -1,788 +1,788 @@
-kleio$gacto.str/prefix=stmaria
+kleio$gacto.str/prefix=stmaria/translations=1
    fonte$baptismos1596-1599/localizacao-a.d.l./freguesia de santa maria de obidos
 
       bap$b1596-1/1/1/1596/fl.30/igreja de santa maria/gaspar vicente (cura)/obs=o escrivao anota que "daqui por diante comesei eu de servir de cura que forao aos 22 de dezembro de 95 annos"
 
          n$estevao/m/id=b1596-1-per1
 
-         pn$gaspar de seixas do po/id=b1596-1-per2
-            ls$residencia/po
+            pn$gaspar de seixas do po/id=b1596-1-per2
+               ls$residencia/po
 
-         mn$maria de oliveira/id=b1596-1-per3
+            mn$maria de oliveira/id=b1596-1-per3
 
-         pad1$dionisio fortes/id=b1596-1-per4
+            pad1$dionisio fortes/id=b1596-1-per4
 
-         mad1$branca/id=b1596-1-per5
-            ls$titulo/dona
+            mad1$branca/id=b1596-1-per5
+               ls$titulo/dona
 
-         mrmad1$francisco correia do po/id=b1596-1-per6
-            ls$residencia/po
+               mrmad1$francisco correia do po/id=b1596-1-per6
+                  ls$residencia/po
 
       bap$b1596-2/2/2/1596/fl.30/igreja de santa maria/tome de matos/obs=assina gaspar vicente
 
          n$simao/m/id=b1596-2-per1
 
-         pn$sebastiao dias/id=b1596-2-per2
+            pn$sebastiao dias/id=b1596-2-per2
 
-         mn$isabel dias/id=b1596-2-per3
+            mn$isabel dias/id=b1596-2-per3
 
-         pad1$valerio tavares de sousa/id=b1596-2-per4
+            pad1$valerio tavares de sousa/id=b1596-2-per4
 
-         mad1$maria jeronima/id=b1596-2-per5
+            mad1$maria jeronima/id=b1596-2-per5
 
-         mrmad1$baltazar dias/id=b1596-2-per6
+               mrmad1$baltazar dias/id=b1596-2-per6
 
       bap$b1596-3/3/5/1596/fl.30v./igreja de santa maria/antonio gasrcia (padre economo da igreja de sao tiago)/obs=assina gaspar vicente
 
          n$constantino/m/id=b1596-3-per1
 
-         pn$diogo luis%di.o luis/id=b1596-3-per2
-            ls$residencia/a da gorda
+            pn$diogo luis%di.o luis/id=b1596-3-per2
+               ls$residencia/a da gorda
 
-         mn$beatriz vicente/id=b1596-3-per3
-            ls$residencia/a da gorda
+            mn$beatriz vicente/id=b1596-3-per3
+               ls$residencia/a da gorda
 
-         pad1$dionisio fortes/id=b1596-3-per4
-            ls$titulo/licenciado
+            pad1$dionisio fortes/id=b1596-3-per4
+               ls$titulo/licenciado
 
-         mad1$isabel sanches/id=b1596-3-per5
-            ls$ec/v
+            mad1$isabel sanches/id=b1596-3-per5
+               ls$ec/v
 
       bap$b1596-4/14/7/1596/fl.30v./igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$antonio/m/id=b1596-4-per1
 
-         pn$joao antunes/id=b1596-4-per2
-            ls$residencia/gaeiras
+            pn$joao antunes/id=b1596-4-per2
+               ls$residencia/gaeiras
 
-         mn$isabel jorge/id=b1596-4-per3
-            ls$residencia/gaeiras
+            mn$isabel jorge/id=b1596-4-per3
+               ls$residencia/gaeiras
 
-         pad1$antonio francisco/id=b1596-4-per4
-            ls$residencia/casal do pinheiro
+            pad1$antonio francisco/id=b1596-4-per4
+               ls$residencia/casal do pinheiro
 
-         mad1$marta dias/id=b1596-4-per5
+            mad1$marta dias/id=b1596-4-per5
 
-         mrmad1$diogo vaz da fara? dias?/id=b1596-4-per6
+               mrmad1$diogo vaz da fara? dias?/id=b1596-4-per6
 
       bap$b1596-5/22/10/1596/fl.30v./igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente. "pus os sanctos oleos... assistiram a este officio o padre thome de matos e maria fernandes molher de lionardo bras morador no arelho a qual crianca baptizou simao dias dizimeiro morador no arebaldo por necessidade quando naceo"
 
          n$maria/f/id=b1596-5-per1
 
-         pn$simao fernandes/id=b1596-5-per2
-            ls$residencia/arrabalde
+            pn$simao fernandes/id=b1596-5-per2
+               ls$residencia/arrabalde
 
-         mn$beatriz lopes/id=b1596-5-per3
-            ls$residencia/arrabalde
+            mn$beatriz lopes/id=b1596-5-per3
+               ls$residencia/arrabalde
 
-         referido$simao dias/id=b1596-5-per4
-            ls$residencia/arrabalde
-            ls$cargo/dizimeiro
-            rel$sociabilidade/baptizou em necessidade/maria/b1596-5-per1
+            referido$simao dias/id=b1596-5-per4
+               ls$residencia/arrabalde
+               ls$cargo/dizimeiro
+               rel$sociabilidade/baptizou em necessidade/maria/b1596-5-per1
 
-         referido$tome de matos/obs=assistiu ao baptismo em necessidade/id=b1596-5-per5
-            ls$residencia/padre
+            referido$tome de matos/obs=assistiu ao baptismo em necessidade/id=b1596-5-per5
+               ls$residencia/padre
 
-         referida$maria fernandes/obs=assistiu ao baptismo em necessidade/id=b1596-5-referida
+            referida$maria fernandes/obs=assistiu ao baptismo em necessidade/id=b1596-5-referida
 
-         referido$leonardo bras/id=b1596-5-per6
-            ls$residencia/arelho
-            rel$parentesco/marido/maria fernandes/b1596-5-referida
+            referido$leonardo bras/id=b1596-5-per6
+               ls$residencia/arelho
+               rel$parentesco/marido/maria fernandes/b1596-5-referida
 
       bap$b1596-6/30/11/1596/fl.31/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$antonio/m/id=b1596-6-per1
 
-         pn$antonio fernandes/id=b1596-6-per2
-            ls$residencia/a da gorda
+            pn$antonio fernandes/id=b1596-6-per2
+               ls$residencia/a da gorda
 
-         mn$maria fernandes/id=b1596-6-per3
-            ls$residencia/a da gorda
+            mn$maria fernandes/id=b1596-6-per3
+               ls$residencia/a da gorda
 
-         pad1$tome de matos/id=b1596-6-per4
-            ls$profissao/padre
-            ls$residencia/obidos
+            pad1$tome de matos/id=b1596-6-per4
+               ls$profissao/padre
+               ls$residencia/obidos
 
-         mad1$maria goncalves/id=b1596-6-per5
-            ls$residencia/a da gorda
+            mad1$maria goncalves/id=b1596-6-per5
+               ls$residencia/a da gorda
 
-         mrmad1$diogo fernandes%di.o frz/id=b1596-6-per6
-            ls$residencia/a da gorda
+               mrmad1$diogo fernandes%di.o frz/id=b1596-6-per6
+                  ls$residencia/a da gorda
 
       bap$b1596-7/7/12/1596/fl.31/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$ines/f/id=b1596-7-per1
 
-         pn$filipe dias/id=b1596-7-per2
-            ls$residencia/obidos
+            pn$filipe dias/id=b1596-7-per2
+               ls$residencia/obidos
 
-         mn$maria tavares/id=b1596-7-per3
-            ls$residencia/obidos
+            mn$maria tavares/id=b1596-7-per3
+               ls$residencia/obidos
 
-         pad1$antonio de oliveira/id=b1596-7-per4
-            ls$residencia/obidos
+            pad1$antonio de oliveira/id=b1596-7-per4
+               ls$residencia/obidos
 
-         mad1$isabel tavares/id=b1596-7-per5
-            ls$residencia/obidos
+            mad1$isabel tavares/id=b1596-7-per5
+               ls$residencia/obidos
 
       bap$b1596-8/27/12/1596/fl.31v./igreja de santa maria/tome de matos (padre)/obs=assina gaspar vicente
 
          n$tome/m/id=b1596-8-per1
 
-         pn$tome luis/id=b1596-8-per2
-            ls$residencia/a da gorda
+            pn$tome luis/id=b1596-8-per2
+               ls$residencia/a da gorda
 
-         mn$isabel da silva/id=b1596-8-per3
-            ls$residencia/a da gorda
+            mn$isabel da silva/id=b1596-8-per3
+               ls$residencia/a da gorda
 
-         pad1$gaspar vicente/id=b1596-8-per4
-            ls$profissao/padre
+            pad1$gaspar vicente/id=b1596-8-per4
+               ls$profissao/padre
 
-         mad1$maria antunes/id=b1596-8-per5
+            mad1$maria antunes/id=b1596-8-per5
 
-         pmad1$antonio fernandes/id=b1596-8-per6
-            ls$residencia/granja
+               pmad1$antonio fernandes/id=b1596-8-per6
+                  ls$residencia/granja
 
       bap$b1597-1/12/1/1597/fl.31v./igreja de santa maria/tome de matos (padre economo)/obs=assina gaspar vicente
 
          n$maria/f/id=b1597-1-per1
 
-         pn$simao dias/id=b1597-1-per2
-            ls$profissao/tanoeiro
+            pn$simao dias/id=b1597-1-per2
+               ls$profissao/tanoeiro
 
-         mn$domingas martins/id=b1597-1-per3
+            mn$domingas martins/id=b1597-1-per3
 
-         pad1$gaspar de seixas/id=b1597-1-per4
+            pad1$gaspar de seixas/id=b1597-1-per4
 
-         mad1$violante sanhuda/id=b1597-1-per5
+            mad1$violante sanhuda/id=b1597-1-per5
 
-         mrmad1$pedro vaz%p.o vaz/id=b1597-1-per6
+               mrmad1$pedro vaz%p.o vaz/id=b1597-1-per6
 
       bap$b1597-2/2/2/1597/fl.31v./igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$antonio/m/id=b1597-2-per1
 
-         pn$estevao lopes/id=b1597-2-per2
-            ls$residencia/moinho do redondo
+            pn$estevao lopes/id=b1597-2-per2
+               ls$residencia/moinho do redondo
 
-         mn$nome desconhecido/id=b1597-2-per3
-            ls$residencia/moinho do redondo
+            mn$nome desconhecido/id=b1597-2-per3
+               ls$residencia/moinho do redondo
 
-         pad1$alvaro barreto/id=b1597-2-pad1
+            pad1$alvaro barreto/id=b1597-2-pad1
 
-         mad1$nome desconhecido/id=b1597-2-per4
-            rel$parentesco/filha/alvaro barreto/b1597-2-pad1
+            mad1$nome desconhecido/id=b1597-2-per4
+               rel$parentesco/filha/alvaro barreto/b1597-2-pad1
 
       bap$b1597-3/2/2/1597/fl.31v./igreja de santa maria/tome de matos (padre)/obs=assina gaspar vicente
 
          n$joao/m/id=b1597-3-per1
 
-         pn$antonio dias/id=b1597-3-per2
+            pn$antonio dias/id=b1597-3-per2
 
-         mn$isabel fernandes/id=b1597-3-per3
+            mn$isabel fernandes/id=b1597-3-per3
 
-         pad1$bernardo da serra/id=b1597-3-per4
-            ls$cargo/beneficiado
+            pad1$bernardo da serra/id=b1597-3-per4
+               ls$cargo/beneficiado
 
-      bap$b1597-4/5/2/1597/fl.32/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente. "pos os sanctos oleos... por ser baptizada em casa com necessidade forao presentes a este officio salvador dias beneficiado da mesma igreja e isabel sanches sua tia
+      bap$b1597-4/5/2/1597/fl.32/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente. "pos os sanctos oleos... por ser baptizada em casa com necessidade forao presentes a este officio salvador dias beneficiado da mesma igreja e isabel sanches sua tia"
 
          n$joana/f/id=b1597-4-per1
 
-         pn$pedro alvares/id=b1597-4-per2
+            pn$pedro alvares/id=b1597-4-per2
 
-         mn$maria godinho/id=b1597-4-per3
+            mn$maria godinho/id=b1597-4-per3
 
-         referido$salvador dias/obs=assiste ao baptismo em necessidade/id=b1597-4-per4
-            ls$cargo/beneficiado
+            referido$salvador dias/obs=assiste ao baptismo em necessidade/id=b1597-4-per4
+               ls$cargo/beneficiado
 
-         referida$isabel sanches/id=b1597-4-per5
-            rel$parentesco/tia/joana/b1597-4-per1
+            referida$isabel sanches/id=b1597-4-per5
+               rel$parentesco/tia/joana/b1597-4-per1
 
       bap$b1597-5/13/2/1597/fl.32/igreja de santa maria/ ? (senhor prior)/obs=assina gaspar vicente
 
          n$antonia/f/id=b1597-5-per1
 
-         pn$manuel figueira/id=b1597-5-per2
+            pn$manuel figueira/id=b1597-5-per2
 
-         mn$maria rodrigues/id=b1597-5-per3
+            mn$maria rodrigues/id=b1597-5-per3
 
-         pad1$martim vaz bernardes/id=b1597-5-pad1
+            pad1$martim vaz bernardes/id=b1597-5-pad1
 
-         mad1$filipa bernardes/id=b1597-5-per4
-            ls$titulo/dona
-            rel$parentesco/irma/martim vaz bernardes/b1597-5-pad1
+            mad1$filipa bernardes/id=b1597-5-per4
+               ls$titulo/dona
+               rel$parentesco/irma/martim vaz bernardes/b1597-5-pad1
 
       bap$b1597-6/14/2/1597/fl.32/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$bras/m/id=b1597-6-per1
 
-         pn$bernardim fernandes/id=b1597-6-per2
-            ls$residencia/a da gorda
+            pn$bernardim fernandes/id=b1597-6-per2
+               ls$residencia/a da gorda
 
-         mn$maria silvestre/id=b1597-6-per3
-            ls$residencia/a da gorda
+            mn$maria silvestre/id=b1597-6-per3
+               ls$residencia/a da gorda
 
-         pad1$antonio soares/id=b1597-6-per4
-            ls$residencia/a da gorda
+            pad1$antonio soares/id=b1597-6-per4
+               ls$residencia/a da gorda
 
-         mad1$maria goncalves/id=b1597-6-per5
-            ls$residencia/a da gorda
+            mad1$maria goncalves/id=b1597-6-per5
+               ls$residencia/a da gorda
 
-         mrmad1$diogo fernandes%di.o fez/id=b1597-6-per6
-            ls$residencia/a da gorda
+               mrmad1$diogo fernandes%di.o fez/id=b1597-6-per6
+                  ls$residencia/a da gorda
 
       bap$b1597-7/16/2?/1597/fl.32/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$francisca/f/id=b1597-7-per1
 
-         pn$joao francisco/id=b1597-7-per2
-            ls$residencia/a da gorda
+            pn$joao francisco/id=b1597-7-per2
+               ls$residencia/a da gorda
 
-         mn$ines vaz/id=b1597-7-per3
-            ls$residencia/a da gorda
+            mn$ines vaz/id=b1597-7-per3
+               ls$residencia/a da gorda
 
-         pad1$francisco da horta/id=b1597-7-per4
-            ls$profissao/escrivao
-            ls$residencia/a da gorda
+            pad1$francisco da horta/id=b1597-7-per4
+               ls$profissao/escrivao
+               ls$residencia/a da gorda
 
       bap$b1597-8/23/2/1597/fl.32v./igreja de santa maria/belchior carneiro (padre beneficiado da igreja de santa maria)/obs=assina gaspar vicente
 
          n$simeao/m/id=b1597-8-per1
 
-         pn$gregorio manuel/id=b1597-8-per2
+            pn$gregorio manuel/id=b1597-8-per2
 
-         mn$antonia duarte/id=b1597-8-per3
+            mn$antonia duarte/id=b1597-8-per3
 
-         mad1$maria henriques/id=b1597-8-per4
-            ls$ec/v
+            mad1$maria henriques/id=b1597-8-per4
+               ls$ec/v
 
-         pad1$luis do quintal/id=b1597-8-per5
-            ls$ec/s
+            pad1$luis do quintal/id=b1597-8-per5
+               ls$ec/s
 
       bap$b1597-9/29/3/1597/fl.32v./igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$manuel/m/id=b1597-9-per1
 
-         pn$antonio figueira lobo/id=b1597-9-pn
+            pn$antonio figueira lobo/id=b1597-9-pn
 
-         mn$leocadia de freitas/id=b1597-9-per2
+            mn$leocadia de freitas/id=b1597-9-per2
 
-         pad1$jose figueira/id=b1597-9-per3
-            rel$parentesco/pai/antonio figueira lobo/b1597-9-pn
+            pad1$jose figueira/id=b1597-9-per3
+               rel$parentesco/pai/antonio figueira lobo/b1597-9-pn
 
-         mad1$isabel ferreira/id=b1597-9-per4
+            mad1$isabel ferreira/id=b1597-9-per4
 
-         mrmad1$vasco fortes/id=b1597-9-per5
+               mrmad1$vasco fortes/id=b1597-9-per5
 
       bap$b1597-10/5/4/1597/fl.32v./igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$antonio/m/id=b1597-10-per1
 
-         pn$francisco correia manuel/id=b1597-10-per2
+            pn$francisco correia manuel/id=b1597-10-per2
 
-         mn$maria de vasconcelos/id=b1597-10-per3
-            ls$titulo/dona
+            mn$maria de vasconcelos/id=b1597-10-per3
+               ls$titulo/dona
 
-         pad1$cristovao preto%xpao preto/id=b1597-10-per4
+            pad1$cristovao preto%xpao preto/id=b1597-10-per4
 
-         mad1$maria de oliveira do po/id=b1597-10-per5
-            ls$residencia/po
+            mad1$maria de oliveira do po/id=b1597-10-per5
+               ls$residencia/po
 
-         mrmad1$gaspar de seixas do po/id=b1597-10-per6
-            ls$residencia/po
+               mrmad1$gaspar de seixas do po/id=b1597-10-per6
+                  ls$residencia/po
 
       bap$b1597-11/17/4/1597/fl.33/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$isabel/f/id=b1597-11-per1
 
-         pn$joao antunes/id=b1597-11-per2
+            pn$joao antunes/id=b1597-11-per2
 
-         mn$nome desconhecido/id=b1597-11-per3
+            mn$nome desconhecido/id=b1597-11-per3
 
-         pad1$antonio vaz/id=b1597-11-per4
-            ls$cargo/beneficiado da igreja de santa maria
+            pad1$antonio vaz/id=b1597-11-per4
+               ls$cargo/beneficiado da igreja de santa maria
 
-         mad1$filipa travassos/id=b1597-11-per5
+            mad1$filipa travassos/id=b1597-11-per5
 
       bap$b1597-12/27/4/1597/fl.33/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$maria/f/id=b1597-12-per1
 
-         pn$manuel henriques/id=b1597-12-per2
-            ls$residencia/casal da comenda
+            pn$manuel henriques/id=b1597-12-per2
+               ls$residencia/casal da comenda
 
-         mn$maria de oliveira/id=b1597-12-per3
-            ls$residencia/casal da comenda
+            mn$maria de oliveira/id=b1597-12-per3
+               ls$residencia/casal da comenda
 
-         pad1$antonio da costa/id=b1597-12-per4
-            ls$residencia/lourinha
+            pad1$antonio da costa/id=b1597-12-per4
+               ls$residencia/lourinha
 
-         mad1$maria goncalves/id=b1597-12-per5
-            ls$residencia/a da gorda
+            mad1$maria goncalves/id=b1597-12-per5
+               ls$residencia/a da gorda
 
-         mrmad1$diogo fernandes/id=b1597-12-per6
-            ls$residencia/a da gorda
+               mrmad1$diogo fernandes/id=b1597-12-per6
+                  ls$residencia/a da gorda
 
       bap$b1597-13/8/5/1597/fl.33/igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$filipe/m/id=b1597-13-per1
 
-         pn$lourenco vicente%l.co v.te/id=b1597-13-per2
-            ls$residencia/a da gorda
+            pn$lourenco vicente%l.co v.te/id=b1597-13-per2
+               ls$residencia/a da gorda
 
-         mn$madalena luis/id=b1597-13-per3
-            ls$residencia/a da gorda
+            mn$madalena luis/id=b1597-13-per3
+               ls$residencia/a da gorda
 
-         pad1$manuel figueira/id=b1597-13-per4
-            ls$residencia/obidos
+            pad1$manuel figueira/id=b1597-13-per4
+               ls$residencia/obidos
 
-         mad1$beatriz/id=b1597-13-per5
-            ls$residencia/a da gorda
+            mad1$beatriz/id=b1597-13-per5
+               ls$residencia/a da gorda
 
-         mmad1$maria alvares/id=b1597-13-per6
-            ls$ec/v
-            ls$residencia/a da gorda
+               mmad1$maria alvares/id=b1597-13-per6
+                  ls$ec/v
+                  ls$residencia/a da gorda
 
       bap$b1597-14/26/5/1597/fl.33v./igreja de santa maria/gjorge de lima mascarenhas (prior da igreja de santa maria)/obs=assina gaspar vicente
 
          n$margarida/f/id=b1597-14-per1
 
-         pn$estevao fernandes/id=b1597-14-per2
-            ls$residencia/gaeiras
+            pn$estevao fernandes/id=b1597-14-per2
+               ls$residencia/gaeiras
 
-         mn$guiomar duarte/id=b1597-14-per3
-            ls$residencia/gaeiras
+            mn$guiomar duarte/id=b1597-14-per3
+               ls$residencia/gaeiras
 
-         pad1$antonio dias/id=b1597-14-per4
-            ls$residencia/moinho
+            pad1$antonio dias/id=b1597-14-per4
+               ls$residencia/moinho
 
-         mad1$margarida teixeira/id=b1597-14-per5
+            mad1$margarida teixeira/id=b1597-14-per5
 
-         mrmad1$sebastiao jorge da quinta/id=b1597-14-per6
+               mrmad1$sebastiao jorge da quinta/id=b1597-14-per6
 
       bap$b1597-15/9/6/1597/fl.33v./igreja de santa maria/jorge lima de mascarenhas (prior da igreja de santa maria)/obs=assina gaspar vicente
 
          n$catarina%c.na/f/id=b1597-15-per1
 
-         pn$joao fernandes/id=b1597-15-per2
-            ls$residencia/obidos
+            pn$joao fernandes/id=b1597-15-per2
+               ls$residencia/obidos
 
-         mn$isabel fernandes/id=b1597-15-per3
-            ls$residencia/obidos
+            mn$isabel fernandes/id=b1597-15-per3
+               ls$residencia/obidos
 
-         pad1$francisco de eca/id=b1597-15-pad1
-            ls$titulo/dom
+            pad1$francisco de eca/id=b1597-15-pad1
+               ls$titulo/dom
 
-         mad1$leonor/id=b1597-15-per4
-            ls$titulo/dona
+            mad1$leonor/id=b1597-15-per4
+               ls$titulo/dona
 
-         mrmad1$francisco de eca/mesmo_que=b1597-15-pad1/id=b1597-15-per5
+               mrmad1$francisco de eca/mesmo_que=b1597-15-pad1/id=b1597-15-per5
 
       bap$b1597-16/15/6/1597/fl.33v./igreja de santa maria/gaspar vicente (cura)/obs=assina gaspar vicente
 
          n$beatriz/f/id=b1597-16-per1
 
-         pn$gaspar de seixas do po/id=b1597-16-per2
-            ls$residencia/po
+            pn$gaspar de seixas do po/id=b1597-16-per2
+               ls$residencia/po
 
-         mn$maria de oliveira/id=b1597-16-per3
-            ls$residencia/po
+            mn$maria de oliveira/id=b1597-16-per3
+               ls$residencia/po
 
-         pad1$cristovao preto%xpao preto/id=b1597-16-per4
-            ls$titulo/licenciado
+            pad1$cristovao preto%xpao preto/id=b1597-16-per4
+               ls$titulo/licenciado
 
-         mad1$jeronima de vasconcelos/obs=jeronima de vasconcelos e sogra de francisco correia manuel/id=b1597-16-per5
+            mad1$jeronima de vasconcelos/obs=jeronima de vasconcelos e sogra de francisco correia manuel/id=b1597-16-per5
 
       bap$b1597-17/13/7/1597/fl.34/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$maria/f/id=b1597-17-per1
 
-         pn$gaspar dias/id=b1597-17-per2
-            ls$residencia/casal de alentejo
+            pn$gaspar dias/id=b1597-17-per2
+               ls$residencia/casal de alentejo
 
-         mn$maria gaspar/id=b1597-17-per3
-            ls$residencia/casal de alentejo
+            mn$maria gaspar/id=b1597-17-per3
+               ls$residencia/casal de alentejo
 
-         pad1$diogo fernandes/id=b1597-17-per4
-            ls$residencia/capeleira
+            pad1$diogo fernandes/id=b1597-17-per4
+               ls$residencia/capeleira
 
-         mad1$catarina rodrigues%c.na roiz/id=b1597-17-per5
-            ls$residencia/obidos
+            mad1$catarina rodrigues%c.na roiz/id=b1597-17-per5
+               ls$residencia/obidos
 
       bap$b1597-18/16/7/1597/fl.34/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$maria/f/id=b1597-18-per1
 
-         pn$domingos duarte/id=b1597-18-per2
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            pn$domingos duarte/id=b1597-18-per2
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         mn$maria correia/id=b1597-18-per3
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            mn$maria correia/id=b1597-18-per3
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         pad1$rodrigo de sequeira%r.o sequeira/id=b1597-18-per4
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            pad1$rodrigo de sequeira%r.o sequeira/id=b1597-18-per4
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         mad1$beatriz pavia/id=b1597-18-per5
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            mad1$beatriz pavia/id=b1597-18-per5
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
       bap$b1597-19/24/8/1597/fl.34/igreja de santa maria/cristovao luis (cura da igreja de santa maria)/obs=assina cristovao luis
 
          n$maria/f/id=b1597-19-per1
 
-         pn$francisco fernandes/id=b1597-19-per2
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
+            pn$francisco fernandes/id=b1597-19-per2
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
 
-         mn$margarida rodrigues/id=b1597-19-per3
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
+            mn$margarida rodrigues/id=b1597-19-per3
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
 
-         pad1$antonio rodrigues/id=b1597-19-per4
-            ls$freguesia/santa maria
+            pad1$antonio rodrigues/id=b1597-19-per4
+               ls$freguesia/santa maria
 
-         mad1$isabel lourenca/id=b1597-19-per5
-            ls$profissao/moleira
-            ls$freguesia/santa maria
+            mad1$isabel lourenca/id=b1597-19-per5
+               ls$profissao/moleira
+               ls$freguesia/santa maria
 
       bap$b1597-20/27/8/1597/fl.34/igreja de santa maria/jeronimo silvestre (clerigo de missa)/obs=assina cristovao luis
 
          n$antonio/m/id=b1597-20-per1
 
-         pn$baltazar dias/id=b1597-20-per2
-            ls$residencia/obidos
+            pn$baltazar dias/id=b1597-20-per2
+               ls$residencia/obidos
 
-         mn$jeronima henriques/id=b1597-20-per3
-            ls$residencia/obidos
+            mn$jeronima henriques/id=b1597-20-per3
+               ls$residencia/obidos
 
-         pad1$francisco correia/id=b1597-20-per4
-            ls$residencia/obidos
+            pad1$francisco correia/id=b1597-20-per4
+               ls$residencia/obidos
 
-         mad1$maria/id=b1597-20-per5
-            ls$titulo/dona
-            ls$residencia/obidos
+            mad1$maria/id=b1597-20-per5
+               ls$titulo/dona
+               ls$residencia/obidos
 
-         mrmad1$joao/id=b1597-20-per6
-            ls$titulo/dom
-            ls$residencia/obidos
+               mrmad1$joao/id=b1597-20-per6
+                  ls$titulo/dom
+                  ls$residencia/obidos
 
       bap$b1597-21/3/8/1597/fl.34/igreja de santa maria/salvador dias (beneficiado da igreja de santa maria)/obs=assina cristovao luis
 
          n$bartolomeu/m/id=b1597-21-per1
 
-         pn$gaspar ribeiro/id=b1597-21-per2
-            ls$freguesia/santa maria
+            pn$gaspar ribeiro/id=b1597-21-per2
+               ls$freguesia/santa maria
 
-         mn$nome desconhecido/id=b1597-21-per3
-            ls$freguesia/santa maria
+            mn$nome desconhecido/id=b1597-21-per3
+               ls$freguesia/santa maria
 
-         pad1$manuel leitao/id=b1597-21-per4
-            ls$freguesia/santa maria
+            pad1$manuel leitao/id=b1597-21-per4
+               ls$freguesia/santa maria
 
-         pad2$? sanches%b.o sanches/id=b1597-21-per5
-            ls$freguesia/santa maria
+            pad2$? sanches%b.o sanches/id=b1597-21-per5
+               ls$freguesia/santa maria
 
       bap$b1597-22/3/9/1597/fl.34v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$beatriz/f/id=b1597-22-per1
 
-         pn$vicente de lemos/id=b1597-22-per2
+            pn$vicente de lemos/id=b1597-22-per2
 
-         mn$agueda fernandes/id=b1597-22-per3
+            mn$agueda fernandes/id=b1597-22-per3
 
-         pad1$gaspar soares/id=b1597-22-per4
+            pad1$gaspar soares/id=b1597-22-per4
 
       bap$b1597-23/9/9/1597/fl.34v./igreja de santa maria/belchior carneiro (beneficiado da igreja de santa maria)/obs=assina cristovao luis
 
          n$isabel/f/id=b1597-23-per1
 
-         pn$domingos ?/id=b1597-23-per2
-            ls$freguesia/santa maria
+            pn$domingos ?/id=b1597-23-per2
+               ls$freguesia/santa maria
 
-         mn$catarina henriques/id=b1597-23-per3
-            ls$freguesia/santa maria
+            mn$catarina henriques/id=b1597-23-per3
+               ls$freguesia/santa maria
 
-         pad1$antonio tristao/id=b1597-23-pad1
-            ls$titulo/clerigo de missa
-            ls$freguesia/santa maria
+            pad1$antonio tristao/id=b1597-23-pad1
+               ls$titulo/clerigo de missa
+               ls$freguesia/santa maria
 
-         mad1$isabel tristao/id=b1597-23-per4
-            ls$freguesia/santa maria
-            rel$parentesco/irma/antonio tristao/b1597-23-pad1
+            mad1$isabel tristao/id=b1597-23-per4
+               ls$freguesia/santa maria
+               rel$parentesco/irma/antonio tristao/b1597-23-pad1
 
       bap$b1597-24/5/10/1597/fl.34v./igreja de santa maria/tome de matos (economo da igreja de santa maria)/obs=assina cristovao luis
 
          n$angela/f/id=b1597-24-per1
 
-         pn$antonio soares/id=b1597-24-per2
-            ls$freguesia/santa maria
+            pn$antonio soares/id=b1597-24-per2
+               ls$freguesia/santa maria
 
-         mn$maria ?/id=b1597-24-per3
-            ls$freguesia/santa maria
+            mn$maria ?/id=b1597-24-per3
+               ls$freguesia/santa maria
 
-         pad1$luis fernandes/id=b1597-24-per4
-            ls$profissao/sombreireiro
-            ls$freguesia/santa maria
+            pad1$luis fernandes/id=b1597-24-per4
+               ls$profissao/sombreireiro
+               ls$freguesia/santa maria
 
-         mad1$maria goncalves/id=b1597-24-per5
-            ls$freguesia/santa maria
+            mad1$maria goncalves/id=b1597-24-per5
+               ls$freguesia/santa maria
 
       bap$b1597-25/11/10/1597/fl.34v./igreja de santa maria/jorge de lima mascarenhas (prior da igreja de santa maria)/obs=assina cristovao luis
 
          n$nome desconhecido/m/id=b1597-25-per1
 
-         pn$francisco/id=b1597-25-pn
-            ls$titulo/dom
-            ls$freguesia/santa maria
+            pn$francisco/id=b1597-25-pn
+               ls$titulo/dom
+               ls$freguesia/santa maria
 
-         mn$catarina%c.na/id=b1597-25-per2
-            ls$titulo/dona
-            ls$freguesia/santa maria
+            mn$catarina%c.na/id=b1597-25-per2
+               ls$titulo/dona
+               ls$freguesia/santa maria
 
-         pad1$joao/id=b1597-25-per3
-            ls$titulo/dom
-            ls$freguesia/santa maria
-            rel$parentesco/irmao/dom francisco/b1597-25-pn
+            pad1$joao/id=b1597-25-per3
+               ls$titulo/dom
+               ls$freguesia/santa maria
+               rel$parentesco/irmao/dom francisco/b1597-25-pn
 
-         mad1$leonor/id=b1597-25-per4
-            ls$titulo/dona
-            ls$freguesia/santa maria
-            rel$parentesco/mae/dom francisco/b1597-25-pn
+            mad1$leonor/id=b1597-25-per4
+               ls$titulo/dona
+               ls$freguesia/santa maria
+               rel$parentesco/mae/dom francisco/b1597-25-pn
 
       bap$b1597-26/12/10/1597/fl.34v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$joao/m/id=b1597-26-per1
 
-         pn$pedro alves%p.o alz/id=b1597-26-per2
-            ls$residencia/casal de azambujeiro
-            ls$freguesia/santa maria
+            pn$pedro alves%p.o alz/id=b1597-26-per2
+               ls$residencia/casal de azambujeiro
+               ls$freguesia/santa maria
 
-         mn$nome desconhecido/id=b1597-26-per3
-            ls$residencia/casal de azambujeiro
-            ls$freguesia/santa maria
+            mn$nome desconhecido/id=b1597-26-per3
+               ls$residencia/casal de azambujeiro
+               ls$freguesia/santa maria
 
-         pad1$joao martins/id=b1597-26-per4
-            ls$freguesia/santa maria
+            pad1$joao martins/id=b1597-26-per4
+               ls$freguesia/santa maria
 
-         mad1$isabel rodrigues/id=b1597-26-per5
-            ls$freguesia/santa maria
+            mad1$isabel rodrigues/id=b1597-26-per5
+               ls$freguesia/santa maria
 
-         mrmad1$baltazar jorge/id=b1597-26-per6
-            ls$freguesia/santa maria
+               mrmad1$baltazar jorge/id=b1597-26-per6
+                  ls$freguesia/santa maria
 
       bap$b1597-27/17/10/1597/fl.35/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$maria/f/id=b1597-27-per1
 
-         pn$custodio martinz%costodio mrz/id=b1597-27-per2
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            pn$custodio martinz%costodio mrz/id=b1597-27-per2
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         mn$filipa vicente/id=b1597-27-per3
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            mn$filipa vicente/id=b1597-27-per3
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         pad1$lourenco vicente/id=b1597-27-per4
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            pad1$lourenco vicente/id=b1597-27-per4
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         mad1$isabel/id=b1597-27-per5
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            mad1$isabel/id=b1597-27-per5
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         pmad1$sebastiao fernandes/id=b1597-27-per6
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+               pmad1$sebastiao fernandes/id=b1597-27-per6
+                  ls$residencia/a da gorda
+                  ls$freguesia/santa maria
 
       bap$b1597-28/18/12/1597/fl.35/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$domingas/f/id=b1597-28-per1
 
-         pn$manuel luis/id=b1597-28-per2
-            ls$freguesia/santa maria
+            pn$manuel luis/id=b1597-28-per2
+               ls$freguesia/santa maria
 
-         mn$maria gaspar/id=b1597-28-per3
-            ls$freguesia/santa maria
+            mn$maria gaspar/id=b1597-28-per3
+               ls$freguesia/santa maria
 
-         pad1$belchior carneiro/id=b1597-28-per4
-            ls$cargo/beneficiado da igreja de santa maria
-            ls$freguesia/santa maria
+            pad1$belchior carneiro/id=b1597-28-per4
+               ls$cargo/beneficiado da igreja de santa maria
+               ls$freguesia/santa maria
 
-         mad1$maria manuel/id=b1597-28-per5
-            ls$freguesia/santa maria
+            mad1$maria manuel/id=b1597-28-per5
+               ls$freguesia/santa maria
 
       bap$b1597-29/28/12/1597/fl.35/igreja de santa maria/jorge de lima mascarenhas (prior da igreja de santa maria)/obs=assina cristovao luis
 
          n$nome desconhecido/id=b1597-29-per1
 
-         pn$jorge henriques/id=b1597-29-per2
+            pn$jorge henriques/id=b1597-29-per2
 
-         mn$francisca marques/id=b1597-29-per3
+            mn$francisca marques/id=b1597-29-per3
 
-         pad1$antonio/id=b1597-29-per4
-            ls$titulo/dom
-            ls$cargo/prior de sao tiago
+            pad1$antonio/id=b1597-29-per4
+               ls$titulo/dom
+               ls$cargo/prior de sao tiago
 
       bap$b1597-30/29/12/1597/fl.35/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$isabel/f/id=b1597-30-per1
 
-         pn$manuel martins%manoel mrz/id=b1597-30-per2
-            ls$freguesia/santa maria
+            pn$manuel martins%manoel mrz/id=b1597-30-per2
+               ls$freguesia/santa maria
 
-         mn$ines fernandes/id=b1597-30-per3
-            ls$freguesia/santa maria
+            mn$ines fernandes/id=b1597-30-per3
+               ls$freguesia/santa maria
 
-         pad1$simao dias/id=b1597-30-per4
-            ls$freguesia/santa maria
+            pad1$simao dias/id=b1597-30-per4
+               ls$freguesia/santa maria
 
-         mad1$margarida luis/id=b1597-30-per5
-            ls$freguesia/santa maria
+            mad1$margarida luis/id=b1597-30-per5
+               ls$freguesia/santa maria
 
       bap$b1598-1/14/1/1598/fl.35/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$antonio/m/id=b1598-1-per1
 
-         pn$baltasar dias/id=b1598-1-per2
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            pn$baltasar dias/id=b1598-1-per2
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         mn$maria ribeiro/id=b1598-1-per3
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            mn$maria ribeiro/id=b1598-1-per3
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         pad1$antonio fernandes/id=b1598-1-pad1
-            ls$residencia/granja
-            ls$freguesia/santa maria
+            pad1$antonio fernandes/id=b1598-1-pad1
+               ls$residencia/granja
+               ls$freguesia/santa maria
 
-         mad1$maria/id=b1598-1-per4
-            ls$residencia/granja
-            ls$freguesia/santa maria
-            rel$parentesco/filha/antonio fernandes/b1598-1-pad1
+            mad1$maria/id=b1598-1-per4
+               ls$residencia/granja
+               ls$freguesia/santa maria
+               rel$parentesco/filha/antonio fernandes/b1598-1-pad1
 
       bap$b1598-2/18/1/1598/fl.35/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$beatriz/f/id=b1598-2-per1
 
-         pn$antonio rodrigues?/id=b1598-2-per2
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
+            pn$antonio rodrigues?/id=b1598-2-per2
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
 
-         mn$domingas da costa/id=b1598-2-per3
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
+            mn$domingas da costa/id=b1598-2-per3
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
 
-         pad1$manuel figueira/id=b1598-2-per4
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            pad1$manuel figueira/id=b1598-2-per4
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         mad1$mecia fernandes/id=b1598-2-per5
-            ls$residencia/azambujeiro
-            ls$freguesia/santa maria
+            mad1$mecia fernandes/id=b1598-2-per5
+               ls$residencia/azambujeiro
+               ls$freguesia/santa maria
 
       bap$b1598-3/26/1/1598/fl.35/igreja de santa maria/gaspar vicente (beneficiado da igreja de santa maria)/obs=assina cristovao luis
 
          n$ines/f/id=b1598-3-per1
 
-         pn$diogo rodrigues%di.o roiz/id=b1598-3-per2
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            pn$diogo rodrigues%di.o roiz/id=b1598-3-per2
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         mn$beatriz vicente/id=b1598-3-per3
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            mn$beatriz vicente/id=b1598-3-per3
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         pad1$jorge de lima mascarenhas/id=b1598-3-per4
-            ls$cargo/prior da igreja de santa maria
-            ls$freguesia/santa maria
+            pad1$jorge de lima mascarenhas/id=b1598-3-per4
+               ls$cargo/prior da igreja de santa maria
+               ls$freguesia/santa maria
 
-         mad1$ana carvalha/id=b1598-3-per5
-            ls$freguesia/santa maria
+            mad1$ana carvalha/id=b1598-3-per5
+               ls$freguesia/santa maria
 
       bap$b1598-4/29/1/1598/fl.35v./igreja de santa maria/francisco nunes (prior da igreja das caldas)/obs=assina cristovao luis
 
          n$francisco/m/id=b1598-4-per1
 
-         pn$diogo fernandes/id=b1598-4-per2
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            pn$diogo fernandes/id=b1598-4-per2
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         mn$maria goncalves/id=b1598-4-per3
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            mn$maria goncalves/id=b1598-4-per3
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         pad1$gaspar martins/id=b1598-4-per4
-            ls$cargo/vigario da lourinha
+            pad1$gaspar martins/id=b1598-4-per4
+               ls$cargo/vigario da lourinha
 
-         mad1$isabel de oliveira/id=b1598-4-per5
-            ls$freguesia/santa maria
+            mad1$isabel de oliveira/id=b1598-4-per5
+               ls$freguesia/santa maria
 
       bap$b1598-5/1/2/1598/fl.35v./igreja de santa maria/belchior carneiro (beneficiado da igreja de santa maria)/obs=assina cristovao luis
 
          n$domingas/f/id=b1598-5-per1
 
-         pn$francisco antunes/id=b1598-5-per2
+            pn$francisco antunes/id=b1598-5-per2
 
-         mn$domingas fernandes/id=b1598-5-per3
+            mn$domingas fernandes/id=b1598-5-per3
 
-         pad1$cristovao luis/id=b1598-5-per4
-            ls$profissao/padre
+            pad1$cristovao luis/id=b1598-5-per4
+               ls$profissao/padre
 
-         mad1$luisa antunes/id=b1598-5-per5
+            mad1$luisa antunes/id=b1598-5-per5
 
-         mrmad1$luis vaz/id=b1598-5-per6
-            ls$profissao/ferrador
+               mrmad1$luis vaz/id=b1598-5-per6
+                  ls$profissao/ferrador
 
       bap$b1598-6/2/2/1598/fl.35v./igreja de santa maria/joao gomes (beneficiado da igreja de santa maria)/obs=assina cristovao luis
 
          n$ana/f/id=b1598-6-per1
 
-         pn$simao dias/id=b1598-6-per2
-            ls$freguesia/santa maria
+            pn$simao dias/id=b1598-6-per2
+               ls$freguesia/santa maria
 
-         mn$maria silvestre/id=b1598-6-per3
-            ls$freguesia/santa maria
+            mn$maria silvestre/id=b1598-6-per3
+               ls$freguesia/santa maria
 
-         pad1$jorge de lima mascarenhas/id=b1598-6-per4
-            ls$cargo/prior da igreja de santa maria
-            ls$freguesia/santa maria
+            pad1$jorge de lima mascarenhas/id=b1598-6-per4
+               ls$cargo/prior da igreja de santa maria
+               ls$freguesia/santa maria
 
-         mad1$maria antunes/id=b1598-6-per5
-            ls$freguesia/santa maria
+            mad1$maria antunes/id=b1598-6-per5
+               ls$freguesia/santa maria
 
       bap$b1598-7/1/3/1598/fl.35v./igreja de santa maria/joao gomes (beneficiado)/obs=assina cristovao luis
 
          n$maria/f/id=b1598-7-per1
 
-         pn$nicolau ribeiro/id=b1598-7-per2
+            pn$nicolau ribeiro/id=b1598-7-per2
 
-         mn$catarina fernandes%c.na frz/id=b1598-7-per3
+            mn$catarina fernandes%c.na frz/id=b1598-7-per3
 
-         pad1$joao gomes/id=b1598-7-per4
-            ls$profissao/padre
+            pad1$joao gomes/id=b1598-7-per4
+               ls$profissao/padre
 
-         pad2$cristovao luis%xpao luis/id=b1598-7-per5
-            ls$cargo/cura da igreja de santa maria
+            pad2$cristovao luis%xpao luis/id=b1598-7-per5
+               ls$cargo/cura da igreja de santa maria
 
-         mad1$maria francisca/id=b1598-7-per6
-            ls$freguesia/sao pedro
+            mad1$maria francisca/id=b1598-7-per6
+               ls$freguesia/sao pedro
 
       bap$b1598-8/8/3/1598/fl.35v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis. cristovao luis fez os "exosismos" aos dois irmaos. forao baptizados em casa por estarem muito fracos
 
          n$pedro/m/id=b1598-8-n
             ls$ilegitimo/sim
 
-         pn$nome desconhecido/id=b1598-8-per1
+            pn$nome desconhecido/id=b1598-8-per1
 
-         mn$isabel/id=b1598-8-per2
-            ls$ec/s
+            mn$isabel/id=b1598-8-per2
+               ls$ec/s
 
-         pad1$joao fernandes/id=b1598-8-per3
+            pad1$joao fernandes/id=b1598-8-per3
 
-         mad1$filomena da silva/id=b1598-8-per4
+            mad1$filomena da silva/id=b1598-8-per4
 
       bap$b1598-9/29/1/1598/fl.35v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
@@ -790,420 +790,420 @@ kleio$gacto.str/prefix=stmaria
             ls$ilegitimo/sim
             rel$parentesco/irmao gemeo/pedro/b1598-8-n
 
-         pn$nome desconhecido/id=b1598-9-per2
+            pn$nome desconhecido/id=b1598-9-per2
 
-         mn$isabel/id=b1598-9-per3
-            ls$ec/s
+            mn$isabel/id=b1598-9-per3
+               ls$ec/s
 
-         pad1$francisco/id=b1598-9-per4
+            pad1$francisco/id=b1598-9-per4
 
-         ppad1$manuel de lemos/id=b1598-9-per5
+               ppad1$manuel de lemos/id=b1598-9-per5
 
-         mad1$maria/id=b1598-9-per6
+            mad1$maria/id=b1598-9-per6
 
-         mmad1$maria lopes/id=b1598-9-per7
+               mmad1$maria lopes/id=b1598-9-per7
 
       bap$b1598-10/28/3/1598/fl.35v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$nome desconhecido/f/id=b1598-10-per1
 
-         pn$manuel fernandes/id=b1598-10-per2
-            ls$residencia/obidos
+            pn$manuel fernandes/id=b1598-10-per2
+               ls$residencia/obidos
 
-         mn$ana gomes/id=b1598-10-per3
-            ls$residencia/obidos
+            mn$ana gomes/id=b1598-10-per3
+               ls$residencia/obidos
 
-         pad1$francisco correia manuel/id=b1598-10-per4
-            ls$residencia/obidos
+            pad1$francisco correia manuel/id=b1598-10-per4
+               ls$residencia/obidos
 
-         mad1$antonia de carvalhosa/id=b1598-10-per5
-            ls$residencia/obidos
+            mad1$antonia de carvalhosa/id=b1598-10-per5
+               ls$residencia/obidos
 
-         mrmad1$francisco da horta/id=b1598-10-per6
-            ls$residencia/obidos
+               mrmad1$francisco da horta/id=b1598-10-per6
+                  ls$residencia/obidos
 
       bap$b1598-11/5/4/1598/fl.36/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$francisco/m/id=b1598-11-per1
 
-         pn$manuel figueira/id=b1598-11-per2
-            ls$freguesia/santa maria
+            pn$manuel figueira/id=b1598-11-per2
+               ls$freguesia/santa maria
 
-         mn$maria rodrigues/id=b1598-11-per3
-            ls$freguesia/santa maria
+            mn$maria rodrigues/id=b1598-11-per3
+               ls$freguesia/santa maria
 
-         pad1$antonio vaz/id=b1598-11-per4
-            ls$cargo/beneficiado da igreja de santa maria
-            ls$freguesia/santa maria
+            pad1$antonio vaz/id=b1598-11-per4
+               ls$cargo/beneficiado da igreja de santa maria
+               ls$freguesia/santa maria
 
-         mad1$catarina/id=b1598-11-per5
-            ls$titulo/dona
-            ls$freguesia/santa maria
+            mad1$catarina/id=b1598-11-per5
+               ls$titulo/dona
+               ls$freguesia/santa maria
 
-         mrmad1$rodrigo de sequeira%r.o sequeira/id=b1598-11-per6
-            ls$freguesia/santa maria
+               mrmad1$rodrigo de sequeira%r.o sequeira/id=b1598-11-per6
+                  ls$freguesia/santa maria
 
       bap$b1598-12/11/5/1598/fl.36/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$maria/f/id=b1598-12-per1
 
-         pn$alvaro goncalves/id=b1598-12-per2
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
+            pn$alvaro goncalves/id=b1598-12-per2
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
 
-         mn$maria alvares/id=b1598-12-per3
-            ls$residencia/gaeiras
-            ls$freguesia/santa maria
+            mn$maria alvares/id=b1598-12-per3
+               ls$residencia/gaeiras
+               ls$freguesia/santa maria
 
-         pad1$simao dias/id=b1598-12-per4
-            ls$residencia/arrabalde
-            ls$freguesia/santa maria
+            pad1$simao dias/id=b1598-12-per4
+               ls$residencia/arrabalde
+               ls$freguesia/santa maria
 
-         mad1$gregoria fernandes/id=b1598-12-per5
-            ls$residencia/moinho de ?
-            ls$freguesia/santa maria
+            mad1$gregoria fernandes/id=b1598-12-per5
+               ls$residencia/moinho de ?
+               ls$freguesia/santa maria
 
       bap$b1598-13/31/5/1598/fl.36/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$antonio/m/id=b1598-13-per1
 
-         pn$antonio dias/id=b1598-13-per2
-            ls$freguesia/santa maria
+            pn$antonio dias/id=b1598-13-per2
+               ls$freguesia/santa maria
 
-         mn$isabel fernandes/id=b1598-13-per3
-            ls$freguesia/santa maria
+            mn$isabel fernandes/id=b1598-13-per3
+               ls$freguesia/santa maria
 
-         pad1$tome de matos/id=b1598-13-per4
-            ls$profissao/padre
-            ls$freguesia/santa maria
+            pad1$tome de matos/id=b1598-13-per4
+               ls$profissao/padre
+               ls$freguesia/santa maria
 
-         mad1$agueda fernandes/id=b1598-13-per5
-            ls$ec/s
-            ls$freguesia/santa maria
+            mad1$agueda fernandes/id=b1598-13-per5
+               ls$ec/s
+               ls$freguesia/santa maria
 
       bap$b1598-14/31/5/1598/fl.36/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$maria/f/id=b1598-14-per1
 
-         pn$domingos joao/id=b1598-14-per2
-            ls$residencia/arrabalde
-            ls$freguesia/santa maria
+            pn$domingos joao/id=b1598-14-per2
+               ls$residencia/arrabalde
+               ls$freguesia/santa maria
 
-         mn$nome desconhecido/id=b1598-14-per3
-            ls$residencia/arrabalde
-            ls$freguesia/santa maria
+            mn$nome desconhecido/id=b1598-14-per3
+               ls$residencia/arrabalde
+               ls$freguesia/santa maria
 
-         pad1$antonio dias/id=b1598-14-per4
-            ls$residencia/arrabalde
-            ls$freguesia/santa maria
+            pad1$antonio dias/id=b1598-14-per4
+               ls$residencia/arrabalde
+               ls$freguesia/santa maria
 
-         mad1$maria antunes/id=b1598-14-per5
-            ls$residencia/arrabalde
-            ls$freguesia/santa maria
+            mad1$maria antunes/id=b1598-14-per5
+               ls$residencia/arrabalde
+               ls$freguesia/santa maria
 
       bap$b1598-15/19/6/1598/fl.36/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$domingas/f/id=b1598-15-per1
 
-         pn$domingos goncalves/id=b1598-15-per2
+            pn$domingos goncalves/id=b1598-15-per2
 
-         mn$ana ribeiro/id=b1598-15-per3
+            mn$ana ribeiro/id=b1598-15-per3
 
-         pad1$antonio duarte/id=b1598-15-per4
+            pad1$antonio duarte/id=b1598-15-per4
 
-         mad1$isabel rodrigues/id=b1598-15-per5
+            mad1$isabel rodrigues/id=b1598-15-per5
 
       bap$b1598-16/17/6/1598/fl.36/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$ana/f/id=b1598-16-per1
 
-         pn$alvaro dias/id=b1598-16-per2
-            ls$freguesia/santa maria
+            pn$alvaro dias/id=b1598-16-per2
+               ls$freguesia/santa maria
 
-         mn$domingas francisca/id=b1598-16-per3
-            ls$freguesia/santa maria
+            mn$domingas francisca/id=b1598-16-per3
+               ls$freguesia/santa maria
 
-         pad1$tome de matos/id=b1598-16-per4
-            ls$cargo/economo da igreja de santa maria
-            ls$freguesia/santa maria
+            pad1$tome de matos/id=b1598-16-per4
+               ls$cargo/economo da igreja de santa maria
+               ls$freguesia/santa maria
 
-         mad1$ana francisca/id=b1598-16-per5
-            ls$freguesia/sao pedro
+            mad1$ana francisca/id=b1598-16-per5
+               ls$freguesia/sao pedro
 
       bap$b1598-17/2/7/1598/fl.36/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$joao/m/id=b1598-17-per1
 
-         pn$antonio dias/id=b1598-17-per2
-            ls$residencia/obidos
+            pn$antonio dias/id=b1598-17-per2
+               ls$residencia/obidos
 
-         mn$francisca rodrigues%fr.ca ruiz/id=b1598-17-per3
-            ls$residencia/obidos
+            mn$francisca rodrigues%fr.ca ruiz/id=b1598-17-per3
+               ls$residencia/obidos
 
-         pad1$simao dias/id=b1598-17-per4
-            ls$residencia/obidos
-            ls$cargo/dizimeiro
+            pad1$simao dias/id=b1598-17-per4
+               ls$residencia/obidos
+               ls$cargo/dizimeiro
 
-         mad1$antonia de carvalhosa/id=b1598-17-per5
-            ls$residencia/obidos
+            mad1$antonia de carvalhosa/id=b1598-17-per5
+               ls$residencia/obidos
 
       bap$b1598-18/6/8/1598/fl.36v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$marta/f/id=b1598-18-per1
 
-         pn$francisco dornelas/id=b1598-18-per2
+            pn$francisco dornelas/id=b1598-18-per2
 
-         mn$isabel lopes/id=b1598-18-per3
+            mn$isabel lopes/id=b1598-18-per3
 
-         pad1$manuel de escovar/id=b1598-18-per4
+            pad1$manuel de escovar/id=b1598-18-per4
 
-         mad1$andreia correia/id=b1598-18-per5
+            mad1$andreia correia/id=b1598-18-per5
 
       bap$b1598-19/7/8/1598/fl.36v./igreja de santa maria/jorge de lima mascarenhas (prior da igreja de santa maria)/obs=assina cristovao luis
 
          n$maria/f/id=b1598-19-per1
 
-         pn$gabriel fernandes/id=b1598-19-per2
+            pn$gabriel fernandes/id=b1598-19-per2
 
-         mn$domingas rodrigues/id=b1598-19-per3
+            mn$domingas rodrigues/id=b1598-19-per3
 
-         pad1$manuel leitao sanhudo/id=b1598-19-per4
+            pad1$manuel leitao sanhudo/id=b1598-19-per4
 
-         mad1$catarina pacheco/id=b1598-19-per5
-            ls$titulo/dona
+            mad1$catarina pacheco/id=b1598-19-per5
+               ls$titulo/dona
 
-         mrmad1$rodrigo de sequeira%r.o sequeira/id=b1598-19-per6
+               mrmad1$rodrigo de sequeira%r.o sequeira/id=b1598-19-per6
 
       bap$b1598-20/12/9/1598/fl.36v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$manuel/m/id=b1598-20-per1
 
-         pn$francisco correia manuel/id=b1598-20-pn
-            ls$freguesia/santa maria
+            pn$francisco correia manuel/id=b1598-20-pn
+               ls$freguesia/santa maria
 
-         mn$maria/id=b1598-20-per2
-            ls$titulo/dona
-            ls$freguesia/santa maria
+            mn$maria/id=b1598-20-per2
+               ls$titulo/dona
+               ls$freguesia/santa maria
 
-         pad1$cristovao preto%xpao preto/id=b1598-20-per3
-            ls$freguesia/santa maria
+            pad1$cristovao preto%xpao preto/id=b1598-20-per3
+               ls$freguesia/santa maria
 
-         mad1$isabel de oliveira/id=b1598-20-per4
-            ls$freguesia/santa maria
-            rel$parentesco/mae/francisco correia manuel/b1598-20-pn
+            mad1$isabel de oliveira/id=b1598-20-per4
+               ls$freguesia/santa maria
+               rel$parentesco/mae/francisco correia manuel/b1598-20-pn
 
       bap$b1598-21/17/9/1598/fl.36v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$francisco/m/id=b1598-21-per1
 
-         pn$antonio figueira lobo/mesmo_que=b1597-9-pn/id=b1598-21-per2
-            ls$residencia/gaeiras
-            ls$residencia/obidos
+            pn$antonio figueira lobo/mesmo_que=b1597-9-pn/id=b1598-21-per2
+               ls$residencia/gaeiras
+               ls$residencia/obidos
 
-         mn$leucadia de freitas/id=b1598-21-per3
-            ls$residencia/gaeiras
-            ls$residencia/obidos
+            mn$leucadia de freitas/id=b1598-21-per3
+               ls$residencia/gaeiras
+               ls$residencia/obidos
 
-         pad1$vasco fortes/id=b1598-21-per4
-            ls$freguesia/santa maria
+            pad1$vasco fortes/id=b1598-21-per4
+               ls$freguesia/santa maria
 
-         mad1$branca pereira/id=b1598-21-per5
-            ls$residencia/obidos
+            mad1$branca pereira/id=b1598-21-per5
+               ls$residencia/obidos
 
-         mrmad1$luis de freitas/id=b1598-21-per6
-            ls$residencia/obidos
+               mrmad1$luis de freitas/id=b1598-21-per6
+                  ls$residencia/obidos
 
       bap$b1598-22/17/9/1598/fl.36v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$francisco/m/id=b1598-22-per1
 
-         pn$francisco delgado/id=b1598-22-per2
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            pn$francisco delgado/id=b1598-22-per2
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         mn$maria francisca/id=b1598-22-per3
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            mn$maria francisca/id=b1598-22-per3
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         pad1$jorge de lima mascarenhas/id=b1598-22-per4
-            ls$cargo/prior da igreja de santa maria
-            ls$freguesia/santa maria
+            pad1$jorge de lima mascarenhas/id=b1598-22-per4
+               ls$cargo/prior da igreja de santa maria
+               ls$freguesia/santa maria
 
-         mad1$catarina pacheco%c.na pachequa/id=b1598-22-per5
-            ls$freguesia/santa maria
+            mad1$catarina pacheco%c.na pachequa/id=b1598-22-per5
+               ls$freguesia/santa maria
 
-         mrmad1$rodrigo de sequeira%r.o sequeira/id=b1598-22-per6
-            ls$freguesia/santa maria
+               mrmad1$rodrigo de sequeira%r.o sequeira/id=b1598-22-per6
+                  ls$freguesia/santa maria
 
       bap$b1598-23/24/9/1598/fl.37/igreja de santa maria/antonio tristao (padre economo da igreja de sao pedro)/obs=assina cristovao luis
 
          n$isabel/f/id=b1598-23-per1
 
-         pn$domingos pires/id=b1598-23-per2
-            ls$freguesia/santa maria
+            pn$domingos pires/id=b1598-23-per2
+               ls$freguesia/santa maria
 
-         mn$catarina henriques%c.na anriques/id=b1598-23-per3
-            ls$freguesia/santa maria
+            mn$catarina henriques%c.na anriques/id=b1598-23-per3
+               ls$freguesia/santa maria
 
-         pad1$simao dias/id=b1598-23-per4
-            ls$cargo/dizimeiro
-            ls$freguesia/santa maria
+            pad1$simao dias/id=b1598-23-per4
+               ls$cargo/dizimeiro
+               ls$freguesia/santa maria
 
-         mad1$isabel tristao/id=b1598-23-per5
-            ls$freguesia/santa maria
-            rel$parentesco/irma/antonio tristao/b1598-23-antonio
+            mad1$isabel tristao/id=b1598-23-per5
+               ls$freguesia/santa maria
+               rel$parentesco/irma/antonio tristao/b1598-23-antonio
 
-         referido$antonio tristao/id=b1598-23-antonio
+            referido$antonio tristao/id=b1598-23-antonio
 
       bap$b1598-24/18/12/1598/fl.37/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$estevao/m/id=b1598-24-per1
 
-         pn$estevao carvalho/id=b1598-24-per2
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            pn$estevao carvalho/id=b1598-24-per2
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         mn$maria joao/id=b1598-24-per3
-            ls$residencia/a da gorda
-            ls$freguesia/santa maria
+            mn$maria joao/id=b1598-24-per3
+               ls$residencia/a da gorda
+               ls$freguesia/santa maria
 
-         pad1$miguel leitao/id=b1598-24-per4
-            ls$residencia/sobral
-            ls$freguesia/santa maria
+            pad1$miguel leitao/id=b1598-24-per4
+               ls$residencia/sobral
+               ls$freguesia/santa maria
 
-         mad1$maria alves%m.a altz/id=b1598-24-per5
-            ls$residencia/granja
+            mad1$maria alves%m.a altz/id=b1598-24-per5
+               ls$residencia/granja
 
-         mrmad1$francisco dias/id=b1598-24-per6
-            ls$residencia/granja
+               mrmad1$francisco dias/id=b1598-24-per6
+                  ls$residencia/granja
 
       bap$b1598-25/27/12/1598/fl.37/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$domingos/m/id=b1598-25-per1
 
-         pn$antonio fernandes/id=b1598-25-per2
-            ls$residencia/casal do lagar da ribeira
+            pn$antonio fernandes/id=b1598-25-per2
+               ls$residencia/casal do lagar da ribeira
 
-         mn$maria dias/id=b1598-25-per3
-            ls$residencia/casal do lagar da ribeira
+            mn$maria dias/id=b1598-25-per3
+               ls$residencia/casal do lagar da ribeira
 
-         pad1$antonio dias/id=b1598-25-per4
+            pad1$antonio dias/id=b1598-25-per4
 
-         mad1$catarina leal/id=b1598-25-per5
+            mad1$catarina leal/id=b1598-25-per5
 
       bap$b1598-26/28/12/1598/fl.37/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luisforam postos os santos oleos porque a crianca ja tinha sido baptizada em casa por antoniodias tesoureiro em sao pedro pois a crianca estava muito fracaassina cristovao luisforam postos os santos oleos porque a crianca ja tinha sido baptizada em casa por s tesoureiro em sao pedro pois a crianca estava muito fracaassina cristovao luisforam postos os santos oleos porque a crianca ja tinha sido baptizada em casa por antoniodias tesoureiro em sao pedro pois a crianca estava muito fracaassina cristovao luisforam postos os santos oleos porque a crianca ja tinha sido baptizada em casa por antoniodias tesoureiro em sao pedro pois a crianca estava muito fracaassina cristovao luisforam postos os santos oleos porque a crianca ja tinha sido baptizada em casa por antoniodias tesoureiro em sao pedro pois a crianca estava muito fraca
 
          n$antonio/m/id=b1598-26-per1
 
-         pn$antonio jorge/id=b1598-26-per2
+            pn$antonio jorge/id=b1598-26-per2
 
-         mn$maria antunes/id=b1598-26-per3
+            mn$maria antunes/id=b1598-26-per3
 
       bap$b1599-1/6/1/1599/fl.37v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$silvestre/m/id=b1599-1-per1
 
-         pn$simao fernandes/id=b1599-1-per2
-            ls$residencia/arrabalde
+            pn$simao fernandes/id=b1599-1-per2
+               ls$residencia/arrabalde
 
-         mn$beatriz lopes/id=b1599-1-per3
-            ls$residencia/arrabalde
+            mn$beatriz lopes/id=b1599-1-per3
+               ls$residencia/arrabalde
 
-         pad1$tome de matos/id=b1599-1-per4
-            ls$profissao/padre
+            pad1$tome de matos/id=b1599-1-per4
+               ls$profissao/padre
 
-         mad1$antonia fernandes/id=b1599-1-per5
-            ls$residencia/sobral
-            ls$freguesia/sao joao
+            mad1$antonia fernandes/id=b1599-1-per5
+               ls$residencia/sobral
+               ls$freguesia/sao joao
 
       bap$b1599-2/9/1/1599/fl.37v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$gaspar/m/id=b1599-2-per1
 
-         pn$gaspar de seixas/id=b1599-2-per2
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            pn$gaspar de seixas/id=b1599-2-per2
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         mn$maria de oliveira/id=b1599-2-per3
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            mn$maria de oliveira/id=b1599-2-per3
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         pad1$gaspar pereira/id=b1599-2-per4
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            pad1$gaspar pereira/id=b1599-2-per4
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
-         mad1$isabel de oliveira/id=b1599-2-per5
-            ls$residencia/obidos
-            ls$freguesia/santa maria
+            mad1$isabel de oliveira/id=b1599-2-per5
+               ls$residencia/obidos
+               ls$freguesia/santa maria
 
       bap$b1599-3/20/1/1599/fl.37v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$maria/f/id=b1599-3-per1
 
-         pn$vasco fortes/id=b1599-3-per2
-            ls$freguesia/santa maria
+            pn$vasco fortes/id=b1599-3-per2
+               ls$freguesia/santa maria
 
-         mn$isabel ferreira/id=b1599-3-per3
-            ls$freguesia/santa maria
+            mn$isabel ferreira/id=b1599-3-per3
+               ls$freguesia/santa maria
 
-         pad1$antonio figueira/id=b1599-3-per4
-            ls$freguesia/santa maria
+            pad1$antonio figueira/id=b1599-3-per4
+               ls$freguesia/santa maria
 
-         mad1$maria de oliveira/id=b1599-3-per5
-            ls$freguesia/sao pedro
+            mad1$maria de oliveira/id=b1599-3-per5
+               ls$freguesia/sao pedro
 
-         mrmad1$dionisio fortes/id=b1599-3-per6
-            ls$freguesia/sao pedro
+               mrmad1$dionisio fortes/id=b1599-3-per6
+                  ls$freguesia/sao pedro
 
       bap$b1599-4/20/2/1599/fl.37v./igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"/obs=assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"assina cristovao luis"baptizei a hum menino por nome vicente ho qual foi deitado a sam vicente e esteve tres mezes sem ser baptizado e lhe saio pai e mai"
 
          n$vicente/m/id=b1599-4-per1
 
-         pn$nome desconhecido/id=b1599-4-per2
+            pn$nome desconhecido/id=b1599-4-per2
 
-         mn$nome desconhecido/id=b1599-4-per3
+            mn$nome desconhecido/id=b1599-4-per3
 
-         pad1$fernao alvares/id=b1599-4-per4
+            pad1$fernao alvares/id=b1599-4-per4
 
-         mad1$francisca dos ramos/id=b1599-4-per5
+            mad1$francisca dos ramos/id=b1599-4-per5
 
-         mrmad1$francisco jorge/id=b1599-4-per6
+               mrmad1$francisco jorge/id=b1599-4-per6
 
       bap$b1599-5/21/3/1599/fl.38/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$pedro%p.o/m/id=b1599-5-per1
 
-         pn$luis martins/id=b1599-5-per2
-            ls$freguesia/santa maria
+            pn$luis martins/id=b1599-5-per2
+               ls$freguesia/santa maria
 
-         mn$catarina fernandes/id=b1599-5-per3
-            ls$freguesia/santa maria
+            mn$catarina fernandes/id=b1599-5-per3
+               ls$freguesia/santa maria
 
-         pad1$tome de matos/id=b1599-5-per4
-            ls$profissao/padre
-            ls$freguesia/santa maria
+            pad1$tome de matos/id=b1599-5-per4
+               ls$profissao/padre
+               ls$freguesia/santa maria
 
-         mad1$beatriz/id=b1599-5-per5
-            ls$freguesia/santa maria
+            mad1$beatriz/id=b1599-5-per5
+               ls$freguesia/santa maria
 
-         mmad1$maria alves%m.a alz/id=b1599-5-per6
+               mmad1$maria alves%m.a alz/id=b1599-5-per6
 
       bap$b1599-6/28/3/1599/fl.38/igreja de santa maria/cristovao luis (cura)/obs=assina cristovao luis
 
          n$ana/f/id=b1599-6-per1
 
-         pn$lourenco vicente/id=b1599-6-per2
-            ls$freguesia/santa maria
+            pn$lourenco vicente/id=b1599-6-per2
+               ls$freguesia/santa maria
 
-         mn$joana luis/id=b1599-6-per3
-            ls$freguesia/santa maria
+            mn$joana luis/id=b1599-6-per3
+               ls$freguesia/santa maria
 
-         pad1$tome de matos/id=b1599-6-per4
-            ls$profissao/padre
-            ls$freguesia/santa maria
+            pad1$tome de matos/id=b1599-6-per4
+               ls$profissao/padre
+               ls$freguesia/santa maria
 
-         mad1$maria ?/id=b1599-6-per5
-            ls$freguesia/santa maria
+            mad1$maria ?/id=b1599-6-per5
+               ls$freguesia/santa maria
 
-         mrmad1$manuel figueira/id=b1599-6-per6
-            ls$freguesia/santa maria
+               mrmad1$manuel figueira/id=b1599-6-per6
+                  ls$freguesia/santa maria
